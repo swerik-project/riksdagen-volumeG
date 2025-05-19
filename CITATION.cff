@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: To cite this reposository, please use these metadata.
+title: "The Swedish Parliament Corpus: Riksdagen Volume G"
+version: v0.0.0
+authors:
+  - family-names: Borges
+    given-names: Robert
+    orcid: "https://orcid.org/0000-0002-7647-4048"
+    alias: BobBorges
+date-released: 2025-05-19
+identifiers:
+  - description: Repository basename
+    type: other
+    value: riksdagen-volumeG
+repository-code: "https://github.com/swerik-project/riksdagen-volumeG"
+url: "https://github.com/swerik-project/the-swedish-parliament-corpus"
