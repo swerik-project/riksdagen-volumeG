@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="reg_199596_KrU">
   <teiHeader>
     <fileDesc>
       <titleStmt/>
@@ -22,99 +22,611 @@
       <pb facs="riksdagen-volumeG-pdf/data/199596/reg_199596_KrU/reg_199596_KrU-000.pdf"/>
       <div type="gBody">
         <div>
-          <p>Kulturutskottets register vid riksmötet 1995/96</p>
-          <p>Betänkanden</p>
-          <p>Nr KrU1l Museifrågor Utskottets justering Debatt i kammaren Protokollsnhummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer</p>
-          <p>Nr KrU2 Bibelfråga Utskottets justering Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till utskottets hemställan Protokollshummer</p>
-          <p>Nr KrU3 Tornedalsfrågor Utskottets justering Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnhummer</p>
-          <p>Nr KrU4 Pliktexemplarslagen, m.m. (prop. 1995/96:71) Utskottets justering Riksdagens beslut: Bifall till utskottets hemställan Protokollsnhummer Riksdagsskrivelse</p>
-          <p>I Riksdagen 1995/96 13 saml. Register</p>
-          <p>1995-10-19 1995-11-08 1995/96:19 1995-11-08 1995/96:19</p>
-          <p>1995-10-19 1995-11-08 1995/96:19 1995-11-08 1995/96:19</p>
-          <p>1995-10-19 1995-11-15 1995/96:23 1995-11-15 1995/96:23</p>
-          <p>1995-11-23 1995-12-07 1995/96:33 1995/96:60</p>
+          <p>
+            Kulturutskottets register vid riksmötet 1995/96
+          </p>
+          <p>
+            Betänkanden
+          </p>
+          <p>
+            Nr KrU1l Museifrågor Utskottets justering Debatt i kammaren Protokollsnhummer
+            Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer
+          </p>
+          <p>
+            Nr KrU2 Bibelfråga Utskottets justering Debatt i kammaren Protokollsnummer
+            Riksdagens beslut: Bifall till utskottets hemställan Protokollshummer
+          </p>
+          <p>
+            Nr KrU3 Tornedalsfrågor Utskottets justering Debatt i kammaren
+            Protokollsnummer Riksdagens beslut: Bifall till utskottets hemställan
+            Protokollsnhummer
+          </p>
+          <p>
+            Nr KrU4 Pliktexemplarslagen, m.m. (prop. 1995/96:71) Utskottets
+            justering Riksdagens beslut: Bifall till utskottets hemställan
+            Protokollsnhummer Riksdagsskrivelse
+          </p>
+          <p>
+            I Riksdagen 1995/96 13 saml. Register
+          </p>
+          <p>
+            1995-10-19 1995-11-08 1995/96:19 1995-11-08 1995/96:19
+          </p>
+          <p>
+            1995-10-19 1995-11-08 1995/96:19 1995-11-08 1995/96:19
+          </p>
+          <p>
+            1995-10-19 1995-11-15 1995/96:23 1995-11-15 1995/96:23
+          </p>
+          <p>
+            1995-11-23 1995-12-07 1995/96:33 1995/96:60
+          </p>
           <pb facs="riksdagen-volumeG-pdf/data/199596/reg_199596_KrU/reg_199596_KrU-001.pdf"/>
-          <p>Nr KrUS Arkeologiska frågor Utskottets justering Debatt i kammaren Protokollsnhummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer</p>
-          <p>Nr KrU6</p>
-          <p>1995-10-19 1995-11-15 1995/96:23 1995-11-15 1995/96:23</p>
-          <p>Finansiering av en världskongress år 1996 om kommersiell sexuell</p>
-          <p>exploatering av barn (prop. 1995/96:111) Utskottets justering Riksdagens beslut: Bifall till utskottets hemställan Protokollsnhummer Riksdagsskrivelse</p>
-          <p>Nr KrU7 Språkvård Utskottets justering Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnhummer</p>
-          <p>Nr KrU8 Kulturmiljöfrågor Utskottets justering Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till utskottets hemställan Protokollshummer</p>
-          <p>Nr KrU9 Forskningsinformation m.m. Utskottets justering Riksdagens beslut: Bifall till utskottets hemställan Protokollsnhummer</p>
-          <p>Nr KrU10 Vissa internationella ungdomsfrågor (prop. 1995/96:144) Utskottets justering Riksdagens beslut: Bifall till utskottets hemställan Protokollshummer Riksdagsskrivelse</p>
-          <p>1995-11-23 1995-12-07 1995/96:33 1995/96:74</p>
-          <p>1996-01-30 1996-02-14 1995/96:55 1996-02-21 1995/96:59</p>
-          <p>1996-01-30 1996-02-14 1995/96:55 1996-02-21 1995/96:59</p>
-          <p>1996-01-30 1996-02-21 1995/96:59</p>
-          <p>1996-03-28 1996-04-17 1995/96:81 1995/96:216</p>
-          <p>1995/96:KrUReg.</p>
+          <p>
+            Nr KrUS Arkeologiska frågor Utskottets justering Debatt i kammaren
+            Protokollsnhummer Riksdagens beslut: Bifall till utskottets hemställan
+            Protokollsnummer
+          </p>
+          <p>
+            Nr KrU6
+          </p>
+          <p>
+            1995-10-19 1995-11-15 1995/96:23 1995-11-15 1995/96:23
+          </p>
+          <p>
+            Finansiering av en världskongress år 1996 om kommersiell sexuell
+          </p>
+          <p>
+            exploatering av barn (prop. 1995/96:111) Utskottets justering
+            Riksdagens beslut: Bifall till utskottets hemställan Protokollsnhummer
+            Riksdagsskrivelse
+          </p>
+          <p>
+            Nr KrU7 Språkvård Utskottets justering Debatt i kammaren Protokollsnummer
+            Riksdagens beslut: Bifall till utskottets hemställan Protokollsnhummer
+          </p>
+          <p>
+            Nr KrU8 Kulturmiljöfrågor Utskottets justering Debatt i kammaren
+            Protokollsnummer Riksdagens beslut: Bifall till utskottets hemställan
+            Protokollshummer
+          </p>
+          <p>
+            Nr KrU9 Forskningsinformation m.m. Utskottets justering Riksdagens
+            beslut: Bifall till utskottets hemställan Protokollsnhummer
+          </p>
+          <p>
+            Nr KrU10 Vissa internationella ungdomsfrågor (prop. 1995/96:144)
+            Utskottets justering Riksdagens beslut: Bifall till utskottets
+            hemställan Protokollshummer Riksdagsskrivelse
+          </p>
+          <p>
+            1995-11-23 1995-12-07 1995/96:33 1995/96:74
+          </p>
+          <p>
+            1996-01-30 1996-02-14 1995/96:55 1996-02-21 1995/96:59
+          </p>
+          <p>
+            1996-01-30 1996-02-14 1995/96:55 1996-02-21 1995/96:59
+          </p>
+          <p>
+            1996-01-30 1996-02-21 1995/96:59
+          </p>
+          <p>
+            1996-03-28 1996-04-17 1995/96:81 1995/96:216
+          </p>
+          <p>
+            1995/96:KrUReg.
+          </p>
           <pb facs="riksdagen-volumeG-pdf/data/199596/reg_199596_KrU/reg_199596_KrU-002.pdf"/>
-          <p>Nr KrUll Jämställd idrott, m.m.</p>
-          <p>Utskottets justering 1996-03-12 Debatt i kammaren 1996-03-27 Protokollsnummer 1995/96:76 Riksdagens beslut: Bifall till utskottets hemställan 1996-03-27 Protokollsnummer 1995/96:76 Nr KrU12</p>
-          <p>En radio och TV i allmänhetens tjänst 1997-2001 (prop. 1995/96:161)</p>
-          <p>Utskottets justering 1996-05-21 Debatt i kammaren 1996-06-10 Protokollsnummer 1995/96:108 Riksdagens beslut: Bifall till utskottets hemställan 1996-06-11 Protokollsnummer 1995/96:109 Riksdagsskrivelse 1995/96:297 Nr KrU13</p>
-          <p>Tilläggsbudget inom Kulturdepartementets område (prop. 1995/96:105)</p>
-          <p>Utskottets justering 1996-03-12 Riksdagens beslut: Bifall till utskottets hemställan 1996-03-29 Protokollshummer 1995/96:78 Riksdagsskrivelse 1995/96:204</p>
-          <p>Se även Nr KrU9y till FiU</p>
-          <p>Nr KrUl4</p>
-          <p>Under detta nummer finns inte något betänkande</p>
-          <p>Nr KrU15 Statlig garanti för anordnande av olympiska sommarspel i Sverige år 2004 (prop. 1995/96:189)</p>
-          <p>Utskottets justering 1996-05-14 Debatt i kammaren 1996-05-29 Protokollshummer 1995/96:101 Riksdagens beslut: Bifall till utskottets hemställan 1996-05-30 Protokollsnummer 1995/96:102 Riksdagsskrivelse 1995/96:273 Yttranden Nr KrUly till LU</p>
-          <p>Former för verksamhet som är beroende av statligt stöd, m.m. (prop. 1995/96:61) Utskottets justering 1995-11-14 LU7</p>
-          <p>1 Riksdagen 1995/96 13 saml. Register</p>
-          <p>1995/96:KrUReg.</p>
+          <p>
+            Nr KrUll Jämställd idrott, m.m.
+          </p>
+          <p>
+            Utskottets justering 1996-03-12 Debatt i kammaren 1996-03-27
+            Protokollsnummer 1995/96:76 Riksdagens beslut: Bifall till utskottets
+            hemställan 1996-03-27 Protokollsnummer 1995/96:76 Nr KrU12
+          </p>
+          <p>
+            En radio och TV i allmänhetens tjänst 1997-2001 (prop. 1995/96:161)
+          </p>
+          <p>
+            Utskottets justering 1996-05-21 Debatt i kammaren 1996-06-10
+            Protokollsnummer 1995/96:108 Riksdagens beslut: Bifall till utskottets
+            hemställan 1996-06-11 Protokollsnummer 1995/96:109 Riksdagsskrivelse
+            1995/96:297 Nr KrU13
+          </p>
+          <p>
+            Tilläggsbudget inom Kulturdepartementets område (prop. 1995/96:105)
+          </p>
+          <p>
+            Utskottets justering 1996-03-12 Riksdagens beslut: Bifall till
+            utskottets hemställan 1996-03-29 Protokollshummer 1995/96:78 Riksdagsskrivelse
+            1995/96:204
+          </p>
+          <p>
+            Se även Nr KrU9y till FiU
+          </p>
+          <p>
+            Nr KrUl4
+          </p>
+          <p>
+            Under detta nummer finns inte något betänkande
+          </p>
+          <p>
+            Nr KrU15 Statlig garanti för anordnande av olympiska sommarspel
+            i Sverige år 2004 (prop. 1995/96:189)
+          </p>
+          <p>
+            Utskottets justering 1996-05-14 Debatt i kammaren 1996-05-29
+            Protokollshummer 1995/96:101 Riksdagens beslut: Bifall till utskottets
+            hemställan 1996-05-30 Protokollsnummer 1995/96:102 Riksdagsskrivelse
+            1995/96:273 Yttranden Nr KrUly till LU
+          </p>
+          <p>
+            Former för verksamhet som är beroende av statligt stöd, m.m.
+            (prop. 1995/96:61) Utskottets justering 1995-11-14 LU7
+          </p>
+          <p>
+            1 Riksdagen 1995/96 13 saml. Register
+          </p>
+          <p>
+            1995/96:KrUReg.
+          </p>
           <pb facs="riksdagen-volumeG-pdf/data/199596/reg_199596_KrU/reg_199596_KrU-003.pdf"/>
-          <p>Debatt i kammaren 1995-12-07</p>
-          <p>Protokollsnhummer 1995/96:41 Riksdagsskrivelse 1995/96:79 Nr KrU2y till FiU En politik för arbete, trygghet och utveckling (prop. 1995/96:25) Utskottets justering 1995-11-23 FiUl Debatt i kammaren 1995-12-19 Protokollsnhummer 1995/96:41 Riksdagsskrivelser 1995/96:131—-134 Nr KrU3y till NU Teknikutveckling inom turistsektorn (prop. 1995/96:94) Utskottets justering 1995-11-23 NU13 Debatt i kammaren 1995-12-19 Protokollsnummer 1995/96:41 Riksdagsskrivelse 1995/96:136 Nr KrU4y till UU EU:s regeringskonferens 1996 (skr. 1995/96:30) Utskottets justering 1996-02-15 UU13 Debatt i kammaren 1996-03-28 Protokollsnummer 1995/96:77,178 Nr KrUsSy till KU</p>
-          <p>Redogörelse för behandlingen av riksdagens skrivelser till regeringen (skr. 1995/96:15)</p>
-          <p>Utskottets justering 1996-03-05 KU30 Debatt i kammaren 1996-05-29 Protokollsnhummer 1995/96:101 Riksdagsskrivelser 1995/96:269, 270 KrU6y till KU EU-frågornas behandling i riksdagen Utskottets justering 1996-04-18 KU2</p>
-          <p>Ärendet ej slutbehandlat av KU under riksmötet 1995/96</p>
-          <p>Nr KrU7y till TU Åtgärder för att bredda och utveckla användningen av informationsteknik (prop. 1995/96:125)</p>
-          <p>Utskottets justering 1996-04-23 TU19 Debatt i kammaren 1996-06-04</p>
-          <p>Protokollshummer 1995/96:105</p>
-          <p>1995/96:KrUReg.</p>
+          <p>
+            Debatt i kammaren 1995-12-07
+          </p>
+          <p>
+            Protokollsnhummer 1995/96:41 Riksdagsskrivelse 1995/96:79 Nr
+            KrU2y till FiU En politik för arbete, trygghet och utveckling
+            (prop. 1995/96:25) Utskottets justering 1995-11-23 FiUl Debatt
+            i kammaren 1995-12-19 Protokollsnhummer 1995/96:41 Riksdagsskrivelser
+            1995/96:131—-134 Nr KrU3y till NU Teknikutveckling inom turistsektorn
+            (prop. 1995/96:94) Utskottets justering 1995-11-23 NU13 Debatt
+            i kammaren 1995-12-19 Protokollsnummer 1995/96:41 Riksdagsskrivelse
+            1995/96:136 Nr KrU4y till UU EU:s regeringskonferens 1996 (skr.
+            1995/96:30) Utskottets justering 1996-02-15 UU13 Debatt i kammaren
+            1996-03-28 Protokollsnummer 1995/96:77,178 Nr KrUsSy till KU
+          </p>
+          <p>
+            Redogörelse för behandlingen av riksdagens skrivelser till regeringen
+            (skr. 1995/96:15)
+          </p>
+          <p>
+            Utskottets justering 1996-03-05 KU30 Debatt i kammaren 1996-05-29
+            Protokollsnhummer 1995/96:101 Riksdagsskrivelser 1995/96:269,
+            270 KrU6y till KU EU-frågornas behandling i riksdagen Utskottets
+            justering 1996-04-18 KU2
+          </p>
+          <p>
+            Ärendet ej slutbehandlat av KU under riksmötet 1995/96
+          </p>
+          <p>
+            Nr KrU7y till TU Åtgärder för att bredda och utveckla användningen
+            av informationsteknik (prop. 1995/96:125)
+          </p>
+          <p>
+            Utskottets justering 1996-04-23 TU19 Debatt i kammaren 1996-06-04
+          </p>
+          <p>
+            Protokollshummer 1995/96:105
+          </p>
+          <p>
+            1995/96:KrUReg.
+          </p>
           <pb facs="riksdagen-volumeG-pdf/data/199596/reg_199596_KrU/reg_199596_KrU-004.pdf"/>
-          <p>Riksdagsskrivelse 1995/96:282</p>
-          <p>Nr KrU8y till FiU Sammanslagning av Svenska Penninglotteriet AB och AB Tipstjänst, m.m. (prop. 1995/96:169)</p>
-          <p>Utskottets justering 1996-04-25 FiU1l4 Debatt i kammaren 1996-05-22 Protokollsnummer 1995/96:97 Riksdagsskrivelse 1995/96:248 Nr KrU9y till FiU Ekonomisk vårproposition (prop. 1995/96:105 och 1995/96:150) Utskottets justering 1996-05-14 FiU10 Debatt i kammaren 1996-06-11 Protokollsnummer 1995/96:109 Riksdagsskrivelse 1995/96:304 Nr KrUl0y till NU Aktiv förvaltning av statens företagsägande (prop. 1995/96:141) Utskottets justering 1996-04-25 NU26 Debatt i kammaren 1996-06-10 Protokollsnhummer 1995/96:108,109 Riksdagsskrivelse 1995/96:302 Nr KrUlly till SKU</p>
-          <p>Mervärdesskatt på entréavgifter till biografföreställningar (prop. 1995/96:191)</p>
-          <p>Utskottets justering 1996-05-09 SkU28 Debatt i kammaren 1996-06-05 Protokollsnhummer 1995/96:106 Riksdagsskrivelse 1995/96:290 Nr KrUl2y till FiU</p>
-          <p>Vissa åtgärder för att halvera arbetslösheten till år 2000, ändrade anslag för budgetåret 1995/96, finansiering m.m. (prop. 1995/96:222)</p>
-          <p>Utskottets justering 1996-06-26 FiU15 Debatt i kammaren 1996-07-12 Protokollsnummer 1995/96:115</p>
-          <p>Riksdagsskrivelse 1995/96:307</p>
-          <p>1995/96:KrUReg.</p>
+          <p>
+            Riksdagsskrivelse 1995/96:282
+          </p>
+          <p>
+            Nr KrU8y till FiU Sammanslagning av Svenska Penninglotteriet
+            AB och AB Tipstjänst, m.m. (prop. 1995/96:169)
+          </p>
+          <p>
+            Utskottets justering 1996-04-25 FiU1l4 Debatt i kammaren 1996-05-22
+            Protokollsnummer 1995/96:97 Riksdagsskrivelse 1995/96:248 Nr KrU9y
+            till FiU Ekonomisk vårproposition (prop. 1995/96:105 och 1995/96:150)
+            Utskottets justering 1996-05-14 FiU10 Debatt i kammaren 1996-06-11
+            Protokollsnummer 1995/96:109 Riksdagsskrivelse 1995/96:304 Nr
+            KrUl0y till NU Aktiv förvaltning av statens företagsägande (prop.
+            1995/96:141) Utskottets justering 1996-04-25 NU26 Debatt i kammaren
+            1996-06-10 Protokollsnhummer 1995/96:108,109 Riksdagsskrivelse
+            1995/96:302 Nr KrUlly till SKU
+          </p>
+          <p>
+            Mervärdesskatt på entréavgifter till biografföreställningar (prop.
+            1995/96:191)
+          </p>
+          <p>
+            Utskottets justering 1996-05-09 SkU28 Debatt i kammaren 1996-06-05
+            Protokollsnhummer 1995/96:106 Riksdagsskrivelse 1995/96:290 Nr
+            KrUl2y till FiU
+          </p>
+          <p>
+            Vissa åtgärder för att halvera arbetslösheten till år 2000, ändrade
+            anslag för budgetåret 1995/96, finansiering m.m. (prop. 1995/96:222)
+          </p>
+          <p>
+            Utskottets justering 1996-06-26 FiU15 Debatt i kammaren 1996-07-12
+            Protokollsnummer 1995/96:115
+          </p>
+          <p>
+            Riksdagsskrivelse 1995/96:307
+          </p>
+          <p>
+            1995/96:KrUReg.
+          </p>
           <pb facs="riksdagen-volumeG-pdf/data/199596/reg_199596_KrU/reg_199596_KrU-005.pdf"/>
-          <p>Sakregister</p>
-          <p>AB TiPStjällSta....sssssssssrsossesesesesnesenenenersernerrrrrrsnrrenerrerernererernsnerrerernener aren rn rna 8y Allmänna samlingslokaler, besparil2.......essssessssseseseresrsrsssrsesesersesenenrnsnnnnnn 9y AmatörkUultUrs........ssessserssressesresnernesnernenrrresesrererresresrennerrern ere res eran sne renen rn ann 9y Andréemuseet i GTÄäNNa.....ssssssesesrerssssreresreserrsrnesresrrsrrsrrsresrerrrsr rs sern ennen enn n nan 9 Arkeologi arkeologisk uppdragsundersÖökning....sessessesesssseseressssrrsssesesrsersrnerserrnnrnn 5 kostnadsansvaret för arkeologiska utgräVNiNgal..........ssssssrssssssssosnisnsnnnn 5 upphandling av arkeologiska tjällStel..........sssssesesssseserssesssssrnsrrsersrrsnnrnsnn 5 Arkiv ANSlADoosorereserersesesrererereserererenerersnser ense een er ense ene esr rn sn sn sn rasa rn snaran aren senere nerna 13 [0] DB 24 0) rr 4 informationsteknik........ssssssessssssssssrsresesserrsrsesrersrerrrrresrererrrrr rens ernerrrrrnnrn nen 4 Riksarkivet, landsarkiven och KrigsarkiVet...........ssssssessessrsssssersesesrsnsn 13 Arkivet för ljud OCh DilCh......sssssessssssssesesesesesrsesrsrserrerseserrernerrerer renen reneneren rn rnn + Aten, permanent förläggning av olympiska Sommarspel............sssssssssss00n 15 Bergslagen, EKOMUSCUNML...ssesesssseseserresesrsnerseserereserresnsren en nsnrr enes er renen ere renen en 1 Bibeln, KVinnOperspektiV......ssssssessssssrssresessesrersesrssrssresresrerserrrnrrersrerrrrenrer nn rna 2 Bibliotek informationsteknik..........sssesssesssssssesssrrsrnrsrrrssnnrssrnnnrrrrrnrrrrrrrr rr rrnrr enn r rn nn 4,7y bibliOtekSlagZ....ssssesssssrsrsnssesesrerenerererereresesrsesrsnereen enes nen enes een ennen er nen en en en nan 9y DEeSIgDrÅG oo esssrsrsrsrerersererrsrsrsererererersrsrr reser en ense enar rens rn nee en ennen en en rn rnn enar an 12y Digital teknikutveCklingQ.........ssssssssessesssssereserererrersesrenrsrnrerersrrnen nn nn 4,12,7y,9y Dramatiska teaterlh.......ssssssssssorsseerersesesrersesrerserrernesrersrrsrrsrersrsrrrr rer n ennen renen enn na 13 Ekomuseum BergSlageD.....sssssssesesssesesesesrnsnesernsrsesesrernesrererern arne renen ennen enar enn nn 1 Eskilstuna Gamla TCatelh.ssssssssssreresresrerseersesrerersesreresrererrrresrrsn rs renen ennen s enn rs nerna nere rn nn nn 1 TeatermUSCCtmsssssessseessresrsresressresresrrrsrerresrerresrrsrrrnrr ren rrr nes res reser renen sne n rn nan 1 [6 [ATEN 0 6 6 VR 1 EU EU-frågornas behandling i rikSdageD.......ssssessssssssessrsssesersrseresenensnsnnnnnnn 6y EU-nNämndeDasssssssesssesssreseeseeresrerereeresesrerrer arne rese rrr ene nen renen ennen nen enn rn nn 6y gemensamt system för mervärdesskatt.............s.ssssssssssessssessesesesrsnnnenen lly regeringskonferens 1996...........ssssessssrseseresresrssrssrerrrsrrrserrrrrrsrrrrrrnrnrennnn nn 4y skadliga våldsskildringar i TVsssssssssssssrsssssrsrsrsrsrsrreseneserserserrrrrrnrnrnnnn 12,4y svenska språkets StällningQ........esssssssssrsesesesnsnesesrernesrererersrsrsrrnrererrrnenrn en 1,4y TWV-direktiVetissssssesrereresesrsrersesesesersersersersesrsesrsrsrerenrerersrrrsrerrnr ennen ere nr rena 12,4y Ungdom för Europa, EU:s utbytesprOogräaM.........sssssssssssssesesesesesenennne 10,9y Film ANSlAG os seseesresresrrerrrerererrerrsrrsrrrreresrerrsrsr er esrer enes rare rr rensar ser k asker erna senere nen 13 DCESPALTINGoosesessesserseeresrererseseereresrerersrrrsrer enes eeneseer eran enes arenan een enar en ennen en 9y biografföreställningar, mervärdesskatt på entréavgifter...................... lly film- och VideOaVtalCt..........sssssscsesesrsrerenesersersesrsrersrsrrrrrsen renen renen enar erna lly filmreStaUrCiilQ....ssesesssesssseeererererersrerereresererrerer renen ennen en ekar arr en enar n enes n nan 5y stöd till filmkulturell verkSamhet.........sssssssssosesrsesernrsnesnesnrsnnsnnsnernernnnnnnn 13</p>
-          <p>stöd till filmprodUuktiOnD........ssssesssssssssesssessesesrsessrsrrrrnsnrsnrrrnrrnnrrnrrner nn nn nen 13</p>
-          <p>1995/96:KrUReg.</p>
+          <p>
+            Sakregister
+          </p>
+          <p>
+            AB TiPStjällSta....sssssssssrsossesesesesnesenenenersernerrrrrrsnrrenerrerernererernsnerrerernener
+            aren rn rna 8y Allmänna samlingslokaler, besparil2.......essssessssseseseresrsrsssrsesesersesenenrnsnnnnnn
+            9y AmatörkUultUrs........ssessserssressesresnernesnernenrrresesrererresresrennerrern
+            ere res eran sne renen rn ann 9y Andréemuseet i GTÄäNNa.....ssssssesesrerssssreresreserrsrnesresrrsrrsrrsresrerrrsr
+            rs sern ennen enn n nan 9 Arkeologi arkeologisk uppdragsundersÖökning....sessessesesssseseressssrrsssesesrsersrnerserrnnrnn
+            5 kostnadsansvaret för arkeologiska utgräVNiNgal..........ssssssrssssssssosnisnsnnnn
+            5 upphandling av arkeologiska tjällStel..........sssssesesssseserssesssssrnsrrsersrrsnnrnsnn
+            5 Arkiv ANSlADoosorereserersesesrererereserererenerersnser ense
+            een er ense ene esr rn sn sn sn rasa rn snaran aren senere nerna
+            13 [0] DB 24 0) rr 4 informationsteknik........ssssssessssssssssrsresesserrsrsesrersrerrrrresrererrrrr
+            rens ernerrrrrnnrn nen 4 Riksarkivet, landsarkiven och KrigsarkiVet...........ssssssessessrsssssersesesrsnsn
+            13 Arkivet för ljud OCh DilCh......sssssessssssssesesesesesrsesrsrserrerseserrernerrerer
+            renen reneneren rn rnn + Aten, permanent förläggning av olympiska
+            Sommarspel............sssssssssss00n 15 Bergslagen, EKOMUSCUNML...ssesesssseseserresesrsnerseserereserresnsren
+            en nsnrr enes er renen ere renen en 1 Bibeln, KVinnOperspektiV......ssssssessssssrssresessesrersesrssrssresresrerserrrnrrersrerrrrenrer
+            nn rna 2 Bibliotek informationsteknik..........sssesssesssssssesssrrsrnrsrrrssnnrssrnnnrrrrrnrrrrrrrr
+            rr rrnrr enn r rn nn 4,7y bibliOtekSlagZ....ssssesssssrsrsnssesesrerenerererereresesrsesrsnereen
+            enes nen enes een ennen er nen en en en nan 9y DEeSIgDrÅG oo esssrsrsrsrerersererrsrsrsererererersrsrr
+            reser en ense enar rens rn nee en ennen en en rn rnn enar an 12y
+            Digital teknikutveCklingQ.........ssssssssessesssssereserererrersesrenrsrnrerersrrnen
+            nn nn 4,12,7y,9y Dramatiska teaterlh.......ssssssssssorsseerersesesrersesrerserrernesrersrrsrrsrersrsrrrr
+            rer n ennen renen enn na 13 Ekomuseum BergSlageD.....sssssssesesssesesesesrnsnesernsrsesesrernesrererern
+            arne renen ennen enar enn nn 1 Eskilstuna Gamla TCatelh.ssssssssssreresresrerseersesrerersesreresrererrrresrrsn
+            rs renen ennen s enn rs nerna nere rn nn nn 1 TeatermUSCCtmsssssessseessresrsresressresresrrrsrerresrerresrrsrrrnrr
+            ren rrr nes res reser renen sne n rn nan 1 [6 [ATEN 0 6 6 VR 1
+            EU EU-frågornas behandling i rikSdageD.......ssssessssssssessrsssesersrseresenensnsnnnnnnn
+            6y EU-nNämndeDasssssssesssesssreseeseeresrerereeresesrerrer arne
+            rese rrr ene nen renen ennen nen enn rn nn 6y gemensamt system
+            för mervärdesskatt.............s.ssssssssssessssessesesesrsnnnenen
+            lly regeringskonferens 1996...........ssssessssrseseresresrssrssrerrrsrrrserrrrrrsrrrrrrnrnrennnn
+            nn 4y skadliga våldsskildringar i TVsssssssssssssrsssssrsrsrsrsrsrreseneserserserrrrrrnrnrnnnn
+            12,4y svenska språkets StällningQ........esssssssssrsesesesnsnesesrernesrererersrsrsrrnrererrrnenrn
+            en 1,4y TWV-direktiVetissssssesrereresesrsrersesesesersersersersesrsesrsrsrerenrerersrrrsrerrnr
+            ennen ere nr rena 12,4y Ungdom för Europa, EU:s utbytesprOogräaM.........sssssssssssssesesesesesenennne
+            10,9y Film ANSlAG os seseesresresrrerrrerererrerrsrrsrrrreresrerrsrsr
+            er esrer enes rare rr rensar ser k asker erna senere nen 13 DCESPALTINGoosesessesserseeresrererseseereresrerersrrrsrer
+            enes eeneseer eran enes arenan een enar en ennen en 9y biografföreställningar,
+            mervärdesskatt på entréavgifter...................... lly film-
+            och VideOaVtalCt..........sssssscsesesrsrerenesersersesrsrersrsrrrrrsen
+            renen renen enar erna lly filmreStaUrCiilQ....ssesesssesssseeererererersrerereresererrerer
+            renen ennen en ekar arr en enar n enes n nan 5y stöd till filmkulturell
+            verkSamhet.........sssssssssosesrsesernrsnesnesnrsnnsnnsnernernnnnnnn
+            13
+          </p>
+          <p>
+            stöd till filmprodUuktiOnD........ssssesssssssssesssessesesrsessrsrrrrnsnrsnrrrnrrnnrrnrrner
+            nn nn nen 13
+          </p>
+          <p>
+            1995/96:KrUReg.
+          </p>
           <pb facs="riksdagen-volumeG-pdf/data/199596/reg_199596_KrU/reg_199596_KrU-006.pdf"/>
-          <p>Folkbildning</p>
-          <p>ANSÅG os ossessresresererrrerrrrresrrrrrrrererrrerrrrr renen rss renen ense s ren es seen k Rn Res nn rn nn 9y,12y basårsutbildniNQ2.....s.ssesesossrsrsrsrssesrsrsrnesrererererererrersrerer en er enes renen aren enn 2y,12y diStansSunderViSDilQ....sessesssssssrsserserssrrrrrrerrsrrrsrrsrrrsrrsr renen ser rn aren ren r rn n nn 2y informationsteknik.........ssssssesssssssrsrrssrrsrerseressesernrsrrsrer ennen rerna ner ner nere nn nn Ty FOLIMgiVDING as osssssesesresesereseserrsrerersesesrerenrrrsrer aren enar snar enar een es enar ennen ene n en en nn 12y Forskning inom kulturområdet..............ssssesssesssessssesereserersresererseserernernernnrnrnen 9 Forskning, kvinnors SitUatiOD..........ssssssssssssesesrsrssrsenesesesrsrererrsrerrrnerrnnnn nera 11 ForskningsinfOrmatiOl........sssssssssssssersssrssrsserrersrsresrsrerrersesrsrrrrrsrrsrr ennen nr nn erna 9 Fria teater-, dans- och MusikgrUuppPeli........ssssessssssssssesssesessssesesrssesernerennrnnnnn 13 FritidSUtredNingeD....ssessersrsersrssrsersrrsresrrsrrsrererrerrsrerrsr esse renen r ere renen nen rrn enn 11 Grafiskt museum i TidahOlnm......sssssssessssesssrsrsesrerssersesesesrrrsrernenrrrenrenen enn rn en ent 1 Granskningsnämnden för Radio OCh TV=ssssssssssssssesserssesrsserrersrssrererrrnnnnnnn 12 Gränna AnNdréemUSCCt...sssserseseeresrerseererrersrererrerrrsreresrer rens ser ren es reser enes renen renen nen nn 9 POLArCeMtfUlasssssesssresrsrerrerrsresrernrerrrrrsrrererrererss rss ere ers en reser r ene nen en nen ana 9 Gustavsberg bevarande av industriproduktion, teknik mM.M.........ssssssssssssrrsrssererrsrerenn 8 POTSliNSMUSCCtssesesreereseerersrersreresreresrrsrrerrsrerrsr ennen esr enes ere ser en nes ner nen enn ennen 8 Göteborg kulturprojektet Röda Sten..........ssssesessesseseeresrsreresrrsrrrsesrersesrerrerrrrrrrrrnrrrnrrnrn nn I Idrott AB TipStjällSti...sssssssssesesesesrersersesrersrnesreresesrsrsrsrsrereresrsrsrenererrer ene ren enar nen 8y DESPALING ossesssereseesrerrerrsrersrerrererrerrsrrsrrerrsrer rer er reser eran essensen rek r sense nen en nan 9y fOTSKDINQ oo esesssrsrssesrsrenesesrsrsresrsrsrererrer er er enar arenan ennen enes er enes ere n ennen en erna 11,8y idrottsgymnasier, KVOterilQ2........sssssossssssssesersrsreserresrrresrsrrsrenr renen rr nen nn nn 11 jämställd idrOtt...........sssssosssesseseesrerrersrersrsrersrsrererrerrrrerrer ers ennen r rer n ennen nen n nn nn 11 [014755 6 (53 RAA 8y olympiska sommarspel i Sverige år 2004, statlig garanti...................... 15 Penninglotteriet ÅB.=.ssssssssssssersesrsrsresrrrssrersresrerrerrrsrresrrrrrsnrrrn nns rn ren r enn nn sn 8y ViNStdClDiN Ga oossessrssrrereersresrerrerrsrrsresrerrrsresrerer essensen esse esse sne beer er renen annan 8y Idrottsgymnasier, KVOterilQ.......ssssssssssssssrsrsesesenesesrsrererererererrrr en renen er nrn nn nnn 11 INCUStrideSiSD...sssssssesrerreresrererrrrrerrerrsrrsrrrrrrrrrer renar nere rare sn sr rer sense r ere rna 12y Informationsteknik, IT 1994 års IT-KOMMiSSIiON....ssssssssesssersersersersrrsrserersrnerererersrser ere rnrrrerrr rn rn rann nen 4 bibliotekens fOl...sssssssssssssessrssrssresrsrrsrrsrsesrerenrsnsrrsr rer rsrr rer nrr renen ennen nanna Ty CD-ROM oosorereresrerersesrerererseresrerersesrsrerrsrerererererrrrsr ers reser er r enes rn renen rn en en nn nn 4 computor-to-plate-teknik, CTP........ssessessrsssrrsrssrerrsrssrsrrrrrrrsrnrrsrrrrrrrrrrrn nr 4 DatalagsutredningeD......sesessssssrsrssesresrserrsrsrrrererererersrrerrrrer ere ere r rn ennen en en rna 4 digital teknikutvVeCkling........ssssssssssssssesesesesesesesesrererserrrerer ense rrner enn rn en rn rna Ty elektroniska dOkUmeDt.....s.ssssessssssrrsresesesesesesrsrsrererenereresren ennen ennen enn renen an 4 fOIKbildDiNGeesssssssessesresreresrerrrsrersrerrrrrerrererrrrerrsnrrrrr renen reser rer rrr nere r nen nen ann Ty INterNetoosserssrererrerrerrrereneererrersrerrsrrrrrrr rese rer ere nens e reses ene r ere ense raser een r nanna 4 IT-bibliOtek..ssssssssssesrsrsrersrserrersrernesrererrrrsrsrsrsrsrer enes en enes er senere en ers ene ennen ennen 4 IT-UtredDingeD...ssssssrerssrsrererrsrerereresrsrersrsrsrsrsrsrenen enes es enes rare enar e ene r arenan ennen 4 Junior IT-rådet.....sssssssrsreserrsrsreseresreresrsrsrsrsrererer ere reser renen ense renen ennen eran enn 4 kulturinfOrmatiOlD.......ssesessesessssssrssrssrerrersesrsreresrerrerrsreresr ere rens e nen ennen anna 9 medborgarinfOrmatiOl...........ssssssessesserssrssesesreserrsrnrerenerrerrerrrnr renen nen nnn rna 4 nationell IT-StrateZi...........ssessesssossoresseseesesesrernerreresrrrsesrerrrrrsrrrrrrnnrn rn rn nan Ty svenska Språket..........ssesssosessesesreseresrsrneserereresenrsrererererseserrsnes ennen sn enn n enar en Ty</p>
-          <p>TOppledarfOrU.ssssrsrsrsrsrerseererersesrsrsresesrsrsrsrsrer enes een esrs renar enes rean n eran e anna 4</p>
-          <p>1995/96:KrUReg.</p>
+          <p>
+            Folkbildning
+          </p>
+          <p>
+            ANSÅG os ossessresresererrrerrrrresrrrrrrrererrrerrrrr renen
+            rss renen ense s ren es seen k Rn Res nn rn nn 9y,12y basårsutbildniNQ2.....s.ssesesossrsrsrsrssesrsrsrnesrererererererrersrerer
+            en er enes renen aren enn 2y,12y diStansSunderViSDilQ....sessesssssssrsserserssrrrrrrerrsrrrsrrsrrrsrrsr
+            renen ser rn aren ren r rn n nn 2y informationsteknik.........ssssssesssssssrsrrssrrsrerseressesernrsrrsrer
+            ennen rerna ner ner nere nn nn Ty FOLIMgiVDING as osssssesesresesereseserrsrerersesesrerenrrrsrer
+            aren enar snar enar een es enar ennen ene n en en nn 12y Forskning
+            inom kulturområdet..............ssssesssesssessssesereserersresererseserernernernnrnrnen
+            9 Forskning, kvinnors SitUatiOD..........ssssssssssssesesrsrssrsenesesesrsrererrsrerrrnerrnnnn
+            nera 11 ForskningsinfOrmatiOl........sssssssssssssersssrssrsserrersrsresrsrerrersesrsrrrrrsrrsrr
+            ennen nr nn erna 9 Fria teater-, dans- och MusikgrUuppPeli........ssssessssssssssesssesessssesesrssesernerennrnnnnn
+            13 FritidSUtredNingeD....ssessersrsersrssrsersrrsresrrsrrsrererrerrsrerrsr
+            esse renen r ere renen nen rrn enn 11 Grafiskt museum i TidahOlnm......sssssssessssesssrsrsesrerssersesesesrrrsrernenrrrenrenen
+            enn rn en ent 1 Granskningsnämnden för Radio OCh TV=ssssssssssssssesserssesrsserrersrssrererrrnnnnnnn
+            12 Gränna AnNdréemUSCCt...sssserseseeresrerseererrersrererrerrrsreresrer
+            rens ser ren es reser enes renen renen nen nn 9 POLArCeMtfUlasssssesssresrsrerrerrsresrernrerrrrrsrrererrererss
+            rss ere ers en reser r ene nen en nen ana 9 Gustavsberg bevarande
+            av industriproduktion, teknik mM.M.........ssssssssssssrrsrssererrsrerenn
+            8 POTSliNSMUSCCtssesesreereseerersrersreresreresrrsrrerrsrerrsr
+            ennen esr enes ere ser en nes ner nen enn ennen 8 Göteborg kulturprojektet
+            Röda Sten..........ssssesessesseseeresrsreresrrsrrrsesrersesrerrerrrrrrrrrnrrrnrrnrn
+            nn I Idrott AB TipStjällSti...sssssssssesesesesrersersesrersrnesreresesrsrsrsrsrereresrsrsrenererrer
+            ene ren enar nen 8y DESPALING ossesssereseesrerrerrsrersrerrererrerrsrrsrrerrsrer
+            rer er reser eran essensen rek r sense nen en nan 9y fOTSKDINQ
+            oo esesssrsrssesrsrenesesrsrsresrsrsrererrer er er enar arenan
+            ennen enes er enes ere n ennen en erna 11,8y idrottsgymnasier,
+            KVOterilQ2........sssssossssssssesersrsreserresrrresrsrrsrenr
+            renen rr nen nn nn 11 jämställd idrOtt...........sssssosssesseseesrerrersrersrsrersrsrererrerrrrerrer
+            ers ennen r rer n ennen nen n nn nn 11 [014755 6 (53 RAA 8y olympiska
+            sommarspel i Sverige år 2004, statlig garanti......................
+            15 Penninglotteriet ÅB.=.ssssssssssssersesrsrsresrrrssrersresrerrerrrsrresrrrrrsnrrrn
+            nns rn ren r enn nn sn 8y ViNStdClDiN Ga oossessrssrrereersresrerrerrsrrsresrerrrsresrerer
+            essensen esse esse sne beer er renen annan 8y Idrottsgymnasier,
+            KVOterilQ.......ssssssssssssssrsrsesesenesesrsrererererererrrr
+            en renen er nrn nn nnn 11 INCUStrideSiSD...sssssssesrerreresrererrrrrerrerrsrrsrrrrrrrrrer
+            renar nere rare sn sr rer sense r ere rna 12y Informationsteknik,
+            IT 1994 års IT-KOMMiSSIiON....ssssssssesssersersersersrrsrserersrnerererersrser
+            ere rnrrrerrr rn rn rann nen 4 bibliotekens fOl...sssssssssssssessrssrssresrsrrsrrsrsesrerenrsnsrrsr
+            rer rsrr rer nrr renen ennen nanna Ty CD-ROM oosorereresrerersesrerererseresrerersesrsrerrsrerererererrrrsr
+            ers reser er r enes rn renen rn en en nn nn 4 computor-to-plate-teknik,
+            CTP........ssessessrsssrrsrssrerrsrssrsrrrrrrrsrnrrsrrrrrrrrrrrn
+            nr 4 DatalagsutredningeD......sesessssssrsrssesresrserrsrsrrrererererersrrerrrrer
+            ere ere r rn ennen en en rna 4 digital teknikutvVeCkling........ssssssssssssssesesesesesesesesrererserrrerer
+            ense rrner enn rn en rn rna Ty elektroniska dOkUmeDt.....s.ssssessssssrrsresesesesesesrsrsrererenereresren
+            ennen ennen enn renen an 4 fOIKbildDiNGeesssssssessesresreresrerrrsrersrerrrrrerrererrrrerrsnrrrrr
+            renen reser rer rrr nere r nen nen ann Ty INterNetoosserssrererrerrerrrereneererrersrerrsrrrrrrr
+            rese rer ere nens e reses ene r ere ense raser een r nanna 4 IT-bibliOtek..ssssssssssesrsrsrersrserrersrernesrererrrrsrsrsrsrsrer
+            enes en enes er senere en ers ene ennen ennen 4 IT-UtredDingeD...ssssssrerssrsrererrsrerereresrsrersrsrsrsrsrsrenen
+            enes es enes rare enar e ene r arenan ennen 4 Junior IT-rådet.....sssssssrsreserrsrsreseresreresrsrsrsrsrererer
+            ere reser renen ense renen ennen eran enn 4 kulturinfOrmatiOlD.......ssesessesessssssrssrssrerrersesrsreresrerrerrsreresr
+            ere rens e nen ennen anna 9 medborgarinfOrmatiOl...........ssssssessesserssrssesesreserrsrnrerenerrerrerrrnr
+            renen nen nnn rna 4 nationell IT-StrateZi...........ssessesssossoresseseesesesrernerreresrrrsesrerrrrrsrrrrrrnnrn
+            rn rn nan Ty svenska Språket..........ssesssosessesesreseresrsrneserereresenrsrererererseserrsnes
+            ennen sn enn n enar en Ty
+          </p>
+          <p>
+            TOppledarfOrU.ssssrsrsrsrsrerseererersesrsrsresesrsrsrsrsrer
+            enes een esrs renar enes rean n eran e anna 4
+          </p>
+          <p>
+            1995/96:KrUReg.
+          </p>
           <pb facs="riksdagen-volumeG-pdf/data/199596/reg_199596_KrU/reg_199596_KrU-007.pdf"/>
-          <p>Jämställdhet</p>
-          <p>ICT Ota oo ersrsrssrsrsrsesrsrsrsrsrs enes ere en senere en enar enes rn AAA RAKA RAR ARA R ARA RR rn RAA A een arena 11 KulturOmrådet...........esesssssssossrsrsenenenenerenrnseren ene rnsnsrnrnen een en renen enar en rr sn nn 9y Kalmar län NETA EE SES [076 8 Kalmarunionens 600-årsjubileUm.......sssesessersrreresrssserrrsesrsrsrrrresrerrerrsnsrnen rn ena 8 KlarspråksgrUppPeD.....ssesseosessssssossessrssessrsrnsrrssrosrnsersrenrernrrsrrensennrrsrnsrnsrnn rna rn 7 Kommersiell sexuell exploatering av barn, vVärldskOngreSS........................ 6 KODNfCICNSososoesesesreeresrrsrerrerreresrrrsrerer reses sees rer esrsr ere senere esse arr renen r senare rn enn 6 Konstnärer KONStnärstillägg.......ssssssssssssesesesesesrersesrererserseresrsrererererer renen er rrrersr rr nr renen enn 12y ViSNiNgSCrSÄttNilQZ...sssessssssesesssrsessesrsrersesrsrsesrereresesrsrsr enes ennen enes ran en ern nanna 13 KFrigSarkiVeltssssssesesesesersnsnsrsrsrsesersrsesesesesesesersesrsrseserersrsrsernsesnrnsen eran en er enn nn 13 Kulturmiljövård ANSlAG os ossererseresesreresrererererserrerererererrsren renen enes eran eran eran enar enes n ananas nen en ennen anna 13 arkeologisk uppdragsundersökniNg..........sesssssssssssssessssrrserserserrsnerrrrnsrnr rn 5 bevarande av produktionslinjer, teknik M.lM......ssssssssssssssresrsresrrsrrnennrnnnnr 8 byggnadShyttOr..........sssssssssssssesesesrssesesrerersersrersesnsrsrsnener er nen en ernrn ene er enn enn 2y förbättring av inomhusmiljÖnD.........sssssssssssssssesssrssesesesrsnesrsnrrsenesnsn ene nn nan 2y iNdUStriminneSVÅA....ssesesssesrsrsresesrsrrrsrrrrsrserer ere ens rer ene ene en een en en en en enn enn 8 informationSteknNik.........ssssessessssssssssererssrsresrersrssrsrsrnrsrernrerrsrrrrrsne rer nrn enn rna Ty Innovatum i TrollhättälD.........sssssssssessessessessersrsseserseserrserrrsrrrrernrsrnrr ennen nn ena 8 Kalmarunionens 600-årsjubileUM.........ssessessssssersesrssesenresenersrnersrsernrnnnnnna 8 kulturminneslagCD...sessessessserserresrrssrersresrerrrrrrsrrrrnrsrrrrnrrrnrrr rr ren rrn nr n nns nan 5 ortnamn, lagskydd QV..ssssesrssssesesesesesrsnsessnsnsnsnsererensnr nere ennen ene eran enn nen 8 Riksantikvarieämbetet..........sossssssossossorssesrsenesreseersesesrsesresrersrersrrnenrrsner renen nn 13 Vinäs slott i Kalmar läls...ssssssssssseresresresesrernesresrersesrrrserresrernrrrnrer ennen ennen rna 8 Kulturprojekt inom vuxenutbildningQ...........ssssssssessssssssesersrsrserrssesenennnn 12y Kulturråd, Statens ANSLAG ooesesesesesesrererrsrererersenrererererrsrrreresnereseres esse ease arr ene e nere n snar eran en ene nan 13 informationSsteknik........sssssssssssessssrssrrsersrsrsesrssrsrsesrsresrererrrsr renen enn arne ren nna Ty Kungl. BibliotekCt.......ssesessersresresesresersrerrersesesrersresrernersrsrerrerserrsrernsrernrrn ennen rna 4 LandSäarkiVe€lD....sssssssssssseseseereresesesrsrsrererrereresesenren ene en earn ere era sne e renen arenan enn 13 Litografisk akademi i TidahOlm......ssssssssssrsesrsrsreseseseseseserrerernernrrenerernrnen en nn nn 1 Litteraturstöd, DESParilQ......sssssssessssesersreserseserresreserrerserresrrr enn rrn ennen ner nen enn na 9y Lotterier AB TipStjällStissssssssssssrssssesesesesrernersesrerserrersrsnsrersesrererereresren er erren ennen aren erna 8y lotterilagStiftningCD.......ssssssesssssresreresrsrerersrrerersrsrersrerer ere rare ennen en esn eran annan 8y [ONE [001757 6 FRA 15 Penninglotteriet AB =.ssssssssssssrssseresrerresrersesreresresreresrererrersnerrrrsnsnerr ner ennen nen nn 8y Statliga SPClsssssssesssesrererserseresrererererenrrrerrenereren enes er sr eran een enar a enes en senere anna 8y MedborgarinfOrmatiOl..........sesessssssssrssrsrssesenssenrsnsrserererneserrener nen aren nsn een e nn rna 4 MultimediaCentrUuhMl....ssesseserserserersersrrrrsrsrrsrersesrersreresner renen rer er ren esn ennen en ren erna 9y Museer och utställningar Andréemuseet i GTäDNa......ssssssssssessereesessrsesrrsresesnersesnesrrrsnerrerrrr renen er enn n nn 9 F9 15 EF 13 Dansmuseum i StocKkhOlm........sssessessesssrerrsrsnesrsesesrsrnesrrsrrrresrrrserrrrr ner rnn rn nan I Drottningholms teatermuUSeUl.....sssssssssessrsssorssrsserrsnesrenern nen esnesn ennen renen nnn 1 Ekomuseum BergSlageD....sssssssosssssrsresesesesesrsrernesenesesesrsrererrererenrnn aren enn rn rat |</p>
-          <p>grafiskt museum i TidahOlm....ssssssserssrsrsssssrsorsrrrsnrsnrenrrrnrenrrerrrernrrr nen n renen 1</p>
-          <p>1995/96:KrUReg.</p>
+          <p>
+            Jämställdhet
+          </p>
+          <p>
+            ICT Ota oo ersrsrssrsrsrsesrsrsrsrsrs enes ere en senere en enar
+            enes rn AAA RAKA RAR ARA R ARA RR rn RAA A een arena 11 KulturOmrådet...........esesssssssossrsrsenenenenerenrnseren
+            ene rnsnsrnrnen een en renen enar en rr sn nn 9y Kalmar län NETA
+            EE SES [076 8 Kalmarunionens 600-årsjubileUm.......sssesessersrreresrssserrrsesrsrsrrrresrerrerrsnsrnen
+            rn ena 8 KlarspråksgrUppPeD.....ssesseosessssssossessrssessrsrnsrrssrosrnsersrenrernrrsrrensennrrsrnsrnsrnn
+            rna rn 7 Kommersiell sexuell exploatering av barn, vVärldskOngreSS........................
+            6 KODNfCICNSososoesesesreeresrrsrerrerreresrrrsrerer reses sees
+            rer esrsr ere senere esse arr renen r senare rn enn 6 Konstnärer
+            KONStnärstillägg.......ssssssssssssesesesesesrersesrererserseresrsrererererer
+            renen er rrrersr rr nr renen enn 12y ViSNiNgSCrSÄttNilQZ...sssessssssesesssrsessesrsrersesrsrsesrereresesrsrsr
+            enes ennen enes ran en ern nanna 13 KFrigSarkiVeltssssssesesesesersnsnsrsrsrsesersrsesesesesesesersesrsrseserersrsrsernsesnrnsen
+            eran en er enn nn 13 Kulturmiljövård ANSlAG os ossererseresesreresrererererserrerererererrsren
+            renen enes eran eran eran enar enes n ananas nen en ennen anna
+            13 arkeologisk uppdragsundersökniNg..........sesssssssssssssessssrrserserserrsnerrrrnsrnr
+            rn 5 bevarande av produktionslinjer, teknik M.lM......ssssssssssssssresrsresrrsrrnennrnnnnr
+            8 byggnadShyttOr..........sssssssssssssesesesrssesesrerersersrersesnsrsrsnener
+            er nen en ernrn ene er enn enn 2y förbättring av inomhusmiljÖnD.........sssssssssssssssesssrssesesesrsnesrsnrrsenesnsn
+            ene nn nan 2y iNdUStriminneSVÅA....ssesesssesrsrsresesrsrrrsrrrrsrserer
+            ere ens rer ene ene en een en en en en enn enn 8 informationSteknNik.........ssssessessssssssssererssrsresrersrssrsrsrnrsrernrerrsrrrrrsne
+            rer nrn enn rna Ty Innovatum i TrollhättälD.........sssssssssessessessessersrsseserseserrserrrsrrrrernrsrnrr
+            ennen nn ena 8 Kalmarunionens 600-årsjubileUM.........ssessessssssersesrssesenresenersrnersrsernrnnnnnna
+            8 kulturminneslagCD...sessessessserserresrrssrersresrerrrrrrsrrrrnrsrrrrnrrrnrrr
+            rr ren rrn nr n nns nan 5 ortnamn, lagskydd QV..ssssesrssssesesesesesrsnsessnsnsnsnsererensnr
+            nere ennen ene eran enn nen 8 Riksantikvarieämbetet..........sossssssossossorssesrsenesreseersesesrsesresrersrersrrnenrrsner
+            renen nn 13 Vinäs slott i Kalmar läls...ssssssssssseresresresesrernesresrersesrrrserresrernrrrnrer
+            ennen ennen rna 8 Kulturprojekt inom vuxenutbildningQ...........ssssssssessssssssesersrsrserrssesenennnn
+            12y Kulturråd, Statens ANSLAG ooesesesesesesrererrsrererersenrererererrsrrreresnereseres
+            esse ease arr ene e nere n snar eran en ene nan 13 informationSsteknik........sssssssssssessssrssrrsersrsrsesrssrsrsesrsresrererrrsr
+            renen enn arne ren nna Ty Kungl. BibliotekCt.......ssesessersresresesresersrerrersesesrersresrernersrsrerrerserrsrernsrernrrn
+            ennen rna 4 LandSäarkiVe€lD....sssssssssssseseseereresesesrsrsrererrereresesenren
+            ene en earn ere era sne e renen arenan enn 13 Litografisk akademi
+            i TidahOlm......ssssssssssrsesrsrsreseseseseseserrerernernrrenerernrnen
+            en nn nn 1 Litteraturstöd, DESParilQ......sssssssessssesersreserseserresreserrerserresrrr
+            enn rrn ennen ner nen enn na 9y Lotterier AB TipStjällStissssssssssssrssssesesesesrernersesrerserrersrsnsrersesrererereresren
+            er erren ennen aren erna 8y lotterilagStiftningCD.......ssssssesssssresreresrsrerersrrerersrsrersrerer
+            ere rare ennen en esn eran annan 8y [ONE [001757 6 FRA 15 Penninglotteriet
+            AB =.ssssssssssssrssseresrerresrersesreresresreresrererrersnerrrrsnsnerr
+            ner ennen nen nn 8y Statliga SPClsssssssesssesrererserseresrererererenrrrerrenereren
+            enes er sr eran een enar a enes en senere anna 8y MedborgarinfOrmatiOl..........sesessssssssrssrsrssesenssenrsnsrserererneserrener
+            nen aren nsn een e nn rna 4 MultimediaCentrUuhMl....ssesseserserserersersrrrrsrsrrsrersesrersreresner
+            renen rer er ren esn ennen en ren erna 9y Museer och utställningar
+            Andréemuseet i GTäDNa......ssssssssssessereesessrsesrrsresesnersesnesrrrsnerrerrrr
+            renen er enn n nn 9 F9 15 EF 13 Dansmuseum i StocKkhOlm........sssessessesssrerrsrsnesrsesesrsrnesrrsrrrresrrrserrrrr
+            ner rnn rn nan I Drottningholms teatermuUSeUl.....sssssssssessrsssorssrsserrsnesrenern
+            nen esnesn ennen renen nnn 1 Ekomuseum BergSlageD....sssssssosssssrsresesesesesrsrernesenesesesrsrererrererenrnn
+            aren enn rn rat |
+          </p>
+          <p>
+            grafiskt museum i TidahOlm....ssssssserssrsrsssssrsorsrrrsnrsnrenrrrnrenrrerrrernrrr
+            nen n renen 1
+          </p>
+          <p>
+            1995/96:KrUReg.
+          </p>
           <pb facs="riksdagen-volumeG-pdf/data/199596/reg_199596_KrU/reg_199596_KrU-008.pdf"/>
-          <p>hjulångaren Erik NOrdeVvall.......sssssesessssssssesesesesesesesesensener ennen enennnsnn nn nn nan 1</p>
-          <p>informationSsteknik..........sssesssessresrserersssrrsrrssssnrrsssrrrsrsrrsrnrrrnrrrnnr ann n enn r ennen Ty Innovatum i Trollhättän..........ssssssessssrsssreserssrererernrssnssnrsnrsnenrsnrernrsnrrnennrnn 8 kulturprojektet Röda Steln..........ssssesssossorsorsorrsnernrsnesessesrsnrnrsnsnnsnennenerrrnent 1 KVinNOMUSCCL.seeeeeeseesererresresrsrersresrresrrrsrreesn rss nr enn rs ner es rr ere nes ke nere rr nn 1 litografisk akademi i TidahOlm......sssssssssssssssnesrsnsreseseresnsrsrsrsennrnsnsnrnennnn nn 1 polarcentrum i GTÄäNDå.....sssssssesssrssesersnesesrerrenesrsneresrsnsnsnsnrnr ns renen ennen en en nan 9 porslinsmuseet i GUStaVSDergZ.....sssssserssrsesseseernerrenenesesrsnsnsnsnsnsnensnrnrnen ennen en 8 presshistoriskt MUSCUIM.......ssssssssssssesesssnsnsnernesesesen ene ersns een rns een ennen ennen enn 1 teaterhistoriska museet i ESkilStUNa..........sssssssssesessssssesesenenenrnenenersernernn ennen 1 teaterMUSCCl..sosesseereeresreresreresrerseeresrrerresresr ess rer nen nes ee senere ananas renen eran rn rena 1 Musik, aDSläQZ.ssssosssssrssresreresrerrerersreresrrsrrssrerrrrr renen rann er renen ene eR senere renen enn a 13 Nordiska språksekretariatet..............ssssssssssossseneeneresnsnereresesesesereresnsnsnsnsnrnnnnn 7 Nätverkssamarbete inom kulturforskningsområdet............ssssssmemsmemsme 9 Olympiska sommarspel i Sverige år 2004, statlig garanti......................+.. 15 [0] 01525 Fr 13 Ortnamn, lagskydd QV..sssssssesesesrseseesesesresrersesrsresesrersesrsreneren ere rnrn ers ns nns nn nn nn 1 [OST [614755 5 RA 15 Penninglotteriet ÅB...s.sssssssssssssrsssesrererrenesrernesneresnsrnesnsrer ene een een en renen nn nn nn 8y Pliktexemplarslagen Arkivet för ljud OCh bilCL.........ssesssssssssssssreseseonsernsrsnsnsnserensnsrnensnsnsnsnnrnnrnnnd 4 [6 2151 5 0 FR 4 digital teknikutveCklilg........sessssesssssssssssrsssrssnerreresnesnesrsrnesnsnrnen ere renen en nn d 4 elektroniska doOkument.........ssssessessesrresrssresresersrrsresneresresnsr enes nr nere renen en nan 4 5866 $ AA 4 100) 810524 7518 VER 4 Kungl. BibliOteket.......sessesoreessesrrosresseresnrrererssrrrssrssrrsrsrerrernrrrsnennrenern renen nen 4 FeklamblaCasssssssssrsseresesrsrererersesrresrsrer reser esr es ren arr en arean enar ene e eken nan en enn anna 4 RIKSALKIVCto ooo ossssresesrsesreseeresrersesrsresresrrsrresrennesrrsrrsr ren rsr eran ense erna er renen anar + tryckta SKIifferl............osoososoossesossessennrsersnrssrsnresnersrersrsr renen esnen een n ennen ene n nn rna 4 NV 6 [A0724 218 &amp; VR 4 Polarcentrum i GFälDä.....ssssesserersrrsrssrerererrenresrrsrrsresrrsrer renare nere er renen ene n nen 9 Porslinsmuseet i GUuSstaVSDerZ.....sssesssressesrssesrererresesrernersesrsrsrsrsrsrsrsrsnrnererer nen 8</p>
-          <p>Radio och TV, avgiftsfinansierad barn och ungdom, program fÖrl.......sesssssssssrssesrsresrssrsrsrsnsrrrsrsrsreer een rn rnr digital teknikutveCkling...........sssssesssssssssesesresesnesesnesesrsnsnsnsnsnsnsnrnn distriktsOrganiSatiOl..........sssessesssssssorsressrsnrereernrrnrrnrsnenrsrerrrns renen er renen erna</p>
-          <p>EU:s TV-CirektiVs..sssssssssssesrreseerrssrreseressrnessrrererernreserernersnernrnnersnrrnerrnrnnen nen EuUrOpParådet.sssssssrsrerserersrsrsrrerererersrersrerer renen rnr sne renen enar een ens A sen enar rasen enes European Broadcasting Union (EBU) J......ssssssssssssssesesesesnsnseresnssererenenenen fiNANSICIINGossssresresrererrerreresrsrersrerrerrerererrsr reser r reses ere erna ennen enar e eran annan frilanSmedVerkal.....sssssersrsseereseerseorerresrrsrrerrerrerrrrrrrrerrer er rsr een enes aren neat funktionshindrade, program fÖrl.....ssssesssssrerssrsrrsrsrrrrsrsrersrrrrrrrenerenrnenen en genomslagskraft, MedietS..............sssss.ssss0s Granskningsnämnden för radio och TV invandrar- och minoritetsspråk, verksamhet På..............ssssssossssesersnsnsnn 12 kulturlivet, främjande QV..sssssessessessrererrssrrerrnrsrrrrsrrrnnrerrnrsrrrr ren rrr rer rsnen nn nn 12 kvinnoskildringar, ONYanSerade.......ssssssesserserrsssrssresernesrsnesesesnernrnernnnennna 12</p>
-          <p>1995/96:KrUReg.</p>
+          <p>
+            hjulångaren Erik NOrdeVvall.......sssssesessssssssesesesesesesesesensener
+            ennen enennnsnn nn nn nan 1
+          </p>
+          <p>
+            informationSsteknik..........sssesssessresrserersssrrsrrssssnrrsssrrrsrsrrsrnrrrnrrrnnr
+            ann n enn r ennen Ty Innovatum i Trollhättän..........ssssssessssrsssreserssrererernrssnssnrsnrsnenrsnrernrsnrrnennrnn
+            8 kulturprojektet Röda Steln..........ssssesssossorsorsorrsnernrsnesessesrsnrnrsnsnnsnennenerrrnent
+            1 KVinNOMUSCCL.seeeeeeseesererresresrsrersresrresrrrsrreesn rss
+            nr enn rs ner es rr ere nes ke nere rr nn 1 litografisk akademi
+            i TidahOlm......sssssssssssssssnesrsnsreseseresnsrsrsrsennrnsnsnrnennnn
+            nn 1 polarcentrum i GTÄäNDå.....sssssssesssrssesersnesesrerrenesrsneresrsnsnsnsnrnr
+            ns renen ennen en en nan 9 porslinsmuseet i GUStaVSDergZ.....sssssserssrsesseseernerrenenesesrsnsnsnsnsnsnensnrnrnen
+            ennen en 8 presshistoriskt MUSCUIM.......ssssssssssssesesssnsnsnernesesesen
+            ene ersns een rns een ennen ennen enn 1 teaterhistoriska museet
+            i ESkilStUNa..........sssssssssesessssssesesenenenrnenenersernernn
+            ennen 1 teaterMUSCCl..sosesseereeresreresreresrerseeresrrerresresr
+            ess rer nen nes ee senere ananas renen eran rn rena 1 Musik, aDSläQZ.ssssosssssrssresreresrerrerersreresrrsrrssrerrrrr
+            renen rann er renen ene eR senere renen enn a 13 Nordiska språksekretariatet..............ssssssssssossseneeneresnsnereresesesesereresnsnsnsnsnrnnnnn
+            7 Nätverkssamarbete inom kulturforskningsområdet............ssssssmemsmemsme
+            9 Olympiska sommarspel i Sverige år 2004, statlig garanti......................+..
+            15 [0] 01525 Fr 13 Ortnamn, lagskydd QV..sssssssesesesrseseesesesresrersesrsresesrersesrsreneren
+            ere rnrn ers ns nns nn nn nn 1 [OST [614755 5 RA 15 Penninglotteriet
+            ÅB...s.sssssssssssssrsssesrererrenesrernesneresnsrnesnsrer ene
+            een een en renen nn nn nn 8y Pliktexemplarslagen Arkivet för ljud
+            OCh bilCL.........ssesssssssssssssreseseonsernsrsnsnsnserensnsrnensnsnsnsnnrnnrnnnd
+            4 [6 2151 5 0 FR 4 digital teknikutveCklilg........sessssesssssssssssrsssrssnerreresnesnesrsrnesnsnrnen
+            ere renen en nn d 4 elektroniska doOkument.........ssssessessesrresrssresresersrrsresneresresnsr
+            enes nr nere renen en nan 4 5866 $ AA 4 100) 810524 7518 VER 4
+            Kungl. BibliOteket.......sessesoreessesrrosresseresnrrererssrrrssrssrrsrsrerrernrrrsnennrenern
+            renen nen 4 FeklamblaCasssssssssrsseresesrsrererersesrresrsrer
+            reser esr es ren arr en arean enar ene e eken nan en enn anna
+            4 RIKSALKIVCto ooo ossssresesrsesreseeresrersesrsresresrrsrresrennesrrsrrsr
+            ren rsr eran ense erna er renen anar + tryckta SKIifferl............osoososoossesossessennrsersnrssrsnresnersrersrsr
+            renen esnen een n ennen ene n nn rna 4 NV 6 [A0724 218 &amp; VR
+            4 Polarcentrum i GFälDä.....ssssesserersrrsrssrerererrenresrrsrrsresrrsrer
+            renare nere er renen ene n nen 9 Porslinsmuseet i GUuSstaVSDerZ.....sssesssressesrssesrererresesrernersesrsrsrsrsrsrsrsrsnrnererer
+            nen 8
+          </p>
+          <p>
+            Radio och TV, avgiftsfinansierad barn och ungdom, program fÖrl.......sesssssssssrssesrsresrssrsrsrsnsrrrsrsrsreer
+            een rn rnr digital teknikutveCkling...........sssssesssssssssesesresesnesesnesesrsnsnsnsnsnsnsnrnn
+            distriktsOrganiSatiOl..........sssessesssssssorsressrsnrereernrrnrrnrsnenrsrerrrns
+            renen er renen erna
+          </p>
+          <p>
+            EU:s TV-CirektiVs..sssssssssssesrreseerrssrreseressrnessrrererernreserernersnernrnnersnrrnerrnrnnen
+            nen EuUrOpParådet.sssssssrsrerserersrsrsrrerererersrersrerer renen
+            rnr sne renen enar een ens A sen enar rasen enes European Broadcasting
+            Union (EBU) J......ssssssssssssssesesesesnsnseresnssererenenenen
+            fiNANSICIINGossssresresrererrerreresrsrersrerrerrerererrsr reser
+            r reses ere erna ennen enar e eran annan frilanSmedVerkal.....sssssersrsseereseerseorerresrrsrrerrerrerrrrrrrrerrer
+            er rsr een enes aren neat funktionshindrade, program fÖrl.....ssssesssssrerssrsrrsrsrrrrsrsrersrrrrrrrenerenrnenen
+            en genomslagskraft, MedietS..............sssss.ssss0s Granskningsnämnden
+            för radio och TV invandrar- och minoritetsspråk, verksamhet På..............ssssssossssesersnsnsnn
+            12 kulturlivet, främjande QV..sssssessessessrererrssrrerrnrsrrrrsrrrnnrerrnrsrrrr
+            ren rrr rer rsnen nn nn 12 kvinnoskildringar, ONYanSerade.......ssssssesserserrsssrssresernesrsnesesesnernrnernnnennna
+            12
+          </p>
+          <p>
+            1995/96:KrUReg.
+          </p>
           <pb facs="riksdagen-volumeG-pdf/data/199596/reg_199596_KrU/reg_199596_KrU-009.pdf"/>
-          <p>mångkulturella samhället, SPegling AV......ss..ssssssssssssssssnnnssnnnsnnrnnnnnnnnnnnn 12</p>
-          <p>nordiskt TV-samarbete...........sssosososesesesesenenerenrsnenensnrnsnrnrnrnrsrsesersenenrnr ennen 2y nyhetsförmedling, olika perspektiv i.........sssssessessesessessesosessssresensrnnnnnnnn 12 omfattning, SäÄNdningSrätteNS.............sessssessssesesessssssesesesenesessnsesrnsnnnnnnnnn 12 parallellsändningar, analoga och digitala............sssssssssssssssssessesesserrssnnnn 12 produktion, distriktsbaserad...........ssssssssssresessrsessersrserssesrrsrsrererrsrsnerenent 12 program på svenska SpråKet.........sseessessesssessersessrossrssrnsrosersrnssrnnsrnnsnnnnen 12 programledare med utomnordiskt UTSPIUNQ.....sessesessrsrsesesesrssesrnsrnnnnnnn 12 public service-bOkSIlUt.......ssessessessessesseosessessrsrnsrsrrsrnsrssnsrrsnrensrnsnrsnns nns rnnn 12 public Service-UPPCraget.....ssssssesrssssessnsesresesrsrsrrrersrnesrnrnsnsnnennnr ens nn ennen 12 radio- OCh TV-lagZ.....ssessssesssesesrsresesesrererseresrererrererrrnrsrerrsrsrernennsnr renen en nn rna 12 Radio SWedCID..ssesssssrssesesesesrerererersesrererserrsrererrer renen renen renen rer n ren srn rn enar en a 12 Radiotjänst i Kiruna AB, RIKAB sssssnssrsrsrssesrssesesneresnesesrnesrsrnesrsrsrererenen en 12 riktlinjer för programverksamheteh........s.sssssesesssosssnsnrneneseseserenenernnsnnnnn 12 rundradiokOnDtOt............sssssssrrssssssrssererrerrssrrsrrsererrrnnerrrrrrrr rer rer rr nn rr ran 12,7y räckvidd, SändniNngarNASÉ.....ssessssssssssessesesessesesresesrernernenesner erna ennen arenan nn eran 12 [SJ 610) 415 813 82 RR 12 struktur, ProgramfÖretageNS.........sssssssessssssessssessrsesneresneresneresnerern enn nnnnnn 12 Sveriges RACiO.s.....sssssssoseessnssesesesesrssesesrerersesesrnesnerreneresrsr renen nrn enes ns nn en en nr 12 Sveriges TeleViSlOD........esesessssesesesesseseseseersesesresesrernesreresren ennen esnnnenen enn rna 12 Teracom Svensk RundradiO..........ssssessessseressesessesesnessnesernesrsnersesnsnsn 12,10y tillStåndSPeriOCL....sssssesessesessssenesesesreneserrsrer renen esnenernenern een eran er rn eran ennen nn 12 TV-QVBiflosooeeseererseereresrererserersesesrsrererererrereresrrrerrrrernrn en nrr ene n earn er nen rn een en enn 12 underhållningsprogram med våldsinSlaäg.........ssssssssssssssesrerssssseresrsnsnnnsn 12 uppföljning och utvärdering av public serviceuppdraget..................... 12 UtbildningSraCiOnD.......sssssssssssssssssesrssesesrsresesrersrerersernernsn ense renare renen en en en 12 utförsäljning av TV- och radiokanaler..........sssssssesessesessesessesesnsn 12,7y,10y våldsskildrinZal....ssssssssssrsrseresseseseseserenernernererersesesrrrnnerenenen aren eran aren erna 12,4y ÄLATSKAPooseessrssesessrerersesrerrrerererernersrsrsreresrer ere ren een es ern enes reser n earn er renen en en ennen 12 Redogörelse för behandlingen av riksdagens skrivelser till TEZCIINGCNassssssessesreerssrsreresresrerersreresresrrsrer reser s ren een err rese en ene es nee R ekrarna 5y Riksantikvarieämbetet...........sssssssssessessesersessensessrsserserrsersresrerrrrnesnersnerernnn erna 13 Riksarkivet, landsarkiven och Krigsarkivet...........ssssssosssssssssessesessesnnsesennr 13 Riksteatern, Svenska ANSLAG os oseesesresrerersrerrereresesrsrerererenesrrrsr enes n eran er rer n en esn een enes Renee ennen ene e annen 13 DESPALT ING osssesesesresrerseresrerererererserrererererrrrenesnsn ens narr en ene n erna er nens n ene enar nn nan 9y Språkvård informationsteknik......s.sssssssssesssrssresesrsessesrrsrssrrsrrsrnrerrerrrrrrrrren ennen ner renen ena Ty KlarspråkSgrUpPelD.....ssessssesesesessssssnsssrsrsesesnsnererserersersesesesesnsnsnenrns nere rn nns nnn 7 Nordiska språksekretariatet..............ssosesessoseseoeseosesesensnsererenresenrrsersrnsnnrnnn 7 SpråkvårdSgrUpPPeD.......ssssesseosessrosessessrssenresersrrrrsrnsen rn er ser ennen sen serna enn erna 7 Svenska akademieh.......ssssssssssesssrsrsreseserrersesrrrsesrererrerernsr ennen eran renen nana nn 7 svenska SpråKket.........ssssessesessesessesensrsesseresernsesesesesrrnrsrrersnsnr en en rnnn 7,12,4y,7y Svenska språknämndeD.....mssesesesssrsererrsrrrrnenererrnrrsrsrnrrerrrrrrsr sne rr enn nerna 7 Tekniska nomenklaturcentralen...........sssesssessssesssessrserersrsrssrsrsrersrerersrers ly Statens KUulturråC........ssssssssssssrsrseresernrsresnsnsnsrsrenererererererrrrr renen ene ene en sn nn enn a 13 UngdOmsSsStyrelSCD...sssssssesssssseserseseseereresrsreresrerrsrerernrr ennen enes er srn enar een enn n nn 10 StiftelselagZeDassssssssseseesesesesesrsrrrerereresrerererrrreres rese erererr ene en rese rr renen renen ene nen ly Svenska akademieh....ssssssssssssrssssrererresrersrernrerrsrsrerresrerrrrrerrrrrrrrr ere rrn sn renen ena 7 Svenska riksteatern 21985 EV 13 DESPariNGoosssseseseseerenersesesrrrerrsrrrrnerererererererer enes rensns renen aren ere es rr rn enn n nn nn 9y</p>
-          <p>1995/96:KrUReg.</p>
-          <p>10</p>
+          <p>
+            mångkulturella samhället, SPegling AV......ss..ssssssssssssssssnnnssnnnsnnrnnnnnnnnnnnn
+            12
+          </p>
+          <p>
+            nordiskt TV-samarbete...........sssosososesesesesenenerenrsnenensnrnsnrnrnrnrsrsesersenenrnr
+            ennen 2y nyhetsförmedling, olika perspektiv i.........sssssessessesessessesosessssresensrnnnnnnnn
+            12 omfattning, SäÄNdningSrätteNS.............sessssessssesesessssssesesesenesessnsesrnsnnnnnnnnn
+            12 parallellsändningar, analoga och digitala............sssssssssssssssssessesesserrssnnnn
+            12 produktion, distriktsbaserad...........ssssssssssresessrsessersrserssesrrsrsrererrsrsnerenent
+            12 program på svenska SpråKet.........sseessessesssessersessrossrssrnsrosersrnssrnnsrnnsnnnnen
+            12 programledare med utomnordiskt UTSPIUNQ.....sessesessrsrsesesesrssesrnsrnnnnnnn
+            12 public service-bOkSIlUt.......ssessessessessesseosessessrsrnsrsrrsrnsrssnsrrsnrensrnsnrsnns
+            nns rnnn 12 public Service-UPPCraget.....ssssssesrssssessnsesresesrsrsrrrersrnesrnrnsnsnnennnr
+            ens nn ennen 12 radio- OCh TV-lagZ.....ssessssesssesesrsresesesrererseresrererrererrrnrsrerrsrsrernennsnr
+            renen en nn rna 12 Radio SWedCID..ssesssssrssesesesesrerererersesrererserrsrererrer
+            renen renen renen rer n ren srn rn enar en a 12 Radiotjänst i
+            Kiruna AB, RIKAB sssssnssrsrsrssesrssesesneresnesesrnesrsrnesrsrsrererenen
+            en 12 riktlinjer för programverksamheteh........s.sssssesesssosssnsnrneneseseserenenernnsnnnnn
+            12 rundradiokOnDtOt............sssssssrrssssssrssererrerrssrrsrrsererrrnnerrrrrrrr
+            rer rer rr nn rr ran 12,7y räckvidd, SändniNngarNASÉ.....ssessssssssssessesesessesesresesrernernenesner
+            erna ennen arenan nn eran 12 [SJ 610) 415 813 82 RR 12 struktur,
+            ProgramfÖretageNS.........sssssssessssssessssessrsesneresneresneresnerern
+            enn nnnnnn 12 Sveriges RACiO.s.....sssssssoseessnssesesesesrssesesrerersesesrnesnerreneresrsr
+            renen nrn enes ns nn en en nr 12 Sveriges TeleViSlOD........esesessssesesesesseseseseersesesresesrernesreresren
+            ennen esnnnenen enn rna 12 Teracom Svensk RundradiO..........ssssessessseressesessesesnessnesernesrsnersesnsnsn
+            12,10y tillStåndSPeriOCL....sssssesessesessssenesesesreneserrsrer
+            renen esnenernenern een eran er rn eran ennen nn 12 TV-QVBiflosooeeseererseereresrererserersesesrsrererererrereresrrrerrrrernrn
+            en nrr ene n earn er nen rn een en enn 12 underhållningsprogram
+            med våldsinSlaäg.........ssssssssssssssesrerssssseresrsnsnnnsn
+            12 uppföljning och utvärdering av public serviceuppdraget.....................
+            12 UtbildningSraCiOnD.......sssssssssssssssssesrssesesrsresesrersrerersernernsn
+            ense renare renen en en en 12 utförsäljning av TV- och radiokanaler..........sssssssesessesessesessesesnsn
+            12,7y,10y våldsskildrinZal....ssssssssssrsrseresseseseseserenernernererersesesrrrnnerenenen
+            aren eran aren erna 12,4y ÄLATSKAPooseessrssesessrerersesrerrrerererernersrsrsreresrer
+            ere ren een es ern enes reser n earn er renen en en ennen 12 Redogörelse
+            för behandlingen av riksdagens skrivelser till TEZCIINGCNassssssessesreerssrsreresresrerersreresresrrsrer
+            reser s ren een err rese en ene es nee R ekrarna 5y Riksantikvarieämbetet...........sssssssssessessesersessensessrsserserrsersresrerrrrnesnersnerernnn
+            erna 13 Riksarkivet, landsarkiven och Krigsarkivet...........ssssssosssssssssessesessesnnsesennr
+            13 Riksteatern, Svenska ANSLAG os oseesesresrerersrerrereresesrsrerererenesrrrsr
+            enes n eran er rer n en esn een enes Renee ennen ene e annen 13
+            DESPALT ING osssesesesresrerseresrerererererserrererererrrrenesnsn
+            ens narr en ene n erna er nens n ene enar nn nan 9y Språkvård
+            informationsteknik......s.sssssssssesssrssresesrsessesrrsrssrrsrrsrnrerrerrrrrrrrren
+            ennen ner renen ena Ty KlarspråkSgrUpPelD.....ssessssesesesessssssnsssrsrsesesnsnererserersersesesesesnsnsnenrns
+            nere rn nns nnn 7 Nordiska språksekretariatet..............ssosesessoseseoeseosesesensnsererenresenrrsersrnsnnrnnn
+            7 SpråkvårdSgrUpPPeD.......ssssesseosessrosessessrssenresersrrrrsrnsen
+            rn er ser ennen sen serna enn erna 7 Svenska akademieh.......ssssssssssesssrsrsreseserrersesrrrsesrererrerernsr
+            ennen eran renen nana nn 7 svenska SpråKket.........ssssessesessesessesensrsesseresernsesesesesrrnrsrrersnsnr
+            en en rnnn 7,12,4y,7y Svenska språknämndeD.....mssesesesssrsererrsrrrrnenererrnrrsrsrnrrerrrrrrsr
+            sne rr enn nerna 7 Tekniska nomenklaturcentralen...........sssesssessssesssessrserersrsrssrsrsrersrerersrers
+            ly Statens KUulturråC........ssssssssssssrsrseresernrsresnsnsnsrsrenererererererrrrr
+            renen ene ene en sn nn enn a 13 UngdOmsSsStyrelSCD...sssssssesssssseserseseseereresrsreresrerrsrerernrr
+            ennen enes er srn enar een enn n nn 10 StiftelselagZeDassssssssseseesesesesesrsrrrerereresrerererrrreres
+            rese erererr ene en rese rr renen renen ene nen ly Svenska akademieh....ssssssssssssrssssrererresrersrernrerrsrsrerresrerrrrrerrrrrrrrr
+            ere rrn sn renen ena 7 Svenska riksteatern 21985 EV 13 DESPariNGoosssseseseseerenersesesrrrerrsrrrrnerererererererer
+            enes rensns renen aren ere es rr rn enn n nn nn 9y
+          </p>
+          <p>
+            1995/96:KrUReg.
+          </p>
+          <p>
+            10
+          </p>
           <pb facs="riksdagen-volumeG-pdf/data/199596/reg_199596_KrU/reg_199596_KrU-010.pdf"/>
-          <p>Svenska SpråknämndelnD......sssessssesesreeresrrsreresesesesrersesrrsrsrsesrerr renen nrn rss nrnn nn nns nn 7</p>
-          <p>TEeater,aNSlägZ..ssssssseressreserererrereresnrerrererrrssr reses enrer ns n enes sn r enes nen e rr nn rr rn nn er nn 13 Teaterhistoriska museet i ESKilStUNa.........sssssssosssessressrsssesoressessressrnnerrnnrr snar 1 Tekniska nomenklaturcenträleh..........ssessessssssesessssesersessessesersrssesnresresnrrrrrnnn 7 Teracom Svensk RUndradiO..........ssssessssersseseserersesrssroresrsrsrsrnerrrsrenrsrnrnn 12,10y Tidaholm grafiskt MUSCUIML..sssssssossoreeresreererrereerreresesrsrsrsn ere ens esse ner esn arr enn ers n ren n nen na 1 litografisk akademMi...sssssesesesrerereseserreresrsesesersrerer aren errrr ene rrnen ene n ennen nen annan 1 Tilläggsbudget Bidrag till folkbildniNngeD.......ssssesssssssessssssesereresesrsrnrsesrerererernrn ennen nrr nn rna 9y Bidrag till fria teater-, dans- och musikgrupper M.M.......seessessmsmsssn 13 Bidrag till nationell och internationell ungdoms- verksamhet M.l.ssmsssssssesreersrrereeresresrerrsrerersr enes r eran esse ren nen renen ren nn na 10,9y Bidrag till Svenska riksteatern, Operan och Dramatiska teatell.......ssssesssrsrereseresrereseseresrrrrsrsrereresrsrrnen enar rr nen nr nen e annan 13 Bidrag till utvecklingsverksamhet inom kulturområdet M.M. .esosssessessessrsrerererrrrersrrsrsrreserererrrnerererren ene er ren nen rrn enn enn 13 Centrala museer: Myndigheter..........ssesssesssessssssseresersssesenesrsrrrenrernsnnrnnna 13 Centrala museer: StiftelSCi.......sssosossesossssssseresesesesrsnenesnenenerenernennrn nn nn nnn 13 Riksantikvarieämbetet..........ssosossososessessesesesesresesrsrnesresrersrsrersrererrnrrrnrrsr nr rn nn 13 Riksarkivet, landsarkiven och KrigsarkiVet...........ssssssssssessssssessessrssersnt 13 Statens KulturråCL........sesesssssssssssrsrsrersrsrsererrerrrrererererererenrns ere en ernrn rn en nn Ungdomsstyrelsen Visningsersättning åt bild- och formkOnstnärer............ssssssssssssesresrssinnt 13 TipStjänSt, ÅBssssssssssssssserseesessresreseeresresresrrsrererersesrererrsrrernerrrr ennen renen ren r rna nn 8y Tornedalsfrågor Europarådets konvention om regionala språk och MINOFitetSSPråK....sssssessrsrssrsreresrererererrrrererersrsrrrsreren ene rer ere ennen ennen ennen arna ena 3 Stiftelsen Meän Acateemi - Academia TornedaliensSiS.............ssssssssssss0 3 Svenska Tornedalingars RiksförbUnd..........sssssssssrssseeserrsrrsserrersrrsresrrrrrnn 3 tornedalsfinsk KUltUr.........ssseessersesesesrsssrssesrrsresessressrrsrrsrrrrrresnrrnnerrnnn rr rna 3 tornedalsfinska SPråKet..........ssssssssssssresseserserersssereseseserernersernernererererrnrnn er nn nn 3 Trollhättan, INNOVatUD. sssessseerresrrerrerrrerreerrsreserrrsrrsrresrresrrrrrrnnrrr nns nn rrn nn r rann 8 Turism ANSlADoooseesresesrrerresrreresrrerrerrerrerrerrrrerrrrrrrrer enes kr senere rens e een erna nens r rn enn n rn nan 3y Svensk Turistutveckling AB.=...ssssessssssssssseserersesesresersrsrsrrresrernerrerrerrrsnn rna 3y teknikutveCklilgQ......sssessssessessesrssesessrssrsrsererrsrereserrerrernrsr renen ennen rrn ner nn n anna 3y TuristdelegatiONCh.......ssssssssssssesesrssesesesrsssrsrsesesesesnereresnrnerernrnen enar n ene n enn 3y Ungdomsfrågor £19 15 EF 10,9y Bidrag till nationell och internationell ungdoms- verksamhet MulD...smssssssossorssresreresrrsrsrreresesrsren er esr er er renarna nere enar rr n nen nn 10,9y Ungdom för Europa, EU:s utbytesprOogrälM.........sssssssssesesssrereresnernnnt 10,9y UngdOmsStyrelSCh.....sssssessessereererrerseererrrsrerererersrsrerrrrrrrerrrrrer ennen rn rr nan 10,9y världskongress om kommersiell sexuell exploatering FMV oe 8 8 RR 6 Utgiftsområde 17: Kultur, medier, trossamfund och fritid................. 9y,l2y Utvecklingsverksamhet inom kulturområdet m.m., Bidrag tillossssssssssssssssrssssressrressresrrssrerrrssrrerrerrsren rer rrr rer rerr ren rsr ren r rer s rr rn na 13 Visningsersättning åt bild- och formkOnStnärel..........sssssssesssrssesessrsrssesnrnt 13</p>
-          <p>Gotab, Stockholm 1996</p>
-          <p>1995/96:KrUReg.</p>
+          <p>
+            Svenska SpråknämndelnD......sssessssesesreeresrrsreresesesesrersesrrsrsrsesrerr
+            renen nrn rss nrnn nn nns nn 7
+          </p>
+          <p>
+            TEeater,aNSlägZ..ssssssseressreserererrereresnrerrererrrssr reses
+            enrer ns n enes sn r enes nen e rr nn rr rn nn er nn 13 Teaterhistoriska
+            museet i ESKilStUNa.........sssssssosssessressrsssesoressessressrnnerrnnrr
+            snar 1 Tekniska nomenklaturcenträleh..........ssessessssssesessssesersessessesersrssesnresresnrrrrrnnn
+            7 Teracom Svensk RUndradiO..........ssssessssersseseserersesrssroresrsrsrsrnerrrsrenrsrnrnn
+            12,10y Tidaholm grafiskt MUSCUIML..sssssssossoreeresreererrereerreresesrsrsrsn
+            ere ens esse ner esn arr enn ers n ren n nen na 1 litografisk
+            akademMi...sssssesesesrerereseserreresrsesesersrerer aren errrr
+            ene rrnen ene n ennen nen annan 1 Tilläggsbudget Bidrag till folkbildniNngeD.......ssssesssssssessssssesereresesrsrnrsesrerererernrn
+            ennen nrr nn rna 9y Bidrag till fria teater-, dans- och musikgrupper
+            M.M.......seessessmsmsssn 13 Bidrag till nationell och internationell
+            ungdoms- verksamhet M.l.ssmsssssssesreersrrereeresresrerrsrerersr
+            enes r eran esse ren nen renen ren nn na 10,9y Bidrag till Svenska
+            riksteatern, Operan och Dramatiska teatell.......ssssesssrsrereseresrereseseresrrrrsrsrereresrsrrnen
+            enar rr nen nr nen e annan 13 Bidrag till utvecklingsverksamhet
+            inom kulturområdet M.M. .esosssessessessrsrerererrrrersrrsrsrreserererrrnerererren
+            ene er ren nen rrn enn enn 13 Centrala museer: Myndigheter..........ssesssesssessssssseresersssesenesrsrrrenrernsnnrnnna
+            13 Centrala museer: StiftelSCi.......sssosossesossssssseresesesesrsnenesnenenerenernennrn
+            nn nn nnn 13 Riksantikvarieämbetet..........ssosossososessessesesesesresesrsrnesresrersrsrersrererrnrrrnrrsr
+            nr rn nn 13 Riksarkivet, landsarkiven och KrigsarkiVet...........ssssssssssessssssessessrssersnt
+            13 Statens KulturråCL........sesesssssssssssrsrsrersrsrsererrerrrrererererererenrns
+            ere en ernrn rn en nn Ungdomsstyrelsen Visningsersättning åt bild-
+            och formkOnstnärer............ssssssssssssesresrssinnt 13 TipStjänSt,
+            ÅBssssssssssssssserseesessresreseeresresresrrsrererersesrererrsrrernerrrr
+            ennen renen ren r rna nn 8y Tornedalsfrågor Europarådets konvention
+            om regionala språk och MINOFitetSSPråK....sssssessrsrssrsreresrererererrrrererersrsrrrsreren
+            ene rer ere ennen ennen ennen arna ena 3 Stiftelsen Meän Acateemi
+            - Academia TornedaliensSiS.............ssssssssssss0 3 Svenska
+            Tornedalingars RiksförbUnd..........sssssssssrssseeserrsrrsserrersrrsresrrrrrnn
+            3 tornedalsfinsk KUltUr.........ssseessersesesesrsssrssesrrsresessressrrsrrsrrrrrresnrrnnerrnnn
+            rr rna 3 tornedalsfinska SPråKet..........ssssssssssssresseserserersssereseseserernersernernererererrnrnn
+            er nn nn 3 Trollhättan, INNOVatUD. sssessseerresrrerrerrrerreerrsreserrrsrrsrresrresrrrrrrnnrrr
+            nns nn rrn nn r rann 8 Turism ANSlADoooseesresesrrerresrreresrrerrerrerrerrerrrrerrrrrrrrer
+            enes kr senere rens e een erna nens r rn enn n rn nan 3y Svensk
+            Turistutveckling AB.=...ssssessssssssssseserersesesresersrsrsrrresrernerrerrerrrsnn
+            rna 3y teknikutveCklilgQ......sssessssessessesrssesessrssrsrsererrsrereserrerrernrsr
+            renen ennen rrn ner nn n anna 3y TuristdelegatiONCh.......ssssssssssssesesrssesesesrsssrsrsesesesesnereresnrnerernrnen
+            enar n ene n enn 3y Ungdomsfrågor £19 15 EF 10,9y Bidrag till
+            nationell och internationell ungdoms- verksamhet MulD...smssssssossorssresreresrrsrsrreresesrsren
+            er esr er er renarna nere enar rr n nen nn 10,9y Ungdom för Europa,
+            EU:s utbytesprOogrälM.........sssssssssesesssrereresnernnnt 10,9y
+            UngdOmsStyrelSCh.....sssssessessereererrerseererrrsrerererersrsrerrrrrrrerrrrrer
+            ennen rn rr nan 10,9y världskongress om kommersiell sexuell exploatering
+            FMV oe 8 8 RR 6 Utgiftsområde 17: Kultur, medier, trossamfund
+            och fritid................. 9y,l2y Utvecklingsverksamhet inom
+            kulturområdet m.m., Bidrag tillossssssssssssssssrssssressrressresrrssrerrrssrrerrerrsren
+            rer rrr rer rerr ren rsr ren r rer s rr rn na 13 Visningsersättning
+            åt bild- och formkOnStnärel..........sssssssesssrssesessrsrssesnrnt
+            13
+          </p>
+          <p>
+            Gotab, Stockholm 1996
+          </p>
+          <p>
+            1995/96:KrUReg.
+          </p>
         </div>
       </div>
     </body>
