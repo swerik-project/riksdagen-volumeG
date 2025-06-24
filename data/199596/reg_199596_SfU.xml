@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="reg_199596_SfU">
   <teiHeader>
     <fileDesc>
       <titleStmt/>
@@ -22,58 +22,385 @@
       <pb facs="riksdagen-volumeG-pdf/data/199596/reg_199596_SfU/reg_199596_SfU-000.pdf"/>
       <div type="gBody">
         <div>
-          <p>Socialförsäkringsutskottets register vid riksmötet 1995/96</p>
-          <p>1995/96 SfU Reg.</p>
-          <p>Betänkanden</p>
-          <p>Nr SfU1 Utlänningsnämndens roll i invandrings- och flyktingpolitiken (försl. 1994/95:RR12)</p>
-          <p>Utskottets justering 1995-11-07 Debatt i kammaren 1995-11-23 Protokollsnummer 1995/96:28 Riksdagens beslut: Bifall till utskottets hemställan 1995-11-23 Protokollshummer 1995/96:28 Riksdagsskrivelse 1995/96:36 och 1995/96:37 Nr SfU2 Vissa socialförsäkringsfrågor, m.m. (prop. 1995/96:69) Utskottets justering 1995-11-30 Debatt i kammaren 1995-12-13 Protokollsnhummer 1995/96:37 Riksdagens beslut: Bifall till utskottets hemställan 1995-12-13 Protokollsnummer 1995/96:37 Riksdagsskrivelse 1995/96:87 Nr SfU3 Arbetsskadefrågor m.m. Utskottets justering 1996-02-15 Debatt i kammaren 1996-03-06 Protokollsnummer 1995/96:64 Riksdagens beslut: Bifall till utskottets hemställan 1996-03-13 Protokollsnummer 1995/96:68 Nr SfU4 Tandvårdsfrågor (skr. 1995/96:147) Utskottets justering 1996-03-19 Debatt i kammaren 1996-04-17 Protokollsnummer 1995/96:81 Riksdagens beslut: Bifall till utskottets hemställan 1996-04-17 Protokollsnummer 1995/96:81</p>
-          <p>I Riksdagen 1995/96. 11 saml. Register</p>
+          <p>
+            Socialförsäkringsutskottets register vid riksmötet 1995/96
+          </p>
+          <p>
+            1995/96 SfU Reg.
+          </p>
+          <p>
+            Betänkanden
+          </p>
+          <p>
+            Nr SfU1 Utlänningsnämndens roll i invandrings- och flyktingpolitiken
+            (försl. 1994/95:RR12)
+          </p>
+          <p>
+            Utskottets justering 1995-11-07 Debatt i kammaren 1995-11-23
+            Protokollsnummer 1995/96:28 Riksdagens beslut: Bifall till utskottets
+            hemställan 1995-11-23 Protokollshummer 1995/96:28 Riksdagsskrivelse
+            1995/96:36 och 1995/96:37 Nr SfU2 Vissa socialförsäkringsfrågor,
+            m.m. (prop. 1995/96:69) Utskottets justering 1995-11-30 Debatt
+            i kammaren 1995-12-13 Protokollsnhummer 1995/96:37 Riksdagens
+            beslut: Bifall till utskottets hemställan 1995-12-13 Protokollsnummer
+            1995/96:37 Riksdagsskrivelse 1995/96:87 Nr SfU3 Arbetsskadefrågor
+            m.m. Utskottets justering 1996-02-15 Debatt i kammaren 1996-03-06
+            Protokollsnummer 1995/96:64 Riksdagens beslut: Bifall till utskottets
+            hemställan 1996-03-13 Protokollsnummer 1995/96:68 Nr SfU4 Tandvårdsfrågor
+            (skr. 1995/96:147) Utskottets justering 1996-03-19 Debatt i kammaren
+            1996-04-17 Protokollsnummer 1995/96:81 Riksdagens beslut: Bifall
+            till utskottets hemställan 1996-04-17 Protokollsnummer 1995/96:81
+          </p>
+          <p>
+            I Riksdagen 1995/96. 11 saml. Register
+          </p>
           <pb facs="riksdagen-volumeG-pdf/data/199596/reg_199596_SfU/reg_199596_SfU-001.pdf"/>
           <pb facs="riksdagen-volumeG-pdf/data/199596/reg_199596_SfU/reg_199596_SfU-002.pdf"/>
           <pb facs="riksdagen-volumeG-pdf/data/199596/reg_199596_SfU/reg_199596_SfU-003.pdf"/>
-          <p>Nr SfUS Tilläggsbudget — Studiestöd och invandring (prop. 1995/96:105)</p>
-          <p>Utskottets justering 1996-03-19 Debatt i kammaren 1996-04-17 Protokollsnhummer 1995/96:81 Riksdagens beslut: Bifall till utskottets hemställan 1996-04-17 Protokollsnhummer 1995/96:81 Riksdagsskrivelse 1995/96:213 och 1995/96:217 Nr SfU6 Tvåpartsprocess (prop. 1995/96:128) Utskottets justering 1996-03-19 Debatt i kammaren 1996-03-27 Protokollsnhummer 1995/96:76 Riksdagens beslut: Bifall till utskottets hemställan 1996-03-27 Protokollsnummer 1995/96:76 Riksdagsskrivelse 1995/96:186 Nr SfU7 Basbeloppet m.m. (prop. 1995/96:149) Utskottets justering 1996-05-07 Debatt i kammaren 1996-05-22 Protokollsnhummer 1995/96:97 Riksdagens beslut: Bifall till utskottets hemställan 1996-05-23 Protokollsnummer 1995/96:98 Riksdagsskrivelse 1995/96:258 Nr SfU8</p>
-          <p>Konvention mellan Sverige och Österrike om social trygghet (prop. 1995/96:203)</p>
-          <p>Utskottets justering 1996-05-28 Riksdagens beslut: Bifall till utskottets hemställan 1996-06-05 Protokollsnummer 1995/96:106 Riksdagsskrivelse 1995/96:294</p>
-          <p>1995/96:SfU Reg.</p>
+          <p>
+            Nr SfUS Tilläggsbudget — Studiestöd och invandring (prop. 1995/96:105)
+          </p>
+          <p>
+            Utskottets justering 1996-03-19 Debatt i kammaren 1996-04-17
+            Protokollsnhummer 1995/96:81 Riksdagens beslut: Bifall till utskottets
+            hemställan 1996-04-17 Protokollsnhummer 1995/96:81 Riksdagsskrivelse
+            1995/96:213 och 1995/96:217 Nr SfU6 Tvåpartsprocess (prop. 1995/96:128)
+            Utskottets justering 1996-03-19 Debatt i kammaren 1996-03-27 Protokollsnhummer
+            1995/96:76 Riksdagens beslut: Bifall till utskottets hemställan
+            1996-03-27 Protokollsnummer 1995/96:76 Riksdagsskrivelse 1995/96:186
+            Nr SfU7 Basbeloppet m.m. (prop. 1995/96:149) Utskottets justering
+            1996-05-07 Debatt i kammaren 1996-05-22 Protokollsnhummer 1995/96:97
+            Riksdagens beslut: Bifall till utskottets hemställan 1996-05-23
+            Protokollsnummer 1995/96:98 Riksdagsskrivelse 1995/96:258 Nr SfU8
+          </p>
+          <p>
+            Konvention mellan Sverige och Österrike om social trygghet (prop.
+            1995/96:203)
+          </p>
+          <p>
+            Utskottets justering 1996-05-28 Riksdagens beslut: Bifall till
+            utskottets hemställan 1996-06-05 Protokollsnummer 1995/96:106
+            Riksdagsskrivelse 1995/96:294
+          </p>
+          <p>
+            1995/96:SfU Reg.
+          </p>
           <pb facs="riksdagen-volumeG-pdf/data/199596/reg_199596_SfU/reg_199596_SfU-004.pdf"/>
-          <p>Yttranden</p>
-          <p>Nr SfU1y till KU Förvaltningsmyndigheternas ledning (prop. 1994/95:150 bil. 7) Utskottets justering 1995-10-26 KUI</p>
-          <p>Nr SfU2y till FiU En politik för arbete, trygghet och utveckling (prop. 1995/96:25) Utskottets justering 1995-11-30 FiUl</p>
-          <p>Nr SfU3y till UU EU:s regeringskonferens 1996 (skr. 1995/96:30) Utskottets justering 1996-02-15 UU13</p>
-          <p>Nr SfU4y till UU Berättelse om verksamheten i Europeiska unionen under 1995 (skr. 1995/96:190) Utskottets justering 1996-05-07 UU25</p>
-          <p>Nr SfUS5y till FiU Ekonomisk vårproposition (prop. 1995/96:150) Utskottets justering 1996-05-15 FiU10</p>
-          <p>Nr SfU6y till FiU Vissa åtgärder för att halvera arbetslösheten till år 2000 (prop. 1995/96:222) Utskottets justering 1996-06-26 FiU15</p>
-          <p>1995/96:SfU Reg.</p>
+          <p>
+            Yttranden
+          </p>
+          <p>
+            Nr SfU1y till KU Förvaltningsmyndigheternas ledning (prop. 1994/95:150
+            bil. 7) Utskottets justering 1995-10-26 KUI
+          </p>
+          <p>
+            Nr SfU2y till FiU En politik för arbete, trygghet och utveckling
+            (prop. 1995/96:25) Utskottets justering 1995-11-30 FiUl
+          </p>
+          <p>
+            Nr SfU3y till UU EU:s regeringskonferens 1996 (skr. 1995/96:30)
+            Utskottets justering 1996-02-15 UU13
+          </p>
+          <p>
+            Nr SfU4y till UU Berättelse om verksamheten i Europeiska unionen
+            under 1995 (skr. 1995/96:190) Utskottets justering 1996-05-07
+            UU25
+          </p>
+          <p>
+            Nr SfUS5y till FiU Ekonomisk vårproposition (prop. 1995/96:150)
+            Utskottets justering 1996-05-15 FiU10
+          </p>
+          <p>
+            Nr SfU6y till FiU Vissa åtgärder för att halvera arbetslösheten
+            till år 2000 (prop. 1995/96:222) Utskottets justering 1996-06-26
+            FiU15
+          </p>
+          <p>
+            1995/96:SfU Reg.
+          </p>
           <pb facs="riksdagen-volumeG-pdf/data/199596/reg_199596_SfU/reg_199596_SfU-005.pdf"/>
-          <p>Sakregister</p>
-          <p>Allmän försäkring ändring i lågeN =osssssssssssresrrerrsrrsrrsrsrsrrssrsrerrsr ns rs rrr essens ere senere nr nn non 2,6, 7 Allmänna egenavgifter höjning av sjukförsäkringsaVvgiftenD.............sssssssssssssssssersrsrsrrsrrenersrrrrnnsnns 6y till SJUKfÖrSÄKTiNgGeD ossssossssersereeresrererrerersrsrsrsrsrerrerersrrrrsrs nere rs renen enes er rn ene n nan 7 utredning av effekterna ..........sssssssssrsseresrsrsrsresrerenersrsrsrerererrrren ere er nr ren enn r enn 2 växling mot arbetsgivaravgifter ...........ssssssssssssssssesesserenrnrresennnrnrnrnnennnrnnnnnn 7 ändring i lägCN sssssssssssssesrersesesresrrrerrrrereresesrererrsrerer er rere senares en eran enes enar nn 2,7 Allmänna försäkringskassor ANSIAQ oooesesersererersesrererrerererrsrerrsrer renen errer es rsrsrs rer ers er enes en ere e senere ennen en eran 6, 5y Arbetsgivaravgifter OMSÄättningssKkatlt s......ssssssssssresesrsrseresresrerererersesrererernrersr ere reser ere ernrn ene er renen enn 7 skyldigheten att betala ...........ssssssossossorssrssrsresrseseersreresrernesrrrrerrrresnrrnrn renen renar 2 växling mot allmänna egenavgifter ............ssssssssssssesesosserernsnesereresnsnererrnnenn 7 Arbetshjälpmedel.....ssssssssssssssesrseseorersesesrersesrersereresrenererren enes ers rsn ester esnsns renen sne nerna 3 Arbetslöshetsersättnil2.............esssessssssssesesssreresereresesrseserersersrersrsrsnnerenerenen erna 6y Arbetsskadeförsäkring arbetsskadebegreppet.........sssssssssssrsorsoreserersreseersesresrersreresrrrsrerrrrers renen ennen renen 3 beslutsOrdningen......ssessssssserssesrsserreresrsrererersesrrreresnes ere ers ene eran ns renen rn en enn nn 3 rehabiliterilg2..........ssosossoossssseesrerresresrrnresesrersrernrernes ennen ner ess esse renen rer n nen e resan 3 tandvårdspersonals arbetsskadoOr.............ssssssessssesesssssrsserersrseseseresrererrrrer rna 3 ändring i lägCN ssessssssssesesrsresesrersesreresrsrersesrsrsreresren ene rrr enes ererr ene en en sn ene erna nn 2 Asylprocessen beslutsmOtiveriNZal......ssssssssssersesesrersesesrsrsserseserrererserrsr ere essensen een nrn enes rr renen enn 1 medborgarVittn€.......sssssssessessesresresresrsrsrsrsesrrrrsrernenner nen esr enes er ern ene er ennen nn nn 1 offentliga biträClelD............sssssssessossssssserreresresrsrrrrnesresrrr reses ene ern ennen ennen erna 1 Utlänningsnämndeln s.sssssssssserresrerresrerresrsrersrersrerrsresrer rer rer esse ner esr ennen ne renen nn 1 Basbeloppet Deräknilg ssssssssssssrssrerseeresresrrsresrrerrrrrsresrrsrer rer rer enes een ee senses ses er renen renen enes nn nn 7 förhöjt DasbelOPP .......ssessssessssssessssssererersrsrsrseseserserererersrsrnrsrs eran en en aren en rn rann 7 okorrigerat basbelOpPpP ..........sssessessesssssssssesrssesrersesrrsrersesrrnrrrrrrernernrn enn rn enn nn 7 tidpunkt för beräkniNg s....ssssssssssssesessseseseserersesrrrrersrsrseseren ene erensns renen eran enn 7 ändrad beräkningsmetOd s......ssssssessssssrresrsresrrsrersrsrsrsresrernrsrrsrrsrerernrrnen ner nr renar 7 Bostadstillägg till pensionärer inkomst av utländsk penSiOl...........sssssssssssssessssseseseseresessnernersrnrnnrnerer ennen en nn nn 2 utökad personkretS s........ssssssssessssssssssrssesrssesresrrsrrsesrsesrersrerrsr ren ernes ennen enes nan 2 ändring i lägCD ssssossssesreresrsrererrererrerersrsr ere ererrener es nrn ere een ere er renen een enar en enar 2</p>
-          <p>Centrala studiestödsnämnden</p>
-          <p>1995/96:SfU Reg.</p>
+          <p>
+            Sakregister
+          </p>
+          <p>
+            Allmän försäkring ändring i lågeN =osssssssssssresrrerrsrrsrrsrsrsrrssrsrerrsr
+            ns rs rrr essens ere senere nr nn non 2,6, 7 Allmänna egenavgifter
+            höjning av sjukförsäkringsaVvgiftenD.............sssssssssssssssssersrsrsrrsrrenersrrrrnnsnns
+            6y till SJUKfÖrSÄKTiNgGeD ossssossssersereeresrererrerersrsrsrsrsrerrerersrrrrsrs
+            nere rs renen enes er rn ene n nan 7 utredning av effekterna ..........sssssssssrsseresrsrsrsresrerenersrsrsrerererrrren
+            ere er nr ren enn r enn 2 växling mot arbetsgivaravgifter ...........ssssssssssssssssesesserenrnrresennnrnrnrnnennnrnnnnnn
+            7 ändring i lägCN sssssssssssssesrersesesresrrrerrrrereresesrererrsrerer
+            er rere senares en eran enes enar nn 2,7 Allmänna försäkringskassor
+            ANSIAQ oooesesersererersesrererrerererrsrerrsrer renen errer es
+            rsrsrs rer ers er enes en ere e senere ennen en eran 6, 5y Arbetsgivaravgifter
+            OMSÄättningssKkatlt s......ssssssssssresesrsrseresresrerererersesrererernrersr
+            ere reser ere ernrn ene er renen enn 7 skyldigheten att betala
+            ...........ssssssossossorssrssrsresrseseersreresrernesrrrrerrrresnrrnrn
+            renen renar 2 växling mot allmänna egenavgifter ............ssssssssssssesesosserernsnesereresnsnererrnnenn
+            7 Arbetshjälpmedel.....ssssssssssssssesrseseorersesesrersesrersereresrenererren
+            enes ers rsn ester esnsns renen sne nerna 3 Arbetslöshetsersättnil2.............esssessssssssesesssreresereresesrseserersersrersrsrsnnerenerenen
+            erna 6y Arbetsskadeförsäkring arbetsskadebegreppet.........sssssssssssrsorsoreserersreseersesresrersreresrrrsrerrrrers
+            renen ennen renen 3 beslutsOrdningen......ssessssssserssesrsserreresrsrererersesrrreresnes
+            ere ers ene eran ns renen rn en enn nn 3 rehabiliterilg2..........ssosossoossssseesrerresresrrnresesrersrernrernes
+            ennen ner ess esse renen rer n nen e resan 3 tandvårdspersonals
+            arbetsskadoOr.............ssssssessssesesssssrsserersrseseseresrererrrrer
+            rna 3 ändring i lägCN ssessssssssesesrsresesrersesreresrsrersesrsrsreresren
+            ene rrr enes ererr ene en en sn ene erna nn 2 Asylprocessen beslutsmOtiveriNZal......ssssssssssersesesrersesesrsrsserseserrererserrsr
+            ere essensen een nrn enes rr renen enn 1 medborgarVittn€.......sssssssessessesresresresrsrsrsrsesrrrrsrernenner
+            nen esr enes er ern ene er ennen nn nn 1 offentliga biträClelD............sssssssessossssssserreresresrsrrrrnesresrrr
+            reses ene ern ennen ennen erna 1 Utlänningsnämndeln s.sssssssssserresrerresrerresrsrersrersrerrsresrer
+            rer rer esse ner esr ennen ne renen nn 1 Basbeloppet Deräknilg
+            ssssssssssssrssrerseeresresrrsresrrerrrrrsresrrsrer rer rer enes
+            een ee senses ses er renen renen enes nn nn 7 förhöjt DasbelOPP
+            .......ssessssessssssessssssererersrsrsrseseserserererersrsrnrsrs
+            eran en en aren en rn rann 7 okorrigerat basbelOpPpP ..........sssessessesssssssssesrssesrersesrrsrersesrrnrrrrrrernernrn
+            enn rn enn nn 7 tidpunkt för beräkniNg s....ssssssssssssesessseseseserersesrrrrersrsrseseren
+            ene erensns renen eran enn 7 ändrad beräkningsmetOd s......ssssssessssssrresrsresrrsrersrsrsrsresrernrsrrsrrsrerernrrnen
+            ner nr renar 7 Bostadstillägg till pensionärer inkomst av utländsk
+            penSiOl...........sssssssssssssessssseseseseresessnernersrnrnnrnerer
+            ennen en nn nn 2 utökad personkretS s........ssssssssessssssssssrssesrssesresrrsrrsesrsesrersrerrsr
+            ren ernes ennen enes nan 2 ändring i lägCD ssssossssesreresrsrererrererrerersrsr
+            ere ererrener es nrn ere een ere er renen een enar en enar 2
+          </p>
+          <p>
+            Centrala studiestödsnämnden
+          </p>
+          <p>
+            1995/96:SfU Reg.
+          </p>
           <pb facs="riksdagen-volumeG-pdf/data/199596/reg_199596_SfU/reg_199596_SfU-006.pdf"/>
-          <p>Ekonomisk trygghet för familjer OCh Där ..sssssssssrsrsrrssrsrresrerererrrrrsrerrrrrerrn senere rss rr re nere enn nan 5y vid sjukdom och handikapp .........ssserssrsrssersrsrsrrsrrrrsrrsrersrrrrsrrsresrrrrrrer rn nn nn 5y Vid ålderClOm ss.sssessererreresrrerrerrsresrerrerresrsrsr ere rer ere nes reses R RR rr KRA n een r sann 5y Ersättningssystemen SAMOICNING AVossosseerererrresererersrrsrresrrerrererrssrerrrrrrnrennr Brrsrsrrerr rer r rr rn ren 5y , 6y Europeiska unionen arbetstagarnas rättigheter ..........s.sssssssssosrsrsnssrsrsrsrsrsrsrerererrrrsr ers rsrsr enn n rn rna 3y ASYlfLÅGOL oossesreresrererrerersrsrererrsrsrsrer ennen ere een sr sn en eran e nere nr nen enar renen e ene n ennen 3y flyktingpOlitik osssmsssssrssssesersreresrerrernrrrnrersrsrsrrrrrrrsr ere rer er ns nere sr r rer r ers rn enn 3y regeringskonferensen 1996 =....s.ssssssseesrersrsrsrsrsrerrnrrrsrsrsrsrrrrrrsrrr enes rr rn nen en 3y samarbete i rättsliga och inrikes frågOr ............sssesssssseseserrsrrssesesrsrsrsnenrnrnr 3y SchengenaVtalet .........ssssssssrssreresresreeresrsresrsrerrsrrsrer rer ers rer rrs reses n een r nn en 4y sociala protokollet.............sesesesssessesrrsrsrrrsrssrresererrsrsrererrrer er rsr reses rsr rn nr roar 3y tredje Pelareh s.sssssssssrsreesrerrerrererrerrsrresrsrssrrrrr esse rens ere ere rer R esse senere nen 3y VISUID oossesrsesreresrrerrerrerrersrersrersrersrsrerrerrerresrsrsr rr er rese rese ere Asse ers Rss Karens rn ennen 3y Flyktingar överföring och andra åtgärder fÖr s..........esesesssesessrsrsrrrrrrrrrrrrsresrrererrrr nen en 5y Folkpension för gifta följdändringar med anledning av Sänkt........ssssessssssssrsesrsrsrresesesrrnrrsrnrnenrnrnn 2 Förtidspension äldreregler sosssssssesrsesesrerseserreresrsrsrererrnr ere ene ere renen ere es ere senere enes ene n enes ennen 6y Förvaltningsdomstolar allmän rättshjälp sm.sssssssssessesesesessssrsreseresenesrsrsrersr enes rs enes r rr rr ene n sne n en en en ennen 6 tVåpPartSPLOCESS...sssssssseresrsrsrsrserersrererenrrsrs ren er ense ene er ense enar enes enes renen enar en enn a 6 Förvaltningsmyndigheter ledningSsfOrMer s..ssesssssresrrsrrsresrsrrsresrrsresrsrer rss enes es reses er esse ers Res r ense anonser ly Föräldraförsäkring enhetlig ersättningSDiVåÅ s..ssmsmssssssesrsrssesesrsrersrnsrnerneresrsrsrsrrrsrsr rr rsrsnsnsn rn error en 2 pappa- och Mammamånaderna .....sssssssessessesessrsrrsrsrrsersrnrrsersrs ense ennen rn r renen 2 tillfällig föräldrapenning och vårdbidrag ...........sssssssssssssssssesessesrrsessrsrsrnsr 2 IdrOttSUtÖVAre s.sssssssesrsresrererrerersesrsrsrererrsr ere rsrsrr reses ere ers esse s ess reses esse senere sens r en enn 7 Invandrare och flyktingar, utgiftsområde..............essesssssssssssrsrerrsrsrsrrsnsnsrsrnnnr Sy KarenSsdagal osssossseseseseresesesesesesrsrsrsrrsersrererersrsrnseserrrs enes en esse essensen sr sr senere r nen rann 2 KonsekvenSanalyS€i......sssessesssresreresrereereerseeresrsresrernrsrsrrsrer renen es rer nr nere enn n nen 2, 5y Konvention mellan Sverige och Österrike om social trygghet........................ 8 Läkemedelskostnader ANSÅG oooosssrererrerersesrerersrsreresrerererrsrsr enes es enes enes reser ss sne ee eek Reser ere e ers nen enn 5y begränsning av, ändring i lågeD se.ssssssessrsrssreserrsrrsrsrrsrererrsrnesrrrrrrrrrerrr rr nr nnn 2 högkostnadsskyCC..........sssssesssessrssrsssrsrererrersrersererresreresrsrererrersrer reser r ens en nen 5y</p>
-          <p>1995/96:SfU Reg.</p>
+          <p>
+            Ekonomisk trygghet för familjer OCh Där ..sssssssssrsrsrrssrsrresrerererrrrrsrerrrrrerrn
+            senere rss rr re nere enn nan 5y vid sjukdom och handikapp .........ssserssrsrssersrsrsrrsrrrrsrrsrersrrrrsrrsresrrrrrrer
+            rn nn nn 5y Vid ålderClOm ss.sssessererreresrrerrerrsresrerrerresrsrsr
+            ere rer ere nes reses R RR rr KRA n een r sann 5y Ersättningssystemen
+            SAMOICNING AVossosseerererrresererersrrsrresrrerrererrssrerrrrrrnrennr
+            Brrsrsrrerr rer r rr rn ren 5y , 6y Europeiska unionen arbetstagarnas
+            rättigheter ..........s.sssssssssosrsrsnssrsrsrsrsrsrsrerererrrrsr
+            ers rsrsr enn n rn rna 3y ASYlfLÅGOL oossesreresrererrerersrsrererrsrsrsrer
+            ennen ere een sr sn en eran e nere nr nen enar renen e ene n ennen
+            3y flyktingpOlitik osssmsssssrssssesersreresrerrernrrrnrersrsrsrrrrrrrsr
+            ere rer er ns nere sr r rer r ers rn enn 3y regeringskonferensen
+            1996 =....s.ssssssseesrersrsrsrsrsrerrnrrrsrsrsrsrrrrrrsrrr enes
+            rr rn nen en 3y samarbete i rättsliga och inrikes frågOr ............sssesssssseseserrsrrssesesrsrsrsnenrnrnr
+            3y SchengenaVtalet .........ssssssssrssreresresreeresrsresrsrerrsrrsrer
+            rer ers rer rrs reses n een r nn en 4y sociala protokollet.............sesesesssessesrrsrsrrrsrssrresererrsrsrererrrer
+            er rsr reses rsr rn nr roar 3y tredje Pelareh s.sssssssssrsreesrerrerrererrerrsrresrsrssrrrrr
+            esse rens ere ere rer R esse senere nen 3y VISUID oossesrsesreresrrerrerrerrersrersrersrersrsrerrerrerresrsrsr
+            rr er rese rese ere Asse ers Rss Karens rn ennen 3y Flyktingar
+            överföring och andra åtgärder fÖr s..........esesesssesessrsrsrrrrrrrrrrrrsresrrererrrr
+            nen en 5y Folkpension för gifta följdändringar med anledning av
+            Sänkt........ssssessssssssrsesrsrsrresesesrrnrrsrnrnenrnrnn 2
+            Förtidspension äldreregler sosssssssesrsesesrerseserreresrsrsrererrnr
+            ere ene ere renen ere es ere senere enes ene n enes ennen 6y Förvaltningsdomstolar
+            allmän rättshjälp sm.sssssssssessesesesessssrsreseresenesrsrsrersr
+            enes rs enes r rr rr ene n sne n en en en ennen 6 tVåpPartSPLOCESS...sssssssseresrsrsrsrserersrererenrrsrs
+            ren er ense ene er ense enar enes enes renen enar en enn a 6 Förvaltningsmyndigheter
+            ledningSsfOrMer s..ssesssssresrrsrrsresrsrrsresrrsresrsrer rss
+            enes es reses er esse ers Res r ense anonser ly Föräldraförsäkring
+            enhetlig ersättningSDiVåÅ s..ssmsmssssssesrsrssesesrsrersrnsrnerneresrsrsrsrrrsrsr
+            rr rsrsnsnsn rn error en 2 pappa- och Mammamånaderna .....sssssssessessesessrsrrsrsrrsersrnrrsersrs
+            ense ennen rn r renen 2 tillfällig föräldrapenning och vårdbidrag
+            ...........sssssssssssssssssesessesrrsessrsrsrnsr 2 IdrOttSUtÖVAre
+            s.sssssssesrsresrererrerersesrsrsrererrsr ere rsrsrr reses ere
+            ers esse s ess reses esse senere sens r en enn 7 Invandrare och
+            flyktingar, utgiftsområde..............essesssssssssssrsrerrsrsrsrrsnsnsrsrnnnr
+            Sy KarenSsdagal osssossseseseseresesesesesesrsrsrsrrsersrererersrsrnseserrrs
+            enes en esse essensen sr sr senere r nen rann 2 KonsekvenSanalyS€i......sssessesssresreresrereereerseeresrsresrernrsrsrrsrer
+            renen es rer nr nere enn n nen 2, 5y Konvention mellan Sverige
+            och Österrike om social trygghet........................ 8 Läkemedelskostnader
+            ANSÅG oooosssrererrerersesrerersrsreresrerererrsrsr enes es enes
+            enes reser ss sne ee eek Reser ere e ers nen enn 5y begränsning
+            av, ändring i lågeD se.ssssssessrsrssreserrsrrsrsrrsrererrsrnesrrrrrrrrrerrr
+            rr nr nnn 2 högkostnadsskyCC..........sssssesssessrssrsssrsrererrersrersererresreresrsrererrersrer
+            reser r ens en nen 5y
+          </p>
+          <p>
+            1995/96:SfU Reg.
+          </p>
           <pb facs="riksdagen-volumeG-pdf/data/199596/reg_199596_SfU/reg_199596_SfU-007.pdf"/>
-          <p>Närståendevård ersättning och ledighet för närståendevård .........sssessssssseserersrssseresrsrsrernnnen ÄäNdring i läge smsssssssssseseessrrrrsrerrrsrrrrsrresrrsrrrrrerrrrrrrr rr nr sr rrs nr sr rr rar rn n nn nn</p>
-          <p>Pensioner biståndsarbetare ....sssssssssssrssrsrerrersrererrsrsrererernrsrsrsrrrrrrr enes aren ene een nen es en en ana familjehemsföräldrär........ssssssessssesessrsessesesesesrsrsrsrererererenerer ere errrnen rr nnr nn rna följdändringar med anledning av sänkt folkpension för</p>
-          <p>förtida PenSiONSUtlaZ...........sssssessrsrsresrsreeresrrsrrreserrrrserrrrersesrererrernsr ere n rn r nn 6y SAbbatSÅL oosoossrsrsrsrsrsrrrrsrsrsrnrrrererersrerer eran ense enes en ennen Anses enar ea reses en en en ene n en ena 6y UD-mMaKAL oossororesrererserserssrerreresrerersesrerersrerereresrrrsrererer enes en aren es ere esse en ene n eran ennen utbetalning av, vid obetalda skatter ...............sssssssssssesssrsserserersernesersrrsnnnrnn ÅlderspenSiON s.ssssssrsrsessssrsrerserererserererererererersrsrsrrerens een ennen en en seen en enar enar enn 6y äldrereglefNa sosssssssesesrerserrerrsesrrererrrrrrsrrrrereer ennen renen renen ennen er reser ennen ennen erna 6y Rehabilitering arbetshjälpmedel...sssssssssseresresresrerrsrsrersrerserrernrsresrer reser en rerenesn ere r asken er nen rn nerna arbetslivSinriktaC............sssssssessesssersrssresesrnesrererrersesrenesrrrererrer ere renen enn nnna 6y Nytt SYSteM oosssseeseersesrererrerresresrerrerseersrer rer esner reser reses nen essensen rese ern ene n nere nen enn 6y SAMVETKAN oosoreeeseerseseseseseerersesreresrsreresreresnsrenen ene eresnsrrnsnsn sne n aren en ere e nee nen nan 6y vid arbetsskada .......sssesssessrsresrsrssesesrersesrsrsrereresesrrrsrsrsesrsrs renen er en ers nr renen en enn ÅLGÄLACT oososssessrrererrsrsrerereresrrrerrererrrrsrerrerer enes enes srr sne r ere renen eran ene en ser er ennen enn 6y Riksförsäkringsverket ANSLAG ooosesseseerersresrersreresrererrrsrrsresrrrrerrern ren es ren es reses ere n es aren enes e nere nere n enar nn 5y fonder, förvaltning AV s.ssssssrsssrrsrsrsresesrsenernesesrsnsrsrsnereren snarare enar nsn sne nen en enn nn</p>
-          <p>Semesterlönekostnader försäkring mot vissa, ändring i lägen .......ssssssssssesssesssereseserrsnrrseresernnr enn n en Sjukförsäkring enhetlig ersättniNngSNiVåÅ s...s.sssssesessssesesesserssseserssrssesrrsers ennen sn ense rn renen rnn ennen gravida kvinnors SjukSkriVDilg......sssssesseessesresreresesrrnesrsresrrresrrrsennern ner nrnn rn rna KarenSCagAr ooosssssssesesrsrersrsesrerersesrereresrsresnsrsnsn ere e enes nsns ense renen ene es ene ennen ran Sjukförsäkringsavgift</p>
-          <p>AVZIftSVÄXliNG oooseereserererereererserrereresrererrrrererereresrsrs renen er sn enes arena enes n ene rr n eran nan Sjuklön</p>
-          <p>förlängd SjuklöneperiOd .....sesessersrersresreserrseseersesrersesreresesreresrer ene nen renen nn ena 6y försäkring mot kostnader fÖr..........ssssessssssssrsssrsrsrsrerereresesesesrsrerererern rna 2, Sy</p>
-          <p>vid upprepade korttidsanställningar hos samma ArbDetSSiVAeoosossesresesresrererrerrrererrrrrrrrersrrrrer ere rer es rsn es een enes sees es ken eR renen renen nn ÄNdring i laZCD ssssssessessesrreserersresrrerrrsrrresresrrsr rer rrn rr renen en er nns nere ner ene ren nn nan Sjukpenninggrundande inkOmMmSt s..ssssssssssrsssssserrsrsrssrssnsnrrenenrnenesrsnsnsnrnsnen renen enn nr</p>
-          <p>1995/96:SfU Reg.</p>
+          <p>
+            Närståendevård ersättning och ledighet för närståendevård .........sssessssssseserersrssseresrsrsrernnnen
+            ÄäNdring i läge smsssssssssseseessrrrrsrerrrsrrrrsrresrrsrrrrrerrrrrrrr
+            rr nr sr rrs nr sr rr rar rn n nn nn
+          </p>
+          <p>
+            Pensioner biståndsarbetare ....sssssssssssrssrsrerrersrererrsrsrererernrsrsrsrrrrrrr
+            enes aren ene een nen es en en ana familjehemsföräldrär........ssssssessssesessrsessesesesesrsrsrsrererererenerer
+            ere errrnen rr nnr nn rna följdändringar med anledning av sänkt
+            folkpension för
+          </p>
+          <p>
+            förtida PenSiONSUtlaZ...........sssssessrsrsresrsreeresrrsrrreserrrrserrrrersesrererrernsr
+            ere n rn r nn 6y SAbbatSÅL oosoossrsrsrsrsrsrrrrsrsrsrnrrrererersrerer
+            eran ense enes en ennen Anses enar ea reses en en en ene n en
+            ena 6y UD-mMaKAL oossororesrererserserssrerreresrerersesrerersrerereresrrrsrererer
+            enes en aren es ere esse en ene n eran ennen utbetalning av, vid
+            obetalda skatter ...............sssssssssssesssrsserserersernesersrrsnnnrnn
+            ÅlderspenSiON s.ssssssrsrsessssrsrerserererserererererererersrsrsrrerens
+            een ennen en en seen en enar enar enn 6y äldrereglefNa sosssssssesesrerserrerrsesrrererrrrrrsrrrrereer
+            ennen renen renen ennen er reser ennen ennen erna 6y Rehabilitering
+            arbetshjälpmedel...sssssssssseresresresrerrsrsrersrerserrernrsresrer
+            reser en rerenesn ere r asken er nen rn nerna arbetslivSinriktaC............sssssssessesssersrssresesrnesrererrersesrenesrrrererrer
+            ere renen enn nnna 6y Nytt SYSteM oosssseeseersesrererrerresresrerrerseersrer
+            rer esner reser reses nen essensen rese ern ene n nere nen enn
+            6y SAMVETKAN oosoreeeseerseseseseseerersesreresrsreresreresnsrenen
+            ene eresnsrrnsnsn sne n aren en ere e nee nen nan 6y vid arbetsskada
+            .......sssesssessrsresrsrssesesrersesrsrsrereresesrrrsrsrsesrsrs
+            renen er en ers nr renen en enn ÅLGÄLACT oososssessrrererrsrsrerereresrrrerrererrrrsrerrerer
+            enes enes srr sne r ere renen eran ene en ser er ennen enn 6y
+            Riksförsäkringsverket ANSLAG ooosesseseerersresrersreresrererrrsrrsresrrrrerrern
+            ren es ren es reses ere n es aren enes e nere nere n enar nn 5y
+            fonder, förvaltning AV s.ssssssrsssrrsrsrsresesrsenernesesrsnsrsrsnereren
+            snarare enar nsn sne nen en enn nn
+          </p>
+          <p>
+            Semesterlönekostnader försäkring mot vissa, ändring i lägen .......ssssssssssesssesssereseserrsnrrseresernnr
+            enn n en Sjukförsäkring enhetlig ersättniNngSNiVåÅ s...s.sssssesessssesesesserssseserssrssesrrsers
+            ennen sn ense rn renen rnn ennen gravida kvinnors SjukSkriVDilg......sssssesseessesresreresesrrnesrsresrrresrrrsennern
+            ner nrnn rn rna KarenSCagAr ooosssssssesesrsrersrsesrerersesrereresrsresnsrsnsn
+            ere e enes nsns ense renen ene es ene ennen ran Sjukförsäkringsavgift
+          </p>
+          <p>
+            AVZIftSVÄXliNG oooseereserererereererserrereresrererrrrererereresrsrs
+            renen er sn enes arena enes n ene rr n eran nan Sjuklön
+          </p>
+          <p>
+            förlängd SjuklöneperiOd .....sesessersrersresreserrseseersesrersesreresesreresrer
+            ene nen renen nn ena 6y försäkring mot kostnader fÖr..........ssssessssssssrsssrsrsrsrerereresesesesrsrerererern
+            rna 2, Sy
+          </p>
+          <p>
+            vid upprepade korttidsanställningar hos samma ArbDetSSiVAeoosossesresesresrererrerrrererrrrrrrrersrrrrer
+            ere rer es rsn es een enes sees es ken eR renen renen nn ÄNdring
+            i laZCD ssssssessessesrreserersresrrerrrsrrresresrrsr rer rrn
+            rr renen en er nns nere ner ene ren nn nan Sjukpenninggrundande
+            inkOmMmSt s..ssssssssssrsssssserrsrsrssrssnsnrrenenrnenesrsnsnsnrnsnen
+            renen enn nr
+          </p>
+          <p>
+            1995/96:SfU Reg.
+          </p>
           <pb facs="riksdagen-volumeG-pdf/data/199596/reg_199596_SfU/reg_199596_SfU-008.pdf"/>
-          <p>Sjukresor Ersättning fÖL...ssssssserssssssrsreresresrerresrrrrsrrerrsrrsrrsr rer erres ere s sr enes er reser eran ene n en en nn 2 ÄNdriNg i lägCD somssssesesesesreresrsrererrsresrrsrrerrsesrerrsr ennen eneste aren rese renen en rasen nen enn 2 Sjukskrivning gravida KVilNOIS sossssssrsesessesrsrsresesrrsrrsrsrsresrererrsr eran er ere es er ense sera e en en sn nn enn 2 Sjukvårdsförmånel.......sessssrsrsrssrsrsrsrrsrerrrsrrsrerrsrsrenrererrsrsrsr sr reser een renen enar 2, 5y Smittbärare ersättning till, ändring i lägen su.ssessssssssssrsssesesrsrsrnsrsrsrrsen ren errns ennen sr en rrn nn rna 2 Social konvention, ÖSterrike ............ssessessessresssrsssrsssrnssrrrrnssrrrnnnn rr rrnnnn nn nnn rna 8 Socialavgifter allmänna egenavgiffterl..........ssessesserrsreresresrrsrrsrrsrrsrrererernrrsnrnnn rna 2,7, 5y, 6y arbetsmarknadsaVgifl..........ssesesesssersresererrsrsrsrererenersersrsrnsrs ense renen renen en en enn nn 2 egenavgiftel .ossessererssreersrrrrreresrrerrrsrrrerrrrrsrr ers rer sr aren A ene r enes en en enar en ena 7, 6y 1drOttSUtÖVALe s.ssssssesrsrsrereresrerererrerrerrrrrrn reser en rsr rer eek reser ea rasar ene eR saras nen ena 7 lagteknisk ÖVersyn av laåZCD m.ssmmssssssrresresrerresresrrerrsrsrererrrrr renen en eran en rn rn rn nn 2 lönegarantiavgiff........s.sessssssserssrsreresrersrsrsrsrsrererer ene rrs renen er en ennen rensas en en enn nn 2 NEdSÄttNilQ...sssessssererersreresresrerreresrrerrr rer rsrrsr rss re reses rasen e er K rn een en ana 7, Sy, 6y på sociala fÖrMåÅNEL ..sssesrsrerssrsrsrersreresreresrrrsrrrsrsrerrrsrrrr rn sens renen essensen ennen nanna 2 samband avgifter/fÖrmMånNEer s...mmsmsssssrerrerrererrsrererrererrsrrerersrsr sr ener ers nn enn nn 7, 5y sjukförsäkringSaVgiffl ..sssemsssssserseressrerssresrersrrsresrrerrsrsrsreresrr rr ere renen ene e rn rn nn 2 ViNStaNdelar oss ssssssesrsrersrerererrerererrererrrrrrerrrrereresr enes reser er er esse ene er ease arenan en nn 7 växling mellan arbetsgivaravgifter och allmänna CgZeNaVvgiflel sosssssesssererrererrerrerreresrrsrrrrerrrrrrsr ers enn r rr reser r enes es ers r ers en er en een enn 6y äNdring i lage osssssesssrsesreresrsrererserrernrrsrrsrerrereresr eran ere er en er sne en een s een ene n en anna 2 Socialförsäkring enhetlig ersättningSDiVå s...mssssssssrsrrersersrsrsrsrsrsrerersrsrrrrs ense ense sn ennen ennen on enn 2 genteknik soosssssssssssesesesereererrsrerererrsrrrnr rss enrsr er esr eran enes er area see en een rasen enes en rann 7 pappa- och mammamånaderNa ...ssssrssrssrerrrrerrererrsrsrsrsererersrs rer enes renen enn nn 2 samordning av ersättningSSYStemeD.....sssssssssesserssrrersrrersesesrsrsrsrsrsrerer rn nt 6y solidarisk förSäkrilg s..ssesessersessrssrrsseeresresresrrsrrsrrsrrsrsrer enes e er rn eran en een enn eran 7 Socialförsäkringsregister ändring i lagZCD somssssrsrssrsrrerrerrsrerrrsrrssrrresresresres ers rese esr aren eran ease enar anar en rna enn nn 6 Socialförsäkringssektorn vid sidan av statsbudgeten..............ssssssssmimsssns 5y Socialförsäkringsväsendet under krig och krigsfara äNdring i laZCD osmosssrssssrereerrerrsrerresrresrrrerrerrerrrrrrsr rer errsrs nere es ers eR Ran arenan ennen nan 7 Statens invandrarverk lednNiNgSfOrMossssssesesrsrsrereresrerererrsrerrrsrresrsrer rer sr rare ears er ere rr e en enes earn enar en ena ly Statligt personskadeskydd äNdring i laZCD sssossersreseererrreresrrsresrrsrrrersrersrerrerrssrrsr ers rar eR seen ere R sen n er brer rna 2 Studiesociala ändamål CSN-KOIosoosesesesrsrsrsrsrerererrerersesrsresresrrsrrsrerrsres esse raser esse sees es enes seen en seen r enn 2y resekostnadsersättning vid statens skolor för VUXNA ...........ssss.sessrssren 2y Studiestöd äNdring I lage sssmssssssssssesreresrerernesrsrrsrsresreresrer ennen err er er ense sees en en enten enar nen ena 5 SysselsättningspOlitiken.........ssssssesrsessesrsrsrrrrrrerrsrrsrrsrrersesrsrsrsrsrsr enes een rn renen enn 6y</p>
-          <p>1995/96:SfU Reg.</p>
+          <p>
+            Sjukresor Ersättning fÖL...ssssssserssssssrsreresresrerresrrrrsrrerrsrrsrrsr
+            rer erres ere s sr enes er reser eran ene n en en nn 2 ÄNdriNg
+            i lägCD somssssesesesesreresrsrererrsresrrsrrerrsesrerrsr ennen
+            eneste aren rese renen en rasen nen enn 2 Sjukskrivning gravida
+            KVilNOIS sossssssrsesessesrsrsresesrrsrrsrsrsresrererrsr eran
+            er ere es er ense sera e en en sn nn enn 2 Sjukvårdsförmånel.......sessssrsrsrssrsrsrsrrsrerrrsrrsrerrsrsrenrererrsrsrsr
+            sr reser een renen enar 2, 5y Smittbärare ersättning till, ändring
+            i lägen su.ssessssssssssrsssesesrsrsrnsrsrsrrsen ren errns ennen
+            sr en rrn nn rna 2 Social konvention, ÖSterrike ............ssessessessresssrsssrsssrnssrrrrnssrrrnnnn
+            rr rrnnnn nn nnn rna 8 Socialavgifter allmänna egenavgiffterl..........ssessesserrsreresresrrsrrsrrsrrsrrererernrrsnrnnn
+            rna 2,7, 5y, 6y arbetsmarknadsaVgifl..........ssesesesssersresererrsrsrsrererenersersrsrnsrs
+            ense renen renen en en enn nn 2 egenavgiftel .ossessererssreersrrrrreresrrerrrsrrrerrrrrsrr
+            ers rer sr aren A ene r enes en en enar en ena 7, 6y 1drOttSUtÖVALe
+            s.ssssssesrsrsrereresrerererrerrerrrrrrn reser en rsr rer eek
+            reser ea rasar ene eR saras nen ena 7 lagteknisk ÖVersyn av laåZCD
+            m.ssmmssssssrresresrerresresrrerrsrsrererrrrr renen en eran en
+            rn rn rn nn 2 lönegarantiavgiff........s.sessssssserssrsreresrersrsrsrsrsrererer
+            ene rrs renen er en ennen rensas en en enn nn 2 NEdSÄttNilQ...sssessssererersreresresrerreresrrerrr
+            rer rsrrsr rss re reses rasen e er K rn een en ana 7, Sy, 6y på
+            sociala fÖrMåÅNEL ..sssesrsrerssrsrsrersreresreresrrrsrrrsrsrerrrsrrrr
+            rn sens renen essensen ennen nanna 2 samband avgifter/fÖrmMånNEer
+            s...mmsmsssssrerrerrererrsrererrererrsrrerersrsr sr ener ers nn
+            enn nn 7, 5y sjukförsäkringSaVgiffl ..sssemsssssserseressrerssresrersrrsresrrerrsrsrsreresrr
+            rr ere renen ene e rn rn nn 2 ViNStaNdelar oss ssssssesrsrersrerererrerererrererrrrrrerrrrereresr
+            enes reser er er esse ene er ease arenan en nn 7 växling mellan
+            arbetsgivaravgifter och allmänna CgZeNaVvgiflel sosssssesssererrererrerrerreresrrsrrrrerrrrrrsr
+            ers enn r rr reser r enes es ers r ers en er en een enn 6y äNdring
+            i lage osssssesssrsesreresrsrererserrernrrsrrsrerrereresr eran
+            ere er en er sne en een s een ene n en anna 2 Socialförsäkring
+            enhetlig ersättningSDiVå s...mssssssssrsrrersersrsrsrsrsrsrerersrsrrrrs
+            ense ense sn ennen ennen on enn 2 genteknik soosssssssssssesesesereererrsrerererrsrrrnr
+            rss enrsr er esr eran enes er area see en een rasen enes en rann
+            7 pappa- och mammamånaderNa ...ssssrssrssrerrrrerrererrsrsrsrsererersrs
+            rer enes renen enn nn 2 samordning av ersättningSSYStemeD.....sssssssssesserssrrersrrersesesrsrsrsrsrsrerer
+            rn nt 6y solidarisk förSäkrilg s..ssesessersessrssrrsseeresresresrrsrrsrrsrrsrsrer
+            enes e er rn eran en een enn eran 7 Socialförsäkringsregister
+            ändring i lagZCD somssssrsrssrsrrerrerrsrerrrsrrssrrresresresres
+            ers rese esr aren eran ease enar anar en rna enn nn 6 Socialförsäkringssektorn
+            vid sidan av statsbudgeten..............ssssssssmimsssns 5y Socialförsäkringsväsendet
+            under krig och krigsfara äNdring i laZCD osmosssrssssrereerrerrsrerresrresrrrerrerrerrrrrrsr
+            rer errsrs nere es ers eR Ran arenan ennen nan 7 Statens invandrarverk
+            lednNiNgSfOrMossssssesesrsrsrereresrerererrsrerrrsrresrsrer rer
+            sr rare ears er ere rr e en enes earn enar en ena ly Statligt
+            personskadeskydd äNdring i laZCD sssossersreseererrreresrrsresrrsrrrersrersrerrerrssrrsr
+            ers rar eR seen ere R sen n er brer rna 2 Studiesociala ändamål
+            CSN-KOIosoosesesesrsrsrsrsrerererrerersesrsresresrrsrrsrerrsres
+            esse raser esse sees es enes seen en seen r enn 2y resekostnadsersättning
+            vid statens skolor för VUXNA ...........ssss.sessrssren 2y Studiestöd
+            äNdring I lage sssmssssssssssesreresrerernesrsrrsrsresreresrer
+            ennen err er er ense sees en en enten enar nen ena 5 SysselsättningspOlitiken.........ssssssesrsessesrsrsrrrrrrerrsrrsrrsrrersesrsrsrsrsrsr
+            enes een rn renen enn 6y
+          </p>
+          <p>
+            1995/96:SfU Reg.
+          </p>
           <pb facs="riksdagen-volumeG-pdf/data/199596/reg_199596_SfU/reg_199596_SfU-009.pdf"/>
-          <p>Särskilt vuxenstudiestöd</p>
-          <p>barntilläZgg s..s.sosossosesesesesresesrerersrereresrsnerenen en enn en esn enes n eran e aren aren ennen ennen en en 5, 2y konsekvenser av försämringar smm.ssssssssssssssrssessessrssessrssrersrrsresrerserrrrrrerr rn en nn 2y</p>
-          <p>Tandvårdsförsäkringen</p>
-          <p>amalgamSsanerilg s.ssmssssessersrsrrsrssrernesresesrersrer rer rsr ere rer r ens rer rrr reser rs rr rn en ena 4 avgiftsfri tänmOVårA......sssssssrssesrsrsrsrsrrrrrrsrsererrsrsrsrsrr ers rr rs nere en ere r enes e ren eran ana 4 barn- och ungdomstandVård s.....ssessessesseesersesessrssrssrsrnsesrnnensrnsrnsnnrnn rna 4, 5y besparingar i oossssssssssssesesresesesesrsrsrrreresesrsrsren ers er er rr eran en ere rrn enes nes ennen en enn 5y etableringskOnDtrOll.....ssssssssesssssssssssesessesrenesrrsrrerrerrrrrsrrrnrrrrrrrer rer rrr rer rrr nn rn nan 4 förlängd försöksverksSamhet........ssssssssrsssorsrresrssreresnrsrsrsnresrrrresrerrrrrrrrrrrrnn nr 2 högkostnadsskyYyCdd.........sssessssssssererrsresereresesreresrsrersrsrrresrerrrrererrrn ene nrn en en 4, Sy KkOnkurrenSffågOL......sssesesssssssssrssssssrssrsrsesensnerrnenerererererererrsrererrrs ennen nen rrn rn rna 4 Ppremietand Vård ..ssssssssssessesessesrsesrrserersrsrsererererereresererer ere nenerer eran rna nen enn enn 4 08 EI C0) 315 £0) | UR 4 privata försäkfiNgaL ...ssssssssssosessesesenerssesrsernersesenesesrsenesesnrnenenen ere sn eran en ennen nn 4 refOrmeriNg AV sssmsessesreersererrererreresrernrsresrsrerresresr rare nere rss n rer rer reser ken k ere n ennen 4 SpecialisttanC Vård ....ssssssssesesesssreresrsrsrsrrsrsrsrererererererererer ere er ren ene een n nen en enn 4 tandvårdstaXaN oos.ssssersessrsssrrsrseresrsrsrerererersrererrsrerer renen rr renen enes nere renen an 4, 5y VUXENtandvård ossssssesssresrrrrrsrrrsrrreserrreerrsrrererrrrr ers rer rr nn r rss rens e rer sen eran 2,4 Tillfällig föräldrapenDinQ.....ssssssessssrssrssessesesresrersrerresresrsrsrsrresn renen rrres renen en en ena 2 TVåpartSprOCESS ossssesssrsrsrsrsrsrsrsrsrsersrsrsrsererersrsrnesrsrsrsr ers ner eran enes e enar ene e ennen enn 6 Uppbördslagen, ändring i lägeD.......sssssssssssesesesresersrsrsesreserrrsrrrersennsnerern en ernrn nen 2 Utgiftsområden ekonomisk trygghet för familjer och bärn...........ssssssssssssssrsersssersnssssnnnnnt 5y ekonomisk trygghet vid sjukdom och handikapp.............ssssssssssrssrsssessest 5y ekonomisk trygghet vid ålderdOnm..........ssssssssssessesesrsserrsnrenesesrrrerrsrernrrn rna 5y invandrare och flyktingar ..........sssssssesssessssessrssrersrssesrrrsrsrnrrnrrnrerrrrrrrr ennen erna 5y socialförsäkringssektorn vid sidan av statsbudgeten...................sssssssss02 5y UtgiftStak ossosssssessseeesrerresrersrersrerrersesreresrersreresrererrrnrrsr rer rer essensen ene n ene n enes n en enn 5y Utlänningsnämnden beslutsfOrMer ossesssrsrererserrersesrseresrsrrrererereresrerer reser er rs senere renen sent r ene n enar en enn 1 handläggningsOrdnNingeD......sssssssessesssrersrrsresrrsrrsresrerrrsrrrrrerrerrrrrsr rn ner rr nen nnn 1 länderkunskap s..ssssssssssessssesessssssssesesesrsrsnsnsrersesrersesnerersnsnern ennen enes nrn ere n enar er eran 1 prövningstillStåNd ....ssssssssesssssssssssssesesrnsesrsrrrrrererrrsrsrer ere en erna een en ere en annan 1 VinstandelsstiftelSer ...ssssssssssrssssesrsrssersesesrsrsrsreresrererrsrer es rrr esse ren ene rer enes renen enn na 7 Ålderspensioner, förtida Uttag ...............sssmmmmmmsssssssssssssnnnnnnnn 6y</p>
-          <p>Åtgärder mot främlingsfientlighet och rasism</p>
-          <p>Överföring av och andra åtgärder för flyktingar</p>
-          <p>Gotab, Stockholm 1996</p>
-          <p>1995/96:SfU Reg.</p>
+          <p>
+            Särskilt vuxenstudiestöd
+          </p>
+          <p>
+            barntilläZgg s..s.sosossosesesesesresesrerersrereresrsnerenen
+            en enn en esn enes n eran e aren aren ennen ennen en en 5, 2y
+            konsekvenser av försämringar smm.ssssssssssssssrssessessrssessrssrersrrsresrerserrrrrrerr
+            rn en nn 2y
+          </p>
+          <p>
+            Tandvårdsförsäkringen
+          </p>
+          <p>
+            amalgamSsanerilg s.ssmssssessersrsrrsrssrernesresesrersrer rer
+            rsr ere rer r ens rer rrr reser rs rr rn en ena 4 avgiftsfri tänmOVårA......sssssssrssesrsrsrsrsrrrrrrsrsererrsrsrsrsrr
+            ers rr rs nere en ere r enes e ren eran ana 4 barn- och ungdomstandVård
+            s.....ssessessesseesersesessrssrssrsrnsesrnnensrnsrnsnnrnn rna
+            4, 5y besparingar i oossssssssssssesesresesesesrsrsrrreresesrsrsren
+            ers er er rr eran en ere rrn enes nes ennen en enn 5y etableringskOnDtrOll.....ssssssssesssssssssssesessesrenesrrsrrerrerrrrrsrrrnrrrrrrrer
+            rer rrr rer rrr nn rn nan 4 förlängd försöksverksSamhet........ssssssssrsssorsrresrssreresnrsrsrsnresrrrresrerrrrrrrrrrrrnn
+            nr 2 högkostnadsskyYyCdd.........sssessssssssererrsresereresesreresrsrersrsrrresrerrrrererrrn
+            ene nrn en en 4, Sy KkOnkurrenSffågOL......sssesesssssssssrssssssrssrsrsesensnerrnenerererererererrsrererrrs
+            ennen nen rrn rn rna 4 Ppremietand Vård ..ssssssssssessesessesrsesrrserersrsrsererererereresererer
+            ere nenerer eran rna nen enn enn 4 08 EI C0) 315 £0) | UR 4 privata
+            försäkfiNgaL ...ssssssssssosessesesenerssesrsernersesenesesrsenesesnrnenenen
+            ere sn eran en ennen nn 4 refOrmeriNg AV sssmsessesreersererrererreresrernrsresrsrerresresr
+            rare nere rss n rer rer reser ken k ere n ennen 4 SpecialisttanC
+            Vård ....ssssssssesesesssreresrsrsrsrrsrsrsrererererererererer
+            ere er ren ene een n nen en enn 4 tandvårdstaXaN oos.ssssersessrsssrrsrseresrsrsrerererersrererrsrerer
+            renen rr renen enes nere renen an 4, 5y VUXENtandvård ossssssesssresrrrrrsrrrsrrreserrreerrsrrererrrrr
+            ers rer rr nn r rss rens e rer sen eran 2,4 Tillfällig föräldrapenDinQ.....ssssssessssrssrssessesesresrersrerresresrsrsrsrresn
+            renen rrres renen en en ena 2 TVåpartSprOCESS ossssesssrsrsrsrsrsrsrsrsrsersrsrsrsererersrsrnesrsrsrsr
+            ers ner eran enes e enar ene e ennen enn 6 Uppbördslagen, ändring
+            i lägeD.......sssssssssssesesesresersrsrsesreserrrsrrrersennsnerern
+            en ernrn nen 2 Utgiftsområden ekonomisk trygghet för familjer
+            och bärn...........ssssssssssssssrsersssersnssssnnnnnt 5y ekonomisk
+            trygghet vid sjukdom och handikapp.............ssssssssssrssrsssessest
+            5y ekonomisk trygghet vid ålderdOnm..........ssssssssssessesesrsserrsnrenesesrrrerrsrernrrn
+            rna 5y invandrare och flyktingar ..........sssssssesssessssessrssrersrssesrrrsrsrnrrnrrnrerrrrrrrr
+            ennen erna 5y socialförsäkringssektorn vid sidan av statsbudgeten...................sssssssss02
+            5y UtgiftStak ossosssssessseeesrerresrersrersrerrersesreresrersreresrererrrnrrsr
+            rer rer essensen ene n ene n enes n en enn 5y Utlänningsnämnden
+            beslutsfOrMer ossesssrsrererserrersesrseresrsrrrererereresrerer
+            reser er rs senere renen sent r ene n enar en enn 1 handläggningsOrdnNingeD......sssssssessesssrersrrsresrrsrrsresrerrrsrrrrrerrerrrrrsr
+            rn ner rr nen nnn 1 länderkunskap s..ssssssssssessssesessssssssesesesrsrsnsnsrersesrersesnerersnsnern
+            ennen enes nrn ere n enar er eran 1 prövningstillStåNd ....ssssssssesssssssssssssesesrnsesrsrrrrrererrrsrsrer
+            ere en erna een en ere en annan 1 VinstandelsstiftelSer ...ssssssssssrssssesrsrssersesesrsrsrsreresrererrsrer
+            es rrr esse ren ene rer enes renen enn na 7 Ålderspensioner, förtida
+            Uttag ...............sssmmmmmmsssssssssssssnnnnnnnn 6y
+          </p>
+          <p>
+            Åtgärder mot främlingsfientlighet och rasism
+          </p>
+          <p>
+            Överföring av och andra åtgärder för flyktingar
+          </p>
+          <p>
+            Gotab, Stockholm 1996
+          </p>
+          <p>
+            1995/96:SfU Reg.
+          </p>
         </div>
       </div>
     </body>

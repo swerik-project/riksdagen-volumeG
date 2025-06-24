@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="reg_199293_LU">
   <teiHeader>
     <fileDesc>
       <titleStmt/>
@@ -22,241 +22,1109 @@
       <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_LU/reg_199293_LU-000.pdf"/>
       <div type="gBody">
         <div>
-          <p>Lagutskottets register vid</p>
-          <p>A=</p>
-          <p>riksmötet 1992/93 =S 1992/93 LU Reg. Betänkanden Nr LU1 Återvinning vid ackord och konkurs Utskottets justering 1992-10-13 Förslag till beslut: Delvis bifall till motionen. Riksdagens beslut: Bifall till utskottets hemställan 1992-11-04 Protokollsnhummer 1992/93:16 Riksdagsskrivelse 1992/93:8 Nr LU2 Sakrättsliga frågor m.m. Utskottets justering 1992-10-20 Förslag till beslut: Avslag på samtliga motioner. Riksdagens beslut: Bifall till utskottets hemställan 1992-11-04 Protokollshummer 1992/93:16 Riksdagsskrivelse - Nr LU3 Den svenska hemförsäljningslagens anpassning till EG:s regelverk (prop. 1991/92:167) Utskottets justering 1992-11-03 Förslag till beslut: Delvis bifall till propositionen. Riksdagens beslut: Bifall till utskottets hemställan 1992-11-19 Protokollsnummer 1992/93:27 Riksdagsskrivelse 1992/93:22 Nr LU4 Inseminationsverksamheten i Sverige Utskottets justering 1992-11-12 Förslag till beslut: Avslag på motionen. Debatt i kammaren 1992-11-25 Protokollsnummer 1992/93:31 Riksdagens beslut: Bifall till utskottets hemställan 1992-12-02 Protokollsnhummer 1992/93:36</p>
-          <p>Riksdagsskrivelse</p>
-          <p>1 Riksdagen 19921/93. 8 saml. Register</p>
+          <p>
+            Lagutskottets register vid
+          </p>
+          <p>
+            A=
+          </p>
+          <p>
+            riksmötet 1992/93 =S 1992/93 LU Reg. Betänkanden Nr LU1 Återvinning
+            vid ackord och konkurs Utskottets justering 1992-10-13 Förslag
+            till beslut: Delvis bifall till motionen. Riksdagens beslut: Bifall
+            till utskottets hemställan 1992-11-04 Protokollsnhummer 1992/93:16
+            Riksdagsskrivelse 1992/93:8 Nr LU2 Sakrättsliga frågor m.m. Utskottets
+            justering 1992-10-20 Förslag till beslut: Avslag på samtliga motioner.
+            Riksdagens beslut: Bifall till utskottets hemställan 1992-11-04
+            Protokollshummer 1992/93:16 Riksdagsskrivelse - Nr LU3 Den svenska
+            hemförsäljningslagens anpassning till EG:s regelverk (prop. 1991/92:167)
+            Utskottets justering 1992-11-03 Förslag till beslut: Delvis bifall
+            till propositionen. Riksdagens beslut: Bifall till utskottets
+            hemställan 1992-11-19 Protokollsnummer 1992/93:27 Riksdagsskrivelse
+            1992/93:22 Nr LU4 Inseminationsverksamheten i Sverige Utskottets
+            justering 1992-11-12 Förslag till beslut: Avslag på motionen.
+            Debatt i kammaren 1992-11-25 Protokollsnummer 1992/93:31 Riksdagens
+            beslut: Bifall till utskottets hemställan 1992-12-02 Protokollsnhummer
+            1992/93:36
+          </p>
+          <p>
+            Riksdagsskrivelse
+          </p>
+          <p>
+            1 Riksdagen 19921/93. 8 saml. Register
+          </p>
           <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_LU/reg_199293_LU-001.pdf"/>
-          <p>Nr LUS Upphävande av vissa lagar om ett kontobaserat penningmarknadssystem m.m. (prop. 1992/93:19) Utskottets justering Förslag till beslut: Bifall till propositionen. Riksdagens beslut: Bifall till utskottets hemställan Protokollsnhummer Riksdagsskrivelse</p>
-          <p>Nr LU6 Arrestkonventionen m.m. (prop. 1992/93:5) Utskottets justering Förslag till beslut: Bifall till propositionen. Avslag på motionen. Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse</p>
-          <p>Nr LU7</p>
-          <p>1992-11-10</p>
-          <p>1992-11-19 1992/93:27 1992/93:23</p>
-          <p>1992-11-17</p>
-          <p>1992-12-02 1992/93:36 1992/93:44</p>
-          <p>Den svenska trafikskadelagens anpassning till EG:s regelverk</p>
-          <p>m.m. (prop. 1992/93:8 delvis) Utskottets justering</p>
-          <p>Förslag till beslut: Bifall till propositionen i behandlad del.</p>
-          <p>Avslag på samtliga motioner. Riksdagens beslut: Bifall till utskottets hemställan Protokollsnhummer Riksdagsskrivelse</p>
-          <p>Nr LU8 Grannelagsrätt och tomträtt (prop. 1992/93:6) Utskottets justering Förslag till beslut: Bifall till propositionen. Riksdagens beslut:- Bifall till utskottets hemställan Protokollsnhummer Riksdagsskrivelse</p>
-          <p>Nr LU9</p>
-          <p>Ändring i produktansvarslagen m.m. (prop. 1992/93:38)</p>
-          <p>Utskottets justering</p>
-          <p>Förslag till beslut: Bifall till propositionen. Avslag på samtliga</p>
-          <p>motioner. Debatt i kammaren Protokollsnhummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnhummer Riksdagsskrivelse</p>
-          <p>1992-11-17</p>
-          <p>1992-12-02 1992/93:36 1992/93:45</p>
-          <p>1992-11-17</p>
-          <p>1992-12-02 1992/93:36 1992/93:46</p>
-          <p>1992-11-17</p>
-          <p>1992-12-02 1992/93:36 1992-12-02 1992/93:36 1992/93:47</p>
-          <p>1992/93:LU Reg.</p>
+          <p>
+            Nr LUS Upphävande av vissa lagar om ett kontobaserat penningmarknadssystem
+            m.m. (prop. 1992/93:19) Utskottets justering Förslag till beslut:
+            Bifall till propositionen. Riksdagens beslut: Bifall till utskottets
+            hemställan Protokollsnhummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr LU6 Arrestkonventionen m.m. (prop. 1992/93:5) Utskottets justering
+            Förslag till beslut: Bifall till propositionen. Avslag på motionen.
+            Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer
+            Riksdagsskrivelse
+          </p>
+          <p>
+            Nr LU7
+          </p>
+          <p>
+            1992-11-10
+          </p>
+          <p>
+            1992-11-19 1992/93:27 1992/93:23
+          </p>
+          <p>
+            1992-11-17
+          </p>
+          <p>
+            1992-12-02 1992/93:36 1992/93:44
+          </p>
+          <p>
+            Den svenska trafikskadelagens anpassning till EG:s regelverk
+          </p>
+          <p>
+            m.m. (prop. 1992/93:8 delvis) Utskottets justering
+          </p>
+          <p>
+            Förslag till beslut: Bifall till propositionen i behandlad del.
+          </p>
+          <p>
+            Avslag på samtliga motioner. Riksdagens beslut: Bifall till utskottets
+            hemställan Protokollsnhummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr LU8 Grannelagsrätt och tomträtt (prop. 1992/93:6) Utskottets
+            justering Förslag till beslut: Bifall till propositionen. Riksdagens
+            beslut:- Bifall till utskottets hemställan Protokollsnhummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr LU9
+          </p>
+          <p>
+            Ändring i produktansvarslagen m.m. (prop. 1992/93:38)
+          </p>
+          <p>
+            Utskottets justering
+          </p>
+          <p>
+            Förslag till beslut: Bifall till propositionen. Avslag på samtliga
+          </p>
+          <p>
+            motioner. Debatt i kammaren Protokollsnhummer Riksdagens beslut:
+            Bifall till utskottets hemställan Protokollsnhummer Riksdagsskrivelse
+          </p>
+          <p>
+            1992-11-17
+          </p>
+          <p>
+            1992-12-02 1992/93:36 1992/93:45
+          </p>
+          <p>
+            1992-11-17
+          </p>
+          <p>
+            1992-12-02 1992/93:36 1992/93:46
+          </p>
+          <p>
+            1992-11-17
+          </p>
+          <p>
+            1992-12-02 1992/93:36 1992-12-02 1992/93:36 1992/93:47
+          </p>
+          <p>
+            1992/93:LU Reg.
+          </p>
           <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_LU/reg_199293_LU-002.pdf"/>
-          <p>Nr LU10 Ändrad handels- och föreningsregistrering (prop. 1992/93:27) Utskottets justering 1992-11-24 Förslag till beslut: Bifall till propositionen. Avslag på samtliga motioner.</p>
-          <p>Riksdagens beslut: Bifall till utskottets hemställan 1992-12-10 Protokollsnummer 1992/93:42 Riksdagsskrivelse 1992/93:75 Nr LU11</p>
-          <p>Ändringar i livsmedelslagen med anledning av EES-avtalet (prop. 1992/93:119 delvis) Utskottets justering 1992-12-03 Förslag till beslut: Bifall till propositionen. Avslag på samtliga motioner.</p>
-          <p>Debatt i kammaren 1992-12-14 Protokollsnhummer 1992/93:44 Riksdagens beslut: Bifall till utskottets hemställan 1992-12-15 Protokollshnummer 1992/93:45 Riksdagsskrivelse 1992/93:100 Nr LU12 Märkning av textilier (prop. 1992/93:33) Utskottets justering 1992-11-19 Förslag till beslut: Bifall till propositionen. Riksdagens beslut: Bifall till utskottets hemställan 1992-12-02 Protokollsnummer 1992/93:36 Riksdagsskrivelse 1992/93:48 Nr LU13 Märkning av hushållsapparater (prop. 1992/93:34) Utskottets justering 1992-11-19 Förslag till beslut: Bifall till propositionen. Riksdagens beslut: Bifall till utskottets hemställan 1992-12-02 Protokollsnhummer 1992/93:36 Riksdagsskrivelse 1992/93:49 Nr LU14 Ändringar i aktiebolagslagen m.m. (prop. 1992/93:68) Utskottets justering 1992-11-26</p>
-          <p>Förslag till beslut: Bifall till propositionen. Avslag på samtliga motioner.</p>
-          <p>Debatt i kammaren 1992-12-09 Protokollsnummer 1992/93:41 Riksdagens beslut: Bifall till utskottets hemställan 1992-12-09 Protokollsnhummer 1992/93:41 Riksdagsskrivelse 1992/93:62</p>
-          <p>1" Riksdagen 19921/93. 8 saml. Register</p>
-          <p>1992/93:LU Reg.</p>
+          <p>
+            Nr LU10 Ändrad handels- och föreningsregistrering (prop. 1992/93:27)
+            Utskottets justering 1992-11-24 Förslag till beslut: Bifall till
+            propositionen. Avslag på samtliga motioner.
+          </p>
+          <p>
+            Riksdagens beslut: Bifall till utskottets hemställan 1992-12-10
+            Protokollsnummer 1992/93:42 Riksdagsskrivelse 1992/93:75 Nr LU11
+          </p>
+          <p>
+            Ändringar i livsmedelslagen med anledning av EES-avtalet (prop.
+            1992/93:119 delvis) Utskottets justering 1992-12-03 Förslag till
+            beslut: Bifall till propositionen. Avslag på samtliga motioner.
+          </p>
+          <p>
+            Debatt i kammaren 1992-12-14 Protokollsnhummer 1992/93:44 Riksdagens
+            beslut: Bifall till utskottets hemställan 1992-12-15 Protokollshnummer
+            1992/93:45 Riksdagsskrivelse 1992/93:100 Nr LU12 Märkning av textilier
+            (prop. 1992/93:33) Utskottets justering 1992-11-19 Förslag till
+            beslut: Bifall till propositionen. Riksdagens beslut: Bifall till
+            utskottets hemställan 1992-12-02 Protokollsnummer 1992/93:36 Riksdagsskrivelse
+            1992/93:48 Nr LU13 Märkning av hushållsapparater (prop. 1992/93:34)
+            Utskottets justering 1992-11-19 Förslag till beslut: Bifall till
+            propositionen. Riksdagens beslut: Bifall till utskottets hemställan
+            1992-12-02 Protokollsnhummer 1992/93:36 Riksdagsskrivelse 1992/93:49
+            Nr LU14 Ändringar i aktiebolagslagen m.m. (prop. 1992/93:68) Utskottets
+            justering 1992-11-26
+          </p>
+          <p>
+            Förslag till beslut: Bifall till propositionen. Avslag på samtliga
+            motioner.
+          </p>
+          <p>
+            Debatt i kammaren 1992-12-09 Protokollsnummer 1992/93:41 Riksdagens
+            beslut: Bifall till utskottets hemställan 1992-12-09 Protokollsnhummer
+            1992/93:41 Riksdagsskrivelse 1992/93:62
+          </p>
+          <p>
+            1" Riksdagen 19921/93. 8 saml. Register
+          </p>
+          <p>
+            1992/93:LU Reg.
+          </p>
           <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_LU/reg_199293_LU-003.pdf"/>
-          <p>Nr LU1S Utländska förvärv av fast egendom (prop. 1992/93:71) Utskottets justering 1992-11-26 Förslag till beslut: Bifall till propositionen. Avslag på samtliga motioner.</p>
-          <p>Debatt i kammaren 1992-12-09 Protokollshnummer 1992/93:41 Riksdagens beslut: Bifall till utskottets hemställan 1992-12-09 Protokollshummer 1992/93:41 Riksdagsskrivelse 1992/93:63 Nr LU16</p>
-          <p>Den svenska försäkringsavtalsrättens anpassning till EG:s regelverk m.m. (prop. 1992/93:222) Utskottets justering 1993-05-25 Förslag till beslut: Bifall till propositionen samt delvis bifall till motion rörande dödförklaring. Avslag på övriga motioner.</p>
-          <p>Debatt i kammaren 1993-06-07 Protokollsnummer 1992/93:123 Riksdagens beslut: Bifall till utskottets hemställan 1993-06-08 Protokollsnummer 1992/93:124 Riksdagsskrivelse 1992/93:423 Nr LU17 EES-avtalet och immaterialrätten (prop. 1992/93:48) Utskottets justering 1992-12-03</p>
-          <p>Förslag till beslut: Delvis bifall till propositionen. Avslag på samtliga motioner.</p>
-          <p>Riksdagens beslut: Bifall till utskottets hemställan 1992-12-16 Protokollsnhummer 1992/93:46 Riksdagsskrivelse 1992/93:125 Nr LU18</p>
-          <p>Leksakers säkerhet och farliga livsmedelsimitationer (prop. 1992/93:111)</p>
-          <p>Utskottets justering 1992-12-03 Förslag till beslut: Bifall till propositionen. Riksdagens beslut: Bifall till utskottets hemställan 1992-12-16 Protokollsnummer 1992/93:46 Riksdagsskrivelse 1992/93:126 Nr LU19 Personlig skyddsutrustning för privat bruk (prop. 1992/93:112) Utskottets justering 1992-12-03 Förslag till beslut: Bifall till propositionen. Riksdagens beslut: Bifall till utskottets hemställan 1992-12-16 Protokollshummer 1992/93:46 Riksdagsskrivelse 1992/93:127</p>
-          <p>1992/93:LU Reg.</p>
+          <p>
+            Nr LU1S Utländska förvärv av fast egendom (prop. 1992/93:71)
+            Utskottets justering 1992-11-26 Förslag till beslut: Bifall till
+            propositionen. Avslag på samtliga motioner.
+          </p>
+          <p>
+            Debatt i kammaren 1992-12-09 Protokollshnummer 1992/93:41 Riksdagens
+            beslut: Bifall till utskottets hemställan 1992-12-09 Protokollshummer
+            1992/93:41 Riksdagsskrivelse 1992/93:63 Nr LU16
+          </p>
+          <p>
+            Den svenska försäkringsavtalsrättens anpassning till EG:s regelverk
+            m.m. (prop. 1992/93:222) Utskottets justering 1993-05-25 Förslag
+            till beslut: Bifall till propositionen samt delvis bifall till
+            motion rörande dödförklaring. Avslag på övriga motioner.
+          </p>
+          <p>
+            Debatt i kammaren 1993-06-07 Protokollsnummer 1992/93:123 Riksdagens
+            beslut: Bifall till utskottets hemställan 1993-06-08 Protokollsnummer
+            1992/93:124 Riksdagsskrivelse 1992/93:423 Nr LU17 EES-avtalet
+            och immaterialrätten (prop. 1992/93:48) Utskottets justering 1992-12-03
+          </p>
+          <p>
+            Förslag till beslut: Delvis bifall till propositionen. Avslag
+            på samtliga motioner.
+          </p>
+          <p>
+            Riksdagens beslut: Bifall till utskottets hemställan 1992-12-16
+            Protokollsnhummer 1992/93:46 Riksdagsskrivelse 1992/93:125 Nr
+            LU18
+          </p>
+          <p>
+            Leksakers säkerhet och farliga livsmedelsimitationer (prop. 1992/93:111)
+          </p>
+          <p>
+            Utskottets justering 1992-12-03 Förslag till beslut: Bifall till
+            propositionen. Riksdagens beslut: Bifall till utskottets hemställan
+            1992-12-16 Protokollsnummer 1992/93:46 Riksdagsskrivelse 1992/93:126
+            Nr LU19 Personlig skyddsutrustning för privat bruk (prop. 1992/93:112)
+            Utskottets justering 1992-12-03 Förslag till beslut: Bifall till
+            propositionen. Riksdagens beslut: Bifall till utskottets hemställan
+            1992-12-16 Protokollshummer 1992/93:46 Riksdagsskrivelse 1992/93:127
+          </p>
+          <p>
+            1992/93:LU Reg.
+          </p>
           <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_LU/reg_199293_LU-004.pdf"/>
-          <p>Nr LU20 Andringar i marknadsföringslagen med anledning av EES-avtalet, m.m. (prop. 1992/93:110) (prop. 1992/93:75 delvis)</p>
-          <p>Utskottets justering 1992-12-03 Förslag till beslut: Bifall till propositionerna. Riksdagens beslut: Bifall til utskottets hemställan 1992-12-16 Protokollsnhummer 1992/93:46 Riksdagsskrivelse 1992/93:128 Nr LU21 Paketresor (prop. 1992/93:95) Utskottets justering 1992-12-03</p>
-          <p>Förslag till beslut: Bifall till propositionen med viss ändring i förslaget till lag om ändring i resegarantilagen (1972:204). Avslag på samtliga motioner.</p>
-          <p>Debatt i kammaren 1992-12-15 Protokollsnhummer 1992/93:45 Riksdagens beslut: Bifall till utskottets hemställan 1992-12-16 Protokollsnhummer 1992/93:46 Riksdagsskrivelse 1992/93:129 Nr LU22</p>
-          <p>Olovliga bortföranden av barn samt vårdnad och umgänge m.m. (prop. 1992/93:139) Utskottets justering 1993-03-25 Förslag till beslut: Bifall till propositionen. Avslag på samtliga motioner.</p>
-          <p>Debatt i kammaren 1993-04-14 Protokollsnhummer 1992/93:91 Riksdagens beslut: Bifall till utskottets hemställan 1993-04-14 Protokollsnhummer 1992/93:91 Riksdagsskrivelse 1992/93:259 Nr LU23</p>
-          <p>Enskild egendom genom förmånstagarförordnande (prop. 1992/93:148) ”</p>
-          <p>Utskottets justering 1992-02-09 Förslag till beslut: Bifall till propositionen. Riksdagens beslut: Bifall till utskottets hemställan 1993-02-24 Protokollsnummer 1992/93:67 Riksdagsskrivelse 1992/93:169 Nr LU24</p>
-          <p>Ändring i lagen (1980:1102) om handelsbolag och enkla bolag (prop. 1992/93:118)</p>
-          <p>Utskottets justering 1992-11-24 Förslag till beslut: Bifall till propositionen. Riksdagens beslut: Bifall till utskottets hemställan 1992-12-02 Protokollsnhummer 1992/93:36</p>
-          <p>Riksdagsskrivelse 1992/93:50</p>
-          <p>1992/93:LU Reg.</p>
+          <p>
+            Nr LU20 Andringar i marknadsföringslagen med anledning av EES-avtalet,
+            m.m. (prop. 1992/93:110) (prop. 1992/93:75 delvis)
+          </p>
+          <p>
+            Utskottets justering 1992-12-03 Förslag till beslut: Bifall till
+            propositionerna. Riksdagens beslut: Bifall til utskottets hemställan
+            1992-12-16 Protokollsnhummer 1992/93:46 Riksdagsskrivelse 1992/93:128
+            Nr LU21 Paketresor (prop. 1992/93:95) Utskottets justering 1992-12-03
+          </p>
+          <p>
+            Förslag till beslut: Bifall till propositionen med viss ändring
+            i förslaget till lag om ändring i resegarantilagen (1972:204).
+            Avslag på samtliga motioner.
+          </p>
+          <p>
+            Debatt i kammaren 1992-12-15 Protokollsnhummer 1992/93:45 Riksdagens
+            beslut: Bifall till utskottets hemställan 1992-12-16 Protokollsnhummer
+            1992/93:46 Riksdagsskrivelse 1992/93:129 Nr LU22
+          </p>
+          <p>
+            Olovliga bortföranden av barn samt vårdnad och umgänge m.m. (prop.
+            1992/93:139) Utskottets justering 1993-03-25 Förslag till beslut:
+            Bifall till propositionen. Avslag på samtliga motioner.
+          </p>
+          <p>
+            Debatt i kammaren 1993-04-14 Protokollsnhummer 1992/93:91 Riksdagens
+            beslut: Bifall till utskottets hemställan 1993-04-14 Protokollsnhummer
+            1992/93:91 Riksdagsskrivelse 1992/93:259 Nr LU23
+          </p>
+          <p>
+            Enskild egendom genom förmånstagarförordnande (prop. 1992/93:148)
+            ”
+          </p>
+          <p>
+            Utskottets justering 1992-02-09 Förslag till beslut: Bifall till
+            propositionen. Riksdagens beslut: Bifall till utskottets hemställan
+            1993-02-24 Protokollsnummer 1992/93:67 Riksdagsskrivelse 1992/93:169
+            Nr LU24
+          </p>
+          <p>
+            Ändring i lagen (1980:1102) om handelsbolag och enkla bolag (prop.
+            1992/93:118)
+          </p>
+          <p>
+            Utskottets justering 1992-11-24 Förslag till beslut: Bifall till
+            propositionen. Riksdagens beslut: Bifall till utskottets hemställan
+            1992-12-02 Protokollsnhummer 1992/93:36
+          </p>
+          <p>
+            Riksdagsskrivelse 1992/93:50
+          </p>
+          <p>
+            1992/93:LU Reg.
+          </p>
           <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_LU/reg_199293_LU-005.pdf"/>
-          <p>Nr LU2S Andring i jordabalken m.m. (prop. 1992/93:23)</p>
-          <p>Utskottets justering 1992-12-03 Förslag till beslut: Bifall till propositionen. Riksdagens beslut: Bifall till utskottets hemställan 1992-12-16 Protokollsnummer 1992/93:46 Riksdagsskrivelse 1992/93:130 Nr LU26 Internationella oljeskadefonden (prop. 1992/93:143) Utskottets justering 1993-02-09 Förslag till beslut: Bifall till propositionen. Riksdagens beslut: Bifall till utskottets hemställan 1993-02-24 Protokollshnhummer 1992/93:67 Riksdagsskrivelse 1992/93:170 Nr LU27</p>
-          <p>Medlemsantalet i ekonomiska föreningar och bostadsrättsföreningar (prop. 1992/93:144) Utskottets justering 1993-03-09 Förslag till beslut: Avslag på propositionen. Bifall till samtliga motioner.</p>
-          <p>Debatt i kammaren 1993-03-25 Protokollsnhummer 1992/93:83 Riksdagens beslut: Bifall till reservationen 1993-03-31 Protokollsnummer 1992/93:87 Riksdagsskrivelse 1992/93:225 Nr LU28 .</p>
-          <p>Andrat bidrag till Stiftelsen för god redovisningssed (prop. 1992/93:105 bil. 2)</p>
-          <p>Utskottets justering 1992-02-16 Förslag till beslut: Bifall till propositionen. Riksdagens beslut: Bifall till utskottets hemställan 1993-02-24 Protokollshummer 1992/93:67 Riksdagsskrivelse 1992/93:171 Nr LU29 Anslag till Patentverket m.m. (prop. 1992/93:100 bil. 13) Utskottets justering 1993-03-09</p>
-          <p>Förslag till beslut: Bifall till propositionen. Avslag på samtliga motioner.</p>
-          <p>Riksdagens beslut: Bifall till utskottets hemställan 1993-03-31 Protokollsnhummer c 1992/93:87 Riksdagsskrivelse 1992/93:226 Nr LU30</p>
-          <p>Anslag till kronofogdemyndigheterna, m.m. (prop. 1992/93:100 bil. 8) Utskottets justering 1993-03-09</p>
-          <p>1992/93:LU Reg.</p>
+          <p>
+            Nr LU2S Andring i jordabalken m.m. (prop. 1992/93:23)
+          </p>
+          <p>
+            Utskottets justering 1992-12-03 Förslag till beslut: Bifall till
+            propositionen. Riksdagens beslut: Bifall till utskottets hemställan
+            1992-12-16 Protokollsnummer 1992/93:46 Riksdagsskrivelse 1992/93:130
+            Nr LU26 Internationella oljeskadefonden (prop. 1992/93:143) Utskottets
+            justering 1993-02-09 Förslag till beslut: Bifall till propositionen.
+            Riksdagens beslut: Bifall till utskottets hemställan 1993-02-24
+            Protokollshnhummer 1992/93:67 Riksdagsskrivelse 1992/93:170 Nr
+            LU27
+          </p>
+          <p>
+            Medlemsantalet i ekonomiska föreningar och bostadsrättsföreningar
+            (prop. 1992/93:144) Utskottets justering 1993-03-09 Förslag till
+            beslut: Avslag på propositionen. Bifall till samtliga motioner.
+          </p>
+          <p>
+            Debatt i kammaren 1993-03-25 Protokollsnhummer 1992/93:83 Riksdagens
+            beslut: Bifall till reservationen 1993-03-31 Protokollsnummer
+            1992/93:87 Riksdagsskrivelse 1992/93:225 Nr LU28 .
+          </p>
+          <p>
+            Andrat bidrag till Stiftelsen för god redovisningssed (prop.
+            1992/93:105 bil. 2)
+          </p>
+          <p>
+            Utskottets justering 1992-02-16 Förslag till beslut: Bifall till
+            propositionen. Riksdagens beslut: Bifall till utskottets hemställan
+            1993-02-24 Protokollshummer 1992/93:67 Riksdagsskrivelse 1992/93:171
+            Nr LU29 Anslag till Patentverket m.m. (prop. 1992/93:100 bil.
+            13) Utskottets justering 1993-03-09
+          </p>
+          <p>
+            Förslag till beslut: Bifall till propositionen. Avslag på samtliga
+            motioner.
+          </p>
+          <p>
+            Riksdagens beslut: Bifall till utskottets hemställan 1993-03-31
+            Protokollsnhummer c 1992/93:87 Riksdagsskrivelse 1992/93:226 Nr
+            LU30
+          </p>
+          <p>
+            Anslag till kronofogdemyndigheterna, m.m. (prop. 1992/93:100
+            bil. 8) Utskottets justering 1993-03-09
+          </p>
+          <p>
+            1992/93:LU Reg.
+          </p>
           <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_LU/reg_199293_LU-006.pdf"/>
-          <p>Förslag till beslut: Delvis bifall till propositionen samt bifall resp. delvis bifall till motioner rörande anslaget till kronofogdemyndigheterna. Avslag på övriga motioner.</p>
-          <p>Debatt i kammaren 1993-03-25 Protokollsnummer 1992/93:83 Riksdagens beslut: Bifall till reservationen, mom. 2, i övrigt till utskottets hemställan 1993-03-31 Protokollsnummer 1992/93:87 Riksdaggsskrivelse 1992/93:227 Nr LU31</p>
-          <p>Anslag till Bokföringsnämnden, m.m. (prop. 1992/93:100 bil. 3 och bil. 8) Utskottets justering 1993-03-09 Förslag till beslut: Bifall till propositionen. Avslag på samtliga motioner.</p>
-          <p>Riksdagens beslut: Bifall till utskottets hemställan 1993-03-31 Protokollsnummer 1992/93:87 Riksdagsskrivelse 1992/93:228 Nr LU32</p>
-          <p>Konsumentpolitiska frågor m.m. (prop. 1992/93:100 bil. 13 och bil. 14) Utskottets justering 1993-03-09 Förslag till beslut: Bifall till propositionen samt bifall till motioner rörande utvärdering av miljömärkningen och obligatorisk miljöfarlighetsmärkning. Avslag på övriga</p>
-          <p>motioner. Debatt i kammaren 1993-03-25 Protokollsnummer 1992/93:83 Riksdagens beslut: Bifall till reservationerna 1 och 2, i övrigt till utskottets hemställan 1993-03-31 Protokollsnhummer 1992/93:87 Riksdagsskrivelse 1992/93:229 Nr LU33 Livsmedelskontroll m.m. (prop. 1992/93:100 bil. 10) Utskottets justering 1993-03-09</p>
-          <p>Förslag till beslut: Bifall till propositionen. Avslag på samtliga motioner.</p>
-          <p>Debatt i kammaren 1993-03-25 Protokollsnhummer 1992/93:83 Riksdagens beslut: Bifall till utskottets hemställan 1993-03-31 Protokollshummer 1992/93:87 Riksdagsskrivelse 1992/93:230 Nr LU34 Lagstiftningsåtgärder beträffande stiftelser m.m. Utskottets justering 1993-03-16</p>
-          <p>Förslag till beslut: Avslag på samtliga motioner.</p>
-          <p>1992/93:LU Reg.</p>
+          <p>
+            Förslag till beslut: Delvis bifall till propositionen samt bifall
+            resp. delvis bifall till motioner rörande anslaget till kronofogdemyndigheterna.
+            Avslag på övriga motioner.
+          </p>
+          <p>
+            Debatt i kammaren 1993-03-25 Protokollsnummer 1992/93:83 Riksdagens
+            beslut: Bifall till reservationen, mom. 2, i övrigt till utskottets
+            hemställan 1993-03-31 Protokollsnummer 1992/93:87 Riksdaggsskrivelse
+            1992/93:227 Nr LU31
+          </p>
+          <p>
+            Anslag till Bokföringsnämnden, m.m. (prop. 1992/93:100 bil. 3
+            och bil. 8) Utskottets justering 1993-03-09 Förslag till beslut:
+            Bifall till propositionen. Avslag på samtliga motioner.
+          </p>
+          <p>
+            Riksdagens beslut: Bifall till utskottets hemställan 1993-03-31
+            Protokollsnummer 1992/93:87 Riksdagsskrivelse 1992/93:228 Nr LU32
+          </p>
+          <p>
+            Konsumentpolitiska frågor m.m. (prop. 1992/93:100 bil. 13 och
+            bil. 14) Utskottets justering 1993-03-09 Förslag till beslut:
+            Bifall till propositionen samt bifall till motioner rörande utvärdering
+            av miljömärkningen och obligatorisk miljöfarlighetsmärkning. Avslag
+            på övriga
+          </p>
+          <p>
+            motioner. Debatt i kammaren 1993-03-25 Protokollsnummer 1992/93:83
+            Riksdagens beslut: Bifall till reservationerna 1 och 2, i övrigt
+            till utskottets hemställan 1993-03-31 Protokollsnhummer 1992/93:87
+            Riksdagsskrivelse 1992/93:229 Nr LU33 Livsmedelskontroll m.m.
+            (prop. 1992/93:100 bil. 10) Utskottets justering 1993-03-09
+          </p>
+          <p>
+            Förslag till beslut: Bifall till propositionen. Avslag på samtliga
+            motioner.
+          </p>
+          <p>
+            Debatt i kammaren 1993-03-25 Protokollsnhummer 1992/93:83 Riksdagens
+            beslut: Bifall till utskottets hemställan 1993-03-31 Protokollshummer
+            1992/93:87 Riksdagsskrivelse 1992/93:230 Nr LU34 Lagstiftningsåtgärder
+            beträffande stiftelser m.m. Utskottets justering 1993-03-16
+          </p>
+          <p>
+            Förslag till beslut: Avslag på samtliga motioner.
+          </p>
+          <p>
+            1992/93:LU Reg.
+          </p>
           <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_LU/reg_199293_LU-007.pdf"/>
-          <p>Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer</p>
-          <p>Nr LU35</p>
-          <p>Ändringar i trafikskadelagen (prop. 1992/93:8 delvis)</p>
-          <p>Utskottets justering</p>
-          <p>Förslag till beslut: Delvis bifall till propositionen och till motioner rörande jämkning och självrisk. Avslag på övriga</p>
-          <p>motioner. Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse</p>
-          <p>Nr LU36 Äktenskaps- och sambofrågor Utskottets justering Förslag till beslut: Avslag på samtliga motioner. Debatt i kammaren Protokollsnhummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer</p>
-          <p>Nr LU37 Sjöfylleri Utskottets justering Förslag till beslut: Avslag på motionen. Debatt i kammaren Protokollshnhummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnhummer</p>
-          <p>Nr LU38 Ändringar i konsumentkreditlagen Utskottets justering Förslag till beslut: Delvis bifall till motion rörande ränteändring. Avslag på övriga motioner. Riksdagens beslut: Bifall till utskottets hemställan Protokollsnhummer Riksdagsskrivelse</p>
-          <p>Nr LU39 Vissa frågor om ansvarsförsäkring Utskottets justering Förslag till beslut: Avslag på samtliga motioner. Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse</p>
-          <p>1993-04-01 1992/93:88</p>
-          <p>1993-04-15</p>
-          <p>1993-04-28 1992/93:101 1993-04-28 1992/93:101 1992/93:307</p>
-          <p>1993-03-25</p>
-          <p>1993-04-14 1992/93:91 1993-04-14 1992/93:91</p>
-          <p>1993-03-23</p>
-          <p>1992-04-14 1992/93:91 1993-04-14 1992/93:91</p>
-          <p>1993-03-30</p>
-          <p>1993-04-14 1992/93:91 1992/93:260</p>
-          <p>1993-03-30</p>
-          <p>1993-04-28 1992/93:101</p>
-          <p>1992/93:LU Reg.</p>
+          <p>
+            Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer
+          </p>
+          <p>
+            Nr LU35
+          </p>
+          <p>
+            Ändringar i trafikskadelagen (prop. 1992/93:8 delvis)
+          </p>
+          <p>
+            Utskottets justering
+          </p>
+          <p>
+            Förslag till beslut: Delvis bifall till propositionen och till
+            motioner rörande jämkning och självrisk. Avslag på övriga
+          </p>
+          <p>
+            motioner. Debatt i kammaren Protokollsnummer Riksdagens beslut:
+            Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr LU36 Äktenskaps- och sambofrågor Utskottets justering Förslag
+            till beslut: Avslag på samtliga motioner. Debatt i kammaren Protokollsnhummer
+            Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer
+          </p>
+          <p>
+            Nr LU37 Sjöfylleri Utskottets justering Förslag till beslut:
+            Avslag på motionen. Debatt i kammaren Protokollshnhummer Riksdagens
+            beslut: Bifall till utskottets hemställan Protokollsnhummer
+          </p>
+          <p>
+            Nr LU38 Ändringar i konsumentkreditlagen Utskottets justering
+            Förslag till beslut: Delvis bifall till motion rörande ränteändring.
+            Avslag på övriga motioner. Riksdagens beslut: Bifall till utskottets
+            hemställan Protokollsnhummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr LU39 Vissa frågor om ansvarsförsäkring Utskottets justering
+            Förslag till beslut: Avslag på samtliga motioner. Riksdagens beslut:
+            Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse
+          </p>
+          <p>
+            1993-04-01 1992/93:88
+          </p>
+          <p>
+            1993-04-15
+          </p>
+          <p>
+            1993-04-28 1992/93:101 1993-04-28 1992/93:101 1992/93:307
+          </p>
+          <p>
+            1993-03-25
+          </p>
+          <p>
+            1993-04-14 1992/93:91 1993-04-14 1992/93:91
+          </p>
+          <p>
+            1993-03-23
+          </p>
+          <p>
+            1992-04-14 1992/93:91 1993-04-14 1992/93:91
+          </p>
+          <p>
+            1993-03-30
+          </p>
+          <p>
+            1993-04-14 1992/93:91 1992/93:260
+          </p>
+          <p>
+            1993-03-30
+          </p>
+          <p>
+            1993-04-28 1992/93:101
+          </p>
+          <p>
+            1992/93:LU Reg.
+          </p>
           <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_LU/reg_199293_LU-008.pdf"/>
-          <p>Nr LU40 Konkurs- och bolagsrättsliga frågor m.m. Utskottets justering 1993-04-15 Förslag till beslut: Delvis bifall till motion rörande registrering i aktiebolagsregistret. Avslag på övriga motioner.</p>
-          <p>Debatt i kammaren 1993-04-28 Protokollsnummer 1992/93:101 Riksdagens beslut: Bifall till utskottets hemställan 1993-04-28 Protokollsnummer 1992/93:101 Riksdagsskrivelse 1992/93:308 Nr LU41 Skadeståndsrättsliga frågor Utskottets justering 1993-04-15 Förslag till beslut: Avslag på samtliga motioner. Debatt i kammaren 1993-04-28 Protokollsnummer 1992/93:101 Riksdagens beslut: Bifall till utskottets hemställan 1993-04-28 Protokollsnummer 1992/93:101 Riksdagsskrivelse - Nr LU42</p>
-          <p>Rätt att förrätta vigsel inom andra trossamfund än Svenska kyrkan, m.m. (prop. 1992/93:211)</p>
-          <p>Utskottets justering 1993-04-22 Förslag till beslut: Bifall till propositionen. Riksdagens beslut: Bifall till utskottets hemställan 1993-05-06 Protokollsnummer 1992/93:106 Riksdagsskrivelse 1992/93:327 Nr LU43</p>
-          <p>Andring i lagen om handelsbolag och enkla bolag m.m. (prop. 1992/93:137)</p>
-          <p>Utskottets justering 1993-04-22 Förslag till beslut: Bifall till propositionen. Riksdagens beslut: Bifall till utskottets hemställan 1993-05-06 Protokollsnummer 1992/93:106 Riksdagsskrivelse 1992/93:328 Nr LU44 Ändring i upphovsrättslagen (prop. 1992/93:214) Utskottets justering 1993-05-25</p>
-          <p>Förslag till beslut: Bifall till propositionen samt delvis bifall till motioner rörande fotografirätten. Avslag på övriga</p>
-          <p>motioner. Debatt i kammaren 1993-06-04 Protokollshummer 1992/93:122 Riksdagens beslut: Bifall till utskottets hemställan 1993-06-07 Protokollsrhummer 1992/93:123</p>
-          <p>Riksdagsskrivelse 1992/93:413</p>
-          <p>1992/93:LU Reg.</p>
+          <p>
+            Nr LU40 Konkurs- och bolagsrättsliga frågor m.m. Utskottets justering
+            1993-04-15 Förslag till beslut: Delvis bifall till motion rörande
+            registrering i aktiebolagsregistret. Avslag på övriga motioner.
+          </p>
+          <p>
+            Debatt i kammaren 1993-04-28 Protokollsnummer 1992/93:101 Riksdagens
+            beslut: Bifall till utskottets hemställan 1993-04-28 Protokollsnummer
+            1992/93:101 Riksdagsskrivelse 1992/93:308 Nr LU41 Skadeståndsrättsliga
+            frågor Utskottets justering 1993-04-15 Förslag till beslut: Avslag
+            på samtliga motioner. Debatt i kammaren 1993-04-28 Protokollsnummer
+            1992/93:101 Riksdagens beslut: Bifall till utskottets hemställan
+            1993-04-28 Protokollsnummer 1992/93:101 Riksdagsskrivelse - Nr
+            LU42
+          </p>
+          <p>
+            Rätt att förrätta vigsel inom andra trossamfund än Svenska kyrkan,
+            m.m. (prop. 1992/93:211)
+          </p>
+          <p>
+            Utskottets justering 1993-04-22 Förslag till beslut: Bifall till
+            propositionen. Riksdagens beslut: Bifall till utskottets hemställan
+            1993-05-06 Protokollsnummer 1992/93:106 Riksdagsskrivelse 1992/93:327
+            Nr LU43
+          </p>
+          <p>
+            Andring i lagen om handelsbolag och enkla bolag m.m. (prop. 1992/93:137)
+          </p>
+          <p>
+            Utskottets justering 1993-04-22 Förslag till beslut: Bifall till
+            propositionen. Riksdagens beslut: Bifall till utskottets hemställan
+            1993-05-06 Protokollsnummer 1992/93:106 Riksdagsskrivelse 1992/93:328
+            Nr LU44 Ändring i upphovsrättslagen (prop. 1992/93:214) Utskottets
+            justering 1993-05-25
+          </p>
+          <p>
+            Förslag till beslut: Bifall till propositionen samt delvis bifall
+            till motioner rörande fotografirätten. Avslag på övriga
+          </p>
+          <p>
+            motioner. Debatt i kammaren 1993-06-04 Protokollshummer 1992/93:122
+            Riksdagens beslut: Bifall till utskottets hemställan 1993-06-07
+            Protokollsrhummer 1992/93:123
+          </p>
+          <p>
+            Riksdagsskrivelse 1992/93:413
+          </p>
+          <p>
+            1992/93:LU Reg.
+          </p>
           <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_LU/reg_199293_LU-009.pdf"/>
-          <p>Nr LU45 Andring i lagen om marknadsdomstol m.m. (prop. 1992/93:195)</p>
-          <p>Utskottets justering 1993-05-13 Förslag till beslut: Bifall till propositionen. Riksdagens beslut: Bifall till utskottets hemställan 1993-05-28 Protokollsnummer 1992/93:118 Riksdagsskrivelse 1992/93:360 Nr LU46 Ersättning till hiv-smittade blödarsjuka m.fl. Utskottets justering 1993-05-04 Förslag till beslut: Delvis bifall till samtliga motioner. Debatt i kammaren 1993-05-12 Protokollsnummer 1992/93:109 Riksdagens beslut: Bifall till utskottets hemställan 1993-05-19 Protokollsnhummer 1992/93:113 Riksdagsskrivelse 1992/93:337 Nr LU47 Uppskov med behandlingen av vissa ärenden Utskottets justering 1993-05-27 Förslag till beslut: Uppskov Riksdagens beslut: Bifall till utskottets hemställan 1993-06-08 Protokollsnummer 1992/93:124 Nr LU48 Konsumentforskning (prop. 1992/93:170 bil. 13) Utskottets justering 1993-05-13 Förslag till beslut: Bifall till propositionen. Riksdagens beslut: Bifall till utskottets hemställan 1993-06-03 Protokollsnummer 1992/93:121 Riksdagsskrivelse 1992/93:392 Nr LU49 Skuldsanering Utskottets justering 1993-05-25 Förslag till beslut: Delvis bifall till samtliga motioner. Debatt i kammaren 1993-06-04 Protokollsnhummer 1992/93:122 Riksdagens beslut: Bifall till utskottets hemställan 1993-06-07 Protokollsnummer 1992/93:123 Riksdagsskrivelse 1992/93:412</p>
-          <p>1992/93:LU Reg.</p>
-          <p>10</p>
+          <p>
+            Nr LU45 Andring i lagen om marknadsdomstol m.m. (prop. 1992/93:195)
+          </p>
+          <p>
+            Utskottets justering 1993-05-13 Förslag till beslut: Bifall till
+            propositionen. Riksdagens beslut: Bifall till utskottets hemställan
+            1993-05-28 Protokollsnummer 1992/93:118 Riksdagsskrivelse 1992/93:360
+            Nr LU46 Ersättning till hiv-smittade blödarsjuka m.fl. Utskottets
+            justering 1993-05-04 Förslag till beslut: Delvis bifall till samtliga
+            motioner. Debatt i kammaren 1993-05-12 Protokollsnummer 1992/93:109
+            Riksdagens beslut: Bifall till utskottets hemställan 1993-05-19
+            Protokollsnhummer 1992/93:113 Riksdagsskrivelse 1992/93:337 Nr
+            LU47 Uppskov med behandlingen av vissa ärenden Utskottets justering
+            1993-05-27 Förslag till beslut: Uppskov Riksdagens beslut: Bifall
+            till utskottets hemställan 1993-06-08 Protokollsnummer 1992/93:124
+            Nr LU48 Konsumentforskning (prop. 1992/93:170 bil. 13) Utskottets
+            justering 1993-05-13 Förslag till beslut: Bifall till propositionen.
+            Riksdagens beslut: Bifall till utskottets hemställan 1993-06-03
+            Protokollsnummer 1992/93:121 Riksdagsskrivelse 1992/93:392 Nr
+            LU49 Skuldsanering Utskottets justering 1993-05-25 Förslag till
+            beslut: Delvis bifall till samtliga motioner. Debatt i kammaren
+            1993-06-04 Protokollsnhummer 1992/93:122 Riksdagens beslut: Bifall
+            till utskottets hemställan 1993-06-07 Protokollsnummer 1992/93:123
+            Riksdagsskrivelse 1992/93:412
+          </p>
+          <p>
+            1992/93:LU Reg.
+          </p>
+          <p>
+            10
+          </p>
           <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_LU/reg_199293_LU-010.pdf"/>
-          <p>Yttranden till annat utskott</p>
-          <p>Nr LU1y till EU Europeiska ekonomiska samarbetsområdet (prop. 1991/92:170 bil. 2, bil. 8 och bil. 12) Utskottets justering 1992-08-31</p>
-          <p>Nr LU2y till FiU Skuldsanering och ett allmänhetens bankombud Utskottets justering 1992-11-24</p>
-          <p>Nr LU3y till NU Marknadsdomstolens sammansättning m.m. (prop. 1992/93:56) Utskottets justering 1992-11-26</p>
-          <p>Nr LU4y till SkU Individuellt pensionssparande (prop. 1992/93:187) Utskottets justering 1993-04-27</p>
-          <p>Nr LUSy till JuU Instansordningen i utsökningsmål m.m. (prop. 1992/93:216) Utskottets justering 1993-05-04</p>
-          <p>Nr LU6y till SkU Indrivningslag m.m. (prop. 1992/93:198) Utskottets justering 1993-05-13</p>
-          <p>Nr LU7y till FiU Kompletteringspropositionen Utskottets justering 1993-05-13</p>
-          <p>1992/93:LU Reg.</p>
+          <p>
+            Yttranden till annat utskott
+          </p>
+          <p>
+            Nr LU1y till EU Europeiska ekonomiska samarbetsområdet (prop.
+            1991/92:170 bil. 2, bil. 8 och bil. 12) Utskottets justering 1992-08-31
+          </p>
+          <p>
+            Nr LU2y till FiU Skuldsanering och ett allmänhetens bankombud
+            Utskottets justering 1992-11-24
+          </p>
+          <p>
+            Nr LU3y till NU Marknadsdomstolens sammansättning m.m. (prop.
+            1992/93:56) Utskottets justering 1992-11-26
+          </p>
+          <p>
+            Nr LU4y till SkU Individuellt pensionssparande (prop. 1992/93:187)
+            Utskottets justering 1993-04-27
+          </p>
+          <p>
+            Nr LUSy till JuU Instansordningen i utsökningsmål m.m. (prop.
+            1992/93:216) Utskottets justering 1993-05-04
+          </p>
+          <p>
+            Nr LU6y till SkU Indrivningslag m.m. (prop. 1992/93:198) Utskottets
+            justering 1993-05-13
+          </p>
+          <p>
+            Nr LU7y till FiU Kompletteringspropositionen Utskottets justering
+            1993-05-13
+          </p>
+          <p>
+            1992/93:LU Reg.
+          </p>
           <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_LU/reg_199293_LU-011.pdf"/>
-          <p>Sakregister</p>
-          <p>Ackordslagen, ändrinNg il.ssmmmssssssesesrrersrrrrrrrrernrrerrsrrrrsrrrrrnnrrnsn nn Adoption, homosexuellas rättigheter Aktiebolagslagen, ändring I..................... Aktiekapitalets Storlek.....ssssssssssssessosnersnersrenernernsrrnsrerrennnrnnnr nn Allergimärkning av textilier m...smmmmmmsssssesssneneesensessenrrnrronrnnnnn Allmänna reklamationsnämnden, anslag till...................... AnsvarsförsäkriNgar....sssmssrsesraseersesesesrerseseseresrnesrerenesrernnrsnnnnn nn AnSvarsgenOmbrOtt...........sssssssesreessrrsrrsrrereenrerrennrerrererrrrenrnrn ran Arbetstagares skadeståndsanSVåär............sesssessoresesrerenesrennsrenen Arrenden, se Uppskjutna ärenden ArrestkOnventiOn€h.....ssssessesseoreeseeresrerreserreresrerrenesrrererrrrnren rna Associationsrätt aktiebolagslagen, ändring I..smmsmsssesresresrrerrensrrnrrrrnnrrnrrn nr aktiekapitalets Storlek =.ssssnsssssssserereesrrererrnrrnrserrerrrrrnrrrrnrn na ansvarsgenoOmbrOtt.........s.sesssesesssersrersensenrersrrnnnennnrnnnnrnn nana bostadsrättsföreNiNgar smmmmesssesrsersresrrererrsrerrrrrrrrrrernnrr rn nn nn bosättningskrav för styrelseledamöter m.fl. .................. bundna aktier, upphävande av bestämmelser om........ delgivning med juridiska personer ... ekonomiska föreningar sm. smmemssesesesressersrsnsesenrenrnennennnnnn enn fallskärmsavtal m.m. i årsredovisningen ....................... lagen om handelsbolag och enkla bolag, ändring i...... personalekonomisk redovisning ...........sssssssesserressernennna personligt ansvar för styrelseledamöter m.fl. ................ registrering av handelsbolag reVisOrSrOllenN sossssssssessrerssrerrersrenrnrsrrrrennern rr n rna nn underrättelse vid registrering av aktiebolag Atomansvarighetslägeh.......s.sssssesesrsrserrererererreersrnrsrrnnnrrnnnnrnnn nn Avgiftsfinansiering av kronofogdemyndigheternas Verksam het ossssssssssrressoreseresserrerrsrrrnarrnrrrrrrrnrsrsr rann ans ns n nr n nn nanna</p>
-          <p>Bankombud, allmänhetens.............ssssssrsssererseessensrersnnnnnrrorn ra Barns ställning i vårdnads- och umgängesmål Bodelning, PenSiONSrätt s..sssssssssssesserssresrsennesrernrenrnrnrrrnnn rn nana Bokföringsnämnden, anslag till smmoosmsosssesssssresrersesrerrnenrsnrnnn Bostadsrättsföreningar, medlemsantalet ........ss.ssososeossrnsnnenn Bosättningskrav för styrelseledamöter m.fl. i aktiebolag</p>
-          <p>Brottsoffer, skadestånd till.............ssssssssssossssesereesressoreroeenrnn nn Bundna aktier, upphävande av bestämmelser om</p>
-          <p>Datorprogram, skydd för ..................- Delgivning med juridiska personer Det allmännas skadeståndsanSvVar.............s.esesssensesesennnsnnnnnnn Diabetikers personförsäkringar .........s.sssssesesseneneereneresnernsnnr Djurtestad kosmetika, märkning av M.M. ...mmmsseserssesnsnennr Droit de SUI€ ssmmnsseeessressresrsrnerrrrrrnrrnrrrrnrenernesnrnnn nen rrn rr narr n nn</p>
-          <p>14,</p>
-          <p>14,</p>
-          <p>14, 27,</p>
-          <p>14,</p>
-          <p>1992/93:LU Reg.</p>
-          <p>12</p>
+          <p>
+            Sakregister
+          </p>
+          <p>
+            Ackordslagen, ändrinNg il.ssmmmssssssesesrrersrrrrrrrrernrrerrsrrrrsrrrrrnnrrnsn
+            nn Adoption, homosexuellas rättigheter Aktiebolagslagen, ändring
+            I..................... Aktiekapitalets Storlek.....ssssssssssssessosnersnersrenernernsrrnsrerrennnrnnnr
+            nn Allergimärkning av textilier m...smmmmmmsssssesssneneesensessenrrnrronrnnnnn
+            Allmänna reklamationsnämnden, anslag till......................
+            AnsvarsförsäkriNgar....sssmssrsesraseersesesesrerseseseresrnesrerenesrernnrsnnnnn
+            nn AnSvarsgenOmbrOtt...........sssssssesreessrrsrrsrrereenrerrennrerrererrrrenrnrn
+            ran Arbetstagares skadeståndsanSVåär............sesssessoresesrerenesrennsrenen
+            Arrenden, se Uppskjutna ärenden ArrestkOnventiOn€h.....ssssessesseoreeseeresrerreserreresrerrenesrrererrrrnren
+            rna Associationsrätt aktiebolagslagen, ändring I..smmsmsssesresresrrerrensrrnrrrrnnrrnrrn
+            nr aktiekapitalets Storlek =.ssssnsssssssserereesrrererrnrrnrserrerrrrrnrrrrnrn
+            na ansvarsgenoOmbrOtt.........s.sesssesesssersrersensenrersrrnnnennnrnnnnrnn
+            nana bostadsrättsföreNiNgar smmmmesssesrsersresrrererrsrerrrrrrrrrrernnrr
+            rn nn nn bosättningskrav för styrelseledamöter m.fl. ..................
+            bundna aktier, upphävande av bestämmelser om........ delgivning
+            med juridiska personer ... ekonomiska föreningar sm. smmemssesesesressersrsnsesenrenrnennennnnnn
+            enn fallskärmsavtal m.m. i årsredovisningen .......................
+            lagen om handelsbolag och enkla bolag, ändring i...... personalekonomisk
+            redovisning ...........sssssssesserressernennna personligt ansvar
+            för styrelseledamöter m.fl. ................ registrering av handelsbolag
+            reVisOrSrOllenN sossssssssessrerssrerrersrenrnrsrrrrennern rr
+            n rna nn underrättelse vid registrering av aktiebolag Atomansvarighetslägeh.......s.sssssesesrsrserrererererreersrnrsrrnnnrrnnnnrnnn
+            nn Avgiftsfinansiering av kronofogdemyndigheternas Verksam het
+            ossssssssssrressoreseresserrerrsrrrnarrnrrrrrrrnrsrsr rann ans
+            ns n nr n nn nanna
+          </p>
+          <p>
+            Bankombud, allmänhetens.............ssssssrsssererseessensrersnnnnnrrorn
+            ra Barns ställning i vårdnads- och umgängesmål Bodelning, PenSiONSrätt
+            s..sssssssssssesserssresrsennesrernrenrnrnrrrnnn rn nana Bokföringsnämnden,
+            anslag till smmoosmsosssesssssresrersesrerrnenrsnrnnn Bostadsrättsföreningar,
+            medlemsantalet ........ss.ssososeossrnsnnenn Bosättningskrav för
+            styrelseledamöter m.fl. i aktiebolag
+          </p>
+          <p>
+            Brottsoffer, skadestånd till.............ssssssssssossssesereesressoreroeenrnn
+            nn Bundna aktier, upphävande av bestämmelser om
+          </p>
+          <p>
+            Datorprogram, skydd för ..................- Delgivning med juridiska
+            personer Det allmännas skadeståndsanSvVar.............s.esesssensesesennnsnnnnnnn
+            Diabetikers personförsäkringar .........s.sssssesesseneneereneresnernsnnr
+            Djurtestad kosmetika, märkning av M.M. ...mmmsseserssesnsnennr
+            Droit de SUI€ ssmmnsseeessressresrsrnerrrrrrnrrnrrrrnrenernesnrnnn
+            nen rrn rr narr n nn
+          </p>
+          <p>
+            14,
+          </p>
+          <p>
+            14,
+          </p>
+          <p>
+            14, 27,
+          </p>
+          <p>
+            14,
+          </p>
+          <p>
+            1992/93:LU Reg.
+          </p>
+          <p>
+            12
+          </p>
           <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_LU/reg_199293_LU-012.pdf"/>
-          <p>Dödförklaring ....ssssssssssessesssenesoeserernrerenrrrrrnrrrnrrnrrr nn rr ner rn n nn</p>
-          <p>EES-avtalet, lagstiftning med anledning av bOlagSrätt ....sssssesrersresrrrrrrerrrrrenrererrrennrrrerrrnrrrrnrrrnn nen n enn n nan erSättNiNgSrätti.ssssssessesssresrneresrerrerrernenrenrsrernernenn ennen enn nn nanna farliga livsmedelsimitatiOner s...s.ss.s.sssessssssesioresensnnnnnan nns försäkringsavtalsrätt.......................... hemförsäljningslagen immaterialrätt .......s..s.ssssososssesrsnnnnrnnnennernnnnn rna konsumentskydd och konsumenträtt ................ss.ss.-s--.s leksakers Säkerhet....ssssssssnesesrnnaseenrenesnsnrsnnsnnsnrrnnrnnrn nn rna livsmedelskOntroOll....sssssssssssssssssssernnenrernennerrsnesnrennrn nen nrnnrna livsmedelSlagen ssmmssssessresererernrrnsresnnrrrrsrrrsrrenrernnnrrr nr nn n nan marknadsföringslaägen s..ssmssessssssrerrerrsresrsrrenesrnrsnnsrnnernrn rena märkning av hushållsapparater............s.sssssssssssssssenennnnnn märkning av textilier PaketreSOL.ssssssserenrareresennenenerenrnrsnrerenrersrsrerenannen ennen ennen enn nn personlig skyddsutruSstning.....ss.essssesesssssrssssernsrnensnrnrnnnnnr produktansvarslag€D...ssmssessesssrersreresnsnsersnrernsrnrrernrnnrnnrn nen trafikskadelagen susmmmsssssseseseneersenrersrennersenrennennrn nen nrn ann rann anna utländska förvärv av fast egendOM...........ssseseessrersrsnrrnnnr Ekonomiska föreningar avveckling i vissa fall</p>
-          <p>medlemsantalet. ....mnsmsssessrsresnrsnrrrnrrrsrerrnerrnennernn ren n nn nn nana Enskild egendom genom förmånstagarförordnande .......... Exekutionsväsendet, övergripande målsättning för............ Extrapriser, Vilseledande. ......sssssssssssernersesernernesnesnennrrnrnnnnnnnnr Faderskapspresumtion vid samboförhållanden .................. Fallskärmsavtal m.m. i årsredovisningen ................sssssses000i FamiljedOmsSstOlar o..ssmssssssrsssearseasresnnarnrnenrrrrenrrrrnrrrnrrnrsnrrn rn rn rna a Familjerådgivning Familjerätt barns ställning i vårdnads- och umgängesmål.............. enskild egendom genom förmånstagarförordnande..... faderskapspresumtion vid samboförhållanden ............. familjedOmsStOlar s...sssssssessssrsrrnesnresnrsrrnerrrsrerrenrernr ennen rn nnnn familjerådgiVDiNg.....ssseseesorsroersesesesrsersersrrrrrrrrrrnrnerer rn rn annen</p>
-          <p>frivilliga samlevnadsavtal gemensam lagstiftning inom EES gemensam nordisk lagstiftning.........ssessesssessernernenennsnsnnn gemensam Vård Nad ....sssssseseseseesesrasenesenernenesernenenernennnnennn homosexuella SambOr smssmnnssessessernernrsrrnesrnrrnrsernnernennnnnnn nn homosexuellas rätt att adOptera ...........s..ssssssooosernnsennnnnnn INSEMiNAtiON sossesseseereeresrerserrererrerrsrrnnrrerrsr es sernern ennen nen n nn nan kontaktperson vid umgänge med barn.... kostnader för umgänge med barn............ makes förfoganderätt över fast egendom..... [480276 I 6595: olovliga bortföranden av barn..........sssssesssssersnsrnnenninennnn</p>
-          <p>14</p>
-          <p>15,</p>
-          <p>16</p>
-          <p>1992/93:LU Reg.</p>
-          <p>13</p>
+          <p>
+            Dödförklaring ....ssssssssssessesssenesoeserernrerenrrrrrnrrrnrrnrrr
+            nn rr ner rn n nn
+          </p>
+          <p>
+            EES-avtalet, lagstiftning med anledning av bOlagSrätt ....sssssesrersresrrrrrrerrrrrenrererrrennrrrerrrnrrrrnrrrnn
+            nen n enn n nan erSättNiNgSrätti.ssssssessesssresrneresrerrerrernenrenrsrernernenn
+            ennen enn nn nanna farliga livsmedelsimitatiOner s...s.ss.s.sssessssssesioresensnnnnnan
+            nns försäkringsavtalsrätt.......................... hemförsäljningslagen
+            immaterialrätt .......s..s.ssssososssesrsnnnnrnnnennernnnnn rna
+            konsumentskydd och konsumenträtt ................ss.ss.-s--.s
+            leksakers Säkerhet....ssssssssnesesrnnaseenrenesnsnrsnnsnnsnrrnnrnnrn
+            nn rna livsmedelskOntroOll....sssssssssssssssssssernnenrernennerrsnesnrennrn
+            nen nrnnrna livsmedelSlagen ssmmssssessresererernrrnsresnnrrrrsrrrsrrenrernnnrrr
+            nr nn n nan marknadsföringslaägen s..ssmssessssssrerrerrsresrsrrenesrnrsnnsrnnernrn
+            rena märkning av hushållsapparater............s.sssssssssssssssenennnnnn
+            märkning av textilier PaketreSOL.ssssssserenrareresennenenerenrnrsnrerenrersrsrerenannen
+            ennen ennen enn nn personlig skyddsutruSstning.....ss.essssesesssssrssssernsrnensnrnrnnnnnr
+            produktansvarslag€D...ssmssessesssrersreresnsnsersnrernsrnrrernrnnrnnrn
+            nen trafikskadelagen susmmmsssssseseseneersenrersrennersenrennennrn
+            nen nrn ann rann anna utländska förvärv av fast egendOM...........ssseseessrersrsnrrnnnr
+            Ekonomiska föreningar avveckling i vissa fall
+          </p>
+          <p>
+            medlemsantalet. ....mnsmsssessrsresnrsnrrrnrrrsrerrnerrnennernn
+            ren n nn nn nana Enskild egendom genom förmånstagarförordnande
+            .......... Exekutionsväsendet, övergripande målsättning för............
+            Extrapriser, Vilseledande. ......sssssssssssernersesernernesnesnennrrnrnnnnnnnnr
+            Faderskapspresumtion vid samboförhållanden ..................
+            Fallskärmsavtal m.m. i årsredovisningen ................sssssses000i
+            FamiljedOmsSstOlar o..ssmssssssrsssearseasresnnarnrnenrrrrenrrrrnrrrnrrnrsnrrn
+            rn rn rna a Familjerådgivning Familjerätt barns ställning i vårdnads-
+            och umgängesmål.............. enskild egendom genom förmånstagarförordnande.....
+            faderskapspresumtion vid samboförhållanden ............. familjedOmsStOlar
+            s...sssssssessssrsrrnesnresnrsrrnerrrsrerrenrernr ennen rn nnnn
+            familjerådgiVDiNg.....ssseseesorsroersesesesrsersersrrrrrrrrrrnrnerer
+            rn rn annen
+          </p>
+          <p>
+            frivilliga samlevnadsavtal gemensam lagstiftning inom EES gemensam
+            nordisk lagstiftning.........ssessesssessernernenennsnsnnn gemensam
+            Vård Nad ....sssssseseseseesesrasenesenernenesernenenernennnnennn
+            homosexuella SambOr smssmnnssessessernernrsrrnesrnrrnrsernnernennnnnnn
+            nn homosexuellas rätt att adOptera ...........s..ssssssooosernnsennnnnnn
+            INSEMiNAtiON sossesseseereeresrerserrererrerrsrrnnrrerrsr es sernern
+            ennen nen n nn nan kontaktperson vid umgänge med barn.... kostnader
+            för umgänge med barn............ makes förfoganderätt över fast
+            egendom..... [480276 I 6595: olovliga bortföranden av barn..........sssssesssssersnsrnnenninennnn
+          </p>
+          <p>
+            14
+          </p>
+          <p>
+            15,
+          </p>
+          <p>
+            16
+          </p>
+          <p>
+            1992/93:LU Reg.
+          </p>
+          <p>
+            13
+          </p>
           <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_LU/reg_199293_LU-013.pdf"/>
-          <p>pensionsrätt vid bodelning s..sesseesssresrrrsersrnrersrnnennnrnnnnna registrerat partnerskap s....seesssesssessssserssnennrrsnennnnnrnnnennnnnn sambolagstiftningen .mmeessesesressernerneresnrnnrenenrnnnrnrnnennnn ennen sekretesskydd för Darf smsssesesrrerersrnernernrrrrrrnnrernrrrnrrnnrnnnn socialnämnds medverkan i vårdnadsmål .................-.-.. talerätt för far- och morföräldrar i umgängesfrågor .... underhållsskyldighet till barn ........ssssssssssseonessnnennnnnennnnnn utbildning av domare i familjemål ......s.ssssessssosnenennnnnnn utländska vårdnadsavgöranden ...........s.ssssssesesemsesnsrnrnnnn utredning i vårdnads- och umgängesmål ...................... vårdnad och umgänge med barn ... Övergrepp mOt Dar s.msmmmmsssssesssesrrssrerrenerrrsnrrnnenennennen nn nan Farliga livsmedelsimitationer, läg OM ssmmmmmmnssssesnenennnnan nn Fast egendom, makes förfoganderätt ÖVEL ........................-.- FastighetSrätt o...nnnnssssssrensnesesrenrerenenrerenrerrennererernnenennenenerennnnn nn nn FastighetstillbehÖr s.s.smmmsssssssssrensesrssrerenernnrsrerererrnrenernennrnnnnrn ann Faxreklam sossmssssessrsesssesseersrerrreseresnnrernnrererrerrrnnnrernrennrnn nen n rn rna Fotografirätt Franchising Fritidsbåtar, ansvarsförsäkring fÖr s...mmmssssssssesssseserserrnnnan ann Fritidsfastigheter, fÖrvärvV QV ssssmsessessesseresesnrnrannesnrnnennnnennnn ann Frivilliga konsumentorganisatiON€r..........ssesssssssssoseseasennannnn Företagshemligheter, skydd fÖr s...s.sssssessssssesenrenrarrnnnanannnn nn För månsrättsordniNgen ...smsesessseerserrereernerserernenrennerererenennnn nan Förmånstagarförordnande, enskild egendom genom......... Försäkringsavtalslagen, ändringar Iossmsmmmssssssseseerenensnennnnnn nn Försäkringsfrågor ansvarsförsäkfiNgarl......ssessssssoressessrenerenrenennennnrnnrnennrn nn nn ann diabetikers personförsäkringaår.............ssssssssssssennrsernnnnnn förmånstagarförordnande, enskild egendom genom.... försäkringsansvaret vid kärnkraftsolyckOr ...................- hemförsäljningslagens tillämpning på försäkringsavtal. osssssssssssssseesesrrerrennrrnnerrrrnrrrnnrsnesnsrrnnernrnnn nn miljöskadeförsäkring obligatorisk ansvarsförsäkring för fritidsbåtar .............. trafikskadelagen summmessessesresnesernnerrersrsrnnernernsnrnsnnrnsnrrnnsnnn nn nn försäkringsavtalslagen...sssssssssssonesnsnenerrennennnenrnnnrnrnen nn nn</p>
-          <p>Gemensam Vård Nad. ....ssmmsseresrerereseerernesrerrersererneererennanenernn annan Godtrosförvärv översyn av lagstiftningen................ se även Uppskjutna ärenden GrannelagSrätt............osssesseoseesresoeneesrenorenrnnerennrrrnnrennennnnnnnen annen GudstjänSstmuUSik smssnnsseseeesernrerenrsrsrennanesnnenenrnrrnsrnsnenenrnnnnrnnenn</p>
-          <p>Handels- och föreningsregistreriNng..............sssssssesseoesessennenn Handelsbolag och enkla bolag, ändring i lagen om ........... Handelsregisterlagen, ändring I. omvmssesssssssesrerererorsrrornrnnrnnnnnn Hemförsäljningslagen, ändring isomerer Historiska arrenden, se Uppskjutna ärenden</p>
-          <p>40</p>
-          <p>,</p>
-          <p>16,</p>
-          <p>24</p>
-          <p>,</p>
-          <p>36 36 36 22 22 22 22 22 22 22 22 22 18 36 25 25 32 44 34 39 15 32 29 Ty 23 23</p>
-          <p>39 16</p>
-          <p>1992/93:LU Reg.</p>
-          <p>14</p>
+          <p>
+            pensionsrätt vid bodelning s..sesseesssresrrrsersrnrersrnnennnrnnnnna
+            registrerat partnerskap s....seesssesssessssserssnennrrsnennnnnrnnnennnnnn
+            sambolagstiftningen .mmeessesesressernerneresnrnnrenenrnnnrnrnnennnn
+            ennen sekretesskydd för Darf smsssesesrrerersrnernernrrrrrrnnrernrrrnrrnnrnnnn
+            socialnämnds medverkan i vårdnadsmål .................-.-.. talerätt
+            för far- och morföräldrar i umgängesfrågor .... underhållsskyldighet
+            till barn ........ssssssssssseonessnnennnnnennnnnn utbildning
+            av domare i familjemål ......s.ssssessssosnenennnnnnn utländska
+            vårdnadsavgöranden ...........s.ssssssesesemsesnsrnrnnnn utredning
+            i vårdnads- och umgängesmål ...................... vårdnad och
+            umgänge med barn ... Övergrepp mOt Dar s.msmmmmsssssesssesrrssrerrenerrrsnrrnnenennennen
+            nn nan Farliga livsmedelsimitationer, läg OM ssmmmmmmnssssesnenennnnan
+            nn Fast egendom, makes förfoganderätt ÖVEL ........................-.-
+            FastighetSrätt o...nnnnssssssrensnesesrenrerenenrerenrerrennererernnenennenenerennnnn
+            nn nn FastighetstillbehÖr s.s.smmmsssssssssrensesrssrerenernnrsrerererrnrenernennrnnnnrn
+            ann Faxreklam sossmssssessrsesssesseersrerrreseresnnrernnrererrerrrnnnrernrennrnn
+            nen n rn rna Fotografirätt Franchising Fritidsbåtar, ansvarsförsäkring
+            fÖr s...mmmssssssssesssseserserrnnnan ann Fritidsfastigheter,
+            fÖrvärvV QV ssssmsessessesseresesnrnrannesnrnnennnnennnn ann Frivilliga
+            konsumentorganisatiON€r..........ssesssssssssoseseasennannnn Företagshemligheter,
+            skydd fÖr s...s.sssssessssssesenrenrarrnnnanannnn nn För månsrättsordniNgen
+            ...smsesessseerserrereernerserernenrennerererenennnn nan Förmånstagarförordnande,
+            enskild egendom genom......... Försäkringsavtalslagen, ändringar
+            Iossmsmmmssssssseseerenensnennnnnn nn Försäkringsfrågor ansvarsförsäkfiNgarl......ssessssssoressessrenerenrenennennnrnnrnennrn
+            nn nn ann diabetikers personförsäkringaår.............ssssssssssssennrsernnnnnn
+            förmånstagarförordnande, enskild egendom genom.... försäkringsansvaret
+            vid kärnkraftsolyckOr ...................- hemförsäljningslagens
+            tillämpning på försäkringsavtal. osssssssssssssseesesrrerrennrrnnerrrrnrrrnnrsnesnsrrnnernrnnn
+            nn miljöskadeförsäkring obligatorisk ansvarsförsäkring för fritidsbåtar
+            .............. trafikskadelagen summmessessesresnesernnerrersrsrnnernernsnrnsnnrnsnrrnnsnnn
+            nn nn försäkringsavtalslagen...sssssssssssonesnsnenerrennennnenrnnnrnrnen
+            nn nn
+          </p>
+          <p>
+            Gemensam Vård Nad. ....ssmmsseresrerereseerernesrerrersererneererennanenernn
+            annan Godtrosförvärv översyn av lagstiftningen................
+            se även Uppskjutna ärenden GrannelagSrätt............osssesseoseesresoeneesrenorenrnnerennrrrnnrennennnnnnnen
+            annen GudstjänSstmuUSik smssnnsseseeesernrerenrsrsrennanesnnenenrnrrnsrnsnenenrnnnnrnnenn
+          </p>
+          <p>
+            Handels- och föreningsregistreriNng..............sssssssesseoesessennenn
+            Handelsbolag och enkla bolag, ändring i lagen om ........... Handelsregisterlagen,
+            ändring I. omvmssesssssssesrerererorsrrornrnnrnnnnnn Hemförsäljningslagen,
+            ändring isomerer Historiska arrenden, se Uppskjutna ärenden
+          </p>
+          <p>
+            40
+          </p>
+          <p>
+            ,
+          </p>
+          <p>
+            16,
+          </p>
+          <p>
+            24
+          </p>
+          <p>
+            ,
+          </p>
+          <p>
+            36 36 36 22 22 22 22 22 22 22 22 22 18 36 25 25 32 44 34 39 15
+            32 29 Ty 23 23
+          </p>
+          <p>
+            39 16
+          </p>
+          <p>
+            1992/93:LU Reg.
+          </p>
+          <p>
+            14
+          </p>
           <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_LU/reg_199293_LU-014.pdf"/>
-          <p>Hiv-smittade blödarsjuka m.fl., ersättning till .................... Homosexuella SaMDOT ssmsssesssssrsseersrenensrnrssrrnnsnnernnrrnenrennnnn nn nan Hushållsapparater, lag om märkning av s. mmmmmenesesrsrnnannnnan Immaterialrätt datorprogram, skydd fÖr s......ssssssssssessersrrsrerrernesernrnnnn annan konsumtion av immateriella rättigheter kretsmönster för halvledarprodukter, skydd för .......... mönsterskydd ....sssmmsssssessessrerserrerernnrnrnrrrnrrrnnnernnnnrennenn rn annan parallellimpOrt......sssssssssssersensennennnensnsnrennnsnnennnnnennnnrnnsnnn enn UPpPhOVSFätt o.ssssssssssesesrerrererrserrernrsnnnrrrennennnrnnenr ennen nr nn nn nn ran varumärkeSrätt..........o.ossoesseseesensernsnnsnneseenrsnenrrnnennnnerernnn anna växtförädlarrätt ...ss.ss.sssssssrrrrssrrrrnnrrnrrrrnrsnrrnrr rn ner rrn nr nn rna Importörsansvaret enligt produktansvarslagen ...................</p>
-          <p>Individuellt pensionssparande Indrivning, lag om indrivning av statliga fordringar</p>
-          <p>Insemination verksamheten i Sverige sm.smmmmssssssensesennenennennersnenenenenenenen rna se även Uppskjutna ärenden s...ssssssesseessessessesserennsennnnnnnnn Internationella oljeskadefonden ...........ssssssssrsseeseesesnrnennnnnnnnn</p>
-          <p>Jordabalken, ändring I.smsmmsssssserrersrrrersrrernrrnrnrerrnrnrrrrnnnn nn nn nn</p>
-          <p>Konkursrätt arbetstagares lönefOordringar s....ssssssesssesrssesrsenrsnsnrnnnsnrnnnnn fristdagen i konkurs efter likvidation .................-ssssssss&gt; för MånNSFätt.......s.ssssseseoeeoesesenenrerernannersenennannrnennsnen eran en an annan konkursförvaltningenD......sssssessessessessrssersrerrernrenrnrrnrnnennnnn konkursSregiSter s....s.ssssssssseeseeseressrnnensrersnsnnrnnersnnrnnennrn nr nn nn konsumentfordringar i konkurs kungörelse av näringsförbUd ...........sssssesssersrsesenranennennnnn löNegarantisssssssessesreseererenrsersrrrrensnnnrnnn enn n rann anna utredning om ekonomisk brottslighet Åter Vill NiNg oooeosseesssserersrererrerererenrsrnrresrerrrrerrerernenenerenen eran enn Konsumentfordringar i KONKUIrS s...sssssesssesssessernsnennrnnennnnnena KonsumentfOrskning.........essssseseessrsssrrrsserssrrassnensnennernennnnnnn an Konsumentkrediter leasing till privatkonsumenter ..mmssssssessssssssenrrnennsnnnnsnnn marknadsföring av krediter referensränta s.smmsssessssesrsreserrsenrernrnrrrrrnrnrn ner nenn ennen ene n nn en nn FÄNteäNdriNg....ssessseesesereerernsrrnrerennerrrrrerernrrrerrenenenenennnrnnn nn Konsumentkreditlagen, ändring i smmsssssssesesseseserenensnnnnnnnrnn Konsumentpolitik allergimärkning av textilier w....sssssssssssonsenernnesnsnrnrnnnnnnnnn anslag till Allmänna reklamationsnämnden................. anslag till Konsumentverket............sssssssssnsrenorenrennnnnennnnn anslag till Marknadsdomstolen .........sssssssressserssrssnnesnrennn djurtestad kosmetika, märkning M.M. smmsssmmmsssssssssennnnn extrapriser, vilseledande smsssssessssssessesnrennsnernnnnsnennrnnnnna</p>
-          <p>46 36 13</p>
-          <p>1992/93:LU Reg.</p>
-          <p>15</p>
+          <p>
+            Hiv-smittade blödarsjuka m.fl., ersättning till ....................
+            Homosexuella SaMDOT ssmsssesssssrsseersrenensrnrssrrnnsnnernnrrnenrennnnn
+            nn nan Hushållsapparater, lag om märkning av s. mmmmmenesesrsrnnannnnan
+            Immaterialrätt datorprogram, skydd fÖr s......ssssssssssessersrrsrerrernesernrnnnn
+            annan konsumtion av immateriella rättigheter kretsmönster för
+            halvledarprodukter, skydd för .......... mönsterskydd ....sssmmsssssessessrerserrerernnrnrnrrrnrrrnnnernnnnrennenn
+            rn annan parallellimpOrt......sssssssssssersensennennnensnsnrennnsnnennnnnennnnrnnsnnn
+            enn UPpPhOVSFätt o.ssssssssssesesrerrererrserrernrsnnnrrrennennnrnnenr
+            ennen nr nn nn nn ran varumärkeSrätt..........o.ossoesseseesensernsnnsnneseenrsnenrrnnennnnerernnn
+            anna växtförädlarrätt ...ss.ss.sssssssrrrrssrrrrnnrrnrrrrnrsnrrnrr
+            rn ner rrn nr nn rna Importörsansvaret enligt produktansvarslagen
+            ...................
+          </p>
+          <p>
+            Individuellt pensionssparande Indrivning, lag om indrivning av
+            statliga fordringar
+          </p>
+          <p>
+            Insemination verksamheten i Sverige sm.smmmmssssssensesennenennennersnenenenenenenen
+            rna se även Uppskjutna ärenden s...ssssssesseessessessesserennsennnnnnnnn
+            Internationella oljeskadefonden ...........ssssssssrsseeseesesnrnennnnnnnnn
+          </p>
+          <p>
+            Jordabalken, ändring I.smsmmsssssserrersrrrersrrernrrnrnrerrnrnrrrrnnnn
+            nn nn nn
+          </p>
+          <p>
+            Konkursrätt arbetstagares lönefOordringar s....ssssssesssesrssesrsenrsnsnrnnnsnrnnnnn
+            fristdagen i konkurs efter likvidation .................-ssssssss&gt;
+            för MånNSFätt.......s.ssssseseoeeoesesenenrerernannersenennannrnennsnen
+            eran en an annan konkursförvaltningenD......sssssessessessessrssersrerrernrenrnrrnrnnennnnn
+            konkursSregiSter s....s.ssssssssseeseeseressrnnensrersnsnnrnnersnnrnnennrn
+            nr nn nn konsumentfordringar i konkurs kungörelse av näringsförbUd
+            ...........sssssesssersrsesenranennennnnn löNegarantisssssssessesreseererenrsersrrrrensnnnrnnn
+            enn n rann anna utredning om ekonomisk brottslighet Åter Vill
+            NiNg oooeosseesssserersrererrerererenrsrnrresrerrrrerrerernenenerenen
+            eran enn Konsumentfordringar i KONKUIrS s...sssssesssesssessernsnennrnnennnnnena
+            KonsumentfOrskning.........essssseseessrsssrrrsserssrrassnensnennernennnnnnn
+            an Konsumentkrediter leasing till privatkonsumenter ..mmssssssessssssssenrrnennsnnnnsnnn
+            marknadsföring av krediter referensränta s.smmsssessssesrsreserrsenrernrnrrrrrnrnrn
+            ner nenn ennen ene n nn en nn FÄNteäNdriNg....ssessseesesereerernsrrnrerennerrrrrerernrrrerrenenenenennnrnnn
+            nn Konsumentkreditlagen, ändring i smmsssssssesesseseserenensnnnnnnnrnn
+            Konsumentpolitik allergimärkning av textilier w....sssssssssssonsenernnesnsnrnrnnnnnnnnn
+            anslag till Allmänna reklamationsnämnden................. anslag
+            till Konsumentverket............sssssssssnsrenorenrennnnnennnnn
+            anslag till Marknadsdomstolen .........sssssssressserssrssnnesnrennn
+            djurtestad kosmetika, märkning M.M. smmsssmmmsssssssssennnnn extrapriser,
+            vilseledande smsssssessssssessesnrennsnernnnnsnennrnnnnna
+          </p>
+          <p>
+            46 36 13
+          </p>
+          <p>
+            1992/93:LU Reg.
+          </p>
+          <p>
+            15
+          </p>
           <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_LU/reg_199293_LU-015.pdf"/>
-          <p>faxreklam ossssmssessserrrrssrersrrrrennrrarsnrrrrnerererrrrrrsrn nn er rr nr rr rr nn finansiering av konsumentupplysning ... frivilliga kosumentorganisationer ........... hemfÖörsäljning.....ssmeseseressrereesnrennnernnnnn nn konsumentforskning ............. konsumentpolitisk översyn könsdiskriminerande reklam ss nsssmmssrssresrrsserrssrrrsnnnrnn nn med anledning av EES-avtalet s...sssmnsssssesroosersrrrrsrnrrerrnnn miljöfarlighetsmärkning s..ss.sssssserssrersererrrsrrrerernrenrrrnrnnrn miljömärkning av produkter..........ssesssessesreresessrerrrrrennnnn prisinformation, artikelprismärkning ...............s.ssss000n Konsumentverket, anslag till..sssmmmssssosesssrerrersrnserernrrrnrrrrrnnrrnn Kontaktperson vid umgänge med barn ........ Kontobaserat penningmarknadssystem, upphävande av lagar härOD ooooessssssssresreseesennesrrerenreneererrrenrrnneren ren n ennen ennen rna nn Kostnader för umgänge med barn smoosssessesserrrrsrrrrersrreronennnr Kretsmönster för halvledarprodukter, skydd för ................ Kronofogdemyndigheterna anslag fill.sossssssssssssssessreresenerssrrserrrrerrrrrrsrrrrrnrr rn rr rr rann nn nanna avgiftsfinansiering... borgenärsfunktionen INdrivNiNgSlag sosmmssresserersrsrrersrererereserrrrrerrrerrrrennr rer rrnr rr eran na regional indelning ..mmessesreseeresersrarrerrenennrnnnrnnrnr nns nrn rna nn specialindrivningsenheternas verksamhet..................... övergripande målsättning s......smsesesrssrsrsrsrereerenrenesrennerenen Kvarstad på fartyg i internationella rättsförhållanden,</p>
-          <p>Lagvalsregler, internationella försäkringsavtal.................... Leksakers säkerhet, läg OM us smnsssesssssererrrererererrerererrnrersrrrnrrrnn Livförsäkringsavtal, uppsägningSsrätt.............ssssesssersrsssrersnnr LivsmedelsimitatiOnN€r ..nmmmmsssessesesrerrrsrenrerrernerrerrrrnrrrrrrr renen rn nen Livsmedelskontroll anslag till Statens livsmedelsverk ss sosmmmsssesessrsessreerrnnrernnnn anslag till vissa kostnader för köttbesiktning m.m....... livsmedelslagens straffbestämmelser märkning av livsmedel........nsssmsssssnnennnns SJ ETT &amp; TV rn specialdestinerade livsmedel... ssssssssssesssrnsesnnennnernrnnnrn nn nn ViN OCh SPLilkossssssesesrerrensrsesrrersrerrrsrrrerrrernenr rer n rer n rr n nr nn nn nn a Livsmedelslagen, ändring Isssmmmsssssessessrenereeneenneenernnrnnennrnnnnn Läkemedel, patent På s.....mmnssssseesseseseneenenrersernernenrerrrnennnnen annen nan LÖNEgaraNtioossessessresrsresrenerrrerernenrrererr rer nrn ennen er rean er rr nr nn nn n a</p>
-          <p>Marknadsdomstolen anslag till sammansättning ändring i lagen OM ssmesssessessrerrsrrsrrrrererrrrrrrrrrnrrnrrnrr ren n nan Marknadsföringslagen, ändring I....ssssssesssssersrererressrrrrnrern nn</p>
-          <p>11</p>
-          <p>30,</p>
-          <p>40,</p>
-          <p>32 32</p>
-          <p>1992/93:LU Reg.</p>
-          <p>16</p>
+          <p>
+            faxreklam ossssmssessserrrrssrersrrrrennrrarsnrrrrnerererrrrrrsrn
+            nn er rr nr rr rr nn finansiering av konsumentupplysning ... frivilliga
+            kosumentorganisationer ........... hemfÖörsäljning.....ssmeseseressrereesnrennnernnnnn
+            nn konsumentforskning ............. konsumentpolitisk översyn
+            könsdiskriminerande reklam ss nsssmmssrssresrrsserrssrrrsnnnrnn
+            nn med anledning av EES-avtalet s...sssmnsssssesroosersrrrrsrnrrerrnnn
+            miljöfarlighetsmärkning s..ss.sssssserssrersererrrsrrrerernrenrrrnrnnrn
+            miljömärkning av produkter..........ssesssessesreresessrerrrrrennnnn
+            prisinformation, artikelprismärkning ...............s.ssss000n
+            Konsumentverket, anslag till..sssmmmssssosesssrerrersrnserernrrrnrrrrrnnrrnn
+            Kontaktperson vid umgänge med barn ........ Kontobaserat penningmarknadssystem,
+            upphävande av lagar härOD ooooessssssssresreseesennesrrerenreneererrrenrrnneren
+            ren n ennen ennen rna nn Kostnader för umgänge med barn smoosssessesserrrrsrrrrersrreronennnr
+            Kretsmönster för halvledarprodukter, skydd för ................
+            Kronofogdemyndigheterna anslag fill.sossssssssssssssessreresenerssrrserrrrerrrrrrsrrrrrnrr
+            rn rr rr rann nn nanna avgiftsfinansiering... borgenärsfunktionen
+            INdrivNiNgSlag sosmmssresserersrsrrersrererereserrrrrerrrerrrrennr
+            rer rrnr rr eran na regional indelning ..mmessesreseeresersrarrerrenennrnnnrnnrnr
+            nns nrn rna nn specialindrivningsenheternas verksamhet.....................
+            övergripande målsättning s......smsesesrssrsrsrsrereerenrenesrennerenen
+            Kvarstad på fartyg i internationella rättsförhållanden,
+          </p>
+          <p>
+            Lagvalsregler, internationella försäkringsavtal....................
+            Leksakers säkerhet, läg OM us smnsssesssssererrrererererrerererrnrersrrrnrrrnn
+            Livförsäkringsavtal, uppsägningSsrätt.............ssssesssersrsssrersnnr
+            LivsmedelsimitatiOnN€r ..nmmmmsssessesesrerrrsrenrerrernerrerrrrnrrrrrrr
+            renen rn nen Livsmedelskontroll anslag till Statens livsmedelsverk
+            ss sosmmmsssesessrsessreerrnnrernnnn anslag till vissa kostnader
+            för köttbesiktning m.m....... livsmedelslagens straffbestämmelser
+            märkning av livsmedel........nsssmsssssnnennnns SJ ETT &amp; TV
+            rn specialdestinerade livsmedel... ssssssssssesssrnsesnnennnernrnnnrn
+            nn nn ViN OCh SPLilkossssssesesrerrensrsesrrersrerrrsrrrerrrernenr
+            rer n rer n rr n nr nn nn nn a Livsmedelslagen, ändring Isssmmmsssssessessrenereeneenneenernnrnnennrnnnnn
+            Läkemedel, patent På s.....mmnssssseesseseseneenenrersernernenrerrrnennnnen
+            annen nan LÖNEgaraNtioossessessresrsresrenerrrerernenrrererr rer
+            nrn ennen er rean er rr nr nn nn n a
+          </p>
+          <p>
+            Marknadsdomstolen anslag till sammansättning ändring i lagen
+            OM ssmesssessessrerrsrrsrrrrererrrrrrrrrrnrrnrrnrr ren n nan Marknadsföringslagen,
+            ändring I....ssssssesssssersrererressrrrrnrern nn
+          </p>
+          <p>
+            11
+          </p>
+          <p>
+            30,
+          </p>
+          <p>
+            40,
+          </p>
+          <p>
+            32 32
+          </p>
+          <p>
+            1992/93:LU Reg.
+          </p>
+          <p>
+            16
+          </p>
           <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_LU/reg_199293_LU-016.pdf"/>
-          <p>Medlemsantalet i ekonomiska föreningar och bostadsrättsföreNiNgar........sssseesserssrersrensessenrenerrrennrnnnrrnnn nn n rann Medling i vårdnadSmaål...s.sssssssessssesrasesesenenrsenenenenenener enn nnn anna Miljöfarlighetsmärkning s..sesssssesessessnesesnensnenerrenesnsrnnrnrnnennn nen Miljömärkning av produkter..........ssssssesesseseseersresrsnnsnennsnnsnen Miljöskadeförsäkring.................... Motorfordonsförsäkring Märkning hushållsapparater s.ssmmmssesessssssrsresrsrrrrnessrnrsrnnrrrrrnrrnnen nn nn nn liVSMedeL ooooeeeeseresersesressresrsrenresrrsnesnesrsrerener renen renare n rn nn nr nn</p>
-          <p>PaketresOr, lag OM smssssssssesressresnrsrsersensrenenernrrenenesnenrrnen nn nn nn nen ParallellimpOrt...sssssssssseosssrrsnsnrsnrensrransernrrnernenrsnernrsnnenn enn r rn nen Patent- och registreringsverket anslag till.sossssssssseessesrereserrrerrrrsrrerrrrerrrrrn renar nennen nen nr nn rn nan handels- och firmaregistrering ..........esossensosssnsnerenennsnnnnn Patent på läkemedel .smssssseserrsenrsrnenrerersrnerrenrnener ennen nnnen nn nn nan Patentbesvärsrätten, anslag till Pensionsrätt vid bodelning s..msmsssssssesseserrsrernrerenennnnnn nn Personalekonomisk redovisning ..........sssssssesessersersrrsesnsnnnnnn Personlig skyddsutrustning för privat bruk, lag om........... Prisinformation, artikelprismärkning ...s..ssessesssesrssrsernsnnn Produktansvar IMpPOFrtÖrsanNSVar€t..s.ssssesssressrrsererserrrsrserrenerrnrrrrnnrnnrnrrrn nen jämkning av skadestånd vid medvållande ....................- trafikförsäkringsanstalts återkravsrätt...........................- Produktskadelagen, ändring I...................--- Promillegränser inom sjöfarten</p>
-          <p>Redovisningsfrågor fallskärmsavtal m.m. i årsredovisningen ................s.s.--- personalekonomisk redovisning ........e.eessseesesersresrrnrsnsnsn Registrerat partnerskap .......ssseesssoseosserssennenennesnennsnrernnnnnrnnnnn Registrering av aktiebolag, underrättelse härom ................ Registrering av handelsbolag Resegarantilagen, ändring I s............s.esesess 0 ReViSsOrSrOllen sossnsssssessessesrensersrnreersenrnerennererrnrn ennen renen nenr rn rena</p>
-          <p>Sakrätt ansvar vid fakturaserViCe s..sssmssssssssssesesenrernenrersnnrrrnnnnnnn enn ZOCtrOSfÖrvVärV ssssmsssssssserrererersreerersrrrarrrrrrerrrrrrnrnrrrrr eran nr nr nn översyn av svensk sSakrätt...........ssssssssssssoenonnrsnronnnsnnnnsr nan SambolagstiftniNngen ...mmmmmmssreresrerererensnsrrsernenrrnrsrnnrnnsnr enn nn rna n nr SamlevnadSsaVvtal...sssnsssessssesreesserensrsersernrrernnrerrrrnrrrrrrnrrrnn rr nn n rna Sekretesskydd för barn Självrisk vid sakskada som vållats av okänt fordon............</p>
-          <p>11, 33,</p>
-          <p>wo NM 0 MO</p>
-          <p>1992/93:LU Reg.</p>
-          <p>17</p>
+          <p>
+            Medlemsantalet i ekonomiska föreningar och bostadsrättsföreNiNgar........sssseesserssrersrensessenrenerrrennrnnnrrnnn
+            nn n rann Medling i vårdnadSmaål...s.sssssssessssesrasesesenenrsenenenenenener
+            enn nnn anna Miljöfarlighetsmärkning s..sesssssesessessnesesnensnenerrenesnsrnnrnrnnennn
+            nen Miljömärkning av produkter..........ssssssesesseseseersresrsnnsnennsnnsnen
+            Miljöskadeförsäkring.................... Motorfordonsförsäkring
+            Märkning hushållsapparater s.ssmmmssesessssssrsresrsrrrrnessrnrsrnnrrrrrnrrnnen
+            nn nn nn liVSMedeL ooooeeeeseresersesressresrsrenresrrsnesnesrsrerener
+            renen renare n rn nn nr nn
+          </p>
+          <p>
+            PaketresOr, lag OM smssssssssesressresnrsrsersensrenenernrrenenesnenrrnen
+            nn nn nn nen ParallellimpOrt...sssssssssseosssrrsnsnrsnrensrransernrrnernenrsnernrsnnenn
+            enn r rn nen Patent- och registreringsverket anslag till.sossssssssseessesrereserrrerrrrsrrerrrrerrrrrn
+            renar nennen nen nr nn rn nan handels- och firmaregistrering ..........esossensosssnsnerenennsnnnnn
+            Patent på läkemedel .smssssseserrsenrsrnenrerersrnerrenrnener
+            ennen nnnen nn nn nan Patentbesvärsrätten, anslag till Pensionsrätt
+            vid bodelning s..msmsssssssesseserrsrernrerenennnnnn nn Personalekonomisk
+            redovisning ..........sssssssesessersersrrsesnsnnnnnn Personlig
+            skyddsutrustning för privat bruk, lag om........... Prisinformation,
+            artikelprismärkning ...s..ssessesssesrssrsernsnnn Produktansvar
+            IMpPOFrtÖrsanNSVar€t..s.ssssesssressrrsererserrrsrserrenerrnrrrrnnrnnrnrrrn
+            nen jämkning av skadestånd vid medvållande ....................-
+            trafikförsäkringsanstalts återkravsrätt...........................-
+            Produktskadelagen, ändring I...................--- Promillegränser
+            inom sjöfarten
+          </p>
+          <p>
+            Redovisningsfrågor fallskärmsavtal m.m. i årsredovisningen ................s.s.---
+            personalekonomisk redovisning ........e.eessseesesersresrrnrsnsnsn
+            Registrerat partnerskap .......ssseesssoseosserssennenennesnennsnrernnnnnrnnnnn
+            Registrering av aktiebolag, underrättelse härom ................
+            Registrering av handelsbolag Resegarantilagen, ändring I s............s.esesess
+            0 ReViSsOrSrOllen sossnsssssessessesrensersrnreersenrnerennererrnrn
+            ennen renen nenr rn rena
+          </p>
+          <p>
+            Sakrätt ansvar vid fakturaserViCe s..sssmssssssssssesesenrernenrersnnrrrnnnnnnn
+            enn ZOCtrOSfÖrvVärV ssssmsssssssserrererersreerersrrrarrrrrrerrrrrrnrnrrrrr
+            eran nr nr nn översyn av svensk sSakrätt...........ssssssssssssoenonnrsnronnnsnnnnsr
+            nan SambolagstiftniNngen ...mmmmmmssreresrerererensnsrrsernenrrnrsrnnrnnsnr
+            enn nn rna n nr SamlevnadSsaVvtal...sssnsssessssesreesserensrsersernrrernnrerrrrnrrrrrrnrrrnn
+            rr nn n rna Sekretesskydd för barn Självrisk vid sakskada som
+            vållats av okänt fordon............
+          </p>
+          <p>
+            11, 33,
+          </p>
+          <p>
+            wo NM 0 MO
+          </p>
+          <p>
+            1992/93:LU Reg.
+          </p>
+          <p>
+            17
+          </p>
           <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_LU/reg_199293_LU-017.pdf"/>
-          <p>SJÖfYlleri ooooosessessesesrrerererernrrrrrrrrrrrrnsrr rerna nns renen nn rr enn deres nn nn nn Sjölagen, äNdriNng Iunssmsssesreesrrresrernrrnnrennnnenneenesnsnrrrnrennrnnrnnnn nn Sjörätt arrestkONVentiONCA ...sssssssssrsrsessssrrseeesrrensrerennnnnrernenn rna nan internationell SjÖrätt................esssssssssssrerserssnsernssnnnensnnnnnnnn kvarstad på fartyg i internationella rättsförhållanden, lag OM ...mmmsssssssesssrsrsrennanenenrnrnnnn nn annen promillegränser inom sjöfarten Skadeståndsrätt anläggningsinnehavarnas ansvar vid kärnkraftsolyCKkOr s.sssnnssseresssensrererenernarserrernnnnansnnrnennennrnn en arbetstagares skadeståndSanSVar.............s.ssessessossssrorornsnn det allmännas skadeståndSanSvar s....sssssererserereresrornsnnnn ersättning till hiv-smittade blödarsjuka m.fl. ................ jämkning med anledning av skada på motordrivet</p>
-          <p>jämkning vid medvållande enligt produktanSsvarSlageD......ss.sssssssssressessrenrenerrernnsnrrnnnnenen nanna självrisk för sakskada vållad av okänt fordon ............... skadestånd till brottsOffer.................-.sssssesrrsersesesesenernrnnnn Skattefordringar m.m. lag om indrivning av statliga fordringar M.mM............... Skuldsanering för fysiska pPersSOner ..mmsssssssserensennnnnnn Socialnämnds medverkan i vårdnadsmål.. Specialdestinerade livsmedel ..smssmmnssseresessenrennennesnnedernnrnnnnn nen Specialindrivningsenheter, kronofogdemyndigheternas.... Statens livsmedelsverk, anslag till. .s.mmmsmsssssssssssssrsnsennnnnnnnnnn Stiftelsen för utvecklande av god redovisningssed anslag till.sonssssssssssrersesrenrrsrnrrenrerrrnnenn ran renennen nen ennnrn ene n rn en nn ändrat anslag till Stiftelser sosssseseseersersrrrsrennrnnrnnnnnnn nan</p>
-          <p>Talerätt för far- och morföräldrar i umgängesfrågor ......... Textilier, Märkning QV...ssmmssssssesersesersnensrenrenernennrennennenernenen nn nn Tomträtt och grannelagSsrätt s..mmmmmssssssssesrensnenrnnnnrennnnnnnennnnnnn Trafikskadelagen, ändring i.msmmmmsssssrersersrrsrrsenresnrennrnnsnennn nanna Trossamfund, rätt att förrätta Vigsel. .....ss.sssossssssenenrnsnnnnnnnnn</p>
-          <p>Underhållsskyldighet till Darnfu........sssssssssenenennennnnenennnnnnnnnn nn Uppfinningar, arbetstagares Upphovsrätt avbildning av KOnStverk.....mssssessessresernesnennnennennrnnnnrnrnnnnen avgift på oinspelade band ......sssssssesesesrsesesenennnnnnnnnnnnnnnen droit de SUIit€ ..ssmssssresssrrrrrnnsresnrernrnnrn reser rrnnr rn nr nn n rr nn rn nn enn fOtOgrafirätt ...........esssessesssesrenrnrenrnnnennnenrrrennnnn nen nen enn rnn nanna gUdStjänStMUSik snsnnssssssessssresenrennernrennennennsnr ennen nnnen enn nnn nn kopiering av artiklar i tidningar och tidskrifter ..........- skydd för datorprogram a. osmmmmsessssssesserearrrnnrrernnrnnnnnnnnnnnnn skydd för kretsmönster för halvledarprodukter .... tidsförskjutet framförande av skyddade verk ................</p>
-          <p>6,</p>
-          <p>49,</p>
-          <p>30,</p>
-          <p>37 21</p>
-          <p>1992/93:LU Reg.</p>
-          <p>18</p>
+          <p>
+            SJÖfYlleri ooooosessessesesrrerererernrrrrrrrrrrrrnsrr rerna
+            nns renen nn rr enn deres nn nn nn Sjölagen, äNdriNng Iunssmsssesreesrrresrernrrnnrennnnenneenesnsnrrrnrennrnnrnnnn
+            nn Sjörätt arrestkONVentiONCA ...sssssssssrsrsessssrrseeesrrensrerennnnnrernenn
+            rna nan internationell SjÖrätt................esssssssssssrerserssnsernssnnnensnnnnnnnn
+            kvarstad på fartyg i internationella rättsförhållanden, lag OM
+            ...mmmsssssssesssrsrsrennanenenrnrnnnn nn annen promillegränser
+            inom sjöfarten Skadeståndsrätt anläggningsinnehavarnas ansvar
+            vid kärnkraftsolyCKkOr s.sssnnssseresssensrererenernarserrernnnnansnnrnennennrnn
+            en arbetstagares skadeståndSanSVar.............s.ssessessossssrorornsnn
+            det allmännas skadeståndSanSvar s....sssssererserereresrornsnnnn
+            ersättning till hiv-smittade blödarsjuka m.fl. ................
+            jämkning med anledning av skada på motordrivet
+          </p>
+          <p>
+            jämkning vid medvållande enligt produktanSsvarSlageD......ss.sssssssssressessrenrenerrernnsnrrnnnnenen
+            nanna självrisk för sakskada vållad av okänt fordon ...............
+            skadestånd till brottsOffer.................-.sssssesrrsersesesesenernrnnnn
+            Skattefordringar m.m. lag om indrivning av statliga fordringar
+            M.mM............... Skuldsanering för fysiska pPersSOner ..mmsssssssserensennnnnnn
+            Socialnämnds medverkan i vårdnadsmål.. Specialdestinerade livsmedel
+            ..smssmmnssseresessenrennennesnnedernnrnnnnn nen Specialindrivningsenheter,
+            kronofogdemyndigheternas.... Statens livsmedelsverk, anslag till.
+            .s.mmmsmsssssssssssssrsnsennnnnnnnnnn Stiftelsen för utvecklande
+            av god redovisningssed anslag till.sonssssssssssrersesrenrrsrnrrenrerrrnnenn
+            ran renennen nen ennnrn ene n rn en nn ändrat anslag till Stiftelser
+            sosssseseseersersrrrsrennrnnrnnnnnnn nan
+          </p>
+          <p>
+            Talerätt för far- och morföräldrar i umgängesfrågor .........
+            Textilier, Märkning QV...ssmmssssssesersesersnensrenrenernennrennennenernenen
+            nn nn Tomträtt och grannelagSsrätt s..mmmmmssssssssesrensnenrnnnnrennnnnnnennnnnnn
+            Trafikskadelagen, ändring i.msmmmmsssssrersersrrsrrsenresnrennrnnsnennn
+            nanna Trossamfund, rätt att förrätta Vigsel. .....ss.sssossssssenenrnsnnnnnnnnn
+          </p>
+          <p>
+            Underhållsskyldighet till Darnfu........sssssssssenenennennnnenennnnnnnnnn
+            nn Uppfinningar, arbetstagares Upphovsrätt avbildning av KOnStverk.....mssssessessresernesnennnennennrnnnnrnrnnnnen
+            avgift på oinspelade band ......sssssssesesesrsesesenennnnnnnnnnnnnnnen
+            droit de SUIit€ ..ssmssssresssrrrrrnnsresnrernrnnrn reser rrnnr
+            rn nr nn n rr nn rn nn enn fOtOgrafirätt ...........esssessesssesrenrnrenrnnnennnenrrrennnnn
+            nen nen enn rnn nanna gUdStjänStMUSik snsnnssssssessssresenrennernrennennennsnr
+            ennen nnnen enn nnn nn kopiering av artiklar i tidningar och tidskrifter
+            ..........- skydd för datorprogram a. osmmmmsessssssesserearrrnnrrernnrnnnnnnnnnnnnn
+            skydd för kretsmönster för halvledarprodukter .... tidsförskjutet
+            framförande av skyddade verk ................
+          </p>
+          <p>
+            6,
+          </p>
+          <p>
+            49,
+          </p>
+          <p>
+            30,
+          </p>
+          <p>
+            37 21
+          </p>
+          <p>
+            1992/93:LU Reg.
+          </p>
+          <p>
+            18
+          </p>
           <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_LU/reg_199293_LU-018.pdf"/>
-          <p>utfrågningar om offentliga angelägenheter ...................</p>
-          <p>vidareförsäljning</p>
-          <p>av KONSto.s..ssossererserrrroorrrrserrrrrrrrrrrrrnrr rn</p>
-          <p>återgivande av konstverk i kataloger m.m. ................... ändring av byggnader s.......sssssssessressersrrrrrnrnernennernenennrnnen nn översyn av uUPPphOvSrätten .......sssssessssoseereneererennnnensnnnrnnnn</p>
-          <p>Uppskjutna ärenden</p>
-          <p>arrenden på kronoöverloppsmark ............s.ssssssrssssssssnsnn</p>
-          <p>godtrosförvärv....</p>
-          <p>historiska arrenden sommmsssssssrsssreserrerserrsrrrrrrerrrrrrnrrernnrrrn nn</p>
-          <p>insemination ......</p>
-          <p>Utländska förvärv av fast egendom s....sssseserssrsesneennerennsnnnnn Utländska vårdnadsavgöranden..........seessssessssesesssrssensnnnnsnnen Utredning i vårdnads- och umgängesmål.....................s..os.s Utsökningsmål, instansordningen ............essesssesesesesesesrsensnnnn</p>
-          <p>Varumärkesrätt........ Vidareförsäljning av</p>
-          <p>konst, avgift Vid .............osseressesenernnnnnna</p>
-          <p>Vigselrätt inom andra trossamfund än Svenska kyrkan .... Vårdnad och umgänge med barn........s..ssseessrsrssorsenesnnnrnrnnnn</p>
-          <p>Växtförädlarrätt........</p>
-          <p>Återvinning vid ackord och konkurs...</p>
-          <p>Äktenskapsbalken, äNdFriNg dosssssseseererrerererrenrererrnrrnnnnrernnn nn ena</p>
-          <p>Övergrepp mot barn</p>
-          <p>44 44 44 44 44</p>
-          <p>47 47 47 47 15 22 22</p>
-          <p>Sy</p>
-          <p>17 44 42 22 17</p>
-          <p>23</p>
-          <p>22</p>
-          <p>1992/93:LU Reg.</p>
-          <p>19</p>
+          <p>
+            utfrågningar om offentliga angelägenheter ...................
+          </p>
+          <p>
+            vidareförsäljning
+          </p>
+          <p>
+            av KONSto.s..ssossererserrrroorrrrserrrrrrrrrrrrrnrr rn
+          </p>
+          <p>
+            återgivande av konstverk i kataloger m.m. ...................
+            ändring av byggnader s.......sssssssessressersrrrrrnrnernennernenennrnnen
+            nn översyn av uUPPphOvSrätten .......sssssessssoseereneererennnnensnnnrnnnn
+          </p>
+          <p>
+            Uppskjutna ärenden
+          </p>
+          <p>
+            arrenden på kronoöverloppsmark ............s.ssssssrssssssssnsnn
+          </p>
+          <p>
+            godtrosförvärv....
+          </p>
+          <p>
+            historiska arrenden sommmsssssssrsssreserrerserrsrrrrrrerrrrrrnrrernnrrrn
+            nn
+          </p>
+          <p>
+            insemination ......
+          </p>
+          <p>
+            Utländska förvärv av fast egendom s....sssseserssrsesneennerennsnnnnn
+            Utländska vårdnadsavgöranden..........seessssessssesesssrssensnnnnsnnen
+            Utredning i vårdnads- och umgängesmål.....................s..os.s
+            Utsökningsmål, instansordningen ............essesssesesesesesesrsensnnnn
+          </p>
+          <p>
+            Varumärkesrätt........ Vidareförsäljning av
+          </p>
+          <p>
+            konst, avgift Vid .............osseressesenernnnnnna
+          </p>
+          <p>
+            Vigselrätt inom andra trossamfund än Svenska kyrkan .... Vårdnad
+            och umgänge med barn........s..ssseessrsrssorsenesnnnrnrnnnn
+          </p>
+          <p>
+            Växtförädlarrätt........
+          </p>
+          <p>
+            Återvinning vid ackord och konkurs...
+          </p>
+          <p>
+            Äktenskapsbalken, äNdFriNg dosssssseseererrerererrenrererrnrrnnnnrernnn
+            nn ena
+          </p>
+          <p>
+            Övergrepp mot barn
+          </p>
+          <p>
+            44 44 44 44 44
+          </p>
+          <p>
+            47 47 47 47 15 22 22
+          </p>
+          <p>
+            Sy
+          </p>
+          <p>
+            17 44 42 22 17
+          </p>
+          <p>
+            23
+          </p>
+          <p>
+            22
+          </p>
+          <p>
+            1992/93:LU Reg.
+          </p>
+          <p>
+            19
+          </p>
           <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_LU/reg_199293_LU-019.pdf"/>
-          <p>gotab 44003, Stockholm 1993</p>
+          <p>
+            gotab 44003, Stockholm 1993
+          </p>
         </div>
       </div>
     </body>

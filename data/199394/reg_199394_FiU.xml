@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="reg_199394_FiU">
   <teiHeader>
     <fileDesc>
       <titleStmt/>
@@ -22,203 +22,1029 @@
       <pb facs="riksdagen-volumeG-pdf/data/199394/reg_199394_FiU/reg_199394_FiU-000.pdf"/>
       <div type="gBody">
         <div>
-          <p>Finansutskottets register vid AN</p>
-          <p>riksmötet 1993/94 VI ade) 1993/94 FiU Reg. Betänkanden Nr FiUl</p>
-          <p>Inriktningen av den ekonomiska politiken (prop. 1993/94:25) Utskottets justering 1993-12-02 Förslag till beslut: Bifall till propositionen. Delvis bifall till en motion om ekonomisk brottslighet m.m. I övrigt avslag på</p>
-          <p>motionerna. Debatt i kammaren 1993-12-15 Protokollsnummer 1993/94:44 Riksdagens beslut: Bifall till res. 9 mom. 7 och res. 15 mom. 14. I övrigt bifall till utskottets hemställan 1993-12-15 Protokollsnhummer 1993/94:44 Riksdagsskrivelse 1993/94:100 Nr FiU2</p>
-          <p>Vissa ekonomiska regleringar år 1994 mellan staten och kommunsektorn (prop. 1993/94:29)</p>
-          <p>Utskottets justering 1993-11-09 Förslag till beslut: Bifall till propositionen och avslag på motionen. Debatt i kammaren 1993-11-25 Protokollshummer 1993/94:30 Riksdagens beslut: Bifall till utskottets hemställan 1993-11-25 Protokollshummer 1993/94:30 Riksdagsskrivelse 1993/94:35 Nr FiU3</p>
-          <p>Riksdagens revisorers verksamhet under budgetåret 1992/93 (redog. 1993/94:RR1)</p>
-          <p>Utskottets justering 1993-12-17 Förslag till beslut: Avslag på motionen. Redogörelsen läggs till handlingarna. Riksdagens beslut: Bifall till utskottets hemställan 1994-02-16 Protokollsnhummer 1993/94:61 Riksdagsskrivelse 1993/94:120</p>
-          <p>1 Riksdagen 1993/94. 5 saml. Register</p>
+          <p>
+            Finansutskottets register vid AN
+          </p>
+          <p>
+            riksmötet 1993/94 VI ade) 1993/94 FiU Reg. Betänkanden Nr FiUl
+          </p>
+          <p>
+            Inriktningen av den ekonomiska politiken (prop. 1993/94:25) Utskottets
+            justering 1993-12-02 Förslag till beslut: Bifall till propositionen.
+            Delvis bifall till en motion om ekonomisk brottslighet m.m. I
+            övrigt avslag på
+          </p>
+          <p>
+            motionerna. Debatt i kammaren 1993-12-15 Protokollsnummer 1993/94:44
+            Riksdagens beslut: Bifall till res. 9 mom. 7 och res. 15 mom.
+            14. I övrigt bifall till utskottets hemställan 1993-12-15 Protokollsnhummer
+            1993/94:44 Riksdagsskrivelse 1993/94:100 Nr FiU2
+          </p>
+          <p>
+            Vissa ekonomiska regleringar år 1994 mellan staten och kommunsektorn
+            (prop. 1993/94:29)
+          </p>
+          <p>
+            Utskottets justering 1993-11-09 Förslag till beslut: Bifall till
+            propositionen och avslag på motionen. Debatt i kammaren 1993-11-25
+            Protokollshummer 1993/94:30 Riksdagens beslut: Bifall till utskottets
+            hemställan 1993-11-25 Protokollshummer 1993/94:30 Riksdagsskrivelse
+            1993/94:35 Nr FiU3
+          </p>
+          <p>
+            Riksdagens revisorers verksamhet under budgetåret 1992/93 (redog.
+            1993/94:RR1)
+          </p>
+          <p>
+            Utskottets justering 1993-12-17 Förslag till beslut: Avslag på
+            motionen. Redogörelsen läggs till handlingarna. Riksdagens beslut:
+            Bifall till utskottets hemställan 1994-02-16 Protokollsnhummer
+            1993/94:61 Riksdagsskrivelse 1993/94:120
+          </p>
+          <p>
+            1 Riksdagen 1993/94. 5 saml. Register
+          </p>
           <pb facs="riksdagen-volumeG-pdf/data/199394/reg_199394_FiU/reg_199394_FiU-001.pdf"/>
-          <p>Nr FiU4 Frågor om offentlig upphandling (prop. 1993/94:78)</p>
-          <p>Utskottets justering 1993-11-30 Förslag till beslut: Bifall till propositionen och avslag på motionerna. Debatt i kammaren 1993-12-09 Protokollsnhummer 1993/94:40 Riksdagens beslut: Bifall till utskottets hemställan 1993-12-14 Protokollsnummer 1993/94:43 Riksdagsskrivelse 1993/94:83 Nr FiUS</p>
-          <p>Ingripande mot otillbörligt beteende avseende offentlig upphandling (prop. 1993/94:35) Utskottets justering 1993-11-30 Förslag till beslut: Avslag på propositionen och delvis bifall till fyra motionsyrkanden beträffande lag om ingripande mot otillbörligt beteende vid offentlig upphandling m.m. Avslag på övriga motioner.</p>
-          <p>Debatt i kammaren 1993-12-09 Protokollshummer 1993/94:40 Riksdagens beslut: Bifall till utskottets hemställan 1993-12-14 Protokollsnummer 1993/94:43 Riksdagsskrivelse 1993/94:84 Nr FiU6 Sammanställning av anslag på tilläggsbudget hösten 1993 Utskottets justering 1993-12-17</p>
-          <p>Förslag till beslut: Sammanställning av riksdagens beslut under hösten 1993 om anslag på tilläggsbudget till stats- budgeten för budgetåret 1993/94.</p>
-          <p>Riksdagens beslut: Bifall till utskottets hemställan 1994-02-16 Protokollsnummer 1993/94:61 Riksdagsskrivelse 1993/94:121 Nr FiU7 Anslag till Kammarkollegiet (prop. 1993/94:100 bil. 14) Utskottets justering 1994-03-15 Förslag till beslut: Bifall till propositionen. Riksdagens beslut: Bifall till utskottets hemställan 1994-03-30 Protokollsnhummer 1993/94:83 Riksdagsskrivelse 1993/94:217</p>
-          <p>1993/94:FiU Reg.</p>
+          <p>
+            Nr FiU4 Frågor om offentlig upphandling (prop. 1993/94:78)
+          </p>
+          <p>
+            Utskottets justering 1993-11-30 Förslag till beslut: Bifall till
+            propositionen och avslag på motionerna. Debatt i kammaren 1993-12-09
+            Protokollsnhummer 1993/94:40 Riksdagens beslut: Bifall till utskottets
+            hemställan 1993-12-14 Protokollsnummer 1993/94:43 Riksdagsskrivelse
+            1993/94:83 Nr FiUS
+          </p>
+          <p>
+            Ingripande mot otillbörligt beteende avseende offentlig upphandling
+            (prop. 1993/94:35) Utskottets justering 1993-11-30 Förslag till
+            beslut: Avslag på propositionen och delvis bifall till fyra motionsyrkanden
+            beträffande lag om ingripande mot otillbörligt beteende vid offentlig
+            upphandling m.m. Avslag på övriga motioner.
+          </p>
+          <p>
+            Debatt i kammaren 1993-12-09 Protokollshummer 1993/94:40 Riksdagens
+            beslut: Bifall till utskottets hemställan 1993-12-14 Protokollsnummer
+            1993/94:43 Riksdagsskrivelse 1993/94:84 Nr FiU6 Sammanställning
+            av anslag på tilläggsbudget hösten 1993 Utskottets justering 1993-12-17
+          </p>
+          <p>
+            Förslag till beslut: Sammanställning av riksdagens beslut under
+            hösten 1993 om anslag på tilläggsbudget till stats- budgeten för
+            budgetåret 1993/94.
+          </p>
+          <p>
+            Riksdagens beslut: Bifall till utskottets hemställan 1994-02-16
+            Protokollsnummer 1993/94:61 Riksdagsskrivelse 1993/94:121 Nr FiU7
+            Anslag till Kammarkollegiet (prop. 1993/94:100 bil. 14) Utskottets
+            justering 1994-03-15 Förslag till beslut: Bifall till propositionen.
+            Riksdagens beslut: Bifall till utskottets hemställan 1994-03-30
+            Protokollsnhummer 1993/94:83 Riksdagsskrivelse 1993/94:217
+          </p>
+          <p>
+            1993/94:FiU Reg.
+          </p>
           <pb facs="riksdagen-volumeG-pdf/data/199394/reg_199394_FiU/reg_199394_FiU-002.pdf"/>
-          <p>Nr FiU8 1993/94:FiU Reg. Vissa anslag inom Finansdepartementets område (prop. 1993/94:100 bil. 8)</p>
-          <p>Utskottets justering 1994-03-15 Förslag till beslut: Bifall till propositionen och avslag på motionen. Riksdagens beslut: Bifall till utskottets hemställan 1994-03-30 Protokollsnhummer 1993/94:83 Riksdagsskrivelse 1993/94:218 Nr FiU9</p>
-          <p>Den statliga rationaliseringsverksamheten och revisionen (prop. 1993/94:100 bil. 8) Utskottets justering 1994-03-29 Förslag till beslut: Bifall till propositionen med den änd- ringen att de begärda medlen för avveckling och omställning av Statskontoret anvisas på anslaget Uppdrag till Statskontoret i stället för att redovisas som merutgifter.</p>
-          <p>Riksdagens beslut: Bifall till utskottets hemställan 1994-04-14 Protokollsnummer 1993/94:88 Riksdagsskrivelse 1993/94:237 Nr FiU10</p>
-          <p>Den ekonomiska politiken och budgetregleringen m.m. (prop. 1993/94:100 bil. 1) Utskottets justering 1994-02-17 Förslag till beslut: Bifall till propositionen. Tillkännagivande med anledning av en motion beträffande RRV:s redovisning av det ekonomiadministrativa läget, myndigheternas resultat- redovisning och revisionens resultat 1993. I övrigt avslag på</p>
-          <p>motionerna. Debatt i kammaren 1994-03-02 Protokollsnhummer 1993/94:68 Riksdagens beslut: Bifall till utskottets hemställan 1994-03-02 Protokollsnhummer 1993/94:68 Riksdagsskrivelse 1993/94:132 Nr FiUll</p>
-          <p>Tilläggsbudget inom Finansdepartementets område (prop. 1993/94:105 avsnitt 6)</p>
-          <p>Utskottets justering 1994-04-12 Förslag till beslut: Bifall till propositionen. Riksdagens beslut: Bifall till utskottets hemställan 1994-04-27 Protokollsnhummer 1993/94:97 Riksdagsskrivelse 1993/94:265</p>
-          <p>1" Riksdagen 1993/94. 5 saml. Register</p>
+          <p>
+            Nr FiU8 1993/94:FiU Reg. Vissa anslag inom Finansdepartementets
+            område (prop. 1993/94:100 bil. 8)
+          </p>
+          <p>
+            Utskottets justering 1994-03-15 Förslag till beslut: Bifall till
+            propositionen och avslag på motionen. Riksdagens beslut: Bifall
+            till utskottets hemställan 1994-03-30 Protokollsnhummer 1993/94:83
+            Riksdagsskrivelse 1993/94:218 Nr FiU9
+          </p>
+          <p>
+            Den statliga rationaliseringsverksamheten och revisionen (prop.
+            1993/94:100 bil. 8) Utskottets justering 1994-03-29 Förslag till
+            beslut: Bifall till propositionen med den änd- ringen att de begärda
+            medlen för avveckling och omställning av Statskontoret anvisas
+            på anslaget Uppdrag till Statskontoret i stället för att redovisas
+            som merutgifter.
+          </p>
+          <p>
+            Riksdagens beslut: Bifall till utskottets hemställan 1994-04-14
+            Protokollsnummer 1993/94:88 Riksdagsskrivelse 1993/94:237 Nr FiU10
+          </p>
+          <p>
+            Den ekonomiska politiken och budgetregleringen m.m. (prop. 1993/94:100
+            bil. 1) Utskottets justering 1994-02-17 Förslag till beslut: Bifall
+            till propositionen. Tillkännagivande med anledning av en motion
+            beträffande RRV:s redovisning av det ekonomiadministrativa läget,
+            myndigheternas resultat- redovisning och revisionens resultat
+            1993. I övrigt avslag på
+          </p>
+          <p>
+            motionerna. Debatt i kammaren 1994-03-02 Protokollsnhummer 1993/94:68
+            Riksdagens beslut: Bifall till utskottets hemställan 1994-03-02
+            Protokollsnhummer 1993/94:68 Riksdagsskrivelse 1993/94:132 Nr
+            FiUll
+          </p>
+          <p>
+            Tilläggsbudget inom Finansdepartementets område (prop. 1993/94:105
+            avsnitt 6)
+          </p>
+          <p>
+            Utskottets justering 1994-04-12 Förslag till beslut: Bifall till
+            propositionen. Riksdagens beslut: Bifall till utskottets hemställan
+            1994-04-27 Protokollsnhummer 1993/94:97 Riksdagsskrivelse 1993/94:265
+          </p>
+          <p>
+            1" Riksdagen 1993/94. 5 saml. Register
+          </p>
           <pb facs="riksdagen-volumeG-pdf/data/199394/reg_199394_FiU/reg_199394_FiU-003.pdf"/>
-          <p>Nr FiU12 Riksgäldskontoret och kostnader för statsskuldens förvaltning (prop. 1993/94:100 bil. 8) Utskottets justering Förslag till beslut: Bifall till propositionen. Riksdagens beslut: Bifall till utskottets hemställan Protokollshummer Riksdagsskrivelse</p>
-          <p>Nr FiU13 Fastighetsförvaltning och statlig lokalförsörjning (prop. 1993/94:100 bil. 8) Utskottets justering Förslag till beslut: Bifall till propositionen och avslag på motionerna. Debatt i kammaren Protokollsnhummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse</p>
-          <p>Nr FiU1l4 Riksbankens förvaltning år 1993 (redog. 1993/94:RB1 och 1993/94:RR5) Utskottets justering Förslag till beslut: Bifall till riksbanksfullmäktiges och revisorernas förslag. Avslag på motionen. Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse</p>
-          <p>Nr FiU15 Statistikfrågor (prop. 1993/94:100 bil. 8) Utskottets justering Förslag till beslut: Bifall till propositionen och avslag på motionerna. Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till utskottets hemställan Protokollshummer Riksdagsskrivelse</p>
-          <p>1994-03-29</p>
-          <p>1994-04-14 1993/94:88 1993/94:238</p>
-          <p>1994-04-12</p>
-          <p>1994-04-27 1993/94:97 1994-04-27 1993/94:97 1993/94:266</p>
-          <p>1994-04-12</p>
-          <p>1994-04-27 1993/94:97 1994-04-27 1993/94:97 1993/94:267 och 1993/94:268</p>
-          <p>1994-04-12</p>
-          <p>1994-04-27 1993/94:97 1994-04-27 1993/94:97 1993/94:269</p>
-          <p>1993/94:FiU Reg.</p>
+          <p>
+            Nr FiU12 Riksgäldskontoret och kostnader för statsskuldens förvaltning
+            (prop. 1993/94:100 bil. 8) Utskottets justering Förslag till beslut:
+            Bifall till propositionen. Riksdagens beslut: Bifall till utskottets
+            hemställan Protokollshummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr FiU13 Fastighetsförvaltning och statlig lokalförsörjning (prop.
+            1993/94:100 bil. 8) Utskottets justering Förslag till beslut:
+            Bifall till propositionen och avslag på motionerna. Debatt i kammaren
+            Protokollsnhummer Riksdagens beslut: Bifall till utskottets hemställan
+            Protokollsnummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr FiU1l4 Riksbankens förvaltning år 1993 (redog. 1993/94:RB1
+            och 1993/94:RR5) Utskottets justering Förslag till beslut: Bifall
+            till riksbanksfullmäktiges och revisorernas förslag. Avslag på
+            motionen. Debatt i kammaren Protokollsnummer Riksdagens beslut:
+            Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr FiU15 Statistikfrågor (prop. 1993/94:100 bil. 8) Utskottets
+            justering Förslag till beslut: Bifall till propositionen och avslag
+            på motionerna. Debatt i kammaren Protokollsnummer Riksdagens beslut:
+            Bifall till utskottets hemställan Protokollshummer Riksdagsskrivelse
+          </p>
+          <p>
+            1994-03-29
+          </p>
+          <p>
+            1994-04-14 1993/94:88 1993/94:238
+          </p>
+          <p>
+            1994-04-12
+          </p>
+          <p>
+            1994-04-27 1993/94:97 1994-04-27 1993/94:97 1993/94:266
+          </p>
+          <p>
+            1994-04-12
+          </p>
+          <p>
+            1994-04-27 1993/94:97 1994-04-27 1993/94:97 1993/94:267 och 1993/94:268
+          </p>
+          <p>
+            1994-04-12
+          </p>
+          <p>
+            1994-04-27 1993/94:97 1994-04-27 1993/94:97 1993/94:269
+          </p>
+          <p>
+            1993/94:FiU Reg.
+          </p>
           <pb facs="riksdagen-volumeG-pdf/data/199394/reg_199394_FiU/reg_199394_FiU-004.pdf"/>
-          <p>Nr FiU16 Vissa strukturfrågor inom offentlig sektor Utskottets justering Förslag till beslut: Avslag på samtliga motioner. Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse</p>
-          <p>Nr FiU17 Riksdagens revisorer och deras kansli (prop. 1993/94:100 bil. 16) Utskottets justering Förslag till beslut: Avslag på förslag till anslagsökning enligt propositionen, vilket innebär delvis bifall till en motion be- träffande anslaget till Riksdagens revisorer och deras kansli. Avslag på en motion om revision av Riksbankens Jubileumsfond. Riksdagens beslut: Bifall till utskottets hemställan Protokollshummer Riksdagsskrivelse</p>
-          <p>Nr FiU18 Frågor om offentlig upphandling (prop. 1993/94:227) Utskottets justering Förslag till beslut: Bifall till propositionen och avslag på motionerna. Debatt i kammaren Protokollsnhummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnhummer Riksdagsskrivelse</p>
-          <p>Nr FiU19 Den kommunala ekonomin (prop. 1993/94:100 och 1993/94:150) Utskottets justering Förslag till beslut: Bifall till propositionen med undantag av en mindre justering av den ekonomiska regleringen andra halvåret 1994 mellan staten och kommunsektorn. Avslag på motionerna. Debatt i kammaren Protokollsnhummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnhummer Riksdagsskrivelse</p>
-          <p>1993/94:FiU Reg.</p>
-          <p>1994-04-12</p>
-          <p>1994-04-27 1993/94:97 1994-04-27 1993/94:97</p>
-          <p>1994-04-19</p>
-          <p>1994-04-27 1993/94:97 1993/94:270</p>
-          <p>1994-05-03</p>
-          <p>1994-05-19 1993/94:107 1994-05-20 1993/94:108 1993/94:339</p>
-          <p>1994-05-26</p>
-          <p>1994-06-08 1993/94:120 1994-06-08 1993/94:120 1993/94:442</p>
+          <p>
+            Nr FiU16 Vissa strukturfrågor inom offentlig sektor Utskottets
+            justering Förslag till beslut: Avslag på samtliga motioner. Debatt
+            i kammaren Protokollsnummer Riksdagens beslut: Bifall till utskottets
+            hemställan Protokollsnummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr FiU17 Riksdagens revisorer och deras kansli (prop. 1993/94:100
+            bil. 16) Utskottets justering Förslag till beslut: Avslag på förslag
+            till anslagsökning enligt propositionen, vilket innebär delvis
+            bifall till en motion be- träffande anslaget till Riksdagens revisorer
+            och deras kansli. Avslag på en motion om revision av Riksbankens
+            Jubileumsfond. Riksdagens beslut: Bifall till utskottets hemställan
+            Protokollshummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr FiU18 Frågor om offentlig upphandling (prop. 1993/94:227)
+            Utskottets justering Förslag till beslut: Bifall till propositionen
+            och avslag på motionerna. Debatt i kammaren Protokollsnhummer
+            Riksdagens beslut: Bifall till utskottets hemställan Protokollsnhummer
+            Riksdagsskrivelse
+          </p>
+          <p>
+            Nr FiU19 Den kommunala ekonomin (prop. 1993/94:100 och 1993/94:150)
+            Utskottets justering Förslag till beslut: Bifall till propositionen
+            med undantag av en mindre justering av den ekonomiska regleringen
+            andra halvåret 1994 mellan staten och kommunsektorn. Avslag på
+            motionerna. Debatt i kammaren Protokollsnhummer Riksdagens beslut:
+            Bifall till utskottets hemställan Protokollsnhummer Riksdagsskrivelse
+          </p>
+          <p>
+            1993/94:FiU Reg.
+          </p>
+          <p>
+            1994-04-12
+          </p>
+          <p>
+            1994-04-27 1993/94:97 1994-04-27 1993/94:97
+          </p>
+          <p>
+            1994-04-19
+          </p>
+          <p>
+            1994-04-27 1993/94:97 1993/94:270
+          </p>
+          <p>
+            1994-05-03
+          </p>
+          <p>
+            1994-05-19 1993/94:107 1994-05-20 1993/94:108 1993/94:339
+          </p>
+          <p>
+            1994-05-26
+          </p>
+          <p>
+            1994-06-08 1993/94:120 1994-06-08 1993/94:120 1993/94:442
+          </p>
           <pb facs="riksdagen-volumeG-pdf/data/199394/reg_199394_FiU/reg_199394_FiU-005.pdf"/>
-          <p>Nr FiU20 1993/94:FiU Reg. Den ekonomiska politiken och slutlig budgetreglering för budgetåret 1994/95 (prop. 1993/94:150 och 1993/94:100) Utskottets justering 1994-05-31 Förslag till beslut: Utskottsinitiativ beträffande inrättande av ett nytt reservationsanslag benämnt Främjande av kvinnligt företagande. Delvis bifall till regeringens förslag om anslag till Arbetsmarknadspolitiska åtgärder. Mindre ändring i lagförslag om mottagande av asylsökande m.fl. Tillkännagivanden dels med anledning av propositionen och motioner beträffande bidrag till utbildning i företag, dels med anledning av propo- sitionen beträffande finansfullmakten. I övrigt bifall till rege- ringens förslag och avslag på motionerna.</p>
-          <p>Debatt i kammaren 1994-06-10 Protokollsnummer 1993/94:122 Riksdagens beslut: Bifall till utskottets hemställan 1994-06-10 Protokollsnhummer 1993/94:122 Riksdagsskrivelser 1993/94:453—458 Nr FiU21</p>
-          <p>Ytterligare anslag inom Finansdepartementets område (prop. 1993/94:12S5 avsnitt 6)</p>
-          <p>Utskottets justering 1994-05-03 Förslag till beslut: Bifall till propositionen. Debatt i kammaren 1994-05-19 Protokollsnhummer 1993/94:107 Riksdagens beslut: Bifall till utskottets hemställan 1994-05-20 Protokollsnhummer 1993/94:108 Riksdagsskrivelse 1993/94:340 Nr FiU22</p>
-          <p>Förnyat förslag till lagstiftning om ingripande mot otillbörligt beteende avseende offentlig upphandling (prop. 1993/94:222)</p>
-          <p>Utskottets justering 1994-05-17 Förslag till beslut: Bifall till propositionen och avslag på motionerna. Debatt i kammaren 1994-06-01 Protokollsnhummer 1993/94:115 Riksdagens beslut: Bifall till utskottets hemställan 1994-06-02 Protokollsnhummer 1993/94:116 Riksdagsskrivelse 1993/94:383 Nr FiU23</p>
-          <p>Oförutsedda utgifter för budgetåret 1994/95 (prop. 1993/94:100 bil. 18)</p>
-          <p>Utskottets justering 1994-05-17 Förslag till beslut: Bifall till propositionen. Riksdagens beslut: Bifall till utskottets hemställan 1994-05-26 Protokollsnhummer 1993/94:111</p>
-          <p>Riksdagsskrivelse 1993/94:360 6</p>
+          <p>
+            Nr FiU20 1993/94:FiU Reg. Den ekonomiska politiken och slutlig
+            budgetreglering för budgetåret 1994/95 (prop. 1993/94:150 och
+            1993/94:100) Utskottets justering 1994-05-31 Förslag till beslut:
+            Utskottsinitiativ beträffande inrättande av ett nytt reservationsanslag
+            benämnt Främjande av kvinnligt företagande. Delvis bifall till
+            regeringens förslag om anslag till Arbetsmarknadspolitiska åtgärder.
+            Mindre ändring i lagförslag om mottagande av asylsökande m.fl.
+            Tillkännagivanden dels med anledning av propositionen och motioner
+            beträffande bidrag till utbildning i företag, dels med anledning
+            av propo- sitionen beträffande finansfullmakten. I övrigt bifall
+            till rege- ringens förslag och avslag på motionerna.
+          </p>
+          <p>
+            Debatt i kammaren 1994-06-10 Protokollsnummer 1993/94:122 Riksdagens
+            beslut: Bifall till utskottets hemställan 1994-06-10 Protokollsnhummer
+            1993/94:122 Riksdagsskrivelser 1993/94:453—458 Nr FiU21
+          </p>
+          <p>
+            Ytterligare anslag inom Finansdepartementets område (prop. 1993/94:12S5
+            avsnitt 6)
+          </p>
+          <p>
+            Utskottets justering 1994-05-03 Förslag till beslut: Bifall till
+            propositionen. Debatt i kammaren 1994-05-19 Protokollsnhummer
+            1993/94:107 Riksdagens beslut: Bifall till utskottets hemställan
+            1994-05-20 Protokollsnhummer 1993/94:108 Riksdagsskrivelse 1993/94:340
+            Nr FiU22
+          </p>
+          <p>
+            Förnyat förslag till lagstiftning om ingripande mot otillbörligt
+            beteende avseende offentlig upphandling (prop. 1993/94:222)
+          </p>
+          <p>
+            Utskottets justering 1994-05-17 Förslag till beslut: Bifall till
+            propositionen och avslag på motionerna. Debatt i kammaren 1994-06-01
+            Protokollsnhummer 1993/94:115 Riksdagens beslut: Bifall till utskottets
+            hemställan 1994-06-02 Protokollsnhummer 1993/94:116 Riksdagsskrivelse
+            1993/94:383 Nr FiU23
+          </p>
+          <p>
+            Oförutsedda utgifter för budgetåret 1994/95 (prop. 1993/94:100
+            bil. 18)
+          </p>
+          <p>
+            Utskottets justering 1994-05-17 Förslag till beslut: Bifall till
+            propositionen. Riksdagens beslut: Bifall till utskottets hemställan
+            1994-05-26 Protokollsnhummer 1993/94:111
+          </p>
+          <p>
+            Riksdagsskrivelse 1993/94:360 6
+          </p>
           <pb facs="riksdagen-volumeG-pdf/data/199394/reg_199394_FiU/reg_199394_FiU-006.pdf"/>
-          <p>Nr FiU24 1993/94:FiU Reg. Försäljning av AB Tipstjänst till svenskt föreningsliv m.m. (prop. 1993/94:243)</p>
-          <p>Utskottets justering 1994-05-17 Förslag till beslut: Bifall till propositionen och avslag på motionerna. Debatt i kammaren 1994-06-03 Protokollsnhummer 1993/94:117 Riksdagens beslut: Bifall till utskottets hemställan 1994-06-07 Protokollsnummer 1993/94:119 Riksdagsskrivelse 1993/94:416 Nr FiU2S Sammanställning av anslag på tilläggsbudget våren 1994 Utskottets justering 1994-06-09</p>
-          <p>Förslag till beslut: Sammanställning av riksdagens beslut om anslag på tilläggsbudget våren 1994.</p>
-          <p>Riksdagens beslut: Bifall till utskottets hemställan 1994-06-11 Protokollsnummer 1993/94:124 Riksdagsskrivelse 1993/94:460 Nr FiU26 Räntor på statsskulden, m.m. (prop. 1993/94:150 bil. 1) Utskottets justering 1994-06-10</p>
-          <p>Förslag till beslut: Bifall till propositionen med viss ändring av inkomst- och utgiftsstaten rörande Räntor på statsskulden,</p>
-          <p>m.m. Riksdagens beslut: Bifall till utskottets hemställan 1994-06-11 Protokollsnummer 1993/94:124 Riksdagsskrivelse 1993/94:461 Nr FiU27</p>
-          <p>Statsbudgetens inkomster för budgetåret 1994/95 (prop. 1993/94:150 bil. 1)</p>
-          <p>Utskottets justering 1994-06-10 Förslag till beslut: Delvis bifall till propositionen. Riksdagens beslut: Bifall till utskottets hemställan 1994-06-11 Protokollshummer 1993/94:124 Riksdagsskrivelse 1993/94:462 Nr FiU28</p>
-          <p>Statsbudgetens utgifter för budgetåret 1994/95 (prop. 1993/94:150 bil. 1)</p>
-          <p>Utskottets justering 1994-06-10 Förslag till beslut: Bifall till propositionen. Riksdagens beslut: Bifall till utskottets hemställan 1994-06-11 Protokollsnummer 1993/94:124 Riksdagsskrivelse 1993/94:463</p>
+          <p>
+            Nr FiU24 1993/94:FiU Reg. Försäljning av AB Tipstjänst till svenskt
+            föreningsliv m.m. (prop. 1993/94:243)
+          </p>
+          <p>
+            Utskottets justering 1994-05-17 Förslag till beslut: Bifall till
+            propositionen och avslag på motionerna. Debatt i kammaren 1994-06-03
+            Protokollsnhummer 1993/94:117 Riksdagens beslut: Bifall till utskottets
+            hemställan 1994-06-07 Protokollsnummer 1993/94:119 Riksdagsskrivelse
+            1993/94:416 Nr FiU2S Sammanställning av anslag på tilläggsbudget
+            våren 1994 Utskottets justering 1994-06-09
+          </p>
+          <p>
+            Förslag till beslut: Sammanställning av riksdagens beslut om
+            anslag på tilläggsbudget våren 1994.
+          </p>
+          <p>
+            Riksdagens beslut: Bifall till utskottets hemställan 1994-06-11
+            Protokollsnummer 1993/94:124 Riksdagsskrivelse 1993/94:460 Nr
+            FiU26 Räntor på statsskulden, m.m. (prop. 1993/94:150 bil. 1)
+            Utskottets justering 1994-06-10
+          </p>
+          <p>
+            Förslag till beslut: Bifall till propositionen med viss ändring
+            av inkomst- och utgiftsstaten rörande Räntor på statsskulden,
+          </p>
+          <p>
+            m.m. Riksdagens beslut: Bifall till utskottets hemställan 1994-06-11
+            Protokollsnummer 1993/94:124 Riksdagsskrivelse 1993/94:461 Nr
+            FiU27
+          </p>
+          <p>
+            Statsbudgetens inkomster för budgetåret 1994/95 (prop. 1993/94:150
+            bil. 1)
+          </p>
+          <p>
+            Utskottets justering 1994-06-10 Förslag till beslut: Delvis bifall
+            till propositionen. Riksdagens beslut: Bifall till utskottets
+            hemställan 1994-06-11 Protokollshummer 1993/94:124 Riksdagsskrivelse
+            1993/94:462 Nr FiU28
+          </p>
+          <p>
+            Statsbudgetens utgifter för budgetåret 1994/95 (prop. 1993/94:150
+            bil. 1)
+          </p>
+          <p>
+            Utskottets justering 1994-06-10 Förslag till beslut: Bifall till
+            propositionen. Riksdagens beslut: Bifall till utskottets hemställan
+            1994-06-11 Protokollsnummer 1993/94:124 Riksdagsskrivelse 1993/94:463
+          </p>
           <pb facs="riksdagen-volumeG-pdf/data/199394/reg_199394_FiU/reg_199394_FiU-007.pdf"/>
-          <p>Nr FiU29 Statsbudget för budgetåret 1994/95 Utskottets justering Förslag till beslut: Sammanställning av riksdagens beslut om anslag på statsbudgeten för budgetåret 1994/95. Riksdagens beslut: Bifall till utskottets hemställan Protokollsnhummer Riksdagsskrivelse</p>
-          <p>Yttranden till andra utskott</p>
-          <p>Nr FiUly till TU</p>
-          <p>1994-06-10</p>
-          <p>1994-06-11 1993/94:124 1993/94:464</p>
-          <p>Postlag och en förändrad verksamhetsform för Postverket,</p>
-          <p>m.m. (prop. 1993/94:38) Utskottets justering TU9 Riksdagens beslut: Återremiss TU11 (förnyad behandling) Riksdagens beslut Riksdagsskrivelse</p>
-          <p>Nr FiU2y till AU Arbetsmarknadspolitiska åtgärder för ungdomar och långtidsarbetslösa, m.m. (prop. 1993/94:66) Utskottets justering AUS Riksdagens beslut Riksdagsskrivelse</p>
-          <p>Nr FiU3y till AU En allmän och obligatorisk arbetslöshetsförsäkring (prop. 1993/94:80) Utskottets justering AU6 Riksdagens beslut Riksdagsskrivelse</p>
-          <p>Nr FiU4y till SkU Reformerad företagsbeskattning (prop. 1993/94:50) Utskottets justering SkU15 Riksdagens beslut Riksdagsskrivelse</p>
-          <p>1993-11-16</p>
-          <p>1993-12-16</p>
-          <p>1993-12-17 1993/94:119</p>
-          <p>1993-11-25</p>
-          <p>1993-12-16 1993/94:102</p>
-          <p>1993-11-25</p>
-          <p>1993-12-15 1993/94:101</p>
-          <p>1993-12-02</p>
-          <p>1993-12-16 1993/94:109</p>
-          <p>1993/94:FiU Reg.</p>
+          <p>
+            Nr FiU29 Statsbudget för budgetåret 1994/95 Utskottets justering
+            Förslag till beslut: Sammanställning av riksdagens beslut om anslag
+            på statsbudgeten för budgetåret 1994/95. Riksdagens beslut: Bifall
+            till utskottets hemställan Protokollsnhummer Riksdagsskrivelse
+          </p>
+          <p>
+            Yttranden till andra utskott
+          </p>
+          <p>
+            Nr FiUly till TU
+          </p>
+          <p>
+            1994-06-10
+          </p>
+          <p>
+            1994-06-11 1993/94:124 1993/94:464
+          </p>
+          <p>
+            Postlag och en förändrad verksamhetsform för Postverket,
+          </p>
+          <p>
+            m.m. (prop. 1993/94:38) Utskottets justering TU9 Riksdagens beslut:
+            Återremiss TU11 (förnyad behandling) Riksdagens beslut Riksdagsskrivelse
+          </p>
+          <p>
+            Nr FiU2y till AU Arbetsmarknadspolitiska åtgärder för ungdomar
+            och långtidsarbetslösa, m.m. (prop. 1993/94:66) Utskottets justering
+            AUS Riksdagens beslut Riksdagsskrivelse
+          </p>
+          <p>
+            Nr FiU3y till AU En allmän och obligatorisk arbetslöshetsförsäkring
+            (prop. 1993/94:80) Utskottets justering AU6 Riksdagens beslut
+            Riksdagsskrivelse
+          </p>
+          <p>
+            Nr FiU4y till SkU Reformerad företagsbeskattning (prop. 1993/94:50)
+            Utskottets justering SkU15 Riksdagens beslut Riksdagsskrivelse
+          </p>
+          <p>
+            1993-11-16
+          </p>
+          <p>
+            1993-12-16
+          </p>
+          <p>
+            1993-12-17 1993/94:119
+          </p>
+          <p>
+            1993-11-25
+          </p>
+          <p>
+            1993-12-16 1993/94:102
+          </p>
+          <p>
+            1993-11-25
+          </p>
+          <p>
+            1993-12-15 1993/94:101
+          </p>
+          <p>
+            1993-12-02
+          </p>
+          <p>
+            1993-12-16 1993/94:109
+          </p>
+          <p>
+            1993/94:FiU Reg.
+          </p>
           <pb facs="riksdagen-volumeG-pdf/data/199394/reg_199394_FiU/reg_199394_FiU-008.pdf"/>
-          <p>Nr FiUSy till SKU Vissa skattefrågor rörande livförsäkring (prop. 1993/94:85) Utskottets justering SkU16 Riksdagens beslut Riksdagsskrivelse</p>
-          <p>Nr FiU6y till SKU Oversyn av tjänsteinkomstbeskattningen, m.m. (prop. 1993/94:90) Utskottets justering SkU10 Riksdagens beslut Riksdagsskrivelse</p>
-          <p>Nr FiU7y till KU Regeringens behandling av riksdagens skrivelser (skriv. 1993/94:15) Utskottets justering KU30 = Till handlingarna Riksdagens beslut Riksdagsskrivelse</p>
-          <p>Nr FiU8y till KU En ombildning av arbetsgivarorganisationen för det statliga området (prop. 1993/94:77) Utskottets justering KU19 Riksdagens beslut Riksdagsskrivelse</p>
-          <p>Nr FiU9y till KU Konsekvensanalyser i propositioner Utskottets justering KU30 Riksdagens beslut Riksdagsskrivelse</p>
-          <p>Nr FiUl0y till AU</p>
-          <p>Arbetsmarknadspolitiska åtgärder inom den kommunala</p>
-          <p>sektorn Utskottets justering AU1l1l Riksdagens beslut Riksdagsskrivelse</p>
-          <p>1993-12-01</p>
-          <p>1993-12-16 1993/94:110</p>
-          <p>1993-12-01</p>
-          <p>1993-12-16 1993/94:104</p>
-          <p>1993-12-14</p>
-          <p>1994-05-25 1993/94:344</p>
-          <p>1994-02-24</p>
-          <p>1994-04-27 1993/94:264</p>
-          <p>1994-03-01</p>
-          <p>1994-05-25 1993/94:344</p>
-          <p>1994-03-01</p>
-          <p>1994-03-23 1993/94:189</p>
-          <p>1993/94:FiU Reg.</p>
+          <p>
+            Nr FiUSy till SKU Vissa skattefrågor rörande livförsäkring (prop.
+            1993/94:85) Utskottets justering SkU16 Riksdagens beslut Riksdagsskrivelse
+          </p>
+          <p>
+            Nr FiU6y till SKU Oversyn av tjänsteinkomstbeskattningen, m.m.
+            (prop. 1993/94:90) Utskottets justering SkU10 Riksdagens beslut
+            Riksdagsskrivelse
+          </p>
+          <p>
+            Nr FiU7y till KU Regeringens behandling av riksdagens skrivelser
+            (skriv. 1993/94:15) Utskottets justering KU30 = Till handlingarna
+            Riksdagens beslut Riksdagsskrivelse
+          </p>
+          <p>
+            Nr FiU8y till KU En ombildning av arbetsgivarorganisationen för
+            det statliga området (prop. 1993/94:77) Utskottets justering KU19
+            Riksdagens beslut Riksdagsskrivelse
+          </p>
+          <p>
+            Nr FiU9y till KU Konsekvensanalyser i propositioner Utskottets
+            justering KU30 Riksdagens beslut Riksdagsskrivelse
+          </p>
+          <p>
+            Nr FiUl0y till AU
+          </p>
+          <p>
+            Arbetsmarknadspolitiska åtgärder inom den kommunala
+          </p>
+          <p>
+            sektorn Utskottets justering AU1l1l Riksdagens beslut Riksdagsskrivelse
+          </p>
+          <p>
+            1993-12-01
+          </p>
+          <p>
+            1993-12-16 1993/94:110
+          </p>
+          <p>
+            1993-12-01
+          </p>
+          <p>
+            1993-12-16 1993/94:104
+          </p>
+          <p>
+            1993-12-14
+          </p>
+          <p>
+            1994-05-25 1993/94:344
+          </p>
+          <p>
+            1994-02-24
+          </p>
+          <p>
+            1994-04-27 1993/94:264
+          </p>
+          <p>
+            1994-03-01
+          </p>
+          <p>
+            1994-05-25 1993/94:344
+          </p>
+          <p>
+            1994-03-01
+          </p>
+          <p>
+            1994-03-23 1993/94:189
+          </p>
+          <p>
+            1993/94:FiU Reg.
+          </p>
           <pb facs="riksdagen-volumeG-pdf/data/199394/reg_199394_FiU/reg_199394_FiU-009.pdf"/>
-          <p>Nr FiUlly till KU Med anledning av Finansdepartementets promemoria om en ombildning av arbetsgivarorganisationen för det statliga området Utskottets justering KU19 Riksdagens beslut Riksdagsskrivelse</p>
-          <p>Nr FiUl2y till KrU Statlig garanti för anordnande av olympiska vinterspel i Sverige år 2002 (prop. 1993/94:240) Utskottets justering KrU35 Riksdagens beslut Riksdagsskrivelse</p>
-          <p>Nr FiUl3y till SfU Reformering av det allmänna pensionssystemet (prop. 1993/94:250) Utskottets justering SfU24 Riksdagens beslut Riksdagsskrivelse</p>
-          <p>1994-03-24</p>
-          <p>1994-04-27 1993/94:264</p>
-          <p>1994-05-05</p>
-          <p>1994-06-03 1993/94:413</p>
-          <p>1994-05-18</p>
-          <p>1994-06-08 1993/94:439</p>
-          <p>1993/94:FiU Reg.</p>
-          <p>10</p>
+          <p>
+            Nr FiUlly till KU Med anledning av Finansdepartementets promemoria
+            om en ombildning av arbetsgivarorganisationen för det statliga
+            området Utskottets justering KU19 Riksdagens beslut Riksdagsskrivelse
+          </p>
+          <p>
+            Nr FiUl2y till KrU Statlig garanti för anordnande av olympiska
+            vinterspel i Sverige år 2002 (prop. 1993/94:240) Utskottets justering
+            KrU35 Riksdagens beslut Riksdagsskrivelse
+          </p>
+          <p>
+            Nr FiUl3y till SfU Reformering av det allmänna pensionssystemet
+            (prop. 1993/94:250) Utskottets justering SfU24 Riksdagens beslut
+            Riksdagsskrivelse
+          </p>
+          <p>
+            1994-03-24
+          </p>
+          <p>
+            1994-04-27 1993/94:264
+          </p>
+          <p>
+            1994-05-05
+          </p>
+          <p>
+            1994-06-03 1993/94:413
+          </p>
+          <p>
+            1994-05-18
+          </p>
+          <p>
+            1994-06-08 1993/94:439
+          </p>
+          <p>
+            1993/94:FiU Reg.
+          </p>
+          <p>
+            10
+          </p>
           <pb facs="riksdagen-volumeG-pdf/data/199394/reg_199394_FiU/reg_199394_FiU-010.pdf"/>
-          <p>Sakregister</p>
-          <p>Akademikerpraktik ossmnmmssssssososorssesnsennrsennennrnsranrnrnnnrrnennnnn rna Alkohol- och drogpolitiska åtgärder, anslag till................. Allmänna försäkringskassor, anslag till AP-fondens placeringsrätt....................ssssssssosss0nsn0n Arbetsförmedlingen, förstärkning av ........s.sssssseereesosnrsnenene Arbetsgivarfrågor, Statliga ..................sososooso0sos0nsnnnnnnennnnnnnnnnn Arbetshandikappade, särskilda åtgärder för ....................-..- Arbetslöshetsförsäkringen .............s.sssssssssosseseroresonnennnnnrnnnnnnnn Arbetsmarknadsfonden s........ssssssessrsesrsrsrssrenrnnsnsnsnsnnnrnrnnnnnn Arbetsmarknadspolitik.............e.sssssessessssssesessesnesnnnnennsnnnnannrnr Arbetsmarknadspolitiska åtgärder akademikerpraktik s...ss.nsmssssssrssoosrnnennnennnnennennnnnnnnrnnn nan nan anslag till.msmssssssssssssnsnnnnnnnnnnnnnn nan arbetslivsutveckling, ALU arbetsmarknadspolitikens inriktning..................----------- bidrag till utbildning i företag.................ss-ssssssessnssrsnnr extra informationSinSsatSer .......ssssss.sssssssssssesnsnsnsnrnnnnnnennnn främjande av kvinnligt företagande ....................s.-.-.----- för ungdomar och långtidsarbetslösa..................--..---.-.- inom den kommunala sektorn s.......nmsssssessesernennennrnennnn nn otraditionella insatser för arbetshandikappade............- rekryteringsstöd för högskoleutbildade ..................------- rekryteringsstödet, flexiblare användning av ................ skyddat arbete hos offentliga arbetsgivare ..................... ungdomsarbetslöshet ...............sessessessssesesresonssrnnnnnnnnnnnn rann ungdomspraktik.........ssssssssssessensoresranrennernnnsnannnannnnnnen anna nen Arbetsmarknadsverkets förvaltningskostnader, anslag till. Atle och Bure, avyttring äV smumsnmmsssessessrerearersrrnnnnrnnnnnnnnnnn rna Avvecklingskommission, statlig .....n.ns.sssssssssnsnrorenennanerenenene</p>
-          <p>Banksparande på ungdomskonton, skatterabatt på............ Bemyndiganden justering av anslag för grundutbildning, forskarutbildning och forskning .............s=sssssssssserssrnn lån för statliga investeringar .................ssssessororornenennnnnnnn statlig UPPlåNinNg s..msssssrsrernsrsrsesennsnsernsrsrnerenerennrrnnnnnn nonan Beredskapslager, försäljning av olja från.................-....------- Bildmuseet i UMCå....ssnnssnsessrnsenrennenrnnrnnrnsrrnnrnnnnnrnsnnsnnnnnnnnnnnnn BingOSkatt...........ossosessssosnennenneesennenrennennenrersenennnrrenrnnern rn nero n rn nn BlandbränsSlen s.somsmsssssssenrerenrsrernenrnnenereensrerersrenerennenerrnnnrnnnnnnn Bofond för finansiering av räntebidrag ...............ssssssssesesr0&gt; Bonusränta för ungdomsbosparande, anslag till................. BostadssubventiOner......s.sssssssssersrerereneerenrrrenrrrrnnrenennnnrnnnnn rann Budgetpolitiken, riktlinjer fÖr...........sssssssssssseressssrsnrenrsnennnnnn</p>
-          <p>20</p>
-          <p>20</p>
-          <p>1993/94:FiU Reg.</p>
-          <p>11</p>
+          <p>
+            Sakregister
+          </p>
+          <p>
+            Akademikerpraktik ossmnmmssssssososorssesnsennrsennennrnsranrnrnnnrrnennnnn
+            rna Alkohol- och drogpolitiska åtgärder, anslag till.................
+            Allmänna försäkringskassor, anslag till AP-fondens placeringsrätt....................ssssssssosss0nsn0n
+            Arbetsförmedlingen, förstärkning av ........s.sssssseereesosnrsnenene
+            Arbetsgivarfrågor, Statliga ..................sososooso0sos0nsnnnnnnennnnnnnnnnn
+            Arbetshandikappade, särskilda åtgärder för ....................-..-
+            Arbetslöshetsförsäkringen .............s.sssssssssosseseroresonnennnnnrnnnnnnnn
+            Arbetsmarknadsfonden s........ssssssessrsesrsrsrssrenrnnsnsnsnsnnnrnrnnnnnn
+            Arbetsmarknadspolitik.............e.sssssessessssssesessesnesnnnnennsnnnnannrnr
+            Arbetsmarknadspolitiska åtgärder akademikerpraktik s...ss.nsmssssssrssoosrnnennnennnnennennnnnnnnrnnn
+            nan nan anslag till.msmssssssssssssnsnnnnnnnnnnnnnn nan arbetslivsutveckling,
+            ALU arbetsmarknadspolitikens inriktning..................-----------
+            bidrag till utbildning i företag.................ss-ssssssessnssrsnnr
+            extra informationSinSsatSer .......ssssss.sssssssssssesnsnsnsnrnnnnnnennnn
+            främjande av kvinnligt företagande ....................s.-.-.-----
+            för ungdomar och långtidsarbetslösa..................--..---.-.-
+            inom den kommunala sektorn s.......nmsssssessesernennennrnennnn
+            nn otraditionella insatser för arbetshandikappade............-
+            rekryteringsstöd för högskoleutbildade ..................-------
+            rekryteringsstödet, flexiblare användning av ................
+            skyddat arbete hos offentliga arbetsgivare .....................
+            ungdomsarbetslöshet ...............sessessessssesesresonssrnnnnnnnnnnnn
+            rann ungdomspraktik.........ssssssssssessensoresranrennernnnsnannnannnnnnen
+            anna nen Arbetsmarknadsverkets förvaltningskostnader, anslag till.
+            Atle och Bure, avyttring äV smumsnmmsssessessrerearersrrnnnnrnnnnnnnnnnn
+            rna Avvecklingskommission, statlig .....n.ns.sssssssssnsnrorenennanerenenene
+          </p>
+          <p>
+            Banksparande på ungdomskonton, skatterabatt på............ Bemyndiganden
+            justering av anslag för grundutbildning, forskarutbildning och
+            forskning .............s=sssssssssserssrnn lån för statliga investeringar
+            .................ssssessororornenennnnnnnn statlig UPPlåNinNg
+            s..msssssrsrernsrsrsesennsnsernsrsrnerenerennrrnnnnnn nonan Beredskapslager,
+            försäljning av olja från.................-....------- Bildmuseet
+            i UMCå....ssnnssnsessrnsenrennenrnnrnnrnsrrnnrnnnnnrnsnnsnnnnnnnnnnnnn
+            BingOSkatt...........ossosessssosnennenneesennenrennennenrersenennnrrenrnnern
+            rn nero n rn nn BlandbränsSlen s.somsmsssssssenrerenrsrernenrnnenereensrerersrenerennenerrnnnrnnnnnnn
+            Bofond för finansiering av räntebidrag ...............ssssssssesesr0&gt;
+            Bonusränta för ungdomsbosparande, anslag till.................
+            BostadssubventiOner......s.sssssssssersrerereneerenrrrenrrrrnnrenennnnrnnnnn
+            rann Budgetpolitiken, riktlinjer fÖr...........sssssssssssseressssrsnrenrsnennnnnn
+          </p>
+          <p>
+            20
+          </p>
+          <p>
+            20
+          </p>
+          <p>
+            1993/94:FiU Reg.
+          </p>
+          <p>
+            11
+          </p>
           <pb facs="riksdagen-volumeG-pdf/data/199394/reg_199394_FiU/reg_199394_FiU-011.pdf"/>
-          <p>Byggnadsstyrelsen avvecklingskostnader, anslag till..........s..ss.sssosssosssssorsnsnr egenregiverksamheten, avveckling aV............................</p>
-          <p>Centrala studiestödsnämnden m.m., anslag till ..................</p>
-          <p>Direktavskrivningar av investeringar s...msm.ossosseseorenesnennnnnnn 1, 10, 20, Dramatiska institutet: Grundutbildning, anslag till........... Drift- och kapitalbudget...............ssssosssessesesrsornerrssnesrsnrernnnnnnnnn Drivmedelsskatter ............ss.sssssssosesnersersrerreresresrenresrernrarnnnrnnn nr DryckesSkatt .........ss.ssoossossonnnsnensrrsrnnnnnrerernrrerrrnrnrrrnrrrnnnnrnnnn rna nn</p>
-          <p>EES-avtalet, informationstjänster inom ramen för ............ EFTA:s fond för ekonomisk och social utjämning, anslag till..smsmssssssssossosseserresrrsrerrrsrrrrrrerrsnrrrrrrenrrrrsr rr ennen nn nn Egenregiverksamhet, lagreglering av offentliga sektorns... 5, Egenregiverksamhet, avveckling av Byggnadsstyrelsens .... Ekonomisk brottslighet...............o.ssssssossssseossrsesnsenennnnnnnnnnnnnnn Ekonomiska politiken, riktlinjer fÖr.................seesssssessses00n2 1, 10, Ekonomiska utvecklingen, bedömningen aV...................... 1, 10 Ekonomiskt bistånd, nedsättning av ............s.e.sseessesosososnena Energiskatter s....s.ssssssssesseosnerresnosreerersrrerrrsrerrerrrrnrernnerennennan nanna Entreprenörutbildning vid högskolan i Karlstad ............... Ersättning till kommunerna för åtgärder för flyktingar m.m., anslag till..smosmsssssssssesseersesernesrrresrrerrrerrrnerrrnrrnnennn nns Etikens betydelse för den ekonomiska utvecklingen ......... EU allmänt oooososssesessrsersrersrenrrnsrrnerrerr enar er rrerer enn rnr sr resan nr rr rann nnn 1, 10, avgift, fiNanSieriNg AV .smommmsssesssserreensreseeseenenrerrennennnnen nanna nn konvergenSkräVveD.....sessssesssessersrererererenrrnrsnnnnranrnnnnnnn rna n nn nn</p>
-          <p>F-skatt, ändrad uppbÖörd aV......ssessssessersrerrererserrrrrsennarnenennan rna Fastighetsförvaltning och lokalförsörjning...................---.--- Fastighetsskatt ........sosoosssoreesneosssresrrorerrrrerrnerrrerrrrrrrrererrnsnrrn nn Finansdepartementet aNSlag tillosososssssssesessesrersrerrrereenrerrrrrrrernsresrsnrrrrererrnnren rn nn nn 8, Finansfullmakten.....smsssssssesseseesenrenenrenneneerenenennrnnnnrnen enas nen nn Finansiella derivåt s..nnnnnmsssssssssssssssesessnranersrsnrsennnennnernnnnnen rann anna 10, Flyktingar, ersättning till kommunerna fÖr.................ss----- Folkbildningen, anslag till....sosmmmsssesssssersrersrrsnennnnnnnnnnonnnnn nns Forskarutbildning och forskning, anslag till....................... Forskning, justering av anslagen för grundutbildning samt forskarutbildning och forskning Framtidsfond, inrättande av s..smmmmssssssrssrrsrresrrrrrnrrrresrrnrnrrrrnnnnn 10, Framtidsgrupp om ekonomi och arbetsmarknad............... Fritidsbebyggelsens kostnader, finansiering av ................... Funktionshindrade skolungdomar, studie- och yrkesval... Företag, bidrag till utbildning i.........s..ssssssssessesssseasensennnnennnn Företagsbeskattningen, reformering aV..........sssssssssroneseanennan</p>
-          <p>13 13</p>
-          <p>20</p>
-          <p>4y 20 10 1 1</p>
-          <p>1993/94:FiU Reg.</p>
-          <p>12</p>
+          <p>
+            Byggnadsstyrelsen avvecklingskostnader, anslag till..........s..ss.sssosssosssssorsnsnr
+            egenregiverksamheten, avveckling aV............................
+          </p>
+          <p>
+            Centrala studiestödsnämnden m.m., anslag till ..................
+          </p>
+          <p>
+            Direktavskrivningar av investeringar s...msm.ossosseseorenesnennnnnnn
+            1, 10, 20, Dramatiska institutet: Grundutbildning, anslag till...........
+            Drift- och kapitalbudget...............ssssosssessesesrsornerrssnesrsnrernnnnnnnnn
+            Drivmedelsskatter ............ss.sssssssosesnersersrerreresresrenresrernrarnnnrnnn
+            nr DryckesSkatt .........ss.ssoossossonnnsnensrrsrnnnnnrerernrrerrrnrnrrrnrrrnnnnrnnnn
+            rna nn
+          </p>
+          <p>
+            EES-avtalet, informationstjänster inom ramen för ............
+            EFTA:s fond för ekonomisk och social utjämning, anslag till..smsmssssssssossosseserresrrsrerrrsrrrrrrerrsnrrrrrrenrrrrsr
+            rr ennen nn nn Egenregiverksamhet, lagreglering av offentliga
+            sektorns... 5, Egenregiverksamhet, avveckling av Byggnadsstyrelsens
+            .... Ekonomisk brottslighet...............o.ssssssossssseossrsesnsenennnnnnnnnnnnnnn
+            Ekonomiska politiken, riktlinjer fÖr.................seesssssessses00n2
+            1, 10, Ekonomiska utvecklingen, bedömningen aV......................
+            1, 10 Ekonomiskt bistånd, nedsättning av ............s.e.sseessesosososnena
+            Energiskatter s....s.ssssssssesseosnerresnosreerersrrerrrsrerrerrrrnrernnerennennan
+            nanna Entreprenörutbildning vid högskolan i Karlstad ...............
+            Ersättning till kommunerna för åtgärder för flyktingar m.m., anslag
+            till..smosmsssssssssesseersesernesrrresrrerrrerrrnerrrnrrnnennn
+            nns Etikens betydelse för den ekonomiska utvecklingen .........
+            EU allmänt oooososssesessrsersrersrenrrnsrrnerrerr enar er rrerer
+            enn rnr sr resan nr rr rann nnn 1, 10, avgift, fiNanSieriNg AV
+            .smommmsssesssserreensreseeseenenrerrennennnnen nanna nn konvergenSkräVveD.....sessssesssessersrererererenrrnrsnnnnranrnnnnnnn
+            rna n nn nn
+          </p>
+          <p>
+            F-skatt, ändrad uppbÖörd aV......ssessssessersrerrererserrrrrsennarnenennan
+            rna Fastighetsförvaltning och lokalförsörjning...................---.---
+            Fastighetsskatt ........sosoosssoreesneosssresrrorerrrrerrnerrrerrrrrrrrererrnsnrrn
+            nn Finansdepartementet aNSlag tillosososssssssesessesrersrerrrereenrerrrrrrrernsresrsnrrrrererrnnren
+            rn nn nn 8, Finansfullmakten.....smsssssssesseseesenrenenrenneneerenenennrnnnnrnen
+            enas nen nn Finansiella derivåt s..nnnnnmsssssssssssssssesessnranersrsnrsennnennnernnnnnen
+            rann anna 10, Flyktingar, ersättning till kommunerna fÖr.................ss-----
+            Folkbildningen, anslag till....sosmmmsssesssssersrersrrsnennnnnnnnnnonnnnn
+            nns Forskarutbildning och forskning, anslag till.......................
+            Forskning, justering av anslagen för grundutbildning samt forskarutbildning
+            och forskning Framtidsfond, inrättande av s..smmmmssssssrssrrsrresrrrrrnrrrresrrnrnrrrrnnnnn
+            10, Framtidsgrupp om ekonomi och arbetsmarknad...............
+            Fritidsbebyggelsens kostnader, finansiering av ...................
+            Funktionshindrade skolungdomar, studie- och yrkesval... Företag,
+            bidrag till utbildning i.........s..ssssssssessesssseasensennnnennnn
+            Företagsbeskattningen, reformering aV..........sssssssssroneseanennan
+          </p>
+          <p>
+            13 13
+          </p>
+          <p>
+            20
+          </p>
+          <p>
+            4y 20 10 1 1
+          </p>
+          <p>
+            1993/94:FiU Reg.
+          </p>
+          <p>
+            12
+          </p>
           <pb facs="riksdagen-volumeG-pdf/data/199394/reg_199394_FiU/reg_199394_FiU-012.pdf"/>
-          <p>Företagsutbildning..........sososoressosrsrororrsenersrnsrsrrsrnersrrrrnsrnsrnennrnnn 20 1993/94:FiU Reg.</p>
-          <p>Försäkringskassor, allmänna smmmmmsssssssesssesrrsernenenrrnsnnnnnenen nn nn nn 20 Förtidspensioner, anslag till s..msmmsmms.s.sssssesosseesensenerrennsnrnnnnn nan 20 Garantier, Statliga s...sssssssoseesresresrenrereerrrererrererrerrerrrrernnren nen nn nn 10, 11, 12, 20, 21, 12y Generationsräkenskaper s...s.msssssssssessesenrenenenenrnnenensnnnenen nanna nn 15 Grundutbildning justering av anslagen för grundutbildning samt forskarutbildning och forskning ..........e.sessesssrorsesrsrsrsrnr 10 vid Dramatiska institutet, anslag till 20 vid Göteborgs universitet, anslag till ons 20 vid Karolinska institutet, anslag till..........................-.-.- 20 vid Lunds universitet, anslag till............s.s.sssssssss0s0nnnnn an 20 vid Umeå universitet, anslag till ...................s..ososo0000000 20 vid Uppsala universitet, anslag till.......................s.s000-0&gt; 20 GymnasieskOlal........sssssosssseeresreerenrerrrnrrerrererrerrsrnrerernsn ennen eran nn 20 Göteborgs universitet Grundutbildning, anslag till............s.ssssessessesesessenesnnnnnnan 20 odontologiska fakultetsanslaget 20 Hearing med Riksbankschefen ...............ssssssosessessssesneneenennnnn 20 Högskolan i Karlstad .....ssssomsesssesseeseresserereerrersrernrerrrrnarrnnrnnnnnn 20 Högskolor och universitet, anslag till vissa särskilda UPPgÅfter ossossneeseseeresrerrrrnrerrerrererrerrrrrrerrererresnrnnenrsnenrnn ennen rna 20 Idrott, Tipstjänst, stöd tillsss.....ss.....sesssessessersseserssrerrrrnrrnrnn nn nn 24 Institutionernas betydelse för den ekonomiska politiken.. 10 Internationella betalningssystemet ..................s.sssssnssennnnnnennnn 10 Internationellt samarbete för tillväxt .... 1, 10, 20 InvandrarfrågOr s......s.ssssssersorereorererenrsrenrerenrersrrrennenenerenerennnrnnnn 20 Jämställd hetsstatistik s..ssnnnsnssssssssseseresnresrerenrsennerrerrrnennnnerrnnnn nan 15 Kammarkollegiet, anslag till............s..essssssssorsenresennnnennnnnnnnnn 7 KapitalbeskattninNg...........s.sesssseossoesesresoenenesrsrerenrsrererenennnr nn nns 1, 10, 20 Karolinska institutet: Grundutbildning, anslag till............ 20 KaSiNOSPECL ooooesesesesesrerersesenrernesrrnenrerenenrannanen ner enen ennen en ennen en enn n nn nn 24 Koldioxidskatt 1, 20 Kollektivavtal, kostnader till följd av lly Kommission om samhällsekonOmin s......sssssssseseresesenennnsnnnn 10 KommunakuUt....oosnnssessersrrererssseessrernrrerrrrenerrrrrrrrrrererrrrrrrrrrrr rna 10, 19 Kommunalekonomiska frågor arbetsmarknadspolitiska åtgärder ...............s.ssssessss0n0n0nn 1, 10, 20, 10y bidragssystemet, ÖVErSyl QV su.ssmmmssessoesesrsensennenernennnnennnnnn an 19 ekonomiska regleringar mellan staten och KOMMUNEINA sosssesesreereerrerrssrerersrerrrrrrerrrrennrnn en nenen senere nen nan 2,19 fastighetsskatt ....n.nnsnssssosossssressorernennennrrrnrrennrn ennen nn nns n nn nnn 19</p>
-          <p>finansieringsprincipens tillämpninNg................s.sssssss---- 19</p>
-          <p>13</p>
+          <p>
+            Företagsutbildning..........sososoressosrsrororrsenersrnsrsrrsrnersrrrrnsrnsrnennrnnn
+            20 1993/94:FiU Reg.
+          </p>
+          <p>
+            Försäkringskassor, allmänna smmmmmsssssssesssesrrsernenenrrnsnnnnnenen
+            nn nn nn 20 Förtidspensioner, anslag till s..msmmsmms.s.sssssesosseesensenerrennsnrnnnnn
+            nan 20 Garantier, Statliga s...sssssssoseesresresrenrereerrrererrererrerrerrrrernnren
+            nen nn nn 10, 11, 12, 20, 21, 12y Generationsräkenskaper s...s.msssssssssessesenrenenenenrnnenensnnnenen
+            nanna nn 15 Grundutbildning justering av anslagen för grundutbildning
+            samt forskarutbildning och forskning ..........e.sessesssrorsesrsrsrsrnr
+            10 vid Dramatiska institutet, anslag till 20 vid Göteborgs universitet,
+            anslag till ons 20 vid Karolinska institutet, anslag till..........................-.-.-
+            20 vid Lunds universitet, anslag till............s.s.sssssssss0s0nnnnn
+            an 20 vid Umeå universitet, anslag till ...................s..ososo0000000
+            20 vid Uppsala universitet, anslag till.......................s.s000-0&gt;
+            20 GymnasieskOlal........sssssosssseeresreerenrerrrnrrerrererrerrsrnrerernsn
+            ennen eran nn 20 Göteborgs universitet Grundutbildning, anslag
+            till............s.ssssessessesesessenesnnnnnnan 20 odontologiska
+            fakultetsanslaget 20 Hearing med Riksbankschefen ...............ssssssosessessssesneneenennnnn
+            20 Högskolan i Karlstad .....ssssomsesssesseeseresserereerrersrernrerrrrnarrnnrnnnnnn
+            20 Högskolor och universitet, anslag till vissa särskilda UPPgÅfter
+            ossossneeseseeresrerrrrnrerrerrererrerrrrrrerrererresnrnnenrsnenrnn
+            ennen rna 20 Idrott, Tipstjänst, stöd tillsss.....ss.....sesssessessersseserssrerrrrnrrnrnn
+            nn nn 24 Institutionernas betydelse för den ekonomiska politiken..
+            10 Internationella betalningssystemet ..................s.sssssnssennnnnnennnn
+            10 Internationellt samarbete för tillväxt .... 1, 10, 20 InvandrarfrågOr
+            s......s.ssssssersorereorererenrsrenrerenrersrrrennenenerenerennnrnnnn
+            20 Jämställd hetsstatistik s..ssnnnsnssssssssseseresnresrerenrsennerrerrrnennnnerrnnnn
+            nan 15 Kammarkollegiet, anslag till............s..essssssssorsenresennnnennnnnnnnnn
+            7 KapitalbeskattninNg...........s.sesssseossoesesresoenenesrsrerenrsrererenennnr
+            nn nns 1, 10, 20 Karolinska institutet: Grundutbildning, anslag
+            till............ 20 KaSiNOSPECL ooooesesesesesrerersesenrernesrrnenrerenenrannanen
+            ner enen ennen en ennen en enn n nn nn 24 Koldioxidskatt 1, 20
+            Kollektivavtal, kostnader till följd av lly Kommission om samhällsekonOmin
+            s......sssssssseseresesenennnsnnnn 10 KommunakuUt....oosnnssessersrrererssseessrernrrerrrrenerrrrrrrrrrererrrrrrrrrrrr
+            rna 10, 19 Kommunalekonomiska frågor arbetsmarknadspolitiska åtgärder
+            ...............s.ssssessss0n0n0nn 1, 10, 20, 10y bidragssystemet,
+            ÖVErSyl QV su.ssmmmssessoesesrsensennenernennnnennnnnn an 19 ekonomiska
+            regleringar mellan staten och KOMMUNEINA sosssesesreereerrerrssrerersrerrrrrrerrrrennrnn
+            en nenen senere nen nan 2,19 fastighetsskatt ....n.nnsnssssosossssressorernennennrrrnrrennrn
+            ennen nn nns n nn nnn 19
+          </p>
+          <p>
+            finansieringsprincipens tillämpninNg................s.sssssss----
+            19
+          </p>
+          <p>
+            13
+          </p>
           <pb facs="riksdagen-volumeG-pdf/data/199394/reg_199394_FiU/reg_199394_FiU-013.pdf"/>
-          <p>fritidsbebyggelsens kostnader, finansiering av ............. 19 1993/94:FiU Reg.</p>
-          <p>kommunakut s..ssssmssseesrrsssrssnsenennnnnnrrnrrsnnnesnnrrnnsrrnnn enn rnn nn 19 kommunala ekonomin 1994—1999 = mmsmmmmmssssrseresnsnnr 19 kyrkliga kommuner, utbetalning av skatt till..............- 19 långtidsarbetslÖSaå ........ssssssssssssssrorsrsrsnrrsnrrsnsnenensnsnsrnnnrnene nn 1, 10, 20, 2y skatteutjämningsbidrag till landsting, anslag till .......... 19 slutavräkning av kommunalskattemedel..................-.--- 2 statligt utjämningsbidrag till kommuner, anslag till.... 19 statsbidragssystem, bidrag vid införande av nytt SYS oossesseseseesnennennennennr nn rann - 19 storstädernas ekonomi 19 think tanks, inrättande aV....sssmmsoossooosrereserrerenrnnrrrrnnrnnn nn nn 19 ungdomsarbetslöshet ......ssssssossnssrsnsererennenenennnnsnennnennnnn nn 2y Kompetensutveckling på det statligt reglerade området, anslag till...mossssssssssssesesrnennnnenennnrnnnnerenener ennen enn rnrn nn rn nn en enn 20 KOMVUX oussorsererreerrrerrrerrrernarrrnrerrserannnennn ers n rr rer nen nsn ennen nen nen nt 20 Konjunkturinstitutet övergripande målsättning fÖr ..............s.sssssssssessssssrrnar 8 Konkurrensneutralitet i offentlig verksamhet ...................- 18 Konsekvensanalyser av privatiseringar ..........osesesessesssonnnnnn 16 Konsekvensanalyser i propositioner ........e.sesessosossrerenennnrnnn 9y Konsekvensbeskrivningar av uttalanden som innehåller politiska ambitiOner....smmmsssssessesnenrennenrennennennenrnrnrnennnnnn nan 5 Kostnader för vissa nämnder m.m., anslag till ..................- 8, 11 Kreditgarantier, Statliga ..........s..ssossosesseoseoneonesnnsnnsnrnnennnnnnnnn nn 10, 20, 12y Kreditpolitiken omsmnmsssesesrereeresnerennenrarnennrseneanenrnnsnenrnnenenenen rann nn 1, 10, 20 Kungliga slotten och rikets fästningar, anslag till reStaUreriNgal.ssossssssesseesrrnsernnennrsrerserrennnnnrnnnsn enn nn renen nen 13 Kvinnligt företagande, främjande av.s....sssereresesesrsresenennnnnnn 20 Livförsäkring, skattefrågor rörande s.............ssssssssssssssnsnsnnnnr 5y Lokalkostnader justering av Vissa anSläg s.smmmsssssssssesenennannnnsnenrsnenenennnnnnn nn 20 täckning av merkostnader för, anslag till...................-.- 13 Lotteriskatt .....v.csssoosorsesrenennenrernerrerrernennrrrnrenenn nn en rn snar en nn enn renen nn 24 Lunds universitet: Grundutbildning, anslag till................. 20 LåginkomstutredninNg .........sessssssssssrsesersrnnrnnrnnennnnsrnnnnsrnnnnn rna 20 Lånebehov, StätelS.............s.ssssssssossoeoosoreneoenesrenesrerereresrrrrnnn nn 10, 20 LångtidsarbetSslöSsa ...............s.ssssssesesrsrsnsnnnnrnnnn 1, 10, 20, 2y Läkarutbildningen, dimensioneringen av 20 LÖNEbidrag smessnsnesrersesrererrererrerrernerrrrnnrnenserennnnrn ennen enn nrnsn enn r rn n enn 20 LönegarantifOonden ssmmmeeseesesresernsnenrenesnenenrerennenenenen enn nrnen nn 20 Löner och pensioner merutgift på aNSlag .......ssssssossronnesnsnenenrnsnsnenenernrnnsnnnrnnnnrn nn 8y, 1ly principer för beräkning av anslag för täckning av merkOStnNader s..ssmmmnseseseserrerrrsrnnrrerersrrrrsnr enes n nen n ren nr rna nerna lly täckning av merkostnader för, anslag till..................---- 20</p>
-          <p>14</p>
+          <p>
+            fritidsbebyggelsens kostnader, finansiering av .............
+            19 1993/94:FiU Reg.
+          </p>
+          <p>
+            kommunakut s..ssssmssseesrrsssrssnsenennnnnnrrnrrsnnnesnnrrnnsrrnnn
+            enn rnn nn 19 kommunala ekonomin 1994—1999 = mmsmmmmmssssrseresnsnnr
+            19 kyrkliga kommuner, utbetalning av skatt till..............-
+            19 långtidsarbetslÖSaå ........ssssssssssssssrorsrsrsnrrsnrrsnsnenensnsnsrnnnrnene
+            nn 1, 10, 20, 2y skatteutjämningsbidrag till landsting, anslag
+            till .......... 19 slutavräkning av kommunalskattemedel..................-.---
+            2 statligt utjämningsbidrag till kommuner, anslag till.... 19
+            statsbidragssystem, bidrag vid införande av nytt SYS oossesseseseesnennennennennr
+            nn rann - 19 storstädernas ekonomi 19 think tanks, inrättande
+            aV....sssmmsoossooosrereserrerenrnnrrrrnnrnnn nn nn 19 ungdomsarbetslöshet
+            ......ssssssossnssrsnsererennenenennnnsnennnennnnn nn 2y Kompetensutveckling
+            på det statligt reglerade området, anslag till...mossssssssssssesesrnennnnenennnrnnnnerenener
+            ennen enn rnrn nn rn nn en enn 20 KOMVUX oussorsererreerrrerrrerrrernarrrnrerrserannnennn
+            ers n rr rer nen nsn ennen nen nen nt 20 Konjunkturinstitutet
+            övergripande målsättning fÖr ..............s.sssssssssessssssrrnar
+            8 Konkurrensneutralitet i offentlig verksamhet ...................-
+            18 Konsekvensanalyser av privatiseringar ..........osesesessesssonnnnnn
+            16 Konsekvensanalyser i propositioner ........e.sesessosossrerenennnrnnn
+            9y Konsekvensbeskrivningar av uttalanden som innehåller politiska
+            ambitiOner....smmmsssssessesnenrennenrennennennenrnrnrnennnnnn
+            nan 5 Kostnader för vissa nämnder m.m., anslag till ..................-
+            8, 11 Kreditgarantier, Statliga ..........s..ssossosesseoseoneonesnnsnnsnrnnennnnnnnnn
+            nn 10, 20, 12y Kreditpolitiken omsmnmsssesesrereeresnerennenrarnennrseneanenrnnsnenrnnenenenen
+            rann nn 1, 10, 20 Kungliga slotten och rikets fästningar, anslag
+            till reStaUreriNgal.ssossssssesseesrrnsernnennrsrerserrennnnnrnnnsn
+            enn nn renen nen 13 Kvinnligt företagande, främjande av.s....sssereresesesrsresenennnnnnn
+            20 Livförsäkring, skattefrågor rörande s.............ssssssssssssssnsnsnnnnr
+            5y Lokalkostnader justering av Vissa anSläg s.smmmsssssssssesenennannnnsnenrsnenenennnnnnn
+            nn 20 täckning av merkostnader för, anslag till...................-.-
+            13 Lotteriskatt .....v.csssoosorsesrenennenrernerrerrernennrrrnrenenn
+            nn en rn snar en nn enn renen nn 24 Lunds universitet: Grundutbildning,
+            anslag till................. 20 LåginkomstutredninNg .........sessssssssssrsesersrnnrnnrnnennnnsrnnnnsrnnnnn
+            rna 20 Lånebehov, StätelS.............s.ssssssssossoeoosoreneoenesrenesrerereresrrrrnnn
+            nn 10, 20 LångtidsarbetSslöSsa ...............s.ssssssesesrsrsnsnnnnrnnnn
+            1, 10, 20, 2y Läkarutbildningen, dimensioneringen av 20 LÖNEbidrag
+            smessnsnesrersesrererrererrerrernerrrrnnrnenserennnnrn ennen enn
+            nrnsn enn r rn n enn 20 LönegarantifOonden ssmmmeeseesesresernsnenrenesnenenrerennenenenen
+            enn nrnen nn 20 Löner och pensioner merutgift på aNSlag .......ssssssossronnesnsnenenrnsnsnenenernrnnsnnnrnnnnrn
+            nn 8y, 1ly principer för beräkning av anslag för täckning av merkOStnNader
+            s..ssmmmnseseseserrerrrsrnnrrerersrrrrsnr enes n nen n ren nr
+            rna nerna lly täckning av merkostnader för, anslag till..................----
+            20
+          </p>
+          <p>
+            14
+          </p>
           <pb facs="riksdagen-volumeG-pdf/data/199394/reg_199394_FiU/reg_199394_FiU-014.pdf"/>
-          <p>Mervärdesskatt s....ssnsmssesesnensensnsnenrrannnnnnnnerrsnnnnannenrsrenennerenen rena nn 1,20 1993/94:FiU Reg.</p>
-          <p>Miljömålen för den ekonomiska politiken ........................- 10 MiljöpOlitiken s..ssssesssssrorsesrnennsrsrsernennennenenenenennnnnnnsnnennnnnn nanna nn 10, 20 MiljöräkenSkaper.....sssssssossersseeronrnsernnnrrrsnnsnrnnrrrrnnennrnnsn rann nan 15 Museer, bidrag till vissa, anslag till........s..ss.ssssssssssssesssnsnnnnnn 20 Museiväsendet, statens stöd till.........s..ssssssssssesssssesererernnnenn nn 3 Myndigheters internationalisering.............s-ssssssssssrsssssnnnnnnna 10 Myntreform 14 Naturresurs- och miljöräkenskaper s........sssssssssseneonsnnnnnnnnnnn 15 Nordiska investeringsbanken, höjning av grundkapitalet, anslag till.......ss..ss.-s.sssssssssrsensennsnnnnnnnnnnen 8 Nordiska projektinvesteringslån, garantiramen för............ 21 Nämnden för offentlig upphandling, anslag till................. 8,18 Odontologiska fakultetsanslaget vid Göteborgs UNIVEFrSItet oosssssseseeserresnrnrerrsenrenrrarsnnrrsrenrenr ran renen enn renen nn nana 20 Offentlig sektor, vissa strukturfrågor inom 16 Offentlig upphandling........ssssssessessessesserseseenenerrsnsnnnsnnnnnrnn noen 4,5, 8, 18, 22 Offentlig utfrågning med Riksbankschefen .......................- 20 Offentliga sektorns egenregiverksamhet, lagreglering av... 5,22 Offentliga sektorns finanser, Sanering äV s....s...e.sssssnsnnnsnna 1, 10, 20 Oförutsedda utgifter, anslag till...............ssssssssssssssesesersssnnnne 23 Olympiska spel, statlig garanti fÖr s.........s.sssssssssensnenenennnnnn 12y OrganisationSStÖd s......sesseessrersesseressserrrrersrnerrnrrernnrrsennnnnennnnnnn nns 10, 20 Otillbörligt beteende vid offentlig upphandling................. 5, 22 Penningpolitiken s.smmmmsssesseenrereneesrrnrsrrsrrrrrrannrnranenen rn nnn en eran nn 1, 10, 20 Pensionsersättningar, finansiering av 8y, 1ly, 12y, 13y PenSionsSparandet.....sssssesesseesessenrernrransnnerrrnnennnrnennenennn renen en en nn Sy Pensionssystemet, reformering äv s....mmmmmsessssssernrennenrennnnnnn anna 13y POStgILO oosoossererereerrrrrrerrerrrrrnnrnnnerernnrr nr rn rann ren sn sann n ennen nere sn ennen renen ly POStläg oooeseesserseserernrerrerrerrrernerrrrerrerrrrrrrnarnrrrnnnr rn nran sense annan nen nen nn ly Postverket, förändrad verksamhetsfOrm ............sesssssssesrsrnn ly Prisindex korrigering för dryckes- och tobaksskatt....................... 1 tOtaliNCeX....ssessesesesersesnesnnarerrnernnnnnnnnrnnernnnnn nn enn 15 Privatisering, kartläggning och analys 5, 16 Punktskatter ........s.sssossoseessrassnasrennrrennnnnnnrrnnnennnnrnrrnnennennsn ran en nn 1 Ramanslag, merutgifter UNCL ..mmmmmsesrssreserreseernenenrnrnenennnrnnrnn lly RekryteringsStÖd s.....ssesssssssenennorneneseeneenesrernernenesnsnerrnrnrnsrnrnrnnnn 20 Restaureringsarbeten vid kungliga slott och fästningar, ANSlag till.ossossssssersessrereeesrrrrrernrrrnrnnrnrrrnrrrnnrrnnernrnn en nrn ren nn non 13 SC AVES TOM 4 RR 3, 9, 10, 17 Riksbanken ansvarsfrihet för förvaltningen .........sssessseeseeresesesserennnnnen 14 balans- och resultaträkningar, fastställande av ............. 14 15</p>
-          <p>disposition av Riksbankens resultat...........ososesosssorsnnosnn 14</p>
+          <p>
+            Mervärdesskatt s....ssnsmssesesnensensnsnenrrannnnnnnnerrsnnnnannenrsrenennerenen
+            rena nn 1,20 1993/94:FiU Reg.
+          </p>
+          <p>
+            Miljömålen för den ekonomiska politiken ........................-
+            10 MiljöpOlitiken s..ssssesssssrorsesrnennsrsrsernennennenenenenennnnnnnsnnennnnnn
+            nanna nn 10, 20 MiljöräkenSkaper.....sssssssossersseeronrnsernnnrrrsnnsnrnnrrrrnnennrnnsn
+            rann nan 15 Museer, bidrag till vissa, anslag till........s..ss.ssssssssssssesssnsnnnnnn
+            20 Museiväsendet, statens stöd till.........s..ssssssssssesssssesererernnnenn
+            nn 3 Myndigheters internationalisering.............s-ssssssssssrsssssnnnnnnna
+            10 Myntreform 14 Naturresurs- och miljöräkenskaper s........sssssssssseneonsnnnnnnnnnnn
+            15 Nordiska investeringsbanken, höjning av grundkapitalet, anslag
+            till.......ss..ss.-s.sssssssssrsensennsnnnnnnnnnnen 8 Nordiska
+            projektinvesteringslån, garantiramen för............ 21 Nämnden
+            för offentlig upphandling, anslag till................. 8,18 Odontologiska
+            fakultetsanslaget vid Göteborgs UNIVEFrSItet oosssssseseeserresnrnrerrsenrenrrarsnnrrsrenrenr
+            ran renen enn renen nn nana 20 Offentlig sektor, vissa strukturfrågor
+            inom 16 Offentlig upphandling........ssssssessessessesserseseenenerrsnsnnnsnnnnnrnn
+            noen 4,5, 8, 18, 22 Offentlig utfrågning med Riksbankschefen .......................-
+            20 Offentliga sektorns egenregiverksamhet, lagreglering av...
+            5,22 Offentliga sektorns finanser, Sanering äV s....s...e.sssssnsnnnsnna
+            1, 10, 20 Oförutsedda utgifter, anslag till...............ssssssssssssssesesersssnnnne
+            23 Olympiska spel, statlig garanti fÖr s.........s.sssssssssensnenenennnnnn
+            12y OrganisationSStÖd s......sesseessrersesseressserrrrersrnerrnrrernnrrsennnnnennnnnnn
+            nns 10, 20 Otillbörligt beteende vid offentlig upphandling.................
+            5, 22 Penningpolitiken s.smmmmsssesseenrereneesrrnrsrrsrrrrrrannrnranenen
+            rn nnn en eran nn 1, 10, 20 Pensionsersättningar, finansiering
+            av 8y, 1ly, 12y, 13y PenSionsSparandet.....sssssesesseesessenrernrransnnerrrnnennnrnennenennn
+            renen en en nn Sy Pensionssystemet, reformering äv s....mmmmmsessssssernrennenrennnnnnn
+            anna 13y POStgILO oosoossererereerrrrrrerrerrrrrnnrnnnerernnrr
+            nr rn rann ren sn sann n ennen nere sn ennen renen ly POStläg
+            oooeseesserseserernrerrerrerrrernerrrrerrerrrrrrrnarnrrrnnnr rn
+            nran sense annan nen nen nn ly Postverket, förändrad verksamhetsfOrm
+            ............sesssssssesrsrnn ly Prisindex korrigering för dryckes-
+            och tobaksskatt....................... 1 tOtaliNCeX....ssessesesesersesnesnnarerrnernnnnnnnnrnnernnnnn
+            nn enn 15 Privatisering, kartläggning och analys 5, 16 Punktskatter
+            ........s.sssossoseessrassnasrennrrennnnnnnrrnnnennnnrnrrnnennennsn
+            ran en nn 1 Ramanslag, merutgifter UNCL ..mmmmmsesrssreserreseernenenrnrnenennnrnnrnn
+            lly RekryteringsStÖd s.....ssesssssssenennorneneseeneenesrernernenesnsnerrnrnrnsrnrnrnnnn
+            20 Restaureringsarbeten vid kungliga slott och fästningar, ANSlag
+            till.ossossssssersessrereeesrrrrrernrrrnrnnrnrrrnrrrnnrrnnernrnn
+            en nrn ren nn non 13 SC AVES TOM 4 RR 3, 9, 10, 17 Riksbanken
+            ansvarsfrihet för förvaltningen .........sssessseeseeresesesserennnnnen
+            14 balans- och resultaträkningar, fastställande av .............
+            14 15
+          </p>
+          <p>
+            disposition av Riksbankens resultat...........ososesosssorsnnosnn
+            14
+          </p>
           <pb facs="riksdagen-volumeG-pdf/data/199394/reg_199394_FiU/reg_199394_FiU-015.pdf"/>
-          <p>granskning av Riksbankens förvaltning ...................-...- MYyntrefOrim ossssssseseerererreererrererrererrerrenenrrn nn rna nn offentlig utfrågning med Riksbankschefen Riksbankens jubileumsfond, revisionen av...................-..-.- Riksdagens revisorer anslag till Riksdagens revisorer och deras kansli ......... verksamhetsberättelse för 1992/93 = mmsmnssssssseseasennnnnnnnnnn Riksdagens skrivelser, regeringens behandling av.............- Riksgäldskontoret användningen av anslaget garantiverksamhet............... förvaltningskostnader, anslag till ...........s.s.sssssssssss0snennnnn garantiram för nordiska projektinvesteringslån ........... garantiverksamhet, anslag till.................soesoossossosse0s00n0n0n in- och utlåningsverksamhet, anslag till........................ kostnader för upplåning och låneförvaltning, anslag till.nssossssesssssssssenarrsenenrnenennrrerenrrrn ene nen enar enar n nn nn ann lån för universitet och högskolor ............ssssessoesesrarernrn lån till investeringar i myndigheters anläggningstillgåNgar ........s.sssossossessososenenenenenenennnnnrnnrnrnnnnn provisionskostnader under budgetåret 1993/94 OCh 1994/9S oIööoosossesesesessaneresesrrrererererernenenerrnn enn nen enar nnn ann nan statsskuldens förvaltning, kostnader för ...................-...- upplåning och låneförvaltning..............sosssssssossrsrsrorsrnrnr Riksrevisionsverket anslag till.soossossesesssessesressrerrresrrsrserrrerrrrrerrrrrrrrrrrrnrrrnrnnr nn nanna revisionens resultat................. ROT-projekt, upphandling av Roulettskatt o.snnsssssssessesrenenrennenrenenrenennernenrenennrnnennennannrr nen nnn nn rent Räntebidrag anslag till.ssossssssseesseseresrererrerreresrrerrerrrrrerrrerrnrrrerrrnn ennen nr nn ann en bofond för finansiering aV......s.s.sssseesssrsssessesrersernannn nn Räntor på statsskulden, anslag tilli...........esssssssssesssessersrsnsnnr</p>
-          <p>Samarbete avseende informationstjänster inom ramen för EES-avtalet, anslag till SambrukskonCeptet s......ssssseesresresresrerrerrsesrrerrrnrrrerrrerrrerrnnnnrn nn Sanering av offentliga sektorns finanser .................s.s.ss.ss00&gt; SjukförsäkringenD.....sssssssseseesessesenresenrenerrenesenrsenrrnren enn nrn nns ennen nn Skatteutjämning, anslag till skatteutjämningsbidrag till kommuner och landsting ........sssssessereesrerssrrrrrrrrrrsrnrnnrnnn Skolväsendet, bidrag till viss verksamhet inom det kommunala, anslag till.mosmossmssssssserseseessrrssrrnnnrrnnnnnnnnn anna Skyddat arbete hos offentliga arbetsgivare Sommaruniversitet, inrättande av......................... Sparande PenSiONSSParanNde€.....sssssssesssssesresresnernensrsnrernnnennnenrnsnn rn rna nt ungdomssparande, skatterabatt för banksparande........</p>
-          <p>11, 10,</p>
-          <p>12,</p>
-          <p>12,</p>
-          <p>10, 20,</p>
-          <p>1, 10,</p>
-          <p>14 1993/94:FiU Reg.</p>
-          <p>14 20 17</p>
-          <p>16</p>
+          <p>
+            granskning av Riksbankens förvaltning ...................-...-
+            MYyntrefOrim ossssssseseerererreererrererrererrerrenenrrn nn rna
+            nn offentlig utfrågning med Riksbankschefen Riksbankens jubileumsfond,
+            revisionen av...................-..-.- Riksdagens revisorer anslag
+            till Riksdagens revisorer och deras kansli ......... verksamhetsberättelse
+            för 1992/93 = mmsmnssssssseseasennnnnnnnnnn Riksdagens skrivelser,
+            regeringens behandling av.............- Riksgäldskontoret användningen
+            av anslaget garantiverksamhet............... förvaltningskostnader,
+            anslag till ...........s.s.sssssssssss0snennnnn garantiram för
+            nordiska projektinvesteringslån ........... garantiverksamhet,
+            anslag till.................soesoossossosse0s00n0n0n in- och utlåningsverksamhet,
+            anslag till........................ kostnader för upplåning och
+            låneförvaltning, anslag till.nssossssesssssssssenarrsenenrnenennrrerenrrrn
+            ene nen enar enar n nn nn ann lån för universitet och högskolor
+            ............ssssessoesesrarernrn lån till investeringar i myndigheters
+            anläggningstillgåNgar ........s.sssossossessososenenenenenenennnnnrnnrnrnnnnn
+            provisionskostnader under budgetåret 1993/94 OCh 1994/9S oIööoosossesesesessaneresesrrrererererernenenerrnn
+            enn nen enar nnn ann nan statsskuldens förvaltning, kostnader
+            för ...................-...- upplåning och låneförvaltning..............sosssssssossrsrsrorsrnrnr
+            Riksrevisionsverket anslag till.soossossesesssessesressrerrresrrsrserrrerrrrrerrrrrrrrrrrrnrrrnrnnr
+            nn nanna revisionens resultat................. ROT-projekt, upphandling
+            av Roulettskatt o.snnsssssssessesrenenrennenrenenrenennernenrenennrnnennennannrr
+            nen nnn nn rent Räntebidrag anslag till.ssossssssseesseseresrererrerreresrrerrerrrrrerrrerrnrrrerrrnn
+            ennen nr nn ann en bofond för finansiering aV......s.s.sssseesssrsssessesrersernannn
+            nn Räntor på statsskulden, anslag tilli...........esssssssssesssessersrsnsnnr
+          </p>
+          <p>
+            Samarbete avseende informationstjänster inom ramen för EES-avtalet,
+            anslag till SambrukskonCeptet s......ssssseesresresresrerrerrsesrrerrrnrrrerrrerrrerrnnnnrn
+            nn Sanering av offentliga sektorns finanser .................s.s.ss.ss00&gt;
+            SjukförsäkringenD.....sssssssseseesessesenresenrenerrenesenrsenrrnren
+            enn nrn nns ennen nn Skatteutjämning, anslag till skatteutjämningsbidrag
+            till kommuner och landsting ........sssssessereesrerssrrrrrrrrrrsrnrnnrnnn
+            Skolväsendet, bidrag till viss verksamhet inom det kommunala,
+            anslag till.mosmossmssssssserseseessrrssrrnnnrrnnnnnnnnn anna
+            Skyddat arbete hos offentliga arbetsgivare Sommaruniversitet,
+            inrättande av......................... Sparande PenSiONSSParanNde€.....sssssssesssssesresresnernensrsnrernnnennnenrnsnn
+            rn rna nt ungdomssparande, skatterabatt för banksparande........
+          </p>
+          <p>
+            11, 10,
+          </p>
+          <p>
+            12,
+          </p>
+          <p>
+            12,
+          </p>
+          <p>
+            10, 20,
+          </p>
+          <p>
+            1, 10,
+          </p>
+          <p>
+            14 1993/94:FiU Reg.
+          </p>
+          <p>
+            14 20 17
+          </p>
+          <p>
+            16
+          </p>
           <pb facs="riksdagen-volumeG-pdf/data/199394/reg_199394_FiU/reg_199394_FiU-016.pdf"/>
-          <p>Statens fastighetsverk</p>
-          <p>anslag till.sssmssssssessssessrenrerrenrerrererrrnnrrersrenernr renen n sn rn enn nn nn 13 investeringar M.M. mocmsessssseseserssrersesesenenrnenenrnrnenen rn nrn ennen 13 låneram i Riksgäldskontoret ..............sososssosssosorsesrsnnnnsnen 11 nedskrivning av verkskapitalet..................s.ssssosoosonnonnnnan 13 ny fördelning av vissa fastigheter ..................s.ssssossononnnnn 13 Statens lokalförsörjningsverk anslag till.mossmssssssessessessassnenennenerrennennrnenenenen nen nnnn nere nn nn anna 13 investeringsverksamhet s..mssssssssssenensnsnennnnnnrnnnnnnnenennnn nen 13 nedskrivning av verkskapitalet........ 13 ny fördelning av vissa fastigheter 13 Statistik, ansvarsfördelning och statistik........................-..--- 15 Statistiska centralbyrån generationsräkenskaper .......s.ssssssesessosesenenenrsenenennnnnnnn nn nn 15 gröna nationalräkenskaper..........s.s.ssssesesesenesssenennnnennnn ann 15 jämställd hetsstatistik.........ns.s..sssssosssoorsrnnanenennenrnnnnnnnnn nanna 15 låginkomstutred ning ..........esssssssesrrrrreresrrsenenersrnrnennnnnnnn nn 15 naturresurs- och miljöräkenskaper....................ss-sssss&gt;-- 15 omlokalisering av hela Statistiska centralbyrån till ÖTEbFO s.ssssssseeansssssnnenrrrsennrrssnnnrrrnnnrasnrnsnarnnsnnnrsnnn nn nnnnnna 15 statistik, register och prognoser, anslag till................... 15 tOtalprisindeX s.ssmssssssssessrsrenreserrennesnernerenennerenennenennnn annen nanna 15 uppdragsverksamhet, anslag till. .....nnnsn.s.ssssssssossnsnnnnnnn nn 15 Statlig förvaltning avveckling QV..ssssssssssseseersesrserreresrerrernerernersenrnrenerrnnen ann nn nan nn nn 16 ratiOnaliseriNg....sssssessesoersesrsensereererrerrerererenenrrren ennen rna nan nan 9, 16 StYTNiNg QV.osooooosseseresssersererrrserrrrrrerrnrrnrrrrenr ennen nen nnn enn nns nan nn nan 20 Statlig garanti för anordnande av olympiska vinterspel i Sverige år 2002 =msesssssesrsrsesesrrseserrerernerernenenrrnerrnnn nn n nanna 12y Statlig inkomstskatt ........ 1, 10, 20, 6y Statlig lokalförsörjning 13 Statlig UPPlåNing....ssmsssssssessresrorsrsrereneseeressrsrserserenrrerrnernanen anna nn 1, 10, 20 Statlig verksamhet, Styrning QV.....nsssssosssosesesesenenenennnnennnnn anna 10 Statliga arbetsgivarfrågOr .............ssssssonsnsrosnsnrnnrnnnsnnrnenerennrnn nan 20, 8y, Illy Statliga beredskapslager, försäljning av olja från ................ 20 Statliga betalningar .smsmmmsssssssssssnenresennensesenenrrnenenrenen nn ennen ann nan ly Statliga fastigheter, överföring till statligt aktiebolag AV VISSA ooooseesrsrererrerreresrerrerererrsrererenrrrerersererrnnnnrrnrnnn ner en annan a 11 Statliga myndigheter inköp av fOrClOn s..seeesreresrsrsrnrssrsrerrrsrsrnsrnrnsnnrnrrnrnrnnnrnrnrnen 18 internationaliseriNg.......s..ssssssseresrenreserrsennererrrrrnennannnnnn rena 10 Statliga sektorns fOl...ssssssssssssssesersesnasernnsrsrenenennenennnnen renen nn nen 16 Statsbidragen till kommunerna se Kommunalekonomiska frågor .............s.s.sssssssssnnnnnnnn 19</p>
-          <p>1993/94:FiU Reg.</p>
-          <p>17</p>
+          <p>
+            Statens fastighetsverk
+          </p>
+          <p>
+            anslag till.sssmssssssessssessrenrerrenrerrererrrnnrrersrenernr
+            renen n sn rn enn nn nn 13 investeringar M.M. mocmsessssseseserssrersesesenenrnenenrnrnenen
+            rn nrn ennen 13 låneram i Riksgäldskontoret ..............sososssosssosorsesrsnnnnsnen
+            11 nedskrivning av verkskapitalet..................s.ssssosoosonnonnnnan
+            13 ny fördelning av vissa fastigheter ..................s.ssssossononnnnn
+            13 Statens lokalförsörjningsverk anslag till.mossmssssssessessessassnenennenerrennennrnenenenen
+            nen nnnn nere nn nn anna 13 investeringsverksamhet s..mssssssssssenensnsnennnnnnrnnnnnnnenennnn
+            nen 13 nedskrivning av verkskapitalet........ 13 ny fördelning
+            av vissa fastigheter 13 Statistik, ansvarsfördelning och statistik........................-..---
+            15 Statistiska centralbyrån generationsräkenskaper .......s.ssssssesessosesenenenrsenenennnnnnnn
+            nn nn 15 gröna nationalräkenskaper..........s.s.ssssesesesenesssenennnnennnn
+            ann 15 jämställd hetsstatistik.........ns.s..sssssosssoorsrnnanenennenrnnnnnnnnn
+            nanna 15 låginkomstutred ning ..........esssssssesrrrrreresrrsenenersrnrnennnnnnnn
+            nn 15 naturresurs- och miljöräkenskaper....................ss-sssss&gt;--
+            15 omlokalisering av hela Statistiska centralbyrån till ÖTEbFO
+            s.ssssssseeansssssnnenrrrsennrrssnnnrrrnnnrasnrnsnarnnsnnnrsnnn
+            nn nnnnnna 15 statistik, register och prognoser, anslag till...................
+            15 tOtalprisindeX s.ssmssssssssessrsrenreserrennesnernerenennerenennenennnn
+            annen nanna 15 uppdragsverksamhet, anslag till. .....nnnsn.s.ssssssssossnsnnnnnnn
+            nn 15 Statlig förvaltning avveckling QV..ssssssssssseseersesrserreresrerrernerernersenrnrenerrnnen
+            ann nn nan nn nn 16 ratiOnaliseriNg....sssssessesoersesrsensereererrerrerererenenrrren
+            ennen rna nan nan 9, 16 StYTNiNg QV.osooooosseseresssersererrrserrrrrrerrnrrnrrrrenr
+            ennen nen nnn enn nns nan nn nan 20 Statlig garanti för anordnande
+            av olympiska vinterspel i Sverige år 2002 =msesssssesrsrsesesrrseserrerernerernenenrrnerrnnn
+            nn n nanna 12y Statlig inkomstskatt ........ 1, 10, 20, 6y Statlig
+            lokalförsörjning 13 Statlig UPPlåNing....ssmsssssssessresrorsrsrereneseeressrsrserserenrrerrnernanen
+            anna nn 1, 10, 20 Statlig verksamhet, Styrning QV.....nsssssosssosesesesenenenennnnennnnn
+            anna 10 Statliga arbetsgivarfrågOr .............ssssssonsnsrosnsnrnnrnnnsnnrnenerennrnn
+            nan 20, 8y, Illy Statliga beredskapslager, försäljning av olja
+            från ................ 20 Statliga betalningar .smsmmmsssssssssssnenresennensesenenrrnenenrenen
+            nn ennen ann nan ly Statliga fastigheter, överföring till statligt
+            aktiebolag AV VISSA ooooseesrsrererrerreresrerrerererrsrererenrrrerersererrnnnnrrnrnnn
+            ner en annan a 11 Statliga myndigheter inköp av fOrClOn s..seeesreresrsrsrnrssrsrerrrsrsrnsrnrnsnnrnrrnrnrnnnrnrnrnen
+            18 internationaliseriNg.......s..ssssssseresrenreserrsennererrrrrnennannnnnn
+            rena 10 Statliga sektorns fOl...ssssssssssssssesersesnasernnsrsrenenennenennnnen
+            renen nn nen 16 Statsbidragen till kommunerna se Kommunalekonomiska
+            frågor .............s.s.sssssssssnnnnnnnn 19
+          </p>
+          <p>
+            1993/94:FiU Reg.
+          </p>
+          <p>
+            17
+          </p>
           <pb facs="riksdagen-volumeG-pdf/data/199394/reg_199394_FiU/reg_199394_FiU-017.pdf"/>
-          <p>Statsbudgeten beräknat tillkommande utgiftsbehov, netto .................. förändring av anslagsbehållningar ............s.s.ssssssssssnnenen statsbudgeten för budgetåret 1994/95 = smmmmnsnsssnennanannnnn statsbudgetens inkomster 1994/95 =m.mmnnsssssssssssenesennsnnannn statsbudgetens utgifter 1994/95 =mssossssssssssesasesenenennnnnnnnan Statskontoret Uppdrag till statskontoret, anslag till s...mm.mmm....ssssese0n nn Uppdragsverksamhet, anslag till. ..smmmmmmsssosorssennennnnnnnnnn Statsskuldens förvaltning, kostnader för Statsskuldräntor, anslag tilli...........ss.sssessssssesessessenesnnnennnn nanna Storstädernas ekONOMIi....ssssssssssessessersrsnenessenernnnnnnnsnsrennnnnnn nr Studiemedel studiehjälp m.m., anslag till.ssmmmmssssssesessorsesrnsnensnsnnnnnnnn studielån, ränta på under värnpliktstjänstgöring.......... studiemedel m.m., anslag till. mssssmmmssssssssrssrsnrnnnnnnnnsnn nen Studiestödsnämnden, Centrala, anslag till ...................- Vuxenstudiestöd m.m., anslag till..............sssssssssse0s00n0nnn Styrning av statlig verksamhet</p>
-          <p>Tandläkarutbildningen, dimensioneringen av ena Think tanks, inrättande aV...smmmmssssssssessesernesennenrennsnrnrnnenennnnnnn Tillkommande utgiftsbehov, netto, beräknat .....................- Tilläggsbudget till statsbudgeten inom Finansdepartementets Område ...............ss.esssnn sammanställning hösten 1993 =mmsmnmmmssssseseeserssesnrsnsnrnnnn nn sammanställning våren 1994 sm ssmmmssssssssesesenenrnnensnsn annan Tipstjänst bolagets nuvarande stöd till idrotten s............-.------------&gt; försäljning av .............-.----- slopad lotteriskatt Tjänsteinkomstbeskattningen, översyn av Tobak, skatt På.............sssssosesenenenennnneransonensnenrnrnsnsnnrnnrnenen enar TOtalprisindleX sssssssssrsreresesnenenrerenannenenneresenenrnrenennnnrnnnen enn rn enn Trainee-utbildning, försöksverksamhet, anslag till............. Tystnadsplikt för privatanställd förläggningspersonal........ Täckning av merkostnader för löner och pensioner m.m., anslag till..mnmmmsssssssesessessnrnnrnnnrennsnrrnnensnnenenen rn rn annan Täckning av merkostnader för lokalkostnader m.m., anslag till..sssssssssssssrasresnrsnnsnenrrnnnnrrennerer renen ns ere ennen nn nn nn</p>
-          <p>Umeå universitet: Grundutbildning, anslag till.................. Underhållsåtgärder för sysselsättning och tillväxt, anslag till.ssnssssssssssssessesnsnennsrenennerennernnnnernrenenen ennen en en enn nn en Ungdomsarbetslöshet ..smmnnsnseeseorerenreneersrnernerernennrnnnnnnenennnnnn nn Ungdomspraktik ......nsnsssssssseoenssenensnssrsnsnsrrrnersenenenersrnenrnnnn nn nnn Ungdomssparande, bonusränta fÖr s....mmeeesersseresrerrrnrnnnnnnn Universiteten och högskolorna, anslag till vissa särskilda</p>
-          <p>10,</p>
-          <p>1, 10, 20,</p>
-          <p>1993/94:FiU Reg.</p>
-          <p>18</p>
+          <p>
+            Statsbudgeten beräknat tillkommande utgiftsbehov, netto ..................
+            förändring av anslagsbehållningar ............s.s.ssssssssssnnenen
+            statsbudgeten för budgetåret 1994/95 = smmmmnsnsssnennanannnnn
+            statsbudgetens inkomster 1994/95 =m.mmnnsssssssssssenesennsnnannn
+            statsbudgetens utgifter 1994/95 =mssossssssssssesasesenenennnnnnnnan
+            Statskontoret Uppdrag till statskontoret, anslag till s...mm.mmm....ssssese0n
+            nn Uppdragsverksamhet, anslag till. ..smmmmmmsssosorssennennnnnnnnnn
+            Statsskuldens förvaltning, kostnader för Statsskuldräntor, anslag
+            tilli...........ss.sssessssssesessessenesnnnennnn nanna Storstädernas
+            ekONOMIi....ssssssssssessessersrsnenessenernnnnnnnsnsrennnnnnn
+            nr Studiemedel studiehjälp m.m., anslag till.ssmmmmssssssesessorsesrnsnensnsnnnnnnnn
+            studielån, ränta på under värnpliktstjänstgöring.......... studiemedel
+            m.m., anslag till. mssssmmmssssssssrssrsnrnnnnnnnnsnn nen Studiestödsnämnden,
+            Centrala, anslag till ...................- Vuxenstudiestöd m.m.,
+            anslag till..............sssssssssse0s00n0nnn Styrning av statlig
+            verksamhet
+          </p>
+          <p>
+            Tandläkarutbildningen, dimensioneringen av ena Think tanks, inrättande
+            aV...smmmmssssssssessesernesennenrennsnrnrnnenennnnnnn Tillkommande
+            utgiftsbehov, netto, beräknat .....................- Tilläggsbudget
+            till statsbudgeten inom Finansdepartementets Område ...............ss.esssnn
+            sammanställning hösten 1993 =mmsmnmmmssssseseeserssesnrsnsnrnnnn
+            nn sammanställning våren 1994 sm ssmmmssssssssesesenenrnnensnsn
+            annan Tipstjänst bolagets nuvarande stöd till idrotten s............-.------------&gt;
+            försäljning av .............-.----- slopad lotteriskatt Tjänsteinkomstbeskattningen,
+            översyn av Tobak, skatt På.............sssssosesenenenennnneransonensnenrnrnsnsnnrnnrnenen
+            enar TOtalprisindleX sssssssssrsreresesnenenrerenannenenneresenenrnrenennnnrnnnen
+            enn rn enn Trainee-utbildning, försöksverksamhet, anslag till.............
+            Tystnadsplikt för privatanställd förläggningspersonal........
+            Täckning av merkostnader för löner och pensioner m.m., anslag
+            till..mnmmmsssssssesessessnrnnrnnnrennsnrrnnensnnenenen rn rn
+            annan Täckning av merkostnader för lokalkostnader m.m., anslag
+            till..sssssssssssssrasresnrsnnsnenrrnnnnrrennerer renen ns ere
+            ennen nn nn nn
+          </p>
+          <p>
+            Umeå universitet: Grundutbildning, anslag till..................
+            Underhållsåtgärder för sysselsättning och tillväxt, anslag till.ssnssssssssssssessesnsnennsrenennerennernnnnernrenenen
+            ennen en en enn nn en Ungdomsarbetslöshet ..smmnnsnseeseorerenreneersrnernerernennrnnnnnnenennnnnn
+            nn Ungdomspraktik ......nsnsssssssseoenssenensnssrsnsnsrrrnersenenenersrnenrnnnn
+            nn nnn Ungdomssparande, bonusränta fÖr s....mmeeesersseresrerrrnrnnnnnnn
+            Universiteten och högskolorna, anslag till vissa särskilda
+          </p>
+          <p>
+            10,
+          </p>
+          <p>
+            1, 10, 20,
+          </p>
+          <p>
+            1993/94:FiU Reg.
+          </p>
+          <p>
+            18
+          </p>
           <pb facs="riksdagen-volumeG-pdf/data/199394/reg_199394_FiU/reg_199394_FiU-018.pdf"/>
-          <p>Universiteten, övergång till lån i Riksgäldskontoret.......... Uppdrag till Statskontoret anslag till. smmnsssssssssesssresnnesnsrserrsrrnnersnsnrnnennnennn annen rann nn n rn nan bemyndignade om merutgift Uppehållstillstånd, temporära ................ Upphandling, Offentlig ..........s.sssssrsesrsssseserssrnsenrnnennnennnnnnnn anna Uppsala universitet: Grundutbildning, anslag till.............. UtbildningSsCheck.....sssssssssessesesrsrsesensesennernnenernenrennenennernrnnnn nanna UtbildningssatsniNgår s....sssssssssssesensesernennnnnennernennenarnennrn annan nan Utvecklingsarbete rörande styrning av statsförvaltningen, anslag till............sessssssssesesresrenrsrennnnn</p>
-          <p>Vissa nämnder, anslag till....smsmmmssssssrssssronssrnennnnenenesnnnenen ennen nn Vissa särskilda utgifter inom universitet och högskolor m.m., anslag till..smmnssssssssessesersenserrerernnnrrrnnnrrnnennenn nns nn nanna Vuxenstudiestöd m.m., anslag till Värmlands flygplåtS s..sssnsssssssseresernorrresrrrrrrrrrnrrrrrnrnennrnrnnnn enn nn</p>
-          <p>Överkurser vid emissioner av statsobligationer, red OViSNiNg AVsssssssesssesressrereererrerresrrrrrrnerrrrnrernnrnnrrnnnn nan nanna</p>
-          <p>10 1993/94:FiU Reg.</p>
-          <p>9 9 20 4,5, 8, 18,22 20 20 20</p>
-          <p>10, 20</p>
-          <p>19</p>
+          <p>
+            Universiteten, övergång till lån i Riksgäldskontoret..........
+            Uppdrag till Statskontoret anslag till. smmnsssssssssesssresnnesnsrserrsrrnnersnsnrnnennnennn
+            annen rann nn n rn nan bemyndignade om merutgift Uppehållstillstånd,
+            temporära ................ Upphandling, Offentlig ..........s.sssssrsesrsssseserssrnsenrnnennnennnnnnnn
+            anna Uppsala universitet: Grundutbildning, anslag till..............
+            UtbildningSsCheck.....sssssssssessesesrsrsesensesennernnenernenrennenennernrnnnn
+            nanna UtbildningssatsniNgår s....sssssssssssesensesernennnnnennernennenarnennrn
+            annan nan Utvecklingsarbete rörande styrning av statsförvaltningen,
+            anslag till............sessssssssesesresrenrsrennnnn
+          </p>
+          <p>
+            Vissa nämnder, anslag till....smsmmmssssssrssssronssrnennnnenenesnnnenen
+            ennen nn Vissa särskilda utgifter inom universitet och högskolor
+            m.m., anslag till..smmnssssssssessesersenserrerernnnrrrnnnrrnnennenn
+            nns nn nanna Vuxenstudiestöd m.m., anslag till Värmlands flygplåtS
+            s..sssnsssssssseresernorrresrrrrrrrrrnrrrrrnrnennrnrnnnn enn nn
+          </p>
+          <p>
+            Överkurser vid emissioner av statsobligationer, red OViSNiNg
+            AVsssssssesssesressrereererrerresrrrrrrnerrrrnrernnrnnrrnnnn nan
+            nanna
+          </p>
+          <p>
+            10 1993/94:FiU Reg.
+          </p>
+          <p>
+            9 9 20 4,5, 8, 18,22 20 20 20
+          </p>
+          <p>
+            10, 20
+          </p>
+          <p>
+            19
+          </p>
           <pb facs="riksdagen-volumeG-pdf/data/199394/reg_199394_FiU/reg_199394_FiU-019.pdf"/>
-          <p>gotab 46928, Stockholm 1994</p>
+          <p>
+            gotab 46928, Stockholm 1994
+          </p>
         </div>
       </div>
     </body>
