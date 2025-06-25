@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="reg_199495_AU">
   <teiHeader>
     <fileDesc>
       <titleStmt/>
@@ -19,119 +19,677 @@
   </teiHeader>
   <text>
     <body>
-      <pb facs="riksdagen-volumeG-pdf/data/199495/reg_199495_AU/reg_199495_AU-000.pdf"/>
+      <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199495/reg_199495_AU/reg_199495_AU_0000"/>
       <div type="gBody">
         <div>
-          <p>Arbetsmarknadsutskottets register ÖN</p>
-          <p>vid riksmötet 1994/95 PRIS 1994/95 AU Reg. Betänkanden Nr AU1</p>
-          <p>Riksdagens revisorers förslag till följd av statens stöd till Saab-Scanias bilfabrik i Malmö (förs. 1992/93:RR7) Utskottets justering 1994-11-24 Förslag till beslut: Utan vidare åtgärd till förslaget och motioner betr. konsekvensanalyser (mom. 1), delvis bifall till förslaget och motioner betr. hantering av lokaliseringsbidrag (mom. 2) och avskrivnings- och återbetalningsregler (mom. 3), utan vidare åtgärd till förslaget och motioner betr. tillfälliga krispaket (mom. 4) och motion betr. statliga kontrollorgans möjlighet att få tillgång till handlingar (mom. 7). I övrigt avslag på motionerna</p>
-          <p>Debatt i kammaren 1994-12-07 Protokollshummer 1994/95:37 Riksdagens beslut: Bifall till utskottets hemställan 1994-12-07 Protokollsnummer 1994/95:37 Riksdagsskrivelse 1994/95:61, 62 Nr AU2 Arbetstid m.m. Utskottets justering 1994-11-15 Förslag till beslut: Avslag på motionerna Debatt i kammaren 1994-11-30 Protokollsnhummer 1994/95:32 Riksdagens beslut: Bifall till utskottets hemställan 1994-11-30 Protokollsnhummer 1994/95:32 Riksdagsskrivelse - Nr AU3</p>
-          <p>ILO:s konvention om förebyggande av storolyckor inom industrin (prop. 1993/94:174)</p>
-          <p>Utskottets justering 1994-10-25 Förslag till beslut: Bifall till propositionen Riksdagens beslut: Bifall till utskottets hemställan 1994-11-16 Protokollsnhummer 1994/95:23 Riksdagsskrivelse 1994/95:22</p>
-          <p>1 Riksdagen 1994/95. 18 saml. Register</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199495/reg_199495_AU/reg_199495_AU-001.pdf"/>
-          <pb facs="riksdagen-volumeG-pdf/data/199495/reg_199495_AU/reg_199495_AU-002.pdf"/>
-          <p>Nr AU4 1994/95:AU Reg. Förändring av vissa arbetsrättsliga regler, m.m. (prop. 1994/95:76 och 1994/95:102) Utskottets justering 1994-12-06 Förslag till beslut: Delvis bifall till proposition 76 och motioner betr. vetoreglerna (mom. 7), delvis bifall till motioner betr. vissa lagförslag i proposition 76 (mom. 8), delvis bifall till proposition 102 betr. beräkning av anställ- ningstid efter övergång i samband med konkurs m.m. (mom. 12), delvis bifall till propositionerna 76 och 102 betr. vissa lagförslag (mom. 16). I övrigt bifall till propositionerna och avslag på motionerna</p>
-          <p>Debatt i kammaren 1994-12-16 Protokollsnhummer 1994/95:44 Riksdagens beslut: Bifall till utskottets hemställan 1994-12-20 Protokollsnummer 1994/95:46 Riksdagsskrivelse 1994/95:123 Nr AUS</p>
-          <p>Förändringar i arbetslöshetsersättningen (prop. 1994/95:99 och 1994/95:6) Utskottets justering 1994-12-08 Förslag till beslut: Delvis bifall till motioner och avslag på proposition 99 betr. arbetslöshetsersättning vid deltidsarbete (mom. 5), delvis bifall till proposition 99 betr. lagbestäm- melserna i 6 och 20 $$ ALF-lagen (mom. 6), delvis bifall till proposition 99 och motioner betr. övergångsbestämmelser m.m., (mom. 10). I övrigt bifall till proposition 99 och avslag på motionerna. Avslag på proposition 6 i vissa delar</p>
-          <p>Debatt i kammaren 1994-12-16 Protokollsnummer 1994/95:44 Riksdagens beslut: Bifall till utskottets hemställan 1994-12-20 Protokollsnummer 1994/95:46 Riksdagsskrivelse 1994/95:124, 125 Nr AU6 Arbetsdomstolen m.m., anslag (prop. 1994/95:100 bil. 11 delvis) Utskottets justering 1995-02-16 Förslag till beslut: Bifall till propositionen Riksdagens beslut: Bifall till utskottets hemställan 1995-03-15 Protokollsnummer 1994/95:73 Riksdagsskrivelse 1994/95:183 Nr AU7 Anslag till jämställdhet m.m. (prop. 1994/95:100 bil. 6 delvis) Utskottets justering 1995-02-23 Förslag till beslut: Bifall till propositionen och avslag på motionerna Debatt i kammaren 1995-03-08</p>
-          <p>Protokollsnummer 1994/95:69</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199495/reg_199495_AU/reg_199495_AU-003.pdf"/>
-          <p>Riksdagens beslut: Bifall till utskottets hemställan 1995-03-15 1994/95:AU Reg.</p>
-          <p>Protokollsnhummer 1994/95:73 Riksdagsskrivelse 1994/95:181, 182 Nr AU8 Stöd för nyanställningar (prop. 1994/95:137) Utskottets justering 1995-02-16</p>
-          <p>Förslag till beslut: Delvis bifall till propositionen och motioner betr. utformningen av lagförslagen (mom. 2) och delvis bifall till motion betr. ett investeringsprogram (mom. 3). I övrigt avslag på motionerna</p>
-          <p>Debatt i kammaren 1995-02-22 Protokollshummer 1994/95:64 Riksdagens beslut: Återremiss 1995-02-22 Protokollsnummer 1994/95:64 Riksdagsskrivelse - Nr AU9</p>
-          <p>Ny myndighetsorganisation inom arbetslivet m.m. (prop. 1994/95:158)</p>
-          <p>Utskottets justering 1995-04-27 Förslag till beslut: Bifall till propositionen och avslag på motionerna Debatt i kammaren 1995-05-10 Protokollsnummer 1994/95:102 Riksdagens beslut: Bifall till utskottets hemställan 1995-05-11 Protokollsnummer 1994/95:103 Riksdagsskrivelse 1994/95:336 Nr AU10 Statliga arbetsgivarfrågor (prop. 1994/95:100 bil. 8 delvis) Utskottets justering 1995-02-16 Förslag till beslut: Bifall till propositionen Riksdagens beslut: Bifall till utskottets hemställan 1995-03-15 Protokollsnhummer 1994/95:73 Riksdagsskrivelse 1994/95:184 Nr AU1l1 Arbetsmarknadspolitik (prop. 1994/95:100 bil. 11 delvis) Utskottets justering 1995-03-14</p>
-          <p>Förslag till beslut: Avslag på propositionen och delvis bifall till motioner betr. åldersgränsen i arbetslöshetsförsäkringen (mom. 67). I övrigt bifall till propositionen och avslag på</p>
-          <p>motionerna Debatt i kammaren 1995-03-29 Protokollsnummer 1994/95:81 Riksdagens beslut: Bifall till utskottets hemställan 1995-03-30 Protokollshnummer 1994/95:82 Riksdagsskrivelse 1994/95:233</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199495/reg_199495_AU/reg_199495_AU-004.pdf"/>
-          <p>Nr AU12 Arbetslivspolitik (prop. 1994/95:100 bil. 11 delvis och 1994/95:136) Utskottets justering 1995-03-14 Förslag till beslut: Bifall till proposition 100 bil. 11. Delvis bifall till proposition 136 betr. lagförslaget (mom. 20). Avslag på samtliga motioner</p>
-          <p>Debatt i kammaren 1995-03-22 Protokollsnhummer 1994/95:77 Riksdagens beslut: Bifall till utskottets hemställan 1995-03-22 Protokollsnummer 1994/95:77 Riksdagsskrivelse 1994/95:227 Nr AU13</p>
-          <p>Regionalpolitik (prop. 1994/95:161, 1994/95:100 bil. 11 delvis, avbidan, förs. 1994/95:RR2) Utskottets justering 1995-05-30 Förslag till beslut: Bifall till propositionen och avslag på förslaget samt motionerna</p>
-          <p>Debatt i kammaren 1995-06-12 Protokollsnummer 1994/95:118 Riksdagens beslut: Bifall till utskottets hemställan 1995-06-13 Protokollsnummer 1994/95:119 Riksdagsskrivelse 1994/95:425, och</p>
-          <p>1994/95:426</p>
-          <p>Nr AU14 Tilläggsbudget till statsbudgeten för budgetåret 1994/95 (prop. 1994/95:105)</p>
-          <p>Utskottets justering 1995-02-16 Förslag till beslut: Bifall till propositionen Riksdagens beslut: Bifall till utskottets hemställan 1995-03-15 Protokollsnhummer 1994/95:73 Riksdagsskrivelse 1994/95:185 Nr AU1S</p>
-          <p>En effektivare arbetsmarknadspolitik m.m. (prop. 1994/95:218 och 1994/95:6 delvis) Utskottets justering 1995-05-19 Förslag till beslut: Delvis bifall till motioner betr. kart- läggning och analys av kvinnors arbetsmarknad (mom. 3), delvis bifall till proposition 218 betr. AMS tillsynsverksamhet m.m. (mom. 9), delvis bifall till proposition 218 och motion betr. tillfällig personalförstärkning (mom. 13), delvis bifall till proposition 218 betr. kommunernas ansvar för ungdomar (mom. 23), delvis bifall till proposition 218 och motioner betr. särskilda åtgärder för regional utveckling och tillväxt (mom. 25). I övrigt bifall till propositionerna 6 och 218 och avslag på motionerna Debatt i kammaren 1995-06-02</p>
-          <p>1994/95:AU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199495/reg_199495_AU/reg_199495_AU-005.pdf"/>
-          <p>Protokollsnhummer 1994/95:114 1994/95:AU Reg.</p>
-          <p>Riksdagens beslut: Bifall till utskottets hemställan 1995-06-07 Protokollsnummer 1994/95:115 Riksdagsskrivelse 1994/95:398, 399 Nr AU16 Ny föräldraledighetslag m.m. (prop. 1994/95:207) Utskottets justering 1995-05-04</p>
-          <p>Förslag till beslut: Delvis bifall till motioner betr. förläggning av föräldraledighet under dagen (mom. 10). I övrigt bifall till propositionen och avslag på motionerna</p>
-          <p>Debatt i kammaren 1995-05-18 Protokollsnhummer 1994/95:108 Riksdagens beslut: Bifall till utskottets hemställan 1995-05-19 Protokollsnhummer 1994/95:109 Riksdagsskrivelse 1994/95:364 Nr AU17</p>
-          <p>Tilläggsbudget till statsbudgeten för budgetåret 1994/95 (prop. 1994/95:125 delvis)</p>
-          <p>Utskottets justering 1995-04-27 Förslag till beslut: Bifall till propositionen Riksdagens beslut: Bifall till utskottets hemställan 1995-05-11 Protokollsnummer 1994/95:103 Riksdagsskrivelse 1994/95:337 Nr AU18 Ledningsform för Institutet för forskning och utveckling Utskottets justering 1995-05-30 Förslag till beslut: Delvis bifall till motionen Riksdagens beslut: Bifall till utskottets hemställan 1995-06-07 Protokollsnummer 1994/95:115 Riksdagsskrivelse 1994/95:403 Nr AU19</p>
-          <p>Inget betänkande avlämnat.</p>
-          <p>Nr AU20 Stöd för nyanställningar (förnyad behandling) (prop. 1994/95:137) Utskottets justering 1995-02-23 Förslag till beslut: Delvis bifall till propositionen och motioner betr. utformningen av lagförslagen (mom. 2), delvis bifall till motion betr. ett investeringsprogram (mom. 3). I öv- rigt avslag på motionerna</p>
-          <p>Debatt i kammaren 1995-03-08 Protokollshummer 1994/95:69 Riksdagens beslut: Bifall till utskottets hemställan 1995-03-08 Protokollsnummer 1994/95:69</p>
-          <p>Riksdagsskrivelse 1994/95:180 5</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199495/reg_199495_AU/reg_199495_AU-006.pdf"/>
-          <p>Yttranden</p>
-          <p>Nr AUly till UU Sveriges medlemskap i Europeiska unionen (prop. 1993/94:19)</p>
-          <p>Utskottets justering 1994-11-15 UUS Protokollsnhummer 1994/95:43 Riksdagens beslut: 1994-12-14 Riksdagsskrivelse 1994/95:63</p>
-          <p>Nr AU2y till SOU Vårdnadsbidrag (prop. 1994/95:61)</p>
-          <p>Utskottets justering 1994-11-29 SoU8 Protokollsnhummer 1994/95:43 Riksdagens beslut: 1994-12-15 Riksdagsskrivelse 1994/95:105</p>
-          <p>Nr AU3y till FiU Arbetsmarknadspolitiken (prop. 1994/95:25)</p>
-          <p>Utskottets justering 1994-12-01 FiUl Protokollsnummer 1994/95:46 Riksdagens beslut: 1994-12-20 Riksdagsskrivelse 1994/95:145, 146</p>
-          <p>Nr AU4y till FiU Kompletteringspropositionen (prop. 1994/95:150 bil. 10)</p>
-          <p>Utskottets justering 1995-05-19 FiU20 Protokollsnummer 1994/95:120 Riksdagens beslut: 1995-06-14 Riksdagsskrivelse 1994/95:447-455</p>
-          <p>1994/95:-AU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199495/reg_199495_AU/reg_199495_AU-007.pdf"/>
-          <p>Sakregister</p>
-          <p>Agenda 21oooossssesresresrereerrerressrrnrerrennesrsnrnnernerenrsn enn ner n enn nr nr nn nn nn Akademikerpraktik sssmomnmssssssssssessssennnersrrsnnennnnnernnnennrnnnrnrnn nan Allergisanerilg....ssosssosesssnesssennnsesnresrnnnsrrnsrrnneennnrernrnrrrnr nn nrn nn ALA-gruppen (Arbetsgruppen lantbruk och samhälle) .... ALU-delegatiOn€i.....sssssssessserresensnrsrnnernrenrernnrennnernenrnernrnrnnn nn AMS tillsynsverksamhet..........ossssossssesnnenrsnrnennnsnnsnnsnennrnnnnnnent Anslagsreservation Hantering äV smsssmsssssesssserseresssesnnrsesnrsrrsnnsrrrerrrrennernsn nn n rn nr Arbetarskyddsstyrelsen Arbetarskyddsverket</p>
-          <p>Arbetsgivarverket............ssssossonsesessessnesensenennennnnrnennennrrernennnn na Arbetshandikappade Anpassningsåtgärder...............esessrssssssssesesenenennnrnrnnnrnnnnnnnn Arbetshandikappade ungdOmar .........ssssessserssssrsnsnnennn nn Arbetshjälpmedel os ssmmmsssssesserssesersrenserrnnnennnnnnnnrnnrnnrnnrnn nen Besparingsåtgärder s..........essossssesssesssnesnsnnennnenrninsenenrnnn nn Bidrag till arbetsbiträde ..............sssssssoseosennnnnsnnennrnnnrnnnn nr Bidrag till Samhall Aktiebolag.............ssssssssssensnssnsnsrensnn LÖNEebidrag sssnnsnseseesressrerrarrerrerrerrrsrnrrerennenn enn nnn rn nen nn nen nn nan SysSselsättNiNg s..ssmmssssssesresnneseeneesrrnrsnsrerrrrrnrrnrnenernen rr nn nrn rann Särskilda åtgärder för arbetshandikappade ................... Uppdragsverksamhet............sessssersssrnsennrnnnnnnnrannernrnnernnrnn nn Yrkesinriktad rehabilitering... Arbetshjälpmedel ATrbetSliNjel....ssssossossessressrressrenerrrrrrnrenrrnrrnrrersenrnnrnnnnrnn enn ennen nns n nan Arbetslivsfonden Arbetslivsfondens verksamhet ............ssosssossessennesesnnnnnnnn Överföring av medel till statsbudgeten Arbetslivspolitik Arbetshandikappade Arbetsmiljö .....n.ssssssssssssesenesesnnennensennrsrsnennrnrnernnrnnn rr ren nr nn nn ATbetStiCl........oooseosooensnnsoennrennenrennnerrennerernerrrnrnnennrnennrn nn rn rann FöretagshälsOVård ......s.ssssssssesssnnenenenrrsnennnrnnnnnnrnnnnnnnnnn rann Arbetslivsutveckling (ALU. ........sssssseosesssessensansersenensennnnnnnnnt Arbetslöshetsersättning Arbetslöshetsersättning vid sidan av deltidsarbete........ Beräkning av arbetslöshetsförsäkring ..........................-- ArbetsvillkOr€t.........ssssossnsssrennesnsrnesnrereenerennenrnsnnernnnnnrn nn nn Avstängning från ersättNning.............seesessessseerosesrnsrornnnnnnn Ersättning vid fullgörande av totalförsvarsplikt ........... Förtursrätt till anställning med mer tid för deltidsarbetslÖSaå .........s..ssesessessssssrerenrersnrnnnennrnnrnrrnn nn nn rna nn KOmpensationsnivVvåer ...........sessssessssssrsenesnanennsrsnenenrnnnrnrnnn Kontant arbetsmarknadsstöd (KAS) .....s.oesseseseseoesssrsrans NormalarbetStid............ooosssossssosssssnnnsrennsnnnrnnnnenrrnrnrnnnnn rann</p>
-          <p>8, 15, 20</p>
-          <p>12 12, 3y 12 12,15 12 12,15 12,15 12 12,15 12 12,15 12 11, 15, 3y</p>
-          <p>9,15</p>
-          <p>12, 15, 3y 12 2, 11, 3y, 4y 12 11, 15</p>
-          <p>1994/95:AU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199495/reg_199495_AU/reg_199495_AU-008.pdf"/>
-          <p>Åtgärder vid utförsäkring ............sossoossoossronsnnennnnnnnnnnnn 15 1994/95:AU Reg.</p>
-          <p>Övergångsbestämmelser ...........sssosseoserooseossrernnnrnnnnrnnnnnnnnn 5, 3y Arbetsmarknadsfonden s.......sesssseressrerasnrssreressnnnnerennrerrnnnrnnnnnn 11 Arbetsmarknadspolitiken och EU su ssssssssssesssssrsrsssernennnennnnr 11 ArbetsmarknadSspolitik............ssssesssssesesessresssnenersernrnrennrnnnnrnn 11,15 Arbetsmarknadspolitiska åtgärder ArbetsplatsintroduktiOn.............essssesssrsssrsssrsrsrssnnennennnsnnn 11,15 I DETT RR 11, 15 Ett flexibelt resursutnyttjände ...............ssssssssosssersossrsnnnr 15 InformationSinSatSer.............ssssessrssresensrennnnnnrnnnnnrnnrnrn nn nn 11 Insatser för iNVaNndrar€...osmsssssessesressresernrrsrernrenn ennen nrn enn nn nn 11,15 Insatser för SMåföretagen ..........sssssessssssesernreenennenrenennen nn 15 Kommunernas ansvar för ungdomar upp till 20 år..... 15 MedelSsanViSNiNg s..seseesresssreserssrrrsnnrnerrrrrrrnerrsnrrnnrnn nr n nn nan 11,15 PendlingSStÖd s...ssssiseesessesrersesresersrerseerrernnrnrennnnrnnennenennrnnn nen 15 Personalförstärkning på arbetsförmedlingen ................ 11,15 RekryteringSsStÖd s.........ssssesesseesessesnesennnenrennnernennerernennrnn 11, 15, 3y Starta-eget-Didrag .............ssssssosessensrnnnesennnennrsrnnsnrnnennennnnnnr 11 StarthjälPs...mnmmmsssesosesesenesnereererenrenrnrnnnenennen ennen rnnenen enn nn ann 11, 15, 3y Ungdomar under 20 år omsnnmnssesrsesesenenenrnrnerenrnensrnrnnnnennsn 11,15 UngdomsintroduktiOn s.....ssssssessersssrseserreresnesrnsnnsrererenennnnnn 11, 3y Ungdomsåtgärder s......nsssreresesrenearennenenennennennenernrnennnnn nn nan 11, 15, 3y Utbildningsvikariat..........ssssssesesreseenanennanennennennnnenennnnsnenen 11, 15, 3y Arbetsmarknadsutbildning Betald plats inom barnOomSOrgeD.....ssssessessesseessrnennrnnnnnn 16 Dagpenningens NiVås.......sssessesesenesennsennnnerenennsnnnsnnnnnnnnrnen 11 Efterlevnadspension i samband med utbildning .......... 11 N/T-arvode (naturvetenskaplig/teknisk utbildning) ..... 15 Personliga utbildningskOntOn s..........sssssessersessersesrrnnsnsnnn 15 Särskilda bidrag .....mnmsussrenernrenrennrernnnnennrnnernnrrnnrn nere renen nn 11 Utbildning i företag......... 11 Utbildning utomlands 11 Utbildningsbidrag...............++-s=----- 11, 15, 3y Utbildningsbidrag med lånedel... 11, 15, 3y Utbildningscheckar .............ssssos00- 11 Yrkesteknisk utbildning ...........ssssssesessessersnessessnsresnesnnnnnr 15 Arbetsmarknadsverket (AMV) AMV:s verksamhet s...snnnsssesseesennresenaseenernrenrnernersnrnnenenn ennen 11 FörvaltningsanSlaget..........sssssesssssersesrenrenrrnrrennnsnennsnrnnnnen 11,15 ArbetsmiljöfOnden ...........ssssessessessennennesnnenrennernnernennrsnernrnennen nn 9,18 ArbetsmiljöinstitUtet................ssssssssssssssessssesesrnreneenenenennenenene 9,18 Arbetsmiljölagen Överklagande .............sssssssooosnoooossooosnooossrnonrrnnernnnnennrrnnnn nan 12 ArbetsplatsintroduktiOn ............ssssssesssssessesessesnnennenenernennennnn 11, 15 Arbetsrätt Återanställningsregler ...............sssssoosoooosssssrornnnsnnnnnnnnnnnn 4 Förtursrätt till anställning med mer tid för deltidsanställda...........esesssssseoesoesersennerenernennrnnennnnernnnnnnrnn nen 4,5, 4y Permittering......essessoseosenenersrsenrnerensrsnsrrerernrnnrnnnnrnrnnen ran nn enn 4 8</p>
-          <p>PrOovanställning........sssssssssssssonernensonnnsonensenenennensrnsnnsnnn nn nen 4, 3y</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199495/reg_199495_AU/reg_199495_AU-009.pdf"/>
-          <p>Totalförsvarsplikt...........sososessessessssresesrsnesenennnnninennnnnsnrnnnnn 5,9, 15, 4y 1994/95:AU Reg. 4</p>
-          <p>Tvåmånadersregelh........scssseosoneoseansneennennnrnnenneerennennrnernrnen Uppsägning/avskedande ss ..eseseeseesesrerenrnnrnrnnnnnnnsennnnnnnnr 4 VetOreglerNa......ssssessoneennensesnesrenrenreennnenrnrsnnrnnenern ennen nen ennn nn 4 Arbetstagarbegreppet.......s..osssossoseosorennnnresnnrennnrennnnnnenntrnnnnnenr 4 ATbetStid .........snsosooeooenesrerenreneerernenrernenernrnnnrnennnnn nn nenennrnenennnennn nan 2, 11,15, 3y, 4y Barnledighet i samband med förlossning .............e.ssee------&gt; 16 Beredskapsarbete s..smmmnssssssesseerresrenennrnnrorernesnnrernnerrenrennrner nen nn nn nn 11,15 Blockader mot enmans- och familjeföretag ....................... 4 Bostadsanskaffningslån Statlig kreditgaranti....nnnnmmmsssssssssneonnenernneneenerennsrerrrnnnnnnnnnn 10 DatOrt€k.ssssssssosseereserrenerrerneererrarenrnrenenrrnnrnn ennen nen renare er n rn enten rna 11,15 DeltidsarbetslÖSa ........ssseosssesesereeeeereerernennrnererrrnrnnrrsrrnnernn nn n nn 5, 4y EG-direktiv Kollektiva uppsägningar .....ssmssessesoeeseneerensnennnnnrnnnnenennnnr 4 Överlåtelse av fÖretag.............s...s.sosossoseoseoseooersrnrnnnrnnnnnnnn Egenavgifter .ossnmnsereresrarenrerennernennsreererereernernernennenenrn nn rn nn nenn nn nn 11 Ener giffågOr s..s.nsuseesenenenesenenennerenanenerenennenernererernenrrnrnnnrnenennnn enn 13 EU-medlemskapet s..mnmmnmasressennennennenresnrnernnenrnennernrrnrnrnnenrnnennnn 13, ly Europapraktik ssmmnsssssesersoresesoeresesrenennnennerernnrnennrtennn nn en nnn renen 11 Europeiska regionala utvecklingsfonden .............s.s+---------- 13 Europeiska socialfonden ..eeeseseseseosonesnesnrenrenenenrrnrnrnnnnnnnnnnn 15 Europeiska unionen Arbetsmarknadspolitik ly Arbetsrätt................--ssss0000&gt; ly Konvergenskraven............ ly Landsbygdsutveckling ..... ly Regionalpolitik ...............- ly StrukturfondernNa....ssssseosseerersrrarsrsrsnnrrerrennrrrnerrnernr ner nr nn ly Expertgruppen för forskning om regional utveckling (ERU) oosorsrsssssrsrsrsrsrersenenenenesreneneneorneneerrerrenrnrenenenenrnrnnrnnnnnnnnnn 13 Fallskärmsavtal o.smmnnsssssssssressersnnrssnsesnenrernnnnennnnnn 4 Finansierings- och utjämningsavgift 4y Flygplatser s..n.snsnsesesenenrnnenrnrnenensrsnnenenerersnerenereneneiennerernrnr rn r nn ennen 13 Flyttningsbidrag PendlingsstÖd s..smsesessesesseseresersrenerererrrnenenrrrrnnrsnrnnrn nn nernnen 15 Starthjälp .......ooseosoosososensensrnenernnenerernrrrnnnennrnnrn sen nrnn enn nn nan 11,15 Fonden för arbetsmiljöförbättringar ..............ose-ssseeeereserrnrn 9 Fyratimmarsavdraget vid beredskapsarbete........................+ 11 FöretagshälsOVvård .......s.ssssssssnssensnsenenesnenrenenennernrnnnnnnnenennnn ennen 12 FöretagsöverlåtelSe...............sssssososnsnsoonnnnnnennnnnnnnnnrnnnnnnnnnnennen 4 Föräldraledighet Barnledighet i samband med förlossning..............--+----- 16 Föräldraledighetens förläggning..................s-sssssessseres0ner 16 9</p>
-          <p>Individuella aVvtalssoosssssssssessrsssessnsseseererrrrrerrrrnnrnnr nn nn rna nn 16</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199495/reg_199495_AU/reg_199495_AU-010.pdf"/>
-          <p>KvalifikatiOonStid osnnsmssssssssssssesesenensnnnsnosnsesnennrnnrnnnnnnrnnnnn Mödravårdsundersökning ..........sssssssssssssosossssnenenensnnnnnnen Semesterlönegrundande frånvarO s.......ssssssseseseserersenesnnne Återgång i arbete Föräldraledighetslag</p>
-          <p>GemenskapsinitiatiVel........sssssssseosssorererenensnsnsnsnneserererenenennnnn Glesbygd .......nssesseonnnnnnn Glesbygdsverket</p>
-          <p>Informationsteknik (IT). ...smmsmssssssesseresresreserrnesresrererrerrernnn nn nr Infrastruktur ossssssssssessssesssrrernsrrersrrrrrnrrrr er nns nnerrr ennen ennen nr rn ner Institutet för arbetslivsforskning .............ssssssesssesssssennnennnnn nn Institutet för forskning och utveckling (FOU) ...................-</p>
-          <p>Invandrare InformationSinSätS€r......s...sseseresseserererersrrerrrsrrrnrrnrnrnrnnn nn Insatser för flyktingar och invandrare................-..s.s----- Insatser i invandrartäta OMråden ..............essssoesesessssrsnenn Invandrarpolitiska Kommittén ..............s.ssssssssesesessssnnnnnn Offentlig Utfrågning........sssseseeseoreresrererrsrorerererererrereren nn nn Utomnordiska invandrare s...ssesessersrssrrersrersrennrnnnrnnnrn nn Investeringsprogram</p>
-          <p>Jämställdhet Bidrag till kvinnoorganisationernas centrala verksamhet. ..ossssesssssssssernnrernrsnrernrrrrnrerrnernnnnnnsnn error nen nn nn nen</p>
-          <p>JämställdhetsombudsmannenD......ssssssssrssssssrsssssrsrnssnrnnn nr Kvinnornas arbetsmarknad ..............ssssssossssssserseserssnnnnnnr Särskilda jämställdhetsåtgärder ...................ssssssooses0r0r0nnn</p>
-          <p>Kollektiva UPPSÄägnNiNgår sissosssosssessseesrressrerrnrrnrnesrnrrnnnnnnnnnnrn rann Kommunernas ansvar för ungdomar upp till 20 år........... KompetensutveCkling........ssssosssssessesenresenrsrsnnnrnrerenennnnersrnnnnnn KompletteringspropOSitiON€nN .........ssssssssessserseesesnennennennrnnnnnnn Konkurrens inom arbetsförmedlingsområdet..................... Konkurs i samband med övergång och företrädesrätt........ Kontant arbetsmarknadsstöd (KAS)... KoOnvergenSkraVvenh smsmmsssssessressrrsseosnerernnerrsnnerenrnrerrrsnnesrnsrnern nn n Kostnader för vissa Nämnder ssssessesersrererrenrrsernrsnennsnnennrnnr nr Kultur inom regionalpOlitik......essssssesssessrssnsresrerssnennnnennnnnn Kvinnor Bidrag till kvinnoorganisationernas centrala verkSamhet .sssssssessrssssserersnrrernrnerrernnesnrrernrnrerrnnnn rr nns rr nn nn Kvinnor inom regionalpolitiken..............ssssssesessesresrsnn Kvinnors arbetsmarknad .........s.ssseseesessrsessssrssrenenrernnnnnnnr Kvinnors företagande s.......sssssesseesssrensensrnsnennrsnnennnesnrnnn nn</p>
-          <p>16 1994/95:AU Reg.</p>
-          <p>16 16 16 16</p>
-          <p>13 13 13</p>
-          <p>11,15</p>
-          <p>11,15</p>
-          <p>9,11, 13,15</p>
-          <p>10</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199495/reg_199495_AU/reg_199495_AU-011.pdf"/>
-          <p>Resurscentrum för kVinnNOL.........ssssessesseresessrsrsrrrrsrrnrnnnnn 13 1994/95:AU Reg.</p>
-          <p>LandsbygdsutveCkling..........ss.ssssssssssssssnsressrnnrnnnnrennernsnnsnrnnern en 13 Ledighet för vård av barn 16, 2y Lokaliseringsbidrag..............s.-ssssssssrseesnrrnnn ene 1,13 LokaliseringSslån ..........osssssssenoesesennnrsnnnnnnnnn sons 13 Långtidsarbetslöshet ....................- son 11, 15, 3y Länsanslaget ......sssnssessesnanennnnnennnnnnn sen 13 LöÖnebidrag .....ssssseessrersrennennnnenn nn nr oo 12,15 LÖNEgaraNtio.ssnsssessessrererserrserrrrrrererrerrrrnnnrrnrenrrnnnn renen ense rn nnn nn nn 11, 4y Mödravårdsundersökning ......ssosossosessesesresenesrenesrsenrsrnrsrrerern nr 16 N/T-arvode (naturvetenskaplig/teknisk utbildning) ........... 15 Norrlandsfonden .....s.ssssseseesserrrssensenerannrrrnrernennrnrnerennrrsnenrnrnn rna 13 NUTEK soo onresseesresesresesrereneerereerererrsresnerrrrrenrrenranenen een en en rn rn nn nn 13 Näringslivsbidräag .....ssssesseseosesesnensnrenesrnnnnnererernererennrnnenenener ennen 13 NäringslivSfrågOr .........sossssssesesanesrneneneenenerrsnsennnnsnrennrsnnnnsnnnnn nar 13 Offentliga SeKtOrf ........s.sssssessessessersersnnnrrserrerennnennerennnnrnenennnnn nr 3y Otraditionella insatser. ....sssssssssssessrsnnsnrnrrnrnnnnnnrrennernsnnsrnrnnnnnnn 11 PendlingSStÖd ....ssssesssesressrasseresrersrsrsrrerrrnenrrennn senere nrnnsnnsn nn n en 15 PermitteriNg .....osssseoseenersenrernersrerserrrsrsrrnrnernnrnrnn ennen renen nsr enn nn nn 4 PermitteringslöneersättNiNg............s..sssssssssosenssnsnsnensnsnennnnsnnen 11 PlikttjänStgÖriNg.......sssssssessssossnesenseesennnresrreneerernrrrnrnernrnnrennnnnnen 5,9, 15, 4y Provanställning .....ssssseseesesersoesreseernersrrnrernrenrarnnnntrrnernrn ennen nn nen 4, 3y Pälsdjursuppföd niNg........s.essssressersssresrasrrsrrnrannrnennsnennnnnrnn rna 13 RAS (Riktat anställningsstöd) s.........ssssssssesssessensnssonsensnnnrnen 8, 20 Regeringens disposition för vissa stabsuppgifter................. 10 Regionalpolitik FÖretagSsStÖd smsssssssesseseesersnesenrresrrsnnrennsrnnsrrnnnsrnnnnnenenen enn n nn 13 Infrastruktur s.o.ssmsssseseeseessennesrrsrerrnersnrerrenrarnennrrrenenrrnenen enn n en 13 KViNNOL oososeerrererlresrereesrerrerrerrerrerrrrrrnnrrrersan enn renen ns rrn enar ennen 13 LokaliseringSlån..........essssesessoosenenneserenrnrsennnnrennrsennnsnnnnnnn en 13 Målen 2 OCh Sb....smmssssssesesenesenenrarennsnersrnnsnenrnnennnrnrnnsnn nns n nn 13 Målen för regionalpolitiken s...ssssssssessersesrsrsrsnernnnnnnnnnnnn 13 Strukturfondsprojekt............e.sssssssessessesssssesenrsesenesnrnsnnnnnnr 13 StöÖdOMFrådenN sssssoseseeesererrsenerenenrrrernrnenennranenanrrn nerna rnn nn rna nn 13 Översyn av de regionalpolitiska stöden......................... 13 RekryteringSsStÖd s.....sssssesesssssessenseosnesnrsnnnernesrennennennensrsnnr enn rnnnen 11, 15, 3y Reparation— Ombyggnad — Tillbyggnad (ROT-åtgärder)... 3y REeSUrSCENtrUMossosseessrersersrerrrsrerersrrrererrrrrrrrerrrerrrnrnrrern nn nen n nn enn 13 Riksdagens revisorer Lokaliseringsbidrag ......sssssssssersseersssrrrsrrrernerrennsrnnnnnnrn nn nn 1 Regionala utvecklingsinsatSer.................sssssssssssssssesrsnsnen 13 Saab-Scanias bilfabrik i Malmö 1 Riktat anställningsstöd (RAS) ............s.-sssese2-- 8, 20 11</p>
-          <p>Riskkapital osmossnsnsssessssssnessrannrnannnsnrrsnsonnnrnnnenrnnnnrrnnennrnnrnnsn enn rn nen 13</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199495/reg_199495_AU/reg_199495_AU-012.pdf"/>
-          <p>ROT-åtgärder (Reparation — Ombyggnad — Tillbyggnad)... 3y 1994/95:AU Reg. Rådet för arbetslivsforskning..........s.sssssssssssesesrsnsosnesnsnsnnenennr 9</p>
-          <p>Saab-Scanias bilfabrik i Malmö</p>
-          <p>Lokaliseringsbidrag .....sssssssseesserserrsreseresnrnrsnennrnnnrrnrenn renar 1 Samhall AktiebOlag sm..ssnmmnssesesnnnenenennnrenenrnernerenrnnerenennnnnnennn nan 12,15 Semester Semesterförmåner vid föräldraledighet ......................-.- 2 Semesterlön vid frånVvarO ........sssssssesserrssssosenenenennnnnnnnnnn nn 2 Semesterlönegrundande frånvarO ............sessssssesssrenernannn 2, 16 Sjögående fartyg ..........ssssossssnenessnsnesenenernrrernrrnnnrnrnenennnnnnnrnrnen nn 4 SKÄrgårdar ossnsnssrsrersreseererrererresrerenrsrerenesrerersrrrnrrrereren rn nrnn nan nen rna 13 Små och medelstora föÖretag..................ssssssssssssersrseserennnnnnnnn 13 SmåföretagsstÖdet.....:............sssssseseserenenenrsrnenennnennnrnnnrennrnnn nr nn 13,15 Socialavgifter NedSsättning av ssssnmssseesserresrereereersesresrererennerennrnnnnnsrrnnern rn nn 13 Ändring i lägeD...s...ssssssssssssssroesssnsrnnssssernnsrnnnnsnrnssrrnnnrnn nn 8, 9, 11, 20 Starta-eget-bidraget ........s..ss.sssessoresrennnrnnrsenerernennsnnnnsnnernnn nn nn nn 11 StarthjälpP ..smmsssoesrrenrererrenrerennrnenennenennnnerenenersn en eran nr nen nn rn nanna nar 11, 15, 3y Statens förlikningsmannaexpeditiOn..............ssssssssssssssssrserna 6 Statens löne- och pensionSVerk ...ssmsssssessesersssserassanrsersnnnnnnnnn 10 Statens nämnd för arbetstagares uppfinningar ................... 6 Statliga arbetsgivarfrågOr................sssssssosonsononenenenennnnnnnnnrnnnnnn 10 Statliga grupplivförsäkringar s......ssssssssssssssrsssresnsnennnnnsnnnnnnn nr 4 Stiftelsen Utbildning Nordkalotten................sssssssssssssssssrsnnr 11 Strukturfondsprojekt.........ssssssssssrssssssssrrsresrnnnenrennnsnnnernnnn narr 13</p>
-          <p>Stöd för nyanställningar Investeringsprogram för inomhusklimat och</p>
-          <p>MiljöSaNEriNg m.sssmseessersrrersserrererrernranresrenernnernrrrr rann rnn nr nanna 8, 15, 20 RekryteringSsStÖd s......sssssssssssessressnansearersesnesnnerresnnernrsrnnnn nr 8, 15, 20 Tillfälligt anställningsstöd (RAS) .....sesssssssssossssssonsnsnnnr 8, 15, 20 Stödberättigad verksamhet inom regionalpolitiken ........... 13 StödOMFråden oussssseseeeresrererresrrrerrerrnrnnenennnnsrsnnennn ann rnrn ennen nr nn anna 13 Sysselsättningsbidräg......mssessessersssrenesneeneernsresnsnsnnenernennerennnrnnnn 13 Särskilda regionalpolitiska infrastrukturåtgärder ............... 14 Särskilda åtgärder för regional utveckling och tillväxt ...... 13,15 TelekommunikatiOnD.......sssessessrssesrseseaserseserersererrennernnnnennsnnrnnn nn 13 Tilläggsbudget s..smsnsseessrersorrernnernnnna 10, 14 Tjänstepensioner för 'skolledare 10 Totalförsvarsplikt.........sssssssssessrsresersessersennsrsrennsrennrnnnnnna 5,9, 15, 4y TranSpOrtStÖd s..ssssssesssersrereerrrernnrrsrrrrrrennenreneresnnnerrennen nn ennen rn nn nn 13 Turism inom regionalpolitiken..........sssssssersssesesesenrrnerennsnnnr 13 TvåmånaderSregell...ssssssssseresesrsrnesensnrnennnssrsennnenenennnrnsnn nn nn nn 4 U-landspraktik ssssssssssssssssersernrerrennernennesnernsnsnsnerrenennnnenen nn n nn n 11 Ungdomar Akademikerpraktik ....mmnssssssssssasnenernerenennennnnerennnnrennnnnnnnt 11, 15, 3y Arbetshandikappade ungdomar ............ssssesssessnensesnsnsnsnt 12, 3y 12</p>
-          <p>DatOrtek sissossnssssssserserereresrrrrsrrrrrsrsrsesneererrrrr rr rr rr nrrr rr rr rr rr rn rn na 11,15</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199495/reg_199495_AU/reg_199495_AU-013.pdf"/>
-          <p>Europapraktik s.osssnmsssssrsrsssreserersrrersnrenrseersrrrnersnnren enn nnrrn nn nn Kommunernas aNSVAL smmsssssesssreseserersrseserennrsererresrrrnrnn rn nn Konsekvensutredning av avskaffandet av ungdomspraktiken s.mmmssssesssssssresssrrrrrensrrnnenrerennrnnnnnnen nn nn Obligatoriska praktikplatser................sesssessssensesnnnnsennnnan U-landspraktik sssonssssssssssssrsnererrrrrennnernrrnennresernrnnnnen nn rn nn nn Ungdomsarbetslöshet ......ssssssssssereesrarsrnsernnennrnennnnennrnnnnn nn UngdomsintroduktiOn ss ..smmsssessressssrerrrerrrrrsrnrerenrerrnnnnnn anna Ungdomspraktik.......sssssessssssseesersrsnnerrennnernenrrrennennnnen nn nana UtvecklingsSprOgfäalm ss osssssssssssssesessesnersrennesersnernnnsnnnnrnnn near Åtgärder för ungdomar under 20 år... oe Uppsägningsförbudet.............ssssessersesssessrssrrsenrsnesenennrrrnsnsnsnnnn Utbildningsbidrag med lånedel s...ssseseseseesesrsessrnrnnnnnnnnnnnnn Utbildningsvikariat.........s.sssosessssessrseressernrenenreserrrrenenenennn enar ann Utförsäkring (beslutande rätt) ................sessosesesssorsesesrennnnnnnn UtlOkaliSCriNg smessmmmssssressersrerererererrrrerrrrrerrrennnnrrnnnrrrnr snar nn en nanna Utvecklingsbidrag ........sssssssessessereeserrsersrsnsrnenrrnenrenenrnenrnnnnnnn nana</p>
-          <p>Vattenkraftsproduktionen (återföring av vinst) .................. NA 107 £=3:4 (3 6 tV: OR Vårdnadsbidraget .....n.sssseseereresrererenrenrernerrenenenen ennen nn enar sn nn enn</p>
-          <p>Yrkesinriktad rehabiliteriNng...........sssssssessssosesersenennnsnenennsnnnnn YrkesinspektiOneh ..smmmsssssessenesssnsneerenrenesrnenrnrnrsrerernersnnnnrnn nanna</p>
-          <p>Åldersgräns för ersättning från arbetslöshetsförsäkringen. Äldre arbetslösa ............ssssssesooossenossrnssrrnonssrrrrerrnnnnnrnnnnnnnnn Överföring av medel från Arbetslivsfonden till StatsbUCgetenN ...sssssssssssessesrenrersrernerrerrrrrrennrnrern ennen ennen enn rn rn en en enat</p>
-          <p>Övergång av verksamheter och kollektiva uppsägningar .. Överlåtelsedirektivet ............sssnossssroosssssssersesssrrsssssssnnnnnnn</p>
-          <p>11 15</p>
-          <p>11, 15, 3y</p>
-          <p>1994/95:AU Reg.</p>
-          <p>13</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199495/reg_199495_AU/reg_199495_AU-014.pdf"/>
-          <p>gotab 48644, Stockholm 1995</p>
+          <p>
+            Arbetsmarknadsutskottets register ÖN
+          </p>
+          <p>
+            vid riksmötet 1994/95 PRIS 1994/95 AU Reg. Betänkanden Nr AU1
+          </p>
+          <p>
+            Riksdagens revisorers förslag till följd av statens stöd till
+            Saab-Scanias bilfabrik i Malmö (förs. 1992/93:RR7) Utskottets
+            justering 1994-11-24 Förslag till beslut: Utan vidare åtgärd till
+            förslaget och motioner betr. konsekvensanalyser (mom. 1), delvis
+            bifall till förslaget och motioner betr. hantering av lokaliseringsbidrag
+            (mom. 2) och avskrivnings- och återbetalningsregler (mom. 3),
+            utan vidare åtgärd till förslaget och motioner betr. tillfälliga
+            krispaket (mom. 4) och motion betr. statliga kontrollorgans möjlighet
+            att få tillgång till handlingar (mom. 7). I övrigt avslag på motionerna
+          </p>
+          <p>
+            Debatt i kammaren 1994-12-07 Protokollshummer 1994/95:37 Riksdagens
+            beslut: Bifall till utskottets hemställan 1994-12-07 Protokollsnummer
+            1994/95:37 Riksdagsskrivelse 1994/95:61, 62 Nr AU2 Arbetstid m.m.
+            Utskottets justering 1994-11-15 Förslag till beslut: Avslag på
+            motionerna Debatt i kammaren 1994-11-30 Protokollsnhummer 1994/95:32
+            Riksdagens beslut: Bifall till utskottets hemställan 1994-11-30
+            Protokollsnhummer 1994/95:32 Riksdagsskrivelse - Nr AU3
+          </p>
+          <p>
+            ILO:s konvention om förebyggande av storolyckor inom industrin
+            (prop. 1993/94:174)
+          </p>
+          <p>
+            Utskottets justering 1994-10-25 Förslag till beslut: Bifall till
+            propositionen Riksdagens beslut: Bifall till utskottets hemställan
+            1994-11-16 Protokollsnhummer 1994/95:23 Riksdagsskrivelse 1994/95:22
+          </p>
+          <p>
+            1 Riksdagen 1994/95. 18 saml. Register
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199495/reg_199495_AU/reg_199495_AU_0001"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199495/reg_199495_AU/reg_199495_AU_0002"/>
+          <p>
+            Nr AU4 1994/95:AU Reg. Förändring av vissa arbetsrättsliga regler,
+            m.m. (prop. 1994/95:76 och 1994/95:102) Utskottets justering 1994-12-06
+            Förslag till beslut: Delvis bifall till proposition 76 och motioner
+            betr. vetoreglerna (mom. 7), delvis bifall till motioner betr.
+            vissa lagförslag i proposition 76 (mom. 8), delvis bifall till
+            proposition 102 betr. beräkning av anställ- ningstid efter övergång
+            i samband med konkurs m.m. (mom. 12), delvis bifall till propositionerna
+            76 och 102 betr. vissa lagförslag (mom. 16). I övrigt bifall till
+            propositionerna och avslag på motionerna
+          </p>
+          <p>
+            Debatt i kammaren 1994-12-16 Protokollsnhummer 1994/95:44 Riksdagens
+            beslut: Bifall till utskottets hemställan 1994-12-20 Protokollsnummer
+            1994/95:46 Riksdagsskrivelse 1994/95:123 Nr AUS
+          </p>
+          <p>
+            Förändringar i arbetslöshetsersättningen (prop. 1994/95:99 och
+            1994/95:6) Utskottets justering 1994-12-08 Förslag till beslut:
+            Delvis bifall till motioner och avslag på proposition 99 betr.
+            arbetslöshetsersättning vid deltidsarbete (mom. 5), delvis bifall
+            till proposition 99 betr. lagbestäm- melserna i 6 och 20 $$ ALF-lagen
+            (mom. 6), delvis bifall till proposition 99 och motioner betr.
+            övergångsbestämmelser m.m., (mom. 10). I övrigt bifall till proposition
+            99 och avslag på motionerna. Avslag på proposition 6 i vissa delar
+          </p>
+          <p>
+            Debatt i kammaren 1994-12-16 Protokollsnummer 1994/95:44 Riksdagens
+            beslut: Bifall till utskottets hemställan 1994-12-20 Protokollsnummer
+            1994/95:46 Riksdagsskrivelse 1994/95:124, 125 Nr AU6 Arbetsdomstolen
+            m.m., anslag (prop. 1994/95:100 bil. 11 delvis) Utskottets justering
+            1995-02-16 Förslag till beslut: Bifall till propositionen Riksdagens
+            beslut: Bifall till utskottets hemställan 1995-03-15 Protokollsnummer
+            1994/95:73 Riksdagsskrivelse 1994/95:183 Nr AU7 Anslag till jämställdhet
+            m.m. (prop. 1994/95:100 bil. 6 delvis) Utskottets justering 1995-02-23
+            Förslag till beslut: Bifall till propositionen och avslag på motionerna
+            Debatt i kammaren 1995-03-08
+          </p>
+          <p>
+            Protokollsnummer 1994/95:69
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199495/reg_199495_AU/reg_199495_AU_0003"/>
+          <p>
+            Riksdagens beslut: Bifall till utskottets hemställan 1995-03-15
+            1994/95:AU Reg.
+          </p>
+          <p>
+            Protokollsnhummer 1994/95:73 Riksdagsskrivelse 1994/95:181, 182
+            Nr AU8 Stöd för nyanställningar (prop. 1994/95:137) Utskottets
+            justering 1995-02-16
+          </p>
+          <p>
+            Förslag till beslut: Delvis bifall till propositionen och motioner
+            betr. utformningen av lagförslagen (mom. 2) och delvis bifall
+            till motion betr. ett investeringsprogram (mom. 3). I övrigt avslag
+            på motionerna
+          </p>
+          <p>
+            Debatt i kammaren 1995-02-22 Protokollshummer 1994/95:64 Riksdagens
+            beslut: Återremiss 1995-02-22 Protokollsnummer 1994/95:64 Riksdagsskrivelse
+            - Nr AU9
+          </p>
+          <p>
+            Ny myndighetsorganisation inom arbetslivet m.m. (prop. 1994/95:158)
+          </p>
+          <p>
+            Utskottets justering 1995-04-27 Förslag till beslut: Bifall till
+            propositionen och avslag på motionerna Debatt i kammaren 1995-05-10
+            Protokollsnummer 1994/95:102 Riksdagens beslut: Bifall till utskottets
+            hemställan 1995-05-11 Protokollsnummer 1994/95:103 Riksdagsskrivelse
+            1994/95:336 Nr AU10 Statliga arbetsgivarfrågor (prop. 1994/95:100
+            bil. 8 delvis) Utskottets justering 1995-02-16 Förslag till beslut:
+            Bifall till propositionen Riksdagens beslut: Bifall till utskottets
+            hemställan 1995-03-15 Protokollsnhummer 1994/95:73 Riksdagsskrivelse
+            1994/95:184 Nr AU1l1 Arbetsmarknadspolitik (prop. 1994/95:100
+            bil. 11 delvis) Utskottets justering 1995-03-14
+          </p>
+          <p>
+            Förslag till beslut: Avslag på propositionen och delvis bifall
+            till motioner betr. åldersgränsen i arbetslöshetsförsäkringen
+            (mom. 67). I övrigt bifall till propositionen och avslag på
+          </p>
+          <p>
+            motionerna Debatt i kammaren 1995-03-29 Protokollsnummer 1994/95:81
+            Riksdagens beslut: Bifall till utskottets hemställan 1995-03-30
+            Protokollshnummer 1994/95:82 Riksdagsskrivelse 1994/95:233
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199495/reg_199495_AU/reg_199495_AU_0004"/>
+          <p>
+            Nr AU12 Arbetslivspolitik (prop. 1994/95:100 bil. 11 delvis och
+            1994/95:136) Utskottets justering 1995-03-14 Förslag till beslut:
+            Bifall till proposition 100 bil. 11. Delvis bifall till proposition
+            136 betr. lagförslaget (mom. 20). Avslag på samtliga motioner
+          </p>
+          <p>
+            Debatt i kammaren 1995-03-22 Protokollsnhummer 1994/95:77 Riksdagens
+            beslut: Bifall till utskottets hemställan 1995-03-22 Protokollsnummer
+            1994/95:77 Riksdagsskrivelse 1994/95:227 Nr AU13
+          </p>
+          <p>
+            Regionalpolitik (prop. 1994/95:161, 1994/95:100 bil. 11 delvis,
+            avbidan, förs. 1994/95:RR2) Utskottets justering 1995-05-30 Förslag
+            till beslut: Bifall till propositionen och avslag på förslaget
+            samt motionerna
+          </p>
+          <p>
+            Debatt i kammaren 1995-06-12 Protokollsnummer 1994/95:118 Riksdagens
+            beslut: Bifall till utskottets hemställan 1995-06-13 Protokollsnummer
+            1994/95:119 Riksdagsskrivelse 1994/95:425, och
+          </p>
+          <p>
+            1994/95:426
+          </p>
+          <p>
+            Nr AU14 Tilläggsbudget till statsbudgeten för budgetåret 1994/95
+            (prop. 1994/95:105)
+          </p>
+          <p>
+            Utskottets justering 1995-02-16 Förslag till beslut: Bifall till
+            propositionen Riksdagens beslut: Bifall till utskottets hemställan
+            1995-03-15 Protokollsnhummer 1994/95:73 Riksdagsskrivelse 1994/95:185
+            Nr AU1S
+          </p>
+          <p>
+            En effektivare arbetsmarknadspolitik m.m. (prop. 1994/95:218
+            och 1994/95:6 delvis) Utskottets justering 1995-05-19 Förslag
+            till beslut: Delvis bifall till motioner betr. kart- läggning
+            och analys av kvinnors arbetsmarknad (mom. 3), delvis bifall till
+            proposition 218 betr. AMS tillsynsverksamhet m.m. (mom. 9), delvis
+            bifall till proposition 218 och motion betr. tillfällig personalförstärkning
+            (mom. 13), delvis bifall till proposition 218 betr. kommunernas
+            ansvar för ungdomar (mom. 23), delvis bifall till proposition
+            218 och motioner betr. särskilda åtgärder för regional utveckling
+            och tillväxt (mom. 25). I övrigt bifall till propositionerna 6
+            och 218 och avslag på motionerna Debatt i kammaren 1995-06-02
+          </p>
+          <p>
+            1994/95:AU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199495/reg_199495_AU/reg_199495_AU_0005"/>
+          <p>
+            Protokollsnhummer 1994/95:114 1994/95:AU Reg.
+          </p>
+          <p>
+            Riksdagens beslut: Bifall till utskottets hemställan 1995-06-07
+            Protokollsnummer 1994/95:115 Riksdagsskrivelse 1994/95:398, 399
+            Nr AU16 Ny föräldraledighetslag m.m. (prop. 1994/95:207) Utskottets
+            justering 1995-05-04
+          </p>
+          <p>
+            Förslag till beslut: Delvis bifall till motioner betr. förläggning
+            av föräldraledighet under dagen (mom. 10). I övrigt bifall till
+            propositionen och avslag på motionerna
+          </p>
+          <p>
+            Debatt i kammaren 1995-05-18 Protokollsnhummer 1994/95:108 Riksdagens
+            beslut: Bifall till utskottets hemställan 1995-05-19 Protokollsnhummer
+            1994/95:109 Riksdagsskrivelse 1994/95:364 Nr AU17
+          </p>
+          <p>
+            Tilläggsbudget till statsbudgeten för budgetåret 1994/95 (prop.
+            1994/95:125 delvis)
+          </p>
+          <p>
+            Utskottets justering 1995-04-27 Förslag till beslut: Bifall till
+            propositionen Riksdagens beslut: Bifall till utskottets hemställan
+            1995-05-11 Protokollsnummer 1994/95:103 Riksdagsskrivelse 1994/95:337
+            Nr AU18 Ledningsform för Institutet för forskning och utveckling
+            Utskottets justering 1995-05-30 Förslag till beslut: Delvis bifall
+            till motionen Riksdagens beslut: Bifall till utskottets hemställan
+            1995-06-07 Protokollsnummer 1994/95:115 Riksdagsskrivelse 1994/95:403
+            Nr AU19
+          </p>
+          <p>
+            Inget betänkande avlämnat.
+          </p>
+          <p>
+            Nr AU20 Stöd för nyanställningar (förnyad behandling) (prop.
+            1994/95:137) Utskottets justering 1995-02-23 Förslag till beslut:
+            Delvis bifall till propositionen och motioner betr. utformningen
+            av lagförslagen (mom. 2), delvis bifall till motion betr. ett
+            investeringsprogram (mom. 3). I öv- rigt avslag på motionerna
+          </p>
+          <p>
+            Debatt i kammaren 1995-03-08 Protokollshummer 1994/95:69 Riksdagens
+            beslut: Bifall till utskottets hemställan 1995-03-08 Protokollsnummer
+            1994/95:69
+          </p>
+          <p>
+            Riksdagsskrivelse 1994/95:180 5
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199495/reg_199495_AU/reg_199495_AU_0006"/>
+          <p>
+            Yttranden
+          </p>
+          <p>
+            Nr AUly till UU Sveriges medlemskap i Europeiska unionen (prop.
+            1993/94:19)
+          </p>
+          <p>
+            Utskottets justering 1994-11-15 UUS Protokollsnhummer 1994/95:43
+            Riksdagens beslut: 1994-12-14 Riksdagsskrivelse 1994/95:63
+          </p>
+          <p>
+            Nr AU2y till SOU Vårdnadsbidrag (prop. 1994/95:61)
+          </p>
+          <p>
+            Utskottets justering 1994-11-29 SoU8 Protokollsnhummer 1994/95:43
+            Riksdagens beslut: 1994-12-15 Riksdagsskrivelse 1994/95:105
+          </p>
+          <p>
+            Nr AU3y till FiU Arbetsmarknadspolitiken (prop. 1994/95:25)
+          </p>
+          <p>
+            Utskottets justering 1994-12-01 FiUl Protokollsnummer 1994/95:46
+            Riksdagens beslut: 1994-12-20 Riksdagsskrivelse 1994/95:145, 146
+          </p>
+          <p>
+            Nr AU4y till FiU Kompletteringspropositionen (prop. 1994/95:150
+            bil. 10)
+          </p>
+          <p>
+            Utskottets justering 1995-05-19 FiU20 Protokollsnummer 1994/95:120
+            Riksdagens beslut: 1995-06-14 Riksdagsskrivelse 1994/95:447-455
+          </p>
+          <p>
+            1994/95:-AU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199495/reg_199495_AU/reg_199495_AU_0007"/>
+          <p>
+            Sakregister
+          </p>
+          <p>
+            Agenda 21oooossssesresresrereerrerressrrnrerrennesrsnrnnernerenrsn
+            enn ner n enn nr nr nn nn nn Akademikerpraktik sssmomnmssssssssssessssennnersrrsnnennnnnernnnennrnnnrnrnn
+            nan Allergisanerilg....ssosssosesssnesssennnsesnresrnnnsrrnsrrnneennnrernrnrrrnr
+            nn nrn nn ALA-gruppen (Arbetsgruppen lantbruk och samhälle) ....
+            ALU-delegatiOn€i.....sssssssessserresensnrsrnnernrenrernnrennnernenrnernrnrnnn
+            nn AMS tillsynsverksamhet..........ossssossssesnnenrsnrnennnsnnsnnsnennrnnnnnnent
+            Anslagsreservation Hantering äV smsssmsssssesssserseresssesnnrsesnrsrrsnnsrrrerrrrennernsn
+            nn n rn nr Arbetarskyddsstyrelsen Arbetarskyddsverket
+          </p>
+          <p>
+            Arbetsgivarverket............ssssossonsesessessnesensenennennnnrnennennrrernennnn
+            na Arbetshandikappade Anpassningsåtgärder...............esessrssssssssesesenenennnrnrnnnrnnnnnnnn
+            Arbetshandikappade ungdOmar .........ssssessserssssrsnsnnennn
+            nn Arbetshjälpmedel os ssmmmsssssesserssesersrenserrnnnennnnnnnnrnnrnnrnnrnn
+            nen Besparingsåtgärder s..........essossssesssesssnesnsnnennnenrninsenenrnnn
+            nn Bidrag till arbetsbiträde ..............sssssssoseosennnnnsnnennrnnnrnnnn
+            nr Bidrag till Samhall Aktiebolag.............ssssssssssensnssnsnsrensnn
+            LÖNEebidrag sssnnsnseseesressrerrarrerrerrerrrsrnrrerennenn enn
+            nnn rn nen nn nen nn nan SysSselsättNiNg s..ssmmssssssesresnneseeneesrrnrsnsrerrrrrnrrnrnenernen
+            rr nn nrn rann Särskilda åtgärder för arbetshandikappade ...................
+            Uppdragsverksamhet............sessssersssrnsennrnnnnnnnrannernrnnernnrnn
+            nn Yrkesinriktad rehabilitering... Arbetshjälpmedel ATrbetSliNjel....ssssossossessressrressrenerrrrrrnrenrrnrrnrrersenrnnrnnnnrnn
+            enn ennen nns n nan Arbetslivsfonden Arbetslivsfondens verksamhet
+            ............ssosssossessennesesnnnnnnnn Överföring av medel till
+            statsbudgeten Arbetslivspolitik Arbetshandikappade Arbetsmiljö
+            .....n.ssssssssssssesenesesnnennensennrsrsnennrnrnernnrnnn rr
+            ren nr nn nn ATbetStiCl........oooseosooensnnsoennrennenrennnerrennerernerrrnrnnennrnennrn
+            nn rn rann FöretagshälsOVård ......s.ssssssssesssnnenenenrrsnennnrnnnnnnrnnnnnnnnnn
+            rann Arbetslivsutveckling (ALU. ........sssssseosesssessensansersenensennnnnnnnnt
+            Arbetslöshetsersättning Arbetslöshetsersättning vid sidan av deltidsarbete........
+            Beräkning av arbetslöshetsförsäkring ..........................--
+            ArbetsvillkOr€t.........ssssossnsssrennesnsrnesnrereenerennenrnsnnernnnnnrn
+            nn nn Avstängning från ersättNning.............seesessessseerosesrnsrornnnnnnn
+            Ersättning vid fullgörande av totalförsvarsplikt ........... Förtursrätt
+            till anställning med mer tid för deltidsarbetslÖSaå .........s..ssesessessssssrerenrersnrnnnennrnnrnrrnn
+            nn nn rna nn KOmpensationsnivVvåer ...........sessssessssssrsenesnanennsrsnenenrnnnrnrnnn
+            Kontant arbetsmarknadsstöd (KAS) .....s.oesseseseseoesssrsrans
+            NormalarbetStid............ooosssossssosssssnnnsrennsnnnrnnnnenrrnrnrnnnnn
+            rann
+          </p>
+          <p>
+            8, 15, 20
+          </p>
+          <p>
+            12 12, 3y 12 12,15 12 12,15 12,15 12 12,15 12 12,15 12 11, 15,
+            3y
+          </p>
+          <p>
+            9,15
+          </p>
+          <p>
+            12, 15, 3y 12 2, 11, 3y, 4y 12 11, 15
+          </p>
+          <p>
+            1994/95:AU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199495/reg_199495_AU/reg_199495_AU_0008"/>
+          <p>
+            Åtgärder vid utförsäkring ............sossoossoossronsnnennnnnnnnnnnn
+            15 1994/95:AU Reg.
+          </p>
+          <p>
+            Övergångsbestämmelser ...........sssosseoserooseossrernnnrnnnnrnnnnnnnnn
+            5, 3y Arbetsmarknadsfonden s.......sesssseressrerasnrssreressnnnnerennrerrnnnrnnnnnn
+            11 Arbetsmarknadspolitiken och EU su ssssssssssesssssrsrsssernennnennnnr
+            11 ArbetsmarknadSspolitik............ssssesssssesesessresssnenersernrnrennrnnnnrnn
+            11,15 Arbetsmarknadspolitiska åtgärder ArbetsplatsintroduktiOn.............essssesssrsssrsssrsrsrssnnennennnsnnn
+            11,15 I DETT RR 11, 15 Ett flexibelt resursutnyttjände ...............ssssssssosssersossrsnnnr
+            15 InformationSinSatSer.............ssssessrssresensrennnnnnrnnnnnrnnrnrn
+            nn nn 11 Insatser för iNVaNndrar€...osmsssssessesressresernrrsrernrenn
+            ennen nrn enn nn nn 11,15 Insatser för SMåföretagen ..........sssssessssssesernreenennenrenennen
+            nn 15 Kommunernas ansvar för ungdomar upp till 20 år..... 15 MedelSsanViSNiNg
+            s..seseesresssreserssrrrsnnrnerrrrrrrnerrsnrrnnrnn nr n nn nan
+            11,15 PendlingSStÖd s...ssssiseesessesrersesresersrerseerrernnrnrennnnrnnennenennrnnn
+            nen 15 Personalförstärkning på arbetsförmedlingen ................
+            11,15 RekryteringSsStÖd s.........ssssesesseesessesnesennnenrennnernennerernennrnn
+            11, 15, 3y Starta-eget-Didrag .............ssssssosessensrnnnesennnennrsrnnsnrnnennennnnnnr
+            11 StarthjälPs...mnmmmsssesosesesenesnereererenrenrnrnnnenennen
+            ennen rnnenen enn nn ann 11, 15, 3y Ungdomar under 20 år omsnnmnssesrsesesenenenrnrnerenrnensrnrnnnnennsn
+            11,15 UngdomsintroduktiOn s.....ssssssessersssrseserreresnesrnsnnsrererenennnnnn
+            11, 3y Ungdomsåtgärder s......nsssreresesrenearennenenennennennenernrnennnnn
+            nn nan 11, 15, 3y Utbildningsvikariat..........ssssssesesreseenanennanennennennnnenennnnsnenen
+            11, 15, 3y Arbetsmarknadsutbildning Betald plats inom barnOomSOrgeD.....ssssessessesseessrnennrnnnnnn
+            16 Dagpenningens NiVås.......sssessesesenesennsennnnerenennsnnnsnnnnnnnnrnen
+            11 Efterlevnadspension i samband med utbildning .......... 11
+            N/T-arvode (naturvetenskaplig/teknisk utbildning) ..... 15 Personliga
+            utbildningskOntOn s..........sssssessersessersesrrnnsnsnnn 15
+            Särskilda bidrag .....mnmsussrenernrenrennrernnnnennrnnernnrrnnrn
+            nere renen nn 11 Utbildning i företag......... 11 Utbildning utomlands
+            11 Utbildningsbidrag...............++-s=----- 11, 15, 3y Utbildningsbidrag
+            med lånedel... 11, 15, 3y Utbildningscheckar .............ssssos00-
+            11 Yrkesteknisk utbildning ...........ssssssesessessersnessessnsresnesnnnnnr
+            15 Arbetsmarknadsverket (AMV) AMV:s verksamhet s...snnnsssesseesennresenaseenernrenrnernersnrnnenenn
+            ennen 11 FörvaltningsanSlaget..........sssssesssssersesrenrenrrnrrennnsnennsnrnnnnen
+            11,15 ArbetsmiljöfOnden ...........ssssessessessennennesnnenrennernnernennrsnernrnennen
+            nn 9,18 ArbetsmiljöinstitUtet................ssssssssssssssessssesesrnreneenenenennenenene
+            9,18 Arbetsmiljölagen Överklagande .............sssssssooosnoooossooosnooossrnonrrnnernnnnennrrnnnn
+            nan 12 ArbetsplatsintroduktiOn ............ssssssesssssessesessesnnennenenernennennnn
+            11, 15 Arbetsrätt Återanställningsregler ...............sssssoosoooosssssrornnnsnnnnnnnnnnnn
+            4 Förtursrätt till anställning med mer tid för deltidsanställda...........esesssssseoesoesersennerenernennrnnennnnernnnnnnrnn
+            nen 4,5, 4y Permittering......essessoseosenenersrsenrnerensrsnsrrerernrnnrnnnnrnrnnen
+            ran nn enn 4 8
+          </p>
+          <p>
+            PrOovanställning........sssssssssssssonernensonnnsonensenenennensrnsnnsnnn
+            nn nen 4, 3y
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199495/reg_199495_AU/reg_199495_AU_0009"/>
+          <p>
+            Totalförsvarsplikt...........sososessessessssresesrsnesenennnnninennnnnsnrnnnnn
+            5,9, 15, 4y 1994/95:AU Reg. 4
+          </p>
+          <p>
+            Tvåmånadersregelh........scssseosoneoseansneennennnrnnenneerennennrnernrnen
+            Uppsägning/avskedande ss ..eseseeseesesrerenrnnrnrnnnnnnnsennnnnnnnr
+            4 VetOreglerNa......ssssessoneennensesnesrenrenreennnenrnrsnnrnnenern
+            ennen nen ennn nn 4 Arbetstagarbegreppet.......s..osssossoseosorennnnresnnrennnrennnnnnenntrnnnnnenr
+            4 ATbetStid .........snsosooeooenesrerenreneerernenrernenernrnnnrnennnnn
+            nn nenennrnenennnennn nan 2, 11,15, 3y, 4y Barnledighet i samband
+            med förlossning .............e.ssee------&gt; 16 Beredskapsarbete
+            s..smmmnssssssesseerresrenennrnnrorernesnnrernnerrenrennrner nen
+            nn nn nn 11,15 Blockader mot enmans- och familjeföretag .......................
+            4 Bostadsanskaffningslån Statlig kreditgaranti....nnnnmmmsssssssssneonnenernneneenerennsrerrrnnnnnnnnnn
+            10 DatOrt€k.ssssssssosseereserrenerrerneererrarenrnrenenrrnnrnn
+            ennen nen renare er n rn enten rna 11,15 DeltidsarbetslÖSa ........ssseosssesesereeeeereerernennrnererrrnrnnrrsrrnnernn
+            nn n nn 5, 4y EG-direktiv Kollektiva uppsägningar .....ssmssessesoeeseneerensnennnnnrnnnnenennnnr
+            4 Överlåtelse av fÖretag.............s...s.sosossoseoseoseooersrnrnnnrnnnnnnnn
+            Egenavgifter .ossnmnsereresrarenrerennernennsreererereernernernennenenrn
+            nn rn nn nenn nn nn 11 Ener giffågOr s..s.nsuseesenenenesenenennerenanenerenennenernererernenrrnrnnnrnenennnn
+            enn 13 EU-medlemskapet s..mnmmnmasressennennennenresnrnernnenrnennernrrnrnrnnenrnnennnn
+            13, ly Europapraktik ssmmnsssssesersoresesoeresesrenennnennerernnrnennrtennn
+            nn en nnn renen 11 Europeiska regionala utvecklingsfonden .............s.s+----------
+            13 Europeiska socialfonden ..eeeseseseseosonesnesnrenrenenenrrnrnrnnnnnnnnnnn
+            15 Europeiska unionen Arbetsmarknadspolitik ly Arbetsrätt................--ssss0000&gt;
+            ly Konvergenskraven............ ly Landsbygdsutveckling .....
+            ly Regionalpolitik ...............- ly StrukturfondernNa....ssssseosseerersrrarsrsrsnnrrerrennrrrnerrnernr
+            ner nr nn ly Expertgruppen för forskning om regional utveckling
+            (ERU) oosorsrsssssrsrsrsrsrersenenenenesreneneneorneneerrerrenrnrenenenenrnrnnrnnnnnnnnnn
+            13 Fallskärmsavtal o.smmnnsssssssssressersnnrssnsesnenrernnnnennnnnn
+            4 Finansierings- och utjämningsavgift 4y Flygplatser s..n.snsnsesesenenrnnenrnrnenensrsnnenenerersnerenereneneiennerernrnr
+            rn r nn ennen 13 Flyttningsbidrag PendlingsstÖd s..smsesessesesseseresersrenerererrrnenenrrrrnnrsnrnnrn
+            nn nernnen 15 Starthjälp .......ooseosoosososensensrnenernnenerernrrrnnnennrnnrn
+            sen nrnn enn nn nan 11,15 Fonden för arbetsmiljöförbättringar
+            ..............ose-ssseeeereserrnrn 9 Fyratimmarsavdraget vid beredskapsarbete........................+
+            11 FöretagshälsOVvård .......s.ssssssssnssensnsenenesnenrenenennernrnnnnnnnenennnn
+            ennen 12 FöretagsöverlåtelSe...............sssssososnsnsoonnnnnnennnnnnnnnnrnnnnnnnnnnennen
+            4 Föräldraledighet Barnledighet i samband med förlossning..............--+-----
+            16 Föräldraledighetens förläggning..................s-sssssessseres0ner
+            16 9
+          </p>
+          <p>
+            Individuella aVvtalssoosssssssssessrsssessnsseseererrrrrerrrrnnrnnr
+            nn nn rna nn 16
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199495/reg_199495_AU/reg_199495_AU_0010"/>
+          <p>
+            KvalifikatiOonStid osnnsmssssssssssssesesenensnnnsnosnsesnennrnnrnnnnnnrnnnnn
+            Mödravårdsundersökning ..........sssssssssssssosossssnenenensnnnnnnen
+            Semesterlönegrundande frånvarO s.......ssssssseseseserersenesnnne
+            Återgång i arbete Föräldraledighetslag
+          </p>
+          <p>
+            GemenskapsinitiatiVel........sssssssseosssorererenensnsnsnsnneserererenenennnnn
+            Glesbygd .......nssesseonnnnnnn Glesbygdsverket
+          </p>
+          <p>
+            Informationsteknik (IT). ...smmsmssssssesseresresreserrnesresrererrerrernnn
+            nn nr Infrastruktur ossssssssssessssesssrrernsrrersrrrrrnrrrr
+            er nns nnerrr ennen ennen nr rn ner Institutet för arbetslivsforskning
+            .............ssssssesssesssssennnennnnn nn Institutet för forskning
+            och utveckling (FOU) ...................-
+          </p>
+          <p>
+            Invandrare InformationSinSätS€r......s...sseseresseserererersrrerrrsrrrnrrnrnrnrnnn
+            nn Insatser för flyktingar och invandrare................-..s.s-----
+            Insatser i invandrartäta OMråden ..............essssoesesessssrsnenn
+            Invandrarpolitiska Kommittén ..............s.ssssssssesesessssnnnnnn
+            Offentlig Utfrågning........sssseseeseoreresrererrsrorerererererrereren
+            nn nn Utomnordiska invandrare s...ssesessersrssrrersrersrennrnnnrnnnrn
+            nn Investeringsprogram
+          </p>
+          <p>
+            Jämställdhet Bidrag till kvinnoorganisationernas centrala verksamhet.
+            ..ossssesssssssssernnrernrsnrernrrrrnrerrnernnnnnnsnn error nen
+            nn nn nen
+          </p>
+          <p>
+            JämställdhetsombudsmannenD......ssssssssrssssssrsssssrsrnssnrnnn
+            nr Kvinnornas arbetsmarknad ..............ssssssossssssserseserssnnnnnnr
+            Särskilda jämställdhetsåtgärder ...................ssssssooses0r0r0nnn
+          </p>
+          <p>
+            Kollektiva UPPSÄägnNiNgår sissosssosssessseesrressrerrnrrnrnesrnrrnnnnnnnnnnrn
+            rann Kommunernas ansvar för ungdomar upp till 20 år...........
+            KompetensutveCkling........ssssosssssessesenresenrsrsnnnrnrerenennnnersrnnnnnn
+            KompletteringspropOSitiON€nN .........ssssssssessserseesesnennennennrnnnnnnn
+            Konkurrens inom arbetsförmedlingsområdet.....................
+            Konkurs i samband med övergång och företrädesrätt........ Kontant
+            arbetsmarknadsstöd (KAS)... KoOnvergenSkraVvenh smsmmsssssessressrrsseosnerernnerrsnnerenrnrerrrsnnesrnsrnern
+            nn n Kostnader för vissa Nämnder ssssessesersrererrenrrsernrsnennsnnennrnnr
+            nr Kultur inom regionalpOlitik......essssssesssessrssnsresrerssnennnnennnnnn
+            Kvinnor Bidrag till kvinnoorganisationernas centrala verkSamhet
+            .sssssssessrssssserersnrrernrnerrernnesnrrernrnrerrnnnn rr nns
+            rr nn nn Kvinnor inom regionalpolitiken..............ssssssesessesresrsnn
+            Kvinnors arbetsmarknad .........s.ssseseesessrsessssrssrenenrernnnnnnnr
+            Kvinnors företagande s.......sssssesseesssrensensrnsnennrsnnennnesnrnnn
+            nn
+          </p>
+          <p>
+            16 1994/95:AU Reg.
+          </p>
+          <p>
+            16 16 16 16
+          </p>
+          <p>
+            13 13 13
+          </p>
+          <p>
+            11,15
+          </p>
+          <p>
+            11,15
+          </p>
+          <p>
+            9,11, 13,15
+          </p>
+          <p>
+            10
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199495/reg_199495_AU/reg_199495_AU_0011"/>
+          <p>
+            Resurscentrum för kVinnNOL.........ssssessesseresessrsrsrrrrsrrnrnnnnn
+            13 1994/95:AU Reg.
+          </p>
+          <p>
+            LandsbygdsutveCkling..........ss.ssssssssssssssnsressrnnrnnnnrennernsnnsnrnnern
+            en 13 Ledighet för vård av barn 16, 2y Lokaliseringsbidrag..............s.-ssssssssrseesnrrnnn
+            ene 1,13 LokaliseringSslån ..........osssssssenoesesennnrsnnnnnnnnn
+            sons 13 Långtidsarbetslöshet ....................- son 11, 15,
+            3y Länsanslaget ......sssnssessesnanennnnnennnnnnn sen 13 LöÖnebidrag
+            .....ssssseessrersrennennnnenn nn nr oo 12,15 LÖNEgaraNtio.ssnsssessessrererserrserrrrrrererrerrrrnnnrrnrenrrnnnn
+            renen ense rn nnn nn nn 11, 4y Mödravårdsundersökning ......ssosossosessesesresenesrenesrsenrsrnrsrrerern
+            nr 16 N/T-arvode (naturvetenskaplig/teknisk utbildning) ...........
+            15 Norrlandsfonden .....s.ssssseseesserrrssensenerannrrrnrernennrnrnerennrrsnenrnrnn
+            rna 13 NUTEK soo onresseesresesresesrereneerereerererrsresnerrrrrenrrenranenen
+            een en en rn rn nn nn 13 Näringslivsbidräag .....ssssesseseosesesnensnrenesrnnnnnererernererennrnnenenener
+            ennen 13 NäringslivSfrågOr .........sossssssesesanesrneneneenenerrsnsennnnsnrennrsnnnnsnnnnn
+            nar 13 Offentliga SeKtOrf ........s.sssssessessessersersnnnrrserrerennnennerennnnrnenennnnn
+            nr 3y Otraditionella insatser. ....sssssssssssessrsnnsnrnrrnrnnnnnnrrennernsnnsrnrnnnnnnn
+            11 PendlingSStÖd ....ssssesssesressrasseresrersrsrsrrerrrnenrrennn
+            senere nrnnsnnsn nn n en 15 PermitteriNg .....osssseoseenersenrernersrerserrrsrsrrnrnernnrnrnn
+            ennen renen nsr enn nn nn 4 PermitteringslöneersättNiNg............s..sssssssssosenssnsnsnensnsnennnnsnnen
+            11 PlikttjänStgÖriNg.......sssssssessssossnesenseesennnresrreneerernrrrnrnernrnnrennnnnnen
+            5,9, 15, 4y Provanställning .....ssssseseesesersoesreseernersrrnrernrenrarnnnntrrnernrn
+            ennen nn nen 4, 3y Pälsdjursuppföd niNg........s.essssressersssresrasrrsrrnrannrnennsnennnnnrnn
+            rna 13 RAS (Riktat anställningsstöd) s.........ssssssssesssessensnssonsensnnnrnen
+            8, 20 Regeringens disposition för vissa stabsuppgifter.................
+            10 Regionalpolitik FÖretagSsStÖd smsssssssesseseesersnesenrresrrsnnrennsrnnsrrnnnsrnnnnnenenen
+            enn n nn 13 Infrastruktur s.o.ssmsssseseeseessennesrrsrerrnersnrerrenrarnennrrrenenrrnenen
+            enn n en 13 KViNNOL oososeerrererlresrereesrerrerrerrerrerrrrrrnnrrrersan
+            enn renen ns rrn enar ennen 13 LokaliseringSlån..........essssesessoosenenneserenrnrsennnnrennrsennnsnnnnnnn
+            en 13 Målen 2 OCh Sb....smmssssssesesenesenenrarennsnersrnnsnenrnnennnrnrnnsnn
+            nns n nn 13 Målen för regionalpolitiken s...ssssssssessersesrsrsrsnernnnnnnnnnnnn
+            13 Strukturfondsprojekt............e.sssssssessessesssssesenrsesenesnrnsnnnnnnr
+            13 StöÖdOMFrådenN sssssoseseeesererrsenerenenrrrernrnenennranenanrrn
+            nerna rnn nn rna nn 13 Översyn av de regionalpolitiska stöden.........................
+            13 RekryteringSsStÖd s.....sssssesesssssessenseosnesnrsnnnernesrennennennensrsnnr
+            enn rnnnen 11, 15, 3y Reparation— Ombyggnad — Tillbyggnad (ROT-åtgärder)...
+            3y REeSUrSCENtrUMossosseessrersersrerrrsrerersrrrererrrrrrrrerrrerrrnrnrrern
+            nn nen n nn enn 13 Riksdagens revisorer Lokaliseringsbidrag ......sssssssssersseersssrrrsrrrernerrennsrnnnnnnrn
+            nn nn 1 Regionala utvecklingsinsatSer.................sssssssssssssssesrsnsnen
+            13 Saab-Scanias bilfabrik i Malmö 1 Riktat anställningsstöd (RAS)
+            ............s.-sssese2-- 8, 20 11
+          </p>
+          <p>
+            Riskkapital osmossnsnsssessssssnessrannrnannnsnrrsnsonnnrnnnenrnnnnrrnnennrnnrnnsn
+            enn rn nen 13
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199495/reg_199495_AU/reg_199495_AU_0012"/>
+          <p>
+            ROT-åtgärder (Reparation — Ombyggnad — Tillbyggnad)... 3y 1994/95:AU
+            Reg. Rådet för arbetslivsforskning..........s.sssssssssssesesrsnsosnesnsnsnnenennr
+            9
+          </p>
+          <p>
+            Saab-Scanias bilfabrik i Malmö
+          </p>
+          <p>
+            Lokaliseringsbidrag .....sssssssseesserserrsreseresnrnrsnennrnnnrrnrenn
+            renar 1 Samhall AktiebOlag sm..ssnmmnssesesnnnenenennnrenenrnernerenrnnerenennnnnnennn
+            nan 12,15 Semester Semesterförmåner vid föräldraledighet ......................-.-
+            2 Semesterlön vid frånVvarO ........sssssssesserrssssosenenenennnnnnnnnnn
+            nn 2 Semesterlönegrundande frånvarO ............sessssssesssrenernannn
+            2, 16 Sjögående fartyg ..........ssssossssnenessnsnesenenernrrernrrnnnrnrnenennnnnnnrnrnen
+            nn 4 SKÄrgårdar ossnsnssrsrersreseererrererresrerenrsrerenesrerersrrrnrrrereren
+            rn nrnn nan nen rna 13 Små och medelstora föÖretag..................ssssssssssssersrseserennnnnnnnn
+            13 SmåföretagsstÖdet.....:............sssssseseserenenenrsrnenennnennnrnnnrennrnnn
+            nr nn 13,15 Socialavgifter NedSsättning av ssssnmssseesserresrereereersesresrererennerennrnnnnnsrrnnern
+            rn nn 13 Ändring i lägeD...s...ssssssssssssssroesssnsrnnssssernnsrnnnnsnrnssrrnnnrnn
+            nn 8, 9, 11, 20 Starta-eget-bidraget ........s..ss.sssessoresrennnrnnrsenerernennsnnnnsnnernnn
+            nn nn nn 11 StarthjälpP ..smmsssoesrrenrererrenrerennrnenennenennnnerenenersn
+            en eran nr nen nn rn nanna nar 11, 15, 3y Statens förlikningsmannaexpeditiOn..............ssssssssssssssssrserna
+            6 Statens löne- och pensionSVerk ...ssmsssssessesersssserassanrsersnnnnnnnnn
+            10 Statens nämnd för arbetstagares uppfinningar ...................
+            6 Statliga arbetsgivarfrågOr................sssssssosonsononenenenennnnnnnnnrnnnnnn
+            10 Statliga grupplivförsäkringar s......ssssssssssssssrsssresnsnennnnnsnnnnnnn
+            nr 4 Stiftelsen Utbildning Nordkalotten................sssssssssssssssssrsnnr
+            11 Strukturfondsprojekt.........ssssssssssrssssssssrrsresrnnnenrennnsnnnernnnn
+            narr 13
+          </p>
+          <p>
+            Stöd för nyanställningar Investeringsprogram för inomhusklimat
+            och
+          </p>
+          <p>
+            MiljöSaNEriNg m.sssmseessersrrersserrererrernranresrenernnernrrrr
+            rann rnn nr nanna 8, 15, 20 RekryteringSsStÖd s......sssssssssssessressnansearersesnesnnerresnnernrsrnnnn
+            nr 8, 15, 20 Tillfälligt anställningsstöd (RAS) .....sesssssssssossssssonsnsnnnr
+            8, 15, 20 Stödberättigad verksamhet inom regionalpolitiken ...........
+            13 StödOMFråden oussssseseeeresrererresrrrerrerrnrnnenennnnsrsnnennn
+            ann rnrn ennen nr nn anna 13 Sysselsättningsbidräg......mssessessersssrenesneeneernsresnsnsnnenernennerennnrnnnn
+            13 Särskilda regionalpolitiska infrastrukturåtgärder ...............
+            14 Särskilda åtgärder för regional utveckling och tillväxt ......
+            13,15 TelekommunikatiOnD.......sssessessrssesrseseaserseserersererrennernnnnennsnnrnnn
+            nn 13 Tilläggsbudget s..smsnsseessrersorrernnernnnna 10, 14 Tjänstepensioner
+            för 'skolledare 10 Totalförsvarsplikt.........sssssssssessrsresersessersennsrsrennsrennrnnnnnna
+            5,9, 15, 4y TranSpOrtStÖd s..ssssssesssersrereerrrernnrrsrrrrrrennenreneresnnnerrennen
+            nn ennen rn nn nn 13 Turism inom regionalpolitiken..........sssssssersssesesesenrrnerennsnnnr
+            13 TvåmånaderSregell...ssssssssseresesrsrnesensnrnennnssrsennnenenennnrnsnn
+            nn nn nn 4 U-landspraktik ssssssssssssssssersernrerrennernennesnernsnsnsnerrenennnnenen
+            nn n nn n 11 Ungdomar Akademikerpraktik ....mmnssssssssssasnenernerenennennnnerennnnrennnnnnnnt
+            11, 15, 3y Arbetshandikappade ungdomar ............ssssesssessnensesnsnsnsnt
+            12, 3y 12
+          </p>
+          <p>
+            DatOrtek sissossnssssssserserereresrrrrsrrrrrsrsrsesneererrrrr
+            rr rr rr nrrr rr rr rr rr rn rn na 11,15
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199495/reg_199495_AU/reg_199495_AU_0013"/>
+          <p>
+            Europapraktik s.osssnmsssssrsrsssreserersrrersnrenrseersrrrnersnnren
+            enn nnrrn nn nn Kommunernas aNSVAL smmsssssesssreseserersrseserennrsererresrrrnrnn
+            rn nn Konsekvensutredning av avskaffandet av ungdomspraktiken
+            s.mmmssssesssssssresssrrrrrensrrnnenrerennrnnnnnnen nn nn Obligatoriska
+            praktikplatser................sesssessssensesnnnnsennnnan U-landspraktik
+            sssonssssssssssssrsnererrrrrennnernrrnennresernrnnnnen nn rn nn
+            nn Ungdomsarbetslöshet ......ssssssssssereesrarsrnsernnennrnennnnennrnnnnn
+            nn UngdomsintroduktiOn ss ..smmsssessressssrerrrerrrrrsrnrerenrerrnnnnnn
+            anna Ungdomspraktik.......sssssessssssseesersrsnnerrennnernenrrrennennnnen
+            nn nana UtvecklingsSprOgfäalm ss osssssssssssssesessesnersrennesersnernnnsnnnnrnnn
+            near Åtgärder för ungdomar under 20 år... oe Uppsägningsförbudet.............ssssessersesssessrssrrsenrsnesenennrrrnsnsnsnnnn
+            Utbildningsbidrag med lånedel s...ssseseseseesesrsessrnrnnnnnnnnnnnnn
+            Utbildningsvikariat.........s.sssosessssessrseressernrenenreserrrrenenenennn
+            enar ann Utförsäkring (beslutande rätt) ................sessosesesssorsesesrennnnnnnn
+            UtlOkaliSCriNg smessmmmssssressersrerererererrrrerrrrrerrrennnnrrnnnrrrnr
+            snar nn en nanna Utvecklingsbidrag ........sssssssessessereeserrsersrsnsrnenrrnenrenenrnenrnnnnnnn
+            nana
+          </p>
+          <p>
+            Vattenkraftsproduktionen (återföring av vinst) ..................
+            NA 107 £=3:4 (3 6 tV: OR Vårdnadsbidraget .....n.sssseseereresrererenrenrernerrenenenen
+            ennen nn enar sn nn enn
+          </p>
+          <p>
+            Yrkesinriktad rehabiliteriNng...........sssssssessssosesersenennnsnenennsnnnnn
+            YrkesinspektiOneh ..smmmsssssessenesssnsneerenrenesrnenrnrnrsrerernersnnnnrnn
+            nanna
+          </p>
+          <p>
+            Åldersgräns för ersättning från arbetslöshetsförsäkringen. Äldre
+            arbetslösa ............ssssssesooossenossrnssrrnonssrrrrerrnnnnnrnnnnnnnnn
+            Överföring av medel från Arbetslivsfonden till StatsbUCgetenN
+            ...sssssssssssessesrenrersrernerrerrrrrrennrnrern ennen ennen
+            enn rn rn en en enat
+          </p>
+          <p>
+            Övergång av verksamheter och kollektiva uppsägningar .. Överlåtelsedirektivet
+            ............sssnossssroosssssssersesssrrsssssssnnnnnnn
+          </p>
+          <p>
+            11 15
+          </p>
+          <p>
+            11, 15, 3y
+          </p>
+          <p>
+            1994/95:AU Reg.
+          </p>
+          <p>
+            13
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199495/reg_199495_AU/reg_199495_AU_0014"/>
+          <p>
+            gotab 48644, Stockholm 1995
+          </p>
         </div>
       </div>
     </body>

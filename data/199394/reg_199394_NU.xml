@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="reg_199394_NU">
   <teiHeader>
     <fileDesc>
       <titleStmt/>
@@ -19,145 +19,751 @@
   </teiHeader>
   <text>
     <body>
-      <pb facs="riksdagen-volumeG-pdf/data/199394/reg_199394_NU/reg_199394_NU-000.pdf"/>
+      <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199394/reg_199394_NU/reg_199394_NU_0000"/>
       <div type="gBody">
         <div>
-          <p>Näringsutskottets register vid</p>
-          <p>riksmötet 1993/94</p>
-          <p>Betänkanden</p>
-          <p>Nr NU1I Hälsorisker vid kraftledningar, m.m. Utskottets justering Riksdagens beslut: Bifall till utskottets hemställan Protokollshnhummer Riksdagsskrivelse</p>
-          <p>Nr NU2</p>
-          <p>Återbäring av vinstmedel från vattenkraftsproduktionen</p>
-          <p>Utskottets justering Debatt i kammaren Protokollsnhummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse</p>
-          <p>Nr NU3 Vissa näringsrättsliga frågor m.m. Utskottets justering Riksdagens beslut: Bifall till utskottets hemställan Protokollsnhummer Riksdagsskrivelse</p>
-          <p>Nr NU4 Vissa konkurrensrättsliga frågor Utskottets justering Debatt i kammaren Protokollsnhummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnhummer Riksdagsskrivelse</p>
-          <p>Nr NUS</p>
-          <p>dr</p>
-          <p>Ey Ey ey</p>
-          <p>1993/94 NU Reg.</p>
-          <p>1993-10-12 1993-11-10 1993/94:21</p>
-          <p>1993-10-26 1993-11-10 1993/94:21 1993-11-10 1993/94:21</p>
-          <p>1993-10-12 1993-11-10 1993/94:21</p>
-          <p>1993-10-12 1993-10-27 1993/94:16 1993-11-10 1993/94:21</p>
-          <p>Ändrad lagstiftning för försäkringsverksamhet, m.m. (prop.</p>
-          <p>1992/93:257) Utskottets justering</p>
-          <p>1 Riksdagen 1993/94. 17 saml. Register</p>
-          <p>1993-11-09</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199394/reg_199394_NU/reg_199394_NU-001.pdf"/>
-          <p>Debatt i kammaren Protokollsnhummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnrummer Riksdagsskrivelse</p>
-          <p>Nr NU6</p>
-          <p>1993 års redogörelse för företag med statligt ägande (skr.</p>
-          <p>1993/94:20) Utskottets justering Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse</p>
-          <p>Nr NU7</p>
-          <p>1993-11-25 1993/94:NU Reg. 1993/94:30 1993-11-25 1993/94:30 1993/94:39</p>
-          <p>1993-11-23 1993-12-09 1993/94:40 1993-12-14 1993/94:43 1993/94:90</p>
-          <p>Redogörelse för bankstödet och förslag om bidrag till Stiftelsen Konsumenternas Bankbyrå (prop. 1993/94:83, skr. 1993/94:61)</p>
-          <p>Utskottets justering Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse</p>
-          <p>Nr NU8</p>
-          <p>Allmänna pensionsfondens verksamhet år 1992 (skr.</p>
-          <p>1993/94:13) Utskottets justering Debatt i kammaren Protokollsnhummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnhummer Riksdagsskrivelse</p>
-          <p>Nr NU9</p>
-          <p>1993-12-02 1993-12-14 1993/94:43 1993-12-14 1993/94:43 1993/94:79</p>
-          <p>1993-11-30 1993-12-09 1993/94:40 1993-12-14 1993/94:43 1993/94:91</p>
-          <p>Statlig medverkan i civilt flygplansprojekt hos Saab-Scania AB,</p>
-          <p>m.m. (prop. 1993/94:41) Utskottets justering Riksdagens beslut: Bifall till utskottets hemställan Protokollsnhummer Riksdagsskrivelse</p>
-          <p>Nr NU10 Ändring i Studsvikslagen (prop. 1993/94:63) Utskottets justering Debatt i kammaren Protokollsnhummer Riksdagens beslut: Bifall till utskottets hemställan</p>
-          <p>1993-11-16 1993-12-01 1993/94:34 1993/94:57</p>
-          <p>1993-11-23 1993-12-09 1993/94:40 1993-12-14 2</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199394/reg_199394_NU/reg_199394_NU-002.pdf"/>
-          <p>Protokollsnhummer 1993/94:43 1993/94:NU Reg.</p>
-          <p>Riksdagsskrivelse 1993/94:92 Nr NU1l1 Småföretagsutveckling (prop. 1993/94:40) Utskottets justering 1993-12-02 Debatt i kammaren 1993-12-14 Protokollshnhummer 1993/94:43 Riksdagens beslut: Bifall till utskottets hemställan 1993-12-14 Protokollsnhummer 1993/94:43 Riksdagsskrivelse 1993/94:80 Nr NU12 Ändringar i lagstiftningen för värdepappersfonder (prop. 1993/94:84) Utskottets justering 1993-12-02 Riksdagens beslut: Bifall till utskottets hemställan 1993-12-14 Protokollsnhummer 1993/94:43 Riksdagsskrivelse 1993/94:81 Nr NU13</p>
-          <p>Tilläggsbudget inom Utrikes- och Näringsdepartementens områden (prop. 1993/94:105)</p>
-          <p>Utskottets justering 1994-02-15 Riksdagens beslut: Bifall till utskottets hemställan 1994-03-02 Protokollsnhummer 1993/94:68 Riksdagsskrivelser 1993/94:146, 147 Nr NU14 Vissa utrikeshandelsfrågor (prop. 1993/94:100 bil. 4) Utskottets justering 1994-03-17 Debatt i kammaren 1994-03-30 Protokollsnummer 1993/94:83 Riksdagens beslut: Bifall till utskottets hemställan 1994-03-30 Protokollsnummer 1993/94:83 Riksdagsskrivelse 1993/94:220 Nr NU1S Näringspolitik (prop. 1993/94:100 bil. 13 och 14, förs. 1993/94:4) Utskottets justering 1994-03-24 Debatt i kammaren 1994-04-13 Protokollsnhummer 1993/94:87 Riksdagens beslut: Bifall till utskottets hemställan 1994-04-13 Protokollsnhummer 1993/94:87 Riksdagsskrivelser 1993/94:221, 222, 223</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199394/reg_199394_NU/reg_199394_NU-003.pdf"/>
-          <p>Nr NU16 Företag med statligt ägande (prop. 1993/94:100 bil. 13)</p>
-          <p>Utskottets justering 1994-03-22 Debatt i kammaren 1994-04-13 Protokollsnummer 1993/94:87 Riksdagens beslut: Bifall till utskottets hemställan 1994-04-13 Protokollsnhummer 1993/94:87 Riksdagsskrivelse 1993/94:224 Nr NU17 Energipolitik (prop. 1993/94:100 bil. 10, 13 och 15) Utskottets justering 1994-04-28 Debatt i kammaren 1994-05-26 Protokollsnummer 1993/94:111 Riksdagens beslut: Bifall till utskottets hemställan 1994-05-26 Protokollsnhummer 1993/94:111 Riksdagsskrivelser 1993/94:355, 356, 357 Nr NU18</p>
-          <p>Bank- och försäkringsfrågor (prop. 1993/94:100 bil. 8, skr. 1993/94:238)</p>
-          <p>Utskottets justering 1994-05-03 Debatt i kammaren 1994-05-18 Protokollsnrummer 1993/94:106 Riksdagens beslut: Bifall till utskottets hemställan 1994-05-19 Protokollsnummer 1993/94:107 Riksdagsskrivelse 1993/94:327 Nr NU19 Beredskapslagring av olja (prop. 1993/94:141) Utskottets justering 1994-04-21 Riksdagens beslut: Bifall till utskottets hemställan 1994-05-05 Protokollsnhummer 1993/94:103 Riksdagsskrivelse 1993/94:311 Nr NU20 Kommerskollegium (prop. 1993/94:138) Utskottets justering 1994-04-12 Debatt i kammaren 1994-04-21 Protokollsnhummer 1993/94:93 Riksdagens beslut: Bifall till res. mom. 5, i övrigt bifall till utskottets hemställan 1994-04-22 Protokollsnhummer 1993/94:94 Riksdagsskrivelse 1993/94:261 Nr NU21</p>
-          <p>Provning och kontroll (prop. 1993/94:100 bil. 13, prop. 1993/94:161) Utskottets justering 1994-04-26</p>
-          <p>1993/94:NU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199394/reg_199394_NU/reg_199394_NU-004.pdf"/>
-          <p>Debatt i kammaren 1994-05-18 1993/94:NU Reg.</p>
-          <p>Protokollsnhummer 1993/94:106 Riksdagens beslut: Bifall till utskottets hemställan 1994-05-19 Protokollsnhummer 1993/94:107 Riksdagsskrivelse 1993/94:328 Nr NU22 Handel med el i konkurrens (prop. 1993/94:162) Utskottets justering 1994-05-05 Debatt i kammaren 1994-05-26 Protokollsnhummer 1993/94:111 Riksdagens beslut: Bifall till utskottets hemställan 1994-05-26 Protokollshummer 1993/94:111 Riksdagsskrivelse 1993/94:358 Nr NU23 Särskilda konkurrensregler för lantbruket (prop. 1993/94:210) Utskottets justering 1994-05-26 Debatt i kammaren 1994-06-08 Protokollsnummer 1993/94:120 Riksdagens beslut: Bifall till utskottets hemställan 1994-06-09 Protokollsnummer 1993/94:121 Riksdagsskrivelse 1993/94:445 Nr NU24</p>
-          <p>Handräckning inom ramen för EES-avtalets konkurrensregler (prop. 1993/94:211)</p>
-          <p>Utskottets justering 1994-04-26 Riksdagens beslut: Bifall till utskottets hemställan 1994-05-19 Protokollsnummer 1993/94:107 Riksdagsskrivelse 1993/94:329 Nr NU2S Innovationsstöd (prop. 1993/94:100 bil. 13, prop. 1993/94:206) Utskottets justering 1994-05-19 Debatt i kammaren 1994-06-02 Protokollsnummer 1993/94:116 Riksdagens beslut: Bifall till utskottets hemställan 1994-06-02 Protokollsnummer 1993/94:116 Riksdagsskrivelse 1993/94:398 Nr NU26 Vissa lagstiftningsfrågor på energiområdet (prop. 1993/94:212) Utskottets justering 1994-05-05 Riksdagens beslut: Bifall till utskottets hemställan 1994-06-01 Protokollsnhummer 1993/94:115 Riksdagsskrivelse 1993/94:371</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199394/reg_199394_NU/reg_199394_NU-005.pdf"/>
-          <p>Nr NU27 Ombildning av Landshypotek (prop. 1993/94:216)</p>
-          <p>Utskottets justering 1994-05-26 Debatt i kammaren 1994-06-08 Protokollsnhummer 1993/94:120 Riksdagens beslut: Bifall till utskottets hemställan 1994-06-09 Protokollshummer 1993/94:121 Riksdagsskrivelse 1993/94:446 Nr NU28 Tilläggsbudget (Näringsdepartementet) (prop. 1993/94:125) Utskottets justering 1994-04-21 Riksdagens beslut: Bifall till utskottets hemställan 1994-05-05 Protokollshummer 1993/94:103 Riksdagsskrivelse 1993/94:312 Nr NU29 Kompletteringspropositionen (prop. 1993/94:150 bil. 3, 7 och 12) Utskottets justering 1994-05-26 Riksdagens beslut: Bifall till utskottets hemställan 1994-06-09 Protokollsnummer 1993/94:121 Riksdagsskrivelser 1993/94:447, 448, 449 Nr NU30 Uppskov med behandlingen av vissa ärenden Utskottets justering 1994-05-19 Riksdagens beslut: Bifall till utskottets hemställan 1994-06-09 Protokollshummer 1993/94:121 Riksdagsskrivelse</p>
-          <p>1993/94:NU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199394/reg_199394_NU/reg_199394_NU-006.pdf"/>
-          <p>Yttranden</p>
-          <p>Nr NU1y till finansutskottet Otillbörligt beteende avseende offentlig upphandling (prop. 1992/93:35) Utskottets justering 1993-11-18 Finansutskottet = 1993/94:FiUS (och FiU22)</p>
-          <p>Nr NU2y till trafikutskottet Förändrad verksamhetsform för Postverket (prop. 1993/94:38) Utskottets justering 1993-11-18 Trafikutskottet = 1993/94:TU9</p>
-          <p>Nr NU3y till konstitutionsutskottet Regeringens behandling av riksdagens skrivelser (skr. 1993/94:15) Utskottets justering 1994-02-15 Konstitutionsutskottet = 1993/94:KU30</p>
-          <p>Nr NU4y till konstitutionsutskottet Konsekvensanalyser i propositioner Utskottets justering 1994-02-15 Konstitutionsutskottet = 1993/94:KU30</p>
-          <p>Nr NUSy till arbetsmarknadsutskottet Jämställdhetspolitiken (prop. 1993/94:147) Utskottets justering 1994-03-29 Arbetsmarknadsutskottet = 1993/94:AU17</p>
-          <p>Nr NU6y till arbetsmarknadsutskottet Regionalpolitik (prop. 1993/94:140) Utskottets justering 1994-04-26 Arbetsmarknadsutskottet = 1993/94:AU13</p>
-          <p>Nr NU7y till utbildningsutskottet Utbildning och forskning (prop. 1993/94:177) Utskottets justering 1994-05-03 Utbildningsutskottet = 1993/94:UbU12</p>
-          <p>Nr NU8y till finansutskottet Kompletteringspropositionen (prop. 1993/94:150) Utskottets justering 1994-05-19 Finansutskottet = 1993/94:FiU20</p>
-          <p>1993/94:NU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199394/reg_199394_NU/reg_199394_NU-007.pdf"/>
-          <p>Sakregister</p>
-          <p>Allmänna pensionsfonden FONd I2—9A ao oosoeesesssssressersnesernnerrenernrernnennnernnrrrnnrnnn nr rna plaCeringsregler smsssmssssssesreseessennenrenrenrenrernrrennnennern enn nr rna årSredOViSNiNg ssssesesrersrersrsererserenenrrrrnenenerenenenenenenn nn nn nn ann</p>
-          <p>Bankväsen bankbOYLåsoooseeosereneseseseroerererrerererererererererenrnnenennrnenenen nanna nn nn banketik.. ...ssmmnmsssssosssssssssseennenererrnserrrrsrrrrorerrrrr reser nrn rr rr nn nn nn</p>
-          <p>bankstÖdet .....os.sseseesesresreneenenrnranenrenennerennannerrrnnan nen en nens nn anna Bankstödsnämnden s...ssssssesesresrensenrerernennernnennsrnnennrnennnnn enn nns ekonomisk förening, finansiell verksamhet i ............... finansiella derivåt ......ssssoesesesessenenranennennanrennnnnrnenn ennen nn nn Gota Bank oossosssssseeseseeseesenrrnereeresnenennerennernenernnrrrrnnrnrnnen nn nr konkurrensförhållanden ........sssssessssrsrsnrrsnenennnnnnnnnn anna konsumentfrågOr ...........ssssosossossroreresesrrnrenrnenenenennrnnnnnnn anna kreditgiVDiNg....ssssssssesreneerenrerenrsnennrrenenrenrernn ennen en nrr rn rn nan Landshypotek, ombildning aV.........ssssessessesressrsnrnennennnnnn Nordbanken POSteN oooessesesrrennerrnnsn eran nn Postgirot Bank AB ränteinformation ............ räntemarginaler .ssmmsmssssrsresrsrrresrnnenenenrrnnrnn enn rn ennen nr nn nanna tillsynen över de finansiella marknaderna...................- Beredskapslagring av OljQ..........ssssssssesseseoennnnrenennnsnesnsnnennnnnn Bevakningsföretag, lagen om Bulvanförhållanden, ändring i lagen Om ViSSå ...................</p>
-          <p>Civildepartementet anslag inom Civildepartementets område.....................</p>
-          <p>Detaljhandel kommunala varuförsörjningsplaner .............ss.sssssssesnsnnn öppethållande i dagligvaruhandeln ........s.sssssssssenennnnnn</p>
-          <p>Energiförsörjning Affärsverket svenska kraftnät ..............ssssssssssesesronnnnnnn nns aNSlagSfrågOL...sssssssssssnenenenrrsrnrnenrrrnsenerrrrenrnnnnnnan ennen nn erna ann Barsebäcks kärnkraftverk s.....nsnssssssssrsrsnenennennnnenenennnn nn anna beredskapslagring av OljQ .......s.ssssssesenennenennenennensnrnnnnnnnr beredskapsåtgärder, anslag till...............s.sssssss0sss000000n0n ana biobränsle, utvecklingsprogram för mindre PannNCenNtraler...sssssssssessresennenrennesnrrnnnnnenn sense nn sr nn nr nr nn nn biobränslen sssssssesssesesrererenenenenrnrnrrnerernnenen renarna ennen renen nn nn</p>
-          <p>bioenergibOlag ...sssssssessenennenenernesnenennerenrerrrnrernenrrnnrn rn rn nn nn bioenergiforsknNinNg s.....sssssesseseesransanrennrnnransnsnnnnsnnenn rann n nan</p>
-          <p>18, 29 2y 2y 18 18, 8y 18 13, 19, 8y 3 22</p>
-          <p>17, 22 13, 17, 22 17 13, 19, 8y 13, 17, 19</p>
-          <p>17 17 17 17 17 17</p>
-          <p>1993/94:NU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199394/reg_199394_NU/reg_199394_NU-008.pdf"/>
-          <p>blyhaltig DenSil ....mnsmssssrosessrossronsrnsrrnrnnrnsersrnsnnenenr ennen annan 17 1993/94:NU Reg.</p>
-          <p>borgensförbindelSer ..........ssosssesrsrsnenenrenrsnesnrsrnrenertrenren nen nn 17 eldistributionen, Störningar I s...msmsssssssssesssrsresessssrnnnnnnnnn 17 eldistributionsanläggning, upphävande av lagen om fÖLVÄLV AV oosooseesesresreresesrerersrererenerrrnenen ennen enes n ser n snar nn nanna 22 ellagen, äNdrilg i. ssmmmmssssesesssnnnsnesesrerenrnsnnenenenn sn srarrennsr nan 22 elproduCenter, SMå......s.ssssssesrseesrsesnenenrnrnrsrnsren narr sntn rn nn nan 22 elsäkerhet s.ssnsnssssresesrnrenenerrarenenensrnnnrrnenrnenrsneren nr rer errrn renen nn 21 Elsäkerhetsverket s...s.osnssssesesrarsrsrnrneneenanenenrsrsnnennernernnnnnnen 21 energieffektiviSerilg s.......sss.osssosssoneanenrnnnrenrnranennen ere nrn nn 17 energifOrskNiNg........s.ssossersesenenenesnreresenennererernesnnnnnnntrrrnrnnnn 17 energikOmmMiSSiON sssmseessesesrerersrrsrrnnrnrnenrnrneneren renen ere nr nn nen 17, 22 energinormer för hushållsapparater....................ssss-.s.-+ 17 energipolitiken, allmänna riktlinjer för.............s-e...----- 17 energipolitiska programmen, redovisning av resultat.. 17 energirapport från NUTEK ...ssssssssssesesesssennensnsnnennnnnn 17 energisystemet, Omställning aV.........ss.ssssssossosennsnnsnenennnn 17 energiteknik ..mmssssssssssesenrnenensrnrenenrnensnnnsnnnsrnnnnennnernnnnn nen 17 EnergiteknikfOonden s.....ssessesenesesnrsnenenenrsrenenrenernnrnennrnenen 17 etanolframställning, ny teknik fÖr ........ssssse-ssssrsrsssnrnn 17 fastbränslelagen, upphävande aV.............ss.sssssssssnnnnsnsnnnn 26 föreskrifter, bemyndigande att meddela vissa ............... 26 handel med el, lag OM ssssssnstossenreneesnernrenrernrn enn rennn ten nn nn 22 Internationella Atomenergiorganet (IAEA) ................- 17 jOrdfelsbrytare€ m.smmmssssssessesnenernenenrnnerennrnnerrnnernn ennen nrrn ren n nn nn kraftledningar, hälsorisker Vid ...msssssssessosenernrennnsnnnnnnnr 1 kraftvärmeproduktion, biobränslebaserad ...................- 17 kraftöverföringsnätet, uppgradering av s..........s...ss.se000&gt; 17 kärnavfall, slutförvaring av utländskt...................-.------ 17 kärnavfall, upparbetning av .......mms.ssessssessnnnn 17 kärnkraften, internationell avveckling av 17 kärnkraften, ny folkomröstning Om .............. 17 kärnkraftinspektion, StatenS.......................-..- 17 kärnkraftsavveckling, lagstiftning OM...............ss.ssssssn&gt; 17 kärnkraftsreaktorer, förbud mot förberedande 18:44 €6 63 17 kärnkraftsteknologi, export av 17 kärnsäkerhetsarbete, internationellt ...................s..s-osss-&gt; 17 kärntekniklagen.......ssssessesseseesesenenenrernennerisnrnernresrnnsn nerna nen 17 mottagningsplikt avseende €lm....meessssosererenssnesrennenrnnnnnn 22 NAtULgAS oosssoeseseerseereesrerenrenrrrreresennrrsnsnnnnsnernen nr ennen ran nn nn n a 17 NätmMyndighet ..ssmmmsssssessesnenrenenenrnrenrerernererrrnn enn nr rn nrnnnnn nan 22 Olja, utförsäljning AV...smssssssssssesrenenrsrrnranrerennnnnnrrnnrr nn nn nn nn 19, 8y Oskarshamn 1, kärnkraftsreaktOrn...................---sssss0000s 17 radioaktivt avfall, hanteringen av ViSSt.......................-. 10 reglerkraft, handel Med ssmnmmmssssreserrrsrsnrensnnnen ns nnrnn ann nn 22 SOLENCI GL ooeeeesreesrreerrsrerrnnresrnrrsnnenrrenrerenn ner ner rr nr rr srn rr rn anna 17 statliga garantier m.....scssssosseseesesrenrsnrenrnrnrenn nen nr enn nns n rn nen 17 Studsvik AB smssnsmsssesrerssesrrrereneosoersesrarenernenesrnrennen ennen renar nn nn 10 9</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199394/reg_199394_NU/reg_199394_NU-009.pdf"/>
-          <p>vattenkraftsproduktion, vinstmedel från ....................... vattenkraftverk. ssssssssessessenrenesnensrenrerrerrnrresrerrrrrerrrnsnrnn nn vegetabiliska OljOl.......s.s.sssosesensenornneenresesrersrnsresrennerrnnennn nn vindkraft vågenergi Östeuropa, stöd till energieffektiviseringar i ................ Europeiskt forsknings- och utvecklingssamarbete ............. Export-, se: Utrikeshandel Exposition 1997 Stockholm s..ssmesssssesresseeresrerrersrsseererrerennsnen</p>
-          <p>Finansdepartementet anslag inom Finansdepartementets område.................. Finansinspektionen</p>
-          <p>Försäkringsrörelse byte av försäkringsbOlag.............ssssssssssessesessennanenerennnnnn ann EES-försäkringsgivares verksamhet i Sverige, lag om . fullgörandegarantier försäkringsmäklar€ m....sssssssssenesenenenenrsrnrnennnnnnnrnnrnrnnnnnn ennen försäkringsrörelselagen, ändring i..........s.sssssssssssrserennena försäkringsvillkor och jämställdhet ............s.ssesessnnsnnnnnna kollektiv sakförSäkring.....ssssssessonserrssersennerrersrenrerrerennennnn kreditförsäkringsbOlag.........sssssssssesressesesnrnrrsnrnnrnnnnennnn nn PlaCeringsSregler smssmmmsssesesessesresenrenrrnsnrnnenennrrnrnrnennnr ennen nn nana utländska försäkringsföÖretag................ssesssssssssessesesenennnn värdering av fastigheter ............s.sssossessorenrnenenenrenrenenrennnnen</p>
-          <p>Garantigivning, täckande av förluster Vid ........................... Hantverksrådet, Centrala s.........sssossoseosoreseesssressrenernenonernenrnnn en</p>
-          <p>Industri- och nyföretagarfonden s...smmssssessorsressrssrrenrerennsnennnn Industribranscher biliNCUStlin ooosssesesessrsrsesrererenenrnrerennenrnrerener ren rn ner ennsn enn n en enn livsmedelsindustrin SKOgSiNC USM ooooeoseseerseeresrerrererrernernrrrrrererrrrernnrsrenrrenren enn nn nn textil- och konfektionsindustrin ............ss.ssssssessssesrerennn INduUStrideSigf smsmsmmmssssrsrsrsssenesesrerernenerrnrerrrnrenrennanrnn nn senere nns nanna Ingenjörsvetenskapsakademien s..mmmmmsssssesessessrennennennrnrnnannnn Internationella organisationer, avgifter till Vissa ................</p>
-          <p>Jordbruksdepartementet anslag inom Jordbruksdepartementets område ............</p>
-          <p>2, 6y 17 17 17 17 17 13, 15</p>
-          <p>29</p>
-          <p>18, 29</p>
-          <p>18 18 15, 17, 7y 3</p>
-          <p>15, 17 15 11, 15, 25</p>
-          <p>15 15, 7y, 8y 15, 8y 15 15 15 15, 28</p>
-          <p>17</p>
-          <p>1993/94:NU Reg.</p>
-          <p>10</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199394/reg_199394_NU/reg_199394_NU-010.pdf"/>
-          <p>Kapitalförsörjning 1993/94:NU Reg.</p>
-          <p>AP-fondens placeringSsrätt.............-ss..sssosssosssessrssnsorsnnnnnen 15 Atle Förvaltnings AB ........... 11, 15, 8y Bure Förvaltnings AB 11, 15, 8y Industri- och nyföretagarfonden 11, 15, 25 ” nyföretagarlån m......ssssssssesesneernnnenenenenenrnnrnrnenenenennnnnsnnnnn ennen 11,25 regionala investmentbolag ..........sssessesssseessresreresrennrnnnnnnnn 15 regionala riskkapitalsatsningar .......e...seseesesseserersnnsnnnnnnn 15 riskkapitalbolag .ssmmmssssssnossneneenesnnnrernrnnerrernnrrrnnrrnnrn enn nn rna 11,15 riskkapitalförsÖrjning..........sesessssssssenresesnnenrennnrnennnnrn rn nan 11,15 små och medelstora företag, se: Små och medelstora företag utvecklingsbolag, regionala 11, 15,25 utvecklingsfonder, regionala ... 11, 15,25 KommerskollegiUm s.smsmmsassenneseesesennesnnennnsrennennsernnnnrnnnnnn nn nn nen 20 Kompetenskontroll och lämplighetskontroll..................-.- 3 Konkurrensfrågor byggsektOrn sssnmnesssesssesenenrenenenererenennerrenernerenernennrnerenrnenen rna 4 EES-avtalets konkurrensregler.........ss.sseosseosssrersossnnrnneane 4 EES-lagen, ändring Il. mnsnsessesssrnesreersrnsnenesrererrernrnnenrnnnnn nns 24 ekonomisk enhet..... 23 ekonomisk förening 23 federativ samverkan 23 föreningsmedlemmars rörlighet på marknaden ........... 23 handräCkning.......sssssssseseesenressnenrrrnresnnerenrrnnenn ren nrnen nn ennen nn 24 konkurrensbegränsande samverkan, förbudet mot...... 23 konkurrensforskning .....s.ssssssssssssssrnsrsnrenerennnnesnrennsnernrnnr 15 konkurrenslagen, ändring i.... 23 Konkurrensverket, anslag till. 15 lantbruket............ssossssssesenesnnnnen 23 livsmedelssektorn 4 myndighetsorganisatiOnN .......s.sssssssseesesseronennnsnnsnsnennrnnnnnn 4 offentliga SeKtOrN.........s.ssssssossesenrannennenesrnennannrnennnnnen nn nn nn nn 4 offentlig upphandling ......essesesesesersresneeresrsrsnrrrsnnnnnnn nn ly POSLtCN oosooseereserersrrsrrsersrrsrsrnrannerr ers rr rr enes nernnn eran enn n nen r ren n nan nn 2y PrisSamvVerkansssssssrererenenrersenenesresrenrererenrrnernen ennen en en en nnn 23 relevanta marknaden 23 skogsbruket s...sssmsssssesenenennennnennonnerrenerrenrnrnrenrenerrenenersnrnene nn 23 subventioners effekter på konkurrensen....................... 23 trädgårdSsnäriNgen .......sssssesssssosesesnenennnrsenenrnnnnsnrnrnnrnrn nns nn nn 23 upphandliNg........ssssssssssseersensesrsrsrennernennrrnrenrrnerernrrrrerenen nen 23 KonkurrenSverkets.....sssssssssseransensessnnnenesenernrnnnenenrrnrnrrrnrnnrrnn nn 15 Konsekvensanalyser i propOsitiOner s...sssssssessessesesnrsrsnennnn 4y Kooperativ utveckling, stöd till...................-.--- orreeeesenn ennen nn 15 Kooperativa företag, likabehandling av .......s.sssseesseseresennnnn 15</p>
-          <p>Miljö- och naturresursdepartementet anslag inom Miljö- och naturresursdepartementets OMTAÅdE ooo eoerersrsrsrsesersrsrrsererererernernrn nn ennen enar ennen ens n rerna nn rn nan 17 11</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199394/reg_199394_NU/reg_199394_NU-011.pdf"/>
-          <p>Mineralförsörjning 1993/94:NU Reg.</p>
-          <p>baskartering......ssosssossonsseanenserennnnrrsnnrnerrrnsnnnnnnrrrenrnn rr rn rna 15 förvaltning av statlig gruvegendOm ...........ssssssssersesennsnnnn 13 geologiska undersökning (SGU), Sveriges .................... 15 geovetenskaplig forskNing...........sessssssssessersensensnennesnennnn nn 15 mineraljakt.......s...sossososennossrnensnrsrarsrrrrerrrnrnenrrnannrrnnnnnnn nn rna nn 15 prospektering, statens engagemang I s..mmmmmnsssssnsnnnnnen ann 15, 8y Nyföretagarlån o...ssmnsssssososenenenersenersnnnnenenersenrnnnnenenenennnnnnnnnnn ann 11,25 Närings- och teknikutvecklingsverket (NUTEK) ..............- 11, 15, 17, 22, 25, 8y Näringsdepartementet anslag inom Näringsdepartementets område ................ 9, 13, 15, 16, 17, 19, 21, 22, 25, 28, 29 Näringspolitik INTiKktNiNg oooeeseseesesrserrerenrarennrrerennersrrenenenen renen ns renen ennen rann nn 15, 6y, 8y småföretagspOlitik................sssesesssossesessnosrarenenennnnnrnnnnnnn nn 11, 15, 8y småföretagsutveCkliNg ..........ssesssososororssnesenrernennsrnnrnnnnnnnn nn 11, 15, 8y teknisk utveckling ..........ssssssssssssssennneneenennnnnnsnnnnnennnnnnnn nn 15, 8y Näringsrättsliga frågOr ..........o.sssosssssssssnenessonennnnnnnenenensnnnnnnsnnn 3, 20 Pharmacia AB, statens aktier i....smnmmmmsssssresrsnsrarssnennnnnnnnnn nana 8y Provning och kontroll Elsäkerhetsverket s..smmnmsssssessennaseeneennnsrseneennennennnrnnrnnsnnrnnnnn 21 legal mätteknik, finansiering inom området ................ 21 marknadskontroll, riktlinjer fÖr s...........seeessserssrererrrnranr 21 måttenheter, mätningar och mätdon, ändring i lagen [654 6 VR 9 produktcertifiering, stöd till........ss.ss.sssssssssssassasnnnnnsnnnnn nn 15 provnings- och mätteknisk forskning och UtVECKkliNg..sesssessresreereserersrrrerrerrrrerrrrrrerrrnrrrannrnrnnn nn nn rna nan 21 Styrelsen för teknisk ackreditering ons 21 Pyrotekniska VarOr sosmssssseseesranrereesessreseernesennernnrsnrnnersernnan annan 15 Regionalpolitik sssnssssssseresesseesesrrrrerrersennrrrnnenn annan ons 6y Revisorer, auktorisation och godkännande av 20 Riksdagens skrivelser, regeringens behandling av.............. 3y Rymdverksamhet ANSlAG ooooeseeeeesrererrerrnrsererrererrerererrerenrerennenenennn annan nn enn nn enn nn 13,15 Riksdagens revisorers fÖrSläg...........sssssssssoseonssrensonsnnnnnnn 15 RymdstyrelS€f.......sssssesoesnorersersnnnnrensrnesnrnnnnnnnrnnnnnnnn arr nen n nn 15 Saab-Scania AB, civilt flygplansprojekt....................s.ssssss--+ 9 Skogsindustrin, kunskapsförsÖrjning..........sessessereseersrssrerenr 15, 8y Små och medelstora företag Industri- och nyföretagarfonden s.......s.ssseseeseonenesesnsnnnr 11, 15,25 kompetensutveckling för företagare .............s..ss.sssonsonann 15, 6y kvinnors företagande, stöd till............s.ss.ssssssessessesrsnrnnn 11, 15, Sy, 6y, 8y 12</p>
-          <p>moderbolaget för de regionala utvecklingsbolagen ...... 11</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199394/reg_199394_NU/reg_199394_NU-012.pdf"/>
-          <p>nyföretagarlån ................. oösereeresrsrreresrerenrsrerennn nen 11,25 1993/94:NU Reg.</p>
-          <p>nätverk för SMåföretag ............e.-s.seeseoroesrerenennen on 15, 8y regional näringslivs- och företagsutveckling... on 15 riskkapitalbolag s.smmssssssssrreranrensrnrenarrrnrenrsrsrnnrrnn nen n rn nn sn rna 11,15 riskkapitalförSÖrjniNg..........ssssesrssserssrenrsenrnrnernrarnnnrnnnnnnnn nen 11,15 småföretagsutveCkliNng i. ........ossosssssesorserereorernerenennnrnnnnrenan nn 11, 15, 8y utvecklingsbolag, regionala ......msss.sssseressernrssrsnennennnnnnn nan 11, 15, 25 utvecklingsfonder, regionala ......s..ssessessseonesenesnesennsnennn nn 11, 15,25 SprängämnesinspektiOnen s...ssssssssssossrsssesenernrnnenenennenennersn anna 15 Standardiseringsverksamhet nationellt kvalitetsprojekt..................sssssssosssessosesnsnsnnnnnnn 15 Standardiseringskommissionen 15, 8y Statliga företag anslag för omstruktureriNg.........s..sssssssssesesnesesesnnnennnnnen 16 ansvar för NärserViCEN ......s..ssssssesseessersrneneenesnenenernrn nn nn nanna 16 AsSsiDOmän ÅB sossssessesereseeseeererenrenrserserrsenrennnrernenernrnen renen enn 16 Göta kanalbolag, AB omssnnsssrsessererensernrrsereennrrenennsnennnnrnnn ent 16 Nordbanken, se: Bankväsen Pharmacia AB 8y Pr IVatiSCriNg osssssesresresrrssrenrennresnesrrarner ennen nn nere n sr n nerna nn nn 16 redOgÖFLelS€ sosssssesereerresrreererrrerrrerrrerrrrrenrrrennenennan enn n ann oe 6 Vattenfall AB osnossnssseseresereesrrersrrrerrenrsnrennenrrrnnnrrrn ennen nanna nn 22 Zenit Shipping AB s.sssnnssessssssssessrrsrnessrrnrensnnnesrennennnnnennnn nn 9 Styrelserepresentation för samhället i vissa stiftelser, ändring i lagen OM smmmsssssssesrrsssrerrsrennerennenenen renen nn rn nn ann 29 Teknisk ackreditering, Styrelsen fÖr .............s.ssssssssrssrresrsnn 21 Teknisk utveckling ANSlAG oooosessessersressrrrnrersrrrrennsrrrnrnrr nere nns sr ennen renen ennen nen nan nn 15, 17 attachéverksamhet, teknisk-vetenskaplig....................... 15 bioenergifOrsknNilg .....ssmsessrressrrresrrrenrsenrnrerrannennrrrrn ner nnn ennen 17 energifOrskNilg.......sssssosseseensesnerensrsnnrnernenrenenennsnen enn rnen enar 17 europeiskt forsknings- och utvecklingsarbete............... 13,15 fordonsteknisk forskning ......sssssssessesssenrenesnenenenesnrnnnnnn nn 15 företags möjligheter att tillägna sig forskning och UtVECKlillg.sososesresreersererreerrrrrerrrrrerrrerrrrrrrrnr enn ennen nen nn nn rn enn nan 15 geovetenskaplig forskning... - 15 industriforskningsinStitUt.............s.-s.sssssssssesersseosseorornsnenn 15, 7y industriforskningssystemet, särskilda insatser inom .... 15, 7y informationsteknOlOgi........s.ssesserssrenrerersnrenenrnenenrnrnennnn nan 15, 7y Ingenjörsvetenskapsakademien s.smmmmssssssensnsnensnsnsnenrnnnnr 15 inriktning av teknisk forskning och utveckling ........... 15 livsmedelsindustrin, forskning och utveckling inom... 15, 7y, 8y Miljöteknik smossmsssssesrsrersanrenrenenrrsnenrernenenesenrrneenrsrsrr ene nrnr rna 15 produktutvecklingsstöd 15, 25, 8y provnings- och mätteknisk forskning och utveckling. 21 regionala utvecklingsprojekt s.........e.sessesessenenenenenennnnnnn 15 rymdverksamhet ...snmmnsssssssessnrrsnnnneesnnenrennernenrernrnennrrnennnt 15 StandardiseringskommisSiOnenN ......s.sssssesssrsrsrsrnenenensnnnnnn 15, 8y 13</p>
-          <p>Styrelsen för teknisk ackreditering ..................s=sse---e&gt; 21</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199394/reg_199394_NU/reg_199394_NU-013.pdf"/>
-          <p>träråvarubaserade industrin, kunskapsförsörjning....... UpPpfinnarSstÖd sossmmssssessrersrereserrrrrsrrrrnenrrernennernnnnnrnrann rn narr nn verkstadstekniska delegationen (VT-delegationen) ...... Teknisk-vetenskapliga attachéverksamhet, Stiftelsen SVCL1ZÅS ooseeseerererrerrersrrrnreererrrerrenrsrersesrrerrrrnerrenerrenrnneren renen nnn nanna nn Textil- och konfektionsindustrin miljömärkning av textilprodukter ................ssssssssra0nnr0n Tjänsteföretag ..........sssssesserssersserrenresserenorrrrrrrerrsrarerrnrrnern rn rna nana</p>
-          <p>Uppfinnar- och innovationsverksamhet garantifond ................. produktråden produktutvecklingSsStÖd...............sseesssesersrassrsrsnsersnsnennn arna riktlinjer för iNNOVvationSStÖd ..............eeesssessrserssssrrnrnen stöd till uppfinnare och innovatörer ...............s..-sss-=-- &gt;&gt; Svenska uppfinnareföreningen sm. ..smosmsessssresessersrsnnnrnnnn nn teknikupphandliNng.......sssssssssssssssrsrersrenenrnennnesnrnsnenenennn nan Upphandling, offentlig ........ Uppskov till riksmötet 1994/95 Utbildning och forskning ................ ööreereresernerrennenn renas nann annan Utrikesdepartementet anslag inom Utrikesdepartementets område................. Utrikeshandel exportfrämjande verksamhet..............oosssssosessensennensnnnnnnn Exportkredit, AB SVenSKk......sssssssessressensensnenennnnnrnnnnn nanna exportkreditgarantier s..mssmsssssessssererersrrnersnrnnrnnrnnennnnnnn nanna exportkreditgarantigivning, statsstödd exportkreditgivning, statsstödd ...............-.seeseseesesenn Exportkreditnämnden....s..ssseeseesseersressrereesnernenrnnennnnnnnn ann exportråd, SVErigeS sm.ssmmmmssessesesrenerrenesrsrrnerenenrrnnenn ersesennenn importförbUd s....sssseserreerrererrrerrrrrrrersrerrrrsnrnnrnnr nerna nen nanna nn IMPOTtliCENSCLE..ssossssserresrsererrrerrrrrrerrrrerrnrrrennrnnrnnnrrennnnn annen internationella organisationer, bidrag till.....................- Kommerskollegium lÖfteSPrOViSION mossoeesssreessrrrenrerererrrerrrrrrrrrrern renen nn nrnn rn rna nn Utvecklingsfonder-utvecklingsbolag, regionala bemyndigande. ...sssssseerersrerrerrserrernrrrensereenrrnarernennrnen rn nn nan nn a beslutanderätt för regionala utvecklingsbolag, lag</p>
-          <p>finansieringsverksamhet ssmmssssssessesseresrnesenrsnennrrernenenn erna garantilåN smosssssssssesseserssrsrerererererenerenrnsenerensnrnnen enes senare nanna a kreditmarknadsbolag, ändring i lagen OM s...........-...- organisation av moderbolaget och de regionala utvecklingsbOlagen s.smmmmsssssssessssrrrnnsrrarsnrenrrrrserernrern rena nanna produktråden s.......sssssssessesesesesesenenennnnnnnenrnenrnnnnensnnnn en en nn nn resurser för rådgivningsverksamhet....................s.ss.s-s-0- riskkapitalförsörjning, förslag om nytt system för ....... rådgivning avseende kooperativa företag ...................... samordningsmöjligheter avseende nyföretagarlånen.... utvecklingsfondernas personal. .mosssmseessessersesrerrenrsnrnnnnnn</p>
-          <p>15, 8y 15, 25, 8y 15, 8y</p>
-          <p>25, 8y 11, 15, 25 15, 25, 8y</p>
-          <p>15, 25, 8y 15, 25</p>
-          <p>11, 15, 25</p>
-          <p>11, 15</p>
-          <p>1993/94:NU Reg.</p>
-          <p>14</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199394/reg_199394_NU/reg_199394_NU-014.pdf"/>
-          <p>verksamhetsinriktningen hos de regionala utvecklingsbolagen s..mmmmssssssessssrenresnnssresnnrrnrrrnrrnrnrrnnn nn nn nn överföring av aktier i förvaltningsaktiebolagen Atle OCh BUIC.sssssesseeeessersssrrerensrrrrnrnrrnrrrnrnrnn renen ennn rr rer nen n nn nan</p>
-          <p>VarvsinduUuStrlill ossmssesresererreersrssreesrenrsersrnrrnrrnnsnrnrsrnn ner rnrnen nen rr n nr Värdepappersmarknaden finansiella derivåt s.mmmmsssssrsessresressrrnsnnrrnrnernnnrsrrnrsnn nn nen rrn enn inflytande i värdepappersfonder registrering av andelsägar€.........ss.ssssssssesoneenrennsensnennsnnnnnt</p>
-          <p>1993/94:NU Reg.</p>
-          <p>15</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199394/reg_199394_NU/reg_199394_NU-015.pdf"/>
-          <p>gotab 46888, Stockholm 1994</p>
+          <p>
+            Näringsutskottets register vid
+          </p>
+          <p>
+            riksmötet 1993/94
+          </p>
+          <p>
+            Betänkanden
+          </p>
+          <p>
+            Nr NU1I Hälsorisker vid kraftledningar, m.m. Utskottets justering
+            Riksdagens beslut: Bifall till utskottets hemställan Protokollshnhummer
+            Riksdagsskrivelse
+          </p>
+          <p>
+            Nr NU2
+          </p>
+          <p>
+            Återbäring av vinstmedel från vattenkraftsproduktionen
+          </p>
+          <p>
+            Utskottets justering Debatt i kammaren Protokollsnhummer Riksdagens
+            beslut: Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr NU3 Vissa näringsrättsliga frågor m.m. Utskottets justering
+            Riksdagens beslut: Bifall till utskottets hemställan Protokollsnhummer
+            Riksdagsskrivelse
+          </p>
+          <p>
+            Nr NU4 Vissa konkurrensrättsliga frågor Utskottets justering
+            Debatt i kammaren Protokollsnhummer Riksdagens beslut: Bifall
+            till utskottets hemställan Protokollsnhummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr NUS
+          </p>
+          <p>
+            dr
+          </p>
+          <p>
+            Ey Ey ey
+          </p>
+          <p>
+            1993/94 NU Reg.
+          </p>
+          <p>
+            1993-10-12 1993-11-10 1993/94:21
+          </p>
+          <p>
+            1993-10-26 1993-11-10 1993/94:21 1993-11-10 1993/94:21
+          </p>
+          <p>
+            1993-10-12 1993-11-10 1993/94:21
+          </p>
+          <p>
+            1993-10-12 1993-10-27 1993/94:16 1993-11-10 1993/94:21
+          </p>
+          <p>
+            Ändrad lagstiftning för försäkringsverksamhet, m.m. (prop.
+          </p>
+          <p>
+            1992/93:257) Utskottets justering
+          </p>
+          <p>
+            1 Riksdagen 1993/94. 17 saml. Register
+          </p>
+          <p>
+            1993-11-09
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199394/reg_199394_NU/reg_199394_NU_0001"/>
+          <p>
+            Debatt i kammaren Protokollsnhummer Riksdagens beslut: Bifall
+            till utskottets hemställan Protokollsnrummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr NU6
+          </p>
+          <p>
+            1993 års redogörelse för företag med statligt ägande (skr.
+          </p>
+          <p>
+            1993/94:20) Utskottets justering Debatt i kammaren Protokollsnummer
+            Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer
+            Riksdagsskrivelse
+          </p>
+          <p>
+            Nr NU7
+          </p>
+          <p>
+            1993-11-25 1993/94:NU Reg. 1993/94:30 1993-11-25 1993/94:30 1993/94:39
+          </p>
+          <p>
+            1993-11-23 1993-12-09 1993/94:40 1993-12-14 1993/94:43 1993/94:90
+          </p>
+          <p>
+            Redogörelse för bankstödet och förslag om bidrag till Stiftelsen
+            Konsumenternas Bankbyrå (prop. 1993/94:83, skr. 1993/94:61)
+          </p>
+          <p>
+            Utskottets justering Debatt i kammaren Protokollsnummer Riksdagens
+            beslut: Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr NU8
+          </p>
+          <p>
+            Allmänna pensionsfondens verksamhet år 1992 (skr.
+          </p>
+          <p>
+            1993/94:13) Utskottets justering Debatt i kammaren Protokollsnhummer
+            Riksdagens beslut: Bifall till utskottets hemställan Protokollsnhummer
+            Riksdagsskrivelse
+          </p>
+          <p>
+            Nr NU9
+          </p>
+          <p>
+            1993-12-02 1993-12-14 1993/94:43 1993-12-14 1993/94:43 1993/94:79
+          </p>
+          <p>
+            1993-11-30 1993-12-09 1993/94:40 1993-12-14 1993/94:43 1993/94:91
+          </p>
+          <p>
+            Statlig medverkan i civilt flygplansprojekt hos Saab-Scania AB,
+          </p>
+          <p>
+            m.m. (prop. 1993/94:41) Utskottets justering Riksdagens beslut:
+            Bifall till utskottets hemställan Protokollsnhummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr NU10 Ändring i Studsvikslagen (prop. 1993/94:63) Utskottets
+            justering Debatt i kammaren Protokollsnhummer Riksdagens beslut:
+            Bifall till utskottets hemställan
+          </p>
+          <p>
+            1993-11-16 1993-12-01 1993/94:34 1993/94:57
+          </p>
+          <p>
+            1993-11-23 1993-12-09 1993/94:40 1993-12-14 2
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199394/reg_199394_NU/reg_199394_NU_0002"/>
+          <p>
+            Protokollsnhummer 1993/94:43 1993/94:NU Reg.
+          </p>
+          <p>
+            Riksdagsskrivelse 1993/94:92 Nr NU1l1 Småföretagsutveckling (prop.
+            1993/94:40) Utskottets justering 1993-12-02 Debatt i kammaren
+            1993-12-14 Protokollshnhummer 1993/94:43 Riksdagens beslut: Bifall
+            till utskottets hemställan 1993-12-14 Protokollsnhummer 1993/94:43
+            Riksdagsskrivelse 1993/94:80 Nr NU12 Ändringar i lagstiftningen
+            för värdepappersfonder (prop. 1993/94:84) Utskottets justering
+            1993-12-02 Riksdagens beslut: Bifall till utskottets hemställan
+            1993-12-14 Protokollsnhummer 1993/94:43 Riksdagsskrivelse 1993/94:81
+            Nr NU13
+          </p>
+          <p>
+            Tilläggsbudget inom Utrikes- och Näringsdepartementens områden
+            (prop. 1993/94:105)
+          </p>
+          <p>
+            Utskottets justering 1994-02-15 Riksdagens beslut: Bifall till
+            utskottets hemställan 1994-03-02 Protokollsnhummer 1993/94:68
+            Riksdagsskrivelser 1993/94:146, 147 Nr NU14 Vissa utrikeshandelsfrågor
+            (prop. 1993/94:100 bil. 4) Utskottets justering 1994-03-17 Debatt
+            i kammaren 1994-03-30 Protokollsnummer 1993/94:83 Riksdagens beslut:
+            Bifall till utskottets hemställan 1994-03-30 Protokollsnummer
+            1993/94:83 Riksdagsskrivelse 1993/94:220 Nr NU1S Näringspolitik
+            (prop. 1993/94:100 bil. 13 och 14, förs. 1993/94:4) Utskottets
+            justering 1994-03-24 Debatt i kammaren 1994-04-13 Protokollsnhummer
+            1993/94:87 Riksdagens beslut: Bifall till utskottets hemställan
+            1994-04-13 Protokollsnhummer 1993/94:87 Riksdagsskrivelser 1993/94:221,
+            222, 223
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199394/reg_199394_NU/reg_199394_NU_0003"/>
+          <p>
+            Nr NU16 Företag med statligt ägande (prop. 1993/94:100 bil. 13)
+          </p>
+          <p>
+            Utskottets justering 1994-03-22 Debatt i kammaren 1994-04-13
+            Protokollsnummer 1993/94:87 Riksdagens beslut: Bifall till utskottets
+            hemställan 1994-04-13 Protokollsnhummer 1993/94:87 Riksdagsskrivelse
+            1993/94:224 Nr NU17 Energipolitik (prop. 1993/94:100 bil. 10,
+            13 och 15) Utskottets justering 1994-04-28 Debatt i kammaren 1994-05-26
+            Protokollsnummer 1993/94:111 Riksdagens beslut: Bifall till utskottets
+            hemställan 1994-05-26 Protokollsnhummer 1993/94:111 Riksdagsskrivelser
+            1993/94:355, 356, 357 Nr NU18
+          </p>
+          <p>
+            Bank- och försäkringsfrågor (prop. 1993/94:100 bil. 8, skr. 1993/94:238)
+          </p>
+          <p>
+            Utskottets justering 1994-05-03 Debatt i kammaren 1994-05-18
+            Protokollsnrummer 1993/94:106 Riksdagens beslut: Bifall till utskottets
+            hemställan 1994-05-19 Protokollsnummer 1993/94:107 Riksdagsskrivelse
+            1993/94:327 Nr NU19 Beredskapslagring av olja (prop. 1993/94:141)
+            Utskottets justering 1994-04-21 Riksdagens beslut: Bifall till
+            utskottets hemställan 1994-05-05 Protokollsnhummer 1993/94:103
+            Riksdagsskrivelse 1993/94:311 Nr NU20 Kommerskollegium (prop.
+            1993/94:138) Utskottets justering 1994-04-12 Debatt i kammaren
+            1994-04-21 Protokollsnhummer 1993/94:93 Riksdagens beslut: Bifall
+            till res. mom. 5, i övrigt bifall till utskottets hemställan 1994-04-22
+            Protokollsnhummer 1993/94:94 Riksdagsskrivelse 1993/94:261 Nr
+            NU21
+          </p>
+          <p>
+            Provning och kontroll (prop. 1993/94:100 bil. 13, prop. 1993/94:161)
+            Utskottets justering 1994-04-26
+          </p>
+          <p>
+            1993/94:NU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199394/reg_199394_NU/reg_199394_NU_0004"/>
+          <p>
+            Debatt i kammaren 1994-05-18 1993/94:NU Reg.
+          </p>
+          <p>
+            Protokollsnhummer 1993/94:106 Riksdagens beslut: Bifall till
+            utskottets hemställan 1994-05-19 Protokollsnhummer 1993/94:107
+            Riksdagsskrivelse 1993/94:328 Nr NU22 Handel med el i konkurrens
+            (prop. 1993/94:162) Utskottets justering 1994-05-05 Debatt i kammaren
+            1994-05-26 Protokollsnhummer 1993/94:111 Riksdagens beslut: Bifall
+            till utskottets hemställan 1994-05-26 Protokollshummer 1993/94:111
+            Riksdagsskrivelse 1993/94:358 Nr NU23 Särskilda konkurrensregler
+            för lantbruket (prop. 1993/94:210) Utskottets justering 1994-05-26
+            Debatt i kammaren 1994-06-08 Protokollsnummer 1993/94:120 Riksdagens
+            beslut: Bifall till utskottets hemställan 1994-06-09 Protokollsnummer
+            1993/94:121 Riksdagsskrivelse 1993/94:445 Nr NU24
+          </p>
+          <p>
+            Handräckning inom ramen för EES-avtalets konkurrensregler (prop.
+            1993/94:211)
+          </p>
+          <p>
+            Utskottets justering 1994-04-26 Riksdagens beslut: Bifall till
+            utskottets hemställan 1994-05-19 Protokollsnummer 1993/94:107
+            Riksdagsskrivelse 1993/94:329 Nr NU2S Innovationsstöd (prop. 1993/94:100
+            bil. 13, prop. 1993/94:206) Utskottets justering 1994-05-19 Debatt
+            i kammaren 1994-06-02 Protokollsnummer 1993/94:116 Riksdagens
+            beslut: Bifall till utskottets hemställan 1994-06-02 Protokollsnummer
+            1993/94:116 Riksdagsskrivelse 1993/94:398 Nr NU26 Vissa lagstiftningsfrågor
+            på energiområdet (prop. 1993/94:212) Utskottets justering 1994-05-05
+            Riksdagens beslut: Bifall till utskottets hemställan 1994-06-01
+            Protokollsnhummer 1993/94:115 Riksdagsskrivelse 1993/94:371
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199394/reg_199394_NU/reg_199394_NU_0005"/>
+          <p>
+            Nr NU27 Ombildning av Landshypotek (prop. 1993/94:216)
+          </p>
+          <p>
+            Utskottets justering 1994-05-26 Debatt i kammaren 1994-06-08
+            Protokollsnhummer 1993/94:120 Riksdagens beslut: Bifall till utskottets
+            hemställan 1994-06-09 Protokollshummer 1993/94:121 Riksdagsskrivelse
+            1993/94:446 Nr NU28 Tilläggsbudget (Näringsdepartementet) (prop.
+            1993/94:125) Utskottets justering 1994-04-21 Riksdagens beslut:
+            Bifall till utskottets hemställan 1994-05-05 Protokollshummer
+            1993/94:103 Riksdagsskrivelse 1993/94:312 Nr NU29 Kompletteringspropositionen
+            (prop. 1993/94:150 bil. 3, 7 och 12) Utskottets justering 1994-05-26
+            Riksdagens beslut: Bifall till utskottets hemställan 1994-06-09
+            Protokollsnummer 1993/94:121 Riksdagsskrivelser 1993/94:447, 448,
+            449 Nr NU30 Uppskov med behandlingen av vissa ärenden Utskottets
+            justering 1994-05-19 Riksdagens beslut: Bifall till utskottets
+            hemställan 1994-06-09 Protokollshummer 1993/94:121 Riksdagsskrivelse
+          </p>
+          <p>
+            1993/94:NU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199394/reg_199394_NU/reg_199394_NU_0006"/>
+          <p>
+            Yttranden
+          </p>
+          <p>
+            Nr NU1y till finansutskottet Otillbörligt beteende avseende offentlig
+            upphandling (prop. 1992/93:35) Utskottets justering 1993-11-18
+            Finansutskottet = 1993/94:FiUS (och FiU22)
+          </p>
+          <p>
+            Nr NU2y till trafikutskottet Förändrad verksamhetsform för Postverket
+            (prop. 1993/94:38) Utskottets justering 1993-11-18 Trafikutskottet
+            = 1993/94:TU9
+          </p>
+          <p>
+            Nr NU3y till konstitutionsutskottet Regeringens behandling av
+            riksdagens skrivelser (skr. 1993/94:15) Utskottets justering 1994-02-15
+            Konstitutionsutskottet = 1993/94:KU30
+          </p>
+          <p>
+            Nr NU4y till konstitutionsutskottet Konsekvensanalyser i propositioner
+            Utskottets justering 1994-02-15 Konstitutionsutskottet = 1993/94:KU30
+          </p>
+          <p>
+            Nr NUSy till arbetsmarknadsutskottet Jämställdhetspolitiken (prop.
+            1993/94:147) Utskottets justering 1994-03-29 Arbetsmarknadsutskottet
+            = 1993/94:AU17
+          </p>
+          <p>
+            Nr NU6y till arbetsmarknadsutskottet Regionalpolitik (prop. 1993/94:140)
+            Utskottets justering 1994-04-26 Arbetsmarknadsutskottet = 1993/94:AU13
+          </p>
+          <p>
+            Nr NU7y till utbildningsutskottet Utbildning och forskning (prop.
+            1993/94:177) Utskottets justering 1994-05-03 Utbildningsutskottet
+            = 1993/94:UbU12
+          </p>
+          <p>
+            Nr NU8y till finansutskottet Kompletteringspropositionen (prop.
+            1993/94:150) Utskottets justering 1994-05-19 Finansutskottet =
+            1993/94:FiU20
+          </p>
+          <p>
+            1993/94:NU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199394/reg_199394_NU/reg_199394_NU_0007"/>
+          <p>
+            Sakregister
+          </p>
+          <p>
+            Allmänna pensionsfonden FONd I2—9A ao oosoeesesssssressersnesernnerrenernrernnennnernnrrrnnrnnn
+            nr rna plaCeringsregler smsssmssssssesreseessennenrenrenrenrernrrennnennern
+            enn nr rna årSredOViSNiNg ssssesesrersrersrsererserenenrrrrnenenerenenenenenenn
+            nn nn nn ann
+          </p>
+          <p>
+            Bankväsen bankbOYLåsoooseeosereneseseseroerererrerererererererererenrnnenennrnenenen
+            nanna nn nn banketik.. ...ssmmnmsssssosssssssssseennenererrnserrrrsrrrrorerrrrr
+            reser nrn rr rr nn nn nn
+          </p>
+          <p>
+            bankstÖdet .....os.sseseesesresreneenenrnranenrenennerennannerrrnnan
+            nen en nens nn anna Bankstödsnämnden s...ssssssesesresrensenrerernennernnennsrnnennrnennnnn
+            enn nns ekonomisk förening, finansiell verksamhet i ...............
+            finansiella derivåt ......ssssoesesesessenenranennennanrennnnnrnenn
+            ennen nn nn Gota Bank oossosssssseeseseeseesenrrnereeresnenennerennernenernnrrrrnnrnrnnen
+            nn nr konkurrensförhållanden ........sssssessssrsrsnrrsnenennnnnnnnnn
+            anna konsumentfrågOr ...........ssssosossossroreresesrrnrenrnenenenennrnnnnnnn
+            anna kreditgiVDiNg....ssssssssesreneerenrerenrsnennrrenenrenrernn
+            ennen en nrr rn rn nan Landshypotek, ombildning aV.........ssssessessesressrsnrnennennnnnn
+            Nordbanken POSteN oooessesesrrennerrnnsn eran nn Postgirot Bank
+            AB ränteinformation ............ räntemarginaler .ssmmsmssssrsresrsrrresrnnenenenrrnnrnn
+            enn rn ennen nr nn nanna tillsynen över de finansiella marknaderna...................-
+            Beredskapslagring av OljQ..........ssssssssesseseoennnnrenennnsnesnsnnennnnnn
+            Bevakningsföretag, lagen om Bulvanförhållanden, ändring i lagen
+            Om ViSSå ...................
+          </p>
+          <p>
+            Civildepartementet anslag inom Civildepartementets område.....................
+          </p>
+          <p>
+            Detaljhandel kommunala varuförsörjningsplaner .............ss.sssssssesnsnnn
+            öppethållande i dagligvaruhandeln ........s.sssssssssenennnnnn
+          </p>
+          <p>
+            Energiförsörjning Affärsverket svenska kraftnät ..............ssssssssssesesronnnnnnn
+            nns aNSlagSfrågOL...sssssssssssnenenenrrsrnrnenrrrnsenerrrrenrnnnnnnan
+            ennen nn erna ann Barsebäcks kärnkraftverk s.....nsnssssssssrsrsnenennennnnenenennnn
+            nn anna beredskapslagring av OljQ .......s.ssssssesenennenennenennensnrnnnnnnnr
+            beredskapsåtgärder, anslag till...............s.sssssss0sss000000n0n
+            ana biobränsle, utvecklingsprogram för mindre PannNCenNtraler...sssssssssessresennenrennesnrrnnnnnenn
+            sense nn sr nn nr nr nn nn biobränslen sssssssesssesesrererenenenenrnrnrrnerernnenen
+            renarna ennen renen nn nn
+          </p>
+          <p>
+            bioenergibOlag ...sssssssessenennenenernesnenennerenrerrrnrernenrrnnrn
+            rn rn nn nn bioenergiforsknNinNg s.....sssssesseseesransanrennrnnransnsnnnnsnnenn
+            rann n nan
+          </p>
+          <p>
+            18, 29 2y 2y 18 18, 8y 18 13, 19, 8y 3 22
+          </p>
+          <p>
+            17, 22 13, 17, 22 17 13, 19, 8y 13, 17, 19
+          </p>
+          <p>
+            17 17 17 17 17 17
+          </p>
+          <p>
+            1993/94:NU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199394/reg_199394_NU/reg_199394_NU_0008"/>
+          <p>
+            blyhaltig DenSil ....mnsmssssrosessrossronsrnsrrnrnnrnsersrnsnnenenr
+            ennen annan 17 1993/94:NU Reg.
+          </p>
+          <p>
+            borgensförbindelSer ..........ssosssesrsrsnenenrenrsnesnrsrnrenertrenren
+            nen nn 17 eldistributionen, Störningar I s...msmsssssssssesssrsresessssrnnnnnnnnn
+            17 eldistributionsanläggning, upphävande av lagen om fÖLVÄLV AV
+            oosooseesesresreresesrerersrererenerrrnenen ennen enes n ser n
+            snar nn nanna 22 ellagen, äNdrilg i. ssmmmmssssesesssnnnsnesesrerenrnsnnenenenn
+            sn srarrennsr nan 22 elproduCenter, SMå......s.ssssssesrseesrsesnenenrnrnrsrnsren
+            narr sntn rn nn nan 22 elsäkerhet s.ssnsnssssresesrnrenenerrarenenensrnnnrrnenrnenrsneren
+            nr rer errrn renen nn 21 Elsäkerhetsverket s...s.osnssssesesrarsrsrnrneneenanenenrsrsnnennernernnnnnnen
+            21 energieffektiviSerilg s.......sss.osssosssoneanenrnnnrenrnranennen
+            ere nrn nn 17 energifOrskNiNg........s.ssossersesenenenesnreresenennererernesnnnnnnntrrrnrnnnn
+            17 energikOmmMiSSiON sssmseessesesrerersrrsrrnnrnrnenrnrneneren
+            renen ere nr nn nen 17, 22 energinormer för hushållsapparater....................ssss-.s.-+
+            17 energipolitiken, allmänna riktlinjer för.............s-e...-----
+            17 energipolitiska programmen, redovisning av resultat.. 17 energirapport
+            från NUTEK ...ssssssssssesesesssennensnsnnennnnnn 17 energisystemet,
+            Omställning aV.........ss.ssssssossosennsnnsnenennnn 17 energiteknik
+            ..mmssssssssssesenrnenensrnrenenrnensnnnsnnnsrnnnnennnernnnnn
+            nen 17 EnergiteknikfOonden s.....ssessesenesesnrsnenenenrsrenenrenernnrnennrnenen
+            17 etanolframställning, ny teknik fÖr ........ssssse-ssssrsrsssnrnn
+            17 fastbränslelagen, upphävande aV.............ss.sssssssssnnnnsnsnnnn
+            26 föreskrifter, bemyndigande att meddela vissa ...............
+            26 handel med el, lag OM ssssssnstossenreneesnernrenrernrn enn
+            rennn ten nn nn 22 Internationella Atomenergiorganet (IAEA) ................-
+            17 jOrdfelsbrytare€ m.smmmssssssessesnenernenenrnnerennrnnerrnnernn
+            ennen nrrn ren n nn nn kraftledningar, hälsorisker Vid ...msssssssessosenernrennnsnnnnnnnr
+            1 kraftvärmeproduktion, biobränslebaserad ...................-
+            17 kraftöverföringsnätet, uppgradering av s..........s...ss.se000&gt;
+            17 kärnavfall, slutförvaring av utländskt...................-.------
+            17 kärnavfall, upparbetning av .......mms.ssessssessnnnn 17 kärnkraften,
+            internationell avveckling av 17 kärnkraften, ny folkomröstning
+            Om .............. 17 kärnkraftinspektion, StatenS.......................-..-
+            17 kärnkraftsavveckling, lagstiftning OM...............ss.ssssssn&gt;
+            17 kärnkraftsreaktorer, förbud mot förberedande 18:44 €6 63 17
+            kärnkraftsteknologi, export av 17 kärnsäkerhetsarbete, internationellt
+            ...................s..s-osss-&gt; 17 kärntekniklagen.......ssssessesseseesesenenenrernennerisnrnernresrnnsn
+            nerna nen 17 mottagningsplikt avseende €lm....meessssosererenssnesrennenrnnnnnn
+            22 NAtULgAS oosssoeseseerseereesrerenrenrrrreresennrrsnsnnnnsnernen
+            nr ennen ran nn nn n a 17 NätmMyndighet ..ssmmmsssssessesnenrenenenrnrenrerernererrrnn
+            enn nr rn nrnnnnn nan 22 Olja, utförsäljning AV...smssssssssssesrenenrsrrnranrerennnnnnrrnnrr
+            nn nn nn nn 19, 8y Oskarshamn 1, kärnkraftsreaktOrn...................---sssss0000s
+            17 radioaktivt avfall, hanteringen av ViSSt.......................-.
+            10 reglerkraft, handel Med ssmnmmmssssreserrrsrsnrensnnnen ns
+            nnrnn ann nn 22 SOLENCI GL ooeeeesreesrreerrsrerrnnresrnrrsnnenrrenrerenn
+            ner ner rr nr rr srn rr rn anna 17 statliga garantier m.....scssssosseseesesrenrsnrenrnrnrenn
+            nen nr enn nns n rn nen 17 Studsvik AB smssnsmsssesrerssesrrrereneosoersesrarenernenesrnrennen
+            ennen renar nn nn 10 9
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199394/reg_199394_NU/reg_199394_NU_0009"/>
+          <p>
+            vattenkraftsproduktion, vinstmedel från .......................
+            vattenkraftverk. ssssssssessessenrenesnensrenrerrerrnrresrerrrrrerrrnsnrnn
+            nn vegetabiliska OljOl.......s.s.sssosesensenornneenresesrersrnsresrennerrnnennn
+            nn vindkraft vågenergi Östeuropa, stöd till energieffektiviseringar
+            i ................ Europeiskt forsknings- och utvecklingssamarbete
+            ............. Export-, se: Utrikeshandel Exposition 1997 Stockholm
+            s..ssmesssssesresseeresrerrersrsseererrerennsnen
+          </p>
+          <p>
+            Finansdepartementet anslag inom Finansdepartementets område..................
+            Finansinspektionen
+          </p>
+          <p>
+            Försäkringsrörelse byte av försäkringsbOlag.............ssssssssssessesessennanenerennnnnn
+            ann EES-försäkringsgivares verksamhet i Sverige, lag om . fullgörandegarantier
+            försäkringsmäklar€ m....sssssssssenesenenenenrsrnrnennnnnnnrnnrnrnnnnnn
+            ennen försäkringsrörelselagen, ändring i..........s.sssssssssssrserennena
+            försäkringsvillkor och jämställdhet ............s.ssesessnnsnnnnnna
+            kollektiv sakförSäkring.....ssssssessonserrssersennerrersrenrerrerennennnn
+            kreditförsäkringsbOlag.........sssssssssesressesesnrnrrsnrnnrnnnnennnn
+            nn PlaCeringsSregler smssmmmsssesesessesresenrenrrnsnrnnenennrrnrnrnennnr
+            ennen nn nana utländska försäkringsföÖretag................ssesssssssssessesesenennnn
+            värdering av fastigheter ............s.sssossessorenrnenenenrenrenenrennnnen
+          </p>
+          <p>
+            Garantigivning, täckande av förluster Vid ...........................
+            Hantverksrådet, Centrala s.........sssossoseosoreseesssressrenernenonernenrnnn
+            en
+          </p>
+          <p>
+            Industri- och nyföretagarfonden s...smmssssessorsressrssrrenrerennsnennnn
+            Industribranscher biliNCUStlin ooosssesesessrsrsesrererenenrnrerennenrnrerener
+            ren rn ner ennsn enn n en enn livsmedelsindustrin SKOgSiNC USM
+            ooooeoseseerseeresrerrererrernernrrrrrererrrrernnrsrenrrenren
+            enn nn nn textil- och konfektionsindustrin ............ss.ssssssessssesrerennn
+            INduUStrideSigf smsmsmmmssssrsrsrsssenesesrerernenerrnrerrrnrenrennanrnn
+            nn senere nns nanna Ingenjörsvetenskapsakademien s..mmmmmsssssesessessrennennennrnrnnannnn
+            Internationella organisationer, avgifter till Vissa ................
+          </p>
+          <p>
+            Jordbruksdepartementet anslag inom Jordbruksdepartementets område
+            ............
+          </p>
+          <p>
+            2, 6y 17 17 17 17 17 13, 15
+          </p>
+          <p>
+            29
+          </p>
+          <p>
+            18, 29
+          </p>
+          <p>
+            18 18 15, 17, 7y 3
+          </p>
+          <p>
+            15, 17 15 11, 15, 25
+          </p>
+          <p>
+            15 15, 7y, 8y 15, 8y 15 15 15 15, 28
+          </p>
+          <p>
+            17
+          </p>
+          <p>
+            1993/94:NU Reg.
+          </p>
+          <p>
+            10
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199394/reg_199394_NU/reg_199394_NU_0010"/>
+          <p>
+            Kapitalförsörjning 1993/94:NU Reg.
+          </p>
+          <p>
+            AP-fondens placeringSsrätt.............-ss..sssosssosssessrssnsorsnnnnnen
+            15 Atle Förvaltnings AB ........... 11, 15, 8y Bure Förvaltnings
+            AB 11, 15, 8y Industri- och nyföretagarfonden 11, 15, 25 ” nyföretagarlån
+            m......ssssssssesesneernnnenenenenenrnnrnrnenenenennnnnsnnnnn
+            ennen 11,25 regionala investmentbolag ..........sssessesssseessresreresrennrnnnnnnnn
+            15 regionala riskkapitalsatsningar .......e...seseesesseserersnnsnnnnnnn
+            15 riskkapitalbolag .ssmmmssssssnossneneenesnnnrernrnnerrernnrrrnnrrnnrn
+            enn nn rna 11,15 riskkapitalförsÖrjning..........sesessssssssenresesnnenrennnrnennnnrn
+            rn nan 11,15 små och medelstora företag, se: Små och medelstora
+            företag utvecklingsbolag, regionala 11, 15,25 utvecklingsfonder,
+            regionala ... 11, 15,25 KommerskollegiUm s.smsmmsassenneseesesennesnnennnsrennennsernnnnrnnnnnn
+            nn nn nen 20 Kompetenskontroll och lämplighetskontroll..................-.-
+            3 Konkurrensfrågor byggsektOrn sssnmnesssesssesenenrenenenererenennerrenernerenernennrnerenrnenen
+            rna 4 EES-avtalets konkurrensregler.........ss.sseosseosssrersossnnrnneane
+            4 EES-lagen, ändring Il. mnsnsessesssrnesreersrnsnenesrererrernrnnenrnnnnn
+            nns 24 ekonomisk enhet..... 23 ekonomisk förening 23 federativ
+            samverkan 23 föreningsmedlemmars rörlighet på marknaden ...........
+            23 handräCkning.......sssssssseseesenressnenrrrnresnnerenrrnnenn
+            ren nrnen nn ennen nn 24 konkurrensbegränsande samverkan, förbudet
+            mot...... 23 konkurrensforskning .....s.ssssssssssssssrnsrsnrenerennnnesnrennsnernrnnr
+            15 konkurrenslagen, ändring i.... 23 Konkurrensverket, anslag
+            till. 15 lantbruket............ssossssssesenesnnnnen 23 livsmedelssektorn
+            4 myndighetsorganisatiOnN .......s.sssssssseesesseronennnsnnsnsnennrnnnnnn
+            4 offentliga SeKtOrN.........s.ssssssossesenrannennenesrnennannrnennnnnen
+            nn nn nn nn 4 offentlig upphandling ......essesesesesersresneeresrsrsnrrrsnnnnnnn
+            nn ly POSLtCN oosooseereserersrrsrrsersrrsrsrnrannerr ers rr rr
+            enes nernnn eran enn n nen r ren n nan nn 2y PrisSamvVerkansssssssrererenenrersenenesresrenrererenrrnernen
+            ennen en en en nnn 23 relevanta marknaden 23 skogsbruket s...sssmsssssesenenennennnennonnerrenerrenrnrnrenrenerrenenersnrnene
+            nn 23 subventioners effekter på konkurrensen.......................
+            23 trädgårdSsnäriNgen .......sssssesssssosesesnenennnrsenenrnnnnsnrnrnnrnrn
+            nns nn nn 23 upphandliNg........ssssssssssseersensesrsrsrennernennrrnrenrrnerernrrrrerenen
+            nen 23 KonkurrenSverkets.....sssssssssseransensessnnnenesenernrnnnenenrrnrnrrrnrnnrrnn
+            nn 15 Konsekvensanalyser i propOsitiOner s...sssssssessessesesnrsrsnennnn
+            4y Kooperativ utveckling, stöd till...................-.--- orreeeesenn
+            ennen nn 15 Kooperativa företag, likabehandling av .......s.sssseesseseresennnnn
+            15
+          </p>
+          <p>
+            Miljö- och naturresursdepartementet anslag inom Miljö- och naturresursdepartementets
+            OMTAÅdE ooo eoerersrsrsrsesersrsrrsererererernernrn nn ennen enar
+            ennen ens n rerna nn rn nan 17 11
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199394/reg_199394_NU/reg_199394_NU_0011"/>
+          <p>
+            Mineralförsörjning 1993/94:NU Reg.
+          </p>
+          <p>
+            baskartering......ssosssossonsseanenserennnnrrsnnrnerrrnsnnnnnnrrrenrnn
+            rr rn rna 15 förvaltning av statlig gruvegendOm ...........ssssssssersesennsnnnn
+            13 geologiska undersökning (SGU), Sveriges ....................
+            15 geovetenskaplig forskNing...........sessssssssessersensensnennesnennnn
+            nn 15 mineraljakt.......s...sossososennossrnensnrsrarsrrrrerrrnrnenrrnannrrnnnnnnn
+            nn rna nn 15 prospektering, statens engagemang I s..mmmmmnsssssnsnnnnnen
+            ann 15, 8y Nyföretagarlån o...ssmnsssssososenenenersenersnnnnenenersenrnnnnenenenennnnnnnnnnn
+            ann 11,25 Närings- och teknikutvecklingsverket (NUTEK) ..............-
+            11, 15, 17, 22, 25, 8y Näringsdepartementet anslag inom Näringsdepartementets
+            område ................ 9, 13, 15, 16, 17, 19, 21, 22, 25, 28,
+            29 Näringspolitik INTiKktNiNg oooeeseseesesrserrerenrarennrrerennersrrenenenen
+            renen ns renen ennen rann nn 15, 6y, 8y småföretagspOlitik................sssesesssossesessnosrarenenennnnnrnnnnnnn
+            nn 11, 15, 8y småföretagsutveCkliNg ..........ssesssososororssnesenrernennsrnnrnnnnnnnn
+            nn 11, 15, 8y teknisk utveckling ..........ssssssssssssssennneneenennnnnnsnnnnnennnnnnnn
+            nn 15, 8y Näringsrättsliga frågOr ..........o.sssosssssssssnenessonennnnnnnenenensnnnnnnsnnn
+            3, 20 Pharmacia AB, statens aktier i....smnmmmmsssssresrsnsrarssnennnnnnnnnn
+            nana 8y Provning och kontroll Elsäkerhetsverket s..smmnmsssssessennaseeneennnsrseneennennennnrnnrnnsnnrnnnnn
+            21 legal mätteknik, finansiering inom området ................
+            21 marknadskontroll, riktlinjer fÖr s...........seeessserssrererrrnranr
+            21 måttenheter, mätningar och mätdon, ändring i lagen [654 6 VR
+            9 produktcertifiering, stöd till........ss.ss.sssssssssssassasnnnnnsnnnnn
+            nn 15 provnings- och mätteknisk forskning och UtVECKkliNg..sesssessresreereserersrrrerrerrrrerrrrrrerrrnrrrannrnrnnn
+            nn nn rna nan 21 Styrelsen för teknisk ackreditering ons 21 Pyrotekniska
+            VarOr sosmssssseseesranrereesessreseernesennernnrsnrnnersernnan
+            annan 15 Regionalpolitik sssnssssssseresesseesesrrrrerrersennrrrnnenn
+            annan ons 6y Revisorer, auktorisation och godkännande av 20 Riksdagens
+            skrivelser, regeringens behandling av.............. 3y Rymdverksamhet
+            ANSlAG ooooeseeeeesrererrerrnrsererrererrerererrerenrerennenenennn
+            annan nn enn nn enn nn 13,15 Riksdagens revisorers fÖrSläg...........sssssssssoseonssrensonsnnnnnnn
+            15 RymdstyrelS€f.......sssssesoesnorersersnnnnrensrnesnrnnnnnnnrnnnnnnnn
+            arr nen n nn 15 Saab-Scania AB, civilt flygplansprojekt....................s.ssssss--+
+            9 Skogsindustrin, kunskapsförsÖrjning..........sessessereseersrssrerenr
+            15, 8y Små och medelstora företag Industri- och nyföretagarfonden
+            s.......s.ssseseeseonenesesnsnnnr 11, 15,25 kompetensutveckling
+            för företagare .............s..ss.sssonsonann 15, 6y kvinnors
+            företagande, stöd till............s.ss.ssssssessessesrsnrnnn 11,
+            15, Sy, 6y, 8y 12
+          </p>
+          <p>
+            moderbolaget för de regionala utvecklingsbolagen ...... 11
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199394/reg_199394_NU/reg_199394_NU_0012"/>
+          <p>
+            nyföretagarlån ................. oösereeresrsrreresrerenrsrerennn
+            nen 11,25 1993/94:NU Reg.
+          </p>
+          <p>
+            nätverk för SMåföretag ............e.-s.seeseoroesrerenennen
+            on 15, 8y regional näringslivs- och företagsutveckling... on 15
+            riskkapitalbolag s.smmssssssssrreranrensrnrenarrrnrenrsrsrnnrrnn
+            nen n rn nn sn rna 11,15 riskkapitalförSÖrjniNg..........ssssesrssserssrenrsenrnrnernrarnnnrnnnnnnnn
+            nen 11,15 småföretagsutveCkliNng i. ........ossosssssesorserereorernerenennnrnnnnrenan
+            nn 11, 15, 8y utvecklingsbolag, regionala ......msss.sssseressernrssrsnennennnnnnn
+            nan 11, 15, 25 utvecklingsfonder, regionala ......s..ssessessseonesenesnesennsnennn
+            nn 11, 15,25 SprängämnesinspektiOnen s...ssssssssssossrsssesenernrnnenenennenennersn
+            anna 15 Standardiseringsverksamhet nationellt kvalitetsprojekt..................sssssssosssessosesnsnsnnnnnnn
+            15 Standardiseringskommissionen 15, 8y Statliga företag anslag
+            för omstruktureriNg.........s..sssssssssesesnesesesnnnennnnnen
+            16 ansvar för NärserViCEN ......s..ssssssesseessersrneneenesnenenernrn
+            nn nn nanna 16 AsSsiDOmän ÅB sossssessesereseeseeererenrenrserserrsenrennnrernenernrnen
+            renen enn 16 Göta kanalbolag, AB omssnnsssrsessererensernrrsereennrrenennsnennnnrnnn
+            ent 16 Nordbanken, se: Bankväsen Pharmacia AB 8y Pr IVatiSCriNg
+            osssssesresresrrssrenrennresnesrrarner ennen nn nere n sr n nerna
+            nn nn 16 redOgÖFLelS€ sosssssesereerresrreererrrerrrerrrerrrrrenrrrennenennan
+            enn n ann oe 6 Vattenfall AB osnossnssseseresereesrrersrrrerrenrsnrennenrrrnnnrrrn
+            ennen nanna nn 22 Zenit Shipping AB s.sssnnssessssssssessrrsrnessrrnrensnnnesrennennnnnennnn
+            nn 9 Styrelserepresentation för samhället i vissa stiftelser,
+            ändring i lagen OM smmmsssssssesrrsssrerrsrennerennenenen renen
+            nn rn nn ann 29 Teknisk ackreditering, Styrelsen fÖr .............s.ssssssssrssrresrsnn
+            21 Teknisk utveckling ANSlAG oooosessessersressrrrnrersrrrrennsrrrnrnrr
+            nere nns sr ennen renen ennen nen nan nn 15, 17 attachéverksamhet,
+            teknisk-vetenskaplig....................... 15 bioenergifOrsknNilg
+            .....ssmsessrressrrresrrrenrsenrnrerrannennrrrrn ner nnn ennen
+            17 energifOrskNilg.......sssssosseseensesnerensrsnnrnernenrenenennsnen
+            enn rnen enar 17 europeiskt forsknings- och utvecklingsarbete...............
+            13,15 fordonsteknisk forskning ......sssssssessesssenrenesnenenenesnrnnnnnn
+            nn 15 företags möjligheter att tillägna sig forskning och UtVECKlillg.sososesresreersererreerrrrrerrrrrerrrerrrrrrrrnr
+            enn ennen nen nn nn rn enn nan 15 geovetenskaplig forskning...
+            - 15 industriforskningsinStitUt.............s.-s.sssssssssesersseosseorornsnenn
+            15, 7y industriforskningssystemet, särskilda insatser inom ....
+            15, 7y informationsteknOlOgi........s.ssesserssrenrerersnrenenrnenenrnrnennnn
+            nan 15, 7y Ingenjörsvetenskapsakademien s.smmmmssssssensnsnensnsnsnenrnnnnr
+            15 inriktning av teknisk forskning och utveckling ...........
+            15 livsmedelsindustrin, forskning och utveckling inom... 15, 7y,
+            8y Miljöteknik smossmsssssesrsrersanrenrenenrrsnenrernenenesenrrneenrsrsrr
+            ene nrnr rna 15 produktutvecklingsstöd 15, 25, 8y provnings- och
+            mätteknisk forskning och utveckling. 21 regionala utvecklingsprojekt
+            s.........e.sessesessenenenenenennnnnnn 15 rymdverksamhet ...snmmnsssssssessnrrsnnnneesnnenrennernenrernrnennrrnennnt
+            15 StandardiseringskommisSiOnenN ......s.sssssesssrsrsrsrnenenensnnnnnn
+            15, 8y 13
+          </p>
+          <p>
+            Styrelsen för teknisk ackreditering ..................s=sse---e&gt;
+            21
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199394/reg_199394_NU/reg_199394_NU_0013"/>
+          <p>
+            träråvarubaserade industrin, kunskapsförsörjning....... UpPpfinnarSstÖd
+            sossmmssssessrersrereserrrrrsrrrrnenrrernennernnnnnrnrann rn narr
+            nn verkstadstekniska delegationen (VT-delegationen) ...... Teknisk-vetenskapliga
+            attachéverksamhet, Stiftelsen SVCL1ZÅS ooseeseerererrerrersrrrnreererrrerrenrsrersesrrerrrrnerrenerrenrnneren
+            renen nnn nanna nn Textil- och konfektionsindustrin miljömärkning
+            av textilprodukter ................ssssssssra0nnr0n Tjänsteföretag
+            ..........sssssesserssersserrenresserenorrrrrrrerrsrarerrnrrnern
+            rn rna nana
+          </p>
+          <p>
+            Uppfinnar- och innovationsverksamhet garantifond .................
+            produktråden produktutvecklingSsStÖd...............sseesssesersrassrsrsnsersnsnennn
+            arna riktlinjer för iNNOVvationSStÖd ..............eeesssessrserssssrrnrnen
+            stöd till uppfinnare och innovatörer ...............s..-sss-=--
+            &gt;&gt; Svenska uppfinnareföreningen sm. ..smosmsessssresessersrsnnnrnnnn
+            nn teknikupphandliNng.......sssssssssssssssrsrersrenenrnennnesnrnsnenenennn
+            nan Upphandling, offentlig ........ Uppskov till riksmötet 1994/95
+            Utbildning och forskning ................ ööreereresernerrennenn
+            renas nann annan Utrikesdepartementet anslag inom Utrikesdepartementets
+            område................. Utrikeshandel exportfrämjande verksamhet..............oosssssosessensennensnnnnnnn
+            Exportkredit, AB SVenSKk......sssssssessressensensnenennnnnrnnnnn
+            nanna exportkreditgarantier s..mssmsssssessssererersrrnersnrnnrnnrnnennnnnnn
+            nanna exportkreditgarantigivning, statsstödd exportkreditgivning,
+            statsstödd ...............-.seeseseesesenn Exportkreditnämnden....s..ssseeseesseersressrereesnernenrnnennnnnnnn
+            ann exportråd, SVErigeS sm.ssmmmmssessesesrenerrenesrsrrnerenenrrnnenn
+            ersesennenn importförbUd s....sssseserreerrererrrerrrrrrrersrerrrrsnrnnrnnr
+            nerna nen nanna nn IMPOTtliCENSCLE..ssossssserresrsererrrerrrrrrerrrrerrnrrrennrnnrnnnrrennnnn
+            annen internationella organisationer, bidrag till.....................-
+            Kommerskollegium lÖfteSPrOViSION mossoeesssreessrrrenrerererrrerrrrrrrrrrern
+            renen nn nrnn rn rna nn Utvecklingsfonder-utvecklingsbolag, regionala
+            bemyndigande. ...sssssseerersrerrerrserrernrrrensereenrrnarernennrnen
+            rn nn nan nn a beslutanderätt för regionala utvecklingsbolag,
+            lag
+          </p>
+          <p>
+            finansieringsverksamhet ssmmssssssessesseresrnesenrsnennrrernenenn
+            erna garantilåN smosssssssssesseserssrsrerererererenerenrnsenerensnrnnen
+            enes senare nanna a kreditmarknadsbolag, ändring i lagen OM s...........-...-
+            organisation av moderbolaget och de regionala utvecklingsbOlagen
+            s.smmmmsssssssessssrrrnnsrrarsnrenrrrrserernrern rena nanna produktråden
+            s.......sssssssessesesesesesenenennnnnnnenrnenrnnnnensnnnn en
+            en nn nn resurser för rådgivningsverksamhet....................s.ss.s-s-0-
+            riskkapitalförsörjning, förslag om nytt system för ....... rådgivning
+            avseende kooperativa företag ...................... samordningsmöjligheter
+            avseende nyföretagarlånen.... utvecklingsfondernas personal. .mosssmseessessersesrerrenrsnrnnnnnn
+          </p>
+          <p>
+            15, 8y 15, 25, 8y 15, 8y
+          </p>
+          <p>
+            25, 8y 11, 15, 25 15, 25, 8y
+          </p>
+          <p>
+            15, 25, 8y 15, 25
+          </p>
+          <p>
+            11, 15, 25
+          </p>
+          <p>
+            11, 15
+          </p>
+          <p>
+            1993/94:NU Reg.
+          </p>
+          <p>
+            14
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199394/reg_199394_NU/reg_199394_NU_0014"/>
+          <p>
+            verksamhetsinriktningen hos de regionala utvecklingsbolagen s..mmmmssssssessssrenresnnssresnnrrnrrrnrrnrnrrnnn
+            nn nn nn överföring av aktier i förvaltningsaktiebolagen Atle
+            OCh BUIC.sssssesseeeessersssrrerensrrrrnrnrrnrrrnrnrnn renen ennn
+            rr rer nen n nn nan
+          </p>
+          <p>
+            VarvsinduUuStrlill ossmssesresererreersrssreesrenrsersrnrrnrrnnsnrnrsrnn
+            ner rnrnen nen rr n nr Värdepappersmarknaden finansiella derivåt
+            s.mmmmsssssrsessresressrrnsnnrrnrnernnnrsrrnrsnn nn nen rrn enn
+            inflytande i värdepappersfonder registrering av andelsägar€.........ss.ssssssssesoneenrennsensnennsnnnnnt
+          </p>
+          <p>
+            1993/94:NU Reg.
+          </p>
+          <p>
+            15
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199394/reg_199394_NU/reg_199394_NU_0015"/>
+          <p>
+            gotab 46888, Stockholm 1994
+          </p>
         </div>
       </div>
     </body>

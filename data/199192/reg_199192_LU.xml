@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="reg_199192_LU">
   <teiHeader>
     <fileDesc>
       <titleStmt/>
@@ -19,146 +19,757 @@
   </teiHeader>
   <text>
     <body>
-      <pb facs="riksdagen-volumeG-pdf/data/199192/reg_199192_LU/reg_199192_LU-000.pdf"/>
+      <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199192/reg_199192_LU/reg_199192_LU_0000"/>
       <div type="gBody">
         <div>
-          <p>Lagutskottets register vid riksmötet ÄN</p>
-          <p>1991/92</p>
-          <p>=</p>
-          <p>1991/92 LU Reg. Betänkanden Nr LU1 Ekonomiska föreningar m.m. Utskottets justering: 1991-11-05 Riksdagens beslut: Bifall till utskottets hemställan 1991-11-20 Protokollshummer 1991/92:28 Riksdagsskrivelse - Nr LU2 Försäkringsvillkor för barn Utskottets justering: 1991-11-05 Riksdagens beslut: Bifall till utskottets hemställan: 1991-11-20 Protokollshummer 1991/92:28 Riksdagsskrivelse - Nr LU3 Internationell järnvägstrafik (vilande lagförslåg) (prop.1990/91:43) Utskottets justering: 1991-11-05 Riksdagens beslut: Bifall till utskottets hemställan 1991-11-20 Protokollsnummer 1991/92:28 Riksdagsskrivelse 1991/92:15 Nr LU4 Internationella oljeskadefonden (prop.1990/91:196) Utskottets justering: | 1991-11-05 Riksdagens beslut: Bifall till utskottets hemställan 1991-11-20 Protokollsnhummer 1991/92:28 Riksdagsskrivelse 1991/92:16 Nr LUS | | Upphovsrättsliga frågor Utskottets justering: 1991-11-12 Riksdagens beslut: Bifall till utskottets hemställan 1991-11-27 Protokollsnummer 1991/92:33</p>
-          <p>Riksdagsskrivelse</p>
-          <p>1 Riksdagen 1991192. 8 saml. Register</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199192/reg_199192_LU/reg_199192_LU-001.pdf"/>
-          <pb facs="riksdagen-volumeG-pdf/data/199192/reg_199192_LU/reg_199192_LU-002.pdf"/>
-          <p>Nr LU6 Konkursrättsliga frågor Utskottets justering: Riksdagens beslut: Bifall till utskottets hemställan Protokollsnhummer Riksdagsskrivelse</p>
-          <p>Nr LU7 Sakrättsliga frågor Utskottets justering: Riksdagens beslut: Bifall till utskottets hemställan Protokollsnhummer Riksdagsskrivelse</p>
-          <p>Nr LU8 Vissa skadeståndsfrågor Utskottets justering: Riksdagens beslut: Bifall till utskottets hemställan Protokollsnhummer Riksdagsskrivelse</p>
-          <p>Nr LU9 Godmanskap m.m. Utskottets justering: Riksdagens beslut: Bifall till utskottets hemställan Protokollsnhummer Riksdagsskrivelse</p>
-          <p>Nr LU10 Vissa ändringar i aktiebolagslagen (prop.1990/91:198) Utskottets justering: Riksdagens beslut: Bifall till utskottets hemställan Protokollshnhummer Riksdagsskrivelse</p>
-          <p>Nr LU11 Förverkande av rätt att ta arv m.m. (prop.1990/91:194) Utskottets justering: Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse</p>
-          <p>Nr LU12 Atomansvarighetslagen m.m. (prop.1991/92:31) Utskottets justering: Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till utskottets hemställan Protokollshnummer Riksdagsskrivelse</p>
-          <p>1991-11-12 1991-11-27 1991/92:33</p>
-          <p>1991-11-12 1991-11-27 1991/92:33</p>
-          <p>1991-11-21 1991-12-04 1991/92:38 1991/92:45</p>
-          <p>1991-11-21 1991-12-04 1991/92:38</p>
-          <p>1991-11-19 1991-12-04 1991/92:38 1991/92:41</p>
-          <p>1991-11-19 1991-12-04 1991/92:38 1991/92:42</p>
-          <p>1991-11-21 1991-12-04 1991/92:38 1991-12-04 1991/92:38 1991/92:43</p>
-          <p>1991/92:LU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199192/reg_199192_LU/reg_199192_LU-003.pdf"/>
-          <p>Nr LU13 1991/92:LU Reg. Andring i utsökningsbalken, m.m. (prop.1991/92:24)</p>
-          <p>Utskottets justering: 1991-11-21 Riksdagens beslut: Bifall till utskottets hemställan 1991-12-04 Protokollsnhummer 1991/92:38 Riksdagsskrivelse 1991/92:44 Nr LU14 Produktansvar (prop.1990/91:197) Utskottets justering: 1991-12-03 Debatt i kammaren 1991-12-17 Protokollsnhummer 1991/92:47 Riksdagens beslut: Bifall till utskottets hemställan 1991-12-17 Protokollsnhummer 1991/92:47 Riksdagsskrivelse 1991/92:78 Nr LU1S Prisinformation (prop.1991/92:55) Utskottets justering: 1991-11-28 Debatt i kammaren 1991-12-12 Protokollsnummer 1991/92:44 Riksdagens beslut: Bifall till utskottets hemställan 1991-12-12 Protokollsnhummer 1991/92:44 Riksdagsskrivelse 1991/92:70 Nr LU16 Uppgift om fornminne i gravationsbevis Utskottets justering: 1992-02-04 Riksdagens beslut: Bifall till utskottets hemställan 1992-02-19 Protokollshnhummer | 1991/92:66</p>
-          <p>Riksdagsskrivelse -</p>
-          <p>Nr LU17 Permutation Utskottets justering: 1992-02-04 Riksdagens beslut: Bifall till utskottets hemställan 1992-02-19 Protokollsnummer 1991/92:66 Riksdagsskrivelse - Nr LU18 Friköp av historiska arrenden Utskottets justering: 1992-02-27 Debatt i kammaren 1992-03-11 Protokollsnummer 1991/92:74 Riksdagens beslut: Bifall till utskottets hemställan 1992-03-18 Protokollsnhummer 1991/92:79 Riksdagsskrivelse -</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199192/reg_199192_LU/reg_199192_LU-004.pdf"/>
-          <p>Nr LU19 Internationella oljeskadefonden (prop.1991/92:77)</p>
-          <p>Utskottets justering: 1992-02-25 Riksdagens beslut: Bifall till utskottets hemställan 1992-03-18 Protokollshummer 1991/92:79 Riksdagsskrivelse 1991/92:130 Nr LU20 Anslag till patentverket m.m. (prop.1991/92:100 bil.13) Utskottets justering: 1992-03-10 Debatt i kammaren 1992-03-25 Protokollsnummer a 1991/92:84 Riksdagens beslut: Bifall till utskottets hemställan 1992-03-25 Protokollshummer 1991/92:84 Riksdagsskrivelse 1991/92:164 Nr LU21 Anslag till kronofogdemyndigheterna (prop.1991/92:100 bil.8) Utskottets justering: 1992-03-10 Debatt i kammaren 1992-03-25 Protokollsnummer 1991/92:84 Riksdagens beslut: Bifall till utskottets hemställan 1992-03-25 Protokollshummer 1991/92:84 Riksdagsskrivelse 1991/92:165 Nr LU22</p>
-          <p>Anslag till bokföringsnämnden, m.m. (prop.1991/92:100 bil.3 och bil.8)</p>
-          <p>Utskottets justering: 1992-03-10 Riksdagens beslut: Bifall till utskottets hemställan 1992-03-25 Protokollsnummer 1991/92:84 Riksdagsskrivelse 1991/92:166 Nr LU23 Ekonomiska föreningar, m.m. Utskottets justering: 1992-03-10 Debatt i kammaren 1992-03-25 Protokollsnummer 1991/92:84 Riksdagens beslut: Bifall till utskottets hemställan 1992-03-25 Protokollsnummer 1991/92:84 Riksdagsskrivelse -</p>
-          <p>1991/92:LU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199192/reg_199192_LU/reg_199192_LU-005.pdf"/>
-          <p>Nr LU24 . 1991/92:LU Reg. Konsumentpolitiska frågor m.m. (prop.1991/92:100 bil.13 och</p>
-          <p>bil.14) Utskottets justering: 1992-03-17 Debatt i kammaren 1992-04-01 Protokollsnummer 1991/92:89 Riksdagens beslut: Bifall till utskottets hemställan 1992-04-01 Protokollsnummer | 1991/92:89 Riksdagsskrivelse | | 1991/92:177 Nr LU2S Livsmedelskontroll m.m. (prop.1991/92:100 bil.10) Utskottets justering: 1992-03-17 Debatt i kammaren 1992-04-01 Protokollshummer 1991/92:89 Riksdagens beslut: Bifall till utskottets hemställan 1992-04-01 Protokollsnhummer 1991/92:89 Riksdagsskrivelse 1991/92:178 Nr LU26 Upphovsrättsliga frågor Utskottets justering: 1992-03-17 Riksdagens beslut: Bifall till utskottets hemställan 1992-04-01 Protokollsnummer 1991/92:89</p>
-          <p>Riksdagsskrivelse -</p>
-          <p>Nr LU27 Försäkringsfrågor Utskottets justering: 1992-03-24 Debatt i kammaren 1992-04-08 Protokollshummer 1991/92:94 Riksdagens beslut: Bifall till utskottets hemställan 1992-04-09 Protokollsnhummer 1991/92:95 Riksdagsskrivelse - Nr LU28 Ny konsumentkreditlag (prop.1991/92:83) Utskottets justering: 1992-05-21 Riksdagens beslut: Bifall till utskottets hemställan 1992-06-02 Protokollsnhummer 1991/92:124 Riksdagsskrivelse 1991/92:319 Nr LU29 Skadeståndsfrågor Utskottets justering: 1992-04-23 Riksdagens beslut: Bifall till utskottets hemställan 1992-05-06 Protokollsnummer 1991/92:106 Riksdagsskrivelse -</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199192/reg_199192_LU/reg_199192_LU-006.pdf"/>
-          <p>Nr LU30 Vårdnad och umgänge med barn m.m.</p>
-          <p>Utskottets justering: 1992-04-23 Debatt i kammaren 1992-05-06 Protokollsnhummer 1991/92:106 Riksdagens beslut: Bifall till utskottets hemställan 1992-05-06 Protokollshnhummer 1991/92:106 Riksdagsskrivelse - Nr LU31 Ändring i jordabalken (prop.1991/92:110) Utskottets justering: 1992-04-23 Riksdagens beslut: Bifall till utskottets hemställan 1992-05-06 Protokollsnhummer 1991/92:106 Riksdagsskrivelse 1991/92:235 Nr LU32 Äktenskaps- och sambofrågor Utskottets justering: 1992-04-23 Debatt i kammaren 1992-05-06 Protokollsnummer 1991/92:106 Riksdagens beslut: Bifall till utskottets hemställan 1992-05-06 Protokollshnhummer 1991/92:106 Riksdagsskrivelse 1991/92:236 Nr LU33 Skadeståndsansvaret för polishundar (prop.1991/92:111) Utskottets justering: 1992-04-23 Riksdagens beslut: Bifall till utskottets hemställan 1992-05-06 Protokollsnhummer 1991/92:106 Riksdagsskrivelse 1991/92:234 Nr LU34 Länskronofogdemyndigheternas styrelser Utskottets justering: 1992-03-17 Riksdagens beslut: Bifall till utskottets hemställan -. 1992-04-01 Protokollsnhummer | 1991/92:89</p>
-          <p>Riksdagsskrivelse -</p>
-          <p>Nr LU35 Allmänna arvsfonden, m.m. Utskottets justering: 1992-04-28 Riksdagens beslut: Bifall till utskottets hemställan 1992-05-14 Protokollsnummer 1991/92:112 Riksdagsskrivelse 1991/92:270</p>
-          <p>1991/92:LU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199192/reg_199192_LU/reg_199192_LU-007.pdf"/>
-          <p>Nr LU36 Luganokonventionen (prop.1991/92:128) Utskottets justering: Riksdagens beslut: Bifall till utskottets hemställan Protokollshummer Riksdagsskrivelse</p>
-          <p>Nr LU37 Ny lönegarantilag (prop.1991/92:139) Utskottets justering: Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till utskottets hemställan Protokollshnhummer Riksdagsskrivelse</p>
-          <p>Nr LU38 Uppskov med behandlingen av vissa ärenden Utskottets justering: Riksdagens beslut: Bifall till utskottets hemställan Protokollsnhummer Riksdagsskrivelse</p>
-          <p>Nr LU39</p>
-          <p>1992-05-14 1992-05-27 1991/92:121 1991/92:294</p>
-          <p>1992-05-21 1992-06-02 1991/92:124 1992-06-02 1991/92:124 1991/92:318</p>
-          <p>1992-05-14 1992-06-02 1991/92:124</p>
-          <p>Andrat anslag till kronofogdemyndigheterna (prop.1991/92:150</p>
-          <p>bil.I:5) Utskottets justering: Riksdagens beslut: Bifall till utskottets hemställan Protokollshummer Riksdagsskrivelse</p>
-          <p>Yttranden till annat utskott Nr LU1y till SkU Avgift vid indrivning (prop.1991/92:93)</p>
-          <p>Utskottets justering:</p>
-          <p>Nr LU2y till SfU</p>
-          <p>1992-05-21 1992-06-02 1991/92:124 1991/92:320</p>
-          <p>1992-03-31</p>
-          <p>Patenttiden för läkemedelsuppfinningar (prop.1991/92:151)</p>
-          <p>Utskottets justering:</p>
-          <p>1992-05-14</p>
-          <p>1991/92:LU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199192/reg_199192_LU/reg_199192_LU-008.pdf"/>
-          <p>Sakregister</p>
-          <p>Aktiekapitalets storlek</p>
-          <p>Aktieägande, offentlighet m..mmmmmmssssssessesnesesesnesennenesnrnennnrnrnnnnnn Aktieägare, personligt betalningsansvar för s..............+.+-+---</p>
-          <p>se även Uppskjutna ärenden Allmänna arvsfonden avstående av arv som tillfallit allmänna arvsfonden .... förvaltning av allmänna arvsfondens medel ................. Allmänna reklamationsnämnden, anslag till...........o...-...- Arbetstagares lönefordringar i konkurs Arrende friköp av historiska arrenden... osmmmmmsssrerresesrssrsrnnnrnrnnrnnr Arvsrätt</p>
-          <p>allmänna arvsfOoNden s....ssmssssesssessrsrsssesnennnnnnn ann erearnesa enn |</p>
-          <p>förverkande av arvsrätt Mal. mssmsmmseserrererserssrsersnnrnnnnn nan jäv vid bevittning av testamente ..........sessssssssesesnennennnnnn uttrycket sinnesslö m.m. i lagstiftningen.............-..--...- Associationsrätt aktieägandets offentlighet .mssssmmssssssssssssnssrenrsnenennennnnnnnnn differentierad rÖSträtt .......s..ssessessessesennennennennrnnnn ann oenenan ekonomisk brottslighet ...smmmmsssssssseesesnesrennennnerennnrnnnrnn nn ekonomiska föreningar m..ssmmmessersresrerseseeneenrenrennrnnnnnnnnn nana erbjudandeplikt s.ssmmssssssrsssssrrarsrrrnsrresersrnnsnrrnrnnrnnnrr ann rr ran nn</p>
-          <p>förbud mot vissa firmor och varumärken.................-.-- ideella föreningar, lagstiftning OM s..ssssssssssssesenesnnsnnnnnn kontrollbalansräkning för aktiebolag ..............s.ssssss0s&gt;0&gt; MiljöredOViSNiNG...sssssessssesseenesnesrenesnesesernerernerernrnernrnnnn annan patentverkets uppgifter .............s.sssessssssnsennnna personligt betalningsansvar för aktieägare re ViSOrSrOllen sosssssssessssereersrresnresrrsnernerrrnneresnnrrnsrnrrn nr n nr n nn årsredovisning för aktiebolag ...........ssessssssesssenenenennnnnnn Atomansvarighetslagen | ansvarsgränsen för anläggningsinnehavare ................... försäkringskapaciteten för atomskadeområdet ............. PariskON VentiON€N..sssssssssessssessesseenrenrssesnesnnerernnrnnnrrnrrn nen WienkonventionenN.................. Avbeställning vid konsumentköp Avstående av arv som tillfallit allmänna arvsfonden ......... Barns försäkringSVvillkOr....sssssssssssssssenerserennrenrersnnrrnernnnnnren ann Barns inflytande i vårdnads- och umgängesmål Barns rätt i ett EG-perspektiVv ssmmssnsssssrsssssersersersersesenerrnnrnnn Bodelning, PEeNSiONSTäÄtt sumnssssssssessrrsssersrrsrrrrsnsnnrrernnrnnnrrnnnnna Bokföringsnämnden ANSIAG ill oso oseeessersssrereesrsreeserresserereerreseesnrreernrrnernnren rn rrnnnnn</p>
-          <p>förenklade bokföringsregler</p>
-          <p>12,</p>
-          <p>10 10 10 38</p>
-          <p>35 35 24 37</p>
-          <p>18</p>
-          <p>35 11 35 11</p>
-          <p>10 10 10 23 10 10 23 10 10 10 10 10 10</p>
-          <p>29 12 12 12 24 35</p>
-          <p>27 30 30 32</p>
-          <p>22 22</p>
-          <p>1991/92:LU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199192/reg_199192_LU/reg_199192_LU-009.pdf"/>
-          <p>MiljöredOViSNiNG....seesessesseenrereessesrnerrennrnnesrennenernennrn nen nn nn Brottsling, skadeståndsansvar MOL s.....ssessssesersersesrsenesenrnrnna</p>
-          <p>Det allmännas skadeståndsansvar vid myndighetsUutÖVNiNg ...mmmeessssessersrressreserrernssnnnsnrernesnnrrn nen nnnrnnn Diabetikers försäkringspremier Differentierad rÖSträtt .........sssosssosossesorererorerennnrrrernnerrrrrrrrnn na</p>
-          <p>Egen bild, rätt fill.mssmosssssssssssresressesnnesrnenrenesnnernerernennsnnrnnrnenenr Ekonomisk brottslighet.........ss.sssessesseosrsnesresernresennennrnnnnennnn ann se även Uppskjutna ärenden s.messessesesresrererssrennnrnnennnna Ekonomiska föreningar EuropakOOperatiV.........ssssesseseesereseenesrenennnenrennsnennenn rna nana federativa OrganisatiON€r........s..sssssesrssessrenessenrannnnrnnrn nn nn medlemsinflytäNnde smmmnmmssssessrrrererersrenerernrrrrernrrnnenn nr nn annan minsta antal Medlemmar .nsnnssssssessessresrsrerernnernrnnn nn nn nen Stad geäNdÅriNG sosesseeseseersensrerrseesrennenrrenenneen enn nenrnnen renen nen en erna ULtfäCl€ oooesseesrersrerrrerrrrernnrarrsrrrrsrer enn nrrrnsrrrnnr rann rn nanna n erna nn Erbjudandeplikt....smmmmmsssssrssrensranernnrennennenernrsnnennsrennennnn enn rn nn nen EuropakOOperatiV...sssssseseeseensreneesnrannesnenrerneennrsnenennenneneen rann nn Exekvaturförfarande</p>
-          <p>Familjerätt barns inflytande i vårdnads- och umgängesmål............ barns rätt i ett EG-perspektiV..........sssssssessenenennonennnnnninnr FN:s barnkOnventiOl s.ssmmsssssssresssranrensrennnrernrnnnrnnnnnnnnn anna förordnande av gOd Ma.smmmsssssssessressrrssrennrnnrnrennn nn nn nan homosexuella sambor ............. kostnader för umgänge med barn lagfart för MAKAL ossssnsssssssesssrressnrrssrennsrnrrennnrnrennnnnnrnn nan nanna nordisk familjelagstiftNniNg ..........ssssssssssessenennennrnennnnnnnnn nn obligatorisk Medling ....smmmmsssssessesnrenearsrnnernrerennennenen nen nennn nn omprövning av vårdnadsbeslut .............s.sessseseesesesrsnsrnrnn pensionsrätt vid DOdelning s....ssssssssesrssernsrnrnnennesennnnnnnnn nn rättegångskostnader i verkställighetsmål ....................... sambolagstiftNiNgeh m.mmmmmssssseosrenersesrenrreneerernenrenen ner ennrn ann sekretesskydd för barn talerätt för mor- och farföräldrar i umgängesfrågor .... underhållsskyldigas situatiOn s..mmmmmssssrsssrsnsnnnenenenennsnnn nan under hållsskyldighet gentemot barn ................s.ssss000000n vårdnad och umgänge med barn s.......n.ssssssesesesssensnannnnn vårdnads- och underhållsavgöranden år 1989, statistiska UPPgiffer.........sssosessresessensennennnnnenrenennenrrnrn nerna rn se även Uppskjutna ärenden</p>
-          <p>Fastighetsmäklarlagen kompetenskrav för fastighetsmäklare ..........ss.o..ssonsonsnnnn kompetenskrav för fastighetsvärderingsmän .................</p>
-          <p>22 1991/92:LU Reg. 8</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199192/reg_199192_LU/reg_199192_LU-010.pdf"/>
-          <p>Fastighetsrätt formkravet vid köp av fast egendom ........s..ssseseesrersrsnnnn kungörelsekostnader vid lagfartssammanträden Fastighetsvärderingsmän, kompetenskrav för Federativa OrganisatiOn€r.........sssssessessresssrrrssnnnn non Firmor och varumärken, vissa förbud .. FN:s barnkonvention .............. Folkmusik, upphovsrätt till Fornminne, uppgift i gravationsbevis Franchising, se Uppskjutna ärenden Friköp av historiska arrenden. omsmessessesessesersessernrnennennnnnn nn Frivilliga konsumentorganisationer Förbehållsbelopp vid införsel Förenklade bokföringsregler ..... FÖrmånsrättSlaägen .mmmmnmssssresrerseererrenenernernenrenrrnennenn ennen nnnen renarna Förordnande av förvaltare Förordnande av god man</p>
-          <p>Försäkringsersättning, förverkande av rätt till.................... Försäkringsfrågor diabetikers försäkringspremier......ssssssssssoseessnnnnnnnnnnnnnnn a försäkringskapaciteten för atomskadeområdet .............</p>
-          <p>försäkringsvillkor för Darf s.ommmmssseseeseseesersernernennnnnnnnn nn patientförsäkringen vid behandlingsskada patientskadenämnden sussssesssesesssesrresnersernnrnnnernnnnnrnnnnnnnn personförsäkringar</p>
-          <p>trafikförsäkring, se Uppskjutna ärenden......................- Förvaltare förordnande AV sossmnsssssssseeeseesereerrrrrrrrrrrrrrrrrrrrrrrrrnrnrrrr nn nan tillsyn Över förvaltNiNg.....seessssrssssersennrsreneeresnnsnrnnrnnsnnnnnn Förvaltning av allmänna arvsfondens medel Förverkande av arvsrätt Mu. smsmosssssserersrrrererersrrrererrernrnnrn inn Föräldrabalk€nD....smmssssssseserererrererrrerrseesrrererrrrrrrrrrrrrrrrrrnrenn nr rn nan Föräldrars skadeståndSsanSVvåar s.smmmmmusssssresseseeneneennesnrnennen nanna</p>
-          <p>God kreditgivningssed vid konsumentkrediter..................- God man förordnande av tillsyn över förvaltning Gravationsbevis, uppgifter om fornminne</p>
-          <p>GudsSstjänStmMUSik smnnssnessesessresrsresrersesnsnesrennenrerenresr rn rrner nen rnn enn</p>
-          <p>Historiska arrenden Homosexuella sambor</p>
-          <p>Ideella föreningar, lagstiftning OM .....sssssssssseseesessennennnnnrnrnnn Immaterialrätt ...........ssssossossensrensrnssenrnrnennnnnnnnn nn nn nn Indrivning, avgift vid Inskrivningsregister, ändring i lagen OM........sssssessseserersnnnn Integritetskränkningar, skadestånd fÖr ...........e.ssseseserersrrnnr Internationell järnvägstrafik .mmmmmsssssssssessrsnsnrsnessnrnrrnnnnnnnrnen</p>
-          <p>5, 20,</p>
-          <p>1991/92:LU Reg.</p>
-          <p>10</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199192/reg_199192_LU/reg_199192_LU-011.pdf"/>
-          <p>Internationell sjörätt, se Uppskjutna ärenden ...................- 38 1991/92:LU Reg. Internationella oljeskadefonden</p>
-          <p>ändring i lagen om ersättning från s......m.esssesssennnnnnnnn 4,19 Invandrare, talböcker fÖr ...........sssssssssssserersesesrrarrerenrererrrnr rer 5 Jordabalken, ändring 1...............--.--- 31 Jäv vid bevittning av testamente 35 Konkursrätt arbetstagares lönefOrdringaår s.........s.ssssesesesrsennsnennnnnnnnnnn 6 gäldenärs försättande I susmmmmmmssssrsrrrsesenanenrnennnrnnnsn annen nn nn 6 konkursförvaltar€ s...sssssssesssressressrrrnrerernnrrrnennnrennnrn nn nnn anna 37 konkursförvaltares uppgifter vid ekonomiska brott .... 6 AES 05 4 rr [0] statlig lönegaranti vid KONKUrS........ssssesessseoneserannennnnennnnn 37 värdering av gäldenärens egendOM .....s..ssseessssssesnnennennr [0] överlåtelse av fordringar i KONKUIS s.....sssssssessesesnrernennnnn 6 se även Uppskjutna ärenden s....ssessesseseesensenrennrnnennnnnnnn 38 KonsumentforsknNinNg.....ssssssresressrnsrensrersersrennnenrnnarrnnnnnnn nr annan 24 Konsumentkreditlag "god kreditgivningssed" .nnssssseessssssessarseseresernrnennnennnn nen 28 krav på kontantinsats 28 kreditgivares rätt att säga upp krediten i förtid ............ 28 kreditgivares rätt att ändra fräntå........s.sesssseeseronsonnn 28 kreditprÖVDilg....ssesssseseesesesesearnennesesnenrerr ennen renen nen nn anna nen 28 kredittagares rätt att lösa krediten i förtid ...................- 28 lagens tillämpningsOmråde ..........sssssssesssssrsnrrnenenennnrnnnnna 28 marknadsföring av krediter ......sssssesseresesressessnrernennennsnn 28 Konsumentköplagen 24 Konsumentpolitik anslag till allmänna reklamationsnämnden .................. 24 anslag till konsumentverket s.s.mmnmmssseseessrrsrensernnernnn nen n anat 24 anslag till marknadsdomstolen...........ssssssssesessenerenennennenn 24 avbeställning vid konsumentkÖP s..........sssessesrerererrsrsnrn 24 CXULAPLISCE ooossssererseererrseererrereerenrernenrerrrnennenrenen nen enn nn anna nanna 24 frivilliga konsumentorganisationer... 24 konsumentfOrsknNinNg . ...smeseseesrerssrssrerrrenrnersenererrsrernnrnn rna 24 konsumentkreditlagen s..mnmmmmsssssesssrsrsenenennrnnennnnenenn nn nanna 28 konsumentkÖplagen ...sssmsseseessrersrrssersraseresrnrnrenrnnnnnrrn rna nn 24 könsdiskriminerande reklam so nmsmmsmsssssssrsssersernennrrnnnnnnn nn 24 lokal konsumentverksamhet s..mnmmmnssssrsssesnrrenrnnnennnnrnnnnnn 24 miljömärkning av produkter........s..essssssssensnrsesnsnnsnennnn 24 prisinformation 15, 24 PriSlaPppPaår oosossseeseereeseerseenerrenerernresresnrsnernerrernesnnenernrn renen nnn nn 15 sakrättsligt konsumentskydd .................-- sen 7 översyn av konsumentpolitiken 24 Konsumentskydd vid leasingavtal mmm sssssssssssesnennnnnrnnennr 28 Konsumentverket, anslag till... ..ossmsmmsssssssesssresnennnesnennnnnnnnnnnnn 24 Konsumentverkets rätt att spela in TV-reklam ..................- 5 11</p>
-          <p>Kontantinsats vid konsumentkrediter .............ssesssereerernornrnr 28</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199192/reg_199192_LU/reg_199192_LU-012.pdf"/>
-          <p>Kontrollbalansräkning för aktiebOlag..............ss.sssssssersernnann Kooperativ verksamhet, riskkapitalförsörjningen vid........ Kreditprövning vid konsumentkrediter ...............s..sssssssn200&gt; Kronofogdemyndigheterna anslag till.mosmsssssssesesrsenrennnrrnrrrrrnnnrnnn ns nnnn ann nan länskronofogdemyndigheternas styrelser specialindrivningsenheter.........s..sseesssrensessrnnnrenrsensnrnn nanna ändrat anslag till. ssmssmossssesreseresseerrssnrrerrrerrerrrrrrrerrrarrnnnn rn Kungörelsekostnader vid lagfartssammanträden ................ Könsdiskriminerande reklam. omossmmssessreessrersessansnrrnrsensnnnnnnn nn Köp av fast egendom, formkravet Vid ..............sssssssssessnnsnnnn Köttbesiktning, anslag för täckande av vissa kostnader .....</p>
-          <p>Lagen om ekonomiska föreningar Lagfart för Makar omsssesssssessssrerersesnsrnrnrnnnnerenenrnnrner ennen enn nn nn nnn LivsmedelSimpPOTIt ossmnnssresreseerrersrersrerrrerrrrrrrrerrsrrrrnrnrenrnnnnrrn nana Livsmedelskontroll anslag för täckande av vissa kostnader för köttbesiktning M.M. moessecsesssessersersrrersererressernrnennerrnrnnnrn nn anslag till statens livsmedelsverk import av livsmedel.......... märkning av livsmedel märkning av tillsatser i VifL. oossmssesssesresesersrenererrrnrernenrrnnn nn opastöriserad Mjölk m.mossmssssesssesrersrrrrrerererrerrererrnrrrrrrnrn nan Lokal konsumentverksamhet s..snmnmssssesereserrrnenrnrensrnrrnrrnnnnnn nan Luganokonventionen domstols behörighet .............sssssessessereesresrereresrnnennrrnnrnnen rann erkännande och verkställighet av utländska domar på privaträttens OMråde ..smmmmsssssssoreoeorenrsrossneneerenennsnen enn exekvaturförfarande smmmmsssesssseerserresrsersrrnsersernnnnnnnenn snara anna Länskronofogdemyndigheternas styrelser ..................oso0000nn Lönegaranti, statlig vid konkurs förmånsberättigaCl€ ..smnmnsosssssrsrsrenennenrnnenesrnennenesrenennnnnn nn garantins OMfattNiNg m.ssmmssersressrerresererserrrrrrrrnrrrerrnrnrrrnrenn handläggniNgeh....ssessessreresresresrernerrsrsrrersrrrrerersrrrnrnnenn ennen nana Utbetalningen m.ssmomssssessseserresrerererrrerrrerrrerrresrernrrennrernnrrr rna nn överprövningen</p>
-          <p>Marknadsdomstolen, anslag till. .s.s.msssssssssesessensnnnnnnnnnnnn nn Medlemsinflytande i ekonomiska föreningar ..................... Medling, obligatOriSk ossmsmsssssssesrrssrseresnrrerrrnerrrrerrenrrrrnrnrrrnnnn nn Miljömärkning av prodUukter...........ssssessrsssersrererssrrerrrnnnnnnnnnn MiljöredOViSNilQ.....sssosseseesesresereerrerrrrrsrrsrrerrrrrrrernnrrrnnernrnnnnnn anna</p>
-          <p>Miljörevisorer ............... Miljöskadeförsäkringen Musikaliska verk, skydd fÖr.s.....sssssssessessaseassarrensnnannernernnnnnnnnn Myndighetsåldert s..snmnnsssssssereerasrerrererrrersrrrrenrererrrnnerrrrnnrn nn rena Märkning av livsmede€l.....nsmssssssssrersrerrrnsrerrrrersenrsersnrnnrnrnrnnnnnn na Märkning av tillsatser i ViDsssmmssmssssessesesseesesnrsrsrennnsnirrnennnnn nn</p>
-          <p>10,</p>
-          <p>10 1 28</p>
-          <p>21 34 21 39 31</p>
-          <p>1991/92:LU Reg.</p>
-          <p>12</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199192/reg_199192_LU/reg_199192_LU-013.pdf"/>
-          <p>Namn lagen sossmassssesessrerssrerersrrennerernrrerenrrernrnnrrrnrrrrrrnr nr rn rnn nn nn Nordisk familjelagstiftniNng ...mmmmsssssssessennennnsoresnrsnnennennnnnnnnnnn</p>
-          <p>Obligatorisk hemförsäkring.........ssssesssssssesnssrnenesrernrnrenrnsnnnnn Oljeskadelageh sssmsnseseosenseaserresneseenesnennenrernernrnennennnnsnennennnnn nn nen Oljeskador internationella oljeskadefonden .............ssessssersrasnenennennn Olyckor till havs, skadeståndsansvar Vid ..............e.sssssnsnnn Omyndighet s..ssnnmsnssssessrennnannennnsnnennn nn Opastöriserad mjölk</p>
-          <p>Parallellimport, se Uppskjutna ärenden s........eeeeeeeesnn PariskOnVentiONCN....sssseesseseserresresrennenrerennennenennenernen nen enen nn nn a Patent- och registreringsverket aNSlag tillosssosssssssssressrersresrrsrrrsrernrnernrnn rn rn rrn ns nernr nn nr nn nn patenttiden för läkemedelsuppfinningar... sena uppgifter fÖr............esssssssessrrsesrarenesernenenenerennnnennnsnenenn nn enn övergripande målsättning fÖr s.........s.ssssseseerresrsrrnsrsnnnn Patentbesvärsrätten anslag tillisossssssssessssereensererrenrnnennrnnennenernnnrenenn ennen enn n annen anna övergripande målsättning fÖr s.........s.ssssseessserresseresrnnnnn Patenttiden för läkemedelsuppfinningar ...........sesssessnsnsnn Patientförsäkringen vid behandlingsskada Patientskadenämnden sssmnmssesesrereenrasrrsrrnrnrennenernenennsnnnnenennn nat Pensionsrätt vid DOdelning ......sseesrarsressersrrssensrennerennnennennnnnnn PermutatiOn s.smmssssssserssransrennesrnesnerrrrrnrresnrerrenrrrnrrnerrrsnerenrn enn enn Personbilder, användningen av... ..smmmssssessreseeseennennennnsnennsnnnn PersonförsäkriNgåar smsmmmsssssssseseernesreanrenesrenrrnesrrnrenennrnrnnrrenen nr Polishundar, statens skadeståndSanSvar .............sesssseresseosrena PrisinfOrmatiOnD....ssssssssesssererseesrrerererrrrrnrrrrrrrrnnrrnn nen nr nan renarna se även Uppskjutna ärenden s...smesmsseesesessesernrornnrnenennnnn Prislappar ..............0- Programutskrifter Psykisk störning, begreppet ........sssssssssseosesensesernesesnsnnsnsnsnenn</p>
-          <p>Radio- och TV-program, upphovsrätt till ..............s....s.ss--- Regressrätt för utbetald sjuklön s.......sssssssssssssoeorsrsenennsrnrnrnnn Reklam, könsdiskriminerande sossmmmsssseesrsrererererrrrserrnrernnrenr Rekonstruktion av företag .......... Resegarantier, se Uppskjutna ärenden s....ssssssssenessnsnnnnn Revision i KONKUITS sssmssssrsssrerersresnsnrrrnnrrrnsnersrnernnerrnsrnn nn nerna ReViSsOrSrOllenN ssssnssnesresasneerserrenrenennenrennenneserrerrennenerrenen nn ene n nn nn Riskkapitalförsörjning i kooperativ verksamhet ................ Rättshjälpslagen, ändring i...smsssssesssesessesesrsesrsrenersrsrsnenenennrnn</p>
-          <p>Sakrätt godtrosförvärv av stöldgOdS .......sessseseseersrerrrrerennnnernnnnnnnn sakrättsligt konsumentskydd s......ss.sseseessesereerernrnnenrnnnnnn se även Uppskjutna ärenden s....sssssssesersresrneseerneerennsnnsnnn Sambolagstiftningen</p>
-          <p>15,</p>
-          <p>32 30</p>
-          <p>29</p>
-          <p>38 32</p>
-          <p>1991/92:LU Reg.</p>
-          <p>13</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199192/reg_199192_LU/reg_199192_LU-014.pdf"/>
-          <p>Sekretesskydd för Dar ....ssesessrsrsenesrererenerennnnnnenenenenenen anar nn 30 1991/92:LU Reg. Skadeståndsrätt</p>
-          <p>atomansvarighetslagen sm.smmmssssssssssressssererssnrannnnsnnrnnnn nanna 29 det allmännas skadeståndsansvar vid myndighetsutÖVNiNg......sseeessresessressrsssressersrennrrnsnrennrnnnran nn 29 föräldrars skadeståndsanSVaår s.mmmsesessrssssresesnrsenernnnnennan an 8 ideell skada, ersättning fÖr......ssssssssesssrrrrrrsesesenrrrrsrenerrnnn nn 27 integritetskränkningar, skadestånd fÖr .......................... 8 miljöskadeförsäkringen.........ssssseessessrensrersrenrrenrrrrnnnnnnrnn nr 29 obligatorisk hemförsäkring 29 patientförsSäkriNngen smemmmssessesessesesrerrerrsesrersenrennnerrrn ren rerna 27 regressrätt för utbetald sjuklön s........ss.ssessessersrerensennrnnnn 8 skadestånd till brottsOffer..................sssssesesersersesesesrrnrnnnn 29 skadestånd vid olyckor till HaVS sm..smmmmssssrssesesseerenennsnennn nn 4 skadeståndsansvar mot brottSliNg.............sssssssssssssosossnnnn 8 skadeståndsansvaret vid kärnkraftsolyckOr ................... 29 skadeståndsmål, verkställighet av domar 8 statens ansvar för skador som orsakas av pOliShUNdar oososeseererreresesrsrereseerererenennnnannrn enar ennen renen eran ennen a 33 statens skadeståndsansvar vid affärsdrivande verkSamhet...ssssssessssrsesserrssreerrrerersrrrrrnrrrrrrrrrernnn rna rrrnn nr nan nnn 29 väghållares skadeståndsansvar, se Uppskjutna [4 CT 000 (2 a VR 38 värnpliktigs skadeståndsansvar..... 8 Skuldsanering för fysiska personer 6, 28 Specialindrivningsenheter, kronofogdemyndigheternas.... 21 Statens livsmedelsverk, anslag till... .osmmmmmssssssssorenssnnnnennnnnn nn 25 Statens skadeståndsansvar för skador som orsakas av polishundar...............---------- 33 vid affärsdrivande verksamhet..........sssssssossnonsonnnsennnnnnnnnn 29 Statlig lönegaranti vid KONKUrS s..ssmsnsssessessesrresennnesnenrnrnennnn nn 6 Stiftelsen för utvecklande av god redovisningssed, anslag till.nmossssnsssssssssesresresesnennsnnrnnennn oonna 22 Stiftelser, lagen om tillsyn över 17 Stöldgods, godtrosförvärV QV s......ssssessesrssersersersesnnrnnennnnnen nan nn 7 Talböcker för IN VaNdrar€.msssossseesseereereeerrrerrrerrrrrrerrrrrrrrnnr rn rens n rerna annan 5 upphovsrätt till-osssmossssssssssssesesresesrennenrernernernernnnsnernrnn rn nn 5 Talerätt för mor- och farföräldrar i umgängesfrågor ......... 30 Testamente, jäv vid bevittnilg.........ssesssessessesessrsnsnenernnsnnsnnnn 35 Tillsyn över överförmyndarverksamheten s...........ssssssnonnnn 9 Trafikförsäkringar, se Uppskjutna ärenden s.........eseseen0n 38 Umgängesresor, kostnader fÖr s.......s.sssessssessesrereennennrnnrnnrnnnnn 30 UmMgänNgesSrätt ssssnssnsseesseerrsersrsrrresrrererrsrerrrarrrrrrrern enn n nr rr nr n enn nn n 30 Underhållsskyldigas SitUuatiOnN...........sessesseseesensensnannsnnnnnnnnn anna 30 Underhållsskyldighet gentemot barn...............s.sessssssssnsnsnnn 30 Upphovsrätt 14 fOlKk MUSIK oöooosseseeessrererrrerereresernreserrrerrrrrrrrrrsrrrrrrrerrrrsrrrrrnnr nn 5</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199192/reg_199192_LU/reg_199192_LU-015.pdf"/>
-          <p>gudstjänstmuSik s.....s.ssssossssrsrsrssnenrnnrnenensrnnrrnnnnsrns nns nn nan n 26 1991/92:LU Reg.</p>
-          <p>musikaliska verk, skydd fÖr........ssssssssssseseserernenenenrsnnnnnnn 26 persOnbilder ssmmmssssesrsesersrennesnerrerrernenrerennsnrsnnnsnrnensn nr nn rn nn en 5 programutskrifter sossmmmssssssssseennsnrsnrenenerrennsrsnsnrnnnnnnrnrnnnnn nn 5 radio- OCh TV-prOgräalM .ssmmsssessressersrenrannennnrennrnrnnnsnrn rna nan 5 rätt till egen DilCl.nsmmmmsssssssennnnnennrnrenennerennererrn ennen rn nn nn rann 5 talbÖCKEeL ososssssesreesreernreserenrennrarnnrnnsennnenrernrnnen renen ene ennen rna nn 5 Uppskjutna ärenden ekonomisk brottslighet 38 franChiSiNg ssssessesesresrereesesnersrrnneresrnrsnenrsneneresnrn ennen rn rn nn nn nn 38 inseminationsverksamheten i Sverige s.......m.ssesnsnnnnn 38 internationell SJÖTätt...............ssssssssereseoresenesenneresrnarnsnanen nn 38 konkursförvaltares uppgifter vid ekonomiska DrOtt s..smsssssssessrsrsrrssrrrsrnnersnennenenrennsnennrn ennen nan 38 konsumentfordringar i KONKUFS ...sssssseeseeseenesennrnennnnnnn 38 olovligt bortförande av barn i internationella förhållanden s.osemmmsssseserrsrsesernersrrnrnrnnnnn rna 38 parallellimport 38 personligt betalningsansvar för Akti€ägar€ sosssssseresesrersrsesrerernenrersennenernen ennen nrnn enar en enar e nen en nn enn 38 reSegaranNti€k....ssssssssesesesenrerenrerenrererenenenen eran en nnn renen en en en nn nn 38 SAKLÄLtl oooososeresrerereererererrererenrererrenerrer aren enenen enar enn n nere en en en en nn 38 trafikförsäkriNgarl...ss.sssssesessesnenseesennenennennrrenenenennrnn renen rna nn 38 väghållares skadeståndSsanSvar ........s.sssssessssnsnronensnnnnnnnen 38 återvinning vid konkurs och ackord .................. sena 38 Utmätning, värdering av gäldenärens egendom ................. 6 Utsökningsbalken smsmmmmssssssesresssrennresnrenrerrenrerrernernernnernrnrrrrnnnnn 6, 13 Vilande lagförslag sm. ssmmmsssssssessrrssrarsrnrsrrernrerernrerernrnnrnernrnnn nn nn 3 Vårdnad OCh UMgäÄäNge ssnseeesesessererreresenenenenanenansr annen nen nn enn 30 VårdnadsavgÖöranden s....ssssseesesresereeresenenenennnnnnnnnenennrrnsnn en en enn 30 Värnpliktigs skadeståndSanSVäår s......s...seesesrsssrsenenrsnnnnnnnnnnnnn 8 WienkOnventiON€Cih ..mmmsssesssesseassrrarsernrenresrennennernen nar nen ene n nn nen 12 Årsredovisning för aktiebolag ..................mmmmmmmn 10 Äktenskapsbalken..........ssoosssossroonossrooonsssrnnnnnonnonssnrrrnnrnnnnn 32 Överförmyndare smmmmmssssssooesssrronnssssrrsrenennnnnnnnnnnnnnnnnnnnnnnnnnn 9</p>
-          <p>15</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199192/reg_199192_LU/reg_199192_LU-016.pdf"/>
-          <p>gotab 41625, Stockholm 1992</p>
+          <p>
+            Lagutskottets register vid riksmötet ÄN
+          </p>
+          <p>
+            1991/92
+          </p>
+          <p>
+            =
+          </p>
+          <p>
+            1991/92 LU Reg. Betänkanden Nr LU1 Ekonomiska föreningar m.m.
+            Utskottets justering: 1991-11-05 Riksdagens beslut: Bifall till
+            utskottets hemställan 1991-11-20 Protokollshummer 1991/92:28 Riksdagsskrivelse
+            - Nr LU2 Försäkringsvillkor för barn Utskottets justering: 1991-11-05
+            Riksdagens beslut: Bifall till utskottets hemställan: 1991-11-20
+            Protokollshummer 1991/92:28 Riksdagsskrivelse - Nr LU3 Internationell
+            järnvägstrafik (vilande lagförslåg) (prop.1990/91:43) Utskottets
+            justering: 1991-11-05 Riksdagens beslut: Bifall till utskottets
+            hemställan 1991-11-20 Protokollsnummer 1991/92:28 Riksdagsskrivelse
+            1991/92:15 Nr LU4 Internationella oljeskadefonden (prop.1990/91:196)
+            Utskottets justering: | 1991-11-05 Riksdagens beslut: Bifall till
+            utskottets hemställan 1991-11-20 Protokollsnhummer 1991/92:28
+            Riksdagsskrivelse 1991/92:16 Nr LUS | | Upphovsrättsliga frågor
+            Utskottets justering: 1991-11-12 Riksdagens beslut: Bifall till
+            utskottets hemställan 1991-11-27 Protokollsnummer 1991/92:33
+          </p>
+          <p>
+            Riksdagsskrivelse
+          </p>
+          <p>
+            1 Riksdagen 1991192. 8 saml. Register
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199192/reg_199192_LU/reg_199192_LU_0001"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199192/reg_199192_LU/reg_199192_LU_0002"/>
+          <p>
+            Nr LU6 Konkursrättsliga frågor Utskottets justering: Riksdagens
+            beslut: Bifall till utskottets hemställan Protokollsnhummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr LU7 Sakrättsliga frågor Utskottets justering: Riksdagens beslut:
+            Bifall till utskottets hemställan Protokollsnhummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr LU8 Vissa skadeståndsfrågor Utskottets justering: Riksdagens
+            beslut: Bifall till utskottets hemställan Protokollsnhummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr LU9 Godmanskap m.m. Utskottets justering: Riksdagens beslut:
+            Bifall till utskottets hemställan Protokollsnhummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr LU10 Vissa ändringar i aktiebolagslagen (prop.1990/91:198)
+            Utskottets justering: Riksdagens beslut: Bifall till utskottets
+            hemställan Protokollshnhummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr LU11 Förverkande av rätt att ta arv m.m. (prop.1990/91:194)
+            Utskottets justering: Riksdagens beslut: Bifall till utskottets
+            hemställan Protokollsnummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr LU12 Atomansvarighetslagen m.m. (prop.1991/92:31) Utskottets
+            justering: Debatt i kammaren Protokollsnummer Riksdagens beslut:
+            Bifall till utskottets hemställan Protokollshnummer Riksdagsskrivelse
+          </p>
+          <p>
+            1991-11-12 1991-11-27 1991/92:33
+          </p>
+          <p>
+            1991-11-12 1991-11-27 1991/92:33
+          </p>
+          <p>
+            1991-11-21 1991-12-04 1991/92:38 1991/92:45
+          </p>
+          <p>
+            1991-11-21 1991-12-04 1991/92:38
+          </p>
+          <p>
+            1991-11-19 1991-12-04 1991/92:38 1991/92:41
+          </p>
+          <p>
+            1991-11-19 1991-12-04 1991/92:38 1991/92:42
+          </p>
+          <p>
+            1991-11-21 1991-12-04 1991/92:38 1991-12-04 1991/92:38 1991/92:43
+          </p>
+          <p>
+            1991/92:LU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199192/reg_199192_LU/reg_199192_LU_0003"/>
+          <p>
+            Nr LU13 1991/92:LU Reg. Andring i utsökningsbalken, m.m. (prop.1991/92:24)
+          </p>
+          <p>
+            Utskottets justering: 1991-11-21 Riksdagens beslut: Bifall till
+            utskottets hemställan 1991-12-04 Protokollsnhummer 1991/92:38
+            Riksdagsskrivelse 1991/92:44 Nr LU14 Produktansvar (prop.1990/91:197)
+            Utskottets justering: 1991-12-03 Debatt i kammaren 1991-12-17
+            Protokollsnhummer 1991/92:47 Riksdagens beslut: Bifall till utskottets
+            hemställan 1991-12-17 Protokollsnhummer 1991/92:47 Riksdagsskrivelse
+            1991/92:78 Nr LU1S Prisinformation (prop.1991/92:55) Utskottets
+            justering: 1991-11-28 Debatt i kammaren 1991-12-12 Protokollsnummer
+            1991/92:44 Riksdagens beslut: Bifall till utskottets hemställan
+            1991-12-12 Protokollsnhummer 1991/92:44 Riksdagsskrivelse 1991/92:70
+            Nr LU16 Uppgift om fornminne i gravationsbevis Utskottets justering:
+            1992-02-04 Riksdagens beslut: Bifall till utskottets hemställan
+            1992-02-19 Protokollshnhummer | 1991/92:66
+          </p>
+          <p>
+            Riksdagsskrivelse -
+          </p>
+          <p>
+            Nr LU17 Permutation Utskottets justering: 1992-02-04 Riksdagens
+            beslut: Bifall till utskottets hemställan 1992-02-19 Protokollsnummer
+            1991/92:66 Riksdagsskrivelse - Nr LU18 Friköp av historiska arrenden
+            Utskottets justering: 1992-02-27 Debatt i kammaren 1992-03-11
+            Protokollsnummer 1991/92:74 Riksdagens beslut: Bifall till utskottets
+            hemställan 1992-03-18 Protokollsnhummer 1991/92:79 Riksdagsskrivelse
+            -
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199192/reg_199192_LU/reg_199192_LU_0004"/>
+          <p>
+            Nr LU19 Internationella oljeskadefonden (prop.1991/92:77)
+          </p>
+          <p>
+            Utskottets justering: 1992-02-25 Riksdagens beslut: Bifall till
+            utskottets hemställan 1992-03-18 Protokollshummer 1991/92:79 Riksdagsskrivelse
+            1991/92:130 Nr LU20 Anslag till patentverket m.m. (prop.1991/92:100
+            bil.13) Utskottets justering: 1992-03-10 Debatt i kammaren 1992-03-25
+            Protokollsnummer a 1991/92:84 Riksdagens beslut: Bifall till utskottets
+            hemställan 1992-03-25 Protokollshummer 1991/92:84 Riksdagsskrivelse
+            1991/92:164 Nr LU21 Anslag till kronofogdemyndigheterna (prop.1991/92:100
+            bil.8) Utskottets justering: 1992-03-10 Debatt i kammaren 1992-03-25
+            Protokollsnummer 1991/92:84 Riksdagens beslut: Bifall till utskottets
+            hemställan 1992-03-25 Protokollshummer 1991/92:84 Riksdagsskrivelse
+            1991/92:165 Nr LU22
+          </p>
+          <p>
+            Anslag till bokföringsnämnden, m.m. (prop.1991/92:100 bil.3 och
+            bil.8)
+          </p>
+          <p>
+            Utskottets justering: 1992-03-10 Riksdagens beslut: Bifall till
+            utskottets hemställan 1992-03-25 Protokollsnummer 1991/92:84 Riksdagsskrivelse
+            1991/92:166 Nr LU23 Ekonomiska föreningar, m.m. Utskottets justering:
+            1992-03-10 Debatt i kammaren 1992-03-25 Protokollsnummer 1991/92:84
+            Riksdagens beslut: Bifall till utskottets hemställan 1992-03-25
+            Protokollsnummer 1991/92:84 Riksdagsskrivelse -
+          </p>
+          <p>
+            1991/92:LU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199192/reg_199192_LU/reg_199192_LU_0005"/>
+          <p>
+            Nr LU24 . 1991/92:LU Reg. Konsumentpolitiska frågor m.m. (prop.1991/92:100
+            bil.13 och
+          </p>
+          <p>
+            bil.14) Utskottets justering: 1992-03-17 Debatt i kammaren 1992-04-01
+            Protokollsnummer 1991/92:89 Riksdagens beslut: Bifall till utskottets
+            hemställan 1992-04-01 Protokollsnummer | 1991/92:89 Riksdagsskrivelse
+            | | 1991/92:177 Nr LU2S Livsmedelskontroll m.m. (prop.1991/92:100
+            bil.10) Utskottets justering: 1992-03-17 Debatt i kammaren 1992-04-01
+            Protokollshummer 1991/92:89 Riksdagens beslut: Bifall till utskottets
+            hemställan 1992-04-01 Protokollsnhummer 1991/92:89 Riksdagsskrivelse
+            1991/92:178 Nr LU26 Upphovsrättsliga frågor Utskottets justering:
+            1992-03-17 Riksdagens beslut: Bifall till utskottets hemställan
+            1992-04-01 Protokollsnummer 1991/92:89
+          </p>
+          <p>
+            Riksdagsskrivelse -
+          </p>
+          <p>
+            Nr LU27 Försäkringsfrågor Utskottets justering: 1992-03-24 Debatt
+            i kammaren 1992-04-08 Protokollshummer 1991/92:94 Riksdagens beslut:
+            Bifall till utskottets hemställan 1992-04-09 Protokollsnhummer
+            1991/92:95 Riksdagsskrivelse - Nr LU28 Ny konsumentkreditlag (prop.1991/92:83)
+            Utskottets justering: 1992-05-21 Riksdagens beslut: Bifall till
+            utskottets hemställan 1992-06-02 Protokollsnhummer 1991/92:124
+            Riksdagsskrivelse 1991/92:319 Nr LU29 Skadeståndsfrågor Utskottets
+            justering: 1992-04-23 Riksdagens beslut: Bifall till utskottets
+            hemställan 1992-05-06 Protokollsnummer 1991/92:106 Riksdagsskrivelse
+            -
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199192/reg_199192_LU/reg_199192_LU_0006"/>
+          <p>
+            Nr LU30 Vårdnad och umgänge med barn m.m.
+          </p>
+          <p>
+            Utskottets justering: 1992-04-23 Debatt i kammaren 1992-05-06
+            Protokollsnhummer 1991/92:106 Riksdagens beslut: Bifall till utskottets
+            hemställan 1992-05-06 Protokollshnhummer 1991/92:106 Riksdagsskrivelse
+            - Nr LU31 Ändring i jordabalken (prop.1991/92:110) Utskottets
+            justering: 1992-04-23 Riksdagens beslut: Bifall till utskottets
+            hemställan 1992-05-06 Protokollsnhummer 1991/92:106 Riksdagsskrivelse
+            1991/92:235 Nr LU32 Äktenskaps- och sambofrågor Utskottets justering:
+            1992-04-23 Debatt i kammaren 1992-05-06 Protokollsnummer 1991/92:106
+            Riksdagens beslut: Bifall till utskottets hemställan 1992-05-06
+            Protokollshnhummer 1991/92:106 Riksdagsskrivelse 1991/92:236 Nr
+            LU33 Skadeståndsansvaret för polishundar (prop.1991/92:111) Utskottets
+            justering: 1992-04-23 Riksdagens beslut: Bifall till utskottets
+            hemställan 1992-05-06 Protokollsnhummer 1991/92:106 Riksdagsskrivelse
+            1991/92:234 Nr LU34 Länskronofogdemyndigheternas styrelser Utskottets
+            justering: 1992-03-17 Riksdagens beslut: Bifall till utskottets
+            hemställan -. 1992-04-01 Protokollsnhummer | 1991/92:89
+          </p>
+          <p>
+            Riksdagsskrivelse -
+          </p>
+          <p>
+            Nr LU35 Allmänna arvsfonden, m.m. Utskottets justering: 1992-04-28
+            Riksdagens beslut: Bifall till utskottets hemställan 1992-05-14
+            Protokollsnummer 1991/92:112 Riksdagsskrivelse 1991/92:270
+          </p>
+          <p>
+            1991/92:LU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199192/reg_199192_LU/reg_199192_LU_0007"/>
+          <p>
+            Nr LU36 Luganokonventionen (prop.1991/92:128) Utskottets justering:
+            Riksdagens beslut: Bifall till utskottets hemställan Protokollshummer
+            Riksdagsskrivelse
+          </p>
+          <p>
+            Nr LU37 Ny lönegarantilag (prop.1991/92:139) Utskottets justering:
+            Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till
+            utskottets hemställan Protokollshnhummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr LU38 Uppskov med behandlingen av vissa ärenden Utskottets
+            justering: Riksdagens beslut: Bifall till utskottets hemställan
+            Protokollsnhummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr LU39
+          </p>
+          <p>
+            1992-05-14 1992-05-27 1991/92:121 1991/92:294
+          </p>
+          <p>
+            1992-05-21 1992-06-02 1991/92:124 1992-06-02 1991/92:124 1991/92:318
+          </p>
+          <p>
+            1992-05-14 1992-06-02 1991/92:124
+          </p>
+          <p>
+            Andrat anslag till kronofogdemyndigheterna (prop.1991/92:150
+          </p>
+          <p>
+            bil.I:5) Utskottets justering: Riksdagens beslut: Bifall till
+            utskottets hemställan Protokollshummer Riksdagsskrivelse
+          </p>
+          <p>
+            Yttranden till annat utskott Nr LU1y till SkU Avgift vid indrivning
+            (prop.1991/92:93)
+          </p>
+          <p>
+            Utskottets justering:
+          </p>
+          <p>
+            Nr LU2y till SfU
+          </p>
+          <p>
+            1992-05-21 1992-06-02 1991/92:124 1991/92:320
+          </p>
+          <p>
+            1992-03-31
+          </p>
+          <p>
+            Patenttiden för läkemedelsuppfinningar (prop.1991/92:151)
+          </p>
+          <p>
+            Utskottets justering:
+          </p>
+          <p>
+            1992-05-14
+          </p>
+          <p>
+            1991/92:LU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199192/reg_199192_LU/reg_199192_LU_0008"/>
+          <p>
+            Sakregister
+          </p>
+          <p>
+            Aktiekapitalets storlek
+          </p>
+          <p>
+            Aktieägande, offentlighet m..mmmmmmssssssessesnesesesnesennenesnrnennnrnrnnnnnn
+            Aktieägare, personligt betalningsansvar för s..............+.+-+---
+          </p>
+          <p>
+            se även Uppskjutna ärenden Allmänna arvsfonden avstående av arv
+            som tillfallit allmänna arvsfonden .... förvaltning av allmänna
+            arvsfondens medel ................. Allmänna reklamationsnämnden,
+            anslag till...........o...-...- Arbetstagares lönefordringar i
+            konkurs Arrende friköp av historiska arrenden... osmmmmmsssrerresesrssrsrnnnrnrnnrnnr
+            Arvsrätt
+          </p>
+          <p>
+            allmänna arvsfOoNden s....ssmssssesssessrsrsssesnennnnnnn ann
+            erearnesa enn |
+          </p>
+          <p>
+            förverkande av arvsrätt Mal. mssmsmmseserrererserssrsersnnrnnnnn
+            nan jäv vid bevittning av testamente ..........sessssssssesesnennennnnnn
+            uttrycket sinnesslö m.m. i lagstiftningen.............-..--...-
+            Associationsrätt aktieägandets offentlighet .mssssmmssssssssssssnssrenrsnenennennnnnnnnn
+            differentierad rÖSträtt .......s..ssessessessesennennennennrnnnn
+            ann oenenan ekonomisk brottslighet ...smmmmsssssssseesesnesrennennnerennnrnnnrnn
+            nn ekonomiska föreningar m..ssmmmessersresrerseseeneenrenrennrnnnnnnnnn
+            nana erbjudandeplikt s.ssmmssssssrsssssrrarsrrrnsrresersrnnsnrrnrnnrnnnrr
+            ann rr ran nn
+          </p>
+          <p>
+            förbud mot vissa firmor och varumärken.................-.-- ideella
+            föreningar, lagstiftning OM s..ssssssssssssesenesnnsnnnnnn kontrollbalansräkning
+            för aktiebolag ..............s.ssssss0s&gt;0&gt; MiljöredOViSNiNG...sssssessssesseenesnesrenesnesesernerernerernrnernrnnnn
+            annan patentverkets uppgifter .............s.sssessssssnsennnna
+            personligt betalningsansvar för aktieägare re ViSOrSrOllen sosssssssessssereersrresnresrrsnernerrrnneresnnrrnsrnrrn
+            nr n nr n nn årsredovisning för aktiebolag ...........ssessssssesssenenenennnnnnn
+            Atomansvarighetslagen | ansvarsgränsen för anläggningsinnehavare
+            ................... försäkringskapaciteten för atomskadeområdet
+            ............. PariskON VentiON€N..sssssssssessssessesseenrenrssesnesnnerernnrnnnrrnrrn
+            nen WienkonventionenN.................. Avbeställning vid konsumentköp
+            Avstående av arv som tillfallit allmänna arvsfonden .........
+            Barns försäkringSVvillkOr....sssssssssssssssenerserennrenrersnnrrnernnnnnren
+            ann Barns inflytande i vårdnads- och umgängesmål Barns rätt i
+            ett EG-perspektiVv ssmmssnsssssrsssssersersersersesenerrnnrnnn
+            Bodelning, PEeNSiONSTäÄtt sumnssssssssessrrsssersrrsrrrrsnsnnrrernnrnnnrrnnnnna
+            Bokföringsnämnden ANSIAG ill oso oseeessersssrereesrsreeserresserereerreseesnrreernrrnernnren
+            rn rrnnnnn
+          </p>
+          <p>
+            förenklade bokföringsregler
+          </p>
+          <p>
+            12,
+          </p>
+          <p>
+            10 10 10 38
+          </p>
+          <p>
+            35 35 24 37
+          </p>
+          <p>
+            18
+          </p>
+          <p>
+            35 11 35 11
+          </p>
+          <p>
+            10 10 10 23 10 10 23 10 10 10 10 10 10
+          </p>
+          <p>
+            29 12 12 12 24 35
+          </p>
+          <p>
+            27 30 30 32
+          </p>
+          <p>
+            22 22
+          </p>
+          <p>
+            1991/92:LU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199192/reg_199192_LU/reg_199192_LU_0009"/>
+          <p>
+            MiljöredOViSNiNG....seesessesseenrereessesrnerrennrnnesrennenernennrn
+            nen nn nn Brottsling, skadeståndsansvar MOL s.....ssessssesersersesrsenesenrnrnna
+          </p>
+          <p>
+            Det allmännas skadeståndsansvar vid myndighetsUutÖVNiNg ...mmmeessssessersrressreserrernssnnnsnrernesnnrrn
+            nen nnnrnnn Diabetikers försäkringspremier Differentierad rÖSträtt
+            .........sssosssosossesorererorerennnrrrernnerrrrrrrrnn na
+          </p>
+          <p>
+            Egen bild, rätt fill.mssmosssssssssssresressesnnesrnenrenesnnernerernennsnnrnnrnenenr
+            Ekonomisk brottslighet.........ss.sssessesseosrsnesresernresennennrnnnnennnn
+            ann se även Uppskjutna ärenden s.messessesesresrererssrennnrnnennnna
+            Ekonomiska föreningar EuropakOOperatiV.........ssssesseseesereseenesrenennnenrennsnennenn
+            rna nana federativa OrganisatiON€r........s..sssssesrssessrenessenrannnnrnnrn
+            nn nn medlemsinflytäNnde smmmnmmssssessrrrererersrenerernrrrrernrrnnenn
+            nr nn annan minsta antal Medlemmar .nsnnssssssessessresrsrerernnernrnnn
+            nn nn nen Stad geäNdÅriNG sosesseeseseersensrerrseesrennenrrenenneen
+            enn nenrnnen renen nen en erna ULtfäCl€ oooesseesrersrerrrerrrrernnrarrsrrrrsrer
+            enn nrrrnsrrrnnr rann rn nanna n erna nn Erbjudandeplikt....smmmmmsssssrssrensranernnrennennenernrsnnennsrennennnn
+            enn rn nn nen EuropakOOperatiV...sssssseseeseensreneesnrannesnenrerneennrsnenennenneneen
+            rann nn Exekvaturförfarande
+          </p>
+          <p>
+            Familjerätt barns inflytande i vårdnads- och umgängesmål............
+            barns rätt i ett EG-perspektiV..........sssssssessenenennonennnnnninnr
+            FN:s barnkOnventiOl s.ssmmsssssssresssranrensrennnrernrnnnrnnnnnnnnn
+            anna förordnande av gOd Ma.smmmsssssssessressrrssrennrnnrnrennn
+            nn nn nan homosexuella sambor ............. kostnader för umgänge
+            med barn lagfart för MAKAL ossssnsssssssesssrressnrrssrennsrnrrennnrnrennnnnnrnn
+            nan nanna nordisk familjelagstiftNniNg ..........ssssssssssessenennennrnennnnnnnnn
+            nn obligatorisk Medling ....smmmmsssssessesnrenearsrnnernrerennennenen
+            nen nennn nn omprövning av vårdnadsbeslut .............s.sessseseesesesrsnsrnrnn
+            pensionsrätt vid DOdelning s....ssssssssesrssernsrnrnnennesennnnnnnnn
+            nn rättegångskostnader i verkställighetsmål .......................
+            sambolagstiftNiNgeh m.mmmmmssssseosrenersesrenrreneerernenrenen
+            ner ennrn ann sekretesskydd för barn talerätt för mor- och farföräldrar
+            i umgängesfrågor .... underhållsskyldigas situatiOn s..mmmmmssssrsssrsnsnnnenenenennsnnn
+            nan under hållsskyldighet gentemot barn ................s.ssss000000n
+            vårdnad och umgänge med barn s.......n.ssssssesesesssensnannnnn
+            vårdnads- och underhållsavgöranden år 1989, statistiska UPPgiffer.........sssosessresessensennennnnnenrenennenrrnrn
+            nerna rn se även Uppskjutna ärenden
+          </p>
+          <p>
+            Fastighetsmäklarlagen kompetenskrav för fastighetsmäklare ..........ss.o..ssonsonsnnnn
+            kompetenskrav för fastighetsvärderingsmän .................
+          </p>
+          <p>
+            22 1991/92:LU Reg. 8
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199192/reg_199192_LU/reg_199192_LU_0010"/>
+          <p>
+            Fastighetsrätt formkravet vid köp av fast egendom ........s..ssseseesrersrsnnnn
+            kungörelsekostnader vid lagfartssammanträden Fastighetsvärderingsmän,
+            kompetenskrav för Federativa OrganisatiOn€r.........sssssessessresssrrrssnnnn
+            non Firmor och varumärken, vissa förbud .. FN:s barnkonvention
+            .............. Folkmusik, upphovsrätt till Fornminne, uppgift
+            i gravationsbevis Franchising, se Uppskjutna ärenden Friköp av
+            historiska arrenden. omsmessessesessesersessernrnennennnnnn nn
+            Frivilliga konsumentorganisationer Förbehållsbelopp vid införsel
+            Förenklade bokföringsregler ..... FÖrmånsrättSlaägen .mmmmnmssssresrerseererrenenernernenrenrrnennenn
+            ennen nnnen renarna Förordnande av förvaltare Förordnande av god
+            man
+          </p>
+          <p>
+            Försäkringsersättning, förverkande av rätt till....................
+            Försäkringsfrågor diabetikers försäkringspremier......ssssssssssoseessnnnnnnnnnnnnnnn
+            a försäkringskapaciteten för atomskadeområdet .............
+          </p>
+          <p>
+            försäkringsvillkor för Darf s.ommmmssseseeseseesersernernennnnnnnnn
+            nn patientförsäkringen vid behandlingsskada patientskadenämnden
+            sussssesssesesssesrresnersernnrnnnernnnnnrnnnnnnnn personförsäkringar
+          </p>
+          <p>
+            trafikförsäkring, se Uppskjutna ärenden......................-
+            Förvaltare förordnande AV sossmnsssssssseeeseesereerrrrrrrrrrrrrrrrrrrrrrrrrnrnrrrr
+            nn nan tillsyn Över förvaltNiNg.....seessssrssssersennrsreneeresnnsnrnnrnnsnnnnnn
+            Förvaltning av allmänna arvsfondens medel Förverkande av arvsrätt
+            Mu. smsmosssssserersrrrererersrrrererrernrnnrn inn Föräldrabalk€nD....smmssssssseserererrererrrerrseesrrererrrrrrrrrrrrrrrrrrnrenn
+            nr rn nan Föräldrars skadeståndSsanSVvåar s.smmmmmusssssresseseeneneennesnrnennen
+            nanna
+          </p>
+          <p>
+            God kreditgivningssed vid konsumentkrediter..................-
+            God man förordnande av tillsyn över förvaltning Gravationsbevis,
+            uppgifter om fornminne
+          </p>
+          <p>
+            GudsSstjänStmMUSik smnnssnessesessresrsresrersesnsnesrennenrerenresr
+            rn rrner nen rnn enn
+          </p>
+          <p>
+            Historiska arrenden Homosexuella sambor
+          </p>
+          <p>
+            Ideella föreningar, lagstiftning OM .....sssssssssseseesessennennnnnrnrnnn
+            Immaterialrätt ...........ssssossossensrensrnssenrnrnennnnnnnnn
+            nn nn nn Indrivning, avgift vid Inskrivningsregister, ändring
+            i lagen OM........sssssessseserersnnnn Integritetskränkningar,
+            skadestånd fÖr ...........e.ssseseserersrrnnr Internationell järnvägstrafik
+            .mmmmmsssssssssessrsnsnrsnessnrnrrnnnnnnnrnen
+          </p>
+          <p>
+            5, 20,
+          </p>
+          <p>
+            1991/92:LU Reg.
+          </p>
+          <p>
+            10
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199192/reg_199192_LU/reg_199192_LU_0011"/>
+          <p>
+            Internationell sjörätt, se Uppskjutna ärenden ...................-
+            38 1991/92:LU Reg. Internationella oljeskadefonden
+          </p>
+          <p>
+            ändring i lagen om ersättning från s......m.esssesssennnnnnnnn
+            4,19 Invandrare, talböcker fÖr ...........sssssssssssserersesesrrarrerenrererrrnr
+            rer 5 Jordabalken, ändring 1...............--.--- 31 Jäv vid bevittning
+            av testamente 35 Konkursrätt arbetstagares lönefOrdringaår s.........s.ssssesesesrsennsnennnnnnnnnnn
+            6 gäldenärs försättande I susmmmmmmssssrsrrrsesenanenrnennnrnnnsn
+            annen nn nn 6 konkursförvaltar€ s...sssssssesssressressrrrnrerernnrrrnennnrennnrn
+            nn nnn anna 37 konkursförvaltares uppgifter vid ekonomiska brott
+            .... 6 AES 05 4 rr [0] statlig lönegaranti vid KONKUrS........ssssesessseoneserannennnnennnnn
+            37 värdering av gäldenärens egendOM .....s..ssseessssssesnnennennr
+            [0] överlåtelse av fordringar i KONKUIS s.....sssssssessesesnrernennnnn
+            6 se även Uppskjutna ärenden s....ssessesseseesensenrennrnnennnnnnnn
+            38 KonsumentforsknNinNg.....ssssssresressrnsrensrersersrennnenrnnarrnnnnnnn
+            nr annan 24 Konsumentkreditlag "god kreditgivningssed" .nnssssseessssssessarseseresernrnennnennnn
+            nen 28 krav på kontantinsats 28 kreditgivares rätt att säga upp
+            krediten i förtid ............ 28 kreditgivares rätt att ändra
+            fräntå........s.sesssseeseronsonnn 28 kreditprÖVDilg....ssesssseseesesesesearnennesesnenrerr
+            ennen renen nen nn anna nen 28 kredittagares rätt att lösa krediten
+            i förtid ...................- 28 lagens tillämpningsOmråde ..........sssssssesssssrsnrrnenenennnrnnnnna
+            28 marknadsföring av krediter ......sssssesseresesressessnrernennennsnn
+            28 Konsumentköplagen 24 Konsumentpolitik anslag till allmänna
+            reklamationsnämnden .................. 24 anslag till konsumentverket
+            s.s.mmnmmssseseessrrsrensernnernnn nen n anat 24 anslag till marknadsdomstolen...........ssssssssesessenerenennennenn
+            24 avbeställning vid konsumentkÖP s..........sssessesrerererrsrsnrn
+            24 CXULAPLISCE ooossssererseererrseererrereerenrernenrerrrnennenrenen
+            nen enn nn anna nanna 24 frivilliga konsumentorganisationer...
+            24 konsumentfOrsknNinNg . ...smeseseesrerssrssrerrrenrnersenererrsrernnrnn
+            rna 24 konsumentkreditlagen s..mnmmmmsssssesssrsrsenenennrnnennnnenenn
+            nn nanna 28 konsumentkÖplagen ...sssmsseseessrersrrssersraseresrnrnrenrnnnnnrrn
+            rna nn 24 könsdiskriminerande reklam so nmsmmsmsssssssrsssersernennrrnnnnnnn
+            nn 24 lokal konsumentverksamhet s..mnmmmnssssrsssesnrrenrnnnennnnrnnnnnn
+            24 miljömärkning av produkter........s..essssssssensnrsesnsnnsnennnn
+            24 prisinformation 15, 24 PriSlaPppPaår oosossseeseereeseerseenerrenerernresresnrsnernerrernesnnenernrn
+            renen nnn nn 15 sakrättsligt konsumentskydd .................--
+            sen 7 översyn av konsumentpolitiken 24 Konsumentskydd vid leasingavtal
+            mmm sssssssssssesnennnnnrnnennr 28 Konsumentverket, anslag till...
+            ..ossmsmmsssssssesssresnennnesnennnnnnnnnnnnn 24 Konsumentverkets
+            rätt att spela in TV-reklam ..................- 5 11
+          </p>
+          <p>
+            Kontantinsats vid konsumentkrediter .............ssesssereerernornrnr
+            28
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199192/reg_199192_LU/reg_199192_LU_0012"/>
+          <p>
+            Kontrollbalansräkning för aktiebOlag..............ss.sssssssersernnann
+            Kooperativ verksamhet, riskkapitalförsörjningen vid........ Kreditprövning
+            vid konsumentkrediter ...............s..sssssssn200&gt; Kronofogdemyndigheterna
+            anslag till.mosmsssssssesesrsenrennnrrnrrrrrnnnrnnn ns nnnn ann
+            nan länskronofogdemyndigheternas styrelser specialindrivningsenheter.........s..sseesssrensessrnnnrenrsensnrnn
+            nanna ändrat anslag till. ssmssmossssesreseresseerrssnrrerrrerrerrrrrrrerrrarrnnnn
+            rn Kungörelsekostnader vid lagfartssammanträden ................
+            Könsdiskriminerande reklam. omossmmssessreessrersessansnrrnrsensnnnnnnn
+            nn Köp av fast egendom, formkravet Vid ..............sssssssssessnnsnnnn
+            Köttbesiktning, anslag för täckande av vissa kostnader .....
+          </p>
+          <p>
+            Lagen om ekonomiska föreningar Lagfart för Makar omsssesssssessssrerersesnsrnrnrnnnnerenenrnnrner
+            ennen enn nn nn nnn LivsmedelSimpPOTIt ossmnnssresreseerrersrersrerrrerrrrrrrrerrsrrrrnrnrenrnnnnrrn
+            nana Livsmedelskontroll anslag för täckande av vissa kostnader
+            för köttbesiktning M.M. moessecsesssessersersrrersererressernrnennerrnrnnnrn
+            nn anslag till statens livsmedelsverk import av livsmedel..........
+            märkning av livsmedel märkning av tillsatser i VifL. oossmssesssesresesersrenererrrnrernenrrnnn
+            nn opastöriserad Mjölk m.mossmssssesssesrersrrrrrerererrerrererrnrrrrrrnrn
+            nan Lokal konsumentverksamhet s..snmnmssssesereserrrnenrnrensrnrrnrrnnnnnn
+            nan Luganokonventionen domstols behörighet .............sssssessessereesresrereresrnnennrrnnrnnen
+            rann erkännande och verkställighet av utländska domar på privaträttens
+            OMråde ..smmmmsssssssoreoeorenrsrossneneerenennsnen enn exekvaturförfarande
+            smmmmsssesssseerserresrsersrrnsersernnnnnnnenn snara anna Länskronofogdemyndigheternas
+            styrelser ..................oso0000nn Lönegaranti, statlig vid
+            konkurs förmånsberättigaCl€ ..smnmnsosssssrsrsrenennenrnnenesrnennenesrenennnnnn
+            nn garantins OMfattNiNg m.ssmmssersressrerresererserrrrrrrrnrrrerrnrnrrrnrenn
+            handläggniNgeh....ssessessreresresresrernerrsrsrrersrrrrerersrrrnrnnenn
+            ennen nana Utbetalningen m.ssmomssssessseserresrerererrrerrrerrrerrresrernrrennrernnrrr
+            rna nn överprövningen
+          </p>
+          <p>
+            Marknadsdomstolen, anslag till. .s.s.msssssssssesessensnnnnnnnnnnnn
+            nn Medlemsinflytande i ekonomiska föreningar .....................
+            Medling, obligatOriSk ossmsmsssssssesrrssrseresnrrerrrnerrrrerrenrrrrnrnrrrnnnn
+            nn Miljömärkning av prodUukter...........ssssessrsssersrererssrrerrrnnnnnnnnnn
+            MiljöredOViSNilQ.....sssosseseesesresereerrerrrrrsrrsrrerrrrrrrernnrrrnnernrnnnnnn
+            anna
+          </p>
+          <p>
+            Miljörevisorer ............... Miljöskadeförsäkringen Musikaliska
+            verk, skydd fÖr.s.....sssssssessessaseassarrensnnannernernnnnnnnnn
+            Myndighetsåldert s..snmnnsssssssereerasrerrererrrersrrrrenrererrrnnerrrrnnrn
+            nn rena Märkning av livsmede€l.....nsmssssssssrersrerrrnsrerrrrersenrsersnrnnrnrnrnnnnnn
+            na Märkning av tillsatser i ViDsssmmssmssssessesesseesesnrsrsrennnsnirrnennnnn
+            nn
+          </p>
+          <p>
+            10,
+          </p>
+          <p>
+            10 1 28
+          </p>
+          <p>
+            21 34 21 39 31
+          </p>
+          <p>
+            1991/92:LU Reg.
+          </p>
+          <p>
+            12
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199192/reg_199192_LU/reg_199192_LU_0013"/>
+          <p>
+            Namn lagen sossmassssesessrerssrerersrrennerernrrerenrrernrnnrrrnrrrrrrnr
+            nr rn rnn nn nn Nordisk familjelagstiftniNng ...mmmmsssssssessennennnsoresnrsnnennennnnnnnnnnn
+          </p>
+          <p>
+            Obligatorisk hemförsäkring.........ssssesssssssesnssrnenesrernrnrenrnsnnnnn
+            Oljeskadelageh sssmsnseseosenseaserresneseenesnennenrernernrnennennnnsnennennnnn
+            nn nen Oljeskador internationella oljeskadefonden .............ssessssersrasnenennennn
+            Olyckor till havs, skadeståndsansvar Vid ..............e.sssssnsnnn
+            Omyndighet s..ssnnmsnssssessrennnannennnsnnennn nn Opastöriserad
+            mjölk
+          </p>
+          <p>
+            Parallellimport, se Uppskjutna ärenden s........eeeeeeeesnn PariskOnVentiONCN....sssseesseseserresresrennenrerennennenennenernen
+            nen enen nn nn a Patent- och registreringsverket aNSlag tillosssosssssssssressrersresrrsrrrsrernrnernrnn
+            rn rn rrn ns nernr nn nr nn nn patenttiden för läkemedelsuppfinningar...
+            sena uppgifter fÖr............esssssssessrrsesrarenesernenenenerennnnennnsnenenn
+            nn enn övergripande målsättning fÖr s.........s.ssssseseerresrsrrnsrsnnnn
+            Patentbesvärsrätten anslag tillisossssssssessssereensererrenrnnennrnnennenernnnrenenn
+            ennen enn n annen anna övergripande målsättning fÖr s.........s.ssssseessserresseresrnnnnn
+            Patenttiden för läkemedelsuppfinningar ...........sesssessnsnsnn
+            Patientförsäkringen vid behandlingsskada Patientskadenämnden sssmnmssesesrereenrasrrsrrnrnrennenernenennsnnnnenennn
+            nat Pensionsrätt vid DOdelning ......sseesrarsressersrrssensrennerennnennennnnnnn
+            PermutatiOn s.smmssssssserssransrennesrnesnerrrrrnrresnrerrenrrrnrrnerrrsnerenrn
+            enn enn Personbilder, användningen av... ..smmmssssessreseeseennennennnsnennsnnnn
+            PersonförsäkriNgåar smsmmmsssssssseseernesreanrenesrenrrnesrrnrenennrnrnnrrenen
+            nr Polishundar, statens skadeståndSanSvar .............sesssseresseosrena
+            PrisinfOrmatiOnD....ssssssssesssererseesrrerererrrrrnrrrrrrrrnnrrnn
+            nen nr nan renarna se även Uppskjutna ärenden s...smesmsseesesessesernrornnrnenennnnn
+            Prislappar ..............0- Programutskrifter Psykisk störning,
+            begreppet ........sssssssssseosesensesernesesnsnnsnsnsnenn
+          </p>
+          <p>
+            Radio- och TV-program, upphovsrätt till ..............s....s.ss---
+            Regressrätt för utbetald sjuklön s.......sssssssssssssoeorsrsenennsrnrnrnnn
+            Reklam, könsdiskriminerande sossmmmsssseesrsrererererrrrserrnrernnrenr
+            Rekonstruktion av företag .......... Resegarantier, se Uppskjutna
+            ärenden s....ssssssssenessnsnnnnn Revision i KONKUITS sssmssssrsssrerersresnsnrrrnnrrrnsnersrnernnerrnsrnn
+            nn nerna ReViSsOrSrOllenN ssssnssnesresasneerserrenrenennenrennenneserrerrennenerrenen
+            nn ene n nn nn Riskkapitalförsörjning i kooperativ verksamhet
+            ................ Rättshjälpslagen, ändring i...smsssssesssesessesesrsesrsrenersrsrsnenenennrnn
+          </p>
+          <p>
+            Sakrätt godtrosförvärv av stöldgOdS .......sessseseseersrerrrrerennnnernnnnnnnn
+            sakrättsligt konsumentskydd s......ss.sseseessesereerernrnnenrnnnnnn
+            se även Uppskjutna ärenden s....sssssssesersresrneseerneerennsnnsnnn
+            Sambolagstiftningen
+          </p>
+          <p>
+            15,
+          </p>
+          <p>
+            32 30
+          </p>
+          <p>
+            29
+          </p>
+          <p>
+            38 32
+          </p>
+          <p>
+            1991/92:LU Reg.
+          </p>
+          <p>
+            13
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199192/reg_199192_LU/reg_199192_LU_0014"/>
+          <p>
+            Sekretesskydd för Dar ....ssesessrsrsenesrererenerennnnnnenenenenenen
+            anar nn 30 1991/92:LU Reg. Skadeståndsrätt
+          </p>
+          <p>
+            atomansvarighetslagen sm.smmmssssssssssressssererssnrannnnsnnrnnnn
+            nanna 29 det allmännas skadeståndsansvar vid myndighetsutÖVNiNg......sseeessresessressrsssressersrennrrnsnrennrnnnran
+            nn 29 föräldrars skadeståndsanSVaår s.mmmsesessrssssresesnrsenernnnnennan
+            an 8 ideell skada, ersättning fÖr......ssssssssesssrrrrrrsesesenrrrrsrenerrnnn
+            nn 27 integritetskränkningar, skadestånd fÖr ..........................
+            8 miljöskadeförsäkringen.........ssssseessessrensrersrenrrenrrrrnnnnnnrnn
+            nr 29 obligatorisk hemförsäkring 29 patientförsSäkriNngen smemmmssessesessesesrerrerrsesrersenrennnerrrn
+            ren rerna 27 regressrätt för utbetald sjuklön s........ss.ssessessersrerensennrnnnn
+            8 skadestånd till brottsOffer..................sssssesesersersesesesrrnrnnnn
+            29 skadestånd vid olyckor till HaVS sm..smmmmssssrssesesseerenennsnennn
+            nn 4 skadeståndsansvar mot brottSliNg.............sssssssssssssosossnnnn
+            8 skadeståndsansvaret vid kärnkraftsolyckOr ...................
+            29 skadeståndsmål, verkställighet av domar 8 statens ansvar för
+            skador som orsakas av pOliShUNdar oososeseererreresesrsrereseerererenennnnannrn
+            enar ennen renen eran ennen a 33 statens skadeståndsansvar vid
+            affärsdrivande verkSamhet...ssssssessssrsesserrssreerrrerersrrrrrnrrrrrrrrrernnn
+            rna rrrnn nr nan nnn 29 väghållares skadeståndsansvar, se Uppskjutna
+            [4 CT 000 (2 a VR 38 värnpliktigs skadeståndsansvar..... 8 Skuldsanering
+            för fysiska personer 6, 28 Specialindrivningsenheter, kronofogdemyndigheternas....
+            21 Statens livsmedelsverk, anslag till... .osmmmmmssssssssorenssnnnnennnnnn
+            nn 25 Statens skadeståndsansvar för skador som orsakas av polishundar...............----------
+            33 vid affärsdrivande verksamhet..........sssssssossnonsonnnsennnnnnnnnn
+            29 Statlig lönegaranti vid KONKUrS s..ssmsnsssessessesrresennnesnenrnrnennnn
+            nn 6 Stiftelsen för utvecklande av god redovisningssed, anslag
+            till.nmossssnsssssssssesresresesnennsnnrnnennn oonna 22 Stiftelser,
+            lagen om tillsyn över 17 Stöldgods, godtrosförvärV QV s......ssssessesrssersersersesnnrnnennnnnen
+            nan nn 7 Talböcker för IN VaNdrar€.msssossseesseereereeerrrerrrerrrrrrerrrrrrrrnnr
+            rn rens n rerna annan 5 upphovsrätt till-osssmossssssssssssesesresesrennenrernernernernnnsnernrnn
+            rn nn 5 Talerätt för mor- och farföräldrar i umgängesfrågor .........
+            30 Testamente, jäv vid bevittnilg.........ssesssessessesessrsnsnenernnsnnsnnnn
+            35 Tillsyn över överförmyndarverksamheten s...........ssssssnonnnn
+            9 Trafikförsäkringar, se Uppskjutna ärenden s.........eseseen0n
+            38 Umgängesresor, kostnader fÖr s.......s.sssessssessesrereennennrnnrnnrnnnnn
+            30 UmMgänNgesSrätt ssssnssnsseesseerrsersrsrrresrrererrsrerrrarrrrrrrern
+            enn n nr rr nr n enn nn n 30 Underhållsskyldigas SitUuatiOnN...........sessesseseesensensnannsnnnnnnnnn
+            anna 30 Underhållsskyldighet gentemot barn...............s.sessssssssnsnsnnn
+            30 Upphovsrätt 14 fOlKk MUSIK oöooosseseeessrererrrerereresernreserrrerrrrrrrrrrsrrrrrrrerrrrsrrrrrnnr
+            nn 5
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199192/reg_199192_LU/reg_199192_LU_0015"/>
+          <p>
+            gudstjänstmuSik s.....s.ssssossssrsrsrssnenrnnrnenensrnnrrnnnnsrns
+            nns nn nan n 26 1991/92:LU Reg.
+          </p>
+          <p>
+            musikaliska verk, skydd fÖr........ssssssssssseseserernenenenrsnnnnnnn
+            26 persOnbilder ssmmmssssesrsesersrennesnerrerrernenrerennsnrsnnnsnrnensn
+            nr nn rn nn en 5 programutskrifter sossmmmssssssssseennsnrsnrenenerrennsrsnsnrnnnnnnrnrnnnnn
+            nn 5 radio- OCh TV-prOgräalM .ssmmsssessressersrenrannennnrennrnrnnnsnrn
+            rna nan 5 rätt till egen DilCl.nsmmmmsssssssennnnnennrnrenennerennererrn
+            ennen rn nn nn rann 5 talbÖCKEeL ososssssesreesreernreserenrennrarnnrnnsennnenrernrnnen
+            renen ene ennen rna nn 5 Uppskjutna ärenden ekonomisk brottslighet
+            38 franChiSiNg ssssessesesresrereesesnersrrnneresrnrsnenrsneneresnrn
+            ennen rn rn nn nn nn 38 inseminationsverksamheten i Sverige s.......m.ssesnsnnnnn
+            38 internationell SJÖTätt...............ssssssssereseoresenesenneresrnarnsnanen
+            nn 38 konkursförvaltares uppgifter vid ekonomiska DrOtt s..smsssssssessrsrsrrssrrrsrnnersnennenenrennsnennrn
+            ennen nan 38 konsumentfordringar i KONKUFS ...sssssseeseeseenesennrnennnnnnn
+            38 olovligt bortförande av barn i internationella förhållanden
+            s.osemmmsssseserrsrsesernersrrnrnrnnnnn rna 38 parallellimport
+            38 personligt betalningsansvar för Akti€ägar€ sosssssseresesrersrsesrerernenrersennenernen
+            ennen nrnn enar en enar e nen en nn enn 38 reSegaranNti€k....ssssssssesesesenrerenrerenrererenenenen
+            eran en nnn renen en en en nn nn 38 SAKLÄLtl oooososeresrerereererererrererenrererrenerrer
+            aren enenen enar enn n nere en en en en nn 38 trafikförsäkriNgarl...ss.sssssesessesnenseesennenennennrrenenenennrnn
+            renen rna nn 38 väghållares skadeståndSsanSvar ........s.sssssessssnsnronensnnnnnnnen
+            38 återvinning vid konkurs och ackord .................. sena
+            38 Utmätning, värdering av gäldenärens egendom .................
+            6 Utsökningsbalken smsmmmmssssssesresssrennresnrenrerrenrerrernernernnernrnrrrrnnnnn
+            6, 13 Vilande lagförslag sm. ssmmmsssssssessrrssrarsrnrsrrernrerernrerernrnnrnernrnnn
+            nn nn 3 Vårdnad OCh UMgäÄäNge ssnseeesesessererreresenenenenanenansr
+            annen nen nn enn 30 VårdnadsavgÖöranden s....ssssseesesresereeresenenenennnnnnnnnenennrrnsnn
+            en en enn 30 Värnpliktigs skadeståndSanSVäår s......s...seesesrsssrsenenrsnnnnnnnnnnnnn
+            8 WienkOnventiON€Cih ..mmmsssesssesseassrrarsernrenresrennennernen
+            nar nen ene n nn nen 12 Årsredovisning för aktiebolag ..................mmmmmmmn
+            10 Äktenskapsbalken..........ssoosssossroonossrooonsssrnnnnnonnonssnrrrnnrnnnnn
+            32 Överförmyndare smmmmmssssssooesssrronnssssrrsrenennnnnnnnnnnnnnnnnnnnnnnnnnn
+            9
+          </p>
+          <p>
+            15
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199192/reg_199192_LU/reg_199192_LU_0016"/>
+          <p>
+            gotab 41625, Stockholm 1992
+          </p>
         </div>
       </div>
     </body>

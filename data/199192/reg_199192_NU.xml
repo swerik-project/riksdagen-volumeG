@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="reg_199192_NU">
   <teiHeader>
     <fileDesc>
       <titleStmt/>
@@ -19,167 +19,880 @@
   </teiHeader>
   <text>
     <body>
-      <pb facs="riksdagen-volumeG-pdf/data/199192/reg_199192_NU/reg_199192_NU-000.pdf"/>
+      <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199192/reg_199192_NU/reg_199192_NU_0000"/>
       <div type="gBody">
         <div>
-          <p>Näringsutskottets register vid</p>
-          <p>dr</p>
-          <p>riksmötet 1991/92 ES 1991/92 NU Reg. Betänkanden Nr NU1 Utrikeshandel Utskottets justering 1991-11-07 Debatt i kammaren 1991-11-20 Protokollshummer 1991/92:28 Riksdagens beslut: Bifall till utskottets hemställan 1991-11-20 Protokollshummer 1991/92:28 Riksdagsskrivelse - Nr NU2 Utvinning av sand och olja på kontinentalsockeln Utskottets justering 1991-11-05 Debatt i kammaren 1991-11-20 Protokollsnhummer 1991/92:28 Riksdagens beslut: Bifall till utskottets hemställan 1991-11-20 Protokollsnhummer 1991/92:28 Riksdagsskrivelse - Nr NU3 Vissa elfrågor Utskottets justering 1991-11-05 Riksdagens beslut: Bifall till utskottets hemställan 1991-11-20 Protokollsnummer 1991/92:28 Riksdagsskrivelse - Nr NU4 Teckning av aktier m.m. i Nordbanken (prop. 1991/92:21) Utskottets justering 1991-11-12 Debatt i kammaren 1991-11-20 Protokollshummer 1991/92:28 Riksdagens beslut: Bifall till utskottets hemställan 1991-11-20 Protokollsnummer 1991/92:28 Riksdagsskrivelse 1991/92:8</p>
-          <p>1 Riksdagen 1991/92. 17 saml. Register</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199192/reg_199192_NU/reg_199192_NU-001.pdf"/>
-          <p>Nr NUS Värdepappershandel m.m. Utskottets justering Riksdagens beslut: Bifall till utskottets hemställan Protokollsrhummer Riksdagsskriyelse</p>
-          <p>Nr NU6 Ändrad träfiberprövning (prop. 1990/91:183) Utskottets justering Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse</p>
-          <p>Nr NU7 Återvinning Utskottets justering Debatt i kammaren Protokollsnhummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnhummer Riksdagsskrivelse</p>
-          <p>Nr NU8 Detaljhandel Utskottets justering Debatt i kammaren Protokollsnhummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse</p>
-          <p>Nr NU9 Kreditupplysningslagen Utskottets justering Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse</p>
-          <p>Nr NU10</p>
-          <p>1991-11-12 1991-11-27 1991/92:33</p>
-          <p>1991-11-12 1991-11-27 1991/92:33 1991-11-27 1991/92:33 1991/92:29</p>
-          <p>1991-11-19 1991-12-04 1991/92:38 1991-12-04 1991/92:38</p>
-          <p>1991-11-19 1991-11-27 1991/92:33 1991-11-27 1991/92:33</p>
-          <p>1991-12-10 1991-12-17 1991/92:47</p>
-          <p>Privatisering av statligt ägda företag, m.m. (prop. 1991/92:49,</p>
-          <p>prop. 1991/92:69, skriv. 1991/92:20) Utskottets justering Debatt i kammaren Protokollsnrummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnhummer Riksdagsskrivelse</p>
-          <p>1991-12-10 1991-12-18 1991/92:48 1991-12-18 1991/92:48 1991/92:92</p>
-          <p>1991/92:NU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199192/reg_199192_NU/reg_199192_NU-002.pdf"/>
-          <p>Nr NU1l1 Andringar i försäkringsrörelselagen (prop. 1991/92:18)</p>
-          <p>Utskottets justering 1991-11-19 Riksdagens beslut: Bifall till utskottets hemställan 1991-11-27 Protokollsnummer 1991/92:33 Riksdagsskrivelse 1991/92:30 Nr NU12</p>
-          <p>Statlig garanti för ett lån till Första Sparbanken (prop. 1991/92:63)</p>
-          <p>Utskottets justering 1991-12-03 Riksdagens beslut: Bifall till utskottets hemställan 1991-12-11 Protokollsnummer 1991/92:43 Riksdagsskrivelse 1991/92:52 Nr NU13</p>
-          <p>Tilläggsbudget I (näringsdepartementet) (prop. 1991/92:25, bil. 11)</p>
-          <p>Utskottets justering 1991-12-03 Riksdagens beslut: Bifall till utskottets hemställan 1991-12-11 Protokollsnummer 1991/92:43 Riksdagsskrivelse 1991/92:53 Nr NU14 Ny småföretagspolitik, m.m. (prop. 1991/92:51, förs. 1991/92:12) Utskottets justering 1991-12-10 Debatt i kammaren 1991-12-18 Protokollsnummer 1991/92:48 Riksdagens beslut: Bifall till utskottets hemställan 1991-12-18 Protokollsnummer 1991/92:48 Riksdagsskrivelser 1991/92:93, 94,95 Nr NU1S5</p>
-          <p>Upphävande av regler om utländska företagsförvärv m.m. (prop. 1991/92:71)</p>
-          <p>Utskottets justering 1991-12-10 Debatt i kammaren 1991-12-18 Protokollsnummer 1991/92:48 Riksdagens beslut: Bifall till utskottets hemställan 1991-12-18 Protokollshummer 1991/92:48 Riksdagsskrivelse 1991/92:96 Nr NU16 Ändringar i bankrörelselagen (prop. 1991/92:37) Utskottets justering 1991-11-21 Riksdagens beslut: Bifall till utskottets hemställan 1991-12-11 Protokollshnummer 1991/92:43 Riksdagsskrivelse 1991/92:54</p>
-          <p>1" Riksdagen 1991/92. 17 saml. Register</p>
-          <p>1991/92:NU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199192/reg_199192_NU/reg_199192_NU-003.pdf"/>
-          <p>Nr NU17 Statliga företag (prop. 1991/92:100 bil. 13)</p>
-          <p>Utskottets justering 1992-03-10 Debatt i kammaren 1992-03-25 Protokollsnhummer 1991/92:84 Riksdagens beslut: Bifall till utskottets hemställan 1992-03-25 Protokollsnhummer 1991/92:84 Riksdagsskrivelse 1991/92:156 Nr NU18 Mineralförsörjning (prop. 1991/92:100 bil. 13) Utskottets justering 1992-03-12 Debatt i kammaren 1992-03-25 Protokollsnhummer 1991/92:84 Riksdagens beslut: Bifall till utskottets hemställan 1992-03-25 Protokollsnhummer 1991/92:84 Riksdagsskrivelse 1991/92:157 Nr NU19 Finansinspektionen m.m. (prop. 1991/92:100 bil. 8) Utskottets justering 1992-03-17 Debatt i kammaren 1992-04-01 Protokollsnummer 1991/92:89 Riksdagens beslut: Bifall till utskottets hemställan 1992-04-02 Protokollshummer 1991/92:90 Riksdagsskrivelse 1991/92:184 Nr NU20 Näringspolitik (prop. 1991/92:100 bil. 13 och 14) Utskottets justering 1992-04-21 Debatt i kammaren 1992-05-06 Protokollsnhummer 1991/92:106 Riksdagens beslut: Bifall till utskottets hemställan 1992-05-06 Protokollshnhummer 1991/92:106 Riksdagsskrivelse 1991/92:237 Nr NU21 Vissa utrikeshandelsfrågor Utskottets justering 1992-03-19 Debatt i kammaren 1992-04-01 Protokollshummer 1991/92:89 Riksdagens beslut: Bifall till utskottets hemställan 1992-04-02 Protokollshnhummer 1991/92:90 Riksdagsskrivelse -</p>
-          <p>1991/92:NU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199192/reg_199192_NU/reg_199192_NU-004.pdf"/>
-          <p>Nr NU22 Myndigheterna på kärnsäkerhetsområdet, m.m. (prop. 1991/92:99)</p>
-          <p>Utskottets justering 1992-04-07 Debatt i kammaren 1992-04-23 Protokollsnhummer 1991/92:99 Riksdagens beslut: Bifall till utskottets hemställan 1992-04-24 Protokollsnhummer 1991/92:100 Riksdagsskrivelse 1991/92:226 Nr NU23</p>
-          <p>Exportfrämjande verksamhet (prop. 1991/92:100 bil. 4, prop. 1991/92:108)</p>
-          <p>Utskottets justering 1992-04-09 Debatt i kammaren 1992-04-23 Protokollsnummer 1991/92:99 Riksdagens beslut: Bifall till reservation 2, i Övrigt bifall till utskottets hemställan 1992-04-24 Protokollsnhummer 1991/92:100 Riksdagsskrivelse 1991/92:227 Nr NU24 Sandutvinning Utskottets justering 1992-04-09 Riksdagens beslut: Bifall till utskottets hemställan 1992-04-24 Protokollsnhummer 1991/92:100</p>
-          <p>Riksdagsskrivelse -</p>
-          <p>Nr NU2S Energipolitiska frågor (prop. 1991/92:97, prop. 1991/92:100 bil. 10 och 13)</p>
-          <p>Utskottets justering 1992-04-28 Debatt i kammaren 1992-05-14 Protokollsnhummer 1991/92:112 Riksdagens beslut: Bifall till utskottets hemställan 1992-05-14 Protokollsnhummer 1991/92:112 Riksdagsskrivelse 1991/92:271 Nr NU26 Ny börslagstiftning m.m. (prop. 1991/92:113) Utskottets justering 1992-05-19 Debatt i kammaren 1992-06-02 Protokollsnummer 1991/92:124 Riksdagens beslut: Bifall till utskottets hemställan 1992-06-02 Protokollsnhummer 1991/92:124 Riksdagsskrivelse 1991/92:321</p>
-          <p>1991/92:NU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199192/reg_199192_NU/reg_199192_NU-005.pdf"/>
-          <p>Nr NU27 Utlänningars rätt att idka näring i Sverige (prop. 1991/92:88)</p>
-          <p>Utskottets justering 1992-03-24 Riksdagens beslut: Bifall till utskottets hemställan 1992-04-02 Protokollsnhummer 1991/92:90 Riksdagsskrivelse 1991/92:185 Nr NU28 Ändringar i minerallagen (prop. 1991/92:161) Utskottets justering 1992-04-28 Riksdagens beslut: Bifall till utskottets hemställan 1992-05-14 Protokollsnummer 1991/92:112 Riksdagsskrivelse 1991/92:272 Nr NU29</p>
-          <p>Tilläggsbudget II (näringsdepartementet) (prop. 1991/92:125 bil. 10, prop. 1991/92:150 bil. 1:10)</p>
-          <p>Utskottets justering 1992-05-12 Debatt i kammaren 1992-05-27 Protokollshummer 1991/92:121 Riksdagens beslut: Bifall till utskottets hemställan 1992-05-27 Protokollshnhummer 1991/92:121 Riksdagsskrivelse 1991/92:286 Nr NU30 Vissa elmarknadsfrågor (prop. 1991/92:133) Utskottets justering 1992-05-19 Debatt i kammaren 1992-06-02 Protokollsnhummer 1991/92:124 Riksdagens beslut: Bifall till utskottets hemställan 1992-06-02 Protokollsnummer 1991/92:124 Riksdagsskrivelse 1991/92:322 Nr NU31 Ändringar i ellagen (prop. 1991/92:135) Utskottets justering 1992-05-07 Riksdagens beslut: Bifall till utskottets hemställan 1992-05-27 Protokollsnummer 1991/92:121 Riksdagsskrivelse 1991/92:287 Nr NU32 Ombildning av Stadshypotek, m.m. (prop. 1991/92:119) Utskottets justering 1992-05-19 Debatt i kammaren 1992-06-02 Protokollsnummer 1991/92:124 Riksdagens beslut: Bifall till utskottets hemställan 1992-06-02 Protokollsnhummer 1991/92:124 Riksdagsskrivelse 1991/92:323</p>
-          <p>1991/92:NU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199192/reg_199192_NU/reg_199192_NU-006.pdf"/>
-          <p>Nr NU33 Ombildning av domänverket till aktiebolag (prop. 1991/92:134)</p>
-          <p>Utskottets justering 1992-05-21 Debatt i kammaren 1992-06-10 Protokollsnhummer 1991/92:128 Riksdagens beslut: Bifall till utskottets hemställan 1992-06-10 Protokollsnummer 1991/92:128 Riksdagsskrivelse 1991/92:351 Nr NU34</p>
-          <p>Statlig medverkan för kapitaltillskott till Sparbanken Första AB (prop. 1991/92:168)</p>
-          <p>Utskottets justering 1992-05-07 Debatt i kammaren 1992-05-27 Protokollsnummer 1991/92:121 Riksdagens beslut: Bifall till utskottets hemställan 1992-05-27 Protokollshnummer 1991/92:121 Riksdagsskrivelse 1991/92:288 Nr NU35 Uppskov med behandlingen av vissa ärenden Utskottets justering 1992-05-21 Riksdagens beslut: Bifall till utskottets hemställan 1992-06-02 Protokollsnummer 1991/92:124</p>
-          <p>Riksdagsskrivelse -</p>
-          <p>Nr NU36 Rekonstruktion av Nordbanken (prop. 1991/92:153) Utskottets justering 1992-05-26 Debatt i kammaren 1992-06-10 Protokollsnummer 1991/92:128 Riksdagens beslut: Bifall till utskottets hemställan 1992-06-10 Protokollshummer 1991/92:128 Riksdagsskrivelse 1991/92:352</p>
-          <p>1991/92:NU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199192/reg_199192_NU/reg_199192_NU-007.pdf"/>
-          <p>Yttranden</p>
-          <p>Nr NU1y till finansutskottet Avveckling av löntagarfonderna (prop. 1991/92:36) Utskottets justering 1991-11-26 Finansutskottet = 1991/92:FiU9</p>
-          <p>Nr NU2y till finansutskottet Inriktningen av den ekonomiska politiken (prop. 1991/92:38) Utskottets justering 1991-11-28 Finansutskottet = 1991/92:Fi:U10</p>
-          <p>Nr NU3y till skatteutskottet Skatten på etanol, m.m. (prop. 1991/92:67) Utskottets justering 1991-11-28 Skatteutskottet = 1991/92:SkU6</p>
-          <p>Nr NU4y till bostadsutskottet Andring i plan- och bygglagen (prop. 1991/92:51) Utskottets justering 1991-12-03 Bostadsutskottet = 1991/92:BoU10</p>
-          <p>Nr NUSy till bostadsutskottet Länsstyrelsernas ansvar för konkurrensfrågor Utskottets justering 1992-02-25 Bostadsutskottet = 1991/92:BoU18</p>
-          <p>Nr NU6y till bostadsutskottet Laisvallprojektet Utskottets justering 1992-03-12 Bostadsutskottet = 1991/92:BoU21</p>
-          <p>Nr NU7y till försvarsutskottet Totalförsvarets utveckling (prop. 1991/92:102) Utskottets justering 1992-04-07 Försvarsutskottet = 1991/92:FöU12</p>
-          <p>Nr NU8y till socialförsäkringsutskottet Vissa ändringar i förmånssystemet för läkemedel m.m. (prop. 1991/92:151) Utskottets justering 1992-05-12 Socialförsäkringsutskottet = 1991/92:SfU13</p>
-          <p>Nr NU9y till finansutskottet Energibeskattningen (prop. 1991/92:150 bil. I:5) Utskottets justering 1992-05-19 Finansutskottet = 1991/92:FiU30</p>
-          <p>1991/92:NU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199192/reg_199192_NU/reg_199192_NU-008.pdf"/>
-          <p>Sakregister</p>
-          <p>Allmänna pensionsfonden löntagarfondstyrelsSerNa......sssssssessessssenrenenernennennerennnnnen nan regleMeNt€ssoosseseeererrereeeeeessnenerrerreresennnn renen reser rnnnrrr nr nanna sparpremier</p>
-          <p>Bankväsen bankrörelselagen, äNdriNg lsmmmmmsnssesseseresneenennennrnrnnennrn nn bankväsendets utveckling, utredning OM ..............-..-..-- finansinspektionen, ökade befogenheter för ................. iNSättarskyCd osssssssesseseesrenrerreseennennessasesnerennsn nen esnernrn ene n nn kreditgivning, kontroll av bankernas smsa Nordbanken, ansvarsfrågOr I...nnmmmmnsssrssssserensnsnansrnrnen annan Nordbanken, försäljning av statens aktier i Nordbanken, rekonstruktion av smmmmmmmssssersssersrsrnnsnnnnn Nordbanken, teckning av aktier m.m. Isnssnmnmmmssessennnn nn Nordbanken, utredning OM. ....ssssssssrsssressrrsserrssnresnn nanna nn offentliga ledamöter i affärsbanks styrelse .....m...........- räntevillkor, information OM ssmmssssssssssserrssrnrerrrrrnnnnn anna SeCULUM ÅB sossosssesresereseereereeresreenrereereseenesrennsnernrrnrnennr nn nn Sparbanken Första AB, garanti för lån till Sparbanken Första AB, kapitaltillskott till</p>
-          <p>sparbankssektorn, omstrukturering av....mm.sssssessesesnene styrelseordförande i affärsbank sm nnmsmsseesessrererersssnernrnnnn tillsynsverksamhet, granskning av ssmmemeseeesssennnnn sons BegravningskOoStnader smsmeseeresressssrereererernernrrernennrnnenrn renen rna Ber gSStät€ha.sssssssessesreessesresrrenesnesreresnrsnrerernenenrrr ennen nen nrnrnn rn nn nen BruksSinvest AB s.msmmnnsssssessesseasseneesesseasnerrenesrenernrnernernrrrrnennnn nen Civildepartementet anslag inom civildepartementets OMråde...................... Detaljhandel detaljhandelns lokalisering, kommunernas styrning ÖV oosrersorerreseeseeseoesroesrrenrernernerrennannr sn renar nen ennen ennen nennr nen rn ennen kommunala varuförsörjningsplan€t m...mmsesessersesssrennn Domänverket egendom, överföring och försäljning av ViSS............ enes fÖrSäljNiNg AV ssmomssseresraresrernesrenerserersrnrersnerensnenenrsnenerenen nr rann Göta kanalbolag, AB ossnnnnssssssssssssesreresenenrsnrerernernennnnennnnn jakt- och fiskerätt, upplåtelse av s.nmmmmesesessenrnnnnnnnnnn kronOhOlmarNa....ssseseessreessrsseesererrererernnernrrnsennrrnrrrnrnr rn n ennen kulturminne susmsssessssressssresesresernrerererenrnrrrrnrennnnernrrrn rna a naturvård ombildning till aktiebolag, riktlinjer fÖr................+------ TEN NäÄriN ge ssssseeeseessrersrsereesrrerrrerrrerrerernrenrrs rann nen renen rent</p>
-          <p>tillgångar och skulder, överföring av. vattenområden</p>
-          <p>20</p>
-          <p>1991/92:NU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199192/reg_199192_NU/reg_199192_NU-009.pdf"/>
-          <p>| 2658 ESV 20, 9y 1991/92:NU Reg. Energiförsörjning</p>
-          <p>affärsverket svenska kraftnät s......snnsssssssssossoseserrrereren rn ana 10, 25, 30 ANSIagSfrågOL oosssessessesseresersrereeseerennennenneenersrerernasnennrnnrnn nen nan 25 Barsebäcks kärnkraftverk ssmmmmsssesesseeserreresrenrernrrnrrnnnnen nan 25 beredskapsorganisatiON€hN ssmmsssessssrersrrersrrrererrersrrnrernrennn 10 beredskapSåtgärder s...mnmnmseseererereserrerserrrrsrerenrererenrrnenennn nn Ty biobränsleanvändning, riktlinjer för främjande av...... 25 biobränslen sesssssssssesesrrsrenernresernrrnrrnesnesnerrenernennen nen nrn ann nn nn 25, 9y biobränsleteknNik ssssmssessressereneesrensrensnrrsersrennrerrrrnrernnrenn ann 25 bioenergi, forskning OM smmsmmmnmesseessressreseererssrenorarnrrnnn rn rann 25 biogasprojekt, stimulans av musmmmsmsrsssersseseresnenenernennnnnn nana 25 elbilar sossssssssesresresresernennennrnn ennen anna nn 20, 9y eldistributionen, reformering av 30 eldistributionsanläggning m.m., lagen om förvärv av.. 15 elektrisk materiel, registrering AV smmmmmmssssssssssresernennnnn nan 25 elektriska inspektion, StaäteNS..........ss.ssseseesersesnessonennsnnen 25 elenergi, åtgärder för effektivare användning av .......... 25 elintensiv industri, elleveranser till 10 elkraft, eXPOIt AV ssnmnnessessessesrenernernrnrennesnenrrnernennennrnnrnnrnnen an 25 elmarknadens reformering, mål och strategier för ...... 30 elsäkerhet, anslag tillsssmmsmnnsssssssssssressrersennnnnnnnnrnnnnnnnn rna nn nn 25 energibeskattNilg........sssssessesesoeneenennnennenrenennernrnnenrennennnn ann 2y, 9y energieffektivitetsplan, nationell... ommsmsssseersrrrrsnnssnsnnnn 25 energifOrskNilg....ssssssesseseesneneerseneeneenersnennenennennennennennrn nn nen 25 energipolitiken, riktlinjer fÖr.....sssssssesssersrrsernrsnsnnnsnsnnnn 25 energipolitiska programmen, redovisning av resultat FN &amp; Un 25 Energiteknik oooosssssssessessreesrresnrrnrenrrenererresnernnernner nn nrnn nen n nan 25 energiteknikfOnden smmmmsssssssssesrsssesnsrersesnrennnernrrsnnrsrernnnnnn 25 etanol, beskattning aQV....smmmmssssessesseensrersrennrnrnrnnnernnenrnrnnnnnn 3y etanOlproduktiOnD........ssesssssrssesesrereereesnenesnennennennennenr enn nn nan 25 fjärrvärmeleveranser till iNduStrif....mmmmmmssssssennesnsnnnnnnnn 9y fossila Bränsle smsmmssssssessressresrsnernnnnnnrnreernenn nen r enn nen nn nn rna 25 förgasningsprojekt vid Studsvik AB ss mmmmmmesssesesssnrnnennr 25 försöksområde, lokalisering av 25 halogenlampor, skyddsbestämmelser för 3, 31 Internationella atomenergiorganet (IAEA) .................. 25 jordfelsbrytare, installation QV.-..smmmmsssssssssrsensnsnennnnnnnnnnn nn 31 SYN (a 22 6 RR 25 kolbränslen för metallurgiska procCesSer .............ss.so00&gt; 9Iy koncessionsområden s........ssssessssesoresrresnnnn ons 3, 30 konkurrensövervakning på elområdet 30 kraftledningars hälsOrisker s..mmsssssesesseensorennenennernnrnnrnrn nan 3, 30 Kärnavfall omosssssssssseseseerrerernrrrrenrenrrnesnrerersennennen nen nrn enn n nen nen 22 kärnavfallsfrågor, vetenskapligt råd 1..............s..ssssssss000s 22 kärnbränslenämnd, StaäteNsS smsmmmsnesssssersrsesrsrsrsereersnnnnnnn na 22 kärnkraften, internationell avveckling av ....................- 25 10</p>
-          <p>kärnkraftinspektion, StateNS sm....sssssseessessrosrersrersrsnrnnnnennn 22</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199192/reg_199192_NU/reg_199192_NU-010.pdf"/>
-          <p>kärnkraftsproduktiOn a ....sssssesssessrsssrssessersennennrnnrnnrnennnenn en kärnsäkerhetsarbete, internationellt ........... kärnsäkerhetsområdet, myndigheterna på..... wo kärntekniskt biståndSprOgramM..........ssssssssssesessanesrnnnnnnn nn landsbygdens elektrifieriNg........ssssssssssnsnernesnrnnenernnsnnnnnnn lokala eltäXOr oossssssessresrennresrnnrersrnnnrernrrernrernrrr nr enn nrn nr nn rn nen NatUrgZAS oossseseerererrereerererrererrrresrererenrerenenen en errr sr snar rn sn nn renarna oljeutvinning i ÖSterSjÖn ..................smmsssononssnnnn optokablar, installation i storkraftnätet av.................... produktansvar i fråga om elström s...mms.sesserresennnnnnn reservkraftverkossssssssssseeresrennrnersnensesnrnererrenenen renen nnnnn rna nana restoljeeldat kraftverk smonssmmmsssssrsresersnnrnnsnnnn na solcellsteknik, bostadsuppvärmning genom s................ solenergi, tidsplan för utveckling aV..............ssssseennnn storkraftnätet............e.sssssssessrenensersennernersennsenrerennnn ene rnn eran nn Studsvik AB ssnsnssoeeseerreseesrereereererrserrernerenrrrener ennen en nnnnn annan nn Svensk Kärnbränslehantering AB s.smsmsmsssneersssrsnsnnn torv, klassifiCeriNg äV smsmmmsessseeserersrsererreneenenrrnnennennnn nn nanna Vattenfall AB, se: statens vattenfallsverk vattenkraftsproduktion, rådgivning OM................s.s-.---- vattenkraftsproduktion, vinstmedel från .....................-- vindkraft, tidsplan för utveckling av s.........seeemesmennnn vindkraftsproduktion, rådgivning OM s...........-sssnnnn vindkraftsproduktion, stöd till. ...smsmsmsssssssserereresnenrnnn nn vindkraftsproduktion, åtgärder mot buller vid............. vindkraftverk, beskattning aV.s........ssssssossoressennenennnnnnnnn VÅgCNEI GL ooosessereseeneeresesrenenennenennerennrnen ennen enenensnrn rn ennen annan växthusnäringen, energibeskattningen för .... VÄXtOljOr oossesessessresssrrsrsrrrsrrrsrrrrrrenn nar ren rrn renen nen nr sne renar nr nn nn Europeiskt forsknings- och utvecklingssamarbete ............. Export-, se: Utrikeshandel</p>
-          <p>Fartygsfinansiering, upphörande av nämnden för ............. Fartygskreditgarantier s.smmmssssseeseeseeseesennerernenenenrsnennsnrnsnnnnenenn FinansbOlag s..ssssseesresresrennennennenrenrannennerner nen ennrn enn nn nn : Finansinspektionen</p>
-          <p>Företag borgen, PerSOnNlig.....sssssssesesesrenenresesrenerrnenersenerrrrrrenenenenenr utlänningars rätt att idka näring Företagsförvärvslagstiftning förvärv av hyresfastighet m.m., lagen OM s.....nssssesennn utländska förvärv av fast egendom M.M.u..smmmessenssnnn utländska förvärv av svenska företag m.m., upphävande av lagen OM mmmmmnsssssssesersesessenernnsnnennnnnrn nn nan Försäkringsrörelse försäkringsrörelselagen, ändring I. ....nsmsssssssssersraserannnnn an</p>
-          <p>10, 25,</p>
-          <p>25,</p>
-          <p>25 22 22 22 25</p>
-          <p>15</p>
-          <p>11</p>
-          <p>1991/92:NU Reg.</p>
-          <p>11</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199192/reg_199192_NU/reg_199192_NU-011.pdf"/>
-          <p>tillsynsverksamhet, granskning av s.smmmmmmsssssenssrsnsennnn nan 4 1991/92:NU Reg. Förvärvskontroll, se: Företagsförvärvslagstiftning</p>
-          <p>Garantigivning, täckande av förluster Vid s...smsssssessrnnnnn 20 GIlaSåterVinlNilg.ssssseeseseereresrsnesnenrerenrennenssrerernrn een ernsesrenenennn nn 7 Gruvhantering, se: Mineralförsörjning Göta kanalbolag, AB ssnmssmsresesssersressreresnnrsnrerrrsrenrrsnrsnennnnnnnnn nn 33 Hantverksrådet, Centrala ....ssmmmsssssssrsooroererseerreserorresreresenernn ns 20 Industribranscher bilindustrin s.mnmmm+ ss. - 20 krigsmaterielindustrin 15, 7y livsmedelsindUStrif ommmnsssssrsessrresrersnserennessrrsrnnsrrnrnnn ner n rna 20 läkemedelsinduStlills.smnmssssssesrarererrarrrsrrerrernnrsn annen nnnnnn erna 8y SKOgSiNAUSL IM oooeoresesreraresresesnenrssesnrnnrresrernsnennrrenrsrrnenenen ren 20 Stå liN Cd UStliM oossosesesesrereseerererreresnenrrnernerennernen enn ernen snaran eran n nn 20 textil- och konfektionsindustril s......sesesessssssessnnsnna 20 IndustrideSigh s....sssssssssersrnnn na no 20 Industriråd/industriattaché 20 Ingenjörsvetenskapsakademien s.mmmmesessesrsrsrssrsnnnnnennnnnnnn 20 Kapitalförsörjning Företagskapital AB snmomnmsmsssssesssrsrsrerereserssosnorernrnrrenrrnrrnnrnnn 14, 20 IndustrifONnCen smsmnsssereerressrrersrrserrrnnrrrsnnnesrrssnnrerrer er en eran en 20 Norrlandsfonden ... 14, 20 riskkapitalbolag sm.smmmmnssssesressessrsnneserenrsnnernrrnrennrnnenernnn nn eran 14, 20 riskkapitalförsÖrjniNg......sse.-sssessrrsrnrnnrn nn 14, 20 små och medelstora företag 14, 20 SmåföretagsfOonden ...smmmmmssessreresreseenerssnnsrnrnnsnnenenenenen nanna 14, 20 utvecklingsfonder, regionala m.csmmsrersersssessenrsrsrrnnnenennnnn 14, 20 Kattegatt, Sandutvinnilg i.msmmsesssesesersosronssrsorerrrnnennrnnnnnnnnn nen 2,24 KommerskollegiUM smmmssssasersssessrssrsnnesnnsenesrernnrnernernrnnrnrnnn 1,23 Konkurrensfrågor konkurrenslagstiftNilg..........sssssssssssosesssonsnnnnnn 2y konkurrensmyndighet, inrättande av 20 länsstyrelsernas aNSVåL smssssssessssessoreerssrsersererresrsnerrnennnrn nen 5y myndighetsorganisationen på handelspolitikens [954 1 8506 [ARR 1 plan- och bygglagen, ändring I..omssssesseseseserersrrnnsnnnnnnnnn 4y KONKUTSETL sossossereseesserersorererenrernnerrnnensnnesnnnrrenrernrsrnnerrnerer nn rn nen a 20 Kooperativ utveckling, stöd till 20 KreditupplysningSlägen ....ssesessssersssesssrsorsronernsnernnnenenennnnnnnn 9,15 Krigsmaterielindustrin kontroll över tillverkningen av krigsmateriel, m.m., lagen OM ooeoeseseeseesresrssresnreresnnennererrnern rens r ennen n nn enn rrnnn ennen 15 OmstruktUrerilg su ..mmmmssssesssrssssrnsnrrsnnrernnerernsernernnerr nn n nanna Ty omställning till civil produktion s.mmsmssesessereresernsnrnnnnn Ty</p>
-          <p>statligt StÖA s..sssnnssssseseersrrorrsesenerenensnnnsnnerensnennenenennn nen n nn 17y 12</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199192/reg_199192_NU/reg_199192_NU-012.pdf"/>
-          <p>Livsmedelsindustrin, industripolitiska insatser för ............ Luossavaara-Kiirunavaara AB (LKAB) sssnnnnnssrsessesseserronn nn Läkemedel, ändringar i förmånssystemet fÖr......................</p>
-          <p>Mineralförsörjning DErgSStät€l ssssssessseserseesssrrserdernerrrrerrrrerernrrrrnrrrrrrr enn rrrn arenan nn geologiska undersökning (SGU), Sveriges .................... geovetenskaplig forskning gruvegendom, statens Laisvallprojektet .......... MinNEraljäkt.soossssssssssresrrrersrererrerrrrsrererrnernsernnsnn rann sena sn annan mineralråvarukommittén s...n.ssssssssrssssnesensnsnnnnnnns ee nämnden för statens gruvegendom (NSG), Ned läggnNiNg AV ousmosseseesrreersrerernrrsranrrrrenresnresnnennsnnnnnenn annan nn PrOSpekterilg...s..sssssseserssesrsessresrrnnennnenr essensen ses r enar ennen nana VvanadinuUtviNNIiNg ssmeesssssseesesseereersrsrerssrrrresessn rensar nn anna nan Minerallagstiftning bearbetningskoncession, prövning enligt naturresSurslageN av smusmsesssessseserressrrersresnrerrenn ere nsnrnn erna nan SL UVIAZEN oooeseeesresrserrsrerresnresereserrrrnr nera er nr rernr nens rn n rann nanna 158 £0T9TOT: Ve Te CA UR miljökonsekvensbeskrivning ......smsssssssesessesensnnnnnennn ana mMinerallageN musmmssssssessrertrerrreresrsnenrr enes n rs enn ns nnesne nanna nn skada på jord- eller skogsbruket</p>
-          <p>Negativ föreningsrätt, grundlagsskydd för... Nordiskt samarbet€.........sssssosessreseoneensnenoensesnenresesnsnnanennnnnn annan NorrlandsfOnden ....ssssssseraseesressrsnrssrannrennrnnensennenneners eran ennen annan Närings- och teknikutvecklingsverket (NUTEK) ANSÅAg Maa oeeeseesreseesrressrarsrrarrrrnnr nns sne rrnenns ennen enn n enes nen nanna författningsäNndriNgar....ssessesssereosressesseesesresrenesernenenn anno ana Näringsdepartementet anslag inom näringsdepartementets område................. Näringsfrihet, grundlagsskydd fÖr s....snmmssssesesesessseseresnsnnnnnna Näringsfrihetsombudsmannen, avveckling av s...mmmm........ Näringspolitik INTIKENING oooseeeeesresresrersrrrsrrrenr enn nns ernr rean r erna arne n ene n nen småföretagspOlitik.........ss.sssssseosensnssenesesesenesnsnenennn en enar ana småföretagsutveckling .... teknisk UtveCkliNg ....sessssesserserensnenesnrsnsernsernrenernnene nn enn an na</p>
-          <p>Pris- och konkurrensverk, statens, avveckling avV............... Produktansvar för skador orsakade av elström................... Provning provningsanstalt, statens riksmätplatser .........n.......0s styrelsen för teknisk ackreditering...............m-.s..000000- teknisk provning och om mätning, lagen om</p>
-          <p>10,</p>
-          <p>10, 13, 17, 20,</p>
-          <p>20, 14,</p>
-          <p>13,</p>
-          <p>20 17</p>
-          <p>8y</p>
-          <p>29</p>
-          <p>20</p>
-          <p>29 20</p>
-          <p>1991/92:NU Reg.</p>
-          <p>13</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199192/reg_199192_NU/reg_199192_NU-013.pdf"/>
-          <p>I CARIE 01700 or Rymdverksamhet europeisk [OETA TOT a CA BUR Råvaror internationell råvarulagrilg ......esssesssesrsraneonenennrenennnnonnn organisationer för internationell handel och råvarusamarbete ..smnmmunssrsrereserererererenenenenerer essens rsn enn neon a</p>
-          <p>Sandutvinning i Kattegatt s.smmmmnseressesessnrsnesrennennernnerrnnnnnnnnnnnn Skogsindustrin, ökad vidareförädling inOmM .........se.--.s Skogsråvara ANVÄNdNINg AVooosseeseeseeseeneeseeesernerennnnnnenennenernnrnnenn nn n nanna nn lagen Om träfiberråvarå......ssssssssosssosoresrerrnenenrnenerenernnn nn rna prisbildning och konkurrens på marknaden för.......... Små och medelstora företag arbetsmarknadsfrågOr s.....nmsossseseseoreoresenenrsresrererrernnerennnnnnn egenföretagares borgensåtaganden exportfrämjande ............ss.seessesnennnna företagarnas utbildning Norrlandsfonden sussmmsssssssessesresersraseerrennenennnennennrrn renarna rena näringspolitisk utredningsverksamhet och näringspolitiska PrOgfaMö..smssssssssesseseesensesnennrannenn nan nn nana riskkapitalbolagen, regionala s......s.ssssessesssrensenennnnnnnn nana riskkapitalförSÖrjNinNg......ssssssessseseressrersresrrensrrennrrrnnrrnnnnnnn sjuklönerefOrmMen sssmssssssesserssreesrersrrrrsrenresrrrrnrrrnnn nr ann n annan småföretagspOlitik............sssssseosseseorereneersrsrerererenesrarerenrnrn småföretagsutveckling utvecklingsfonderna, regionala äganderätt, näringsfrihet och negativ föreningsrätt, grundlagsskydd fÖr sssmnssssssesserrsrersresrrrnenrerennnrrnannnrn nro rna nana SprängämnesinspektiON€h .smmmmsssssesssesresresnesnennernennnnnnnnnn nanna Stadshypotek, ombildning aV ssmmmnuesresrersersesrennesnrrnrnnnrnnn rn nan StandardiseringskommiSSiONCN ..mmmmsssrrssererrersrersnennnnrnnnn rn nn Standardiseringsverksamhet integrering av miljökriterier s.smmnmmmmsssssesesressraseasnnnnrrnnn nanna utbildning av konsumentrepresentanter ....................... Statens Skogsindustrier, AB (ASSI ss ssmmnnmnssrssseesresreeesresnnrnnen Statliga företag anslag för omstrukturering M.M... omsssssssessnssnsssnnnnn Apoteksbolaget AB =ssnnmmnsssssssssssrsessssesseennessrrrennrnnnnrnnnnnnnn rna Celsius Industrier AB -.... domänverket, se: Domänverket FFV AB, pensionsgaranti ....................- Fortia, Förvaltningsaktiebolaget fÖrSäljNilg sosssssesesesresesrrrrrreesrresnrerrrnnnrrrrnsn renen n rn enar ennen erna a Göta kanalbolag, AB smommnnnsssssssssssrsssrensesnnrnsnnernnnnrnn ner nn nn Luossavaara-Kiirunavaara AB (LKAB) ...oonnnsmmssssennnrnan</p>
-          <p>Nordbanken, se: Bankväsen</p>
-          <p>7</p>
-          <p>20, 29 20</p>
-          <p>23</p>
-          <p>20 10, 17, 33</p>
-          <p>10, 17 10 10</p>
-          <p>17, 29 10, 17 10, 17, 33 33 10, 17 10, 17, 33</p>
-          <p>1991/92:NU Reg.</p>
-          <p>14</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199192/reg_199192_NU/reg_199192_NU-014.pdf"/>
-          <p>OK Petroleum AB... Procordia AB ............ redOgÖrelS€ ...sssssssssesnennnnnn nana Satellitbild i Kiruna AB SSAB Svenskt Stål AB oossnnnssssssesesesresesesearenenenensnesennnenenen Statens hundSkOla.....ssssessesssessrerssrerersnneennerrernernrennrnnrnrnn enn Statens Skogsindustrier, AB (ASSI....ssssssssssssssnesnsnnsnnan Studsvik AB smosmmmnssresressessenresrenrersnanneneenennennenennrnnsrenen nn renen Svensk Bilprovning, AB smmmsssssssssesesreressrsnesrnerenenerennsnnnen Svenska TobakSs AB smnnmnmssssesssessssrerensnennesnnennnnnrsnnennnnsnnene Swedish Ordnance-FFV/Bofors AB s..smmmmsssssenesnenrsnsnennn Systembolaget AB ..sssnmmnsssssessnrnnnnrnn nanna Vin &amp; Sprit AB, V&amp;S Stockholms fondbörs, se: Värdepappersmarknaden Stålindustrin, åtgärdsprogram fÖr s....ssssssssssssesersrersrnrerenennnnn Svensk Bilprovning, AB smismmssssssssresserrenernernesnenrnnesnenenenennnnnn Svenska kraftnät, affärsverket ...ssmmmssososssrrereerenererrennnenrnnnnn na Svenska skeppshypotekskassan, garantifonden vid............. Swedish Ordnance-FFV/Bofors AB smnmmnsmmmssssserreresessrersnsnrnnnn Sågverksindustrin, ökad förädling inOM s....ssessesssrnernsnn</p>
-          <p>Teknikvetenskapliga forskningsrådet................s-ssssssmnnn Teknisk ackreditering, styrelsen fÖr...........s.sssssserserressssnsnennr Teknisk utveckling</p>
-          <p>bioenergiforsSkNinNg ..mmmsssssessessesnrenrernenrenesnenenr ennen rnnnnn renen energiforskning europeiskt forsknings- och utvecklingssamarbete ........ forskning för ett avfallssnålt samhälle idéverkstäder i Gävleborgs läl s.........sesseoseneonenennenennnnnn ann internationella FoOU-Oorganisationer s......s.ssosssssseseresnsnene kontroll genom teknisk provning och om mätning, lageN OM oooseeeseesseesreeseresrrenerenrernr nns ner rnn rann n ennen rer n renen renen nen materialteknisk fOorskNiNg..........ssesseseosesranenneneensnnsnsnenenene Miljöteknik omosssssssesrersrersrannranrrnnrrrrnnsnrernnernennnennrn renen renen nn rikSMätplatSer ..ssmnsssssssssressrrsransnnrsnnrsnnennrrnn erna nen skogsindustrin, insatser för ökad vidareförädling</p>
-          <p>standarder, integrering av miljökriterier i.................... standardiseringsarbete, utbildning av konsumentrepresentanter I...mmmsmsssssssssresrnrsresnennenenensnnnr standardiseringskommiSSiONCNA....mmseessesseeseonsenersrsnnensnnen statens provningsanstalt m....mms.sssssssosesesresrennnnrrrnnnnrrennnnnnr styrelsen för teknisk ackreditering.................ssssssseec00e teknikvetenskapliga forskningsrådet tillämpad industriell forskning i Västernorrlands län. uppfinnare och innovatörer, stöd till............. verkstadsteknisk utveckling, program för Teknisk-vetenskapliga attachéverksamhet,</p>
-          <p>10,</p>
-          <p>10,</p>
-          <p>10, 17,</p>
-          <p>10, 25,</p>
-          <p>13,</p>
-          <p>10 21 10 17 10 10 33 25 10 21 Ty 21 21</p>
-          <p>1991/92:NU Reg.</p>
-          <p>15</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199192/reg_199192_NU/reg_199192_NU-015.pdf"/>
-          <p>Stiftelsen SVErigeS sosmmmsessseeesererenenssrnenenrnrnenenenenenenensnrnnnnen Textil- och konfektionsindustrin handelspolitiska frågOr............esessssssseoeseenrnrnnnnnnrnennennnenen insatser för Sjuhäradsbygden ............eseseeeesnsesnnnnnnn linodling och linförädling ........eeeeeeseeseeeeeseeseeeseee PrOtekO susnnnsseserennnennnn nana stöd till tekoindustrin Torv, klassificering av Trollhätte kanalverk.....s.ssmsssersssrrssnneennrererenrsenrerernesnnnnrnrnnnnn rna Tropiska regnskogar, skydd fÖr s......sesseeserrrrrrrerserrersrsnenrnrnnn TFLäÄlNCUStli oooosseeeeoerserrresererererernererererrrererrnererereesrrrrerrrrrrsrnn nen nen Turistfrågor, Sveriges exportråds uppgifter i.......................</p>
-          <p>U-länder, kreditgivning till.sssmosssmsssesssesrssessoresernenesnnnenen enar nns Uppskov till riksmötet 1992/93 Utländska filialer oossmmsmsssesrersssrassnrensnersnnessnsnnannnesnnnsrnrrnnnennnn nen Utländska förvärv av svenska föÖretåg.................--s--ssns0nn Utländska investeringar i Sverige, främjande av ............... Utlänningars rätt att idka näring i SVerige.............se..-.c Utlänningsförbehåll i bolagsordning ..........sssssssesesersorenenenen Utrikesdepartementet anslag inom utrikesdepartementets område ................ Utrikeshandel alkoholdrycker, marknadsföring m.m. av biståndsmål vid exportkreditgarantier.....................-.-..- EXPOrtfiNaNSieriNg .osmsssssseessesrersersresresesrenrerrernernrrrnrrerernnnn exportfrämjande verksamhet... ...msnmmnnssserersrensrennrsnrennrennn Exportkredit, AB SvVenSk ssnmsnnssreseessenensresrennenrsnrsnnsnennna exportkrediter för färtyg ..........ss.sssssssseosssesseesrennrnesnnenennnn exportkreditgarantier ssmmmsssssssssessessorssesressernrrresnernrnnnnnr nr exportkreditgivning, statsstödd................--s.sesseeessersonnn exportkreditnämnden ssmmmsssssessresnsessrrnnrsnnnensnesnnernnrr nen nen exportråd, Sveriges ................ frihandelns betydelse GATT, samarbetet I..sssnnnmnsrrsssesssesoeeerersesererererrrrrrrnrrnerrnrr handelspolitikens inriktnilg.....mssesseessseeresseserersnnsrrnnsne handelsrestriktioner, kostnader fÖr ...........s.ssessssenenenr IMpPOrtfrämjanNde.....ssossssssesserseereeseorrereeneererrernerrerrennrn nn enn informationskontor i Öresundsregionen ................... kommerskollegiunm snmmmmsnrssssrersrnsnresrrnnnnnnn kärnteknisk utrustning, export av miljöhänsyn i handelspolitiken s.mmmmmmsssersssserrnnennennn nn miljöklausul i internationella handelsavtal .........n........ miljöskyddsteknik, garantigivning vid export av.......... myndighetsorganisationen på det handelspolitiska [95 644506 CR</p>
-          <p>PrOojekteXPOrt osssssssssssesereresenrerersnrnssserensrserrsrnrnernnr ere rr rnnnnt råvarusamarbete</p>
-          <p>20 1991/92:NU Reg.</p>
-          <p>20 20 20 20 20 25 10, 25 21 20 23</p>
-          <p>20 35 27 15 15, 20 27 15</p>
-          <p>23</p>
-          <p>21 23 1,23 1, 23 20 20 23</p>
-          <p>16</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199192/reg_199192_NU/reg_199192_NU-016.pdf"/>
-          <p>små och medelstora företag, exportfrämjande FNS A AA 8 UU socialklausul i internationella handelsavtal.................. sysselsättningsintresset vid exportkreditgarantier ......... tobaksvaror, marknadsföring M.M. aV..msmmsssssssrsrsesnenns tropiska regnskogar, skydd fÖr s......ssssssesrsrrrssrersrsrnarnnnnnn trävaruexport, främjande av smssmmmsssssessesssrsenennsseresnernennnn turistfrågor, Sveriges exportråds uppgifter i.................. u-ländernas roll i världshandeln Utvecklingsfonder, regionala finansieringsverksamhet .smmmnmssssssssssrensrenernnnennnenennesnenenen inriktningen av informations- och rådgivningsverksamhet........ssssssssssssssesnenrenennnnnennenenennnnnnnn [9] 6:62 ONES TA TOT 4 Ra</p>
-          <p>Varvsindustrin konkurrensSitUatlON......sssssssssresssressreesnsrsneneserrnrrrererernnnnen FÄNteStÖG s.ssssesseresrererrernerrrrrernrserrrsnonrennnrennnernr ene nnen nen r renen Vattenfallsverk, statens försäljning av Vattenfall AB =msimnmnmsssssssseseesresnresnsnnsnennnnn ombildning till aktiebOlag m.msmmmmmssserssessesneerrenrernrrrenennnnn naturskyddade tillgångar .........ss.ssssssessenesrsnranennnnnnnnnsn anna FIKtlilljGr ooosssseesssrrerererrrrnernrennessrrnnn nere rer nnsnn reser ner nn sen ns nen nen storkraftnätet.............essoseoseonsesresnnnesernrsnnnnnnnnnnnn rann snn neon nen Värdepappersmarknaden allmännyttigt OrgaN m.mmssssssssesessrrsssresesnererasnnnnrsnnernr ennen enn auktoriserad marknadsplaåtS........ssssessssssessssrersressorsnnnennnn börs- OCh Clearinglag ...smsssessserrrsnenrenenrennernnn aren nrnrenn nen nnn nn börsmonopolet, upphävande av ..smnmmessssessesessressrennennsnnn börsstyrelses sam mansättNiNg.....smmmsssessssenseressreserennennennn CiSCIPliN NÄMNA sooossseeseessereesnererererrrenrrrennnsrnnernnnrernnnn nen ennen informationsskyldighet =m.msmmmssssssessreseseerereerenrersrennernernnn regionala aktiebÖrSer.....sssssssssrsessreerrrrroneeronerernrsrnnsnnrrnen nen Stockholms fondbörs, ombildning av... styrelseledamÖter ssmmmmsesseressrerrrensrnarsrnssnnssnerersnrernnrerrrnennr a Värdepapperscentralen VPC AB, statens aktier i.........</p>
-          <p>Återvinning användning av engångsmaterial..mmmmmmsusssssessssnsnsnsrnnnnnn forskning och utveckling glasåtervinning................. lokalisering av företag standard för returförpackningar =. ....ssssesssessssernsnnr Systembolagets återtagande av tomburkar åtgärder för att främja återvinning och användning</p>
-          <p>av TetUrPapper ssssnsnsusesreserenensresresrenrenrerereerenreresrerernrnenen nen Äganderätt, grundlagsskydd fÖr...............sssrsnnnnn</p>
-          <p>Östersjön, Oljeutvinning I...mssssssssosssessssnsereneerennrrnnnnnnnnnnn</p>
-          <p>10 10, 25 10 10 10, 25, 30</p>
-          <p>NN NO NN NN</p>
-          <p>1991/92:NU Reg.</p>
-          <p>17</p>
+          <p>
+            Näringsutskottets register vid
+          </p>
+          <p>
+            dr
+          </p>
+          <p>
+            riksmötet 1991/92 ES 1991/92 NU Reg. Betänkanden Nr NU1 Utrikeshandel
+            Utskottets justering 1991-11-07 Debatt i kammaren 1991-11-20 Protokollshummer
+            1991/92:28 Riksdagens beslut: Bifall till utskottets hemställan
+            1991-11-20 Protokollshummer 1991/92:28 Riksdagsskrivelse - Nr
+            NU2 Utvinning av sand och olja på kontinentalsockeln Utskottets
+            justering 1991-11-05 Debatt i kammaren 1991-11-20 Protokollsnhummer
+            1991/92:28 Riksdagens beslut: Bifall till utskottets hemställan
+            1991-11-20 Protokollsnhummer 1991/92:28 Riksdagsskrivelse - Nr
+            NU3 Vissa elfrågor Utskottets justering 1991-11-05 Riksdagens
+            beslut: Bifall till utskottets hemställan 1991-11-20 Protokollsnummer
+            1991/92:28 Riksdagsskrivelse - Nr NU4 Teckning av aktier m.m.
+            i Nordbanken (prop. 1991/92:21) Utskottets justering 1991-11-12
+            Debatt i kammaren 1991-11-20 Protokollshummer 1991/92:28 Riksdagens
+            beslut: Bifall till utskottets hemställan 1991-11-20 Protokollsnummer
+            1991/92:28 Riksdagsskrivelse 1991/92:8
+          </p>
+          <p>
+            1 Riksdagen 1991/92. 17 saml. Register
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199192/reg_199192_NU/reg_199192_NU_0001"/>
+          <p>
+            Nr NUS Värdepappershandel m.m. Utskottets justering Riksdagens
+            beslut: Bifall till utskottets hemställan Protokollsrhummer Riksdagsskriyelse
+          </p>
+          <p>
+            Nr NU6 Ändrad träfiberprövning (prop. 1990/91:183) Utskottets
+            justering Debatt i kammaren Protokollsnummer Riksdagens beslut:
+            Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr NU7 Återvinning Utskottets justering Debatt i kammaren Protokollsnhummer
+            Riksdagens beslut: Bifall till utskottets hemställan Protokollsnhummer
+            Riksdagsskrivelse
+          </p>
+          <p>
+            Nr NU8 Detaljhandel Utskottets justering Debatt i kammaren Protokollsnhummer
+            Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer
+            Riksdagsskrivelse
+          </p>
+          <p>
+            Nr NU9 Kreditupplysningslagen Utskottets justering Riksdagens
+            beslut: Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr NU10
+          </p>
+          <p>
+            1991-11-12 1991-11-27 1991/92:33
+          </p>
+          <p>
+            1991-11-12 1991-11-27 1991/92:33 1991-11-27 1991/92:33 1991/92:29
+          </p>
+          <p>
+            1991-11-19 1991-12-04 1991/92:38 1991-12-04 1991/92:38
+          </p>
+          <p>
+            1991-11-19 1991-11-27 1991/92:33 1991-11-27 1991/92:33
+          </p>
+          <p>
+            1991-12-10 1991-12-17 1991/92:47
+          </p>
+          <p>
+            Privatisering av statligt ägda företag, m.m. (prop. 1991/92:49,
+          </p>
+          <p>
+            prop. 1991/92:69, skriv. 1991/92:20) Utskottets justering Debatt
+            i kammaren Protokollsnrummer Riksdagens beslut: Bifall till utskottets
+            hemställan Protokollsnhummer Riksdagsskrivelse
+          </p>
+          <p>
+            1991-12-10 1991-12-18 1991/92:48 1991-12-18 1991/92:48 1991/92:92
+          </p>
+          <p>
+            1991/92:NU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199192/reg_199192_NU/reg_199192_NU_0002"/>
+          <p>
+            Nr NU1l1 Andringar i försäkringsrörelselagen (prop. 1991/92:18)
+          </p>
+          <p>
+            Utskottets justering 1991-11-19 Riksdagens beslut: Bifall till
+            utskottets hemställan 1991-11-27 Protokollsnummer 1991/92:33 Riksdagsskrivelse
+            1991/92:30 Nr NU12
+          </p>
+          <p>
+            Statlig garanti för ett lån till Första Sparbanken (prop. 1991/92:63)
+          </p>
+          <p>
+            Utskottets justering 1991-12-03 Riksdagens beslut: Bifall till
+            utskottets hemställan 1991-12-11 Protokollsnummer 1991/92:43 Riksdagsskrivelse
+            1991/92:52 Nr NU13
+          </p>
+          <p>
+            Tilläggsbudget I (näringsdepartementet) (prop. 1991/92:25, bil.
+            11)
+          </p>
+          <p>
+            Utskottets justering 1991-12-03 Riksdagens beslut: Bifall till
+            utskottets hemställan 1991-12-11 Protokollsnummer 1991/92:43 Riksdagsskrivelse
+            1991/92:53 Nr NU14 Ny småföretagspolitik, m.m. (prop. 1991/92:51,
+            förs. 1991/92:12) Utskottets justering 1991-12-10 Debatt i kammaren
+            1991-12-18 Protokollsnummer 1991/92:48 Riksdagens beslut: Bifall
+            till utskottets hemställan 1991-12-18 Protokollsnummer 1991/92:48
+            Riksdagsskrivelser 1991/92:93, 94,95 Nr NU1S5
+          </p>
+          <p>
+            Upphävande av regler om utländska företagsförvärv m.m. (prop.
+            1991/92:71)
+          </p>
+          <p>
+            Utskottets justering 1991-12-10 Debatt i kammaren 1991-12-18
+            Protokollsnummer 1991/92:48 Riksdagens beslut: Bifall till utskottets
+            hemställan 1991-12-18 Protokollshummer 1991/92:48 Riksdagsskrivelse
+            1991/92:96 Nr NU16 Ändringar i bankrörelselagen (prop. 1991/92:37)
+            Utskottets justering 1991-11-21 Riksdagens beslut: Bifall till
+            utskottets hemställan 1991-12-11 Protokollshnummer 1991/92:43
+            Riksdagsskrivelse 1991/92:54
+          </p>
+          <p>
+            1" Riksdagen 1991/92. 17 saml. Register
+          </p>
+          <p>
+            1991/92:NU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199192/reg_199192_NU/reg_199192_NU_0003"/>
+          <p>
+            Nr NU17 Statliga företag (prop. 1991/92:100 bil. 13)
+          </p>
+          <p>
+            Utskottets justering 1992-03-10 Debatt i kammaren 1992-03-25
+            Protokollsnhummer 1991/92:84 Riksdagens beslut: Bifall till utskottets
+            hemställan 1992-03-25 Protokollsnhummer 1991/92:84 Riksdagsskrivelse
+            1991/92:156 Nr NU18 Mineralförsörjning (prop. 1991/92:100 bil.
+            13) Utskottets justering 1992-03-12 Debatt i kammaren 1992-03-25
+            Protokollsnhummer 1991/92:84 Riksdagens beslut: Bifall till utskottets
+            hemställan 1992-03-25 Protokollsnhummer 1991/92:84 Riksdagsskrivelse
+            1991/92:157 Nr NU19 Finansinspektionen m.m. (prop. 1991/92:100
+            bil. 8) Utskottets justering 1992-03-17 Debatt i kammaren 1992-04-01
+            Protokollsnummer 1991/92:89 Riksdagens beslut: Bifall till utskottets
+            hemställan 1992-04-02 Protokollshummer 1991/92:90 Riksdagsskrivelse
+            1991/92:184 Nr NU20 Näringspolitik (prop. 1991/92:100 bil. 13
+            och 14) Utskottets justering 1992-04-21 Debatt i kammaren 1992-05-06
+            Protokollsnhummer 1991/92:106 Riksdagens beslut: Bifall till utskottets
+            hemställan 1992-05-06 Protokollshnhummer 1991/92:106 Riksdagsskrivelse
+            1991/92:237 Nr NU21 Vissa utrikeshandelsfrågor Utskottets justering
+            1992-03-19 Debatt i kammaren 1992-04-01 Protokollshummer 1991/92:89
+            Riksdagens beslut: Bifall till utskottets hemställan 1992-04-02
+            Protokollshnhummer 1991/92:90 Riksdagsskrivelse -
+          </p>
+          <p>
+            1991/92:NU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199192/reg_199192_NU/reg_199192_NU_0004"/>
+          <p>
+            Nr NU22 Myndigheterna på kärnsäkerhetsområdet, m.m. (prop. 1991/92:99)
+          </p>
+          <p>
+            Utskottets justering 1992-04-07 Debatt i kammaren 1992-04-23
+            Protokollsnhummer 1991/92:99 Riksdagens beslut: Bifall till utskottets
+            hemställan 1992-04-24 Protokollsnhummer 1991/92:100 Riksdagsskrivelse
+            1991/92:226 Nr NU23
+          </p>
+          <p>
+            Exportfrämjande verksamhet (prop. 1991/92:100 bil. 4, prop. 1991/92:108)
+          </p>
+          <p>
+            Utskottets justering 1992-04-09 Debatt i kammaren 1992-04-23
+            Protokollsnummer 1991/92:99 Riksdagens beslut: Bifall till reservation
+            2, i Övrigt bifall till utskottets hemställan 1992-04-24 Protokollsnhummer
+            1991/92:100 Riksdagsskrivelse 1991/92:227 Nr NU24 Sandutvinning
+            Utskottets justering 1992-04-09 Riksdagens beslut: Bifall till
+            utskottets hemställan 1992-04-24 Protokollsnhummer 1991/92:100
+          </p>
+          <p>
+            Riksdagsskrivelse -
+          </p>
+          <p>
+            Nr NU2S Energipolitiska frågor (prop. 1991/92:97, prop. 1991/92:100
+            bil. 10 och 13)
+          </p>
+          <p>
+            Utskottets justering 1992-04-28 Debatt i kammaren 1992-05-14
+            Protokollsnhummer 1991/92:112 Riksdagens beslut: Bifall till utskottets
+            hemställan 1992-05-14 Protokollsnhummer 1991/92:112 Riksdagsskrivelse
+            1991/92:271 Nr NU26 Ny börslagstiftning m.m. (prop. 1991/92:113)
+            Utskottets justering 1992-05-19 Debatt i kammaren 1992-06-02 Protokollsnummer
+            1991/92:124 Riksdagens beslut: Bifall till utskottets hemställan
+            1992-06-02 Protokollsnhummer 1991/92:124 Riksdagsskrivelse 1991/92:321
+          </p>
+          <p>
+            1991/92:NU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199192/reg_199192_NU/reg_199192_NU_0005"/>
+          <p>
+            Nr NU27 Utlänningars rätt att idka näring i Sverige (prop. 1991/92:88)
+          </p>
+          <p>
+            Utskottets justering 1992-03-24 Riksdagens beslut: Bifall till
+            utskottets hemställan 1992-04-02 Protokollsnhummer 1991/92:90
+            Riksdagsskrivelse 1991/92:185 Nr NU28 Ändringar i minerallagen
+            (prop. 1991/92:161) Utskottets justering 1992-04-28 Riksdagens
+            beslut: Bifall till utskottets hemställan 1992-05-14 Protokollsnummer
+            1991/92:112 Riksdagsskrivelse 1991/92:272 Nr NU29
+          </p>
+          <p>
+            Tilläggsbudget II (näringsdepartementet) (prop. 1991/92:125 bil.
+            10, prop. 1991/92:150 bil. 1:10)
+          </p>
+          <p>
+            Utskottets justering 1992-05-12 Debatt i kammaren 1992-05-27
+            Protokollshummer 1991/92:121 Riksdagens beslut: Bifall till utskottets
+            hemställan 1992-05-27 Protokollshnhummer 1991/92:121 Riksdagsskrivelse
+            1991/92:286 Nr NU30 Vissa elmarknadsfrågor (prop. 1991/92:133)
+            Utskottets justering 1992-05-19 Debatt i kammaren 1992-06-02 Protokollsnhummer
+            1991/92:124 Riksdagens beslut: Bifall till utskottets hemställan
+            1992-06-02 Protokollsnummer 1991/92:124 Riksdagsskrivelse 1991/92:322
+            Nr NU31 Ändringar i ellagen (prop. 1991/92:135) Utskottets justering
+            1992-05-07 Riksdagens beslut: Bifall till utskottets hemställan
+            1992-05-27 Protokollsnummer 1991/92:121 Riksdagsskrivelse 1991/92:287
+            Nr NU32 Ombildning av Stadshypotek, m.m. (prop. 1991/92:119) Utskottets
+            justering 1992-05-19 Debatt i kammaren 1992-06-02 Protokollsnummer
+            1991/92:124 Riksdagens beslut: Bifall till utskottets hemställan
+            1992-06-02 Protokollsnhummer 1991/92:124 Riksdagsskrivelse 1991/92:323
+          </p>
+          <p>
+            1991/92:NU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199192/reg_199192_NU/reg_199192_NU_0006"/>
+          <p>
+            Nr NU33 Ombildning av domänverket till aktiebolag (prop. 1991/92:134)
+          </p>
+          <p>
+            Utskottets justering 1992-05-21 Debatt i kammaren 1992-06-10
+            Protokollsnhummer 1991/92:128 Riksdagens beslut: Bifall till utskottets
+            hemställan 1992-06-10 Protokollsnummer 1991/92:128 Riksdagsskrivelse
+            1991/92:351 Nr NU34
+          </p>
+          <p>
+            Statlig medverkan för kapitaltillskott till Sparbanken Första
+            AB (prop. 1991/92:168)
+          </p>
+          <p>
+            Utskottets justering 1992-05-07 Debatt i kammaren 1992-05-27
+            Protokollsnummer 1991/92:121 Riksdagens beslut: Bifall till utskottets
+            hemställan 1992-05-27 Protokollshnummer 1991/92:121 Riksdagsskrivelse
+            1991/92:288 Nr NU35 Uppskov med behandlingen av vissa ärenden
+            Utskottets justering 1992-05-21 Riksdagens beslut: Bifall till
+            utskottets hemställan 1992-06-02 Protokollsnummer 1991/92:124
+          </p>
+          <p>
+            Riksdagsskrivelse -
+          </p>
+          <p>
+            Nr NU36 Rekonstruktion av Nordbanken (prop. 1991/92:153) Utskottets
+            justering 1992-05-26 Debatt i kammaren 1992-06-10 Protokollsnummer
+            1991/92:128 Riksdagens beslut: Bifall till utskottets hemställan
+            1992-06-10 Protokollshummer 1991/92:128 Riksdagsskrivelse 1991/92:352
+          </p>
+          <p>
+            1991/92:NU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199192/reg_199192_NU/reg_199192_NU_0007"/>
+          <p>
+            Yttranden
+          </p>
+          <p>
+            Nr NU1y till finansutskottet Avveckling av löntagarfonderna (prop.
+            1991/92:36) Utskottets justering 1991-11-26 Finansutskottet =
+            1991/92:FiU9
+          </p>
+          <p>
+            Nr NU2y till finansutskottet Inriktningen av den ekonomiska politiken
+            (prop. 1991/92:38) Utskottets justering 1991-11-28 Finansutskottet
+            = 1991/92:Fi:U10
+          </p>
+          <p>
+            Nr NU3y till skatteutskottet Skatten på etanol, m.m. (prop. 1991/92:67)
+            Utskottets justering 1991-11-28 Skatteutskottet = 1991/92:SkU6
+          </p>
+          <p>
+            Nr NU4y till bostadsutskottet Andring i plan- och bygglagen (prop.
+            1991/92:51) Utskottets justering 1991-12-03 Bostadsutskottet =
+            1991/92:BoU10
+          </p>
+          <p>
+            Nr NUSy till bostadsutskottet Länsstyrelsernas ansvar för konkurrensfrågor
+            Utskottets justering 1992-02-25 Bostadsutskottet = 1991/92:BoU18
+          </p>
+          <p>
+            Nr NU6y till bostadsutskottet Laisvallprojektet Utskottets justering
+            1992-03-12 Bostadsutskottet = 1991/92:BoU21
+          </p>
+          <p>
+            Nr NU7y till försvarsutskottet Totalförsvarets utveckling (prop.
+            1991/92:102) Utskottets justering 1992-04-07 Försvarsutskottet
+            = 1991/92:FöU12
+          </p>
+          <p>
+            Nr NU8y till socialförsäkringsutskottet Vissa ändringar i förmånssystemet
+            för läkemedel m.m. (prop. 1991/92:151) Utskottets justering 1992-05-12
+            Socialförsäkringsutskottet = 1991/92:SfU13
+          </p>
+          <p>
+            Nr NU9y till finansutskottet Energibeskattningen (prop. 1991/92:150
+            bil. I:5) Utskottets justering 1992-05-19 Finansutskottet = 1991/92:FiU30
+          </p>
+          <p>
+            1991/92:NU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199192/reg_199192_NU/reg_199192_NU_0008"/>
+          <p>
+            Sakregister
+          </p>
+          <p>
+            Allmänna pensionsfonden löntagarfondstyrelsSerNa......sssssssessessssenrenenernennennerennnnnen
+            nan regleMeNt€ssoosseseeererrereeeeeessnenerrerreresennnn renen
+            reser rnnnrrr nr nanna sparpremier
+          </p>
+          <p>
+            Bankväsen bankrörelselagen, äNdriNg lsmmmmmsnssesseseresneenennennrnrnnennrn
+            nn bankväsendets utveckling, utredning OM ..............-..-..--
+            finansinspektionen, ökade befogenheter för ................. iNSättarskyCd
+            osssssssesseseesrenrerreseennennessasesnerennsn nen esnernrn ene
+            n nn kreditgivning, kontroll av bankernas smsa Nordbanken, ansvarsfrågOr
+            I...nnmmmmnsssrssssserensnsnansrnrnen annan Nordbanken, försäljning
+            av statens aktier i Nordbanken, rekonstruktion av smmmmmmmssssersssersrsrnnsnnnnn
+            Nordbanken, teckning av aktier m.m. Isnssnmnmmmssessennnn nn Nordbanken,
+            utredning OM. ....ssssssssrsssressrrsserrssnresnn nanna nn offentliga
+            ledamöter i affärsbanks styrelse .....m...........- räntevillkor,
+            information OM ssmmssssssssssserrssrnrerrrrrnnnnn anna SeCULUM
+            ÅB sossosssesresereseereereeresreenrereereseenesrennsnernrrnrnennr
+            nn nn Sparbanken Första AB, garanti för lån till Sparbanken Första
+            AB, kapitaltillskott till
+          </p>
+          <p>
+            sparbankssektorn, omstrukturering av....mm.sssssessesesnene styrelseordförande
+            i affärsbank sm nnmsmsseesessrererersssnernrnnnn tillsynsverksamhet,
+            granskning av ssmmemeseeesssennnnn sons BegravningskOoStnader
+            smsmeseeresressssrereererernernrrernennrnnenrn renen rna Ber gSStät€ha.sssssssessesreessesresrrenesnesreresnrsnrerernenenrrr
+            ennen nen nrnrnn rn nn nen BruksSinvest AB s.msmmnnsssssessesseasseneesesseasnerrenesrenernrnernernrrrrnennnn
+            nen Civildepartementet anslag inom civildepartementets OMråde......................
+            Detaljhandel detaljhandelns lokalisering, kommunernas styrning
+            ÖV oosrersorerreseeseeseoesroesrrenrernernerrennannr sn renar
+            nen ennen ennen nennr nen rn ennen kommunala varuförsörjningsplan€t
+            m...mmsesessersesssrennn Domänverket egendom, överföring och försäljning
+            av ViSS............ enes fÖrSäljNiNg AV ssmomssseresraresrernesrenerserersrnrersnerensnenenrsnenerenen
+            nr rann Göta kanalbolag, AB ossnnnnssssssssssssesreresenenrsnrerernernennnnennnnn
+            jakt- och fiskerätt, upplåtelse av s.nmmmmesesessenrnnnnnnnnnn
+            kronOhOlmarNa....ssseseessreessrsseesererrererernnernrrnsennrrnrrrnrnr
+            rn n ennen kulturminne susmsssessssressssresesresernrerererenrnrrrrnrennnnernrrrn
+            rna a naturvård ombildning till aktiebolag, riktlinjer fÖr................+------
+            TEN NäÄriN ge ssssseeeseessrersrsereesrrerrrerrrerrerernrenrrs
+            rann nen renen rent
+          </p>
+          <p>
+            tillgångar och skulder, överföring av. vattenområden
+          </p>
+          <p>
+            20
+          </p>
+          <p>
+            1991/92:NU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199192/reg_199192_NU/reg_199192_NU_0009"/>
+          <p>
+            | 2658 ESV 20, 9y 1991/92:NU Reg. Energiförsörjning
+          </p>
+          <p>
+            affärsverket svenska kraftnät s......snnsssssssssossoseserrrereren
+            rn ana 10, 25, 30 ANSIagSfrågOL oosssessessesseresersrereeseerennennenneenersrerernasnennrnnrnn
+            nen nan 25 Barsebäcks kärnkraftverk ssmmmmsssesesseeserreresrenrernrrnrrnnnnen
+            nan 25 beredskapsorganisatiON€hN ssmmsssessssrersrrersrrrererrersrrnrernrennn
+            10 beredskapSåtgärder s...mnmnmseseererereserrerserrrrsrerenrererenrrnenennn
+            nn Ty biobränsleanvändning, riktlinjer för främjande av......
+            25 biobränslen sesssssssssesesrrsrenernresernrrnrrnesnesnerrenernennen
+            nen nrn ann nn nn 25, 9y biobränsleteknNik ssssmssessressereneesrensrensnrrsersrennrerrrrnrernnrenn
+            ann 25 bioenergi, forskning OM smmsmmmnmesseessressreseererssrenorarnrrnnn
+            rn rann 25 biogasprojekt, stimulans av musmmmsmsrsssersseseresnenenernennnnnn
+            nana 25 elbilar sossssssssesresresresernennennrnn ennen anna nn
+            20, 9y eldistributionen, reformering av 30 eldistributionsanläggning
+            m.m., lagen om förvärv av.. 15 elektrisk materiel, registrering
+            AV smmmmmmssssssssssresernennnnn nan 25 elektriska inspektion,
+            StaäteNS..........ss.ssseseesersesnessonennsnnen 25 elenergi,
+            åtgärder för effektivare användning av .......... 25 elintensiv
+            industri, elleveranser till 10 elkraft, eXPOIt AV ssnmnnessessessesrenernernrnrennesnenrrnernennennrnnrnnrnnen
+            an 25 elmarknadens reformering, mål och strategier för ......
+            30 elsäkerhet, anslag tillsssmmsmnnsssssssssssressrersennnnnnnnnrnnnnnnnn
+            rna nn nn 25 energibeskattNilg........sssssessesesoeneenennnennenrenennernrnnenrennennnn
+            ann 2y, 9y energieffektivitetsplan, nationell... ommsmsssseersrrrrsnnssnsnnnn
+            25 energifOrskNilg....ssssssesseseesneneerseneeneenersnennenennennennennennrn
+            nn nen 25 energipolitiken, riktlinjer fÖr.....sssssssesssersrrsernrsnsnnnsnsnnnn
+            25 energipolitiska programmen, redovisning av resultat FN &amp;
+            Un 25 Energiteknik oooosssssssessessreesrresnrrnrenrrenererresnernnernner
+            nn nrnn nen n nan 25 energiteknikfOnden smmmmsssssssssesrsssesnsrersesnrennnernrrsnnrsrernnnnnn
+            25 etanol, beskattning aQV....smmmmssssessesseensrersrennrnrnrnnnernnenrnrnnnnnn
+            3y etanOlproduktiOnD........ssesssssrssesesrereereesnenesnennennennennenr
+            enn nn nan 25 fjärrvärmeleveranser till iNduStrif....mmmmmmssssssennesnsnnnnnnnn
+            9y fossila Bränsle smsmmssssssessressresrsnernnnnnnrnreernenn
+            nen r enn nen nn nn rna 25 förgasningsprojekt vid Studsvik AB
+            ss mmmmmmesssesesssnrnnennr 25 försöksområde, lokalisering av
+            25 halogenlampor, skyddsbestämmelser för 3, 31 Internationella
+            atomenergiorganet (IAEA) .................. 25 jordfelsbrytare,
+            installation QV.-..smmmmsssssssssrsensnsnennnnnnnnnnn nn 31 SYN
+            (a 22 6 RR 25 kolbränslen för metallurgiska procCesSer .............ss.so00&gt;
+            9Iy koncessionsområden s........ssssessssesoresrresnnnn ons 3,
+            30 konkurrensövervakning på elområdet 30 kraftledningars hälsOrisker
+            s..mmsssssesesseensorennenennernnrnnrnrn nan 3, 30 Kärnavfall
+            omosssssssssseseseerrerernrrrrenrenrrnesnrerersennennen nen nrn
+            enn n nen nen 22 kärnavfallsfrågor, vetenskapligt råd 1..............s..ssssssss000s
+            22 kärnbränslenämnd, StaäteNsS smsmmmsnesssssersrsesrsrsrsereersnnnnnnn
+            na 22 kärnkraften, internationell avveckling av ....................-
+            25 10
+          </p>
+          <p>
+            kärnkraftinspektion, StateNS sm....sssssseessessrosrersrersrsnrnnnnennn
+            22
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199192/reg_199192_NU/reg_199192_NU_0010"/>
+          <p>
+            kärnkraftsproduktiOn a ....sssssesssessrsssrssessersennennrnnrnnrnennnenn
+            en kärnsäkerhetsarbete, internationellt ........... kärnsäkerhetsområdet,
+            myndigheterna på..... wo kärntekniskt biståndSprOgramM..........ssssssssssesessanesrnnnnnnn
+            nn landsbygdens elektrifieriNg........ssssssssssnsnernesnrnnenernnsnnnnnnn
+            lokala eltäXOr oossssssessresrennresrnnrersrnnnrernrrernrernrrr
+            nr enn nrn nr nn rn nen NatUrgZAS oossseseerererrereerererrererrrresrererenrerenenen
+            en errr sr snar rn sn nn renarna oljeutvinning i ÖSterSjÖn ..................smmsssononssnnnn
+            optokablar, installation i storkraftnätet av....................
+            produktansvar i fråga om elström s...mms.sesserresennnnnnn reservkraftverkossssssssssseeresrennrnersnensesnrnererrenenen
+            renen nnnnn rna nana restoljeeldat kraftverk smonssmmmsssssrsresersnnrnnsnnnn
+            na solcellsteknik, bostadsuppvärmning genom s................
+            solenergi, tidsplan för utveckling aV..............ssssseennnn
+            storkraftnätet............e.sssssssessrenensersennernersennsenrerennnn
+            ene rnn eran nn Studsvik AB ssnsnssoeeseerreseesrereereererrserrernerenrrrener
+            ennen en nnnnn annan nn Svensk Kärnbränslehantering AB s.smsmsmsssneersssrsnsnnn
+            torv, klassifiCeriNg äV smsmmmsessseeserersrsererreneenenrrnnennennnn
+            nn nanna Vattenfall AB, se: statens vattenfallsverk vattenkraftsproduktion,
+            rådgivning OM................s.s-.---- vattenkraftsproduktion,
+            vinstmedel från .....................-- vindkraft, tidsplan för
+            utveckling av s.........seeemesmennnn vindkraftsproduktion, rådgivning
+            OM s...........-sssnnnn vindkraftsproduktion, stöd till. ...smsmsmsssssssserereresnenrnnn
+            nn vindkraftsproduktion, åtgärder mot buller vid.............
+            vindkraftverk, beskattning aV.s........ssssssossoressennenennnnnnnnn
+            VÅgCNEI GL ooosessereseeneeresesrenenennenennerennrnen ennen enenensnrn
+            rn ennen annan växthusnäringen, energibeskattningen för .... VÄXtOljOr
+            oossesessessresssrrsrsrrrsrrrsrrrrrrenn nar ren rrn renen nen
+            nr sne renar nr nn nn Europeiskt forsknings- och utvecklingssamarbete
+            ............. Export-, se: Utrikeshandel
+          </p>
+          <p>
+            Fartygsfinansiering, upphörande av nämnden för .............
+            Fartygskreditgarantier s.smmmssssseeseeseeseesennerernenenenrsnennsnrnsnnnnenenn
+            FinansbOlag s..ssssseesresresrennennennenrenrannennerner nen ennrn
+            enn nn nn : Finansinspektionen
+          </p>
+          <p>
+            Företag borgen, PerSOnNlig.....sssssssesesesrenenresesrenerrnenersenerrrrrrenenenenenr
+            utlänningars rätt att idka näring Företagsförvärvslagstiftning
+            förvärv av hyresfastighet m.m., lagen OM s.....nssssesennn utländska
+            förvärv av fast egendom M.M.u..smmmessenssnnn utländska förvärv
+            av svenska företag m.m., upphävande av lagen OM mmmmmnsssssssesersesessenernnsnnennnnnrn
+            nn nan Försäkringsrörelse försäkringsrörelselagen, ändring I.
+            ....nsmsssssssssersraserannnnn an
+          </p>
+          <p>
+            10, 25,
+          </p>
+          <p>
+            25,
+          </p>
+          <p>
+            25 22 22 22 25
+          </p>
+          <p>
+            15
+          </p>
+          <p>
+            11
+          </p>
+          <p>
+            1991/92:NU Reg.
+          </p>
+          <p>
+            11
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199192/reg_199192_NU/reg_199192_NU_0011"/>
+          <p>
+            tillsynsverksamhet, granskning av s.smmmmmmsssssenssrsnsennnn
+            nan 4 1991/92:NU Reg. Förvärvskontroll, se: Företagsförvärvslagstiftning
+          </p>
+          <p>
+            Garantigivning, täckande av förluster Vid s...smsssssessrnnnnn
+            20 GIlaSåterVinlNilg.ssssseeseseereresrsnesnenrerenrennenssrerernrn
+            een ernsesrenenennn nn 7 Gruvhantering, se: Mineralförsörjning
+            Göta kanalbolag, AB ssnmssmsresesssersressreresnnrsnrerrrsrenrrsnrsnennnnnnnnn
+            nn 33 Hantverksrådet, Centrala ....ssmmmsssssssrsooroererseerreserorresreresenernn
+            ns 20 Industribranscher bilindustrin s.mnmmm+ ss. - 20 krigsmaterielindustrin
+            15, 7y livsmedelsindUStrif ommmnsssssrsessrresrersnserennessrrsrnnsrrnrnnn
+            ner n rna 20 läkemedelsinduStlills.smnmssssssesrarererrarrrsrrerrernnrsn
+            annen nnnnnn erna 8y SKOgSiNAUSL IM oooeoresesreraresresesnenrssesnrnnrresrernsnennrrenrsrrnenenen
+            ren 20 Stå liN Cd UStliM oossosesesesrereseerererreresnenrrnernerennernen
+            enn ernen snaran eran n nn 20 textil- och konfektionsindustril
+            s......sesesessssssessnnsnna 20 IndustrideSigh s....sssssssssersrnnn
+            na no 20 Industriråd/industriattaché 20 Ingenjörsvetenskapsakademien
+            s.mmmmesessesrsrsrssrsnnnnnennnnnnnn 20 Kapitalförsörjning Företagskapital
+            AB snmomnmsmsssssesssrsrsrerereserssosnorernrnrrenrrnrrnnrnnn
+            14, 20 IndustrifONnCen smsmnsssereerressrrersrrserrrnnrrrsnnnesrrssnnrerrer
+            er en eran en 20 Norrlandsfonden ... 14, 20 riskkapitalbolag sm.smmmmnssssesressessrsnneserenrsnnernrrnrennrnnenernnn
+            nn eran 14, 20 riskkapitalförsÖrjniNg......sse.-sssessrrsrnrnnrn
+            nn 14, 20 små och medelstora företag 14, 20 SmåföretagsfOonden
+            ...smmmmmssessreresreseenerssnnsrnrnnsnnenenenenen nanna 14, 20
+            utvecklingsfonder, regionala m.csmmsrersersssessenrsrsrrnnnenennnnn
+            14, 20 Kattegatt, Sandutvinnilg i.msmmsesssesesersosronssrsorerrrnnennrnnnnnnnnn
+            nen 2,24 KommerskollegiUM smmmssssasersssessrssrsnnesnnsenesrernnrnernernrnnrnrnnn
+            1,23 Konkurrensfrågor konkurrenslagstiftNilg..........sssssssssssosesssonsnnnnnn
+            2y konkurrensmyndighet, inrättande av 20 länsstyrelsernas aNSVåL
+            smssssssessssessoreerssrsersererresrsnerrnennnrn nen 5y myndighetsorganisationen
+            på handelspolitikens [954 1 8506 [ARR 1 plan- och bygglagen, ändring
+            I..omssssesseseseserersrrnnsnnnnnnnnn 4y KONKUTSETL sossossereseesserersorererenrernnerrnnensnnesnnnrrenrernrsrnnerrnerer
+            nn rn nen a 20 Kooperativ utveckling, stöd till 20 KreditupplysningSlägen
+            ....ssesessssersssesssrsorsronernsnernnnenenennnnnnnn 9,15 Krigsmaterielindustrin
+            kontroll över tillverkningen av krigsmateriel, m.m., lagen OM
+            ooeoeseseeseesresrssresnreresnnennererrnern rens r ennen n nn
+            enn rrnnn ennen 15 OmstruktUrerilg su ..mmmmssssesssrssssrnsnrrsnnrernnerernsernernnerr
+            nn n nanna Ty omställning till civil produktion s.mmsmssesessereresernsnrnnnnn
+            Ty
+          </p>
+          <p>
+            statligt StÖA s..sssnnssssseseersrrorrsesenerenensnnnsnnerensnennenenennn
+            nen n nn 17y 12
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199192/reg_199192_NU/reg_199192_NU_0012"/>
+          <p>
+            Livsmedelsindustrin, industripolitiska insatser för ............
+            Luossavaara-Kiirunavaara AB (LKAB) sssnnnnnssrsessesseserronn
+            nn Läkemedel, ändringar i förmånssystemet fÖr......................
+          </p>
+          <p>
+            Mineralförsörjning DErgSStät€l ssssssessseserseesssrrserdernerrrrerrrrerernrrrrnrrrrrrr
+            enn rrrn arenan nn geologiska undersökning (SGU), Sveriges ....................
+            geovetenskaplig forskning gruvegendom, statens Laisvallprojektet
+            .......... MinNEraljäkt.soossssssssssresrrrersrererrerrrrsrererrnernsernnsnn
+            rann sena sn annan mineralråvarukommittén s...n.ssssssssrssssnesensnsnnnnnnns
+            ee nämnden för statens gruvegendom (NSG), Ned läggnNiNg AV ousmosseseesrreersrerernrrsranrrrrenresnresnnennsnnnnnenn
+            annan nn PrOSpekterilg...s..sssssseserssesrsessresrrnnennnenr
+            essensen ses r enar ennen nana VvanadinuUtviNNIiNg ssmeesssssseesesseereersrsrerssrrrresessn
+            rensar nn anna nan Minerallagstiftning bearbetningskoncession,
+            prövning enligt naturresSurslageN av smusmsesssessseserressrrersresnrerrenn
+            ere nsnrnn erna nan SL UVIAZEN oooeseeesresrserrsrerresnresereserrrrnr
+            nera er nr rernr nens rn n rann nanna 158 £0T9TOT: Ve Te CA UR
+            miljökonsekvensbeskrivning ......smsssssssesessesensnnnnnennn
+            ana mMinerallageN musmmssssssessrertrerrreresrsnenrr enes n rs
+            enn ns nnesne nanna nn skada på jord- eller skogsbruket
+          </p>
+          <p>
+            Negativ föreningsrätt, grundlagsskydd för... Nordiskt samarbet€.........sssssosessreseoneensnenoensesnenresesnsnnanennnnnn
+            annan NorrlandsfOnden ....ssssssseraseesressrsnrssrannrennrnnensennenneners
+            eran ennen annan Närings- och teknikutvecklingsverket (NUTEK)
+            ANSÅAg Maa oeeeseesreseesrressrarsrrarrrrnnr nns sne rrnenns ennen
+            enn n enes nen nanna författningsäNndriNgar....ssessesssereosressesseesesresrenesernenenn
+            anno ana Näringsdepartementet anslag inom näringsdepartementets
+            område................. Näringsfrihet, grundlagsskydd fÖr s....snmmssssesesesessseseresnsnnnnnna
+            Näringsfrihetsombudsmannen, avveckling av s...mmmm........ Näringspolitik
+            INTIKENING oooseeeeesresresrersrrrsrrrenr enn nns ernr rean r
+            erna arne n ene n nen småföretagspOlitik.........ss.sssssseosensnssenesesesenesnsnenennn
+            en enar ana småföretagsutveckling .... teknisk UtveCkliNg ....sessssesserserensnenesnrsnsernsernrenernnene
+            nn enn an na
+          </p>
+          <p>
+            Pris- och konkurrensverk, statens, avveckling avV...............
+            Produktansvar för skador orsakade av elström...................
+            Provning provningsanstalt, statens riksmätplatser .........n.......0s
+            styrelsen för teknisk ackreditering...............m-.s..000000-
+            teknisk provning och om mätning, lagen om
+          </p>
+          <p>
+            10,
+          </p>
+          <p>
+            10, 13, 17, 20,
+          </p>
+          <p>
+            20, 14,
+          </p>
+          <p>
+            13,
+          </p>
+          <p>
+            20 17
+          </p>
+          <p>
+            8y
+          </p>
+          <p>
+            29
+          </p>
+          <p>
+            20
+          </p>
+          <p>
+            29 20
+          </p>
+          <p>
+            1991/92:NU Reg.
+          </p>
+          <p>
+            13
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199192/reg_199192_NU/reg_199192_NU_0013"/>
+          <p>
+            I CARIE 01700 or Rymdverksamhet europeisk [OETA TOT a CA BUR
+            Råvaror internationell råvarulagrilg ......esssesssesrsraneonenennrenennnnonnn
+            organisationer för internationell handel och råvarusamarbete ..smnmmunssrsrereserererererenenenenerer
+            essens rsn enn neon a
+          </p>
+          <p>
+            Sandutvinning i Kattegatt s.smmmmnseressesessnrsnesrennennernnerrnnnnnnnnnnnn
+            Skogsindustrin, ökad vidareförädling inOmM .........se.--.s Skogsråvara
+            ANVÄNdNINg AVooosseeseeseeseeneeseeesernerennnnnnenennenernnrnnenn
+            nn n nanna nn lagen Om träfiberråvarå......ssssssssosssosoresrerrnenenrnenerenernnn
+            nn rna prisbildning och konkurrens på marknaden för..........
+            Små och medelstora företag arbetsmarknadsfrågOr s.....nmsossseseseoreoresenenrsresrererrernnerennnnnnn
+            egenföretagares borgensåtaganden exportfrämjande ............ss.seessesnennnna
+            företagarnas utbildning Norrlandsfonden sussmmsssssssessesresersraseerrennenennnennennrrn
+            renarna rena näringspolitisk utredningsverksamhet och näringspolitiska
+            PrOgfaMö..smssssssssesseseesensesnennrannenn nan nn nana riskkapitalbolagen,
+            regionala s......s.ssssessesssrensenennnnnnnn nana riskkapitalförSÖrjNinNg......ssssssessseseressrersresrrensrrennrrrnnrrnnnnnnn
+            sjuklönerefOrmMen sssmssssssesserssreesrersrrrrsrenresrrrrnrrrnnn
+            nr ann n annan småföretagspOlitik............sssssseosseseorereneersrsrerererenesrarerenrnrn
+            småföretagsutveckling utvecklingsfonderna, regionala äganderätt,
+            näringsfrihet och negativ föreningsrätt, grundlagsskydd fÖr sssmnssssssesserrsrersresrrrnenrerennnrrnannnrn
+            nro rna nana SprängämnesinspektiON€h .smmmmsssssesssesresresnesnennernennnnnnnnnn
+            nanna Stadshypotek, ombildning aV ssmmmnuesresrersersesrennesnrrnrnnnrnnn
+            rn nan StandardiseringskommiSSiONCN ..mmmmsssrrssererrersrersnennnnrnnnn
+            rn nn Standardiseringsverksamhet integrering av miljökriterier
+            s.smmnmmmmsssssesesressraseasnnnnrrnnn nanna utbildning av konsumentrepresentanter
+            ....................... Statens Skogsindustrier, AB (ASSI ss ssmmnnmnssrssseesresreeesresnnrnnen
+            Statliga företag anslag för omstrukturering M.M... omsssssssessnssnsssnnnnn
+            Apoteksbolaget AB =ssnnmmnsssssssssssrsessssesseennessrrrennrnnnnrnnnnnnnn
+            rna Celsius Industrier AB -.... domänverket, se: Domänverket FFV
+            AB, pensionsgaranti ....................- Fortia, Förvaltningsaktiebolaget
+            fÖrSäljNilg sosssssesesesresesrrrrrreesrresnrerrrnnnrrrrnsn renen
+            n rn enar ennen erna a Göta kanalbolag, AB smommnnnsssssssssssrsssrensesnnrnsnnernnnnrnn
+            ner nn nn Luossavaara-Kiirunavaara AB (LKAB) ...oonnnsmmssssennnrnan
+          </p>
+          <p>
+            Nordbanken, se: Bankväsen
+          </p>
+          <p>
+            7
+          </p>
+          <p>
+            20, 29 20
+          </p>
+          <p>
+            23
+          </p>
+          <p>
+            20 10, 17, 33
+          </p>
+          <p>
+            10, 17 10 10
+          </p>
+          <p>
+            17, 29 10, 17 10, 17, 33 33 10, 17 10, 17, 33
+          </p>
+          <p>
+            1991/92:NU Reg.
+          </p>
+          <p>
+            14
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199192/reg_199192_NU/reg_199192_NU_0014"/>
+          <p>
+            OK Petroleum AB... Procordia AB ............ redOgÖrelS€ ...sssssssssesnennnnnn
+            nana Satellitbild i Kiruna AB SSAB Svenskt Stål AB oossnnnssssssesesesresesesearenenenensnesennnenenen
+            Statens hundSkOla.....ssssessesssessrerssrerersnneennerrernernrennrnnrnrnn
+            enn Statens Skogsindustrier, AB (ASSI....ssssssssssssssnesnsnnsnnan
+            Studsvik AB smosmmmnssresressessenresrenrersnanneneenennennenennrnnsrenen
+            nn renen Svensk Bilprovning, AB smmmsssssssssesesreressrsnesrnerenenerennsnnnen
+            Svenska TobakSs AB smnnmnmssssesssessssrerensnennesnnennnnnrsnnennnnsnnene
+            Swedish Ordnance-FFV/Bofors AB s..smmmmsssssenesnenrsnsnennn Systembolaget
+            AB ..sssnmmnsssssessnrnnnnrnn nanna Vin &amp; Sprit AB, V&amp;S
+            Stockholms fondbörs, se: Värdepappersmarknaden Stålindustrin,
+            åtgärdsprogram fÖr s....ssssssssssssesersrersrnrerenennnnn Svensk
+            Bilprovning, AB smismmssssssssresserrenernernesnenrnnesnenenenennnnnn
+            Svenska kraftnät, affärsverket ...ssmmmssososssrrereerenererrennnenrnnnnn
+            na Svenska skeppshypotekskassan, garantifonden vid.............
+            Swedish Ordnance-FFV/Bofors AB smnmmnsmmmssssserreresessrersnsnrnnnn
+            Sågverksindustrin, ökad förädling inOM s....ssessesssrnernsnn
+          </p>
+          <p>
+            Teknikvetenskapliga forskningsrådet................s-ssssssmnnn
+            Teknisk ackreditering, styrelsen fÖr...........s.sssssserserressssnsnennr
+            Teknisk utveckling
+          </p>
+          <p>
+            bioenergiforsSkNinNg ..mmmsssssessessesnrenrernenrenesnenenr
+            ennen rnnnnn renen energiforskning europeiskt forsknings- och
+            utvecklingssamarbete ........ forskning för ett avfallssnålt samhälle
+            idéverkstäder i Gävleborgs läl s.........sesseoseneonenennenennnnnn
+            ann internationella FoOU-Oorganisationer s......s.ssosssssseseresnsnene
+            kontroll genom teknisk provning och om mätning, lageN OM oooseeeseesseesreeseresrrenerenrernr
+            nns ner rnn rann n ennen rer n renen renen nen materialteknisk
+            fOorskNiNg..........ssesseseosesranenneneensnnsnsnenenene Miljöteknik
+            omosssssssesrersrersrannranrrnnrrrrnnsnrernnernennnennrn renen
+            renen nn rikSMätplatSer ..ssmnsssssssssressrrsransnnrsnnrsnnennrrnn
+            erna nen skogsindustrin, insatser för ökad vidareförädling
+          </p>
+          <p>
+            standarder, integrering av miljökriterier i....................
+            standardiseringsarbete, utbildning av konsumentrepresentanter
+            I...mmmsmsssssssssresrnrsresnennenenensnnnr standardiseringskommiSSiONCNA....mmseessesseeseonsenersrsnnensnnen
+            statens provningsanstalt m....mms.sssssssosesesresrennnnrrrnnnnrrennnnnnr
+            styrelsen för teknisk ackreditering.................ssssssseec00e
+            teknikvetenskapliga forskningsrådet tillämpad industriell forskning
+            i Västernorrlands län. uppfinnare och innovatörer, stöd till.............
+            verkstadsteknisk utveckling, program för Teknisk-vetenskapliga
+            attachéverksamhet,
+          </p>
+          <p>
+            10,
+          </p>
+          <p>
+            10,
+          </p>
+          <p>
+            10, 17,
+          </p>
+          <p>
+            10, 25,
+          </p>
+          <p>
+            13,
+          </p>
+          <p>
+            10 21 10 17 10 10 33 25 10 21 Ty 21 21
+          </p>
+          <p>
+            1991/92:NU Reg.
+          </p>
+          <p>
+            15
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199192/reg_199192_NU/reg_199192_NU_0015"/>
+          <p>
+            Stiftelsen SVErigeS sosmmmsessseeesererenenssrnenenrnrnenenenenenenensnrnnnnen
+            Textil- och konfektionsindustrin handelspolitiska frågOr............esessssssseoeseenrnrnnnnnnrnennennnenen
+            insatser för Sjuhäradsbygden ............eseseeeesnsesnnnnnnn
+            linodling och linförädling ........eeeeeeseeseeeeeseeseeeseee
+            PrOtekO susnnnsseserennnennnn nana stöd till tekoindustrin Torv,
+            klassificering av Trollhätte kanalverk.....s.ssmsssersssrrssnneennrererenrsenrerernesnnnnrnrnnnnn
+            rna Tropiska regnskogar, skydd fÖr s......sesseeserrrrrrrerserrersrsnenrnrnnn
+            TFLäÄlNCUStli oooosseeeeoerserrresererererernererererrrererrnererereesrrrrerrrrrrsrnn
+            nen nen Turistfrågor, Sveriges exportråds uppgifter i.......................
+          </p>
+          <p>
+            U-länder, kreditgivning till.sssmosssmsssesssesrssessoresernenesnnnenen
+            enar nns Uppskov till riksmötet 1992/93 Utländska filialer oossmmsmsssesrersssrassnrensnersnnessnsnnannnesnnnsrnrrnnnennnn
+            nen Utländska förvärv av svenska föÖretåg.................--s--ssns0nn
+            Utländska investeringar i Sverige, främjande av ...............
+            Utlänningars rätt att idka näring i SVerige.............se..-.c
+            Utlänningsförbehåll i bolagsordning ..........sssssssesesersorenenenen
+            Utrikesdepartementet anslag inom utrikesdepartementets område
+            ................ Utrikeshandel alkoholdrycker, marknadsföring
+            m.m. av biståndsmål vid exportkreditgarantier.....................-.-..-
+            EXPOrtfiNaNSieriNg .osmsssssseessesrersersresresesrenrerrernernrrrnrrerernnnn
+            exportfrämjande verksamhet... ...msnmmnnssserersrensrennrsnrennrennn
+            Exportkredit, AB SvVenSk ssnmsnnssreseessenensresrennenrsnrsnnsnennna
+            exportkrediter för färtyg ..........ss.sssssssseosssesseesrennrnesnnenennnn
+            exportkreditgarantier ssmmmsssssssssessessorssesressernrrresnernrnnnnnr
+            nr exportkreditgivning, statsstödd................--s.sesseeessersonnn
+            exportkreditnämnden ssmmmsssssessresnsessrrnnrsnnnensnesnnernnrr
+            nen nen exportråd, Sveriges ................ frihandelns betydelse
+            GATT, samarbetet I..sssnnnmnsrrsssesssesoeeerersesererererrrrrrrnrrnerrnrr
+            handelspolitikens inriktnilg.....mssesseessseeresseserersnnsrrnnsne
+            handelsrestriktioner, kostnader fÖr ...........s.ssessssenenenr
+            IMpPOrtfrämjanNde.....ssossssssesserseereeseorrereeneererrernerrerrennrn
+            nn enn informationskontor i Öresundsregionen ...................
+            kommerskollegiunm snmmmmsnrssssrersrnsnresrrnnnnnnn kärnteknisk
+            utrustning, export av miljöhänsyn i handelspolitiken s.mmmmmmsssersssserrnnennennn
+            nn miljöklausul i internationella handelsavtal .........n........
+            miljöskyddsteknik, garantigivning vid export av.......... myndighetsorganisationen
+            på det handelspolitiska [95 644506 CR
+          </p>
+          <p>
+            PrOojekteXPOrt osssssssssssesereresenrerersnrnssserensrserrsrnrnernnr
+            ere rr rnnnnt råvarusamarbete
+          </p>
+          <p>
+            20 1991/92:NU Reg.
+          </p>
+          <p>
+            20 20 20 20 20 25 10, 25 21 20 23
+          </p>
+          <p>
+            20 35 27 15 15, 20 27 15
+          </p>
+          <p>
+            23
+          </p>
+          <p>
+            21 23 1,23 1, 23 20 20 23
+          </p>
+          <p>
+            16
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199192/reg_199192_NU/reg_199192_NU_0016"/>
+          <p>
+            små och medelstora företag, exportfrämjande FNS A AA 8 UU socialklausul
+            i internationella handelsavtal.................. sysselsättningsintresset
+            vid exportkreditgarantier ......... tobaksvaror, marknadsföring
+            M.M. aV..msmmsssssssrsrsesnenns tropiska regnskogar, skydd fÖr
+            s......ssssssesrsrrrssrersrsrnarnnnnnn trävaruexport, främjande
+            av smssmmmsssssessesssrsenennsseresnernennnn turistfrågor, Sveriges
+            exportråds uppgifter i.................. u-ländernas roll i världshandeln
+            Utvecklingsfonder, regionala finansieringsverksamhet .smmmnmssssssssssrensrenernnnennnenennesnenenen
+            inriktningen av informations- och rådgivningsverksamhet........ssssssssssssssesnenrenennnnnennenenennnnnnnn
+            [9] 6:62 ONES TA TOT 4 Ra
+          </p>
+          <p>
+            Varvsindustrin konkurrensSitUatlON......sssssssssresssressreesnsrsneneserrnrrrererernnnnen
+            FÄNteStÖG s.ssssesseresrererrernerrrrrernrserrrsnonrennnrennnernr
+            ene nnen nen r renen Vattenfallsverk, statens försäljning av Vattenfall
+            AB =msimnmnmsssssssseseesresnresnsnnsnennnnn ombildning till aktiebOlag
+            m.msmmmmmssserssessesneerrenrernrrrenennnnn naturskyddade tillgångar
+            .........ss.ssssssessenesrsnranennnnnnnnnsn anna FIKtlilljGr ooosssseesssrrerererrrrnernrennessrrnnn
+            nere rer nnsnn reser ner nn sen ns nen nen storkraftnätet.............essoseoseonsesresnnnesernrsnnnnnnnnnnnn
+            rann snn neon nen Värdepappersmarknaden allmännyttigt OrgaN m.mmssssssssesessrrsssresesnererasnnnnrsnnernr
+            ennen enn auktoriserad marknadsplaåtS........ssssessssssessssrersressorsnnnennnn
+            börs- OCh Clearinglag ...smsssessserrrsnenrenenrennernnn aren
+            nrnrenn nen nnn nn börsmonopolet, upphävande av ..smnmmessssessesessressrennennsnnn
+            börsstyrelses sam mansättNiNg.....smmmsssessssenseressreserennennennn
+            CiSCIPliN NÄMNA sooossseeseessereesnererererrrenrrrennnsrnnernnnrernnnn
+            nen ennen informationsskyldighet =m.msmmmssssssessreseseerereerenrersrennernernnn
+            regionala aktiebÖrSer.....sssssssssrsessreerrrrroneeronerernrsrnnsnnrrnen
+            nen Stockholms fondbörs, ombildning av... styrelseledamÖter ssmmmmsesseressrerrrensrnarsrnssnnssnerersnrernnrerrrnennr
+            a Värdepapperscentralen VPC AB, statens aktier i.........
+          </p>
+          <p>
+            Återvinning användning av engångsmaterial..mmmmmmsusssssessssnsnsnsrnnnnnn
+            forskning och utveckling glasåtervinning................. lokalisering
+            av företag standard för returförpackningar =. ....ssssesssessssernsnnr
+            Systembolagets återtagande av tomburkar åtgärder för att främja
+            återvinning och användning
+          </p>
+          <p>
+            av TetUrPapper ssssnsnsusesreserenensresresrenrenrerereerenreresrerernrnenen
+            nen Äganderätt, grundlagsskydd fÖr...............sssrsnnnnn
+          </p>
+          <p>
+            Östersjön, Oljeutvinning I...mssssssssosssessssnsereneerennrrnnnnnnnnnnn
+          </p>
+          <p>
+            10 10, 25 10 10 10, 25, 30
+          </p>
+          <p>
+            NN NO NN NN
+          </p>
+          <p>
+            1991/92:NU Reg.
+          </p>
+          <p>
+            17
+          </p>
         </div>
       </div>
     </body>

@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="reg_199596_UbU">
   <teiHeader>
     <fileDesc>
       <titleStmt/>
@@ -19,111 +19,615 @@
   </teiHeader>
   <text>
     <body>
-      <pb facs="riksdagen-volumeG-pdf/data/199596/reg_199596_UbU/reg_199596_UbU-000.pdf"/>
+      <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199596/reg_199596_UbU/reg_199596_UbU_0000"/>
       <div type="gBody">
         <div>
-          <p>Utbildningsutskottets register vid riksmötet 1995/96</p>
-          <p>Betänkanden</p>
-          <p>Nr UbU1l Val av skolform för utvecklingsstörda barn, m.m. (prop. 1994/95:212) Utskottets justering Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse</p>
-          <p>Nr UbU2 Riksbankens Jubileumsfonds stöd till viss forskning Utskottets justering Debatt i kammaren Protokollsnhummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnhummer</p>
-          <p>Nr UbU3 Vissa skolfrågor Utskottets justering Debatt i kammaren Protokollshummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse</p>
-          <p>Nr UbU4 Vissa högskolefrågor Utskottets justering Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnhummer</p>
-          <p>I Riksdagen 1995/96 14 saml. Register</p>
-          <p>1995-11-09 1995-11-22 1995/96:27 1995-11-22 1995/96:27 1995/96:27</p>
-          <p>1995-11-09 1995-11-22 1995/96:27 1995-11-22 1995/96:27</p>
-          <p>1995-12-07 1996-01-31 1995/96:48 1996-01-31 1995/96:48 1995/96:148</p>
-          <p>1995-11-09 1995-11-22 1995/96:27 1995-11-23 1995/96:28</p>
-          <p>1995/96 UbU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199596/reg_199596_UbU/reg_199596_UbU-001.pdf"/>
-          <p>DD)</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199596/reg_199596_UbU/reg_199596_UbU-002.pdf"/>
-          <p>Nr UbUS Invandrarundervisningen Utskottets justering Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnhummer</p>
-          <p>Nr UbU6</p>
-          <p>Utbildning i Sverige för utlandssvenska barn och ungdomar</p>
-          <p>(prop. 1995/96:89) Utskottets justering Debatt i kammaren Protokollsnhummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse</p>
-          <p>Nr UbU7 Tilläggsbudget m.m. (prop. 1995/96:105) Utskottets justering Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse</p>
-          <p>Nr UbU8 Kvalificerad yrkesutbildning m.m. (prop. 1995/96:145) Utskottets justering Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse</p>
-          <p>Nr UbU9 Lokala styrelser med föräldramajoritet inom skolan (prop. 1995/96:157) Utskottets justering Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse</p>
-          <p>1995-12-07 1996-01-31 1995/96:48 1996-01-31 1995/96:48</p>
-          <p>1995-12-12 1996-01-31 1995/96:48 1996-01-31 1995/96:48 1995/96:149</p>
-          <p>1996-03-14 1996-03-27 1995/96:76 1996-03-27 1995/96:76 1995/96:194</p>
-          <p>1996-04-18 1996-05-02 1995/96:89 1996-05-08 1995/96:93 1995/96:224</p>
-          <p>1996-05-02 1996-05-22 1995/96:97 1996-05-23 1995/96:98 1995/96:259</p>
-          <p>1995/96:UbU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199596/reg_199596_UbU/reg_199596_UbU-003.pdf"/>
-          <p>Nr UbU10 Huvudmannaskapet för gymnasial utbildning, m.m. (prop. 1995/96:183) Utskottets justering Debatt i kammaren</p>
-          <p>Protokollsnummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnhummer Riksdagsskrivelse</p>
-          <p>Nr UbUl1l1l Tillträde till högre utbildning m.m. (prop. 1995/96:184) Utskottets justering Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse</p>
-          <p>Nr UbU12 Riksbankens Jubileumsfonds verksamhet under år 1995 (redog. 1995/96:RJ1 och redog. 1995/96:RR6)</p>
-          <p>1996-05-09 1996-05-23</p>
-          <p>1995/96:98 1996-05-29 1995/96:101 1995/96:265</p>
-          <p>1996-05-09 1996-05-23 1995/96:98 1996-05-23 1995/96:98 1995/96:264</p>
-          <p>Utskottets justering 1996-05-09 Debatt i kammaren 1996-05-22 Protokollsnummer 1995/96:97 Riksdagens beslut: Bifall till utskottets hemställan 1996-05-23 Protokollsnummer 1995/96:98 Riksdagsskrivelse 1995/96:260 och 1995/96:261</p>
-          <p>1" Riksdagen 1995/96 14 saml. Register</p>
-          <p>1995/96:UbU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199596/reg_199596_UbU/reg_199596_UbU-004.pdf"/>
-          <p>Yttranden</p>
-          <p>Nr UbUly till FiU Försäljning av vissa högskolefastigheter vid Chalmers Tekniska högskola i Göteborg, m.m. (prop. 1995/96:66) Utskottets justering</p>
-          <p>Nr UbU2y till FiU En politik för arbete, trygghet och utveckling (prop. 1995/96:25) Utskottets justering</p>
-          <p>Nr UbU3y till KU EU-frågornas behandling i riksdagen Utskottets justering</p>
-          <p>Nr UbU4y till SoU Tillsynsansvaret över skolhälsovården (prop. 1995/96:176) Utskottets justering</p>
-          <p>Nr UbUsSy till TU Åtgärder för att bredda och utveckla användningen av informationsteknik (prop. 1995/96:125) Utskottets justering</p>
-          <p>Nr UbU6y till FiU Den ekonomiska vårpropositionen m.m. (prop. 1995/96:150 och prop. 1995/96:105) Utskottets justering</p>
-          <p>Nr UbU7y till FiU</p>
-          <p>Vissa åtgärder mot arbetslösheten, m.m. (prop. 1995/96:222)</p>
-          <p>Utskottets justering</p>
-          <p>Nr UbU8y till FiU Utvecklingen inom den kommunala sektorn (skr. 1995/96:194) Utskottets justering</p>
-          <p>1995-11-14</p>
-          <p>1995-11-30</p>
-          <p>1996-04-16</p>
-          <p>1996-04-23</p>
-          <p>1996-04-25</p>
-          <p>1996-05-15</p>
-          <p>1996-06-26</p>
-          <p>1996-08-27</p>
-          <p>1995/96:UbU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199596/reg_199596_UbU/reg_199596_UbU-005.pdf"/>
-          <p>Sakregister ALF-medel ANVÄNdNIiNgeN AV osserresressrerrerrereenresnresreseerernesrerersesrerer ers renen r ennen ennen renen enar 6y Alkohol, narkotika och tobak (ANT) ........ssssrsssessssssrrsrrsrsrssesensssenesssresrrrrrran 3,4 Allmän behörighet, se Tillträdesregler Antagningsordning, lOKal sssmsssssssssssssssrersesrsreresesesrsrseneserererrrererererrrrrnen en en enn nn 11 Arbetsliv, undervisning OM ssssssssssrssrsesrsessrererrersreresrsrerseresrersrerrer enn es rs rr reser rerna nn 3 Arbetslivserfarenhet som urvalsgrund vid ansökan till högskOlanl........sssssssssessrssrssrrrsserrsnrsnnnnr 11 Arbetsmiljö I SKOLA ao esessresesesrsrrsrsresrsresreresreresrer rer esr ere er en een enes er enas e reser sne e enn n sen enar ena 3 Arbetsplatsförlagd utbildning a .......sessesssrssrsersrreserreresrsrerenrrrsrsrrsrrsrererrrr rn rn nr na 8y ArbetsterapeututbildDilg s...ssssssssssssrssrerssrsrssnesrsrsrsrsrsnsesernererer ere er rsn snaran ene nnn anna 4 Aspirantutbildning för arbetslösa akademiker s.......ssssesssssersrssrsrrsrssrsrnerrsrrrnrnn 6y Avgifter i högre UtbildDingQ.....ssesseeserserssrrerrerrresrerseeresrersrerereres renen ere rar er nere rr renen ere nn nan 4 SKOLIMÅItider oooossssrererrererrererrerererrerrersrerererrereresereserersr ers rens rr er ease rr sne renen enn nn 3 Avskiljande från högskoleutbildning..........ssssssssssssesssereresesesrsrsrersenesererennrnnn rn 11 Barntillägget I SVUXA s..sssnssessesresesreresrernesresrereresrsrsrsnersnsese renen enes n aren arenan enar n en en Ty Basår inom KOMVUX osseseesrerresresrsesrrerrerrernresrresrerrerrsrrsreresrsrerer es rsrer ense renen renen en ennen 6y med social inriktning fÖr Män ....esessesssssrssssrsrrrssrsrsrsesenererrrn eran en enar n nn nn nn 6y på fOlKhÖgSKOla....ssssssresesesesesesesesreresesesererererrrsenersrn ense ennen en arenan ense en en en enn Ty [154 0152 816 2 RANA 6y Betyg KOMPICtteriNg2 oosoosssesreesrreserresrresrrsrrrrrssrrsrrrrrrrrsrerrsr rer rer es rer r enes rr rer n ennen rna na Ty Bidrag till viss verksamhet inom det kommunala skolväsendet m.m. ANSIAG till oososssssrssesrresersrrerrerrerrsrrsrrrerrerrerrrrrer ere r ere reser sne reser renen ere n ennen nn 6y BIiSYSSIOL oossesrsrsssrsresresrsrnrereesrrsrsrerrerrerrsrrrsrrerrrrsrsr renen aren ss esse res K Rare r rese een ene nerna 6y 33 [016 421 9513 (5) VAA 3 Chalmers Tekniska högSKkOIla s...sssssssrssrsresreresrsrereseserserserrrsrseserenrnrerererererennrn erna ly Dansutbildning i GÖLEDOLG oosrererererrsrsresrerrerereenereererrer renare ren arean ene er enar enar ene n enes er enes n arenan era enn 4 Databas för forskningsinformatiOn M.M. s.e.sesessssssssseseseseseserrrrrrerer aren enn nn nn an Ty I DT:1700 415) SRA Sy DistansutbildniNgQ......sssssesssrsssrssrssresessrsresresresrersreresreresesrsrer enes ner enn ennen en en ennen rena 5y Donationsfastigheter.........ssessessssrsresrsnrenesrersnesesnsnenerensrser een er ere es renen enar aren n enar en 4 Dyslexi 185 816 (3 8816 655.805 8 62 3 utbildning och fortbildning av lärare s..sssmssssssssrssrsersrsrsrrsrrsrrsrrrnrernner nr nr rann 3</p>
-          <p>1995/96:UbU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199596/reg_199596_UbU/reg_199596_UbU-006.pdf"/>
-          <p>Eftergymnasial utbildning</p>
-          <p>kvalificerad yrkesutbildning s.....sssssssssssssssserrsrsesrenernernesnrrnrrnrrnrnn rn nr 8, 2y, 6y Ekologiskt byggande och kretsloppsanpaSSniNg......ssssssssesssesresrsrrrsnenernssrsnernsn 4 Entreprenad, uUnderViSDilg...esemssssssssessssrseseseseseresrrneneresneneresrsrerrsrerrrnen nen en rna 8y Etik i högskoleutbildning och forskning s....sssssssssssssssssrrssrssrsrrsrrrsrsnrrrrerrrrrrnrnnr 4 Etikfrågor, UNderViSDilg s..mssssssssssesrersesrsrsrsesesersersesesrsrsrerererrer er ner er rrren ennen ers nr nn rna 3 EU-frågornas behandling ......ssssessssssssesresessesesrsererreserresresrsrrsrrsrrrr ner rer rs nen n rn ana 3y Expansion av den högre utbildniNngenD.......ssssssesssrssrsersrrsrsrrsrrsrrrsrrsrrsrrsrrsrrrnrnn Ty Fakulteter studier över fakultetsgräNSelNa s..mmmsssressssrssrsrrrsrrsrrerrnrsrrrssrrer rer rr rr rr rn n rr rn nen 4 Folkhögskolan omfördelning av medel från KOmvVUX till s.ssssssessssesesrssesesenrsenrnrnsnnrnrn rna 6y Forskning Riksbankens Jubileumsfonds stöd till ViSS..............ssssssssssssssssrsrsrorrrrst 2,12 ForskningsinformationSSyStelm sm.msmsssssssssssessseseresrsrsnenesernenenrsnernsner ennen ennen eran Sy Fristående skolor ansökningstid för bidrag s......ssessersrserssrsrsrsrseserrrrrrernenrsrererrrr arne er nrn enn rn ennen eran 1 ombildning av skola under lokal styrelSe..........sssssesssssssrsesrssersnssersnnsrnrsrrnn 9 Fritidsverksamheten, ansvaret fÖr s.......sssssssssesrsresesesrsrsssresrsresrsrnererneresnennrnernrn en 3 Funktionshindrade | läromedel oosossseresreresrereresrerrerersrererrereresrersrsrs renen enes arr en enes es eken e nee narr ennen anna 3 möjligheter till högre utbildning .......sssssesssssssssrsresnrsnesrnerrrsnernernern enn nn nn n nn 11 Företagande [114058 [61955 9 €240 VR Ty Företagarutbildning.........sssssessossosseseeseesersesrersesesresrrrernerrsr rer rsn renen nera en anna 3, 8, 7y Förskolan [319 VET Sd 0 Br 3 Förskollärarutbildnilg s.smssmssrserserssrrssresrsereresrsrerrsrersrsrrnrrs rer ere rer r renen enn ren ne nen nn +</p>
-          <p>Föräldrainflytande försöksverksamhet med lokala styrelser i grundskola och</p>
-          <p>SÄTSKOlA ooossresssrerrerseereresrererreresrerrerererrer es er enes enes r er rer enes aren e ar esse nens en anser ennen en nn 9 försöksverksamhet med utvecklingsstörda barns skolgång...................... I Grundskolan lokala styrelser med föräldramajOritet ............ssssssessesrsrererrsesesrrsesnnrenrrrrnnnnt 9 [8 (0757 8 62 Ar 2y Gymnasieskolan | €218 8E1 901815) 8 VR 2y Gymnasieutbildning regler för anOrdNanCC.....sssessesrsereeresresrsrsesrsresreresrsrrsresr senere sne rss nerna ennen a 10 Hemspråkslärare utbildning och fortbildning aV ssemsssssssssrsrsrsrsrssrsrsrsnesesrsnrsnen renen renen enn rn ena 5</p>
-          <p>1995/96:UbU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199596/reg_199596_UbU/reg_199596_UbU-007.pdf"/>
-          <p>Hemspråksundervisning</p>
-          <p>hemspråkSCheCk ........sssssesssesesrssesesresrsrnesresersreresesreresren ner ernsn sn nar ene en rasen en enn 5 FÄätten tillossssssssssssssrrssresrrsrrerrrrsrrnrrernnrrrrrr rr rr rer rrr ere r rer n ers n rs sen ers ene e sne enes nn 5 ÖVETISYI AV oososeeresresreseeseeresresresreresresrrerererrrsrrrsres rer ser rer n erna ess enes enar eran en enar n nn 5 5 BEN £0) 5 CR 3 Humanioras VillkOr ossssssssssrsrssesreresesesesresrersesresrrenesesren eran rsr ers r sn srs nn sne en en renen enn 4 HushållsvetenSKkåapP ...ssmmssssrsresreseeseeresreseesererererersrsrsrrsrrsrrsrrrrrrrrrrrere rer rrr ene n er er eran en 4 Huvudmannaskap för gymnasial utbildning. .....ssesssssrserrerrrsrresrrerrersrernrsrerrrrrrrrener ennen enar eran en ena 10 för vVårdhögskOlOINa......sssssssssssseseereererrerresrererrererrsresrerrrrererereren ere n renen en nen enn 4 högskolor med annan huvudman än Staten .......sssssssseessersrrsrsrrsrserererenrnnnnen 4 Högskolan samarbete med näringSliVCt.....sssssesserssrresrresrerrerrsrresrrerrerrsrrrerrresrrnen senere nen Ty satsningar vid mindre och medelstora högskOlOr...........ssssssssssesssssssnerenen Ty utbildningssatsningar INOM s.ssmsssssrsrserserseresrsrersesrsrersreresrsrerener rn sn sanera en rn nan Ty Högskolan i Jönköping (se Stiftelsen Högskolan i Jönköping) Högskolans avskiljandenämnd s..msmssssresreresresrenrenesesrernesrsnrsrererenererersnsnn eran enn nn 11 Högskolefastigheter fÖrSäljNiNg AV sssossrssesresrersesrseernesresesrrerersrresn rer nernerrer nere ere enes ennen e een renarna ly HÖgSKOIClaAgZeN oossosresrsresrsrsrerereseererereresrenrererrrerrsnererrer er en ennen een ene e senere n enn 7, 11 Högskoleprovet för dyslektiker s..sssssssssssrsrerersesesrsrersesresrrsrrrerrrrrerenesrrr arne nsn en en sn sanne en erna 4, 11 SOM UTFValSgIUNA sossesrerssresresrersesresrerersrrenrrssn rer rer enn err rer n ene ea renar nen ene en enes nn 11 Högskolornas internreViSlOD.....sssssssssersrssrssrssessesrernenesrsnesrersesesnsnner ennen en anser enn 6y ICFOTt ooooseresesrererereerereresrererenrerererrrsrsr en ren rsn ennen earn ene e sne nana n enar e Ren en ansa Ran earn nan 3 Information skolans tillsyns-, uppföljnings- och utvärderingsarbete....................e 3 Informationsplikt för högskolorna om deras utbildning .......ssssssssssrsrssrssrsrerrsrressnsrnrnsnnrnernnnnn nn 11 Informationssystem på utbildningsområdet .........ssssssssssrsssrsesrsresrsrssrnrnnrrsnnnnn 5y Informationsteknik (IT) [6 E 170) 805) RAA 5y för INVandrareleVel...ss.essesersersresrssreseresrrssrrsrrsrrsr rer es res renen een enar e een nen arena 5 i skolan, Strategi fÖI s..ssssssesessrsrsrsrreresrsrrsrrrresrrrsr een es nere er renen enar en rn senere n en 5y i utbildningen på alla NiVÅGL sm.ssssessssrsrsrssrsrsrsrsesrsrrrrrenerensen en senere rn ennen enn 2y IT-KÖLKOIt ooooreseeesererresresrreesresrrsrsrrsrrrssrrrenrsrrrrsrrsrrrsr rr rens renen es rerna nere ennen nn 5y lärarutbildning s.msosssssessssssssrsresrssresrrsnersrrrsr rer rer renare rerna renen snara annen eran enes en 5y läromedel, IT-baserade ossmmssssrssserrrrssrererrrrresrrrrsrrrr rss rr rr ere rer rer n ennen ennen nen 5y Skoldatanätet ..sssmsssssrsrssresresresrerrsressresersrsrrsrrerrerrer ene rer er res esr enes es krk en nen en anna 5y (0355 244 NRA 5y utbildningsorganisation i Norrland med hjälp QV......sssssssssssssesessssenesenenn Ty ökad användning AV sssssssssssrssrsressrerersrrsrserersresrrsreresr rer n erna rsn enar renen arenan anna Ty Interkulturellt synsätt UNdETViSNING oossosssresreresresresrersrererresrrrr res rer rer rer enes r rensar enes e nen earn eran arenan en enn 3</p>
-          <p>1995/96:UbU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199596/reg_199596_UbU/reg_199596_UbU-008.pdf"/>
-          <p>Invandrare högskoleutbildning fÖr....sssesssssseersrssrsrssrsssrsrsrserrnererrererserrrresrrrsrsr ere rr r renen a 11 JämStälldhet osssssssssssersrsesrseseseserersrersrsrsrsns reser ee rr rr er ene n rer A RARE Rasa RARE EES Ae an 2y Kompetenskonton (se även UtbildningskOntON)............sssresrssrsrsssrssessresnssiren in 8 Konfessionell UNderVisnhilg sm mssssssssssssssrsrsrssrsrererernerenererrrer ere ersrsrs rer rss orena 3 Kost, UNCCrViSDiNQ s.ssssssssrsrsreseresrsrsrererrereneresrsrenrrnrrrereresrrnsn ers n es ere e rs e sars nens enn 3 Kvalificerad yrkesutbildning CiMENSIiONCIING sosssssesrsrsrerereersrereresrerereresrsrerrsrer rare aren ene r ene een nana enar ena Ty Kvalitet i Utbildningen s..emsssssssrsrsrsreresrerereresrsrernesrrrrsnenerrrnsn rs rrn ere ennen nen enn 6y, 7y Kvinnliga fOrsSKare sssssssssssrsrsrsrsesersrsrersrsrsrsrsrrersernersesrsrersrsrr ere rer rrr seen en enar n enn 2,12 KVinnOfOrSKNilQ ossssssssrssrssrsrsrssrsersrsersrserersrrrsersrsesrsrn ense er sr ser ense enn ense ene n nen nn 12 KörkortsutbildninQ.....sssssssssrsreresrsrsrernesesrernereseserrsrnrsrerrsrerernsr ere rr senere arr an een n nen en 3 Landstingen gymnasieutbildNiNZ.....ssssssessrsrsrerenesrsrnernesrsrsrsrrsresrerer er erren ennen enar een en en ann</p>
-          <p>interkommunal ersättning Lokala styrelser med föräldramajoritet inom skolan,</p>
-          <p>försökSVerkSamhet s.ssssssrsrsrsrsrseresrsernerersrsrresrsrsrenerersr ens renen aren rer een en ene en en en a 9 Lundsbergs SKOIA s.sssnssssrsrsrsrssrsrerererseresrsrersesrsrererrrrrr renen rrne senere rese Arn ene enar een nn 6 Läkarutbildning PSYKiatriämnDNet dossossssssrsrsrsrsrsesesererrrererersrsrresrsrsrersrer ers nns nr r rr nee een brer en ena 4 Lärarutbildning 187283 00 5 VR 5 IT-aNVÄNdDiN Gas osesserersrerserrersreseresrerererrsr een ererr ennen er ern sne e ene er senere enar e nanna 5y Lärlingsutbildning s.sssssssssssrssssesrsrsrerseresrererserrsrsrsr ere rn rsner er ennen ere ene ennen eran ennen 2y, 7y Läromedel funktionShindrade sm. omssssssssrsserrsrsrrrsrsrsrsrrrrnrrrrrsrsrsns nere enes ennen enar en arenan en en nn 3 IT-baSCrACO ooosessreserersrsrsrsrsrsrsrrererererersrsrsrs enes errsrer rr sr rss r rn rs rss n raser ene e nan en 5y Läsåret 105423 [38 00) 3 Malmö utbyggnad av högkoleutbildning i m..sssssssssrsrssrsrssrrrsrssernsrersesrersrerrrn renen en 2y IN [Ze VEN IT 915 55 0 BR 3 Miljöområdet UtbildningSinSätSCi sssssssssssssrsrsrsrsrsrsesrsrsrrsrsrerererer enes een ere er een ene n renen n en ennen 4 Motionsidrott SJ 5016 (23105) 8 3 TVR 4 Mänskliga rättigheter ....sssmssssssssesrsrenenesreresesesrsrsrerrsnerrenerer renen rrn ene esn ene e nana r nn nn 4 Nationell SKOIPCNQ sssssssssrsseresrerrerseeresrenrsrsreresrererrrnrrsr reser rer rr rer rr renen ren ren ana 6y, 7y Nationella POV s.smsssrssrssesrserresrssreresrsrsrerreresresrererrerrrr sees ere reser ene een te senere rann nn 3 Naturbruksutbildning.......ssssesserssrsrserssrsneernrsrersesresrrerrersrererrrrrrr rer n ennen nen nen nn en 3, 10 NaturkunSKåaP.....ssssssssrsssesesesesreresesrererersesrererersesrsrsresraresrerer eran enar nere t Rn ene n rn ene n nen 3</p>
-          <p>1995/96:UbU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199596/reg_199596_UbU/reg_199596_UbU-009.pdf"/>
-          <p>Naturvetenskap och teknik</p>
-          <p>platser i hÖgSKOlAN s.ssssssssssssssrersesrsesereseresrrsrsreresrsreresn renar esn enar ennen arne ennen en nn 2y Näringslivet samarbete med högskOlanD ......ssssssesserssesrrsrresrsrrresersrrrsrrsrrsrrsrnrrnrrrrrrnernrnn nns Ty Nätverksuniversitet vid Novum i HUddiNge sssssssesrerssrssrrsrrrerresrersrerersrsrrrrerrsrrrrsr er rer resan ern ere n rena 2y Ortopedisk MediCih.....ssssseosssssrsrersersesesresresrrrsrsrernerrsrserrrrsr ene er eran eran arenan enes en ennen 4 Praktisk-estetiska äMNeD....ssssssssssesreseoresresresesrsrsrsrsrsrsnereres es nsr eran er ense ennen n nen 3 Påbyggnadsutbildningar s...sssessessssrsrssssrrsrrsresrsrerrrsrrrerersersesrsrsrsr ene es ere seen sn renen 8</p>
-          <p>Riksbankens Jubileumsfond, Stiftelsen</p>
-          <p>stöd till Viss fOrSKNiNQ....ssssssssrssresrsseressresrerrrreresrerserrrrrenerrrrrrner renen renen enn 2,12 VErkSamhet.ossssssssresreresreseerseeresrersrersrerrresrrsrrerreres enes een ere n es nen een e sn enar e enes enn enn 12 RiksinternatsKkOLla s..sssssssssssssrssrsssresessesressressresrrsresrererserrersesrersreresnerner ennen er ern es en en nn 6 Rinkeby internationellt utbildnings- och kulturcentrum i ...ssssssssssssserssrsrrsrrrsrerrnnn 4 Samverkan mellan högskolan och näringSliVet........sssssessssssssesesrsrsrererersnenesersnn 4 Sex och samlevnad UNdEeTViSDiNG I osssosesrssesresrerrereeresrerrenrrsnrrsrrerrsrererrer ennen ern ere r ennen nere senere rena 3 Sjöfartshögskola en fristående SVENSK.....s.ssesssrsrsrsesesrerserrsrerersrsrsenersrsenerersrsrnen eran en rn senere enes 4 Skoldatanätet s..ssnmusssrssrsrrersererseerreresrsrrsrsresrrrerrerrererrrrer reser enes ren ennen renen en ene n ennen 5y Skolform VAL AV oosoesseerrereerrrerrresrerresrsrrsrrsrrrrrrrrrrr rer rrrrr enn rsr rn ess reser n rss n eran enes ennen renen 1 SKOIZåÅIdAN soo essrsersersrersrsrsesesersererererersrersrenerrenerenensenen ansa een en ense e rese en anses en en anna 3 Skolhälsovård tillSynSanSVaret fÖL........ssssessersrssrssreeerrssresrrsrsrererrer ennen eran renen ren ren een rrn ennen a 4y SKOIhälSOVåLId oosoossssrsrersrsesererrernesesrereresrerreresrrrrereseserereser rs reser eran enes n sr en aren snaran rna 3 Skollagen huvudmannaskap s...sssssssssserssrsrsesseseressrssresresrerersesrerernerrsr ennen ennen renen renen enn nn 10 interkommunal ersättnilg ..msssssssserserersrrssrsrrrrersrrreresrrsrrssrsrresnr ennen ennen nn 8, 10 riksinternatsKOLa...........ssesesssessesesorsssrsssrsnrersesrnersesrsrsesrerrsreresrerrer renen ernsn er rrn erna 6 skolplikt, enhetlig DenämnNiNg......sssssesssssesssesssesersssesesesesesrsnsrer ene er enar en nn en l utlandssvenska elevers utbildning .....sssessssssssssssssneresesesesnrnenerrrnsnsnsnrnsnennnn 6 Skolledarutbildning s...ssssssssrssresrersrerssrssrresrrerrersreresrsrererrerrrrer nere nen er renen ene n ennen nn 3 Skollokaler Utnyttjälde AV oossmesrerssrsrerereseerereresrrrrsrerrersrsrererer enes ere es een enes er ers enes ens n en en en enn 3 Skolmåltider FNV6 23 00 3 Skolpeng nationellt SKOIlPeNgSSYSteM ..smnssssrsrssrrsrnsserrrrssnsrrrsnsrereresesesrrren ere rn nn nn 2y, Ty SkuldsaneringSrätt s...sssssssssrsssrssssresrsrssrrssrrrerrrresrrsrrsrrrrrsr rs reser rs rerna rr rer sn rn nr nen 4 Sommaruniversitet/sommarhögSkOIla.........sssssssessssssrseseseresesrsrsnrrsesrsrsrsrsrersr ent 6y</p>
-          <p>1995/96:UbU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199596/reg_199596_UbU/reg_199596_UbU-010.pdf"/>
-          <p>Statens skolverk</p>
-          <p>tillsynsansvaret för SKOIhälSOVården ..sssmssssrsrsrsrsrsrsrsrerrrerrrsrersrnnren en en eran 4y Stiftelsen Högskolan i JÖNKÖPING s..ssssrsrsresesssesesrsresrsrererrsrnrsrernerrsrsn er errrnrn enn n en Ty Stiftelsen Riksbankens JubileumSsfONd s..ssssssssrerrerrsrssrssresersrrenresrsnrsnrsnrrrn nt 2,12 Stockholms län utbyggnad av högskoleutbildning i....sesssssssessesrsrssrsrrsrsrsnerernerneresrrnenen ena 2y StudenthälsOVårA smesssssessesesrssrsrssrsrrsrsrsrrsrrrrsrrser er sne ers renen ennen ennen enar ennen enn enn Studerandeinflytande Studie- och YyrkesOrienteril2 ...sssesssssrerrersrrsrerrerrsrsrrresrrrrrsr ren rs rer rer esse n enn n en nn 3 Studiehjälp m.m. ANSIAZ till oosooossssrssreseeresresrerreresrsrrerrrresrerer ere er rrn enes ers rs reses rensas er renen ena 6y Studiemedel ANSlag till ossoosssssessrersrerersesrsrerersrsesrererer ere srsnsr en ere snarare rn arenan ennen era s snaran nr n rn enn 6y Studiestöd (se även Utgiftsområde 15). ......sssssesssrsrssssreresesrsesererrsesrsererrrerrr rna 6y SUNET sobrorsrsrsresresreseeresesrsrererseererererersrsrereresrsrsrsrerrsr ere nere s en ers ere nere r eran enes r ennen 5y Svenska EU-programkontoret för utbildning och kompetensutveckling ANSI till ooooosssssssssrssesresrsrsesrsesresreresrrsresr ere rer er reser enes er near r en er rena nere r renen enn 7 Svenskundervisning för invandrare (sfi) [6 (2170) (TT 016 RA 5 MÅLEN fÖLoeorssrerreresrerererrsrerererrsrsrererrerenereren een ere e renen ern ere reser ene er renen eran en nan 5 OMfattning i tiClssmosssssssrsrsreresresrersesresresrerrsrsrerrrsr ere rer rer re nere sne nere narr r renen en 5 UtbildningSCheCk ....sssssessssesesrerrererresrersrerersrsresresrerrer rer rss renen rens ene ennen ennen ena 5 utvecklingsCentrum fÖr sssssssssssrssrsrreresreresrerrersrsrrsrerrrnrerr ennen essensen ner renen ene nn 5 UtVärderilg AV ssssseessresererseresresrrernresrrsrrerrrsrrerrrrrrerrrrr rer r rer r er n ner r enn rer nrn nn r narr nn 5 Svenskundervisning för inVandräle ...smsssssrsrsrrsrsersrresresrrrrrsresrrsrrrrerrrnen nen Ty, 8y Särskild skolplikt slopande av begreppet.......ssssssssssorssrsrrsrsnesrersrersesnesresnesr rer renen renen ennen ene n nr 1 Särskilt utbildningSbidräag......ssessesrssrsersersersrerrsresresrsrrsrrsrrsrrsrrrr rer rrr rn ennen renen nn Ty Särskilt vuxenstudiestöd för arbetslösa (SVUXQ)........sssererersersreserrsersersrererrenrr Ty Särskolan betygsskalan i.ssnssrssssesesrsrsesesrsrsreresesrenerereresesrererserren er rsn een n aren n ene en nn aren ennen 1 klassplaCering iMODM smsssssrsrssssssesrerersesesrsrsrereresrsrer ere ren ennen ennen een ns renen nn aren enn 1 lokala styrelser med föräldramajOritet ........sssesesrssrsresrsrrsrersseserrernenrnrrrerenena 9 Teaterområdet utbildning för tekniska och administrativa yrken iNnOM ......seeeeesmmemsrmrsn 4 TECKENSPrÅKooosossesrssesresesrsrereseereresesrsrerersrsrsrersrererrsrss ere rr renen r ere rr enes n aren een n aren enes 3 Teknisk orientering i högskoleutbildningen s..sssessssssrsssresesrserrsrersesesrsresrsrsrerr enes n nn enar n enar er annan na 4 Tillgodoräknande av kurser inom kvalificerad yrkesutbildning........sssssssssssseseresesensnenenenennnnr 8 Tillträdesregler till högskolan arbetslivserfarenhet....sssssssesssrssreresresrsresrererrrrrrr ner rr nrn nere nere ken ern ren erna 11 funktionShindrade sssssssssssrerssesrsrersrsesesesrsrsreresesnsnenerrsnen renen erns renen sne ren r rena 11 grundläggande behörighet..........ssesssesesssseseseseserereresrrrnenernsnsnnrnrrrrerenenen rn nn 11</p>
-          <p>1995/96:UbU Reg.</p>
-          <p>10</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199596/reg_199596_UbU/reg_199596_UbU-011.pdf"/>
-          <p>högSskOleprOV svsosseressersersreseresrerrrsrrssrresresresrrsrrrrr res rrer rer re resans nn ene n sn ren n nn 11 INVANdLALe oosessresrresereerreerrreererrenrrerrrrrrerrrr rer rerrr sr rer rern ren rrn sen r ennen enn nen 11 lokal antagningSOrdniNgQ......ssssssrssrsrsssrsressresersnrrsrrrssrrsnnerrrernr enn n nns nn nn rn rena 11 standardbehÖörigheter........ssseseeserrersrersrrrsrerresrrerrrsrrrrrrrrrrrrr rer sen r rer n enn rn nan 11 särskild bDehÖrighet......ssssesssesessssrsrereerrerrsrresrrerrrsrrrrrrrrrrrrrrrrrrrrnr rr nr r rn nana 11 Särskilda POV sssssssssssssssrsssersrsrsrsesrresrrerresresersnrrerr rss n rss n rr res rer renar reser n rn enn 11 UTV oo os esresrerrerrerrersrersrsrrersresrerrsrerrerre rer r ere rer reses reser ers renen sense rer ene renen ennen 11 Tjänsteorganisationen i högskolan .....sssssssssssssrsrsresrsnesrsrnereresnsnernenernsnerennnnnnn nn 4 Totalförsvaret UNderViSsning OMM sssssssesresrsreresersesesrererrsrsrsrsrsrrrrrsr enes ere rsr enes arr an renare annen enar 3</p>
-          <p>Undervisningstimmar, regler för</p>
-          <p>reglering i tiMplaNei......ssssesssessssesresesesesesesrsrerrsesrer ennen er erren enar ennen een nerna 3 Utbildningsbidrag, Särskilt...........ssesessssssssessssesssserssssrnerrerreserrnerrrsrrsnnrnrer enn enn nnn Ty Utbildningskonton Utbildningsplatser, totalt för perioden 1997—1998 =... .ssssssssssssrssesnennsnnnen 6y, 7y Utbildningssatsning, SärskilCl........sssssssssssesessesssssrsnsnresrerreresnesrrsrrsnnsnrer renen nt Ty Utgiftsområden utgiftsområde 15, beräkning AV s...s.sssssssesesssesrsrseseseneseseresernernenennsnsnsnnrnenenn 6y utgiftsområde 16, beräkning AV s....sssssssssssssrsrsssesrsresesrenesesrerern renen nen eran enn nn 6y Utlandssvenska elever begreppet utlandssvensk CleV.......ssssssssssssssrssrsssrsressrsresresresrerrsrsnesnrnnernrn eran nn 6 statsbidrag, utbildning i SVeIige semsssmsssssssrsrsresrsrnerrsrsnrsrsnsrerrsnesnenernsnsnrnenen 6 Utvecklingsstörda barns skolgång föräldrainflytande ÖVEeL sssssesssssesersrererrsesrrersesrerrrrsrsrrrrsrer enes renen annen n snaran annan nn 1 Utvärdering av försöksverksamhet med föräldrainflytande över utvecklingsstörda barns SKOIZåNg ....ssssssssrsssrerrererrsrsrerrsrersrrrsrsrnrererrrrerrnnn ennen 1 av försöksverksamhet med lokala styrelser med föräldramajOritCet ..ssssmssssessersrrsrerrsresresrrrsrerrerrerrerrsrrrr rer rsr rr rer res rens ene n enn renen 9 av svenskundervisning för inVandräare s.mmmsmesssssserersrsrsrrrererrnrrrenenrenenenen enn 5 10) [076] €21 451015) 8 VR kommunernas ansvar kvalificerad yrkesutbildning s.....ssssesessesesssssesersserernerererernernererernen ennen en en nns 8 praktisk-estetiska äMnNeD.....ssssesossorsorsrsresesresresresrersrersrerrsrrsrrsrrsr renen rrn ennen erna 3 SYO-fUDKtiONCh osssossesresererrereereresresrerrererersrsresrerrer een rs sees een rese nere ennen en een ennen 3 Valfria SKOlämMnNeD..sssssssseseesrerreserrereeresrerserrerer ennen ene r eran reser arr ern rer n ennen renarna nen nn 3 Valfrihet inom SKOLAN sssssssssrssrssesrsresrssrerrersrerserrrsresresrerrerrsr renen rrrr rss r ennen renen nn en 8y Verket för högskoleservice bibehållande som Myndighet s....s..ssersrsssrreresrrsrerrerrerrsrsrsrrsrrsrrsrnrrrrrr rer rrnnn en 11 Vetenskaplig orientering i högskoleutbildningen s..mmssssssssessesrsrsereresesrsrnenesrsresrsnereresrerrsn er ner ere nrn nn nn 4</p>
-          <p>Vissa bidrag till forskningsverksamhet ANSIAG till oooooessssssersssrrssrrrerresresrrsrrerrrrrrenrrrrn rer rn rer rsrrrR ers r ers ren rr rr rr rr ren n rn nn 17</p>
-          <p>1995/96:UbU Reg.</p>
-          <p>11</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199596/reg_199596_UbU/reg_199596_UbU-012.pdf"/>
-          <p>Vissa ersättningar för klinisk utbildning och forskning</p>
-          <p>aNSlag till ossossssssssesrsrssnsrerernesrereerererrenen essensen er renen ere renen ere een arena ene er nn rn enar nn 6y användningen av de s.k. ALF-medlen.......ssssssessesesssrerrrrrssernesersrserrnesnnnnrnr 6y Vuxenstudiestöd m.m. ANSlag till oosssssssssssrsesesressesresrrsrrsrrsresrrsr rer reresr rer ren rsr rer essensen ern renare ner ers ennen ena 6y Vuxenutbildning fördelning av statliga resurser mellan komvux och fOIkKbildning sossssesssssssesesesrerserrerrsrerererrererrrrererrererrerer rr re rensas srnss sn enes en ennen a Ty statlig SatsNing PåÅ........esesssssesssessssssesesesesrsrrsernerernnsrsrrerrrerrrrnrn sne en ens onen anor ana Ty Vårdhögskolorna [268104 CFR 4 fakultetstillhörighet..........sssssssssssssssrsresesrsrsresrersesrsrerneserrsrsrrrererrsnr ennen ene nn nen 4 huvudmannaskap fÖr........ssssssssssserrerssrsresrrrsrrsrsrsesrsreresrrrsrsreserrrrr er rrr senere rna 4 Vårdyrken osssssssrssssrssrerserssrseresrrerererserseserserrnrrsrsrsrsrsrrrerererer er er ers senere arenan eran eran en en nn 3 Yrkesutbildning inom hÖgSKOIlaD.....sssssssssssrssesrssesrerseserrerserrerersesresesreresnrnen ere ernrnenen aren ene nen en nnn 4 kvalificerad eftergymnaSial......ssssssesesssssossrnsnrnrsernernenerrnrnrer ennen rn nn nn 2y, 6y, 8 Överklagande av beslut om deltagande i obligatoriska MOMENt.......sssssssssrsresersersssrsnrsnnne 4 kvalificerad yrkesutbildning s...sssssessessssssrsrrrrresrssrrsrsrsesrersrsrrsrerernrrrernrerr ennen rna 8 Övriga utgifter inom grundutbildning ANSIAg till ooooosssseseessrsrrerrerrsrerrrrerrrrrrrerrrrrrrerrrsrr rer rrrer rr n rer r enn rr een ennen rr nr nn nn 6y</p>
-          <p>Gotab, Stockholm 1996</p>
-          <p>1995/96:UbU Reg.</p>
-          <p>12</p>
+          <p>
+            Utbildningsutskottets register vid riksmötet 1995/96
+          </p>
+          <p>
+            Betänkanden
+          </p>
+          <p>
+            Nr UbU1l Val av skolform för utvecklingsstörda barn, m.m. (prop.
+            1994/95:212) Utskottets justering Debatt i kammaren Protokollsnummer
+            Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer
+            Riksdagsskrivelse
+          </p>
+          <p>
+            Nr UbU2 Riksbankens Jubileumsfonds stöd till viss forskning Utskottets
+            justering Debatt i kammaren Protokollsnhummer Riksdagens beslut:
+            Bifall till utskottets hemställan Protokollsnhummer
+          </p>
+          <p>
+            Nr UbU3 Vissa skolfrågor Utskottets justering Debatt i kammaren
+            Protokollshummer Riksdagens beslut: Bifall till utskottets hemställan
+            Protokollsnummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr UbU4 Vissa högskolefrågor Utskottets justering Debatt i kammaren
+            Protokollsnummer Riksdagens beslut: Bifall till utskottets hemställan
+            Protokollsnhummer
+          </p>
+          <p>
+            I Riksdagen 1995/96 14 saml. Register
+          </p>
+          <p>
+            1995-11-09 1995-11-22 1995/96:27 1995-11-22 1995/96:27 1995/96:27
+          </p>
+          <p>
+            1995-11-09 1995-11-22 1995/96:27 1995-11-22 1995/96:27
+          </p>
+          <p>
+            1995-12-07 1996-01-31 1995/96:48 1996-01-31 1995/96:48 1995/96:148
+          </p>
+          <p>
+            1995-11-09 1995-11-22 1995/96:27 1995-11-23 1995/96:28
+          </p>
+          <p>
+            1995/96 UbU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199596/reg_199596_UbU/reg_199596_UbU_0001"/>
+          <p>
+            DD)
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199596/reg_199596_UbU/reg_199596_UbU_0002"/>
+          <p>
+            Nr UbUS Invandrarundervisningen Utskottets justering Debatt i
+            kammaren Protokollsnummer Riksdagens beslut: Bifall till utskottets
+            hemställan Protokollsnhummer
+          </p>
+          <p>
+            Nr UbU6
+          </p>
+          <p>
+            Utbildning i Sverige för utlandssvenska barn och ungdomar
+          </p>
+          <p>
+            (prop. 1995/96:89) Utskottets justering Debatt i kammaren Protokollsnhummer
+            Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer
+            Riksdagsskrivelse
+          </p>
+          <p>
+            Nr UbU7 Tilläggsbudget m.m. (prop. 1995/96:105) Utskottets justering
+            Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till
+            utskottets hemställan Protokollsnummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr UbU8 Kvalificerad yrkesutbildning m.m. (prop. 1995/96:145)
+            Utskottets justering Debatt i kammaren Protokollsnummer Riksdagens
+            beslut: Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr UbU9 Lokala styrelser med föräldramajoritet inom skolan (prop.
+            1995/96:157) Utskottets justering Debatt i kammaren Protokollsnummer
+            Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer
+            Riksdagsskrivelse
+          </p>
+          <p>
+            1995-12-07 1996-01-31 1995/96:48 1996-01-31 1995/96:48
+          </p>
+          <p>
+            1995-12-12 1996-01-31 1995/96:48 1996-01-31 1995/96:48 1995/96:149
+          </p>
+          <p>
+            1996-03-14 1996-03-27 1995/96:76 1996-03-27 1995/96:76 1995/96:194
+          </p>
+          <p>
+            1996-04-18 1996-05-02 1995/96:89 1996-05-08 1995/96:93 1995/96:224
+          </p>
+          <p>
+            1996-05-02 1996-05-22 1995/96:97 1996-05-23 1995/96:98 1995/96:259
+          </p>
+          <p>
+            1995/96:UbU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199596/reg_199596_UbU/reg_199596_UbU_0003"/>
+          <p>
+            Nr UbU10 Huvudmannaskapet för gymnasial utbildning, m.m. (prop.
+            1995/96:183) Utskottets justering Debatt i kammaren
+          </p>
+          <p>
+            Protokollsnummer Riksdagens beslut: Bifall till utskottets hemställan
+            Protokollsnhummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr UbUl1l1l Tillträde till högre utbildning m.m. (prop. 1995/96:184)
+            Utskottets justering Debatt i kammaren Protokollsnummer Riksdagens
+            beslut: Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr UbU12 Riksbankens Jubileumsfonds verksamhet under år 1995
+            (redog. 1995/96:RJ1 och redog. 1995/96:RR6)
+          </p>
+          <p>
+            1996-05-09 1996-05-23
+          </p>
+          <p>
+            1995/96:98 1996-05-29 1995/96:101 1995/96:265
+          </p>
+          <p>
+            1996-05-09 1996-05-23 1995/96:98 1996-05-23 1995/96:98 1995/96:264
+          </p>
+          <p>
+            Utskottets justering 1996-05-09 Debatt i kammaren 1996-05-22
+            Protokollsnummer 1995/96:97 Riksdagens beslut: Bifall till utskottets
+            hemställan 1996-05-23 Protokollsnummer 1995/96:98 Riksdagsskrivelse
+            1995/96:260 och 1995/96:261
+          </p>
+          <p>
+            1" Riksdagen 1995/96 14 saml. Register
+          </p>
+          <p>
+            1995/96:UbU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199596/reg_199596_UbU/reg_199596_UbU_0004"/>
+          <p>
+            Yttranden
+          </p>
+          <p>
+            Nr UbUly till FiU Försäljning av vissa högskolefastigheter vid
+            Chalmers Tekniska högskola i Göteborg, m.m. (prop. 1995/96:66)
+            Utskottets justering
+          </p>
+          <p>
+            Nr UbU2y till FiU En politik för arbete, trygghet och utveckling
+            (prop. 1995/96:25) Utskottets justering
+          </p>
+          <p>
+            Nr UbU3y till KU EU-frågornas behandling i riksdagen Utskottets
+            justering
+          </p>
+          <p>
+            Nr UbU4y till SoU Tillsynsansvaret över skolhälsovården (prop.
+            1995/96:176) Utskottets justering
+          </p>
+          <p>
+            Nr UbUsSy till TU Åtgärder för att bredda och utveckla användningen
+            av informationsteknik (prop. 1995/96:125) Utskottets justering
+          </p>
+          <p>
+            Nr UbU6y till FiU Den ekonomiska vårpropositionen m.m. (prop.
+            1995/96:150 och prop. 1995/96:105) Utskottets justering
+          </p>
+          <p>
+            Nr UbU7y till FiU
+          </p>
+          <p>
+            Vissa åtgärder mot arbetslösheten, m.m. (prop. 1995/96:222)
+          </p>
+          <p>
+            Utskottets justering
+          </p>
+          <p>
+            Nr UbU8y till FiU Utvecklingen inom den kommunala sektorn (skr.
+            1995/96:194) Utskottets justering
+          </p>
+          <p>
+            1995-11-14
+          </p>
+          <p>
+            1995-11-30
+          </p>
+          <p>
+            1996-04-16
+          </p>
+          <p>
+            1996-04-23
+          </p>
+          <p>
+            1996-04-25
+          </p>
+          <p>
+            1996-05-15
+          </p>
+          <p>
+            1996-06-26
+          </p>
+          <p>
+            1996-08-27
+          </p>
+          <p>
+            1995/96:UbU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199596/reg_199596_UbU/reg_199596_UbU_0005"/>
+          <p>
+            Sakregister ALF-medel ANVÄNdNIiNgeN AV osserresressrerrerrereenresnresreseerernesrerersesrerer
+            ers renen r ennen ennen renen enar 6y Alkohol, narkotika och tobak
+            (ANT) ........ssssrsssessssssrrsrrsrsrssesensssenesssresrrrrrran
+            3,4 Allmän behörighet, se Tillträdesregler Antagningsordning,
+            lOKal sssmsssssssssssssssrersesrsreresesesrsrseneserererrrererererrrrrnen
+            en en enn nn 11 Arbetsliv, undervisning OM ssssssssssrssrsesrsessrererrersreresrsrerseresrersrerrer
+            enn es rs rr reser rerna nn 3 Arbetslivserfarenhet som urvalsgrund
+            vid ansökan till högskOlanl........sssssssssessrssrssrrrsserrsnrsnnnnr
+            11 Arbetsmiljö I SKOLA ao esessresesesrsrrsrsresrsresreresreresrer
+            rer esr ere er en een enes er enas e reser sne e enn n sen enar
+            ena 3 Arbetsplatsförlagd utbildning a .......sessesssrssrsersrreserreresrsrerenrrrsrsrrsrrsrererrrr
+            rn rn nr na 8y ArbetsterapeututbildDilg s...ssssssssssssrssrerssrsrssnesrsrsrsrsrsnsesernererer
+            ere er rsn snaran ene nnn anna 4 Aspirantutbildning för arbetslösa
+            akademiker s.......ssssesssssersrssrsrrsrssrsrnerrsrrrnrnn 6y
+            Avgifter i högre UtbildDingQ.....ssesseeserserssrrerrerrresrerseeresrersrerereres
+            renen ere rar er nere rr renen ere nn nan 4 SKOLIMÅItider oooossssrererrererrererrerererrerrersrerererrereresereserersr
+            ers rens rr er ease rr sne renen enn nn 3 Avskiljande från högskoleutbildning..........ssssssssssssesssereresesesrsrsrersenesererennrnnn
+            rn 11 Barntillägget I SVUXA s..sssnssessesresesreresrernesresrereresrsrsrsnersnsese
+            renen enes n aren arenan enar n en en Ty Basår inom KOMVUX osseseesrerresresrsesrrerrerrernresrresrerrerrsrrsreresrsrerer
+            es rsrer ense renen renen en ennen 6y med social inriktning fÖr
+            Män ....esessesssssrssssrsrrrssrsrsrsesenererrrn eran en enar
+            n nn nn nn 6y på fOlKhÖgSKOla....ssssssresesesesesesesesreresesesererererrrsenersrn
+            ense ennen en arenan ense en en en enn Ty [154 0152 816 2 RANA
+            6y Betyg KOMPICtteriNg2 oosoosssesreesrreserresrresrrsrrrrrssrrsrrrrrrrrsrerrsr
+            rer rer es rer r enes rr rer n ennen rna na Ty Bidrag till viss
+            verksamhet inom det kommunala skolväsendet m.m. ANSIAG till oososssssrssesrresersrrerrerrerrsrrsrrrerrerrerrrrrer
+            ere r ere reser sne reser renen ere n ennen nn 6y BIiSYSSIOL oossesrsrsssrsresresrsrnrereesrrsrsrerrerrerrsrrrsrrerrrrsrsr
+            renen aren ss esse res K Rare r rese een ene nerna 6y 33 [016
+            421 9513 (5) VAA 3 Chalmers Tekniska högSKkOIla s...sssssssrssrsresreresrsrereseserserserrrsrseserenrnrerererererennrn
+            erna ly Dansutbildning i GÖLEDOLG oosrererererrsrsresrerrerereenereererrer
+            renare ren arean ene er enar enar ene n enes er enes n arenan
+            era enn 4 Databas för forskningsinformatiOn M.M. s.e.sesessssssssseseseseseserrrrrrerer
+            aren enn nn nn an Ty I DT:1700 415) SRA Sy DistansutbildniNgQ......sssssesssrsssrssrssresessrsresresresrersreresreresesrsrer
+            enes ner enn ennen en en ennen rena 5y Donationsfastigheter.........ssessessssrsresrsnrenesrersnesesnsnenerensrser
+            een er ere es renen enar aren n enar en 4 Dyslexi 185 816 (3 8816
+            655.805 8 62 3 utbildning och fortbildning av lärare s..sssmssssssssrssrsersrsrsrrsrrsrrsrrrnrernner
+            nr nr rann 3
+          </p>
+          <p>
+            1995/96:UbU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199596/reg_199596_UbU/reg_199596_UbU_0006"/>
+          <p>
+            Eftergymnasial utbildning
+          </p>
+          <p>
+            kvalificerad yrkesutbildning s.....sssssssssssssssserrsrsesrenernernesnrrnrrnrrnrnn
+            rn nr 8, 2y, 6y Ekologiskt byggande och kretsloppsanpaSSniNg......ssssssssesssesresrsrrrsnenernssrsnernsn
+            4 Entreprenad, uUnderViSDilg...esemssssssssessssrseseseseseresrrneneresneneresrsrerrsrerrrnen
+            nen en rna 8y Etik i högskoleutbildning och forskning s....sssssssssssssssssrrssrssrsrrsrrrsrsnrrrrerrrrrrnrnnr
+            4 Etikfrågor, UNderViSDilg s..mssssssssssesrersesrsrsrsesesersersesesrsrsrerererrer
+            er ner er rrren ennen ers nr nn rna 3 EU-frågornas behandling
+            ......ssssessssssssesresessesesrsererreserresresrsrrsrrsrrrr ner
+            rer rs nen n rn ana 3y Expansion av den högre utbildniNngenD.......ssssssesssrssrsersrrsrsrrsrrsrrrsrrsrrsrrsrrsrrrnrnn
+            Ty Fakulteter studier över fakultetsgräNSelNa s..mmmsssressssrssrsrrrsrrsrrerrnrsrrrssrrer
+            rer rr rr rr rn n rr rn nen 4 Folkhögskolan omfördelning av medel
+            från KOmvVUX till s.ssssssessssesesrssesesenrsenrnrnsnnrnrn rna
+            6y Forskning Riksbankens Jubileumsfonds stöd till ViSS..............ssssssssssssssssrsrsrorrrrst
+            2,12 ForskningsinformationSSyStelm sm.msmsssssssssssessseseresrsrsnenesernenenrsnernsner
+            ennen ennen eran Sy Fristående skolor ansökningstid för bidrag
+            s......ssessersrserssrsrsrsrseserrrrrrernenrsrererrrr arne er
+            nrn enn rn ennen eran 1 ombildning av skola under lokal styrelSe..........sssssesssssssrsesrssersnssersnnsrnrsrrnn
+            9 Fritidsverksamheten, ansvaret fÖr s.......sssssssssesrsresesesrsrsssresrsresrsrnererneresnennrnernrn
+            en 3 Funktionshindrade | läromedel oosossseresreresrereresrerrerersrererrereresrersrsrs
+            renen enes arr en enes es eken e nee narr ennen anna 3 möjligheter
+            till högre utbildning .......sssssesssssssssrsresnrsnesrnerrrsnernernern
+            enn nn nn n nn 11 Företagande [114058 [61955 9 €240 VR Ty Företagarutbildning.........sssssessossosseseeseesersesrersesesresrrrernerrsr
+            rer rsn renen nera en anna 3, 8, 7y Förskolan [319 VET Sd 0 Br
+            3 Förskollärarutbildnilg s.smssmssrserserssrrssresrsereresrsrerrsrersrsrrnrrs
+            rer ere rer r renen enn ren ne nen nn +
+          </p>
+          <p>
+            Föräldrainflytande försöksverksamhet med lokala styrelser i grundskola
+            och
+          </p>
+          <p>
+            SÄTSKOlA ooossresssrerrerseereresrererreresrerrerererrer es er
+            enes enes r er rer enes aren e ar esse nens en anser ennen en
+            nn 9 försöksverksamhet med utvecklingsstörda barns skolgång......................
+            I Grundskolan lokala styrelser med föräldramajOritet ............ssssssessesrsrererrsesesrrsesnnrenrrrrnnnnt
+            9 [8 (0757 8 62 Ar 2y Gymnasieskolan | €218 8E1 901815) 8 VR 2y
+            Gymnasieutbildning regler för anOrdNanCC.....sssessesrsereeresresrsrsesrsresreresrsrrsresr
+            senere sne rss nerna ennen a 10 Hemspråkslärare utbildning och
+            fortbildning aV ssemsssssssssrsrsrsrsrssrsrsrsnesesrsnrsnen renen
+            renen enn rn ena 5
+          </p>
+          <p>
+            1995/96:UbU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199596/reg_199596_UbU/reg_199596_UbU_0007"/>
+          <p>
+            Hemspråksundervisning
+          </p>
+          <p>
+            hemspråkSCheCk ........sssssesssesesrssesesresrsrnesresersreresesreresren
+            ner ernsn sn nar ene en rasen en enn 5 FÄätten tillossssssssssssssrrssresrrsrrerrrrsrrnrrernnrrrrrr
+            rr rr rer rrr ere r rer n ers n rs sen ers ene e sne enes nn 5
+            ÖVETISYI AV oososeeresresreseeseeresresresreresresrrerererrrsrrrsres
+            rer ser rer n erna ess enes enar eran en enar n nn 5 5 BEN £0)
+            5 CR 3 Humanioras VillkOr ossssssssssrsrssesreresesesesresrersesresrrenesesren
+            eran rsr ers r sn srs nn sne en en renen enn 4 HushållsvetenSKkåapP
+            ...ssmmssssrsresreseeseeresreseesererererersrsrsrrsrrsrrsrrrrrrrrrrrere
+            rer rrr ene n er er eran en 4 Huvudmannaskap för gymnasial utbildning.
+            .....ssesssssrserrerrrsrresrrerrersrernrsrerrrrrrrrener ennen
+            enar eran en ena 10 för vVårdhögskOlOINa......sssssssssssseseereererrerresrererrererrsresrerrrrererereren
+            ere n renen en nen enn 4 högskolor med annan huvudman än Staten
+            .......sssssssseessersrrsrsrrsrserererenrnnnnen 4 Högskolan samarbete
+            med näringSliVCt.....sssssesserssrresrresrerrerrsrresrrerrerrsrrrerrresrrnen
+            senere nen Ty satsningar vid mindre och medelstora högskOlOr...........ssssssssssesssssssnerenen
+            Ty utbildningssatsningar INOM s.ssmsssssrsrserserseresrsrersesrsrersreresrsrerener
+            rn sn sanera en rn nan Ty Högskolan i Jönköping (se Stiftelsen
+            Högskolan i Jönköping) Högskolans avskiljandenämnd s..msmssssresreresresrenrenesesrernesrsnrsrererenererersnsnn
+            eran enn nn 11 Högskolefastigheter fÖrSäljNiNg AV sssossrssesresrersesrseernesresesrrerersrresn
+            rer nernerrer nere ere enes ennen e een renarna ly HÖgSKOIClaAgZeN
+            oossosresrsresrsrsrerereseererereresrenrererrrerrsnererrer er
+            en ennen een ene e senere n enn 7, 11 Högskoleprovet för dyslektiker
+            s..sssssssssssrsrerersesesrsrersesresrrsrrrerrrrrerenesrrr arne
+            nsn en en sn sanne en erna 4, 11 SOM UTFValSgIUNA sossesrerssresresrersesresrerersrrenrrssn
+            rer rer enn err rer n ene ea renar nen ene en enes nn 11 Högskolornas
+            internreViSlOD.....sssssssssersrssrssrssessesrernenesrsnesrersesesnsnner
+            ennen en anser enn 6y ICFOTt ooooseresesrererereerereresrererenrerererrrsrsr
+            en ren rsn ennen earn ene e sne nana n enar e Ren en ansa Ran
+            earn nan 3 Information skolans tillsyns-, uppföljnings- och utvärderingsarbete....................e
+            3 Informationsplikt för högskolorna om deras utbildning .......ssssssssssrsrssrssrsrerrsrressnsrnrnsnnrnernnnnn
+            nn 11 Informationssystem på utbildningsområdet .........ssssssssssrsssrsesrsresrsrssrnrnnrrsnnnnn
+            5y Informationsteknik (IT) [6 E 170) 805) RAA 5y för INVandrareleVel...ss.essesersersresrssreseresrrssrrsrrsrrsr
+            rer es res renen een enar e een nen arena 5 i skolan, Strategi
+            fÖI s..ssssssesessrsrsrsrreresrsrrsrrrresrrrsr een es nere er
+            renen enar en rn senere n en 5y i utbildningen på alla NiVÅGL
+            sm.ssssessssrsrsrssrsrsrsrsesrsrrrrrenerensen en senere rn ennen
+            enn 2y IT-KÖLKOIt ooooreseeesererresresrreesresrrsrsrrsrrrssrrrenrsrrrrsrrsrrrsr
+            rr rens renen es rerna nere ennen nn 5y lärarutbildning s.msosssssessssssssrsresrssresrrsnersrrrsr
+            rer rer renare rerna renen snara annen eran enes en 5y läromedel,
+            IT-baserade ossmmssssrssserrrrssrererrrrresrrrrsrrrr rss rr rr
+            ere rer rer n ennen ennen nen 5y Skoldatanätet ..sssmsssssrsrssresresresrerrsressresersrsrrsrrerrerrer
+            ene rer er res esr enes es krk en nen en anna 5y (0355 244 NRA
+            5y utbildningsorganisation i Norrland med hjälp QV......sssssssssssssesessssenesenenn
+            Ty ökad användning AV sssssssssssrssrsressrerersrrsrserersresrrsreresr
+            rer n erna rsn enar renen arenan anna Ty Interkulturellt synsätt
+            UNdETViSNING oossosssresreresresresrersrererresrrrr res rer rer
+            rer enes r rensar enes e nen earn eran arenan en enn 3
+          </p>
+          <p>
+            1995/96:UbU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199596/reg_199596_UbU/reg_199596_UbU_0008"/>
+          <p>
+            Invandrare högskoleutbildning fÖr....sssesssssseersrssrsrssrsssrsrsrserrnererrererserrrresrrrsrsr
+            ere rr r renen a 11 JämStälldhet osssssssssssersrsesrseseseserersrersrsrsrsns
+            reser ee rr rr er ene n rer A RARE Rasa RARE EES Ae an 2y Kompetenskonton
+            (se även UtbildningskOntON)............sssresrssrsrsssrssessresnssiren
+            in 8 Konfessionell UNderVisnhilg sm mssssssssssssssrsrsrssrsrererernerenererrrer
+            ere ersrsrs rer rss orena 3 Kost, UNCCrViSDiNQ s.ssssssssrsrsreseresrsrsrererrereneresrsrenrrnrrrereresrrnsn
+            ers n es ere e rs e sars nens enn 3 Kvalificerad yrkesutbildning
+            CiMENSIiONCIING sosssssesrsrsrerereersrereresrerereresrsrerrsrer
+            rare aren ene r ene een nana enar ena Ty Kvalitet i Utbildningen
+            s..emsssssssrsrsrsreresrerereresrsrernesrrrrsnenerrrnsn rs rrn
+            ere ennen nen enn 6y, 7y Kvinnliga fOrsSKare sssssssssssrsrsrsrsesersrsrersrsrsrsrsrrersernersesrsrersrsrr
+            ere rer rrr seen en enar n enn 2,12 KVinnOfOrSKNilQ ossssssssrssrssrsrsrssrsersrsersrserersrrrsersrsesrsrn
+            ense er sr ser ense enn ense ene n nen nn 12 KörkortsutbildninQ.....sssssssssrsreresrsrsrernesesrernereseserrsrnrsrerrsrerernsr
+            ere rr senere arr an een n nen en 3 Landstingen gymnasieutbildNiNZ.....ssssssessrsrsrerenesrsrnernesrsrsrsrrsresrerer
+            er erren ennen enar een en en ann
+          </p>
+          <p>
+            interkommunal ersättning Lokala styrelser med föräldramajoritet
+            inom skolan,
+          </p>
+          <p>
+            försökSVerkSamhet s.ssssssrsrsrsrsrseresrsernerersrsrresrsrsrenerersr
+            ens renen aren rer een en ene en en en a 9 Lundsbergs SKOIA s.sssnssssrsrsrsrssrsrerererseresrsrersesrsrererrrrrr
+            renen rrne senere rese Arn ene enar een nn 6 Läkarutbildning PSYKiatriämnDNet
+            dossossssssrsrsrsrsrsesesererrrererersrsrresrsrsrersrer ers nns
+            nr r rr nee een brer en ena 4 Lärarutbildning 187283 00 5 VR 5
+            IT-aNVÄNdDiN Gas osesserersrerserrersreseresrerererrsr een ererr
+            ennen er ern sne e ene er senere enar e nanna 5y Lärlingsutbildning
+            s.sssssssssssrssssesrsrsrerseresrererserrsrsrsr ere rn rsner er
+            ennen ere ene ennen eran ennen 2y, 7y Läromedel funktionShindrade
+            sm. omssssssssrsserrsrsrrrsrsrsrsrrrrnrrrrrsrsrsns nere enes ennen
+            enar en arenan en en nn 3 IT-baSCrACO ooosessreserersrsrsrsrsrsrsrrererererersrsrsrs
+            enes errsrer rr sr rss r rn rs rss n raser ene e nan en 5y Läsåret
+            105423 [38 00) 3 Malmö utbyggnad av högkoleutbildning i m..sssssssssrsrssrsrssrrrsrssernsrersesrersrerrrn
+            renen en 2y IN [Ze VEN IT 915 55 0 BR 3 Miljöområdet UtbildningSinSätSCi
+            sssssssssssssrsrsrsrsrsrsesrsrsrrsrsrerererer enes een ere er
+            een ene n renen n en ennen 4 Motionsidrott SJ 5016 (23105) 8 3
+            TVR 4 Mänskliga rättigheter ....sssmssssssssesrsrenenesreresesesrsrsrerrsnerrenerer
+            renen rrn ene esn ene e nana r nn nn 4 Nationell SKOIPCNQ sssssssssrsseresrerrerseeresrenrsrsreresrererrrnrrsr
+            reser rer rr rer rr renen ren ren ana 6y, 7y Nationella POV s.smsssrssrssesrserresrssreresrsrsrerreresresrererrerrrr
+            sees ere reser ene een te senere rann nn 3 Naturbruksutbildning.......ssssesserssrsrserssrsneernrsrersesresrrerrersrererrrrrrr
+            rer n ennen nen nen nn en 3, 10 NaturkunSKåaP.....ssssssssrsssesesesesreresesrererersesrererersesrsrsresraresrerer
+            eran enar nere t Rn ene n rn ene n nen 3
+          </p>
+          <p>
+            1995/96:UbU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199596/reg_199596_UbU/reg_199596_UbU_0009"/>
+          <p>
+            Naturvetenskap och teknik
+          </p>
+          <p>
+            platser i hÖgSKOlAN s.ssssssssssssssrersesrsesereseresrrsrsreresrsreresn
+            renar esn enar ennen arne ennen en nn 2y Näringslivet samarbete
+            med högskOlanD ......ssssssesserssesrrsrresrsrrresersrrrsrrsrrsrrsrnrrnrrrrrrnernrnn
+            nns Ty Nätverksuniversitet vid Novum i HUddiNge sssssssesrerssrssrrsrrrerresrersrerersrsrrrrerrsrrrrsr
+            er rer resan ern ere n rena 2y Ortopedisk MediCih.....ssssseosssssrsrersersesesresresrrrsrsrernerrsrserrrrsr
+            ene er eran eran arenan enes en ennen 4 Praktisk-estetiska äMNeD....ssssssssssesreseoresresresesrsrsrsrsrsrsnereres
+            es nsr eran er ense ennen n nen 3 Påbyggnadsutbildningar s...sssessessssrsrssssrrsrrsresrsrerrrsrrrerersersesrsrsrsr
+            ene es ere seen sn renen 8
+          </p>
+          <p>
+            Riksbankens Jubileumsfond, Stiftelsen
+          </p>
+          <p>
+            stöd till Viss fOrSKNiNQ....ssssssssrssresrsseressresrerrrreresrerserrrrrenerrrrrrner
+            renen renen enn 2,12 VErkSamhet.ossssssssresreresreseerseeresrersrersrerrresrrsrrerreres
+            enes een ere n es nen een e sn enar e enes enn enn 12 RiksinternatsKkOLla
+            s..sssssssssssssrssrsssresessesressressresrrsresrererserrersesrersreresnerner
+            ennen er ern es en en nn 6 Rinkeby internationellt utbildnings-
+            och kulturcentrum i ...ssssssssssssserssrsrrsrrrsrerrnnn 4 Samverkan
+            mellan högskolan och näringSliVet........sssssessssssssesesrsrsrererersnenesersnn
+            4 Sex och samlevnad UNdEeTViSDiNG I osssosesrssesresrerrereeresrerrenrrsnrrsrrerrsrererrer
+            ennen ern ere r ennen nere senere rena 3 Sjöfartshögskola en fristående
+            SVENSK.....s.ssesssrsrsrsesesrerserrsrerersrsrsenersrsenerersrsrnen
+            eran en rn senere enes 4 Skoldatanätet s..ssnmusssrssrsrrersererseerreresrsrrsrsresrrrerrerrererrrrer
+            reser enes ren ennen renen en ene n ennen 5y Skolform VAL AV oosoesseerrereerrrerrresrerresrsrrsrrsrrrrrrrrrrr
+            rer rrrrr enn rsr rn ess reser n rss n eran enes ennen renen 1
+            SKOIZåÅIdAN soo essrsersersrersrsrsesesersererererersrersrenerrenerenensenen
+            ansa een en ense e rese en anses en en anna 3 Skolhälsovård tillSynSanSVaret
+            fÖL........ssssessersrssrssreeerrssresrrsrsrererrer ennen eran
+            renen ren ren een rrn ennen a 4y SKOIhälSOVåLId oosoossssrsrersrsesererrernesesrereresrerreresrrrrereseserereser
+            rs reser eran enes n sr en aren snaran rna 3 Skollagen huvudmannaskap
+            s...sssssssssserssrsrsesseseressrssresresrerersesrerernerrsr ennen
+            ennen renen renen enn nn 10 interkommunal ersättnilg ..msssssssserserersrrssrsrrrrersrrreresrrsrrssrsrresnr
+            ennen ennen nn 8, 10 riksinternatsKOLa...........ssesesssessesesorsssrsssrsnrersesrnersesrsrsesrerrsreresrerrer
+            renen ernsn er rrn erna 6 skolplikt, enhetlig DenämnNiNg......sssssesssssesssesssesersssesesesesesrsnsrer
+            ene er enar en nn en l utlandssvenska elevers utbildning .....sssessssssssssssssneresesesesnrnenerrrnsnsnsnrnsnennnn
+            6 Skolledarutbildning s...ssssssssrssresrersrerssrssrresrrerrersreresrsrererrerrrrer
+            nere nen er renen ene n ennen nn 3 Skollokaler Utnyttjälde AV
+            oossmesrerssrsrerereseerereresrrrrsrerrersrsrererer enes ere es
+            een enes er ers enes ens n en en en enn 3 Skolmåltider FNV6 23
+            00 3 Skolpeng nationellt SKOIlPeNgSSYSteM ..smnssssrsrssrrsrnsserrrrssnsrrrsnsrereresesesrrren
+            ere rn nn nn 2y, Ty SkuldsaneringSrätt s...sssssssssrsssrssssresrsrssrrssrrrerrrresrrsrrsrrrrrsr
+            rs reser rs rerna rr rer sn rn nr nen 4 Sommaruniversitet/sommarhögSkOIla.........sssssssessssssrseseseresesrsrsnrrsesrsrsrsrsrersr
+            ent 6y
+          </p>
+          <p>
+            1995/96:UbU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199596/reg_199596_UbU/reg_199596_UbU_0010"/>
+          <p>
+            Statens skolverk
+          </p>
+          <p>
+            tillsynsansvaret för SKOIhälSOVården ..sssmssssrsrsrsrsrsrsrsrerrrerrrsrersrnnren
+            en en eran 4y Stiftelsen Högskolan i JÖNKÖPING s..ssssrsrsresesssesesrsresrsrererrsrnrsrernerrsrsn
+            er errrnrn enn n en Ty Stiftelsen Riksbankens JubileumSsfONd s..ssssssssrerrerrsrssrssresersrrenresrsnrsnrsnrrrn
+            nt 2,12 Stockholms län utbyggnad av högskoleutbildning i....sesssssssessesrsrssrsrrsrsrsnerernerneresrrnenen
+            ena 2y StudenthälsOVårA smesssssessesesrssrsrssrsrrsrsrsrrsrrrrsrrser
+            er sne ers renen ennen ennen enar ennen enn enn Studerandeinflytande
+            Studie- och YyrkesOrienteril2 ...sssesssssrerrersrrsrerrerrsrsrrresrrrrrsr
+            ren rs rer rer esse n enn n en nn 3 Studiehjälp m.m. ANSIAZ till
+            oosooossssrssreseeresresrerreresrsrrerrrresrerer ere er rrn enes
+            ers rs reses rensas er renen ena 6y Studiemedel ANSlag till ossoosssssessrersrerersesrsrerersrsesrererer
+            ere srsnsr en ere snarare rn arenan ennen era s snaran nr n rn
+            enn 6y Studiestöd (se även Utgiftsområde 15). ......sssssesssrsrssssreresesrsesererrsesrsererrrerrr
+            rna 6y SUNET sobrorsrsrsresresreseeresesrsrererseererererersrsrereresrsrsrsrerrsr
+            ere nere s en ers ere nere r eran enes r ennen 5y Svenska EU-programkontoret
+            för utbildning och kompetensutveckling ANSI till ooooosssssssssrssesresrsrsesrsesresreresrrsresr
+            ere rer er reser enes er near r en er rena nere r renen enn 7
+            Svenskundervisning för invandrare (sfi) [6 (2170) (TT 016 RA 5
+            MÅLEN fÖLoeorssrerreresrerererrsrerererrsrsrererrerenereren een
+            ere e renen ern ere reser ene er renen eran en nan 5 OMfattning
+            i tiClssmosssssssrsrsreresresrersesresresrerrsrsrerrrsr ere rer
+            rer re nere sne nere narr r renen en 5 UtbildningSCheCk ....sssssessssesesrerrererresrersrerersrsresresrerrer
+            rer rss renen rens ene ennen ennen ena 5 utvecklingsCentrum fÖr
+            sssssssssssrssrsrreresreresrerrersrsrrsrerrrnrerr ennen essensen
+            ner renen ene nn 5 UtVärderilg AV ssssseessresererseresresrrernresrrsrrerrrsrrerrrrrrerrrrr
+            rer r rer r er n ner r enn rer nrn nn r narr nn 5 Svenskundervisning
+            för inVandräle ...smsssssrsrsrrsrsersrresresrrrrrsresrrsrrrrerrrnen
+            nen Ty, 8y Särskild skolplikt slopande av begreppet.......ssssssssssorssrsrrsrsnesrersrersesnesresnesr
+            rer renen renen ennen ene n nr 1 Särskilt utbildningSbidräag......ssessesrssrsersersersrerrsresresrsrrsrrsrrsrrsrrrr
+            rer rrr rn ennen renen nn Ty Särskilt vuxenstudiestöd för arbetslösa
+            (SVUXQ)........sssererersersreserrsersersrererrenrr Ty Särskolan
+            betygsskalan i.ssnssrssssesesrsrsesesrsrsreresesrenerereresesrererserren
+            er rsn een n aren n ene en nn aren ennen 1 klassplaCering iMODM
+            smsssssrsrssssssesrerersesesrsrsrereresrsrer ere ren ennen ennen
+            een ns renen nn aren enn 1 lokala styrelser med föräldramajOritet
+            ........sssesesrssrsresrsrrsrersseserrernenrnrrrerenena 9 Teaterområdet
+            utbildning för tekniska och administrativa yrken iNnOM ......seeeeesmmemsrmrsn
+            4 TECKENSPrÅKooosossesrssesresesrsrereseereresesrsrerersrsrsrersrererrsrss
+            ere rr renen r ere rr enes n aren een n aren enes 3 Teknisk orientering
+            i högskoleutbildningen s..sssessssssrsssresesrserrsrersesesrsresrsrsrerr
+            enes n nn enar n enar er annan na 4 Tillgodoräknande av kurser
+            inom kvalificerad yrkesutbildning........sssssssssssseseresesensnenenenennnnr
+            8 Tillträdesregler till högskolan arbetslivserfarenhet....sssssssesssrssreresresrsresrererrrrrrr
+            ner rr nrn nere nere ken ern ren erna 11 funktionShindrade sssssssssssrerssesrsrersrsesesesrsrsreresesnsnenerrsnen
+            renen erns renen sne ren r rena 11 grundläggande behörighet..........ssesssesesssseseseseserereresrrrnenernsnsnnrnrrrrerenenen
+            rn nn 11
+          </p>
+          <p>
+            1995/96:UbU Reg.
+          </p>
+          <p>
+            10
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199596/reg_199596_UbU/reg_199596_UbU_0011"/>
+          <p>
+            högSskOleprOV svsosseressersersreseresrerrrsrrssrresresresrrsrrrrr
+            res rrer rer re resans nn ene n sn ren n nn 11 INVANdLALe oosessresrresereerreerrreererrenrrerrrrrrerrrr
+            rer rerrr sr rer rern ren rrn sen r ennen enn nen 11 lokal antagningSOrdniNgQ......ssssssrssrsrsssrsressresersnrrsrrrssrrsnnerrrernr
+            enn n nns nn nn rn rena 11 standardbehÖörigheter........ssseseeserrersrersrrrsrerresrrerrrsrrrrrrrrrrrrr
+            rer sen r rer n enn rn nan 11 särskild bDehÖrighet......ssssesssesessssrsrereerrerrsrresrrerrrsrrrrrrrrrrrrrrrrrrrrnr
+            rr nr r rn nana 11 Särskilda POV sssssssssssssssrsssersrsrsrsesrresrrerresresersnrrerr
+            rss n rss n rr res rer renar reser n rn enn 11 UTV oo os esresrerrerrerrersrersrsrrersresrerrsrerrerre
+            rer r ere rer reses reser ers renen sense rer ene renen ennen
+            11 Tjänsteorganisationen i högskolan .....sssssssssssssrsrsresrsnesrsrnereresnsnernenernsnerennnnnnn
+            nn 4 Totalförsvaret UNderViSsning OMM sssssssesresrsreresersesesrererrsrsrsrsrsrrrrrsr
+            enes ere rsr enes arr an renare annen enar 3
+          </p>
+          <p>
+            Undervisningstimmar, regler för
+          </p>
+          <p>
+            reglering i tiMplaNei......ssssesssessssesresesesesesesrsrerrsesrer
+            ennen er erren enar ennen een nerna 3 Utbildningsbidrag, Särskilt...........ssesessssssssessssesssserssssrnerrerreserrnerrrsrrsnnrnrer
+            enn enn nnn Ty Utbildningskonton Utbildningsplatser, totalt för
+            perioden 1997—1998 =... .ssssssssssssrssesnennsnnnen 6y, 7y Utbildningssatsning,
+            SärskilCl........sssssssssssesessesssssrsnsnresrerreresnesrrsrrsnnsnrer
+            renen nt Ty Utgiftsområden utgiftsområde 15, beräkning AV s...s.sssssssesesssesrsrseseseneseseresernernenennsnsnsnnrnenenn
+            6y utgiftsområde 16, beräkning AV s....sssssssssssssrsrsssesrsresesrenesesrerern
+            renen nen eran enn nn 6y Utlandssvenska elever begreppet utlandssvensk
+            CleV.......ssssssssssssssrssrsssrsressrsresresresrerrsrsnesnrnnernrn
+            eran nn 6 statsbidrag, utbildning i SVeIige semsssmsssssssrsrsresrsrnerrsrsnrsrsnsrerrsnesnenernsnsnrnenen
+            6 Utvecklingsstörda barns skolgång föräldrainflytande ÖVEeL sssssesssssesersrererrsesrrersesrerrrrsrsrrrrsrer
+            enes renen annen n snaran annan nn 1 Utvärdering av försöksverksamhet
+            med föräldrainflytande över utvecklingsstörda barns SKOIZåNg ....ssssssssrsssrerrererrsrsrerrsrersrrrsrsrnrererrrrerrnnn
+            ennen 1 av försöksverksamhet med lokala styrelser med föräldramajOritCet
+            ..ssssmssssessersrrsrerrsresresrrrsrerrerrerrerrsrrrr rer rsr
+            rr rer res rens ene n enn renen 9 av svenskundervisning för inVandräare
+            s.mmmsmesssssserersrsrsrrrererrnrrrenenrenenenen enn 5 10) [076]
+            €21 451015) 8 VR kommunernas ansvar kvalificerad yrkesutbildning
+            s.....ssssesessesesssssesersserernerererernernererernen ennen
+            en en nns 8 praktisk-estetiska äMnNeD.....ssssesossorsorsrsresesresresresrersrersrerrsrrsrrsrrsr
+            renen rrn ennen erna 3 SYO-fUDKtiONCh osssossesresererrereereresresrerrererersrsresrerrer
+            een rs sees een rese nere ennen en een ennen 3 Valfria SKOlämMnNeD..sssssssseseesrerreserrereeresrerserrerer
+            ennen ene r eran reser arr ern rer n ennen renarna nen nn 3 Valfrihet
+            inom SKOLAN sssssssssrssrssesrsresrssrerrersrerserrrsresresrerrerrsr
+            renen rrrr rss r ennen renen nn en 8y Verket för högskoleservice
+            bibehållande som Myndighet s....s..ssersrsssrreresrrsrerrerrerrsrsrsrrsrrsrrsrnrrrrrr
+            rer rrnnn en 11 Vetenskaplig orientering i högskoleutbildningen
+            s..mmssssssssessesrsrsereresesrsrnenesrsresrsnereresrerrsn er
+            ner ere nrn nn nn 4
+          </p>
+          <p>
+            Vissa bidrag till forskningsverksamhet ANSIAG till oooooessssssersssrrssrrrerresresrrsrrerrrrrrenrrrrn
+            rer rn rer rsrrrR ers r ers ren rr rr rr rr ren n rn nn 17
+          </p>
+          <p>
+            1995/96:UbU Reg.
+          </p>
+          <p>
+            11
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199596/reg_199596_UbU/reg_199596_UbU_0012"/>
+          <p>
+            Vissa ersättningar för klinisk utbildning och forskning
+          </p>
+          <p>
+            aNSlag till ossossssssssesrsrssnsrerernesrereerererrenen essensen
+            er renen ere renen ere een arena ene er nn rn enar nn 6y användningen
+            av de s.k. ALF-medlen.......ssssssessesesssrerrrrrssernesersrserrnesnnnnrnr
+            6y Vuxenstudiestöd m.m. ANSlag till oosssssssssssrsesesressesresrrsrrsrrsresrrsr
+            rer reresr rer ren rsr rer essensen ern renare ner ers ennen ena
+            6y Vuxenutbildning fördelning av statliga resurser mellan komvux
+            och fOIkKbildning sossssesssssssesesesrerserrerrsrerererrererrrrererrererrerer
+            rr re rensas srnss sn enes en ennen a Ty statlig SatsNing PåÅ........esesssssesssessssssesesesesrsrrsernerernnsrsrrerrrerrrrnrn
+            sne en ens onen anor ana Ty Vårdhögskolorna [268104 CFR 4 fakultetstillhörighet..........sssssssssssssssrsresesrsrsresrersesrsrerneserrsrsrrrererrsnr
+            ennen ene nn nen 4 huvudmannaskap fÖr........ssssssssssserrerssrsresrrrsrrsrsrsesrsreresrrrsrsreserrrrr
+            er rrr senere rna 4 Vårdyrken osssssssrssssrssrerserssrseresrrerererserseserserrnrrsrsrsrsrsrrrerererer
+            er er ers senere arenan eran eran en en nn 3 Yrkesutbildning inom
+            hÖgSKOIlaD.....sssssssssssrssesrssesrerseserrerserrerersesresesreresnrnen
+            ere ernrnenen aren ene nen en nnn 4 kvalificerad eftergymnaSial......ssssssesesssssossrnsnrnrsernernenerrnrnrer
+            ennen rn nn nn 2y, 6y, 8 Överklagande av beslut om deltagande
+            i obligatoriska MOMENt.......sssssssssrsresersersssrsnrsnnne 4
+            kvalificerad yrkesutbildning s...sssssessessssssrsrrrrresrssrrsrsrsesrersrsrrsrerernrrrernrerr
+            ennen rna 8 Övriga utgifter inom grundutbildning ANSIAg till ooooosssseseessrsrrerrerrsrerrrrerrrrrrrerrrrrrrerrrsrr
+            rer rrrer rr n rer r enn rr een ennen rr nr nn nn 6y
+          </p>
+          <p>
+            Gotab, Stockholm 1996
+          </p>
+          <p>
+            1995/96:UbU Reg.
+          </p>
+          <p>
+            12
+          </p>
         </div>
       </div>
     </body>

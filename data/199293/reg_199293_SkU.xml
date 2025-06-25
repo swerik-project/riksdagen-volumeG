@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="reg_199293_SkU">
   <teiHeader>
     <fileDesc>
       <titleStmt/>
@@ -19,191 +19,1036 @@
   </teiHeader>
   <text>
     <body>
-      <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_SkU/reg_199293_SkU-000.pdf"/>
+      <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_SkU/reg_199293_SkU_0000"/>
       <div type="gBody">
         <div>
-          <p>Skatteutskottets register vid</p>
-          <p>riksmötet 1992/93 a</p>
-          <p>1992/93 SkU Reg.</p>
-          <p>Betänkanden Nr SkU1 Höjd skatt på tobaksvaror (prop. 1992/93:52) Utskottets justering 1992-11-12 Förslag till beslut: Bifall till propositionen. Avslag på motionerna. Debatt i kammaren 1992-11-25 Protokollsnummer 1992/93:31 Riksdagens beslut: Bifall till utskottets hemställan 1992-11-25 Protokollsnummer 1992/93:31 Riksdagsskrivelse 1992/93:27 Nr SkU2 Dubbelbeskattningsavtal med Tyskland (prop. 1992/93:3) Utskottets justering 1992-11-17 Förslag till beslut: Bifall till propositionen. Riksdagens beslut: Bifall till utskottets hemställan 1992-12-10 Protokollshnhummer 1992/93:42 Riksdagsskrivelse 1992/93:78 Nr SkU3 Dubbelbeskattningsavtal med Mauritius, m.m. (prop. 1992/93:24) Utskottets justering 1992-11-17 Förslag till beslut: Bifall till propositionen. Riksdagens beslut: Bifall till utskottets hemställan 1992-12-10 Protokollshnummer 1992/93:42 Riksdagsskrivelse 1992/93:79 Nr SkU4 Dubbelbeskattningsavtal med Mexiko (prop. 1992/93:45) Utskottets justering 1992-11-17 Förslag till beslut: Bifall till propositionen. Riksdagens beslut: Bifall till utskottets hemställan 1992-12-10 Protokollsnhummer 1992/93:42 Riksdagsskrivelse 1992/93:80</p>
-          <p>I Riksdagen 19921/93. 6 saml. Register</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_SkU/reg_199293_SkU-001.pdf"/>
-          <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_SkU/reg_199293_SkU-002.pdf"/>
-          <p>Nr SkUS Dubbelbeskattningsavtal med Botswana (prop. 1992/93:94)</p>
-          <p>Utskottets justering 1992-11-17 Förslag till beslut: Bifall till propositionen. Riksdagens beslut: Bifall till utskottets hemställan 1992-12-10 Protokollsnhummer 1992/93:42 Riksdagsskrivelse 1992/93:81 Nr SkU6</p>
-          <p>Utlämnande av uppgifter från Tullverket till vissa myndigheter (prop. 1992/93:66)</p>
-          <p>Utskottets justering 1992-11-10 Förslag till beslut: Bifall till propositionen. Riksdagens beslut: Bifall till utskottets hemställan 1992-11-25 Protokollsnummer 1992/93:31 Riksdagsskrivelse 1992/93:28 Nr SkU7</p>
-          <p>Godkännande av en överenskommelse mellan Sverige och Ungern om ömsesidigt bistånd i tullfrågor (prop. 1992/93:92)</p>
-          <p>Utskottets justering 1992-11-24 Förslag till beslut: Bifall till propositionen. Riksdagens beslut: Bifall till utskottets hemställan 1992-12-10 Protokollsnhummer 1992/93:42 Riksdagsskrivelse 1992/93:82 Nr SkU8</p>
-          <p>Skattelättnader vid utskiftning av aktier i riskkapitalbolag, m.m. (prop. 1992/93:108) Utskottets justering 1992-11-19 Förslag till beslut: Delvis behandling av propositionens lagförslag (jfr SKU14 och SkU18), i övrigt bifall. Avslag på motionen.</p>
-          <p>Debatt i kammaren 1992-11-25 Protokollsnummer 1992/93:31 Riksdagens beslut: Bifall till utskottets hemställan 1992-11-25 Protokollshummer 1992/93:31 Riksdagsskrivelse 1992/93:26 Nr SkU9</p>
-          <p>Vissa uppbörds- och indrivningsfrågor, m.m. (prop. 1992/93:96, prop. 1991/92:85) Utskottets justering 1992-11-24 Förslag till beslut: Delvis bifall till propositionen. Avslag på motionen.</p>
-          <p>Debatt i kammaren 1992-12-09 Protokollsnummer 1992/93:41 Riksdagens beslut: Bifall till utskottets hemställan 1992-12-09 Protokollsnummer 1992/93:41</p>
-          <p>Riksdagsskrivelse 1992/93:66</p>
-          <p>1992/93:SkU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_SkU/reg_199293_SkU-003.pdf"/>
-          <p>Nr SkU10 Upphävande av lagen (1990:750) om betalningar till och från utlandet m.m. (prop. 1992/93:65)</p>
-          <p>Utskottets justering 1992-11-05 Förslag till beslut: Bifall till propositionen. Avslag på motionerna. Debatt i kammaren 1992-12-15 Protokollshummer 1992/93:45 Riksdagens beslut: Bifall till utskottets hemställan 1992-12-16 Protokollsnhummer 1992/93:46 Riksdagsskrivelse 1992/93:124 Nr SkU11</p>
-          <p>Ytterligare förenklingar i deklarationsförfarandet (prop. 1992/93:86) Utskottets justering 1992-12-08 Förslag till beslut: Bifall till propositionens förslag. Avslag på motionerna.</p>
-          <p>Debatt i kammaren 1992-12-17 Protokollsnummer 1992/93:47 Riksdagens beslut: Bifall till utskottets hemställan 1992-12-17 Protokollsnhummer 1992/93:47 Riksdagsskrivelse 1992/93:146 Nr SkU12 Föreskrifter för fastighetstaxering Utskottets justering 1992-11-24 Förslag till beslut: Initiativ till lagändring. Riksdagens beslut: Bifall till utskottets hemställan 1992-12-02 Protokollsnhummer 1992/93:36 Riksdagsskrivelse 1992/93:40 Nr SkU13</p>
-          <p>Slopad kilometerskatt och ny skatt på dieselolja (prop. 1992/93:124) Utskottets justering 1992-12-08 Förslag till beslut: Delvis bifall till propositionen. Delvis bifall till 2 motioner rörande försäljningsskatten på tunga fordon, avslag på övriga motioner.</p>
-          <p>Debatt i kammaren 1992-12-17 Protokollshnhummer 1992/93:47 Riksdagens beslut: Bifall til utskottets hemställan 1992-12-17 Protokollsnhummer 1992/93:47 Riksdagsskrivelse 1992/93:147 Nr SkU14</p>
-          <p>Vissa frågor om beskattning av inkomst av tjänst (prop. 1992/93:127) Utskottets justering 1992-12-08 Förslag till beslut: Delvis bifall till propositionen. Delvis bifall till I motion rörande bilresor, avslag på övriga motioner.</p>
-          <p>1" Riksdagen 1992/93. 6 saml. Register</p>
-          <p>1992/93:SkU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_SkU/reg_199293_SkU-004.pdf"/>
-          <p>Debatt i kammaren 1992-12-17</p>
-          <p>Protokollsnhummer 1992/93:47 Riksdagens beslut: Bifall till utskottets hemställan 1992-12-17 Protokollsnummer 1992/93:47 Riksdagsskrivelse 1992/93:148 Nr SkU15 Vissa företagsskattefrågor (prop. 1992/93:131) Utskottets justering 1992-12-08 Förslag till beslut: Delvis bifall till propositionen. Riksdagens beslut: Bifall till utskottets hemställan 1992-12-17 Protokollshummer 1992/93:47 Riksdagsskrivelse 1992/93:149 Nr SkU16 Fastighetstaxering m.m. (prop. 1992/93:122) Utskottets justering 1992-12-08</p>
-          <p>Förslag till beslut: Bifall till propositionen med vissa tillägg. Avslag på motionerna.</p>
-          <p>Debatt i kammaren 1992-12-17 Protokollsnhummer 1992/93:47 Riksdagens beslut: Bifall till utskottets hemställan 1992-12-17 Protokollsnummer 1992/93:47 Riksdagsskrivelse 1992/93:150 Nr SkU17</p>
-          <p>Beskattning av inkomst från handelsbolag i samband med att andelen överlåtits (prop. 1992/93:151, skr. 1992/93:138) Utskottets justering 1992-12-08 Förslag till beslut: Bifall till propositionen med vissa justeringar. Avslag på motionerna.</p>
-          <p>Debatt i kammaren 1992-12-18 Protokollsnummer 1992/93:48 Riksdagens beslut: Bifall till utskottets hemställan 1992-12-18 Protokollsnummer 1992/93:48 Riksdagsskrivelse 1992/93:156 Nr SkU18</p>
-          <p>Vissa författningsändringar (prop. 1992/93:50 bil. 5, prop. 1992/93:65, prop. 1992/93: 86, prop. 1992/93:89, prop. 1992/93: 90, prop. 1992/93:108, prop. 1992/93:119, prop. 1992/93:126, prop. 1992/93:136)</p>
-          <p>Utskottets justering 1992-12-08 Förslag till beslut: Bifall till propositionerna med vissa ändringar. Riksdagens beslut: Bifall till utskottets hemställan 1992-12-18 Protokollsnummer 1992/93:48 Riksdagsskrivelse 1992/93:158</p>
-          <p>1992/93:SkU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_SkU/reg_199293_SkU-005.pdf"/>
-          <p>Nr SkU19 Tillfälliga skattelättnader för egenföretagare m.m. (prop. 1992/93:100 bil. 8) Utskottets justering 1993-02-11 Förslag till beslut: Bifall till propositionen i denna del. Avslag på motionerna.</p>
-          <p>Debatt i kammaren 1993-02-17 Protokollshummer 1992/93:63 Riksdagens beslut: Bifall till utskottets hemställan 1993-02-17 Protokollshummer 1992/93:63 Riksdagsskrivelse 1992/93:167 Nr SkU20 Skattepolitiken Utskottets justering 1993-03-16 Förslag till beslut: Avslag på samtliga motioner. Debatt i kammaren 1993-03-31 Protokollshnhummer 1992/93:87 Riksdagens beslut: Bifall till utskottets hemställan 1993-03-31 Protokollshummer 1992/93:87 Nr SkU21 Företagsskattefrågor Utskottets justering 1993-03-23 Förslag till beslut: Avslag på samtliga motioner Debatt i kammaren 1993-04-21 Protokollshummer 1992/93:96 Riksdagens beslut: Bifall till utskottets hemställan 1993-04-21 Protokollshummer 1992/93:96 Nr SkU22 Anslag till skatteförvaltningen, m.m. (prop. 1992/93:100 bil. 8) Utskottets justering 1993-03-23</p>
-          <p>Förslag till beslut: Bifall till propositionen. Delvis bifall till motion Sk803. I övrigt avslag på motionerna.</p>
-          <p>Debatt i kammaren 1993-04-21 Protokollsnummer 1992/93:96 Riksdagens beslut: Bifall till utskottets hemställan 1993-04-21 Protokollsnummer 1992/93:96 Riksdagsskrivelse 1992/93:287 Nr SkU23 Anslag till Tullverket, m.m. (prop. 1992/93:100 bil. 8) Utskottets justering 1993-03-09 Förslag till beslut: Bifall till propositionen. Avslag på motionerna. Debatt i kammaren 1993-03-24 Protokollshnhummer 1992/93:82 Riksdagens beslut: Bifall till utskottets hemställan 1993-03-24</p>
-          <p>Protokollshummer 1992/93:82</p>
-          <p>1992/93:SkU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_SkU/reg_199293_SkU-006.pdf"/>
-          <p>Riksdagsskrivelse 1992/93:211</p>
-          <p>Nr SkU24 Skattelättnad vid överlåtelse av aktier i riskkapitalbolag m.m. (prop. 1992/93:125)</p>
-          <p>Utskottets justering 1993-03-09 Förslag till beslut: Bifall till propositionen. Riksdagens beslut: Bifall till utskottets hemställan 1993-03-17 Protokollsnummer 1992/93:77 Riksdagsskrivelse 1992/93:198 Nr SkU2S Vissa punktskattefrågor (prop. 1992/93:166) Utskottets justering 1993-03-24 Förslag till beslut: Bifall till propositionen. Avslag på motionerna. Debatt i kammaren 1993-04-14 Protokollsnummer 1992/93:91 Riksdagens beslut: Bifall till utskottets hemställan 1993-04-15 Protokollsnummer 1992/93:92 Riksdagsskrivelse 1992/93:264 Nr SkU26 Mervärdesskatt (prop. 1992/93:190) Utskottets justering 1993-05-25</p>
-          <p>Förslag till beslut: Bifall till propositionen med viss ändring i lagförslaget. Delvis bifall till 3 motioner om väg- och bro- byggen, 5 motioner om alternativmedicin och 2 motioner om gruppregistrering av företag. I övrigt avslag på motionerna.</p>
-          <p>Debatt i kammaren 1993-06-07 Protokollsnummer 1992/93:123 Riksdagens beslut: Bifall till utskottets hemställan 1993-06-08 Protokollsnummer 1992/93:124 Riksdagsskrivelse 1992/93:420 Nr SkU27 Indrivningslag (prop. 1992/93:198, prop. 1992/93:150) Utskottets justering 1993-05-27 Förslag till beslut: Bifall till propositionen. Riksdagens beslut: Bifall till utskottets hemställan 1993-06-09 Protokollshnummer 1992/93:125 Riksdagsskrivelse 1992/93:448 Nr SkU28</p>
-          <p>Overföring av Riksskatteverkets beskattningsavdelning i Ludvika till Skattemyndigheten i Kopparbergs län, m.m. (prop. 1992/93:196) Utskottets justering 1993-04-29 Förslag till beslut: Bifall till propositionen. Avslag på motionerna.</p>
-          <p>1992/93:SkU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_SkU/reg_199293_SkU-007.pdf"/>
-          <p>Debatt i kammaren 1993-05-12 Protokollsnhummer 1992/93:109 Riksdagens beslut: Bifall till utskottets hemställan 1993-05-19 Protokollsnhummer 1992/93:113 Riksdagsskrivelse 1992/93:336 Nr SkU29 Tullfrågor (prop. 1992/93:208) Utskottets justering 1993-05-18 Förslag till beslut: Bifall till propositionen. Avslag på motionerna. Riksdagens beslut: Bifall till utskottets hemställan 1993-06-02 Protokollsnummer 1992/93:120 Riksdagsskrivelse 1992/93:369 Nr SkU30 Beskattning av allmännyttiga bostadsföretag (prop. 1992/93:241) Utskottets justering 1993-05-25 Förslag till beslut: Bifall till propositionen. Avslag på motionerna. Debatt i kammaren 1993-06-07 Protokollsnummer 1992/93:123 Riksdagens beslut: Bifall till utskottets hemställan 1993-06-08 Protokollsnhummer 1992/93:124 Riksdagsskrivelse 1992/93:421 Nr SkU31 Individuellt pensionssparande (prop. 1992/93:187) Utskottets justering 1993-05-12 Förslag till beslut: Bifall till propositionen. Avslag på motionerna. Debatt i kammaren 1993-05-27 Protokollsnummer 1992/93:117 Riksdagens beslut: Bifall till utskottets hemställan 1993-05-28 Protokollsnummer 1992/93:118 Riksdagsskrivelse 1992/93:359 Nr SkU32</p>
-          <p>Godkännande av en överenskommelse mellan Sverige och Estland om ömsesidigt bistånd i tullfrågor (prop. 1992/93:223)</p>
-          <p>Utskottets justering 1993-04-20 Förslag till beslut: Bifall till propositionen. Riksdagens beslut: Bifall till utskottets hemställan 1993-05-06 Protokollshummer 1992/93:106 Riksdagsskrivelse 1992/93:325</p>
-          <p>1992/93:SkU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_SkU/reg_199293_SkU-008.pdf"/>
-          <p>Nr SkU33 Bostadsbeskattning m.m. Utskottets justering 1993-03-30 Förslag till beslut: Tillkännagivande med anledning av vissa motioner. Avslag på övriga motioner.</p>
-          <p>Debatt i kammaren 1993-04-14 Protokollshummer 1992/93:91 Riksdagens beslut: Bifall till utskottets hemställan 1993-04-15 Protokollsnummer 1992/93:92 Riksdagsskrivelse 1992/93:265 Nr SkU34</p>
-          <p>Sänkning av dieseloljeskatten (prop. 1992/93:192, prop. 1992/93: 124, prop. 1992/93:187) Utskottets justering 1993-05-18 Förslag till beslut: Bifall till proposition 192 och bifall till vissa delar av propositionerna 124 och 187. Initiativ till lagändring. Delvis bifall till 2 motioner rörande biobränslenas konkurrenssituation. Avslag på övriga motioner.</p>
-          <p>Debatt i kammaren 1993-06-02 Protokollsnhummer 1992/93:120 Riksdagens beslut: Bifall till utskottets hemställan 1993-06-02 Protokollsnummer 1992/93:120 Riksdagsskrivelse 1992/93:370 Nr SkU35 Sexmånadersregeln för sjömän (prop. 1992/93:217) Utskottets justering 1993-05-12 Förslag till beslut: Bifall till propositionen. Riksdagens beslut: Bifall till utskottets hemställan 1993-05-27 Protokollshummer 1992/93:117 Riksdagsskrivelse 1992/93:354 Nr SkU36</p>
-          <p>Skattereduktion för vissa reparationsarbeten (prop. 1992/93:150 bil. 6) Utskottets justering 1993-05-27 Förslag till beslut: Bifall till propositionen med vissa ändringar. Avslag på motionerna.</p>
-          <p>Debatt i kammaren 1993-06-07 Protokollshummer 1992/93:123 Riksdagens beslut: Bifall till utskottets hemställan 1993-06-08 Protokollsnhummer 1992/93:124 Riksdagsskrivelse 1992/93:422 Nr SkU37</p>
-          <p>Uppskov med behandlingen av vissa ärenden (prop. 1992/93:159 delvis, prop. 1992/93:174 delvis, prop. 1992/93:177, prop. 1992/93:252) Utskottets justering 1993-05-13 Riksdagens beslut: Bifall till utskottets hemställan 1993-06-08</p>
-          <p>1992/93:SkU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_SkU/reg_199293_SkU-009.pdf"/>
-          <p>Protokollsnsummer 1992/93:124</p>
-          <p>Nr SkU1y till EU (EU1) EES-avtalet (prop. 1991/92:170) Utskottets justering 1992-08-20</p>
-          <p>Nr SkU2y till NU (NU7) Ombildning av föreningsbanker (prop. 1992/93:69) Utskottets justering 1992-11-03</p>
-          <p>Nr SkU3y till FiU (FiU1l) Åtgärder för att stabilisera den svenska ekonomin (prop. 1992/93:50) Utskottets justering 1992-11-24</p>
-          <p>Nr SkU4y till KU (KU30) Regeringens redogörelse för behandlingen av riksdagens skrivelser till regeringen (skr. 1992/93:15) Utskottets justering 1993-02-11</p>
-          <p>Nr SkUS5y till FiU (FiU30) Skattefrågor i kompletteringspropositionen (prop. 1992/93:150) Utskottets justering 1993-05-18</p>
-          <p>1992/93:SkU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_SkU/reg_199293_SkU-010.pdf"/>
-          <p>Sakregister</p>
-          <p>Aktier byte av föreningsandelar mot aktier ................soss00nnnn nn följdändringar till ny börslagstiftning................ kontantvederlag vid byte....................... näringsbetingade, förlust på pensionssparande i riskkapitalbolag sm.mmmmssssssseesessenrnnerrnnnersnnnrennnnnn nan nn skattesatsen för reavinster och utdelning underlag för skatteutjämningsreserV.............................. Alkoholbeskattning färjetrafik€N...sssssssseesrersrersresrerrrrenrnrersrrrrrnrrrnnnnnn nen nnnn nanna nan Gotland SOM friZON susmssseresesesrenenrerenrerenenennenenenn aren narr annan hälso- och sjukvårdsavgift ..............s.ssssssssssssssesenssnsennnnnnn konsumentpriSinde€X..........ssssssssesseoesessrenennesnesnennernrnenn rant skatteuttaget äNAraS suumsmmssssssesssrssrrrrrrrsrasrsnrrnnnenn nen n nn rna n nn straffskatten vid sprittillverkning...........ss.sssssssssssnesnsnsnnn Allemanssparkonto, skattelättnaderna slopas ..................... Allmänna avdrag individuellt pensionssparande. ........ssssssessessrsresrrrnnrennennr KkONtantprinCiPp€D......sesssssssersrsseesssrrnsernrennnrnnnennnnnnrsn nerna nn Allmännyttiga bostadsföretag schablonbeskattningen SlOPaS............sssssssssssessessersennsnnnnt stämpelskatten, särreglerna SlOpaS s......ss.sssssosssnnenennnnn ann Anslag exportkreditbidrag.............ssssssssseesraseeneersernnnresnrrnrnnernsnnn nr handikappade ägare av motorfordOn................-sssssss---- Riksskatteverkets..soossssssosseonoersennssennnnenresrsrennnenrrnsrnrnnnrnn nn skattemyndigheternNa s..mmmmmsssssssessressrenssenrennnrrrrrnnnnnnnnnn enn nr Tullverketsssssssesrreseassrensressransessnnrnrnrsrennnernnrennrnn nen nn rn rna nen Arbetsbyten, skattebefrielse fÖr s.........s..sssssssssssessersernnnnnnnnnn Arvs- och gåvoskatt följdändringar till ny börslagstiftning.......................--.- INDEtalNiNg sossssseessrerseerrrerrrerrerrsennrrrnrnerrnnnnnnnn nn nr rnn nen nnn nn nn individuellt pensionssparande. .......ssssesesessssrrsreresensnnennn se även Kapitalbeskattning Avkastningsskatt, pensionskapital......sse.ssssseseeresesseenrennennnnnnn</p>
-          <p>Banksparande för penNSiOnN ..sssssessessrersssrsrsssrrererrrnernnrnnern rna nt Barn barnpension, tekniska justeringar barntillSYi msssssssssessserressrerrrerrrsrrrsrrnnrsrrnnrrsr rna nrrn ner ner n rna n nn dagbarnvårdare s.msmssssesresesrsrerenesrerernrsreresesrrn ennen enn nen enn n ann föräldrakOOperatiVv...smsssssssssesssrssnensnnsnnennrsrnnenr ns nr nn nn nn nn nn SIMåÅLÄNLOTL oosseoeerserrererereseererenesrereresrereererenerranen rn enar n nn en enn nn Bekämpningsmedel a..mmsmssssssssrsrsresenrenennerenennrnennenennnnenen enn nnnnn Bensinskatt blyad benNSilussssssesresesrsrrerreresernerrrsrnsnnernsrernnerern nen nrrrrnn nn nn höjning</p>
-          <p>8, 24 18, 20, 3y, 5y</p>
-          <p>25, 3y</p>
-          <p>18, 3y</p>
-          <p>1992/93:SkU Reg.</p>
-          <p>10</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_SkU/reg_199293_SkU-011.pdf"/>
-          <p>Betalningsförmedlare, uppgiftsskyldighet ..............ssssssse&gt;00&gt; Betalningslagen, upphävande... Bilar med Svaga låS sssnnssresssersenrersesrenrsnenresennenennennrnrn ennen enn nana BilfÖrmMånD oossosssseeresressessrerresrerrenrerrerrrrnnernerennen rna enes renen renen nanna 1355 VA T6V BiObränsSlen smsmnssssssessessrrsnsrrsenesnnnerrnrrnnonrenrsnnernsnr renen ennrrnrnr nn nn BIlyhagelisnoosssssssessssennnessrrrsnnnnnrrennnernrrerrnerrernnsrnerrernenrerrrn nen rr nnnn Bostadsbeskattning allmännyttiga bostadsföretag .............ss-ssssesesersenenronennnr fastighetsskatten, avveckling .........ss.sssesssosnsorsnsnsnnnnennn nere fastighetsskatten för nybyggnader minskade subventiOne€r.....ssssessessesrsresenrenennrnsnnnnenennnn enn FeAVINSt ooooseesenesrenrersenrenennenennrrnerneneerernrnnenerennn ennen skattereduktion för byggkostnader slott och herrgårdar, underhåll aV.....ssnsssssossossonesrosnnnnn BostadSförmMån smssusrersrsrererenenrsesesrnennrnenensrnnnrnsnsnrrnsnnnnenrnnen nn nnn Botswana, dubbelbeskattningsavtal Brutet räkenskapsår ...................-.-..- Byggstimulanser, skattereduktion för byggnadskostnader . Båtskatt ...snnnnnssssnanssrnenennnnnnenenenrenensnsnennrnrnsnsnnnnnn Bär, inkomst av plockning</p>
-          <p>Charterskatt avskaffande sssssseeeesesrersrrrreerererererrsrrrrrrrnrr ere nere nn nsnn nen nn nr nar fråga om återinförande s...messesssrsresesesrsnnnnnrnnnnnnrnnnnnn nanna Dagbarn, avdragsregler. ...ssmmmsssssesessrennnsrenernennnerrnsrnerrnrnnn rn rna Dieselfordon, höjd fordonsskatt Dieseloljeskatt INfÖLANÅE sossoseeeeeesereeserrerererreeerrrrerersrrrsrrr enn rr rnre nns nns nn rn anna SÄNKNiNG oosoeeesereserrererrernreersrerrrrnnn nan nsrernrsnnsenesnen er nrn nr r nn rann Dubbelbeskattningsavtal BOtSWANA oossoonssssereresrereereereseeernrererrerrnrrrrrrrrnnnn nen nr enn nn n rr rn n nn</p>
-          <p>EG-frågOr oomonsnsssrarnanneneoresrererrerenennerenrereneneren enn narr en enn nn renen nn EKO-bDIOLtf oosonnsssesssressnssnressrrerrerrrnnnrernnnrnrnenrrnnennerrrrnsnrr ennen rr n nn Ekonomisk förening föräldrakOOpPeratiV........sssssesseseesesnranesenneerenererenrenenrrnrnnrn ann omstrukturering Energiskatter allmän utformning ...sssesssssereserersrarresnennrnnnersnnennrnnrn nen nn nn biobränslen vid leverans till industrin s..mmmmsssssssssesnnn blandbränslen, ändrad beskattning................--sssss-ss&gt; elskatten i norra SVCrige m.smmmmmssesssresereserensrennnsnnsnnnnrnnnnnnn</p>
-          <p>10, 28 1992/93:SkU Reg. 10,</p>
-          <p>20, 14, 19,</p>
-          <p>28 34 34 20 34 25</p>
-          <p>13 34</p>
-          <p>N BYAR</p>
-          <p>11</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_SkU/reg_199293_SkU-012.pdf"/>
-          <p>fjärr Värm soo eosesseeseeerensrsrrrrrrrsrrnnrrrsnrrrernerrnrn ner n nr nr n rn n nanna industrin.... kraftvVärlme ssssmssssssreseeseennrsrrrnnerrrernrsnrrrnnsnernnnsrrrsrrrnnnnre rn nn nan moms på biobränslen rapSOlja sossssssessesnnensrersnrnnn rann nrrnnnn nana nn sänkt energiskatt i miljöklass 1 tUriStiNnClUStlillsssssssseessessrersrrrrrrrrrerrsrrrrrrrerresrnrrrsrnrnrrnrr nn nn nn vedpannor och jordvärmeutrustning vindkraft o..ssssssssssesesrsseenersrannersnannesrerenrererrerennerennerrennnnnnnnn nn Enskild näringsverksamhet summmnsssssesesessesenerenenenenesenrenennnnnnnn Estland, tullsamarbetsavtal sannssssssssssrsssssrserressessersnnsrennn anar</p>
-          <p>Fackföreningsavgifter, likformiga regler .........ss.ssssnosnonnnnnan Fallskärmsavtal, särskilda skatteregler ........................os.o0000- Fastighetsskatt AVVECKliNg oosseeseesrerrerersrersersnrerenarrrrnnnernennernnsnnnnn nerna rna rann nn bostäder och IOkaler...sssmssssssessransnennnnnernnnnnnnnnnnrnnnnnn ann rna byggstimulanNSer smessssssesseseeserrennesnrsnererneserrennsnnnnen ren nrn nn nanna NYbyYggNader oosssssesrerrsessresernernrnnearennnrren senere n ene ennn renen n eran a Fastighetstaxering 1994 års för hyreshus och industrienheter ................... tidpunkten för utfärdande av föreskrifter oo VärderingSfrågOr s.......ssssesseroeserenerenenererersrnenensrnnnennn arenan nn nn FjärfVärllme€..sossssseesesseresernsrsssnnrnnnerrrnnneesnrsrrennenrenn rr ernnrnnnennnnn rann Flyttskatten, SIOPaNnCC...sosssssseessessorsrnesnresrnnrsrnnrnnsrrernsnnnnrnnsn nen Folkbokföring lägen hetsregiSter smmssssssessesreseersrasenrsernennenenennenesnennr nens nn nanna tillhandahållande av uppgifter ........s.s.sesssssssnssesnnnnnnnnnnn Folkpension, tre fjärdedels, grundavdrag...............ss.s-------- Fåmansföretag, inkomst av kapital eller av tjänst .............. Färjetrafiken, skattefri försäljniNg.....................s..-..-- Föreningsandelar, byte mot aktier Föreningsbanker, ombildning ........ssssssssessssesrrsenrenesnnrsnsnnnnnnn Företagsbeskattning aktieöverlåtelser mellan riskkapitalbolag.....................- allmän investeriNngSreSerV emmmmmermerssssssenresennenennnsnnnnnnnnn avskrivning i StÖdOmråde.........ssesessssessesesenronnnrnennrnnnnnnnnn beredskapslager av Olja ....nmmnssssssensenennenennennenennennnnnrnnrnnn nn bilavdrag för egenföretagare, avdragsbeloppet.............. brutet räkenskapSår ...........sosseesesresesesesenenennenenenenennenennnnn nn byte av föreningsandelar mot aktier ..............s.ssssss000o0nnn enskild näringsverksamhet, reformering av SKkattereglerNaå....ssssssosseonessensnsenannsserenrennrsrerrnnennnresrr ner nn nan nn enskild näringsverksamhet, tillfälliga skattelättnader .. följdändringar till ny börslagstiftning.....................-.----- företagshälsovård förlust på näringsbetingade aktier ... handelsbolag, beskattning av inkomst vid överlåtelse.. I-SURV, tillfällig hÖjNiNg sm. ommmmsssesssesesssesnnnenenenennennnn rann nn INNOVAtiONELossossseereserersrrrneessrenneanrrrnrerrnrsnernn annes nen nn nn nn rna nn</p>
-          <p>19,</p>
-          <p>33,</p>
-          <p>20,</p>
-          <p>12</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_SkU/reg_199293_SkU-013.pdf"/>
-          <p>kapitalförlust Vid fån ommmmsesssssnesrrsrosrnrnrnnrrnnrnrrnnnrnnnnnn nn lantmäterikOStnader s...smssesssssesrrsreresenrnnnenrrnrnnennsnnrnnnnnn nn livförsäkringsföretagen, avkastningsskatten .................. ombildning av ekonomisk förening ..............-.--s-sss-s&gt;&gt;-- ombildning av föreningsbanker s..........sssssssssseneserorssnnnne projektkapitalbolag....................... öereereneenernesrenren nr ran nrn nan resultatutjämning och reserveriNg.............s.ossssesesnesnennnn riskkapitalbolag s.......ssseseessroneennennnenrerrnrnnnnnnn enn er nnenn nn r rn ner räntefördelning, uppskov Med s.......ssssesesesserereresssrsnrnnnnn schablonmässig avkastningsskatt ....................-e.sesessrren&gt; skadeförsäkringsföretag..............sssssssssesereorarersrennsnnnennn nen skatteutjämningSreSerV...........ssssssossssensonsnnnnnnnnsnrnnsnnnnnnnnnn SKOgSAVÅLAG ooseseeseerseeseernereererenrsenrenrenesnennnnnsnnsnrn nen ren r nn nn nan SKOgSKkONtO...ssssseeseesreneernrnnnnernernerrerrennennnren nen nen enn skärpt bolagsskatt skördeskadekOntO .........sssesssssessssenenenenenneneerenenerernrnrnernenenn SPONSFINQG oooesesesreerserserseesnenrareneenenren renen nsnn ennen renen ennen rn n nen nn underskott, kvittning mot tjänsteinkomster.................. upphovsmannakOntO s...ssssessssssssserrseresnreresrnernnnnennrnennnnnnnnn uppskovsbelopp, obeskattade reserver vid 1993 års AXELN ooooseeeoesrerrserrrerresnernenerrernerernenesnenern renen nrn nr nr rann rna valutakursförluster s...ssmsssssssssssserserrrresrennsnnrnnrnrnrnrn ennen rn nn n yrkesfiskare ossssssssesesseaseeneenenennenrenernennsrennerrrnrennr renen nn nn n nn överavskrivning på inventarier ...........s.ssssssssssesssosssnsnnnn Förmån</p>
-          <p>måltider, smärre justeringar ...........sssssssssssenenennenrnnsnrnnn nn representation, Måltider.............s.sssssessssssssssrsronsnsnnrnnnnnnn resefÖrsäkriNgar ssmmmmsessessensessrennennrerenrernnnsrr es nnnnnern nn nn nnn nn räntefÖrmMånNer s.ssssssererererrerererersesenrsrnenrnn enn renen enn nenen rn ennen Förmögenhetsskatt avvecklingen skjuts UPP............ssssssssessessesseoreseerernnrnnnnrnnr lättnadsreglerna för jord- och skogsbruk ..............-.----- återinförande QV....s.sssssseereserenenesnsnsenrnrerennnnenenennenennnnenen enn Förpackningsskatt avskaffande sosssseeseerssreersesrererrererrennerenrenenn nr renen n rn nrn nn nn nn fråga om återinförande Försäljningsskatten för tunga fordon senareläggg..............- FöräldrakOOperatiV......s.ssssssssensnsnonesesnersnsrerenerrererenrnnenennnnnnnn nn</p>
-          <p>Gotland som friZON ssssssssesrseseeseeeeresrererresennernnnrenenn enn nenennennnn nn Grundavdraget avtrappningsregler folkpensionärer............... indexregleringen...... SÄNKNING ooooeseeerresererersernreerererrrrarrsrrenrennnnrnnnn nr enn nn Gåvor till allmännyttiga ändamål, avdrag för .....................</p>
-          <p>21 21 31 15 2y 21 21 8, 24 15 31 15 15, 19 21 15, 21 18, 21, 3y 21 21 21 15 19</p>
-          <p>21 21 15</p>
-          <p>20, 34 20 14, 20 14 14 14 14</p>
-          <p>18, 3y 20 20, 5y</p>
-          <p>25 5y 13 20</p>
-          <p>25</p>
-          <p>20, 5y 35 20, 5y 18, 3y 20</p>
-          <p>1992/93:SkU Reg.</p>
-          <p>13</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_SkU/reg_199293_SkU-014.pdf"/>
-          <p>Handelsbolag, beskattning av inkomst vid överlåtelse ....... HandelsgÖdSel smssmmssssssssreserresrnerersrererernrersnrerrnrrerrrrnnrnnnnnrrrnnn nana Hemresor, avdragsrätten utvidgasS s..mssssssssssesrsnesnnnsnnnnnnnnn Herresäten, underhåll av sssnnnmmasssssssssrsreseserrrsrrrererrrrrnesrnnn rna Hobby avdragsrätten utvidgas tidsmäsSSigt.......................s.seso000n bär- och SvampplOCkninNg ...sssesssessessssssrersresnnennrennnennnnnn travhästar .......ssssssssossononennnnnn nn Hotell, mervärdesskatt Hundskatten ............s.osss0snnnonn</p>
-          <p>Ideella organisationer avdragsrätt för gåvOr tillis....s...ssssssssseorsessnrsrrsrenerranenennn nn likformig beskattning avs. .mmmmmsssssseessransessnensrarnnnrnnnnnnn nan skattebefrielse för arbetsbyten oe Indexregleringen av skatteskalan och grundavdraget......... Individuellt pensionssSparande......sessssesresenensenennennsnennnnnnn nn Indrivning av statliga fordringar s....mssssssssssessesennnrannsnennnennnn Industrins energiskatter s.smmmssssssesseseeseosrornensersrennsnnenrrnnsnnnnnn nn Instansordningen, punktskatter...............sssssssssssosseserressnnnnn INVeESteriNgSreSCiV smssssssesesseseeseoneneenneserserrnnnnrenrennennnn ner r renen nn nn</p>
-          <p>Jord- och skogsbruk, förmögenhetsbeskattning.................. Jordbrukstraktorer</p>
-          <p>Kapitalbeskattning arvs- och gåvoskatt, skatteuttaget ................................o.- arvs- och gåvoskattelagen, betalning av skatt................ se även Förmögenhetsskatt Kapitalförlust, fåN s....sssssssosesersrsensrsrssrsrnererersenenenennnnnnnnnnn nonan Kapitalinkomst beskattningen av småbelopp KkOnNtantpriNCip€.........ssssssessersressrsrrerrrsrsrerennnrrnnrarrnnn nen rna nn skattesatsen, sänkningen skjuts UPP................--s.-ssss---&gt; SKÄrPNINgAL oossoseersreresesenesrnrsrernenennererennennnner ennen n en nrnen enn nn nn Kilometerskatten SlOPAS s......ssssseeserssoesseansrnnsnensnnrnnnnnnnnnnnnnnnnnn Kombitrafik, återbetalning av fordonsskatt......................... Kommunal beskattningSsrätt................sssesssesssesssrsrsrnnsennnsnnnnnna Kontantprincipen allmänna avdrag msmssessereessereresrrerrerrrrnrnrrsrrnnrrrnnn rna nn nanna KapPiltalosoooessseserresressrerrerrerrnerrrrrrrrrrerrrnrnrnnnnrnn anar n anar nen n nanna nn KOStfÖrmMåNETL oosseseseererrserssrsrerssneserrrsrsrsrerrrnnnnenerererenenen nn rnnn aren nen KFraftvärlme ossmsmsssssseseseeneesensesesnesernesrennesnennennnrnenn nan nen ennen nn nan nn Kulturhistorisk bebyggelse, underhåll aV..............sesssssss0nt Kvittning, underskott av näringsverksamhet ..................... Kyrkokommunerna, skatteutbetalning till.......................-.-</p>
-          <p>14,</p>
-          <p>20,</p>
-          <p>20,</p>
-          <p>18, 20,</p>
-          <p>17 25 14 33</p>
-          <p>14 20 20 5y 25 25</p>
-          <p>19</p>
-          <p>20 20 20 5y 31 27 34 28 15</p>
-          <p>20</p>
-          <p>34 34</p>
-          <p>Sy 27</p>
-          <p>21</p>
-          <p>1992/93:SkU Reg.</p>
-          <p>14</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_SkU/reg_199293_SkU-015.pdf"/>
-          <p>LantmäterikOostnader s......sssssesssessesrrserresnesnnnrrernrernnnrrnr nr nn nnnn 21 Livförsäkringsföretag...........sssssssssssssssresesnnernennrrennenennnnnnnrn ann 31 Livsmedelsverket, uppgiftslämnande från Tullverket till.. 6 Ludvika, flyttning av beskattningsavdelningen..................- 28 LuncChfÖrmåner.....ssmmsssrssssrrsserreserserersesrersrsernnsnrsnernnrsnn nr n rn ora n 14, 20 Löneskatten, SäNnKknNiNg......ss..ssssseossesssseassennenernesnenrnnrrernnnnennnnnn 18, 3y MAatmMOISossosesseeesererererrerrerrrrerrrrrrarrrrnnnnn annen nr en nen n enn rr rn n rn renar 3y, Sy Mauritius, dubbelbeskattningsavtal.................ss.ssssssssrsoserrsnr 3 Mervärdesskatt alternativmediCinh........ssssssssssrsessrensanesenennenenrnrnnsrenenenennnnnen 26 arbetsbyten ...ssnssnssssssesenressesersrnrranrrnnerrernennennerernrnrnnr nr renen nn 20 biobränslen ssssssesssseererrererrserrrsrenrnernernernrnnerner renen nsn nn nn nn nnn en 34 DÖCKET ooseoeereresrererneresrsrerrererersererrrr ennen ene en renen annen enn nen narr nn nan 26 CjUrpParker ooossssssesesrerersenreresenenennennernrsnenennansn ennen enrrr nen en rna 26 fastighetsförvaltning s......sssssssessersserensnsnnerenerernnererernrrennnnnn 26 fOtVåÅLA oooosseseerereresrsrersrerrererererrrrrerrnneren ennen en enen ene nn nn rann nn nnn 26 föreningar........ 26 gallerimoms 26 gruppregistrering av fÖretag s...........sesseeeseerssennsennnnnnnnnnnn 26 hotell- och restaurangtjänSter..................s.ssssessesssrsnsnnnnnn 18, 3y, 5y intyg om återförd mervärdesskatt ............e.esosossossonnnnnnn 26 konstförsäljNiNg .......ssssessessessesssssernrernernnrsnnernrnrnrrern nn nnn nen 26 kontrollfrågOr s..sssssssssssseseseeresesernnrnenesnsnerernensnrnenenen enn nn nn nn Sy kyrkliga KOMMUNE smsmmnessseresensrssrresnesrrerrrerrernnrnnnnn nen nen nn 26 liVSMEdCL ooooooeeeseeesrrererererererersrrrrerrrrrrrrrennenerrrnrnrnnnnn annan n nn n nn 18, 3y, 5y persOntranspOrter s..ssmsssssssssesenresenrnrnrrnenenensnernnnrnsrrnrnnnnnnn 18, 3y, 5y reklam i TVosooossessesererreseresesseersrrenrrenresnrrnnnnerernnsrrennrrn nen nnn 26 skepp och luftfärtyg..............sssssssssososossesenssnsnnnsnrnnnnnnnnnn 26 0 [OT 26 sport OCh idrOtt........ss.sssssssssessesssrennsrserennernerernnnnnrn nr nnnnn nn 26 SPåranläggnNiNgår ....ssmsssssssssonssnnnenenesenrnrnenenenrnnnnnnsnrn rn nn nn nn 26 sänkning skjuts Upp ............s..----- 18, 3y tidningar oossssssssesssereesresnnesnnnnrnnn nan Sy tidningSpOrtO...........essssssessrssesssrasnnnrsrnesnnnrnnnnnr 260 tUriStMOIMS oosesseeseereresrersrersrnsnernnnrrnnnrnnrn nn nn ann 18, 3y, 5y veterinärkOStNnader........ssssssssesssrersnesnrnnnesenerrernnnnrennnrnnnn nn 26 väg- och broavgifter s.....,,..sssssssessrsnenesennsrerenenenenrnrnnen ennen nan 26 Mexiko, dubbelbeskattningsavtal .....smmmsssssssssessessnnnnnnsnnnrnn 4 Miljöskatter, se Energiskatter och Punktskatter Narkotikakontrollen s..mmsmsssssssssessessrrnnersnennnrrnnsrennsrennrrnnnen nere 23, ly NatUrgrUSs.sssosssnenserrnenreneeresreagesrsresnesn nen nererrrnnrnnrnener nen nrn ennen nen nnn 34 Nederländerna, dubbelbeskattningsavtal orrerseerserrenrenr ran nrnnnnn 3 Organisationsavgifter, likformiga regler ................ssssss0s0ns0ne 20 Pensionssparande. .....sssssespersesernsnrenrrensrrerreennrnrnernrnernrrsrrr ser nn rn nn 31, 5y Personalrabatter s...smmmssssssssrssserersnrrrrerrnreenrrrrrrnnrrnnern ner n nn rr nn nn nn 20</p>
-          <p>Persontransporter, mervärdesskatt</p>
-          <p>1992/93:SkU Reg.</p>
-          <p>15</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_SkU/reg_199293_SkU-016.pdf"/>
-          <p>ProjektkapitalbOlag...........ssssssssesrsnenrsrenesrenrenrnnenennennrrenenrrrnnenn</p>
-          <p>Punktskatter bekämpningsmedel.......s.ssessssessesseensessrrsensranennnnsnnnnennrnnen nn bensinskatten hÖjS s.....sss.ssssssesseseessssrerersnrrersenrnrrnnnnnnnn rann DIYhagel ooesessssesessresreseererrerrerrererrrrrnnrsrrrrnsrnsrrrrnrnrrrnern nn nnn nn båtskatt o..ssnnnsssenenenrersrrnrnrrsnnrrrnrnrnenerensnsrnrnensrnnnrnenen nn en nnnn handelSsgÖdS€el ssmmsssessssnnernesrsenrenrennrnrernnenrernesnnnnnrn nr nrn nanna hundskatten sssmmssssssssresseesrrsrrsensrassrnenrsrrrersrrnnr ran nrnnnrann rn nan inriktning av beskattningen.............ss.sessssssssssssssenesnanennnn MiljöfrågOr os.ssmssersesrererrnrsersrrrrerersrnanererenarnensnerannrnnnenn rann nn NatUTgfUS oosoneeoeneeesrereserenenrnnersenrnn een r ense ennen renen ennen ennen erna nn reklamskatten smssmmmssssssssesrersreserarnrnnrnrernr ren rerrrnnnnen nns nn nn nn särskild varuskatt..........o.sssosssosnosnnnnanennnnennenesnennnnnnnnnen nana an tobaksskatten, HÖjNiNg s........sssesserssrsreserssrrenrrnrnnnnnnnnrnrn nn</p>
-          <p>se även Alkohol, Energiskatter och Vägtrafikskatter</p>
-          <p>RAapPSOIja oososssesnesesnenrenressrorneseererrenresrenrenrernnsrnnrrernnsrrernennrn ns n rn nn nn Reallöneskyddet slopas vid 1994 och 1995 års taxeringar . Reavinst aktier, Skattesatsen .................osoossoosorerereroerererenrrrrnnrrrrrrnn nr DOStädler oososssererrererrsrererrrererrerenennererenrer ner renen nens n sne n arenan oron Regional differentiering av drivmedelsskatten.................... Reklamskatt, se Punktskatter Reparation av byggnader s........ssssesssssesserssrsreennenrannsrnennnennrnnnnn REeSCIVCLiNg.ososseseeoseessoeerrerserrsersrerrrennnnenrnrnrnnrrrrerannnnn narr rann rna nan Resor bilkostnadsavdraget HÖJS .........s..sssssssssessesesrssesenrnnnnrsnnnnnnn hemresor, avdragsrätten utvidgas ..................-s..sesssssss0nn mervärdesskatt s....snnmsssssesoresssnnrsennnnsrrnnnennnnrernennennnnnen nan nan Restauranger, mervärdesskatt ............ossooossoosoosssonssosnnnnnnnnnnnnn Riksbanken, bemyndigande att föreskriva uppgiftsskyldighet ...........sssssseosessessessensensrnernannernernrernnrnnn nan nn nn Riksdagens skrivelser ...................- Riskkapitalbolag ..............s.ssss0000000n Rån, kapitalförluSt..................sssssosessesrsoso0a Räntefördelning.......ssssesesssessesererseesnrersreerrrnesrrrerrrnnnnsrnnnnr rn n rna Ränteutgifter, avdragsbegränsningar .........sssssesssssenennennnnnnn Räntor, småbelOppP s....sssssssoeseorsesenenenenenesrerenrnnnrrrnnanrrrnanen eran nn</p>
-          <p>Schablonmässig avkastningsskatt..................sssssssessersererennnnn Sexmånadersregeln för SJÖMÄN .........ssssssssssrsrsrsrsrsnennnrnnnnnnnn Sjukförsäkringsavgift fr.o.m. 1994 års taxering................... Sjömän, sexmånaderSsregelh.....s.sosssssossresesrererernnrererserererernnennn Skadeförsäkringsföretag s..............ssessessersesssersernessnrnesnnerrnn nn nn Skatteflyktslagen avskaffande sussssssseseresesrsenennenrsrnrenennenrrnrenenrennnr sne nn renen nanna fråga om återinförande s...sm.s.ossesorersorrerererresesrerrnrerenennn nn Skatteförvaltningen AaNSlagSfrågOr..sssssssssseseseserrereresrerererrerrerrerrerernrrernrrrnennnnen enn moOmSs-kONtrOll.ssosssssesessssesrenrenrenrerrrnrrennnernr ennen ennen rr nen nnn rna</p>
-          <p>21</p>
-          <p>14,19 14 18, 3y, 5y 18, 3y, 5y 10</p>
-          <p>1992/93:SkU Reg.</p>
-          <p>16</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_SkU/reg_199293_SkU-017.pdf"/>
-          <p>Skattepolitikens inriktniNg........s.sssesesssesersrssssrserererrsnssnrnnsnnnr Skattereduktion för vissa byggnadskostnader...................... Skattereduktionen för underskott, procentsatsen.............. Skatteregistret bevarande av uppgift€r...........sssssssesererssersnrsresnennnsrennsnsnen gäldenärsutrednNing...msmsoeeeorereerereeneerrereererersrrrrrnnsrnrnrnrnnn Skatteutjämningsreserv (SURV)J.......ssssssssoseoseoesenesenennnnnnnnnnsn Skatteuttaget för höginkomsttagare............s.ssssssssssosseosnennenen SKOgSAVCL AG oooseeseereererrerrersrenrerrrererereerresrerrnrrrrer nere nrnrnenrnnrn ren n nn SKOgSKONLO oososnoenenrerernenenrsenrenrernennenenrnanenranarn ennen enenenenenen enar arne ran Skogsnäringens vägtrafikskatter s..ssmmmmnsoseseeneororororrenennennnnnnn SkördeskadekOnNtO smmssessessenseeneenrensrennenrnesnrnrnrenrenerenrnnenenerenn nn Slott, underhåll äv smsmmsssssssorsrsoreneeorerenrenesresrernesrresererenenenennnn nn Socialavgifter på bidrag till vinstandelsstiftelser ................. Sparande för PeENSiON smmsmsssssrsssreresrsrerernenrnnsnersrrsnnrrernrnrnnnenr SParaVvdÅL AG ooosessseerereseserrennenenrenrenesrennenrrresnsrreneerererenererr nr nns nan SPONSFLiNGeoeeeseerrererrenernreernnernnesreerrenrresnsrerernrnr er nsrernereren nn nn en rn nn Statistiska centralbyrån, uppgiftslämnande från Tullverket till.ssosssosssssressnernsrrnnsnnennrrernnerernerrnrernrererrrnnerrrnrrnnnnn Statlig inkomstskatt, reallöneskyddet vid 1994 och 1995 ÅLS fäXETiNGAL oooossseresseessesrererereresesrererenrrnerenenennnn renen sn nn nn en nan ann Stiftelsen Bostadskooperationens garantifond....................- Stipendier, faCkligåa w.......ssssssssessesnnennannnernrsnrsnresnenerenrnerenenrnr nr Straffskatten vid tillverkning av Sprit s....ss.ssssssssresensnsnennnnnnn Stämpelskatt</p>
-          <p>anstånd med SKatt...........e.ssssssssesssssesennsrenenesnensrsennnnrnrnnnnnn beloppsgräns, kvarstående skatt och ö-skatt................. betalningar till och från utlandet................es--sssssesssnsn</p>
-          <p>betalningSslägen sm.ssmmmssesssresseransrnrensrrrsnrrernrennernrnrrnn sn rn nn nnn nn betalningssäkringslägen.........ssssssssesssransnnannesennennennennnnsnene bevissäkringSslagen smssmmmsssessrssrsrransrrnnsnrnnnnrnnennenern ennen renen enn eftertaxering, förutsättningar ....ssmsss.sssssssssesenensnsnnnnnnn F-skatt, preliminärskatteuttaget....................o.seesesnnnonnon förenklingar i deklarationsförfarandet ..................---+---- förhandsbesked s..ssmmmnssresennenraneeneerennernennennenensnnnernnnnnnnnnnn en förtryckta deklarationsblanketter................e.sesssssseses0n0nn indrivningslag, NY .smmmsessessssrrensesnnerrenrernnererrnrnrrnrnenennnnn en JÄMKNING oosoosessesesseerererersrerrrereenn rerna ren esnnrnnenerenerrnnrnen ennen nn kontrolluppgift på juridiska personers ränteinkOmMSter ssssssessessrassrersrerennrrnsrrnerrerrrerrrrernnnnrnrrnrnn na kontrolluppgifter på SMåräntOr .............sesessssssesssenesnnnnns livräntor, skatteavdräg..............ssssssoossnnnnannnnn pensioner, skatteavdrag</p>
-          <p>20, 3y, 5y 33, 36 18, 20, 3y</p>
-          <p>10, 28 10, 22, 28 22</p>
-          <p>1992/93:SkU Reg.</p>
-          <p>17</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_SkU/reg_199293_SkU-018.pdf"/>
-          <p>preliminärskatt, arbetskostnader ..............sesesssssesreersnnner räntor och avgifter ........ss.sssssssrseresrrerereenrernrenresrnnserrrrnnnnn nen räntor, skatteaVCOrag......osossssesersresrnnreerererrnnransrrerennn nen nn nan skatteflyktslägen ....ssssssoonssnesneroreresrerrrrnrrnerrnnerrernenn ennen nen skatteplaneringskommiSSiON smmsesssssssssnesennnnerenenennnnnnnnnn skattetillägg, förutsättningar s...smmssssssssssesssssnssennanennnnnn ana skattsedel i aUgUSti...........sssssssssseosesrensesrsenrerennenrernerrnnnennn nn ställföreträdares aNSVål..smosssssssoseresnessesnresrnennennn rn nn rn nn nn särskild A-SKatt .smnnmmnssssesnessessresennerrennesrennrrenrenrernsnnnnnnn anna särskild beräkningSsgrUnd. ....sessssssesseessensnesnnnnrnnnnrrnnnrnnnn na torg- och gatuhandel ...ssmmmsssessesserrsrerrrrsrrerranrrsnnrnrnnnnn rn nan ändrad PraXiS smussmmsersessresrersesrersrererrrsrerresrenrrrerrernsn nen nrn nerna nn se även Utsökning Telefonkatalogen, reklamskatt...............s.ssssossosessronsrsnnnernnnnn Tidningar, mervärdesskatt sossmmnmnmsssssessesrenrsesrenrensonsnnsnnernnnnsnnn nr Tobaksbeskattning hälso- och sjukvårdSsavgift...............ssssssssessssssesesesnrnennnnnnn HÖJNING oossesreesreerserrerrrrarnerenrnerr enn enrrnnerrenrenrrn rn en nsn nen nr nn enn n nn skatteuttaget .mmmmsssssseesseessserssrernrenrsrerrrrnrnerrerrnnrnennnrnrnrnnnnnnr Traktamente utomlands s.......sssssessssressrsrenreseeresrenrersrnsnnrrnnnnenn TulldataSystemet s...mnmmsssssesseoseesernrennennernrenrenernnsrennenrsnnsr nen nnnennn Tullfrågor EES-avtalet........osooososoosensennennnnnnennennennennernnsrennenrnnenrernnrnnnnen elektroniskt uppgiftslämnande ...........sssssssssessersrsssnsnnnnnnn enklare gränspassager kontroll av ADB-baserade räkenskaper .......................- resandeinförSselft sm. smmmmsssesssssssssssessnernnnennnnn enn styrkande handlingar ............. tobaksvarOr........s..ssssossnennnnnnnnn</p>
-          <p>tullsamarbete med Estland .... tullsamarbete med Ungern. .....sseessesssesserrsensnssnnnnnnnnnenn nan Tullverket</p>
-          <p>EG-perspektivet.......ssssssssssseonenennenenennenennsnennnnnenn ekonomisk brottslighet lokala verksam heter s.smmmmsssssserssrrnsrnnnrennennrennnsrnrnnnn nn rn rna a narkotikakOntrOll€n ...s.ssssessseesressressrersrrnnennrennrnnnrn nn rnn anna tulldatasystemet ssssssssssessessssssrersnresnrernrsnrnernrsnrernn rer rn rrnn en utlämnande av Uppgifter..........sssssssosssosererenenenennsnennenennnn Tunga fordon senareläggning av försäljningsskatten ......................-.-.. sänkt fordOnsskatt...............sssssssssserseasersenneneanasnrnnsnnrnnrnnn nn</p>
-          <p>Underskott kapital, skattereduktiOn s..smsessssssesessesnennenennnnnsnnrrnrnnrnnn nen näringsverkSamn hets. ..ssssnssesesesssrrerensernnsrrennrsernrnnrnnnrrnrnnnen nn</p>
-          <p>9</p>
-          <p>23, 29</p>
-          <p>23, 29</p>
-          <p>23, Sy</p>
-          <p>23, ly 23, 29</p>
-          <p>20, 3y, 5y 21</p>
-          <p>1992/93:SkU Reg.</p>
-          <p>18</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_SkU/reg_199293_SkU-019.pdf"/>
-          <p>Ungdomsbosparande, slopade skattelättnader..................... Ungern, tullsamarbetsavtal sm. snmmmmnssssssssressnrsnnesnrsnnenrennennennen nr Uppbörd, se Taxering och uppbörd Uppgiftsskyldighet arbetsgivares, arbetstagares och myndighets ................. för livförSäkfing.....ssssersssesresnreresresrrrnerrerennenrrnennrnenrnnnnn nan UpphovsmannakOntO s...msmeseersessesesnenenrernesnenenesennensnenenennnnnrnrnen Uppskov med behandlingen av vissa ärenden .................... Uppskovsbelopp, egenföretagare ..........ssssssnssensssenenensnrnenennnn Utlandstraktamenten s.smsmmmsssssessresresersnarrerrennnnennenennennnn ennen nn nan Utländska försäkringar, skatt på premiebetalning.............. Utsökning avräkning för förrättningskostnader ................-.s-sss------- krediteringsordning Ny iNndrivningSläg....sseesssssessesreeseensennereennsnennrnrnnsnennrnrnnnnnnn</p>
-          <p>ValutakursförluSter........s.ssssessrersrrrrrarsrrrsnnsrnernrnnnenn annen nn nerna nt Vedpannor............ Vegetabilisk olja Veteranbilar s......sssssssssossnsnnnsnnnnnn nn Vindkraft ososssnnesssessrersrsresrrerrserrrrerrrnranrrerrsrnrrrenr rna nrnnrn nn n ennen nen nana Vinstandelsstiftelser, socialavgifter på bidrag till................ Vägnätets bärighet, fordonsskatt................sssssssssoeseosnsoeosnenenn Vägtrafikskatter bensinskatten, blyad benSil......s..ssssssessesresersenernennnnnnnn ann bensinskatten, HÖjNiNg ...sesseesrersressrersrenrenrnerrenrennernnnn nn nn bilar med svaga låS mmsmsnsssesresrerererreresrerenesrererererenenenrnrnen rna dieseloljeskatten, införande s.....sssssseseosesessenrnnrnnnnennnnnnnn nn dieseloljeskatten, SÄNknNiNg s....mssssssoseoseneenenennennenennnnsnennn fordonsskatten, anpassning till nya bärighetsregler...... fordonsskatten, dieselfordOn.............ssssssssssssreseserensrrnenn na fordonsskatten, sänkning för tunga fordon ..................- fordonsskatten, återbetalning vid järnvägstransport..... försäljningsskatten, energisnåla fordon ..................-....-- försäljningsskatten, tunga fOordOn s.........ssesssessesrerererernrnr försäljningsskatten, återbetalning vid viss export ......... jordbrukstraktOrer.........ssesssssesssneneanenennnnenenenennnnnnnnnnnnn nn nn kilometerskatten, SIOPaNde .....sssssessresressennnennnnnnnennnnnnn ann regional differentiering av drivmedelsskatt................... SKOgSNÄriNgeN oosoosesseesesresseeseesersreseennesnennenrsnennenennrn enn nn nn nn veteranbilar s....sns.sssosssssssenseenrenrennrnnnrnerrnnnrnenn ennen nrnrn nn nen se även Energiskatter Värnskaått ossssssseesserersnrrnnnrnsreresrrerrrsrrrsrrrrrnrerr rer enn ennen nen n rn rn rann</p>
-          <p>YrkesfisSkar€. ....oosnnononaeesrrerreerrrrrrrrenerererrrrrrsrnnrenrnnnnnnnrrrrnr rr anna</p>
-          <p>Ökade levnadskostnader utomlands ............s.ssosseossosseserornnn ÖveravskrivnDinlg s...mssssssssosssosssenosrenoosrnnnesrrnnnnersrrnnnanrnrrrnnnnn</p>
-          <p>18, 3y 1992/93:SkU Reg.</p>
-          <p>18,</p>
-          <p>20,</p>
-          <p>7</p>
-          <p>19</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_SkU/reg_199293_SkU-020.pdf"/>
-          <p>gotab 43986, Stockholm 1993</p>
+          <p>
+            Skatteutskottets register vid
+          </p>
+          <p>
+            riksmötet 1992/93 a
+          </p>
+          <p>
+            1992/93 SkU Reg.
+          </p>
+          <p>
+            Betänkanden Nr SkU1 Höjd skatt på tobaksvaror (prop. 1992/93:52)
+            Utskottets justering 1992-11-12 Förslag till beslut: Bifall till
+            propositionen. Avslag på motionerna. Debatt i kammaren 1992-11-25
+            Protokollsnummer 1992/93:31 Riksdagens beslut: Bifall till utskottets
+            hemställan 1992-11-25 Protokollsnummer 1992/93:31 Riksdagsskrivelse
+            1992/93:27 Nr SkU2 Dubbelbeskattningsavtal med Tyskland (prop.
+            1992/93:3) Utskottets justering 1992-11-17 Förslag till beslut:
+            Bifall till propositionen. Riksdagens beslut: Bifall till utskottets
+            hemställan 1992-12-10 Protokollshnhummer 1992/93:42 Riksdagsskrivelse
+            1992/93:78 Nr SkU3 Dubbelbeskattningsavtal med Mauritius, m.m.
+            (prop. 1992/93:24) Utskottets justering 1992-11-17 Förslag till
+            beslut: Bifall till propositionen. Riksdagens beslut: Bifall till
+            utskottets hemställan 1992-12-10 Protokollshnummer 1992/93:42
+            Riksdagsskrivelse 1992/93:79 Nr SkU4 Dubbelbeskattningsavtal med
+            Mexiko (prop. 1992/93:45) Utskottets justering 1992-11-17 Förslag
+            till beslut: Bifall till propositionen. Riksdagens beslut: Bifall
+            till utskottets hemställan 1992-12-10 Protokollsnhummer 1992/93:42
+            Riksdagsskrivelse 1992/93:80
+          </p>
+          <p>
+            I Riksdagen 19921/93. 6 saml. Register
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_SkU/reg_199293_SkU_0001"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_SkU/reg_199293_SkU_0002"/>
+          <p>
+            Nr SkUS Dubbelbeskattningsavtal med Botswana (prop. 1992/93:94)
+          </p>
+          <p>
+            Utskottets justering 1992-11-17 Förslag till beslut: Bifall till
+            propositionen. Riksdagens beslut: Bifall till utskottets hemställan
+            1992-12-10 Protokollsnhummer 1992/93:42 Riksdagsskrivelse 1992/93:81
+            Nr SkU6
+          </p>
+          <p>
+            Utlämnande av uppgifter från Tullverket till vissa myndigheter
+            (prop. 1992/93:66)
+          </p>
+          <p>
+            Utskottets justering 1992-11-10 Förslag till beslut: Bifall till
+            propositionen. Riksdagens beslut: Bifall till utskottets hemställan
+            1992-11-25 Protokollsnummer 1992/93:31 Riksdagsskrivelse 1992/93:28
+            Nr SkU7
+          </p>
+          <p>
+            Godkännande av en överenskommelse mellan Sverige och Ungern om
+            ömsesidigt bistånd i tullfrågor (prop. 1992/93:92)
+          </p>
+          <p>
+            Utskottets justering 1992-11-24 Förslag till beslut: Bifall till
+            propositionen. Riksdagens beslut: Bifall till utskottets hemställan
+            1992-12-10 Protokollsnhummer 1992/93:42 Riksdagsskrivelse 1992/93:82
+            Nr SkU8
+          </p>
+          <p>
+            Skattelättnader vid utskiftning av aktier i riskkapitalbolag,
+            m.m. (prop. 1992/93:108) Utskottets justering 1992-11-19 Förslag
+            till beslut: Delvis behandling av propositionens lagförslag (jfr
+            SKU14 och SkU18), i övrigt bifall. Avslag på motionen.
+          </p>
+          <p>
+            Debatt i kammaren 1992-11-25 Protokollsnummer 1992/93:31 Riksdagens
+            beslut: Bifall till utskottets hemställan 1992-11-25 Protokollshummer
+            1992/93:31 Riksdagsskrivelse 1992/93:26 Nr SkU9
+          </p>
+          <p>
+            Vissa uppbörds- och indrivningsfrågor, m.m. (prop. 1992/93:96,
+            prop. 1991/92:85) Utskottets justering 1992-11-24 Förslag till
+            beslut: Delvis bifall till propositionen. Avslag på motionen.
+          </p>
+          <p>
+            Debatt i kammaren 1992-12-09 Protokollsnummer 1992/93:41 Riksdagens
+            beslut: Bifall till utskottets hemställan 1992-12-09 Protokollsnummer
+            1992/93:41
+          </p>
+          <p>
+            Riksdagsskrivelse 1992/93:66
+          </p>
+          <p>
+            1992/93:SkU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_SkU/reg_199293_SkU_0003"/>
+          <p>
+            Nr SkU10 Upphävande av lagen (1990:750) om betalningar till och
+            från utlandet m.m. (prop. 1992/93:65)
+          </p>
+          <p>
+            Utskottets justering 1992-11-05 Förslag till beslut: Bifall till
+            propositionen. Avslag på motionerna. Debatt i kammaren 1992-12-15
+            Protokollshummer 1992/93:45 Riksdagens beslut: Bifall till utskottets
+            hemställan 1992-12-16 Protokollsnhummer 1992/93:46 Riksdagsskrivelse
+            1992/93:124 Nr SkU11
+          </p>
+          <p>
+            Ytterligare förenklingar i deklarationsförfarandet (prop. 1992/93:86)
+            Utskottets justering 1992-12-08 Förslag till beslut: Bifall till
+            propositionens förslag. Avslag på motionerna.
+          </p>
+          <p>
+            Debatt i kammaren 1992-12-17 Protokollsnummer 1992/93:47 Riksdagens
+            beslut: Bifall till utskottets hemställan 1992-12-17 Protokollsnhummer
+            1992/93:47 Riksdagsskrivelse 1992/93:146 Nr SkU12 Föreskrifter
+            för fastighetstaxering Utskottets justering 1992-11-24 Förslag
+            till beslut: Initiativ till lagändring. Riksdagens beslut: Bifall
+            till utskottets hemställan 1992-12-02 Protokollsnhummer 1992/93:36
+            Riksdagsskrivelse 1992/93:40 Nr SkU13
+          </p>
+          <p>
+            Slopad kilometerskatt och ny skatt på dieselolja (prop. 1992/93:124)
+            Utskottets justering 1992-12-08 Förslag till beslut: Delvis bifall
+            till propositionen. Delvis bifall till 2 motioner rörande försäljningsskatten
+            på tunga fordon, avslag på övriga motioner.
+          </p>
+          <p>
+            Debatt i kammaren 1992-12-17 Protokollshnhummer 1992/93:47 Riksdagens
+            beslut: Bifall til utskottets hemställan 1992-12-17 Protokollsnhummer
+            1992/93:47 Riksdagsskrivelse 1992/93:147 Nr SkU14
+          </p>
+          <p>
+            Vissa frågor om beskattning av inkomst av tjänst (prop. 1992/93:127)
+            Utskottets justering 1992-12-08 Förslag till beslut: Delvis bifall
+            till propositionen. Delvis bifall till I motion rörande bilresor,
+            avslag på övriga motioner.
+          </p>
+          <p>
+            1" Riksdagen 1992/93. 6 saml. Register
+          </p>
+          <p>
+            1992/93:SkU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_SkU/reg_199293_SkU_0004"/>
+          <p>
+            Debatt i kammaren 1992-12-17
+          </p>
+          <p>
+            Protokollsnhummer 1992/93:47 Riksdagens beslut: Bifall till utskottets
+            hemställan 1992-12-17 Protokollsnummer 1992/93:47 Riksdagsskrivelse
+            1992/93:148 Nr SkU15 Vissa företagsskattefrågor (prop. 1992/93:131)
+            Utskottets justering 1992-12-08 Förslag till beslut: Delvis bifall
+            till propositionen. Riksdagens beslut: Bifall till utskottets
+            hemställan 1992-12-17 Protokollshummer 1992/93:47 Riksdagsskrivelse
+            1992/93:149 Nr SkU16 Fastighetstaxering m.m. (prop. 1992/93:122)
+            Utskottets justering 1992-12-08
+          </p>
+          <p>
+            Förslag till beslut: Bifall till propositionen med vissa tillägg.
+            Avslag på motionerna.
+          </p>
+          <p>
+            Debatt i kammaren 1992-12-17 Protokollsnhummer 1992/93:47 Riksdagens
+            beslut: Bifall till utskottets hemställan 1992-12-17 Protokollsnummer
+            1992/93:47 Riksdagsskrivelse 1992/93:150 Nr SkU17
+          </p>
+          <p>
+            Beskattning av inkomst från handelsbolag i samband med att andelen
+            överlåtits (prop. 1992/93:151, skr. 1992/93:138) Utskottets justering
+            1992-12-08 Förslag till beslut: Bifall till propositionen med
+            vissa justeringar. Avslag på motionerna.
+          </p>
+          <p>
+            Debatt i kammaren 1992-12-18 Protokollsnummer 1992/93:48 Riksdagens
+            beslut: Bifall till utskottets hemställan 1992-12-18 Protokollsnummer
+            1992/93:48 Riksdagsskrivelse 1992/93:156 Nr SkU18
+          </p>
+          <p>
+            Vissa författningsändringar (prop. 1992/93:50 bil. 5, prop. 1992/93:65,
+            prop. 1992/93: 86, prop. 1992/93:89, prop. 1992/93: 90, prop.
+            1992/93:108, prop. 1992/93:119, prop. 1992/93:126, prop. 1992/93:136)
+          </p>
+          <p>
+            Utskottets justering 1992-12-08 Förslag till beslut: Bifall till
+            propositionerna med vissa ändringar. Riksdagens beslut: Bifall
+            till utskottets hemställan 1992-12-18 Protokollsnummer 1992/93:48
+            Riksdagsskrivelse 1992/93:158
+          </p>
+          <p>
+            1992/93:SkU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_SkU/reg_199293_SkU_0005"/>
+          <p>
+            Nr SkU19 Tillfälliga skattelättnader för egenföretagare m.m.
+            (prop. 1992/93:100 bil. 8) Utskottets justering 1993-02-11 Förslag
+            till beslut: Bifall till propositionen i denna del. Avslag på
+            motionerna.
+          </p>
+          <p>
+            Debatt i kammaren 1993-02-17 Protokollshummer 1992/93:63 Riksdagens
+            beslut: Bifall till utskottets hemställan 1993-02-17 Protokollshummer
+            1992/93:63 Riksdagsskrivelse 1992/93:167 Nr SkU20 Skattepolitiken
+            Utskottets justering 1993-03-16 Förslag till beslut: Avslag på
+            samtliga motioner. Debatt i kammaren 1993-03-31 Protokollshnhummer
+            1992/93:87 Riksdagens beslut: Bifall till utskottets hemställan
+            1993-03-31 Protokollshummer 1992/93:87 Nr SkU21 Företagsskattefrågor
+            Utskottets justering 1993-03-23 Förslag till beslut: Avslag på
+            samtliga motioner Debatt i kammaren 1993-04-21 Protokollshummer
+            1992/93:96 Riksdagens beslut: Bifall till utskottets hemställan
+            1993-04-21 Protokollshummer 1992/93:96 Nr SkU22 Anslag till skatteförvaltningen,
+            m.m. (prop. 1992/93:100 bil. 8) Utskottets justering 1993-03-23
+          </p>
+          <p>
+            Förslag till beslut: Bifall till propositionen. Delvis bifall
+            till motion Sk803. I övrigt avslag på motionerna.
+          </p>
+          <p>
+            Debatt i kammaren 1993-04-21 Protokollsnummer 1992/93:96 Riksdagens
+            beslut: Bifall till utskottets hemställan 1993-04-21 Protokollsnummer
+            1992/93:96 Riksdagsskrivelse 1992/93:287 Nr SkU23 Anslag till
+            Tullverket, m.m. (prop. 1992/93:100 bil. 8) Utskottets justering
+            1993-03-09 Förslag till beslut: Bifall till propositionen. Avslag
+            på motionerna. Debatt i kammaren 1993-03-24 Protokollshnhummer
+            1992/93:82 Riksdagens beslut: Bifall till utskottets hemställan
+            1993-03-24
+          </p>
+          <p>
+            Protokollshummer 1992/93:82
+          </p>
+          <p>
+            1992/93:SkU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_SkU/reg_199293_SkU_0006"/>
+          <p>
+            Riksdagsskrivelse 1992/93:211
+          </p>
+          <p>
+            Nr SkU24 Skattelättnad vid överlåtelse av aktier i riskkapitalbolag
+            m.m. (prop. 1992/93:125)
+          </p>
+          <p>
+            Utskottets justering 1993-03-09 Förslag till beslut: Bifall till
+            propositionen. Riksdagens beslut: Bifall till utskottets hemställan
+            1993-03-17 Protokollsnummer 1992/93:77 Riksdagsskrivelse 1992/93:198
+            Nr SkU2S Vissa punktskattefrågor (prop. 1992/93:166) Utskottets
+            justering 1993-03-24 Förslag till beslut: Bifall till propositionen.
+            Avslag på motionerna. Debatt i kammaren 1993-04-14 Protokollsnummer
+            1992/93:91 Riksdagens beslut: Bifall till utskottets hemställan
+            1993-04-15 Protokollsnummer 1992/93:92 Riksdagsskrivelse 1992/93:264
+            Nr SkU26 Mervärdesskatt (prop. 1992/93:190) Utskottets justering
+            1993-05-25
+          </p>
+          <p>
+            Förslag till beslut: Bifall till propositionen med viss ändring
+            i lagförslaget. Delvis bifall till 3 motioner om väg- och bro-
+            byggen, 5 motioner om alternativmedicin och 2 motioner om gruppregistrering
+            av företag. I övrigt avslag på motionerna.
+          </p>
+          <p>
+            Debatt i kammaren 1993-06-07 Protokollsnummer 1992/93:123 Riksdagens
+            beslut: Bifall till utskottets hemställan 1993-06-08 Protokollsnummer
+            1992/93:124 Riksdagsskrivelse 1992/93:420 Nr SkU27 Indrivningslag
+            (prop. 1992/93:198, prop. 1992/93:150) Utskottets justering 1993-05-27
+            Förslag till beslut: Bifall till propositionen. Riksdagens beslut:
+            Bifall till utskottets hemställan 1993-06-09 Protokollshnummer
+            1992/93:125 Riksdagsskrivelse 1992/93:448 Nr SkU28
+          </p>
+          <p>
+            Overföring av Riksskatteverkets beskattningsavdelning i Ludvika
+            till Skattemyndigheten i Kopparbergs län, m.m. (prop. 1992/93:196)
+            Utskottets justering 1993-04-29 Förslag till beslut: Bifall till
+            propositionen. Avslag på motionerna.
+          </p>
+          <p>
+            1992/93:SkU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_SkU/reg_199293_SkU_0007"/>
+          <p>
+            Debatt i kammaren 1993-05-12 Protokollsnhummer 1992/93:109 Riksdagens
+            beslut: Bifall till utskottets hemställan 1993-05-19 Protokollsnhummer
+            1992/93:113 Riksdagsskrivelse 1992/93:336 Nr SkU29 Tullfrågor
+            (prop. 1992/93:208) Utskottets justering 1993-05-18 Förslag till
+            beslut: Bifall till propositionen. Avslag på motionerna. Riksdagens
+            beslut: Bifall till utskottets hemställan 1993-06-02 Protokollsnummer
+            1992/93:120 Riksdagsskrivelse 1992/93:369 Nr SkU30 Beskattning
+            av allmännyttiga bostadsföretag (prop. 1992/93:241) Utskottets
+            justering 1993-05-25 Förslag till beslut: Bifall till propositionen.
+            Avslag på motionerna. Debatt i kammaren 1993-06-07 Protokollsnummer
+            1992/93:123 Riksdagens beslut: Bifall till utskottets hemställan
+            1993-06-08 Protokollsnhummer 1992/93:124 Riksdagsskrivelse 1992/93:421
+            Nr SkU31 Individuellt pensionssparande (prop. 1992/93:187) Utskottets
+            justering 1993-05-12 Förslag till beslut: Bifall till propositionen.
+            Avslag på motionerna. Debatt i kammaren 1993-05-27 Protokollsnummer
+            1992/93:117 Riksdagens beslut: Bifall till utskottets hemställan
+            1993-05-28 Protokollsnummer 1992/93:118 Riksdagsskrivelse 1992/93:359
+            Nr SkU32
+          </p>
+          <p>
+            Godkännande av en överenskommelse mellan Sverige och Estland
+            om ömsesidigt bistånd i tullfrågor (prop. 1992/93:223)
+          </p>
+          <p>
+            Utskottets justering 1993-04-20 Förslag till beslut: Bifall till
+            propositionen. Riksdagens beslut: Bifall till utskottets hemställan
+            1993-05-06 Protokollshummer 1992/93:106 Riksdagsskrivelse 1992/93:325
+          </p>
+          <p>
+            1992/93:SkU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_SkU/reg_199293_SkU_0008"/>
+          <p>
+            Nr SkU33 Bostadsbeskattning m.m. Utskottets justering 1993-03-30
+            Förslag till beslut: Tillkännagivande med anledning av vissa motioner.
+            Avslag på övriga motioner.
+          </p>
+          <p>
+            Debatt i kammaren 1993-04-14 Protokollshummer 1992/93:91 Riksdagens
+            beslut: Bifall till utskottets hemställan 1993-04-15 Protokollsnummer
+            1992/93:92 Riksdagsskrivelse 1992/93:265 Nr SkU34
+          </p>
+          <p>
+            Sänkning av dieseloljeskatten (prop. 1992/93:192, prop. 1992/93:
+            124, prop. 1992/93:187) Utskottets justering 1993-05-18 Förslag
+            till beslut: Bifall till proposition 192 och bifall till vissa
+            delar av propositionerna 124 och 187. Initiativ till lagändring.
+            Delvis bifall till 2 motioner rörande biobränslenas konkurrenssituation.
+            Avslag på övriga motioner.
+          </p>
+          <p>
+            Debatt i kammaren 1993-06-02 Protokollsnhummer 1992/93:120 Riksdagens
+            beslut: Bifall till utskottets hemställan 1993-06-02 Protokollsnummer
+            1992/93:120 Riksdagsskrivelse 1992/93:370 Nr SkU35 Sexmånadersregeln
+            för sjömän (prop. 1992/93:217) Utskottets justering 1993-05-12
+            Förslag till beslut: Bifall till propositionen. Riksdagens beslut:
+            Bifall till utskottets hemställan 1993-05-27 Protokollshummer
+            1992/93:117 Riksdagsskrivelse 1992/93:354 Nr SkU36
+          </p>
+          <p>
+            Skattereduktion för vissa reparationsarbeten (prop. 1992/93:150
+            bil. 6) Utskottets justering 1993-05-27 Förslag till beslut: Bifall
+            till propositionen med vissa ändringar. Avslag på motionerna.
+          </p>
+          <p>
+            Debatt i kammaren 1993-06-07 Protokollshummer 1992/93:123 Riksdagens
+            beslut: Bifall till utskottets hemställan 1993-06-08 Protokollsnhummer
+            1992/93:124 Riksdagsskrivelse 1992/93:422 Nr SkU37
+          </p>
+          <p>
+            Uppskov med behandlingen av vissa ärenden (prop. 1992/93:159
+            delvis, prop. 1992/93:174 delvis, prop. 1992/93:177, prop. 1992/93:252)
+            Utskottets justering 1993-05-13 Riksdagens beslut: Bifall till
+            utskottets hemställan 1993-06-08
+          </p>
+          <p>
+            1992/93:SkU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_SkU/reg_199293_SkU_0009"/>
+          <p>
+            Protokollsnsummer 1992/93:124
+          </p>
+          <p>
+            Nr SkU1y till EU (EU1) EES-avtalet (prop. 1991/92:170) Utskottets
+            justering 1992-08-20
+          </p>
+          <p>
+            Nr SkU2y till NU (NU7) Ombildning av föreningsbanker (prop. 1992/93:69)
+            Utskottets justering 1992-11-03
+          </p>
+          <p>
+            Nr SkU3y till FiU (FiU1l) Åtgärder för att stabilisera den svenska
+            ekonomin (prop. 1992/93:50) Utskottets justering 1992-11-24
+          </p>
+          <p>
+            Nr SkU4y till KU (KU30) Regeringens redogörelse för behandlingen
+            av riksdagens skrivelser till regeringen (skr. 1992/93:15) Utskottets
+            justering 1993-02-11
+          </p>
+          <p>
+            Nr SkUS5y till FiU (FiU30) Skattefrågor i kompletteringspropositionen
+            (prop. 1992/93:150) Utskottets justering 1993-05-18
+          </p>
+          <p>
+            1992/93:SkU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_SkU/reg_199293_SkU_0010"/>
+          <p>
+            Sakregister
+          </p>
+          <p>
+            Aktier byte av föreningsandelar mot aktier ................soss00nnnn
+            nn följdändringar till ny börslagstiftning................ kontantvederlag
+            vid byte....................... näringsbetingade, förlust på pensionssparande
+            i riskkapitalbolag sm.mmmmssssssseesessenrnnerrnnnersnnnrennnnnn
+            nan nn skattesatsen för reavinster och utdelning underlag för
+            skatteutjämningsreserV.............................. Alkoholbeskattning
+            färjetrafik€N...sssssssseesrersrersresrerrrrenrnrersrrrrrnrrrnnnnnn
+            nen nnnn nanna nan Gotland SOM friZON susmssseresesesrenenrerenrerenenennenenenn
+            aren narr annan hälso- och sjukvårdsavgift ..............s.ssssssssssssssesenssnsennnnnnn
+            konsumentpriSinde€X..........ssssssssesseoesessrenennesnesnennernrnenn
+            rant skatteuttaget äNAraS suumsmmssssssesssrssrrrrrrrsrasrsnrrnnnenn
+            nen n nn rna n nn straffskatten vid sprittillverkning...........ss.sssssssssssnesnsnsnnn
+            Allemanssparkonto, skattelättnaderna slopas .....................
+            Allmänna avdrag individuellt pensionssparande. ........ssssssessessrsresrrrnnrennennr
+            KkONtantprinCiPp€D......sesssssssersrsseesssrrnsernrennnrnnnennnnnnrsn
+            nerna nn Allmännyttiga bostadsföretag schablonbeskattningen SlOPaS............sssssssssssessessersennsnnnnt
+            stämpelskatten, särreglerna SlOpaS s......ss.sssssosssnnenennnnn
+            ann Anslag exportkreditbidrag.............ssssssssseesraseeneersernnnresnrrnrnnernsnnn
+            nr handikappade ägare av motorfordOn................-sssssss----
+            Riksskatteverkets..soossssssosseonoersennssennnnenresrsrennnenrrnsrnrnnnrnn
+            nn skattemyndigheternNa s..mmmmmsssssssessressrenssenrennnrrrrrnnnnnnnnnn
+            enn nr Tullverketsssssssesrreseassrensressransessnnrnrnrsrennnernnrennrnn
+            nen nn rn rna nen Arbetsbyten, skattebefrielse fÖr s.........s..sssssssssssessersernnnnnnnnnn
+            Arvs- och gåvoskatt följdändringar till ny börslagstiftning.......................--.-
+            INDEtalNiNg sossssseessrerseerrrerrrerrerrsennrrrnrnerrnnnnnnnn
+            nn nr rnn nen nnn nn nn individuellt pensionssparande. .......ssssesesessssrrsreresensnnennn
+            se även Kapitalbeskattning Avkastningsskatt, pensionskapital......sse.ssssseseeresesseenrennennnnnnn
+          </p>
+          <p>
+            Banksparande för penNSiOnN ..sssssessessrersssrsrsssrrererrrnernnrnnern
+            rna nt Barn barnpension, tekniska justeringar barntillSYi msssssssssessserressrerrrerrrsrrrsrrnnrsrrnnrrsr
+            rna nrrn ner ner n rna n nn dagbarnvårdare s.msmssssesresesrsrerenesrerernrsreresesrrn
+            ennen enn nen enn n ann föräldrakOOperatiVv...smsssssssssesssrssnensnnsnnennrsrnnenr
+            ns nr nn nn nn nn nn SIMåÅLÄNLOTL oosseoeerserrererereseererenesrereresrereererenerranen
+            rn enar n nn en enn nn Bekämpningsmedel a..mmsmssssssssrsrsresenrenennerenennrnennenennnnenen
+            enn nnnnn Bensinskatt blyad benNSilussssssesresesrsrrerreresernerrrsrnsnnernsrernnerern
+            nen nrrrrnn nn nn höjning
+          </p>
+          <p>
+            8, 24 18, 20, 3y, 5y
+          </p>
+          <p>
+            25, 3y
+          </p>
+          <p>
+            18, 3y
+          </p>
+          <p>
+            1992/93:SkU Reg.
+          </p>
+          <p>
+            10
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_SkU/reg_199293_SkU_0011"/>
+          <p>
+            Betalningsförmedlare, uppgiftsskyldighet ..............ssssssse&gt;00&gt;
+            Betalningslagen, upphävande... Bilar med Svaga låS sssnnssresssersenrersesrenrsnenresennenennennrnrn
+            ennen enn nana BilfÖrmMånD oossosssseeresressessrerresrerrenrerrerrrrnnernerennen
+            rna enes renen renen nanna 1355 VA T6V BiObränsSlen smsmnssssssessessrrsnsrrsenesnnnerrnrrnnonrenrsnnernsnr
+            renen ennrrnrnr nn nn BIlyhagelisnoosssssssessssennnessrrrsnnnnnrrennnernrrerrnerrernnsrnerrernenrerrrn
+            nen rr nnnn Bostadsbeskattning allmännyttiga bostadsföretag .............ss-ssssesesersenenronennnr
+            fastighetsskatten, avveckling .........ss.sssesssosnsorsnsnsnnnnennn
+            nere fastighetsskatten för nybyggnader minskade subventiOne€r.....ssssessessesrsresenrenennrnsnnnnenennnn
+            enn FeAVINSt ooooseesenesrenrersenrenennenennrrnerneneerernrnnenerennn
+            ennen skattereduktion för byggkostnader slott och herrgårdar,
+            underhåll aV.....ssnsssssossossonesrosnnnnn BostadSförmMån smssusrersrsrererenenrsesesrnennrnenensrnnnrnsnsnrrnsnnnnenrnnen
+            nn nnn Botswana, dubbelbeskattningsavtal Brutet räkenskapsår ...................-.-..-
+            Byggstimulanser, skattereduktion för byggnadskostnader . Båtskatt
+            ...snnnnnssssnanssrnenennnnnnenenenrenensnsnennrnrnsnsnnnnnn Bär,
+            inkomst av plockning
+          </p>
+          <p>
+            Charterskatt avskaffande sssssseeeesesrersrrrreerererererrsrrrrrrrnrr
+            ere nere nn nsnn nen nn nr nar fråga om återinförande s...messesssrsresesesrsnnnnnrnnnnnnrnnnnnn
+            nanna Dagbarn, avdragsregler. ...ssmmmsssssesessrennnsrenernennnerrnsrnerrnrnnn
+            rn rna Dieselfordon, höjd fordonsskatt Dieseloljeskatt INfÖLANÅE
+            sossoseeeeeesereeserrerererreeerrrrerersrrrsrrr enn rr rnre nns
+            nns nn rn anna SÄNKNiNG oosoeeesereserrererrernreersrerrrrnnn
+            nan nsrernrsnnsenesnen er nrn nr r nn rann Dubbelbeskattningsavtal
+            BOtSWANA oossoonssssereresrereereereseeernrererrerrnrrrrrrrrnnnn
+            nen nr enn nn n rr rn n nn
+          </p>
+          <p>
+            EG-frågOr oomonsnsssrarnanneneoresrererrerenennerenrereneneren
+            enn narr en enn nn renen nn EKO-bDIOLtf oosonnsssesssressnssnressrrerrerrrnnnrernnnrnrnenrrnnennerrrrnsnrr
+            ennen rr n nn Ekonomisk förening föräldrakOOpPeratiV........sssssesseseesesnranesenneerenererenrenenrrnrnnrn
+            ann omstrukturering Energiskatter allmän utformning ...sssesssssereserersrarresnennrnnnersnnennrnnrn
+            nen nn nn biobränslen vid leverans till industrin s..mmmmsssssssssesnnn
+            blandbränslen, ändrad beskattning................--sssss-ss&gt;
+            elskatten i norra SVCrige m.smmmmmssesssresereserensrennnsnnsnnnnrnnnnnnn
+          </p>
+          <p>
+            10, 28 1992/93:SkU Reg. 10,
+          </p>
+          <p>
+            20, 14, 19,
+          </p>
+          <p>
+            28 34 34 20 34 25
+          </p>
+          <p>
+            13 34
+          </p>
+          <p>
+            N BYAR
+          </p>
+          <p>
+            11
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_SkU/reg_199293_SkU_0012"/>
+          <p>
+            fjärr Värm soo eosesseeseeerensrsrrrrrrrsrrnnrrrsnrrrernerrnrn
+            ner n nr nr n rn n nanna industrin.... kraftvVärlme ssssmssssssreseeseennrsrrrnnerrrernrsnrrrnnsnernnnsrrrsrrrnnnnre
+            rn nn nan moms på biobränslen rapSOlja sossssssessesnnensrersnrnnn
+            rann nrrnnnn nana nn sänkt energiskatt i miljöklass 1 tUriStiNnClUStlillsssssssseessessrersrrrrrrrrrerrsrrrrrrrerresrnrrrsrnrnrrnrr
+            nn nn nn vedpannor och jordvärmeutrustning vindkraft o..ssssssssssesesrsseenersrannersnannesrerenrererrerennerennerrennnnnnnnn
+            nn Enskild näringsverksamhet summmnsssssesesessesenerenenenenesenrenennnnnnnn
+            Estland, tullsamarbetsavtal sannssssssssssrsssssrserressessersnnsrennn
+            anar
+          </p>
+          <p>
+            Fackföreningsavgifter, likformiga regler .........ss.ssssnosnonnnnnan
+            Fallskärmsavtal, särskilda skatteregler ........................os.o0000-
+            Fastighetsskatt AVVECKliNg oosseeseesrerrerersrersersnrerenarrrrnnnernennernnsnnnnn
+            nerna rna rann nn bostäder och IOkaler...sssmssssssessransnennnnnernnnnnnnnnnnrnnnnnn
+            ann rna byggstimulanNSer smessssssesseseeserrennesnrsnererneserrennsnnnnen
+            ren nrn nn nanna NYbyYggNader oosssssesrerrsessresernernrnnearennnrren
+            senere n ene ennn renen n eran a Fastighetstaxering 1994 års för
+            hyreshus och industrienheter ................... tidpunkten för
+            utfärdande av föreskrifter oo VärderingSfrågOr s.......ssssesseroeserenerenenererersrnenensrnnnennn
+            arenan nn nn FjärfVärllme€..sossssseesesseresernsrsssnnrnnnerrrnnneesnrsrrennenrenn
+            rr ernnrnnnennnnn rann Flyttskatten, SIOPaNnCC...sosssssseessessorsrnesnresrnnrsrnnrnnsrrernsnnnnrnnsn
+            nen Folkbokföring lägen hetsregiSter smmssssssessesreseersrasenrsernennenenennenesnennr
+            nens nn nanna tillhandahållande av uppgifter ........s.s.sesssssssnssesnnnnnnnnnnn
+            Folkpension, tre fjärdedels, grundavdrag...............ss.s--------
+            Fåmansföretag, inkomst av kapital eller av tjänst ..............
+            Färjetrafiken, skattefri försäljniNg.....................s..-..--
+            Föreningsandelar, byte mot aktier Föreningsbanker, ombildning
+            ........ssssssssessssesrrsenrenesnnrsnsnnnnnnn Företagsbeskattning
+            aktieöverlåtelser mellan riskkapitalbolag.....................-
+            allmän investeriNngSreSerV emmmmmermerssssssenresennenennnsnnnnnnnnn
+            avskrivning i StÖdOmråde.........ssesessssessesesenronnnrnennrnnnnnnnnn
+            beredskapslager av Olja ....nmmnssssssensenennenennennenennennnnnrnnrnnn
+            nn bilavdrag för egenföretagare, avdragsbeloppet..............
+            brutet räkenskapSår ...........sosseesesresesesesenenennenenenenennenennnnn
+            nn byte av föreningsandelar mot aktier ..............s.ssssss000o0nnn
+            enskild näringsverksamhet, reformering av SKkattereglerNaå....ssssssosseonessensnsenannsserenrennrsrerrnnennnresrr
+            ner nn nan nn enskild näringsverksamhet, tillfälliga skattelättnader
+            .. följdändringar till ny börslagstiftning.....................-.-----
+            företagshälsovård förlust på näringsbetingade aktier ... handelsbolag,
+            beskattning av inkomst vid överlåtelse.. I-SURV, tillfällig hÖjNiNg
+            sm. ommmmsssesssesesssesnnnenenenennennnn rann nn INNOVAtiONELossossseereserersrrrneessrenneanrrrnrerrnrsnernn
+            annes nen nn nn nn rna nn
+          </p>
+          <p>
+            19,
+          </p>
+          <p>
+            33,
+          </p>
+          <p>
+            20,
+          </p>
+          <p>
+            12
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_SkU/reg_199293_SkU_0013"/>
+          <p>
+            kapitalförlust Vid fån ommmmsesssssnesrrsrosrnrnrnnrrnnrnrrnnnrnnnnnn
+            nn lantmäterikOStnader s...smssesssssesrrsreresenrnnnenrrnrnnennsnnrnnnnnn
+            nn livförsäkringsföretagen, avkastningsskatten ..................
+            ombildning av ekonomisk förening ..............-.--s-sss-s&gt;&gt;--
+            ombildning av föreningsbanker s..........sssssssssseneserorssnnnne
+            projektkapitalbolag....................... öereereneenernesrenren
+            nr ran nrn nan resultatutjämning och reserveriNg.............s.ossssesesnesnennnn
+            riskkapitalbolag s.......ssseseessroneennennnenrerrnrnnnnnnn enn
+            er nnenn nn r rn ner räntefördelning, uppskov Med s.......ssssesesesserereresssrsnrnnnnn
+            schablonmässig avkastningsskatt ....................-e.sesessrren&gt;
+            skadeförsäkringsföretag..............sssssssssesereorarersrennsnnnennn
+            nen skatteutjämningSreSerV...........ssssssossssensonsnnnnnnnnsnrnnsnnnnnnnnnn
+            SKOgSAVÅLAG ooseseeseerseeseernereererenrsenrenrenesnennnnnsnnsnrn
+            nen ren r nn nn nan SKOgSKkONtO...ssssseeseesreneernrnnnnernernerrerrennennnren
+            nen nen enn skärpt bolagsskatt skördeskadekOntO .........sssesssssessssenenenenenneneerenenerernrnrnernenenn
+            SPONSFINQG oooesesesreerserserseesnenrareneenenren renen nsnn
+            ennen renen ennen rn n nen nn underskott, kvittning mot tjänsteinkomster..................
+            upphovsmannakOntO s...ssssessssssssserrseresnreresrnernnnnennrnennnnnnnnn
+            uppskovsbelopp, obeskattade reserver vid 1993 års AXELN ooooseeeoesrerrserrrerresnernenerrernerernenesnenern
+            renen nrn nr nr rann rna valutakursförluster s...ssmsssssssssssserserrrresrennsnnrnnrnrnrnrn
+            ennen rn nn n yrkesfiskare ossssssssesesseaseeneenenennenrenernennsrennerrrnrennr
+            renen nn nn n nn överavskrivning på inventarier ...........s.ssssssssssesssosssnsnnnn
+            Förmån
+          </p>
+          <p>
+            måltider, smärre justeringar ...........sssssssssssenenennenrnnsnrnnn
+            nn representation, Måltider.............s.sssssessssssssssrsronsnsnnrnnnnnnn
+            resefÖrsäkriNgar ssmmmmsessessensessrennennrerenrernnnsrr es nnnnnern
+            nn nn nnn nn räntefÖrmMånNer s.ssssssererererrerererersesenrsrnenrnn
+            enn renen enn nenen rn ennen Förmögenhetsskatt avvecklingen skjuts
+            UPP............ssssssssessessesseoreseerernnrnnnnrnnr lättnadsreglerna
+            för jord- och skogsbruk ..............-.----- återinförande QV....s.sssssseereserenenesnsnsenrnrerennnnenenennenennnnenen
+            enn Förpackningsskatt avskaffande sosssseeseerssreersesrererrererrennerenrenenn
+            nr renen n rn nrn nn nn nn fråga om återinförande Försäljningsskatten
+            för tunga fordon senareläggg..............- FöräldrakOOperatiV......s.ssssssssensnsnonesesnersnsrerenerrererenrnnenennnnnnnn
+            nn
+          </p>
+          <p>
+            Gotland som friZON ssssssssesrseseeseeeeresrererresennernnnrenenn
+            enn nenennennnn nn Grundavdraget avtrappningsregler folkpensionärer...............
+            indexregleringen...... SÄNKNING ooooeseeerresererersernreerererrrrarrsrrenrennnnrnnnn
+            nr enn nn Gåvor till allmännyttiga ändamål, avdrag för .....................
+          </p>
+          <p>
+            21 21 31 15 2y 21 21 8, 24 15 31 15 15, 19 21 15, 21 18, 21,
+            3y 21 21 21 15 19
+          </p>
+          <p>
+            21 21 15
+          </p>
+          <p>
+            20, 34 20 14, 20 14 14 14 14
+          </p>
+          <p>
+            18, 3y 20 20, 5y
+          </p>
+          <p>
+            25 5y 13 20
+          </p>
+          <p>
+            25
+          </p>
+          <p>
+            20, 5y 35 20, 5y 18, 3y 20
+          </p>
+          <p>
+            1992/93:SkU Reg.
+          </p>
+          <p>
+            13
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_SkU/reg_199293_SkU_0014"/>
+          <p>
+            Handelsbolag, beskattning av inkomst vid överlåtelse .......
+            HandelsgÖdSel smssmmssssssssreserresrnerersrererernrersnrerrnrrerrrrnnrnnnnnrrrnnn
+            nana Hemresor, avdragsrätten utvidgasS s..mssssssssssesrsnesnnnsnnnnnnnnn
+            Herresäten, underhåll av sssnnnmmasssssssssrsreseserrrsrrrererrrrrnesrnnn
+            rna Hobby avdragsrätten utvidgas tidsmäsSSigt.......................s.seso000n
+            bär- och SvampplOCkninNg ...sssesssessessssssrersresnnennrennnennnnnn
+            travhästar .......ssssssssossononennnnnn nn Hotell, mervärdesskatt
+            Hundskatten ............s.osss0snnnonn
+          </p>
+          <p>
+            Ideella organisationer avdragsrätt för gåvOr tillis....s...ssssssssseorsessnrsrrsrenerranenennn
+            nn likformig beskattning avs. .mmmmmsssssseessransessnensrarnnnrnnnnnnn
+            nan skattebefrielse för arbetsbyten oe Indexregleringen av skatteskalan
+            och grundavdraget......... Individuellt pensionssSparande......sessssesresenensenennennsnennnnnnn
+            nn Indrivning av statliga fordringar s....mssssssssssessesennnrannsnennnennnn
+            Industrins energiskatter s.smmmssssssesseseeseosrornensersrennsnnenrrnnsnnnnnn
+            nn Instansordningen, punktskatter...............sssssssssssosseserressnnnnn
+            INVeESteriNgSreSCiV smssssssesesseseeseoneneenneserserrnnnnrenrennennnn
+            ner r renen nn nn
+          </p>
+          <p>
+            Jord- och skogsbruk, förmögenhetsbeskattning..................
+            Jordbrukstraktorer
+          </p>
+          <p>
+            Kapitalbeskattning arvs- och gåvoskatt, skatteuttaget ................................o.-
+            arvs- och gåvoskattelagen, betalning av skatt................
+            se även Förmögenhetsskatt Kapitalförlust, fåN s....sssssssosesersrsensrsrssrsrnererersenenenennnnnnnnnnn
+            nonan Kapitalinkomst beskattningen av småbelopp KkOnNtantpriNCip€.........ssssssessersressrsrrerrrsrsrerennnrrnnrarrnnn
+            nen rna nn skattesatsen, sänkningen skjuts UPP................--s.-ssss---&gt;
+            SKÄrPNINgAL oossoseersreresesenesrnrsrernenennererennennnner ennen
+            n en nrnen enn nn nn Kilometerskatten SlOPAS s......ssssseeserssoesseansrnnsnensnnrnnnnnnnnnnnnnnnnnn
+            Kombitrafik, återbetalning av fordonsskatt.........................
+            Kommunal beskattningSsrätt................sssesssesssesssrsrsrnnsennnsnnnnnna
+            Kontantprincipen allmänna avdrag msmssessereessereresrrerrerrrrnrnrrsrrnnrrrnnn
+            rna nn nanna KapPiltalosoooessseserresressrerrerrerrnerrrrrrrrrrerrrnrnrnnnnrnn
+            anar n anar nen n nanna nn KOStfÖrmMåNETL oosseseseererrserssrsrerssneserrrsrsrsrerrrnnnnenerererenenen
+            nn rnnn aren nen KFraftvärlme ossmsmsssssseseseeneesensesesnesernesrennesnennennnrnenn
+            nan nen ennen nn nan nn Kulturhistorisk bebyggelse, underhåll
+            aV..............sesssssss0nt Kvittning, underskott av näringsverksamhet
+            ..................... Kyrkokommunerna, skatteutbetalning till.......................-.-
+          </p>
+          <p>
+            14,
+          </p>
+          <p>
+            20,
+          </p>
+          <p>
+            20,
+          </p>
+          <p>
+            18, 20,
+          </p>
+          <p>
+            17 25 14 33
+          </p>
+          <p>
+            14 20 20 5y 25 25
+          </p>
+          <p>
+            19
+          </p>
+          <p>
+            20 20 20 5y 31 27 34 28 15
+          </p>
+          <p>
+            20
+          </p>
+          <p>
+            34 34
+          </p>
+          <p>
+            Sy 27
+          </p>
+          <p>
+            21
+          </p>
+          <p>
+            1992/93:SkU Reg.
+          </p>
+          <p>
+            14
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_SkU/reg_199293_SkU_0015"/>
+          <p>
+            LantmäterikOostnader s......sssssesssessesrrserresnesnnnrrernrernnnrrnr
+            nr nn nnnn 21 Livförsäkringsföretag...........sssssssssssssssresesnnernennrrennenennnnnnnrn
+            ann 31 Livsmedelsverket, uppgiftslämnande från Tullverket till..
+            6 Ludvika, flyttning av beskattningsavdelningen..................-
+            28 LuncChfÖrmåner.....ssmmsssrssssrrsserreserserersesrersrsernnsnrsnernnrsnn
+            nr n rn ora n 14, 20 Löneskatten, SäNnKknNiNg......ss..ssssseossesssseassennenernesnenrnnrrernnnnennnnnn
+            18, 3y MAatmMOISossosesseeesererererrerrerrrrerrrrrrarrrrnnnnn
+            annen nr en nen n enn rr rn n rn renar 3y, Sy Mauritius, dubbelbeskattningsavtal.................ss.ssssssssrsoserrsnr
+            3 Mervärdesskatt alternativmediCinh........ssssssssssrsessrensanesenennenenrnrnnsrenenenennnnnen
+            26 arbetsbyten ...ssnssnssssssesenressesersrnrranrrnnerrernennennerernrnrnnr
+            nr renen nn 20 biobränslen ssssssesssseererrererrserrrsrenrnernernernrnnerner
+            renen nsn nn nn nn nnn en 34 DÖCKET ooseoeereresrererneresrsrerrererersererrrr
+            ennen ene en renen annen enn nen narr nn nan 26 CjUrpParker ooossssssesesrerersenreresenenennennernrsnenennansn
+            ennen enrrr nen en rna 26 fastighetsförvaltning s......sssssssessersserensnsnnerenerernnererernrrennnnnn
+            26 fOtVåÅLA oooosseseerereresrsrersrerrererererrrrrerrnneren ennen
+            en enen ene nn nn rann nn nnn 26 föreningar........ 26 gallerimoms
+            26 gruppregistrering av fÖretag s...........sesseeeseerssennsennnnnnnnnnnn
+            26 hotell- och restaurangtjänSter..................s.ssssessesssrsnsnnnnnn
+            18, 3y, 5y intyg om återförd mervärdesskatt ............e.esosossossonnnnnnn
+            26 konstförsäljNiNg .......ssssessessessesssssernrernernnrsnnernrnrnrrern
+            nn nnn nen 26 kontrollfrågOr s..sssssssssssseseseeresesernnrnenesnsnerernensnrnenenen
+            enn nn nn nn Sy kyrkliga KOMMUNE smsmmnessseresensrssrresnesrrerrrerrernnrnnnnn
+            nen nen nn 26 liVSMEdCL ooooooeeeseeesrrererererererersrrrrerrrrrrrrrennenerrrnrnrnnnnn
+            annan n nn n nn 18, 3y, 5y persOntranspOrter s..ssmsssssssssesenresenrnrnrrnenenensnernnnrnsrrnrnnnnnnn
+            18, 3y, 5y reklam i TVosooossessesererreseresesseersrrenrrenresnrrnnnnerernnsrrennrrn
+            nen nnn 26 skepp och luftfärtyg..............sssssssssososossesenssnsnnnsnrnnnnnnnnnn
+            26 0 [OT 26 sport OCh idrOtt........ss.sssssssssessesssrennsrserennernerernnnnnrn
+            nr nnnnn nn 26 SPåranläggnNiNgår ....ssmsssssssssonssnnnenenesenrnrnenenenrnnnnnnsnrn
+            rn nn nn nn 26 sänkning skjuts Upp ............s..----- 18, 3y
+            tidningar oossssssssesssereesresnnesnnnnrnnn nan Sy tidningSpOrtO...........essssssessrssesssrasnnnrsrnesnnnrnnnnnr
+            260 tUriStMOIMS oosesseeseereresrersrersrnsnernnnrrnnnrnnrn nn
+            nn ann 18, 3y, 5y veterinärkOStNnader........ssssssssesssrersnesnrnnnesenerrernnnnrennnrnnnn
+            nn 26 väg- och broavgifter s.....,,..sssssssessrsnenesennsrerenenenenrnrnnen
+            ennen nan 26 Mexiko, dubbelbeskattningsavtal .....smmmsssssssssessessnnnnnnsnnnrnn
+            4 Miljöskatter, se Energiskatter och Punktskatter Narkotikakontrollen
+            s..mmsmsssssssssessessrrnnersnennnrrnnsrennsrennrrnnnen nere 23,
+            ly NatUrgrUSs.sssosssnenserrnenreneeresreagesrsresnesn nen nererrrnnrnnrnener
+            nen nrn ennen nen nnn 34 Nederländerna, dubbelbeskattningsavtal
+            orrerseerserrenrenr ran nrnnnnn 3 Organisationsavgifter, likformiga
+            regler ................ssssss0s0ns0ne 20 Pensionssparande. .....sssssespersesernsnrenrrensrrerreennrnrnernrnernrrsrrr
+            ser nn rn nn 31, 5y Personalrabatter s...smmmssssssssrssserersnrrrrerrnreenrrrrrrnnrrnnern
+            ner n nn rr nn nn nn 20
+          </p>
+          <p>
+            Persontransporter, mervärdesskatt
+          </p>
+          <p>
+            1992/93:SkU Reg.
+          </p>
+          <p>
+            15
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_SkU/reg_199293_SkU_0016"/>
+          <p>
+            ProjektkapitalbOlag...........ssssssssesrsnenrsrenesrenrenrnnenennennrrenenrrrnnenn
+          </p>
+          <p>
+            Punktskatter bekämpningsmedel.......s.ssessssessesseensessrrsensranennnnsnnnnennrnnen
+            nn bensinskatten hÖjS s.....sss.ssssssesseseessssrerersnrrersenrnrrnnnnnnnn
+            rann DIYhagel ooesessssesessresreseererrerrerrererrrrrnnrsrrrrnsrnsrrrrnrnrrrnern
+            nn nnn nn båtskatt o..ssnnnsssenenenrersrrnrnrrsnnrrrnrnrnenerensnsrnrnensrnnnrnenen
+            nn en nnnn handelSsgÖdS€el ssmmsssessssnnernesrsenrenrennrnrernnenrernesnnnnnrn
+            nr nrn nanna hundskatten sssmmssssssssresseesrrsrrsensrassrnenrsrrrersrrnnr
+            ran nrnnnrann rn nan inriktning av beskattningen.............ss.sessssssssssssssenesnanennnn
+            MiljöfrågOr os.ssmssersesrererrnrsersrrrrerersrnanererenarnensnerannrnnnenn
+            rann nn NatUTgfUS oosoneeoeneeesrereserenenrnnersenrnn een r ense
+            ennen renen ennen ennen erna nn reklamskatten smssmmmssssssssesrersreserarnrnnrnrernr
+            ren rerrrnnnnen nns nn nn nn särskild varuskatt..........o.sssosssosnosnnnnanennnnennenesnennnnnnnnnen
+            nana an tobaksskatten, HÖjNiNg s........sssesserssrsreserssrrenrrnrnnnnnnnnrnrn
+            nn
+          </p>
+          <p>
+            se även Alkohol, Energiskatter och Vägtrafikskatter
+          </p>
+          <p>
+            RAapPSOIja oososssesnesesnenrenressrorneseererrenresrenrenrernnsrnnrrernnsrrernennrn
+            ns n rn nn nn Reallöneskyddet slopas vid 1994 och 1995 års taxeringar
+            . Reavinst aktier, Skattesatsen .................osoossoosorerereroerererenrrrrnnrrrrrrnn
+            nr DOStädler oososssererrererrsrererrrererrerenennererenrer ner
+            renen nens n sne n arenan oron Regional differentiering av drivmedelsskatten....................
+            Reklamskatt, se Punktskatter Reparation av byggnader s........ssssesssssesserssrsreennenrannsrnennnennrnnnnn
+            REeSCIVCLiNg.ososseseeoseessoeerrerserrsersrerrrennnnenrnrnrnnrrrrerannnnn
+            narr rann rna nan Resor bilkostnadsavdraget HÖJS .........s..sssssssssessesesrssesenrnnnnrsnnnnnnn
+            hemresor, avdragsrätten utvidgas ..................-s..sesssssss0nn
+            mervärdesskatt s....snnmsssssesoresssnnrsennnnsrrnnnennnnrernennennnnnen
+            nan nan Restauranger, mervärdesskatt ............ossooossoosoosssonssosnnnnnnnnnnnnn
+            Riksbanken, bemyndigande att föreskriva uppgiftsskyldighet ...........sssssseosessessessensensrnernannernernrernnrnnn
+            nan nn nn Riksdagens skrivelser ...................- Riskkapitalbolag
+            ..............s.ssss0000000n Rån, kapitalförluSt..................sssssosessesrsoso0a
+            Räntefördelning.......ssssesesssessesererseesnrersreerrrnesrrrerrrnnnnsrnnnnr
+            rn n rna Ränteutgifter, avdragsbegränsningar .........sssssesssssenennennnnnnn
+            Räntor, småbelOppP s....sssssssoeseorsesenenenenenesrerenrnnnrrrnnanrrrnanen
+            eran nn
+          </p>
+          <p>
+            Schablonmässig avkastningsskatt..................sssssssessersererennnnn
+            Sexmånadersregeln för SJÖMÄN .........ssssssssssrsrsrsrsrsnennnrnnnnnnnn
+            Sjukförsäkringsavgift fr.o.m. 1994 års taxering...................
+            Sjömän, sexmånaderSsregelh.....s.sosssssossresesrererernnrererserererernnennn
+            Skadeförsäkringsföretag s..............ssessessersesssersernessnrnesnnerrnn
+            nn nn Skatteflyktslagen avskaffande sussssssseseresesrsenennenrsrnrenennenrrnrenenrennnr
+            sne nn renen nanna fråga om återinförande s...sm.s.ossesorersorrerererresesrerrnrerenennn
+            nn Skatteförvaltningen AaNSlagSfrågOr..sssssssssseseseserrereresrerererrerrerrerrerernrrernrrrnennnnen
+            enn moOmSs-kONtrOll.ssosssssesessssesrenrenrenrerrrnrrennnernr
+            ennen ennen rr nen nnn rna
+          </p>
+          <p>
+            21
+          </p>
+          <p>
+            14,19 14 18, 3y, 5y 18, 3y, 5y 10
+          </p>
+          <p>
+            1992/93:SkU Reg.
+          </p>
+          <p>
+            16
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_SkU/reg_199293_SkU_0017"/>
+          <p>
+            Skattepolitikens inriktniNg........s.sssesesssesersrssssrserererrsnssnrnnsnnnr
+            Skattereduktion för vissa byggnadskostnader......................
+            Skattereduktionen för underskott, procentsatsen..............
+            Skatteregistret bevarande av uppgift€r...........sssssssesererssersnrsresnennnsrennsnsnen
+            gäldenärsutrednNing...msmsoeeeorereerereeneerrereererersrrrrrnnsrnrnrnrnnn
+            Skatteutjämningsreserv (SURV)J.......ssssssssoseoseoesenesenennnnnnnnnnsn
+            Skatteuttaget för höginkomsttagare............s.ssssssssssosseosnennenen
+            SKOgSAVCL AG oooseeseereererrerrersrenrerrrererereerresrerrnrrrrer
+            nere nrnrnenrnnrn ren n nn SKOgSKONLO oososnoenenrerernenenrsenrenrernennenenrnanenranarn
+            ennen enenenenenen enar arne ran Skogsnäringens vägtrafikskatter
+            s..ssmmmmnsoseseeneororororrenennennnnnnn SkördeskadekOnNtO smmssessessenseeneenrensrennenrnesnrnrnrenrenerenrnnenenerenn
+            nn Slott, underhåll äv smsmmsssssssorsrsoreneeorerenrenesresrernesrresererenenenennnn
+            nn Socialavgifter på bidrag till vinstandelsstiftelser .................
+            Sparande för PeENSiON smmsmsssssrsssreresrsrerernenrnnsnersrrsnnrrernrnrnnnenr
+            SParaVvdÅL AG ooosessseerereseserrennenenrenrenesrennenrrresnsrreneerererenererr
+            nr nns nan SPONSFLiNGeoeeeseerrererrenernreernnernnesreerrenrresnsrerernrnr
+            er nsrernereren nn nn en rn nn Statistiska centralbyrån, uppgiftslämnande
+            från Tullverket till.ssosssosssssressnernsrrnnsnnennrrernnerernerrnrernrererrrnnerrrnrrnnnnn
+            Statlig inkomstskatt, reallöneskyddet vid 1994 och 1995 ÅLS fäXETiNGAL
+            oooossseresseessesrererereresesrererenrrnerenenennnn renen sn
+            nn nn en nan ann Stiftelsen Bostadskooperationens garantifond....................-
+            Stipendier, faCkligåa w.......ssssssssessesnnennannnernrsnrsnresnenerenrnerenenrnr
+            nr Straffskatten vid tillverkning av Sprit s....ss.ssssssssresensnsnennnnnnn
+            Stämpelskatt
+          </p>
+          <p>
+            anstånd med SKatt...........e.ssssssssesssssesennsrenenesnensrsennnnrnrnnnnnn
+            beloppsgräns, kvarstående skatt och ö-skatt................. betalningar
+            till och från utlandet................es--sssssesssnsn
+          </p>
+          <p>
+            betalningSslägen sm.ssmmmssesssresseransrnrensrrrsnrrernrennernrnrrnn
+            sn rn nn nnn nn betalningssäkringslägen.........ssssssssesssransnnannesennennennennnnsnene
+            bevissäkringSslagen smssmmmsssessrssrsrransrrnnsnrnnnnrnnennenern
+            ennen renen enn eftertaxering, förutsättningar ....ssmsss.sssssssssesenensnsnnnnnnn
+            F-skatt, preliminärskatteuttaget....................o.seesesnnnonnon
+            förenklingar i deklarationsförfarandet ..................---+----
+            förhandsbesked s..ssmmmnssresennenraneeneerennernennennenensnnnernnnnnnnnnnn
+            en förtryckta deklarationsblanketter................e.sesssssseses0n0nn
+            indrivningslag, NY .smmmsessessssrrensesnnerrenrernnererrnrnrrnrnenennnnn
+            en JÄMKNING oosoosessesesseerererersrerrrereenn rerna ren esnnrnnenerenerrnnrnen
+            ennen nn kontrolluppgift på juridiska personers ränteinkOmMSter
+            ssssssessessrassrersrerennrrnsrrnerrerrrerrrrernnnnrnrrnrnn na
+            kontrolluppgifter på SMåräntOr .............sesessssssesssenesnnnnns
+            livräntor, skatteavdräg..............ssssssoossnnnnannnnn pensioner,
+            skatteavdrag
+          </p>
+          <p>
+            20, 3y, 5y 33, 36 18, 20, 3y
+          </p>
+          <p>
+            10, 28 10, 22, 28 22
+          </p>
+          <p>
+            1992/93:SkU Reg.
+          </p>
+          <p>
+            17
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_SkU/reg_199293_SkU_0018"/>
+          <p>
+            preliminärskatt, arbetskostnader ..............sesesssssesreersnnner
+            räntor och avgifter ........ss.sssssssrseresrrerereenrernrenresrnnserrrrnnnnn
+            nen räntor, skatteaVCOrag......osossssesersresrnnreerererrnnransrrerennn
+            nen nn nan skatteflyktslägen ....ssssssoonssnesneroreresrerrrrnrrnerrnnerrernenn
+            ennen nen skatteplaneringskommiSSiON smmsesssssssssnesennnnerenenennnnnnnnnn
+            skattetillägg, förutsättningar s...smmssssssssssesssssnssennanennnnnn
+            ana skattsedel i aUgUSti...........sssssssssseosesrensesrsenrerennenrernerrnnnennn
+            nn ställföreträdares aNSVål..smosssssssoseresnessesnresrnennennn
+            rn nn rn nn nn särskild A-SKatt .smnnmmnssssesnessessresennerrennesrennrrenrenrernsnnnnnnn
+            anna särskild beräkningSsgrUnd. ....sessssssesseessensnesnnnnrnnnnrrnnnrnnnn
+            na torg- och gatuhandel ...ssmmmsssessesserrsrerrrrsrrerranrrsnnrnrnnnnn
+            rn nan ändrad PraXiS smussmmsersessresrersesrersrererrrsrerresrenrrrerrernsn
+            nen nrn nerna nn se även Utsökning Telefonkatalogen, reklamskatt...............s.ssssossosessronsrsnnnernnnnn
+            Tidningar, mervärdesskatt sossmmnmnmsssssessesrenrsesrenrensonsnnsnnernnnnsnnn
+            nr Tobaksbeskattning hälso- och sjukvårdSsavgift...............ssssssssessssssesesesnrnennnnnnn
+            HÖJNING oossesreesreerserrerrrrarnerenrnerr enn enrrnnerrenrenrrn
+            rn en nsn nen nr nn enn n nn skatteuttaget .mmmmsssssseesseessserssrernrenrsrerrrrnrnerrerrnnrnennnrnrnrnnnnnnr
+            Traktamente utomlands s.......sssssessssressrsrenreseeresrenrersrnsnnrrnnnnenn
+            TulldataSystemet s...mnmmsssssesseoseesernrennennernrenrenernnsrennenrsnnsr
+            nen nnnennn Tullfrågor EES-avtalet........osooososoosensennennnnnnennennennennernnsrennenrnnenrernnrnnnnen
+            elektroniskt uppgiftslämnande ...........sssssssssessersrsssnsnnnnnnn
+            enklare gränspassager kontroll av ADB-baserade räkenskaper .......................-
+            resandeinförSselft sm. smmmmsssesssssssssssessnernnnennnnn enn
+            styrkande handlingar ............. tobaksvarOr........s..ssssossnennnnnnnnn
+          </p>
+          <p>
+            tullsamarbete med Estland .... tullsamarbete med Ungern. .....sseessesssesserrsensnssnnnnnnnnnenn
+            nan Tullverket
+          </p>
+          <p>
+            EG-perspektivet.......ssssssssssseonenennenenennenennsnennnnnenn
+            ekonomisk brottslighet lokala verksam heter s.smmmmsssssserssrrnsrnnnrennennrennnsrnrnnnn
+            nn rn rna a narkotikakOntrOll€n ...s.ssssessseesressressrersrrnnennrennrnnnrn
+            nn rnn anna tulldatasystemet ssssssssssessessssssrersnresnrernrsnrnernrsnrernn
+            rer rn rrnn en utlämnande av Uppgifter..........sssssssosssosererenenenennsnennenennnn
+            Tunga fordon senareläggning av försäljningsskatten ......................-.-..
+            sänkt fordOnsskatt...............sssssssssserseasersenneneanasnrnnsnnrnnrnnn
+            nn
+          </p>
+          <p>
+            Underskott kapital, skattereduktiOn s..smsessssssesessesnennenennnnnsnnrrnrnnrnnn
+            nen näringsverkSamn hets. ..ssssnssesesesssrrerensernnsrrennrsernrnnrnnnrrnrnnnen
+            nn
+          </p>
+          <p>
+            9
+          </p>
+          <p>
+            23, 29
+          </p>
+          <p>
+            23, 29
+          </p>
+          <p>
+            23, Sy
+          </p>
+          <p>
+            23, ly 23, 29
+          </p>
+          <p>
+            20, 3y, 5y 21
+          </p>
+          <p>
+            1992/93:SkU Reg.
+          </p>
+          <p>
+            18
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_SkU/reg_199293_SkU_0019"/>
+          <p>
+            Ungdomsbosparande, slopade skattelättnader.....................
+            Ungern, tullsamarbetsavtal sm. snmmmmnssssssssressnrsnnesnrsnnenrennennennen
+            nr Uppbörd, se Taxering och uppbörd Uppgiftsskyldighet arbetsgivares,
+            arbetstagares och myndighets ................. för livförSäkfing.....ssssersssesresnreresresrrrnerrerennenrrnennrnenrnnnnn
+            nan UpphovsmannakOntO s...msmeseersessesesnenenrernesnenenesennensnenenennnnnrnrnen
+            Uppskov med behandlingen av vissa ärenden ....................
+            Uppskovsbelopp, egenföretagare ..........ssssssnssensssenenensnrnenennnn
+            Utlandstraktamenten s.smsmmmsssssessresresersnarrerrennnnennenennennnn
+            ennen nn nan Utländska försäkringar, skatt på premiebetalning..............
+            Utsökning avräkning för förrättningskostnader ................-.s-sss-------
+            krediteringsordning Ny iNndrivningSläg....sseesssssessesreeseensennereennsnennrnrnnsnennrnrnnnnnnn
+          </p>
+          <p>
+            ValutakursförluSter........s.ssssessrersrrrrrarsrrrsnnsrnernrnnnenn
+            annen nn nerna nt Vedpannor............ Vegetabilisk olja Veteranbilar
+            s......sssssssssossnsnnnsnnnnnn nn Vindkraft ososssnnesssessrersrsresrrerrserrrrerrrnranrrerrsrnrrrenr
+            rna nrnnrn nn n ennen nen nana Vinstandelsstiftelser, socialavgifter
+            på bidrag till................ Vägnätets bärighet, fordonsskatt................sssssssssoeseosnsoeosnenenn
+            Vägtrafikskatter bensinskatten, blyad benSil......s..ssssssessesresersenernennnnnnnn
+            ann bensinskatten, HÖjNiNg ...sesseesrersressrersrenrenrnerrenrennernnnn
+            nn nn bilar med svaga låS mmsmsnsssesresrerererreresrerenesrererererenenenrnrnen
+            rna dieseloljeskatten, införande s.....sssssseseosesessenrnnrnnnnennnnnnnn
+            nn dieseloljeskatten, SÄNknNiNg s....mssssssoseoseneenenennennenennnnsnennn
+            fordonsskatten, anpassning till nya bärighetsregler...... fordonsskatten,
+            dieselfordOn.............ssssssssssssreseserensrrnenn na fordonsskatten,
+            sänkning för tunga fordon ..................- fordonsskatten,
+            återbetalning vid järnvägstransport..... försäljningsskatten,
+            energisnåla fordon ..................-....-- försäljningsskatten,
+            tunga fOordOn s.........ssesssessesrerererernrnr försäljningsskatten,
+            återbetalning vid viss export ......... jordbrukstraktOrer.........ssesssssesssneneanenennnnenenenennnnnnnnnnnnn
+            nn nn kilometerskatten, SIOPaNde .....sssssessresressennnennnnnnnennnnnnn
+            ann regional differentiering av drivmedelsskatt...................
+            SKOgSNÄriNgeN oosoosesseesesresseeseesersreseennesnennenrsnennenennrn
+            enn nn nn nn veteranbilar s....sns.sssosssssssenseenrenrennrnnnrnerrnnnrnenn
+            ennen nrnrn nn nen se även Energiskatter Värnskaått ossssssseesserersnrrnnnrnsreresrrerrrsrrrsrrrrrnrerr
+            rer enn ennen nen n rn rn rann
+          </p>
+          <p>
+            YrkesfisSkar€. ....oosnnononaeesrrerreerrrrrrrrenerererrrrrrsrnnrenrnnnnnnnrrrrnr
+            rr anna
+          </p>
+          <p>
+            Ökade levnadskostnader utomlands ............s.ssosseossosseserornnn
+            ÖveravskrivnDinlg s...mssssssssosssosssenosrenoosrnnnesrrnnnnersrrnnnanrnrrrnnnnn
+          </p>
+          <p>
+            18, 3y 1992/93:SkU Reg.
+          </p>
+          <p>
+            18,
+          </p>
+          <p>
+            20,
+          </p>
+          <p>
+            7
+          </p>
+          <p>
+            19
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_SkU/reg_199293_SkU_0020"/>
+          <p>
+            gotab 43986, Stockholm 1993
+          </p>
         </div>
       </div>
     </body>

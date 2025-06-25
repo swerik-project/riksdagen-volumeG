@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="reg_199091_JuU">
   <teiHeader>
     <fileDesc>
       <titleStmt/>
@@ -19,289 +19,1602 @@
   </teiHeader>
   <text>
     <body>
-      <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_JuU/reg_199091_JuU-000.pdf"/>
+      <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_JuU/reg_199091_JuU_0000"/>
       <div type="gBody">
         <div>
-          <p>Justitieutskottets register vid ÅS</p>
-          <p>riksmötet 1990/91</p>
-          <p>YE ey</p>
-          <p>1990/91 JuU Reg.</p>
-          <p>Betänkanden</p>
-          <p>Nr JuU1l Förnyelse inom polisen (prop.1989/90:155) Utskottets justering: 1990-09-27 Förslag till beslut: Bifall till prop., delvis bifall till motionerna 1989/90:Ju43, Ju607, Ju809 och Ju828, avslag på Övriga motioner</p>
-          <p>Debatt i kammaren 1990-10-17 Protokollsnhummer 1990/91:11 Riksdagens beslut: Bifall till utskottets hemställan 1990-10-17 Protokollsnummer 1990/91:11 Riksdagsskrivelse 1990/91:1 Nr JuU2 Andringar i kriminalvårdslagstiftningen (prop.1989/90:154) Utskottets justering: 1990-10-23</p>
-          <p>Förslag till beslut: Bifall till prop., avslag på motionerna, visst initiativ</p>
-          <p>Debatt i kammaren 1990-11-07 Protokollsnhummer 1990/91:19 Riksdagens beslut: Bifall till utskottets hemställan 1990-11-07 Protokollsnhummer 1990/91:19 Riksdagsskrivelse 1990/91:14 Nr JuU3 Vissa straffrättsliga frågor m.m. Utskottets justering: 1990-10-23</p>
-          <p>Förslag till beslut: Delvis bifall till motion 1989/90:Ju614, avslag på övriga motioner</p>
-          <p>Debatt i kammaren 1990-11-07 Protokollsnummer 1990/91:19 Riksdagens beslut: Bifall till utskottets hemställan 1990-11-07 Protokollsnummer 1990/91:19 Riksdagsskrivelse 1990/91:15</p>
-          <p>1 Riksdagen 1990/91. 7 saml. Register</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_JuU/reg_199091_JuU-001.pdf"/>
-          <p>Nr JuU4 1990/91:JuU Reg. Utvidgad rätt till målsägandebiträde, m.m. (prop.1989/90:158)</p>
-          <p>Utskottets justering: 1990-10-23 Förslag till beslut: Bifall till prop., delvis bifall till motion 1990/91:Ju4, avslag på övriga motioner</p>
-          <p>Debatt i kammaren 1990-11-07 Protokollsnummer 1990/91:19 Riksdagens beslut: Mom. 6 res. 2 bifall. I övrigt bifall till utskottets hemställan 1990-11-07 Protokollsnhummer 1990/91:19 Riksdagsskrivelse 1990/91:16 Nr JuUS</p>
-          <p>Fortsatt giltighet av 1952 års tvångsmedelslag (prop.1990/91:23)</p>
-          <p>Utskottets justering: 1990-11-20 Förslag till beslut: Bifall till prop., avslag på motionerna Debatt i kammaren 1990-12-05 Protokollshnhummer 1990/91:39 Riksdagens beslut: Bifall till utskottets hemställan 1990-12-05 Protokollsnhummer 1990/91:39 Riksdagsskrivelse 1990/91:60 Nr JuU6 Teleavlyssning m.m. (skr.1990/91:21) Utskottets justering: 1990-11-20</p>
-          <p>Förslag till beslut: Skr. till handlingarna, avslag på motionerna</p>
-          <p>Debatt i kammaren 1990-12-05 Protokollsnummer 1990/91:39 Riksdagens beslut: Bifall till utskottets hemställan 1990-12-05 Protokollsnhummer 1990/91:39 Riksdagsskrivelse 1990/91:61 Nr JuU7 Fastighetsdomstolar, m.m. (prop.1990/91:32) Utskottets justering: 1990-11-20 Förslag till beslut: Bifall till prop., avslag på motionerna Debatt i kammaren 1990-12-05 Protokollsnhummer 1990/91:39 Riksdagens beslut: Bifall till utskottets hemställan 1990-12-05 Protokollsnummer 1990/91:39 Riksdagsskrivelse 1990/91:62</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_JuU/reg_199091_JuU-002.pdf"/>
-          <p>Nr JuU8 Delgivningsfrågor (prop.1990/91:11)</p>
-          <p>Utskottets justering: 1990-11-27 Förslag till beslut: Bifall till prop., avslag på motionerna Debatt i kammaren 1990-12-12 Protokollsnummer 1990/91:44 Riksdagens beslut: Bifall till utskottets hemställan 1990-12-12 Protokollshummer 1990/91:44 Riksdagsskrivelse 1990/91:90 Nr JuU9 Tilläggsbudget I (prop.1990/91:25 bil.1) Utskottets justering: 1990-11-27 Förslag till beslut: Bifall till prop. Riksdagens beslut: Bifall till utskottets hemställan 1990-12-12 Protokollshnhummer 1990/91:44 Riksdagsskrivelse 1990/91:91 Nr JuU10 Böter (prop.1990/91:68) Utskottets justering: 1991-03-05</p>
-          <p>Förslag till beslut: Bifall till prop. med viss justering i lagtext, avslag på motionerna</p>
-          <p>Debatt i kammaren 1991-03-21 Protokollsnummer 1990/91:83 Riksdagens beslut: Bifall till utskottets hemställan 1991-03-27 Protokollshnhummer 1990/91:87 Riksdagsskrivelse 1990/91:155 Nr JuU1l1l Terroristlagstiftningen (skr.1990/91:73) Utskottets justering: 1991-02-19 Förslag till beslut: Skr. till handlingarna, avslag på motionerna Debatt i kammaren 1991-03-13 Protokollshnhummer 1990/91:77 Riksdagens beslut: Bifall till utskottets hemställan 1991-03-13 Protokollsnhummer 1990/91:77 Riksdagsskrivelse 1990/91:134 Nr JuU12 Anslag till justitiedepartementet m.m. (prop.1990/91:100 bil.4) Utskottets justering: 1991-03-05 Förslag till beslut: Bifall till prop. Riksdagens beslut: Bifall till utskottets hemställan 1991-03-20 Protokollsnummer 1990/91:82 Riksdagsskrivelse 1990/91:138</p>
-          <p>1990/91:JuU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_JuU/reg_199091_JuU-003.pdf"/>
-          <p>Nr JuU13 Anslag till justitiekanslern (prop.1990/91:100 bil.4)</p>
-          <p>Utskottets justering: 1991-03-05 Förslag till beslut: Bifall till prop. Riksdagens beslut: Bifall till utskottets hemställan 1991-03-20 Protokollsnhummer 1990/91:82 Riksdagsskrivelse 1990/91:139 Nr JuU1l4</p>
-          <p>Anslag till Svensk författningssamling m.m. (prop.1990/91:100 bil.4)</p>
-          <p>Utskottets justering: 1991-03-05 Förslag till beslut: Bifall till prop. Riksdagens beslut: Bifall till utskottets hemställan 1991-03-20 Protokollsnhummer 1990/91:82 Riksdagsskrivelse 1990/91:140 Nr JuU1S Anslag till åklagarväsendet (prop.1990/91:100 bil.4) Utskottets justering: 1991-03-12</p>
-          <p>Förslag till beslut: Bifall till prop., delvis bifall till motionerna 1990/91:Ju209, Ju807 och Ju834, avslag på övriga motioner</p>
-          <p>Debatt i kammaren 1991-03-21 Protokollsnhummer 1990/91:83 Riksdagens beslut: Bifall till utskottets hemställan 1991-03-21 Protokollsnhummer 1990/91:83 Riksdagsskrivelse 1990/91:152 Nr JuU16 Anslag till domstolsväsendet (prop.1990/91:100 bil.4) Utskottets justering: 1991-03-12 Förslag till beslut: Bifall till prop., avslag på motionerna Debatt i kammaren 1991-03-21 Protokollsnhummer 1990/91:83 Riksdagens beslut: Bifall till utskottets hemställan 1991-03-21 Protokollsnhummer 1990/91:83 Riksdagsskrivelse 1990/91:153 Nr JuU17 Anslag till kriminalvården (prop.1990/91:100 bil.4) Utskottets justering: 1991-03-12</p>
-          <p>Förslag till beslut: Bifall till prop., delvis bifall till motion 1990/91:Ju821, avslag på övriga motioner</p>
-          <p>Debatt i kammaren 1991-03-21 Protokollsrhummer 1990/91:83 Riksdagens beslut: Bifall till utskottets hemställan 1991-03-27 Protokollsnhummer 1990/91:87 Riksdagsskrivelse 1990/91:154</p>
-          <p>1990/91:JuU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_JuU/reg_199091_JuU-004.pdf"/>
-          <p>Nr JuU18 Rättskipningen i socialförsäkringsmål (prop.1990/91:80) Utskottets justering: 1991-04-09 Förslag till beslut: Bifall till prop. med viss justering i lagtext, avslag på motionerna</p>
-          <p>Debatt i kammaren 1991-04-24 Protokollsnummer 1990/91:101 Riksdagens beslut: Bifall till utskottets hemställan 1991-04-24 Protokollsnummer 1990/91:101 Riksdagsskrivelse 1990/91:216 Nr JuU19 Ingripanden mot unga (prop.1990/91:86) Utskottets justering: 1991-03-26</p>
-          <p>Förslag till beslut: Bifall till prop. med viss justering i lagtext, avslag på motionerna</p>
-          <p>Debatt i kammaren 1991-04-10 Protokollsnummer 1990/91:91 Riksdagens beslut: Bifall till utskottets hemställan 1991-04-10 Protokollsnummer 1990/91:91 Riksdagsskrivelse 1990/91:179 Nr JuU20 Anslag till statsrådsberedningen (prop.1990/91:100 bil.4) Utskottets justering: 1991-04-09 Förslag till beslut: Bifall till prop., avslag på motionen Debatt i kammaren 1991-04-24 Protokollsnhummer 1990/91:101 Riksdagens beslut: Bifall till utskottets hemställan 1991-04-24 Protokollsnhummer 1990/91:101 Riksdagsskrivelse 1990/91:215 Nr JuU21 Anslag till brottsskadenämnden m.m. (prop.1990/91:100 bil.4) Utskottets justering: 1991-04-09</p>
-          <p>Förslag till beslut: Delvis bifall till prop. och motionerna 1990/91:Ju804, Ju821, Ju824, Ju825 och Ju835, avslag på Övriga motioner</p>
-          <p>Debatt i kammaren 1991-04-24 Protokollshnhummer 1990/91:101 Riksdagens beslut: Bifall till utskottets hemställan 1991-04-25 Protokollsnhummer 1990/91:102 Riksdagsskrivelse 1990/91:217</p>
-          <p>1990/91:JuU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_JuU/reg_199091_JuU-005.pdf"/>
-          <p>Nr JuU22 Anslag till utredningar m.m. (prop.1990/91:100 bil.4)</p>
-          <p>Utskottets justering: 1991-04-09 Förslag till beslut: Bifall till prop., avslag på motionerna Debatt i kammaren 1991-04-24 Protokollsnhummer 1990/91:101 Riksdagens beslut: Bifall till utskottets hemställan 1991-04-25 Protokollsnummer 1990/91:102 Riksdagsskrivelse 1990/91:218 Nr JuU23 Anslag till polisväsendet (prop.1990/91:100 bil.15) Utskottets justering: 1991-04-09</p>
-          <p>Förslag till beslut: Bifall till prop., delvis bifall till motionerna 1990/91:Ju618, Ju619, Ju623, Ju638, Ju641, Ju816, Ju820 och Ju824, avslag på övriga motioner</p>
-          <p>Debatt i kammaren 1991-04-24 Protokollsnummer 1990/91:101 Riksdagens beslut: Bifall till utskottets hemställan 1991-04-24 Protokollsnummer 1990/91:101 Riksdagsskrivelse 1990/91:214 Nr JuU24 Anslag till brottsförebyggande rådet (prop.1990/91:100 bil.4) Utskottets justering: 1991-04-09 Förslag till beslut: Bifall till prop., avslag på motionerna Debatt i kammaren 1991-04-24 Protokollsnhummer 1990/91:101 Riksdagens beslut: Bifall till utskottets hemställan 1991-04-25 Protokollsnhummer 1990/91:102 Riksdagsskrivelse 1990/91:219 Nr JuU2S</p>
-          <p>Immunitet och privilegier för den Europeiska utvecklingsbanken (prop.1990/91:84)</p>
-          <p>Utskottets justering: 1991-03-12 Förslag till beslut: Bifall till prop. Riksdagens beslut: Bifall till utskottets hemställan 1991-03-20 Protokollsnhummer 1990/91:82 Riksdagsskrivelse 1990/91:141 Nr JuU26 Bostadsdomstolen och hyresnämnderna (prop.1990/91:98) Utskottets justering: 1991-04-16 Förslag till beslut: Delvis bifall till prop., avslag på motionerna Debatt i kammaren 1991-05-03 Protokollshummer 1990/91:106 Riksdagens beslut: Bifall till utskottets hemställan 1991-05-08 Protokollsnummer 1990/91:108 Riksdagsskrivelse 1990/91:253</p>
-          <p>1990/91:JuU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_JuU/reg_199091_JuU-006.pdf"/>
-          <p>Nr JuU27 Anslag till rättshjälp m.m. (prop.1990/91:100 bil.4) Utskottets justering: Förslag till beslut: Bifall till prop., delvis bifall till motionerna 1990/91:Ju409 och Ju832, avslag på övriga motioner Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnhummer Riksdagsskrivelse</p>
-          <p>Nr JuU28</p>
-          <p>1991-04-16</p>
-          <p>1991-05-08 1990/91:109 1991-05-15 1990/91:112 1990/91:260</p>
-          <p>Internationellt samarbete i brottmål m.m. (prop.1990/91:131)</p>
-          <p>Utskottets justering: Förslag till beslut: Bifall till prop. Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse</p>
-          <p>Nr JuU29 Ny terroristlagstiftning m.m. (prop.1990/91:118) Utskottets justering: Förslag till beslut: Bifall till prop. med viss justering i lagtext, avslag på motionerna Debatt i kammaren Protokollsnhummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse</p>
-          <p>Nr JuU30 Tilläggsbudget II (prop.1990/91:125 bil.1) Utskottets justering: Förslag till beslut: Bifall till prop. Riksdagens beslut: Bifall till utskottets hemställan Protokollsnhummer Riksdagsskrivelse</p>
-          <p>Nr JuU31 Säkerhetspolisen (prop.1990/91:100 bil.15) Utskottets justering: Förslag till beslut: Bifall till prop., avslag på motionen Riksdagens beslut: Bifall till utskottets hemställan Protokollsnhummer Riksdagsskrivelse</p>
-          <p>1991-05-07</p>
-          <p>1991-05-23 1990/91:117 1990/91:297</p>
-          <p>1991-05-07</p>
-          <p>1991-05-23 1990/91:117 1991-05-28 1990/91:120 1990/91:298</p>
-          <p>1991-05-07</p>
-          <p>1991-05-28 1990/91:120 1990/91:299</p>
-          <p>1991-05-14</p>
-          <p>1991-05-30 1990/91:122 1990/91:322</p>
-          <p>1990/91:JuU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_JuU/reg_199091_JuU-007.pdf"/>
-          <p>Nr JuU32 Narkotikabrottslighet (prop.1990/91:127) Utskottets justering: Förslag till beslut: Bifall till prop. med viss justering i lagtext, delvis bifall till motionerna 1990/91:Ju607 och Ju626, avslag på övriga motioner, visst initiativ Debatt i kammaren Protokollshummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse</p>
-          <p>Nr JuU33 Vapenlagen (prop.1990/91:130) Utskottets justering: Förslag till beslut: Delvis bifall till prop. och motionerna 1990/91:Ju38, Ju40 och Ju801, avslag på övriga motioner Debatt i kammaren Protokollsnhummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnhummer Riksdagsskrivelse</p>
-          <p>Nr JuU34</p>
-          <p>Psykiskt störda lagöverträdare (prop.1990/91:58 bil.2)</p>
-          <p>Utskottets justering: Förslag till beslut: Bifall till prop. och motionerna</p>
-          <p>1989/90:Ju615, Ju804, 1990/91:Ju16, Ju18, Ju804 och Ju821,</p>
-          <p>avslag på övriga motioner, visst initiativ Debatt i kammaren Protokollsnhummer Riksdagens beslut: Bifall till utskottets hemställan Protokollshummer Riksdagsskrivelse</p>
-          <p>Nr JuU35 Uppskov med behandlingen av vissa ärenden Utskottets justering: Förslag till beslut: Uppskov Riksdagens beslut: Bifall till utskottets hemställan Protokollsnhummer Riksdagsskrivelse</p>
-          <p>1991-05-14</p>
-          <p>1991-05-29 1990/91:121 1991-05-30 1990/91:122 1990/91:323</p>
-          <p>1991-05-07</p>
-          <p>1991-05-23 1990/91:117 1991-05-28 1990/91:120 1990/91:300</p>
-          <p>1991-05-14</p>
-          <p>1991-05-30 1990/91:122 1991-05-30 1990/91:122 1990/91:330</p>
-          <p>1991-05-14</p>
-          <p>1991-05-29 1990/91:121</p>
-          <p>1990/91:JuU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_JuU/reg_199091_JuU-008.pdf"/>
-          <p>Nr JuU36 1990/91:JuU Reg. Ingripande av polis (prop.1990/91:129)</p>
-          <p>Utskottets justering: 1991-05-14 Förslag till beslut: Bifall till prop., avslag på motionerna Debatt i kammaren 1991-05-29 Protokollsnummer 1990/91:121 Riksdagens beslut: Bifall till utskottets hemställan 1991-05-30 Protokollsnhummer 1990/91:122 Riksdagsskrivelse 1990/91:324 Nr JuU37 Nordisk arbetsmarknad (Advokater m.m.) (prop.1990/91:116) Utskottets justering: 1991-04-23 Förslag till beslut: Bifall till prop. med viss justering i lagtext Riksdagens beslut: Bifall till utskottets hemställan 1991-05-15 Protokollshnummer 1990/91:112 Riksdagsskrivelse 1990/91:261 Nr JuU38 Immunitet och privilegier (prop.1990/91:104) Utskottets justering: 1991-05-07 Förslag till beslut: Bifall till prop. Riksdagens beslut: Bifall till utskottets hemställan 1991-05-28 Protokollsnhummer 1990/91:120 Riksdagsskrivelse 1990/91:301</p>
-          <p>1" Riksdagen 1990/91. 7 saml. Register</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_JuU/reg_199091_JuU-009.pdf"/>
-          <p>Yttranden</p>
-          <p>Nr JuUly till KU Regeringens behandling av riksdagens skrivelser (skr.1990/91:15)</p>
-          <p>Utskottets justering: 1990-12-05 1990/91:KU43 1991-06-04 Protokollsnummer 1990/91:125 Riksdagsskrivelse 1990/91:341</p>
-          <p>Nr JuU2y till KU Ersättare för justitieråd och regeringsråd (prop.1990/91:66)</p>
-          <p>Utskottets justering: 1991-03-05 1990/91:KU23 1991-04-10 Protokollsnummer 1990/91:91 Riksdagsskrivelse 1990/91:178</p>
-          <p>Nr JuU3y till SoU Psykiatrisk tvångsvård m.m. (prop.1990/91:58)</p>
-          <p>Utskottets justering: 1991-03-26 1990/91:S0U13 1991-05-30 Protokollsnummer 1990/91:122 Riksdagsskrivelse 1990/91:329</p>
-          <p>Nr JuU4y till FiU Omställning och minskning av den statliga administrationen (prop.1990/91:150 bil.II)</p>
-          <p>Utskottets justering: 1991-05-16 1990/91:FiU41 1991-06-14 Protokollsnhummer 1990/91:132 Riksdagsskrivelse 1990/91:396</p>
-          <p>1990/91:JuU Reg.</p>
-          <p>10</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_JuU/reg_199091_JuU-010.pdf"/>
-          <p>Sakregister</p>
-          <p>Administrativa rUtile€lomimessesssesssrerssssrresrrrnrennrnnnernennnnnenn ennen Administrativa tjänster inom polisen sm .mmmmmsrresresserreannnnnnnnn ACVOKAaLECTL oooessoeeserennersrsrsererensserreesrsrsrerrrrrrererrrersr nr rnn nr nn sense nn anna Advokatsamfundets disciplinnämnd ............sesesssn0n0n Aids/HIV inom kriminalvården, information OM.............. Allmänna advokatbyråer driftbidrag, anslag till..sssmssssssssssosesserrrererserrernernrrrrnnrn nan nna rörelsekapital m.m., anslag tillss.smmssmsmsssssesesenenennnnnnnnnnn nn uppdragsverksamhet, anslag till Allvarlig psykisk StÖrNiNg......sseesssesesssrersseesrennrennennennrnnennnn nan Anmälningsplikt och tvångsmedel, beslut om (utlänningslagstift ningen) msmmmmssssesserssersesrseneneernenrenesnrnrn nanna Anmälningsskyldighet (utlänningslagstiftningen) .............. Arbetsdomstolen s...ssseessrersreensnernsrerrererrrnrrenrenrnrnnnnn ann enn enn nn nn ArbetsplatsdelgivNiNg ..mmmmsesseesrsresenrnenerrrrenrenrrrnnennrrnern renen nnnn Avgiftsfinansiering på polisens OMråde .............ssssessnnsnnnn AVvkriminaliS€rilZ...sssesssessressrrerrrerserresrernrerenerrerrrrnrrrrnrnrnnnrn rna Avskildhet i disciplinärenden suosmsmmmmresserresreseerenrenennnnnnnnnnn ann</p>
-          <p>Barn, sexuella ÖVErgrePpP s.msmsmssssessererersrrenrersrensnennennenn annen annan Befattning med misstänkt brottsgOdS ...............ss--ee-seersnnsnnn Behandlingsprogram för våldSmMän s..ssssssesssressrsrseserensrnnnnnn Beloppsgränsen mellan stöld och snatteri.................--...----- Bensodiazepiner (UPPSKOV) s...smmnnsssresosrenreneeseenennenernenennrnnnnnnn</p>
-          <p>Bevakning i anStält ..sssmmmsssssssressrersssnnnnnsnnennnennennnnnn ennen renen nn nn Bevakningsföretag Bidrag till vissa internationella sammanslutningar, aNSlag till osooosssssesesrssessesrresrenrernrenrsnnrern nr ennen ner renen ense nen nrnr nen nn 13 TERES [6 Bostadsdomstolen och hyresnämnderna ...........sesnsnannnnnnnn Brevhemlighet BrevkOntrOlls.ssssssssssresreeseesreseenarnrranrrrnrnrrnnennennen ennen ennen ennen en nanna Brott av POliSMän oosseseesesessreseerrsesseerrrnenernrrrrnerren nen nen enn sn enn rnrn rann nn av unga, Statistik ÖVEr ....sssssessesssssssreneneeneenenneneenenrnnerennnnnn mot enskilda, kostnader fÖr..........ssssssessserserseresssesnsnnnnnnn registrering av unga Som begått....................s.s-sssn0n0 utomlands, offer fÖr s.....m.msssssesresererrrrrerrrnrrnrernnn nan .</p>
-          <p>1990/91:JuU Reg.</p>
-          <p>11</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_JuU/reg_199091_JuU-011.pdf"/>
-          <p>Brottsbalken, lag om ändring i kriminalvårdslagstift ningen s......seesssseessessesennnnrnrnrnnnnnn narkotikabrottslighet............... psykiskt störda lagöverträdare Brottsförebyggande arbete..............ssssssssosorsssesesnsnesnenennsnernnnnn Brottsförebyggande betydelse, familjens s............ssssssossnsonnnn Brottsförebyggande rådet förvaltningskostnader, anslag till s.msmmmmmssssssersrssnnrrnnsn nr prOfesSUrer VIC sossssssssesseesrseerrererresnrrrrnrrrnerrrrrnrnnnrnn ner n rn rr nn nn utvecklingskostnader, anslag till ............ Brottsgods, befattning med misstänkt Brottsoffer, information till Brottsskadenämnden ersättning för skador på grund av brott, anslag till...... förvaltningskostnader, anslag tills osmissesseeeeernrsnsnn BuggningSsmaålet.....sssssseseosersresreresrrsrsesrerersenerrsrenenenrsn enes n en enn nn nn</p>
-          <p>DagsbÖterosssossesresesrrerrsresreersesresrerrrrsrernernrrr rr rsrrrernen rr nns nr rr rna nen nn Decentralisering av polisutbildningen............sssssssemrsnsnen Delegering inom kriminalvården s.....s.esesssenesenessnennnnnnnnen Delegering vid upptagande av nöjdförklaring Delgivning, förenklad =mossmsesssssssresressessernnresrnrrrnrnnrnsnnrsnnnenn nn nn DelgivningSsfrågOr snssmsssersesssssrsrererererrrrrrrrrrrnserersrnnrnenernnnnrn enn nn Delgivningsförsändelse, ÖPpnande aVv.s.....sseesesesssesresesnesnnsnr Disciplinstraff inom kriminalvården ..........seseseerssesesesesnsnnnn Disciplinärenden, avskildhet i............... Diskriminering av handikappade Diverse kostnader för rättsväsendet, anslag till................... Diverse utgifter, anslag tillos...sssssssssssesrssssoserenrerresernrrnnnrnennrn en Domares bisySSlOr s.ssssessesssrsrssrreerrsrrrrerrrrrerrrerrnrrrrrrrn rr rr nn nn rna nn Domarkarriär, moderniserad ... DOMAartjäNSter smsssesssssersrrerrrrerrrrrrrerrrerrrrrererrnr ennen rrn ner nn nn nen nn Domskäl, överklagande av Domstol, utländsk =ssmmsssssssessresrrsresersrrrnenrrsrrrerrrnnnn ennen nen nrn nn nn Domstolarna m.m., anslag till. ...ns..s.sssssrsesessenesernnennnnn ennen nn Domstolsförhandling, föräldranärvarO ......ee.eserssnrnnn Domstolsverket, anslag till.smssmnsssssssssssesereneneerennennsnnrnnnnnrnnnn nn Domstolsväsendet domstolarna m.m., anslag till.s.msmsmsssssersnensnrsnennnnennnnnnen domstolsverket, anslag till sm.smssssssserssesersenrersnnsnrrsnnnnnnnn utrustning till domstolar m.m., anslag till................-..- Drogpolitik, enhetlig</p>
-          <p>Eftersökande av rymlingar smmsessssssesrresrerereresenerrerennennnnrnennn Eftervård inom kriminalvården</p>
-          <p>10</p>
-          <p>NN [EO</p>
-          <p>-— WW NN 0202, Nn</p>
-          <p>NN NN</p>
-          <p>23</p>
-          <p>1990/91:JuU Reg.</p>
-          <p>12</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_JuU/reg_199091_JuU-012.pdf"/>
-          <p>Ekonomisk brottslighet information om åtgärder MO t s..mmmmmssssressserrsssresrnrnnenen nn nn</p>
-          <p>åtgärder MO ..ssmmmnsesresrereneersesesrenerrennenn sne annen eran enn Engångsanskaffning av inventarier m.m., anslag till.......... Enhetlig drogpOlitik sssmmnmsssssssssesesressrrrnnrenrenrerernesrernsnennrnnrn nr Ersättning för hjälp åt POliSCN sm smsmsssserserserrserrrenrenreresrsrererenrnrrnnn en nn nn för rättegångskostnader i förvaltningsmål..................... till nämndemän</p>
-          <p>Etisk nämnd EuropakonventiONenh sm ssmsmmssssssseressesssrernernesrenernsnsrsnerrrnrrrrn enn nt Europarådets sociala utvecklingsfond .......seesemsmmsmemne Europeiska utvecklingsbanken sm .smessssersrerssrssesrsnsnennrnersnnnnnn ExpropriationSmMaål.....sssssssssessseseorsenrennennnn nanna .</p>
-          <p>Falsk pOlisan MälanNasssnsssssessesessearsesreseresrernrerrsrsnrrnsnrnrnnnnr nen nn nen Familjens brottsförebyggande betydelse .............seese0soeorornn FastighetsbildningSmMaål nmsmmsssssssesesersesenrsnsrsrersrnsnnenennnrnnnennnn nn Fastighetsdomstolar FastighetSmMålsosssssseeseesesreseeresenenresrenernrerernenenenernnsrsrsr sr en en en ran Forskning om behandlingsmetOder s.ssmmsssesssersrsrererrsnennsrsrrnnrrnernnnnnt om könsrollernas betydelse för brottsligheten.............. om våld mot kvinnOr MMM. ssmmmsssserserrrrsresrerrrnrrnrnnsn nr nn nn Framtidsstudier, långsiktig analys m.m., anslag till ........... Frigivning, information om sena Pr igaN OD eooseseesereererenesrerenrenreserrerenreresnerre nen renenenrn enes renen renen aren ena Frivården, anslag till sssmmssssssssssrserressearsrrrsesresesrererrrnrnrnen enn nan Frivårdens arbetsuppgifter s.............ssssssosessssserenesennsnrnenrnnsnnnn Fängelse för eget bruk av narkotika vid ringa narkotikabrOtt...........sssserrrssosserersreresrsnsrrrrenrrnrerresrnrrnrsnnern nerna Fängelsestraff för unga under 18 år, utredning om förbud mot......... utomlands, verkställighet aV.ossmmmsssserssnesrseennnenenrrnnrnrnnn nn för 18—21-åriNgar snsmnssssreresesrereeneeseseeserenerenenenerensnennnn nan ' Förbud mot fängelse för unga under 18 år Förenklad delgivning as osmmmssssssrseserseserrsrssrrernnrrererrnsn renen nen nn nn Förenta nationernas konvention den 19 december 1988 mot olaglig hantering av narkotika och psykotropa</p>
-          <p>FÖretagSsbOt ssnnsrseresresreerrerresrnesresrrernernnrernsrren renen er esrrrsn ere e rr nen Författningsskyddet snsmmnsssasssesrsrrsssessnrerrerrerreresnrrerenerernnrennnn an Förhållande mellan åklagare och polis.... Förhör, medtagande till=sssmnsmssssssssssrsssresresnrsrsrnernrrsrsnsrenernenenn Förnyelse av PåSS mmnsmessesssssssesessrreserernrerernreererrrrreeneer enn ens rn nrn rena Förskottering av brottsskadestånd .............sesesssmsrssssssnne FÖrSäkringSrätt€l....ssssssssssssssnrennrennreennonernerereernerrrnnesrrrnnn ennen n enn FörsäkringsöverdOmstOlen ..ssssssssssssssssersesereseennrerrrnrrrnnn rn nar</p>
-          <p>17, 26,</p>
-          <p>1990/91:JuU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_JuU/reg_199091_JuU-013.pdf"/>
-          <p>Försättande i nödläge .. FÖFrtrOeNd€eråd sosmssssssrerereerreseerrrsrrrnnenrrnnernen renen eran n ennen ennen nerna n FÖTLUF ooosoeresrreerererereererererrreereserensrennrsernnerenn ner enr renen rer n er nn renarna Förundersökning föräldranärvarO VIC sosommmesssssrrrresssrrrserrrersresrrrerrnrnnnn rna nanna tidSgränS fÖT sssssssrrreesrresrersnrrrrsnrrnnernnrrn rer essnrnsrnnnsn nr n nn nn ann FörvaltningsdOmstOlar smsmmssssesssrererrereerernenreneerennsnennennannnn nan Föräldranärvaro vid domstolsförhandling vid förundersökning</p>
-          <p>Förändringsarbete inom åklagarväsendet...................s-s--.... Gemensam kontorsdrift m.m. inom kvarteret Kronoberg, anslag till.ssssmmnmsssssssssrrsssressereoeerresrrrrernrrenennnnrn annan Grannsamverkan mot DrOtt.....ssnmsssseessresererereresersrrnrnnrnrrnrnnn na Grov misshandel, reKViSit sssmmnmsssssosressressonrernerennrreronernrnrrn nr Grovt narkotikabrOtt..........ssssssrererrerererorsnersesersrrsrerrnnrerrrrrnn na Grovt olovligt brukande ssmmnsesressrsssesreneeneesennenennennenenn ennen oron Gränsdragningen mellan narkotikabrott och ringa narkotikabrOtt......sssssssosererererererserrrrrrrrrrrrrrrrerrrrrrrrnrrrrrrrr rr rn nn n nan Gällivare, pOliShUS I osmssssssssessrerssrrenrrrnrernnsnrnennenrernnernrnn nerna nn GängbearbetnNilQ....smmmmssssessennsenresenesrrnrenernernesnrnrrrrsrrnern nen rr renar</p>
-          <p>Handen, pOlishUS I onssnmssssessressrrrrrsnsrneennesnnrsnrennernnnnnrnn ns nnnn nen Handikappade, diskriminering av.... Haninge, länsrätt Iosnmnssssssrsssrressreresnressrennesnresnesnnernennrnnnnenn nn nn Hastighetsövervakning till SJÖSS s.....sssssssssssseseneennsnennennennnnenn Hemlig teleavlySShilg...sssssesessressrennennennennennenesrennenennennenn enn rn nn</p>
-          <p>Hemlig teleövervakninlg....ssmsessseesosnesoresneeneersresnesrnnennrnrnsnnnrnnen Hemligt telefon NUmMMET sissossesesressserseererenresresnrrnnsnnrnn nen n nn nn Hets mot folkgrupp s.ssmnnsessesresnrerseenrerenersreneennsrnrensnnerernrennrnnn nn HIV/aids inom kriminalvården, information OM............... Hjälp åt polisen, ersättning fÖrl.........s.sssssssssesreresesenenenennnnnnnen Huddinge, pOlishUS Isnmssmmnresseserssresesseensarenrennesrsnennennennnnnnn rna Hudiksvall, ny kriminalvårdsanstalt I....nnnnmmsmssseseseenenenannnna Humanisering av kriminalvården ......sesssessnesesnosenenenrnnnnnnnn Husrannsakan</p>
-          <p>i traNSPOrtMedel omooossssssssssrsessresnrernrernerernernrsrnrnnernernnnen nn nn HyreSNäMnNA ssssssssreeessereesrrsnrernrrerrnrerrresrrerr renen rsnrern er r ren n nn nen Häkte i KarlsKrOnNa sssssmssssereeseersereeeeenrnrrereereererrrnerrrnrnrrrr ennen rna na Häktesfrågor Häktning AV UNGA sossosereererrererrersrerenrnrernrerennerenrnnenenennnnnnen eran enn nan nns enn a vid kontraktSvårC.........ssesssessresseessrerrensrerrerrenrnrsrrennrrrnnrn nan Häleflossossssreerseeresereressrnerrerrssrerererrerrrrrrerrrsne ser rrn ren rr sn rn nn nanna nen Häleri, nya former fÖr s.sssmmssssrsssrrsersrresesnrsernrerresrreresnrrnrnerrrnnn en HälerifÖrSse€lS€...........ssssseeseeeeereerereereeeensereneererrrrnrrnrerrrrrnnnnnn rna</p>
-          <p>21 17 21</p>
-          <p>19 19 3y</p>
-          <p>19 19 22</p>
-          <p>1990/91:JuU Reg.</p>
-          <p>14</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_JuU/reg_199091_JuU-014.pdf"/>
-          <p>Ideell SKACQ....ssnseeosreensenrreresrererrnrnrrnrnrrrrnssnreenrnrrnrsnrernr narr nr enn rn nan Immunitet och privilegier m..mmmmsssssssssssesnrrennrrnrsnnnrnnennenrnnnn nr Information från polis om unga OM frigiVNilG sosssssssesssresseensrsrnrssrresnnerresnnrrennernnsn renen enn rn nen om HIV/aids inom kriminalvården s.......sssesssessrssnsnsnnnn om åtgärder mot ekonomisk brottslighet ....................-- till DrOttSOffer sssmssesssrrersrrrrrssnnrrrenrnererrserernrsen ere nns n nn rna n Informationsutbyte i internationella förhållanden............. Ingripanden mot berusade personer Ingripanden mot unga IN hibitiOn sssmmmmnssssreensrerrrerernerrsrerrrrrnnernnnrrrnenn enn rn ren n ense nn r erna Inriktningen av narkotikapolitiken ......sss-seeesrsersrnrnnnnnnnnn Inriktningen av polisens arbet€...........sessosesesereserrenenennnnnnnnn Insatser vid statsbeSÖKk =ssmnmnsssssssssssrssssrreresnnresnnesnrnnnernenernnrnn nn Internationella verkställighetslagen .... Internationella överenskommelser = ..smmmmnsssssrennennnennrnnnnnennant Internationellt samarbete i brottmål...............esssssssssssssnnnnn Internationellt samarbete inom polisverksamheten...........</p>
-          <p>Invandrare information till..</p>
-          <p>Jordabalken, lag om ändring i (fastighetsdomstolar, MMM) ooseeeeseeseeerereerseerrrrrrrrerrranerrernenn nere r ene enn senere nere nen renen rn rna Jourdomstolar Justitiedepartementet m.m., anslag till Justitiekanslern, anslag till mssmsssssssssssrsersesssrnenernnennnrnrnnnnnnennnn JUStitieråÅd .oosonnsrseresrerrsenrerrresreorererressrrenerrerrenrrannsnerrsr ennen rr nn rann a Jämställd hetsfrågOr s.....ssssssssssseserenenenerrrnrnrrnrarenrrnrnenennn enn ennnn nns</p>
-          <p>Kammarrätt..................oooo0- Kammarrättsfilial i Umeå Karlskrona</p>
-          <p>Kommunalt inflytande KOM mMUNATTEStossosssseesesereeerrrrrrrerrenenrnrnrrrnrrrnrrrerernnnr renen rn rr rn rn nn KompletteringspropOositiONeN ...s.sssssssessrsrsesrsnennnnennnnnnnrnnnnnt KONfrOntatiOnN snsossessresesesrerarsnrsrsrrnrsrennrrerenrnnrresrrernnrernnr rn rrn rna Kontraktsvård villkorligt fängelse ViClnsmmmssssesessrssesesessesrenesenennnnnnensnnnn nen häktning vid KONtraspiOnNage sosmnsesessesrseeneeseeneersenrnenresnerrrer een nennrrenrn ennen rn n rna nn Kortare utredningsStider.............ssssosssessrrosessenesnrsnnnerneresrnrrnnnn Kostnader för brott mot enskilda .............sssessssssersrreserssssnnnn Krav på villkorligt frigivna m..smmmssssssessnensorsnersnnrrnnnnrnnrnnrnnnnnn</p>
-          <p>25,</p>
-          <p>25, 37,</p>
-          <p>21 38</p>
-          <p>19 17 17</p>
-          <p>1990/91:JuU Reg.</p>
-          <p>15</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_JuU/reg_199091_JuU-015.pdf"/>
-          <p>Kriminalvården delegering iNOM ssmessesseressersseererrerenesernesnerenrner renen ene rnn nn nn Eftervård oossssssresseesrerrrerrererrrrsrrrnransesnenesn nen ern ennen eran n ennen anna nn engångsanskaffning av inventarier m.m., anslag till... frivården, anslag till smomsmsmmssssssssssesssersnrernnnrnrrnnnrnnnnrnnnnn nan humaniSeriNg AV smsmmmmsssssssressresssrsssrernresnnesresrrrnnnsr nens n nr anna häkte i Karlskrona information om HIV/aidS s.ssssensessesrerrerseseerrrresnenerrrrnensnnnn</p>
-          <p>kriminalvårdsanstalterna, anslag till kriminalvårdsstyrelsen, anslag tillim.....s.ssssssssosororsrsnsnnnn lokalförsÖrjNiNgeN smussmssesssessreersrsrrrrrnesrnrsrerrsnrernsrrernnrnrn nan maskin- och verktygsutrustning m.m., anslag till ........ mål och inriktning narkotikaffågOr ossnmeresrererereererrerreresesesrsrnrererererrsnsrererenen nn styrning av ekonomi och resursutnyttjande.................. utbildning av personal m.fl., anslag till.............s....s.---- UtreCNiNg AV-somsseeereressseeserererersssrrssrrrrnnrrrrenr rss nen nr nerna nan utrustning för kriminalvården, anslag till..................... övergångshem Kriminalvårdsanstalt i Hudiksvall, Karlskrona, Visby....... Kriminalvårdsanstalterna aNSlag tillosoosssssssssssessersressrersrrresrrrernrsresnnr ren es n rr enn n ner n rn enn nn narkotikamissbruk På s..smmmmssserseresesrsrerseresrerenrsrereresernnrnnn nn Kriminalvårdslagstiftningen Kriminalvårdsreformen, utvärdering av Kriminalvårdsstyrelsen, anslag till.....ms.sm.ss.ssssssosessesreererenennnn Kustbevakningen, samarbete med tullen............ssssssssssss0nn0n Kvarhållande i pOlisärfeSt...mssmssssssessssesesrenenrsnsnenennnnenennnen anar Kvarteret KronObErg smssmmssessesseresosnersrerersnrresesrresnrernernnsrnnnnnn KVarterspOliS€r m.ssmssssesrseessrersrrssrrersrerersrrnrrssrrrnsrsrn rn nennrnn rerna nn Kvarterspolisverksam het. ...mnmmnsssssssresesrsesensesrsesrenennennernenennnn nn Kvinnliga iNtagNa sossmsessseesressrerssrrssrrersrrrrsrrnnresresrrrnnnrnnrnrnrn rann nn Kvinnomisshandel, påföljd fÖr s.......sssssssssesssrresssesersenrsnrrnnnna KyrkOffiClbossonnessserrnesrerenenerrnesenenernenenenesenenenennnesenenenenenenernnn en nnn KyrkOMmUSIiker sosssnssesrereessrrrsrererssnrrersesersrrsesrerrrssrrrrrrrerrrrrsnrr rar sr</p>
-          <p>Lagar m.m., lag om ändring i kungörelsen (1885:56 s. 1) med vissa föreskrifter till beredande av skydd för undervattenstelegrafkablar (DÖLEL )oooeesresresesrsnoasererereresresrnereenersrsrrrns renen rar rer ennen renen nan kungörelsen (1915:288) angående förbud att utan särskilt tillstånd framdraga enskild telegraf-, telefon- eller annan svagströmsledning över riksgränsen</p>
-          <p>lagen (1919:426) om flottning i allmän flottled (006175 6) VR lagen (1929:116) om tillsyn över stiftelser (böter)........</p>
-          <p>10</p>
-          <p>10</p>
-          <p>10</p>
-          <p>10 10</p>
-          <p>1990/91:JuU Reg.</p>
-          <p>16</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_JuU/reg_199091_JuU-016.pdf"/>
-          <p>lagen (1932:55) om viktmärkning i vissa fall av gods som skall inlastas å fartyg (bÖter) ...........s.sssssseseseoerenenne checklagen (1932:131) (DÖter).......ss.sssessesesesseneorerernnnnan lagen (1932:242) om skyldighet i vissa fall att tillhandahålla förnödenheter m.m. för ordningsmaktens behov (bÖter) .....s.ssseseerrersrssrresrsrsnrnnn förordningen (1933:78) angående beteckning för vissa slag av vin (BDÖLeErl)...sssssesssrersrseerrrrerererrnrrnerersrensrrnnnn nr skeppsklarerarförordningen (1934:119) (böter) ........... kungörelsen (1935:47) angående viss uppgifts- skyldighet i fråga om hamnar och lastageplatser ävensom kanaler och andra vattentrafikleder (böter).. lagen (1935:113) med vissa bestämmelser om arbetsförmedling (bÖter)........ssessersssrererresesrrrernenenennrnenrn nan lagen (1939:299) om förbud i vissa fall mot överlåtelse eller upplåtelse av fartyg m.m. (böter)....... kungörelsen (1939:707) angående skyldighet för förvaltare av fastighet att biträda vid utlämnande av inköpskort, m.m. (bÖLEr) m.smmnmssssserersesreresesrerserennnenrrnnnn ann lagen (1940:176) med vissa bestämmelser om fraktfart med svenska fartyg (bÖter)................sssses0nn lagen (1941:416) om arvsskatt och gåvoskatt (böter) ... värnpliktslagen (1941:967) (bÖter).............ssssemesssssesnt kungörelsen (1942:155) angående förbud mat försäljning av vissa kemikalier (bÖter)...............s.s..s.s.s lagen (1942:335) om särskilda skyddsåtgärder för vissa kraftanläggningar m.m. (bÖter)............ssesseesesrernrn lagen (1942:723) om skyddsympning inom försvarsväsendet (DÖer) s..ssmmmmsssssrssrsrrsrsrsnrrenrenrrnrnernr renen n nn lagen (1943:459) om tillsyn över hundar och katter</p>
-          <p>lagen (1944:133) om kastrering (bÖter)......................... kungörelsen (1945:174) med vissa bestämmelser till skydd mot skada från gengasdrivet fordon eller redskap (bÖLer) smssmnssssrssressersressrerresrenerrenenesrenerenenenrnn enar n en kungörelsen (1945:494) angående lån från värnpliktslånefonden (bÖter)...........ssssssssrsrsssessosrsrsenrarnnn lagen (1946:808) om lagsökning och betalningsföreläggande (lagsökningslagen), (fastighetsdomstolar, M.M.) mesmsssssssessrsenrerserensenrnnnennnnn nn lagen (1947:164) om förbud mot politiska uniformer (BÖLEr) .smmmnssssrrserrrrrerrrenrrnrerresrrrerrrrrernnnrnnen rna kungörelsen (1947:175) angående postverkets ensamrätt till brevbefordran m.m. (böter).................... lagen (1947:529) om allmänna barnbidrag (rättskipningen i socialförsäkringsmål)..................+- lagen (1949:183) om flottningen i Torne och Muonio gränsälvar (bÖLer)......ssssssosersreseesessenesneseenennernnnnt</p>
-          <p>10 10</p>
-          <p>10</p>
-          <p>10</p>
-          <p>10</p>
-          <p>10</p>
-          <p>10</p>
-          <p>10</p>
-          <p>10</p>
-          <p>10</p>
-          <p>10</p>
-          <p>10</p>
-          <p>10</p>
-          <p>10</p>
-          <p>10</p>
-          <p>10</p>
-          <p>1990/91:JuU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_JuU/reg_199091_JuU-017.pdf"/>
-          <p>kungörelsen (1949:491) om förbud att använda bensolhaltigt ämne vid tillverkning av läderskodon [ (5761 753) [RA lagen (1949:722) om pantlånerörelse (böter)................ lagen (1950:272) om rätt för utländska försäkringsföretag att driva försäkringsrörelse i Sverige (DÖer) somsesessrsssressrrsrerresrrrrnsnrsrrrrrnesnrerrnrrnrrnn rr nn nen lagen (1952:98) med särskilda bestämmelser om tvångsmedel i vissa brottmål (fortsatt giltighet av 1952 års tvångsmedelSlag) .......sssssossosssssesnenenenrenenennnnsnrnnna lagen (1952:270) om skyddsympning vid krig eller krigsfara m.m. (bDÖer)...ssssssessssrsenennrrenrnnnnanen sjönödskungörelsen (1952:581), (böter) lagen (1956:245) om uppgiftsskyldighet rörande pris- och konkurrensförhållanden (böter)...................- förordningen (1956:413) om klassificering av kött [ (076) C:a allmänna ordningsstadgan (1956:617), (böter) ............. allmänna tjänstepliktslagen (1959:83), (böter) ............. lagen (1959:188) om krigsansvarighet för liv- och invaliditetsförsäkring (bDÖter).........s.sssssssesesenesennenennnnnnnnan civilförsvarslagen (1960:74), (böter) lagen (1960:409) om förbud i vissa fall mot verksamhet på hälso- och sjukvårdens område [ (670153 6) RAR lagen (1960:418) om straff för varusmuggling (070 TT 6) lagen (1961:181) om försäljning av teknisk sprit och alkoholhaltiga preparat (bDÖter).............ssssseessressensresnnnnnn lagen (1961:394) om tobaksskatt (böter) ......................- lagen (1961:655) om undanförsel och förstöring</p>
-          <p>lagen (1962:381) om allmän försäkring (böter)............ lagen (1962:381) om allmän försäkring (rättskipningen i socialförsäkringsmål)......................... lagen (1962:392) om hustrutillägg och kommunalt bostadstillägg till folkpension (rättskipningen i socialförsäkringSmMål) smmmssssssssssssennsnsenrnnenensrnrnnnnnnnnn enn ann läkemedelsförordningen (1962:701) (böter) ................. lagen (1963:76) om kreditaktiebolag (böter) ................ lagen (1963:193) om samarbete med Danmark, Finland, Island och Norge angående verkställighet av straff m.m. (kriminalvårdslagstiftningen)................- lagen (1963:197) om allmänt kriminalregister (psykiskt störda lagöverträdare) ................sssso0sosorooronnnnn lagen (1963:583) om avveckling av fideikommiss [ (8761 2-7 6) FA krigshandelslagen (1964:19), (böter)</p>
-          <p>10 10</p>
-          <p>10</p>
-          <p>10 10</p>
-          <p>1990/91:JuU Reg.</p>
-          <p>18</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_JuU/reg_199091_JuU-018.pdf"/>
-          <p>lagen (1964:143) om bidragsförskott (rättskipningen i socialförsäkringSsmål) ...mmsmsssssesessesesnesennenenenenenenennnn nn anna lagen (1964:167) med särskilda bestämmelser om unga lagöverträdare (ingripanden mot unga) ............... lagen (1964:542) om personundersökning i brottmål (kriminalvårdslagstiftningen) ..................--.--.- lagen (1964:542) om personundersökning i brottmål (psykiskt störda lagöverträdare) ..................... lagen (1965:61) om behörighet att utöva veterinäryrket m.m. (bÖter).......ssssssssosseseenesesnennenennnnnnn nan lagen (1965:94) om polisregister m.m. (ny terroristlagstiftning M.M.J.sssmssssssssssssesesnsnensnenenenernnnen nns lagen (1965:94) om polisregister m.m. (psykiskt störda lagöverträdare) sommmmmmssssssessrsresnennennerenesnennrnernrn annan förordningen (1966:36) om vissa uppgifter från näringsidkare (bÖer) ...mmmmmsmsresresrerseseneenenenerrnnsnsnenenennnn enn kungörelsen (1966:37) om statistiska uppgifter från rörelseidkare och ägare till flerfamiljshus (böter)........ lagen (1966:413) om vapenfri tjänst (böter).................. lagen (1966:742) om hotell- och pensionatrörelse</p>
-          <p>patentlagen (1967:837), (DÖter) .mmnmmnmnsnrnenesrsnsnnnsnnsnnnenn lagen (1969:246) om domstolar i fastighetsmål (fastighetsdomstolar, M.M.) mesmnmssssssessesesnenennenernennnnnnn nanna delgivningslagen (1970:428), (DÖter)............sssssssssssonnsnnn delgivningslagen (1970:428), (delgivningsfrågor) ......... delgivningslagen (1970:428), (psykiskt störda lagÖVErträClal€])..sssssesseseenesreserrrssnerrenernrennrnerrrnennenrnnrn nn ennen lagen (1971:289) om allmänna förvaltningsdom- stolar (fastighetsdomstolar, M.M.)....sssssssssssssssesnnsnnnnnnnn lagen (1971:289) om allmänna förvaltningsdom- stolar (rättskipningen i socialförsäkringsmål) .............. förvaltningsprocesslagen (1971:291), (delgivningSsfrågOr) s....msssssssssesesesesenesenenrnresnnnnrnnenen enar nanna förvaltningsprocesslagen (1971:291), (böter) ................ förvaltningsprocesslagen (1971:291), (rättskipningen i socialförsäkringSsmMål) m...sssssssssssssseneenenenesrnenennnennenen nanna bostadsrättslagen (1971:479), (fastighetsdomstolar, MAI) oooeeeeereresrrereresreserrnererrrrrnrrrrrerernrrrnnresr ere ren nnrrn ere n rena lagen (1971:965) om straff för trafikbrott som begåtts utomlands (bÖer).........sssssssereessrrrssrresssrennnnerrrsnnernn nerna nan lagen (1972:260) om internationellt samarbete rörande verkställighet av brottmålsdom (böter)........... lagen (1972:260) om internationellt samarbete rörande verkställighet av brottmålsdom (narkotikabrottslighet) .............sssssesssrsessrensrrsnrsererernnnen nn</p>
-          <p>18</p>
-          <p>32</p>
-          <p>1990/91:JuU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_JuU/reg_199091_JuU-019.pdf"/>
-          <p>lagen (1972:260) om internationellt samarbete rörande verkställighet av brottmålsdom (psykiskt störda lagöverträdar€) s.ee.essserrrrsrrennrnrerenrnrrrrnennnnrnnrnn rättshjälpslagen (1972:429), (fastighetsdomstolar, MIM) oooeorereererrrerrrrnrrrererrerrerrrsn renen rrrrrrn ren erren ner nrnen nen nrn annan rättshjälpslagen (1972:429), (rättskipningen i socialförsäkringSMål) =mmmsseesessrsssrsssresessnsssneneneenenen aren n na rättshjälpslagen (1972:429), (ny terroristlagstiftning 4.406 1409 lagen (1973:188) om arrendenämnder och hyres- nämnder (bostadsdomstolen och hyresnämnderna) .... studiestödslagen (1973:349), (rättskipningen i socialförsäkringSmMål) susmmsmspsssssssssnenesesernerersrnnserensnsn annan a lagen (1973:371) om kontant arbetsmarknadsstöd (rättskipningen i socialförsäkringsmål)........................- lagen (1973:431) om utredning angående brott mot utländsk tullag (internationellt samarbete i brottmål [4.805 4 109 förordningen (1973:568) om vissa uppgifter från rörelseidkare (DÖel) sm.mmmsmssesssserseersererernenrrererrrrrrnersesnnnnrn enn vapenlagen (1973:1176), (Vapenlagen)..................s....s.0- handelsregisterlagen (1974:157), (bÖter) ....................... lagen (1974:202) om beräkning av strafftid m.m. (kriminalvårdslagstiftNningen) s.smmmmssessersorserrssesrsenrsnrnenen lagen (1974:202) om beräkning av strafftid m.m. (psykiskt störda lagÖverträdare) m.......sssssosssesssenennsrnnnnnn lagen (1974:203) om kriminalvård i anstalt (kriminalvårdslagstift ningen) summmmsersssseserrssrssrrenenrenennenen lagen (1974:371) om rättegången i arbetstvister (bostadsdomstolen och hyresnämnderna)..................... lagen (1974:515) om ersättning vid frihetsinskränkning (psykiskt störda lagöverträdare)... lagen (1974:1065) om visst stöldgods m.m. (narkotikabrottslighet) m...nsns.ssssesssreeorenrrnesenesrennrenenennnnnr lagen (1974:1082) om bostadsdomstol (bostadsdomstolen och hyresnämnderna)..................... terrängkörningslagen (1975:1313), (böter).................... trafikskadelagen (1975:1410), (DÖter) s...nnnnnmsnmoseoeoesnnanen lagen (1976:157) om skyldighet för arbetsgivare att anmäla ledig plats till den offentliga arbetsförmedlingen (bÖLer)..........ssssssossesrserrsrorersenesnesnennnnen lagen (1976:371) om behandlingen av häktade och anhållna m.fl. (kriminalvårdslagstiftningen) ................ lagen (1976:380) om arbetsskadeförsäkring (rättskipningen i socialförsäkringsmål)......................... lagen (1976:580) om medbestämmande i arbetslivet [ (576175 6) lagen (1977:292) om tillverkning av drycker, m.m. [ (076 3 6)</p>
-          <p>34</p>
-          <p>10</p>
-          <p>10</p>
-          <p>1990/91:JuU Reg.</p>
-          <p>20</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_JuU/reg_199091_JuU-020.pdf"/>
-          <p>lagen (1977:293) om handel med drycker (böter).......- lagen (1977:654) om kungörande i mål och ärenden hos myndighet m.m. (delgivningsfrågOor) ...................... lagen (1978:28) om försäkringsdomstolar (rättskipningen i socialförsäkringsmål)..................-....-- lagen (1978:40) om införande av lagen (1978:28) om försäkringsdomstolar, m.m. (rättskipningen i socialförsäkringSmål) =mmsssssssesresssrsrorsererrsrsenrrnnrrrrnnnnrnen an passlagen (1978:302), (kriminalvårdslagstiftningen) .... lagen (1978:801) om internationellt samarbete rörande kriminalvård i frihet (kriminalvårdslagstiftningen) s..smmmmmsssssrsrsesrsssenesnennnnnnn lagen (1979:84) om delpensionsförsäkring (rättskipningen i socialförsäkringsmål).................-....--- bötesverkställighetslagen (1979:189), (psykiskt störda lagÖVErträClar€]...ssssesssesseseesrenrerresrerenrenenrnnener renen nen ren n enn nn lagen (1979:377) om registrering av båtar för yrkesmässig sjöfart m.m. (bÖter) .....s.sssssssensosnnnrnsnnnnn sekretesslagen (1980:100), (delgivningsfrågor).............. sekretesslagen (1980:100), (rättskipningen i socialförsäkringsmål) sm. mmmmmssssssrsrnsensensnnrnnrnernrnsen sn nerna a sekretesslagen (1980:100), (internationellt samarbete i BrOttmål M.Mo)ossnsssssssssererrersrrrrorerrerrrrnernernrrnernr ere ner nr nana sekretesslagen (1980:100), (ny terroristlagstiftning 4005 4319 [Ar sekretesslagen (1980:100), (vapenlagen) ........................ lagen (1980:307) om skyldighet för utländska kärande att ställa säkerhet för rättegångskostnader (fastighetsdomstolar, M.M.) smssmmmmsrsrsrersresenrnenenenenernrn rn nns an handräckningslagen (1981:847), (fastighetsdomstolar, M.M.) mesmmmessessresenenenenenenenernen annen an polislagen (1984:387), (förnyelse inom polisen) .......... polislagen (1984:387), (ingripanden mot unga) ........... polislagen (1984:387), (ingripande av polis)................. lagen (1985:988) om immunitet för vissa vittnen m.fl. (internationellt samarbete i brottmål m.m.)........ lagen (1986:378) om förlängt barnbidrag (rättskipningen i socialförsäkringsmål)......................... jaktlagen (1987:259), (DÖter) msmmsesseesessoeroserosenennnnnnnn lagen (1987:733) om fritidsbåtsregister (böter) ............. lagen (1988:97) om förfarandet hos kommunerna, förvaltningsmyndigheterna och domstolarna under krig eller krigsfara m.m. (rättskipningen i socialförsäkringSmMål) sm. .......ssssssesseresenrsnenenerenennnsnrn ennen enn nn vägtrafikskattelagen (1988:327), (böter) ...............,.......- lagen (1988:328) om vägtrafikskatt på utländska fordon (bÖter) ...ssesseresererrerrersrrernrenrenrsnnennenrrnnenner narr nn n nn</p>
-          <p>10</p>
-          <p>18</p>
-          <p>18</p>
-          <p>34</p>
-          <p>29 33</p>
-          <p>10</p>
-          <p>10</p>
-          <p>1990/91:JuU Reg.</p>
-          <p>21</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_JuU/reg_199091_JuU-021.pdf"/>
-          <p>lagen (1988:360) om handläggning av ärenden om bilstöd till handikappade (rättskipningen i socialförsäkringsmål) .....msssesessssesersesesenrnrenenrnnnernsnnsrnrnn nana lagen (1988:609) om målsägandebiträde (utvidgad rätt till målsägandebiträde, M.M.J.nmsmssessssssssnnsnnnn lagen (1988:1464) om ersättning och ledighet för närståendevård (rättskipningen i socialförsäkringsmål) s.msssssssssssessssrerersrnensrsrnsnsrnensennnn nonan smittskyddslagen (1988:1472), (kriminalvårdslagstiftNningen) .messmssesssssrsrorseoronononn nn lagen (1989:8) om kyrkomusiken i svenska kyrkan (nordisk arbetsmarknad) ssmnmmsssssssersrreeserenrrsrrernernnennrn rann lagen (1989:225) om ersättning till smittbärare (rättskipningen i socialförsäkringsmål)..................s------ utlänningslagen (1989:529), (kriminalvårdslagstiftningen) ..smsmmrnsrererssserreresenenennnnnnn utlänningslagen (1989:529), (ny terroristlagstiftning IM) oeeeereerreesrrererrrerrrerrrrrrrrrrrrereerrrerrrrrrnrrrernrrrrrr rr nn nanna na lagen (1990:314) om ömsesidig handräckning i skatteärenden (internationellt samarbete i brottmål [4.405 4 109) taxeringslagen (1990:324), (bÖter)................s-.ssssssssssnnn lagen (1990:325) om självdeklaration och kontrolluppgifter (DÖter) .........ssssssessessesseserneesrererenrenennn järnvägssäkerhetslagen (1990:1157), (böter) ................- lagen (1990:1183) om tillfällig försäljning (böter) ....... lagen (1991:000) med vissa bestämmelser om inter- nationellt samarbete på brottmålsområdet (internationellt samarbete i brottmål mMm.m.)................. lagen (1991:000) om särskild utlänningskontroll (ny terroristlagstiftning M.M.J.sssnsssssesssessessresensnsrerennennnnenen nn lagen (1991:000) om tillstånd till ingripande mot svenskt fartyg (narkotikabrottslighet)..........................-- Langborgermålet ..snmnmsssesessesrerrenrenrerrernesrrsrernernrrenennenerrnenenen rna Legitimationsskyldighet för ordningsvakter........................ Legitimering av polismän susmmmsssssssrerserressrenrrensernrrrrrernrnnnnn rna LiVvStidSStraffonosssssesssresrarsrersrenrrerrrnrsnernrrnrrrnrrnnrnner ennen ennen nn nns ann Lokala polisorganisationen, anslag tills mommsmssssssssssnenennnnnnns Lokaler, domstolar Dokalförsörjningen för polisväsendet................. för åklagarmyndigheter inom kriminalvården. .......sssseeserseseesesenennenenennrnnnenen ennen ann Långsiktig pOlispOlitik...........ssessssosseseseresenernersrsrrsenenrnnrnnrnnnn nan Långtidsdömda, särbehandling av sm...mmseseseessesssrersrrrrrnenennnnn Länspolismästarmodellen susmmmmssssesssresrerrersersrrrnerernrennerennanen nan Länsrätt</p>
-          <p>18</p>
-          <p>1990/91:JuU Reg.</p>
-          <p>22</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_JuU/reg_199091_JuU-022.pdf"/>
-          <p>Maskin- och verktygsutrustning m.m., anslag till .............. I ETS 40776 FE: Medborgarinflytande ssmmmmnssssessessreneennnrensnnrsrsnnenrennnernrn nn n rn nn MedborgarkOmmiSSION ssmnmesssessessrensrersrsrsrennnrrnrnrrnnrnnrnnnn nn nn nn Medborgarskap s.smmnmesressrrensrrererrersrnenennrrrsnrnrnerennerrennrernrn rr n enar MedborgarvittNnen s..smnmmssssssesesreseeseennnrnsrrrnnrnnn ren ernennener nen nen nn n en Medtagande till fÖr HÖr s...ssssssssrseeserenesnrrreserrannnnrrneennnen ns nn nnn nn Miljöfrågor, utbildning i Misshandel oonnnnsssssessesserssnnessernnsnnnnnnn Moderniserad domarkarriär Mål utomlands s..s.sssseseseerererersenenenennenennenenennen nn nn enn Målsägandebiträde Målsägandebiträde vid sexualbrOtt...............s.ssssssssnnnnnnn Målsägande, underrättelse tilli.............ssssososeseseoesnsesnnnnnnnnnnnnn</p>
-          <p>Nacka, pOlishuUS Iosnmnnessssrssrsrenesresnennnenrnesnrrrnnnernrresnrnnerrrnnnnrn rna Narkotika nordiskt samarbete smuggling av svald Narkotikabekämpning Narkotikabrott s...sssssmssssrrerererrsererererererrrrrerrrnrnnrrrrrrrrrn nan Narkotikabrott, åtalsunderlåtelse vid NarkotikabrottskonventiOn€enh s...smmmssssssserereserersrererrenrnnrrrrn rar Narkotikabrottslighet s.mmmmmmsssssssesrenssnsnsrennnrsnnsnernernsrernrnnennn nns Narkotikafrågor m.m. inom kriminalvården.....................- Nordisk arbetsmarknad. ....s.sssssssrrsererrresererereeerrenrerernrrrsnnrrrnn nan Nordiskt samarbete mot narkotika ............ssseeserersersesenssnnnnna Nämndemän aNtal€t.ssssssssssessrereseseerererrerrrrerrrrnnrrrrrrrrerrrrnnrrrnrnnn rna rr nn n ann nn a CI SÄttNiN Gao ooseeseereererseesrerrserrrsesrrrnrrrrnrenn rer n ren nrnen nen en ennen nana n nn mMandattid ...ssssmssssserersrererrerrrrrrrrrrrerrrrrrrrrrrrrrrrrrerrnnnrrrr rr rn rna</p>
-          <p>Obehörigt avvikande från trafikolycksplats ......................-- Oetisk kontaktförmedliNng...........ssssssresserseessrersenrenennenernnnnenent Offer för brott utomlands s......s.sssesssressressrersrenernennrnennrnnnnen ann Olaga våldsskildring .......sssssssssesenennnnnsenennenennenenensnnnsnsnnenenrn nat Olovlig KÖrTNiNg oossumsreresersenrereseneneernennrerrrsresnrenesnsrrnenennsnnnenrnnnen Olovligt brukande s..ssmmnsesseseesrersnrssnneerrrsnrrrenerrernenernrrrennnrenent Omprövning (utlänningslagstiftningen) m.......esmsesmr Ordningsbot för Snatteri ....msss.ssesesreseorersersresenrnenrnsnnnnennnrnnnnt Ordningsvakter, legitimationsskyldighet ..........e.s.seseerrr0&gt; Organisationsrekvisitet (utlänningslagstiftningen) ............. Otillbörlig psykisk Påverkan sw....seessssssessesenoesensesenennsrnrnenennnnn</p>
-          <p>1990/91:JuU Reg.</p>
-          <p>23</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_JuU/reg_199091_JuU-023.pdf"/>
-          <p>Paragraf 7-iNtyg......sooosesosoesennsrsernrsnsnesrrrennenennenenernnnnsnennnnnnnrnnnn Parlamentarisk KONtrOll.....ssssessssesessersrsnernrrrerersnnrnnererrnnnrrern nn Parts rätt att ta del av beslutsunderlag ..............ssssssrsssersessnna Pass förnyelse AV sommseseeeesreseererrrererreressrssrerrenrerrerrernernernnrrnrnn enn nnn återkallelse av PenningbÖterla.smeessrseerersersrsrrsrresrnrsrererserrrnrrernrerrennnrn renen nn rr rna Pensionerade dOMarE ssmsmsssessressrrrrresrrsrrrrrsrnrsrrrrrnrrrnrrrrn nr n nn nn Pensionerade polismän</p>
-          <p>PermisSsiOnSreglel.smsmssssseresrrreserrrererrrsrerrrrrrrrrrrsrrr ner ernr nn nr rn anar Personligt rekvisit (utlänningslagstiftningen) ..................... Polis, förhållandet mellan åklagare OCh .....m.s.sessesreneesensnnnn Polis och socialtjänst, samarbete mellan ..........s.sssss0ssr0nnnnn Polisanmälan, falSkosssonnsssssseserreseresresrerennrenrerrrrnrnnnrnnrnrrnnnnn nn nn Polisarrest, kvarhållande i o....ssssreersesresrersenerennesnrrnennnnrrnnn ann Polisarrest, sjukvårdssekreteSS ..........s.sessossseseneenennesennennnnnnnnn POIliSaSpPirante€r sosssssesesssessesresserenerrnssnrrrrr nen nnrrnrrr ner n ner r rr rn nan Polisdistriktsindelning Polisen i StOrStaCl....ssssssssesseresereensrrrsrnrnererrernressrrerrnnrnrrrrr nn rr n nn Polisen och invandrarfrågOr .........sssssssssesssereseseserersrsenennnnrnn nn Polisens arbete, inriktningen aVv.-......ssmsesersersssnsennnnnnnnn Polisens radiotrafik Polisens uppgifter Polishus (i Gällivare, Handen, Huddinge, Nacka, Solna, Södertälje, Uddevalla, VänersbOrg).......,.....ssssssssssssssesnssrsnnnn Polisingripanden vid UPpPlOPpP......ssssssmssssssssssessnsnnnsnesnnnnn Polismän DFOtt AV oosoosserererrreerersesrsrsrrrsrrrespsprrrrrnrnrersrrnrre nr nr ere nn n rerna nn pensionerade Polispolitik, långSiktig...........ssesorssesesrssenrenerrenenrernerrenennennen erna Polisregister, vissa frågOr OM s..sssmsoresssssrennesesrnrerernrnnnnennnn annan Polisstyrelsens verksamhet.........s.sossossssssresonersensnnnnsrnennnnnrnnnnn Polistjänster Polisutbildningen, decentralisering AV..........sssssesssrsssessnnnnnn Polisväsendet diverse utgifter, anslag tillis..........,..sssessesssseserssnersnsnnnsnnnrn gemensam kontorsdrift m.m. inom kvarteret Kronoberg, anslag till..s..ssss.sssessessoserserssesnrnnsrnrnnnnnnernrnnnn nr lokala polisorganisationen, anslag till...monmms...ssessessss0&gt; rikspolisstyrelsen, anslag till......................- riktlinjer för resursanvändningen inom statens kriminaltekniska laboratorium, anslag till....... säkerhetspolisen, anslag till... ...ssssssssssesosesserennnennnnnsnn nn underhåll och drift av motorfordon m.m., anslag till. utrustning m.m för polisväsendet, anslag till... Pornografiska föreställningar ............ föreerererenerrrrrrnrern nr rn annans POStfÖrSändelS€ ..nssssssssresrerrerrerseerrer essensen nenrerr reses nen nr rn enn eran ennen Professuren i pOlisfrågOr s....s.sssssesressesrserereserrrerrrrserrerrrrrnnrrnnrnn nn Professurer vid BRÅ s..smummsmssssssssseseeosonosssssssrrrrrernrnnnsrrrnr nn</p>
-          <p>3y 6, 29 29</p>
-          <p>1990/91:JuU Reg.</p>
-          <p>24</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_JuU/reg_199091_JuU-024.pdf"/>
-          <p>ProportionalitetsprinCipen smsmmmmssssssessrsrsessrnsersersernnernnnnnr rn anna PrOStitUtiON ssossssssssessresernrresrrersrrrrrrrernesresrrnrrrrnern rr rrrer ennen rna nn Psykiatrisk tvåNgSVård susmnmnnsssssessseesrerenerenenenenenerrsernrnennnnnn annan Psykiatrisk vård på kriminalvårdsanstalterna ....................- Psykisk påverkan, otillbörlig...... Psykiskt störda lagöverträdare Psykiskt utvecklingsstÖrda s...ssessesssssenssernenesersernereresrernsnnrnnn Psykiskt VålCl.sssssssssseseereneroesenenernesesernenerrenenenennrnenennnnnnenen anar anna Påföljdssystemets utformning s....smssssesseresesrenesnenesennnnnennnn annan</p>
-          <p>Rapporteftergiffl .........n..sossoseoneonenseesernnesnenennenennerrrnernernennrnnnn nn nn Rationalisering (den statliga administrationen).................. Rattfylleri (UPPSKOV) sssnsnnneneseseeresresrenenesenenennenenenerenenenennen nanna Regeringens behandling av riksdagens skrivelser .............. REgeriNgSlåCL..ssssssssssesesrenereererenenereneseresenenenensnnenensnnenen enar en annan Registrering av unga som begått brOtt..................s-ss0nn Rekvisiten vid grov misshandel... .sssmssssssessreseesessennernnnennnnnnn RiddarhOlmen osssomsssseessssssrrereesrrrerssrnrrrssnernnrennnernr enn renar rerna anna Rikets Säker het...sssnsssssesoeresesreeenersreesenneneneenennenernenennrnnrnen nen nan Rikspolischefens ställning......sssssssesseseseneenenneneresnennsnernennen ann Rikspolisstyrelsen, anslag till.snmssmsssssssssssesessenesesnenernnnnernnn ann Rikspolisstyrelsens roll............. Riksåklagaren, anslag till Riktlinjer</p>
-          <p>för resursanvändningen inom polisväsendet ...............- för säkerhetspOliS€N...ssmmssssssssseresrensrersnrenererrenennennrnernrn anna</p>
-          <p>Rullande poliskontor ............... Rymlingar, eftersökande av Rättegångsbalken, lag om ändring i</p>
-          <p>delgivningSfrågOr sissnsssesssserereererrerereresenenenernrnrnrnrnenen annan nn fastighetsdOmstOlar smmmssssssserssssrrrrsenrrnnnrnnennennennernnnn nen nn nan ingripande av POLIS m.smmmnsssssssssessrssernenennenennrnerernrrern ennen nn nn nordisk arbetsmarknad ............. psykiskt störda lagöverträdare Rättegångskostnader i förvaltningsprocessen ...................... RÄättShaveriSt€l.s.ssssnmnmssssresssneenneesrenserernrsreennennernnennernennernnnnn annan Rättshjälp i förvaltningsärenden [Ut TOT a et FR till SMåföÖretagar€ susmmmsssssssesserererresrsenenenenenenesenenennnnen enar an nn vid DOdelNiNQ missssssseesseeseesenrersrenrererrerrrrerrrnerernenerer nen enar nn åt DrOttsOffer ssssssssssresrererersrnrererrnrnrnsenenenenrerrnrnr nere nenrnnn nana Rättshjälpskostnader, anslag till.mssmssssssssesesrrsssrrsssrsnsnnsnssnnnn Rättshjälpslagen, ÖVErSyl QV smnssssresesssersrernennersrernsnsnrsnernrn rent Rättshjälpsmyndigheten, anslag till Rättskipningen i socialförsäkringsmål Rättspsykiatrisk undersökning ....ssesssssesesseosesseeneenrrnrennnnnnnnn</p>
-          <p>29 21 34, 3y 34</p>
-          <p>1990/91:JuU Reg.</p>
-          <p>25</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_JuU/reg_199091_JuU-025.pdf"/>
-          <p>Sakkunnig oussssnererereeerereerennrnerrnrerrennenren renen enn ennen renen ene nen ennen nn Samarbete med tull och kustbevakning, polisens .............. Samarbete mellan polis och socialtjänSt...................s..----.-- Samhällstjänst i hela landet för unga Sammanslagning av polisdistrikt.......s..ssssessssrsrssesrsresnnsnsnnnn SeniOrpOliS€r ossssmssssreseereneerereneenernennennernen een nrn renen nen arn eran eran nn ann Sexualbrott</p>
-          <p>målsägandebiträde ViCl...snmmnmssessesreseersennennennenenrenennnnnrnnennnn regeringens behandling av riksdagens skrivelser .......... utbildning beträffande.................-..-...- utbildning beträffande vålds- och mot barn i andra länder smmmsssessrsrssrrersrrrrsrrrnnernnnnrnn annan Sexuellt umgänge med SYSKON .....ssmessessssseessrennennrennenennennnnennn Sexuellt Utnyttjälnde....sossssssesresrenrennrernesnrernrernrerernnsrernrnnrnnnnn Sjukvårdssekretess i polisarrest Sjukvårdssekretess inom kriminalvården SjöpolisverkSamn het... sssssssseesseserersrreesrrrerenrererrnerrrerrerrnnrrnnnnnnr Skadelindrande arbet€....smmmnmsssessessrenerenrenrrennsnnernrrnnrnenernnnnn nn SKAadeStåNA sssnsnssssseseersenereresenenernenerernenenernenernnnen enar enen enn nn anna Skadeståndstalan ..... Skiljemannalagen SMitNiNG oooeeeseerereererenrerereerernnenernnensneen nee ernnernn een r ennen een n enn nn enar Smuggling av svald narkOtika....smsseesesesesressrrnnrrnrsnesnenennensnnnn SMåmålSlägeNassonsssseeneereneerenereenesnennenrennennenern ennen renen nrnr renen nn nn nn Snatteri beloppsgränsen mellan stöld OCh... ssesssesersrrssnsnrnrnnnnn OordningsbOt fÖr s....smsesrsesressrrrssrrarnsrrsnsrrrernrrrnnnernnern nen nr anna nn åtgärder MO tsssmsmssesreresesrerenreneereenrnrennennenn enar errrnenenen rn nnn nn Social träning i anstalt m.nsmmssssssesssesssresssrarernrrsnnnernnennenn rna n nn SocialförsäkringSmMaål snommmssssssresserseresrerrenerrernerrerrrrerrrrenenenennn nn Socialtjänst, samarbete mellan polis OCH..........sssssssessssnsnenn Solna, POliShUS Iossnsesrerersersrrsrrrrssrrrnsrrrrernnrrnernrnnn rna n ennen annan an SpecialdOmStOlar.....sssssssreseenrenrennrennennnernesnnern narr rrrrrnnsnen nen nn n enn SPIONCI ÅL ooseoseeseerrrersereeenrrrrrrrrrrernrnannrrrennnennr renen n ner nernnn nr nen nn rna nen Statens kriminaltekniska laboratorium, anslag till ............ Statistik över brott aV UNGQ....smeesseessresrrsnreserennrrnesnernennrnrnnnnen Statsbesök, insatser Vid ...................- Statsrådsberedningen, anslag till Statsåklagare för miljömål .mmnssssssssssssesenenenenenensnnnnrnsnnrnn nn rna Stockholms län, länsrättel I.ssmmmmmsessreressrrsrerrrrsrrrsnnrnnrnnrnnnnn nn Stockholmskonferensen ESK =msnosssnsssessssessrerseresnsrernennennnsnnn Stockholmspolisen Straffmaximum för grovt narkotikabrott Straffskärpning vid återfall s.ssmmnmsssssssessesrrenerrrsersrrnnenrnnenrnnnn ann Styrning av ekonomi och resursutnyttjande inom kriminalvården ssmmmssessessesresesneerersnrenrrerererrrenerrrerrernernnnen nen nn nn</p>
-          <p>16 1 19</p>
-          <p>17 17 4y</p>
-          <p>1990/91:JuU Reg.</p>
-          <p>260</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_JuU/reg_199091_JuU-026.pdf"/>
-          <p>Stöld och snatteri, beloppsgränsen mellan...............ss.ssss000- Subversiv verkSamnhet....smsnnsssossrssrrrrssnsrressssnresrsernnnernnnrrn nr nn nn Surrogatdelgivning genom arbetsgivare....................s..s..s.00- Svald narkotika, SMUggliNg AV...sssmmsssesresresressesrenrerernernerernernn nn Svensk författningssamling, anslag till... one Svenskt medborgarSkapP........ssssssssereserrrrsrerrrsrerrrernrerrrnsrrrrerrrnr Sysselsättningsplikten i anStält...........s.ssssssssseseosesesnenennrnnnn rna Säkerheten vid domstolarna (uUppskOV)...........sssesssssssressrnn Säkerhetspolisen ANSlag tillossoossssssssesessresresresnerrrnnrrrsrerrerrernnrnnrnen ennen renen renen n 1952 års tvångsmedelSlag s....s.ssssssrsssesenenenesenennenennnnnnnnnnnn FIKtliNjer oosoosseesserresreersresrrerrererrrnrrerrerrrrarrnennnrrnenn ennen nns n rna Säkerhetssal på Riddarholmen (uppskOV).................s.s..-. Säker hetsskyddet..........sossoosessesnnnennnnrrrenrernnresnrsnnnnrnnnennennn rn nn nn Säker hetSstjäNStel snmmmmsssssssesseeseassrrarennsrnsrensrernrnrrrennrnr ennen nn rn anar Särbehandling av långtidsdömda...........s.sssesesesereneserrsnnnnnnnnn Särskild utskrivningsprÖVNiNg.....sessessessrserseeserrenesnenernrnnn nn nn Särskilda uUngdOmMSNHeM smemessesssseresssersrersrrrrrerrrrrrnensrrnenrnn nn nan Södermalmspolisen i Stockholm = ssmnmessreressererrerenrererrerennrn en Södertälje, POliShUS I.ssmsnmsssessressrenenrereerrererrerrnrerrrrrerrrrnrnrnrnrnn nn</p>
-          <p>Taxisamverkan mot DrOtt.....sssssssssressressesssrennnennenresnnnnennnnn anar Teleavlyssning, hemlig sm..msmmmssosessesserersensernrenesnenrernennenennnn enn rna Telefax vid delgivning sm. smssesseesserssrerrersersrenrrsrrnrsnrnenrerrennnnnnn nan TelefONavlySShiNg...sssmseesssseresseesensssnssseererrrranrnrnsrnnsnrernnen nn nn nan Telefonnummer, hemligt....ssmnmmseesesseseorerseerneenerrenerrererrerennnnnn Teleövervakning, hemlig... TerrorismbekämpninNg s.smmmssoessessrsennnsnesnesnrereernerrernennenernnnnnn nen TEerrOriStlägeD.ssssssssesessrreresssrererererrrrerrrrrrrrnrrrernrrrarrsrrsrnsnr ren rna Tidsgräns för förundersökning ......ssssssesersseseesersesennenennnnnnnnnnn Tillgrepp av fortskaffningsmedel...ssmmmssssesrsrsenenserennenennnnnn Tillsättning av domartjänster Tillsättning av högre tjänster inom polisen Tilläggsbudget I engångsanskaffning av inventarier m.m., anslag till .... Tilläggsbudget II allmänna advokatbyråer: rörelsekapital m.m., anslag tillossmosssesesesesensereneserrenrrrrennerrrnerennenernnnennnensnensnen rn nan Tillämpningen av terroristlagstiftningen ..................s.s.s...... TjänStefel mossssssessesesesresresresrnesrrrrsrrrrrrnnsrerrerrrsnnsnenrerennrner nr renen rna Trafikolycksplats, obehörigt avvikande från ....................... TrafikövervakninNg so nmssesseseesressserarssneensensrnrsrsranrensennernen nns nan Tullen och kustbevakningen, polisens samarbete med...... Tvångsingripande i kyrka smmmmsssrersessesenrenenerrenenenenenenennnnnnnnn Tvångsmedel lag om fortsatt giltighet av 1952 års tvångsmedelslag... TvångsmedelsbestämmelSer .....mmmmnmsnossssesreseerernenenenenennnennnnnnnenn</p>
-          <p>10</p>
-          <p>2,17 34, 3y</p>
-          <p>1990/91:JuU Reg.</p>
-          <p>27</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_JuU/reg_199091_JuU-027.pdf"/>
-          <p>Uddevalla, pOlishUS dossmnsesessseereerersrerrrsrenenrernrnrrrenrrnernenrn nere nn Umeå, kam marrättsfilal I.ossmmmsssssserrersrerrensrrrrsrerrrrsrrrsrrrnrnnnrrn ns Underhåll och drift av motorfordon m.m., anslag till....... Underrättelse till Målsäganden ...msssssssssosssenenenennnnnnnnnnnnnnnnn Underårig Målsägande...snssmmsresesreserrenesesenenrenesenenesrererenrnren erna Unga fängelsestraff fÖrl...sssssessessesseseersesreseererrerrerrererrererrenrerr nn n nn häktnNilg AV oossmsessessererererersrereresrersrrrrsrrrrersnnnrnrnsr nn rr n nr enn n nn [EV Gl (ST som begått brott, registrering AV.....msssssssssssossosnsornennnrnnnn statistik Över DrOtt QV.....ssmssssessseseessennrrnsnrnnernrnnennnrnnrn nonan nn åtalsunderlåtelse fÖr ssmmmmmsssessesrsrsrarerererranerrrerenenennnn rn an nn nn Ungdomars alkoholmissbruk ssmmnmnssssssesessrererreneorsnernennennnnnnn UngdomsbrottSlighet s.smmmmmssssssessrrsssrnnrenreserernrsnrsnrenrernnenr nn nan Ungdomshem, särskilda sm. mmmsnssreseorernenenrnenrenenereserernenerennrnnen UngdomskOntrakti..snnnessresresenrersneseenesrsrennenernerrenernrnernrnnrnnn nn Ungdomsrotlar hos polis M.flinssmssesssssssrerenesrsrnrnrsnenenennnnnnn Upplopp, polisingripanden vid Uppskov med behandling av vissa ärenden</p>
-          <p>Utbildning av kriminalvårdens personal m.fl., anslag till............... beträffande sexualbrott Mot Darf........ss.ssessssssosrersnnnennnn beträffande vålds- och sexualbrott i MiljöffågOr oossnssresressrererrerenrenernenenenennnnenenrrnenenenenenen rn rn enn inom pOlisväsendet....sseseeseesresrsreenereesesnresesrerenrnnennenn enn n en Utländsk dOMStOL....sssssssessressresrerssrensnarrrnnennnennennenn ennen nrn nn nnn Utomlands, offer för DrOtt s......mnmssssssssseresessrrrrerenrerennrrerrrr enn na Utredning av kriminalvården.........ssssssesrsesenesrnnennnnnnnnnnnnnnnn nn Utredningar, anslag till. smsmmmmmsssssssssesresersernernenerrrnrnnsnnrnrnn nn nn nn Utrustning för kriminalvården, anslag till.................o.oss0-- Utrustning m.m. för polisväsendet, anslag till.................... Utrustning till domstolar m.m., anslag till.....smmm.s.s.sss0s0n&gt; UtvecklingSsSstÖrda s..ssmmsseessressresenansnennnesrrnsnrnrrennennrnnenrnrnnennrrn nn Utvisning, beslut OM smsmmmsssssesssreresssrsesnrsrensnrernrernrnrnnnrennn nen nn nan</p>
-          <p>Utvärdering av kriminalvårdsreformen</p>
-          <p>VapenamnNeStis..ssssmssserresessrernsesrrrnsrnernrennennrenrrenrsnnrn nr nn ennen rn nn en Vapenlagehmsssseesreseeessssreersrenneerernerrnnrsrrsrnnsrnrerrennene rr rn nr nn nn VapenregiSterl somssssesseresessrarssessrersrnesrsennrrnrsnrrrrnsrnrensrnnen nn rr rn nn Verkställighet av fängelsestraff utomlands Verkställighetsinnehållet...........ssssossssssoeseneesenenenenenennnnenennn nan Villkorlig frigiVNiNg smmissssssessesseserersreeneersersnnernerennrnrnrrnerernnrnenn Villkorligt fängelse i stället för villkorlig dOM smsmmmnsesssessrenerrenernenernrnnrnrnnnn nn vid kontraktsvård vid samhällstjänst Visby, ny kriminalvårdsanstalt 1.....n.n..s.sssssessesesesrssenrssennnrnnna</p>
-          <p>Vissa domstolskostnader m.m., anslag till......smnmmm.ss.sssssosn&gt; Vissa frågor Om pOlisregiSter sm. smmmmesesssreenenrerersennsnenenennnnnnnn</p>
-          <p>17, 34,</p>
-          <p>19,</p>
-          <p>23 18 23 3y 21</p>
-          <p>19 19 19 19 19 10 19 23 19 19 19 36 35</p>
-          <p>1990/91:JuU Reg.</p>
-          <p>28</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_JuU/reg_199091_JuU-028.pdf"/>
-          <p>VittnesatteSter.........ss.sssooseonsseosennsernsnnesnresnnnrnnrnnrernennnrnn rr nr rn rna Vålds- och sexualbrott, utbildning beträffande ................... NET SY Te MA Våldsmän, behandling aV...smsesessrsssssrsrsrsrersenenenrnrnnnnnnnnnn nanna Våldsskild ring ss ssmmnmssrsnseseereesoeserserennnrrrrrrerrerennernennrnrn nr ennen ann Vänersborg, pOliShUS i ..ssmmmnsssssessrerernrenrnnnrnnnrennrennsnnrrn nen nr nnnn</p>
-          <p>Yrkesutbildning i anStält......s.sssssssessssreseseorenenenrensernsnrnrrnnnrnnnn</p>
-          <p>Åklagare och polis, förhållandet mellan .....ssssssessenssnonnnn Åklagarmyndigheter, lokalförsörjning fÖr s........s.s---ss=rr rr Åklagarmyndigheterna, anslag till ...............sssssssssnooonnnnnn Åklagarväsendet förändringsarbete iNOM smmmmmsssssssrerersesrererenrserrssnrnerennnnn nn riksåklagaren, anslag till.......n.nn.s......---- åklagarmyndigheterna, anslag till Åldersgräns ööseeeneeeeeen een nernnerrnr snar enn rr ennen nen n es eern nere n rn ren n nn nn Åtalsunderlåtelse fÖr UNGA sosessrersrersreserererrrrererrrerrrnrerrerrrrrrnrrrrrrr renen nens n nn nanna rapporteftergift OCH s..........ssossosereseorennennenennrrnenrenernenn nn rna vid narkotikabrott ..........s.ssessessrssersensennennnnernenrenenner nen nnnen Återfall, straffskärpning VIC ss.ssssssssesseseseererennrrrnennernrrnnnrnn nan Återkallelse av PASSoooosesoreereersrersrrrerererrrrrrnrnnerrrrennrernnnrrrnnrnr ann Åtgärder MOL SNAterioooossssesreresrererersrrersnrnnnnnnnnn nen enn ernnnn nn n nns</p>
-          <p>ÄNdFringSsdiSpeNS.......sssssesssssenosnssrrnnerserennnesrererrnnnnnnnnnsrrrnnnnnn</p>
-          <p>Öppnande av delgivningsförsändelSe ...............s..ssn Övergrepp I FÄltlSSak oooooosseeesressrersrreserrerrrnnrrnrrennrrnnennennrnn nr n nn nn Övergångshem inom kriminalvården............sesssesesssrsnnnnnnnn Överklagande av dOmsSKkäl..........sssssssssssossnooonssnnnnnnsssnnnnnnn enn Översyn av rättshjälpslagen .............ssssseooossesssssssnnnnnnnnn Översyn av straffskalorna för narkotikabrott...................... Översyn, VApPEenNlag sooseessesseressrrsrenrrrrsrrrenrennrerrernrsrnennrnnn nn enn nan ÖVErtidSUttäg..........sssssssessnsseoonsssrnnessrsrnnnnarssrnnnnnnnnnnnnsrr en nnnnn</p>
-          <p>29 23 11 17 21 23</p>
-          <p>17</p>
-          <p>1990/91:JuU Reg.</p>
-          <p>29</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_JuU/reg_199091_JuU-029.pdf"/>
-          <p>gotab 98956, Stockholm 1991</p>
+          <p>
+            Justitieutskottets register vid ÅS
+          </p>
+          <p>
+            riksmötet 1990/91
+          </p>
+          <p>
+            YE ey
+          </p>
+          <p>
+            1990/91 JuU Reg.
+          </p>
+          <p>
+            Betänkanden
+          </p>
+          <p>
+            Nr JuU1l Förnyelse inom polisen (prop.1989/90:155) Utskottets
+            justering: 1990-09-27 Förslag till beslut: Bifall till prop.,
+            delvis bifall till motionerna 1989/90:Ju43, Ju607, Ju809 och Ju828,
+            avslag på Övriga motioner
+          </p>
+          <p>
+            Debatt i kammaren 1990-10-17 Protokollsnhummer 1990/91:11 Riksdagens
+            beslut: Bifall till utskottets hemställan 1990-10-17 Protokollsnummer
+            1990/91:11 Riksdagsskrivelse 1990/91:1 Nr JuU2 Andringar i kriminalvårdslagstiftningen
+            (prop.1989/90:154) Utskottets justering: 1990-10-23
+          </p>
+          <p>
+            Förslag till beslut: Bifall till prop., avslag på motionerna,
+            visst initiativ
+          </p>
+          <p>
+            Debatt i kammaren 1990-11-07 Protokollsnhummer 1990/91:19 Riksdagens
+            beslut: Bifall till utskottets hemställan 1990-11-07 Protokollsnhummer
+            1990/91:19 Riksdagsskrivelse 1990/91:14 Nr JuU3 Vissa straffrättsliga
+            frågor m.m. Utskottets justering: 1990-10-23
+          </p>
+          <p>
+            Förslag till beslut: Delvis bifall till motion 1989/90:Ju614,
+            avslag på övriga motioner
+          </p>
+          <p>
+            Debatt i kammaren 1990-11-07 Protokollsnummer 1990/91:19 Riksdagens
+            beslut: Bifall till utskottets hemställan 1990-11-07 Protokollsnummer
+            1990/91:19 Riksdagsskrivelse 1990/91:15
+          </p>
+          <p>
+            1 Riksdagen 1990/91. 7 saml. Register
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_JuU/reg_199091_JuU_0001"/>
+          <p>
+            Nr JuU4 1990/91:JuU Reg. Utvidgad rätt till målsägandebiträde,
+            m.m. (prop.1989/90:158)
+          </p>
+          <p>
+            Utskottets justering: 1990-10-23 Förslag till beslut: Bifall
+            till prop., delvis bifall till motion 1990/91:Ju4, avslag på övriga
+            motioner
+          </p>
+          <p>
+            Debatt i kammaren 1990-11-07 Protokollsnummer 1990/91:19 Riksdagens
+            beslut: Mom. 6 res. 2 bifall. I övrigt bifall till utskottets
+            hemställan 1990-11-07 Protokollsnhummer 1990/91:19 Riksdagsskrivelse
+            1990/91:16 Nr JuUS
+          </p>
+          <p>
+            Fortsatt giltighet av 1952 års tvångsmedelslag (prop.1990/91:23)
+          </p>
+          <p>
+            Utskottets justering: 1990-11-20 Förslag till beslut: Bifall
+            till prop., avslag på motionerna Debatt i kammaren 1990-12-05
+            Protokollshnhummer 1990/91:39 Riksdagens beslut: Bifall till utskottets
+            hemställan 1990-12-05 Protokollsnhummer 1990/91:39 Riksdagsskrivelse
+            1990/91:60 Nr JuU6 Teleavlyssning m.m. (skr.1990/91:21) Utskottets
+            justering: 1990-11-20
+          </p>
+          <p>
+            Förslag till beslut: Skr. till handlingarna, avslag på motionerna
+          </p>
+          <p>
+            Debatt i kammaren 1990-12-05 Protokollsnummer 1990/91:39 Riksdagens
+            beslut: Bifall till utskottets hemställan 1990-12-05 Protokollsnhummer
+            1990/91:39 Riksdagsskrivelse 1990/91:61 Nr JuU7 Fastighetsdomstolar,
+            m.m. (prop.1990/91:32) Utskottets justering: 1990-11-20 Förslag
+            till beslut: Bifall till prop., avslag på motionerna Debatt i
+            kammaren 1990-12-05 Protokollsnhummer 1990/91:39 Riksdagens beslut:
+            Bifall till utskottets hemställan 1990-12-05 Protokollsnummer
+            1990/91:39 Riksdagsskrivelse 1990/91:62
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_JuU/reg_199091_JuU_0002"/>
+          <p>
+            Nr JuU8 Delgivningsfrågor (prop.1990/91:11)
+          </p>
+          <p>
+            Utskottets justering: 1990-11-27 Förslag till beslut: Bifall
+            till prop., avslag på motionerna Debatt i kammaren 1990-12-12
+            Protokollsnummer 1990/91:44 Riksdagens beslut: Bifall till utskottets
+            hemställan 1990-12-12 Protokollshummer 1990/91:44 Riksdagsskrivelse
+            1990/91:90 Nr JuU9 Tilläggsbudget I (prop.1990/91:25 bil.1) Utskottets
+            justering: 1990-11-27 Förslag till beslut: Bifall till prop. Riksdagens
+            beslut: Bifall till utskottets hemställan 1990-12-12 Protokollshnhummer
+            1990/91:44 Riksdagsskrivelse 1990/91:91 Nr JuU10 Böter (prop.1990/91:68)
+            Utskottets justering: 1991-03-05
+          </p>
+          <p>
+            Förslag till beslut: Bifall till prop. med viss justering i lagtext,
+            avslag på motionerna
+          </p>
+          <p>
+            Debatt i kammaren 1991-03-21 Protokollsnummer 1990/91:83 Riksdagens
+            beslut: Bifall till utskottets hemställan 1991-03-27 Protokollshnhummer
+            1990/91:87 Riksdagsskrivelse 1990/91:155 Nr JuU1l1l Terroristlagstiftningen
+            (skr.1990/91:73) Utskottets justering: 1991-02-19 Förslag till
+            beslut: Skr. till handlingarna, avslag på motionerna Debatt i
+            kammaren 1991-03-13 Protokollshnhummer 1990/91:77 Riksdagens beslut:
+            Bifall till utskottets hemställan 1991-03-13 Protokollsnhummer
+            1990/91:77 Riksdagsskrivelse 1990/91:134 Nr JuU12 Anslag till
+            justitiedepartementet m.m. (prop.1990/91:100 bil.4) Utskottets
+            justering: 1991-03-05 Förslag till beslut: Bifall till prop. Riksdagens
+            beslut: Bifall till utskottets hemställan 1991-03-20 Protokollsnummer
+            1990/91:82 Riksdagsskrivelse 1990/91:138
+          </p>
+          <p>
+            1990/91:JuU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_JuU/reg_199091_JuU_0003"/>
+          <p>
+            Nr JuU13 Anslag till justitiekanslern (prop.1990/91:100 bil.4)
+          </p>
+          <p>
+            Utskottets justering: 1991-03-05 Förslag till beslut: Bifall
+            till prop. Riksdagens beslut: Bifall till utskottets hemställan
+            1991-03-20 Protokollsnhummer 1990/91:82 Riksdagsskrivelse 1990/91:139
+            Nr JuU1l4
+          </p>
+          <p>
+            Anslag till Svensk författningssamling m.m. (prop.1990/91:100
+            bil.4)
+          </p>
+          <p>
+            Utskottets justering: 1991-03-05 Förslag till beslut: Bifall
+            till prop. Riksdagens beslut: Bifall till utskottets hemställan
+            1991-03-20 Protokollsnhummer 1990/91:82 Riksdagsskrivelse 1990/91:140
+            Nr JuU1S Anslag till åklagarväsendet (prop.1990/91:100 bil.4)
+            Utskottets justering: 1991-03-12
+          </p>
+          <p>
+            Förslag till beslut: Bifall till prop., delvis bifall till motionerna
+            1990/91:Ju209, Ju807 och Ju834, avslag på övriga motioner
+          </p>
+          <p>
+            Debatt i kammaren 1991-03-21 Protokollsnhummer 1990/91:83 Riksdagens
+            beslut: Bifall till utskottets hemställan 1991-03-21 Protokollsnhummer
+            1990/91:83 Riksdagsskrivelse 1990/91:152 Nr JuU16 Anslag till
+            domstolsväsendet (prop.1990/91:100 bil.4) Utskottets justering:
+            1991-03-12 Förslag till beslut: Bifall till prop., avslag på motionerna
+            Debatt i kammaren 1991-03-21 Protokollsnhummer 1990/91:83 Riksdagens
+            beslut: Bifall till utskottets hemställan 1991-03-21 Protokollsnhummer
+            1990/91:83 Riksdagsskrivelse 1990/91:153 Nr JuU17 Anslag till
+            kriminalvården (prop.1990/91:100 bil.4) Utskottets justering:
+            1991-03-12
+          </p>
+          <p>
+            Förslag till beslut: Bifall till prop., delvis bifall till motion
+            1990/91:Ju821, avslag på övriga motioner
+          </p>
+          <p>
+            Debatt i kammaren 1991-03-21 Protokollsrhummer 1990/91:83 Riksdagens
+            beslut: Bifall till utskottets hemställan 1991-03-27 Protokollsnhummer
+            1990/91:87 Riksdagsskrivelse 1990/91:154
+          </p>
+          <p>
+            1990/91:JuU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_JuU/reg_199091_JuU_0004"/>
+          <p>
+            Nr JuU18 Rättskipningen i socialförsäkringsmål (prop.1990/91:80)
+            Utskottets justering: 1991-04-09 Förslag till beslut: Bifall till
+            prop. med viss justering i lagtext, avslag på motionerna
+          </p>
+          <p>
+            Debatt i kammaren 1991-04-24 Protokollsnummer 1990/91:101 Riksdagens
+            beslut: Bifall till utskottets hemställan 1991-04-24 Protokollsnummer
+            1990/91:101 Riksdagsskrivelse 1990/91:216 Nr JuU19 Ingripanden
+            mot unga (prop.1990/91:86) Utskottets justering: 1991-03-26
+          </p>
+          <p>
+            Förslag till beslut: Bifall till prop. med viss justering i lagtext,
+            avslag på motionerna
+          </p>
+          <p>
+            Debatt i kammaren 1991-04-10 Protokollsnummer 1990/91:91 Riksdagens
+            beslut: Bifall till utskottets hemställan 1991-04-10 Protokollsnummer
+            1990/91:91 Riksdagsskrivelse 1990/91:179 Nr JuU20 Anslag till
+            statsrådsberedningen (prop.1990/91:100 bil.4) Utskottets justering:
+            1991-04-09 Förslag till beslut: Bifall till prop., avslag på motionen
+            Debatt i kammaren 1991-04-24 Protokollsnhummer 1990/91:101 Riksdagens
+            beslut: Bifall till utskottets hemställan 1991-04-24 Protokollsnhummer
+            1990/91:101 Riksdagsskrivelse 1990/91:215 Nr JuU21 Anslag till
+            brottsskadenämnden m.m. (prop.1990/91:100 bil.4) Utskottets justering:
+            1991-04-09
+          </p>
+          <p>
+            Förslag till beslut: Delvis bifall till prop. och motionerna
+            1990/91:Ju804, Ju821, Ju824, Ju825 och Ju835, avslag på Övriga
+            motioner
+          </p>
+          <p>
+            Debatt i kammaren 1991-04-24 Protokollshnhummer 1990/91:101 Riksdagens
+            beslut: Bifall till utskottets hemställan 1991-04-25 Protokollsnhummer
+            1990/91:102 Riksdagsskrivelse 1990/91:217
+          </p>
+          <p>
+            1990/91:JuU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_JuU/reg_199091_JuU_0005"/>
+          <p>
+            Nr JuU22 Anslag till utredningar m.m. (prop.1990/91:100 bil.4)
+          </p>
+          <p>
+            Utskottets justering: 1991-04-09 Förslag till beslut: Bifall
+            till prop., avslag på motionerna Debatt i kammaren 1991-04-24
+            Protokollsnhummer 1990/91:101 Riksdagens beslut: Bifall till utskottets
+            hemställan 1991-04-25 Protokollsnummer 1990/91:102 Riksdagsskrivelse
+            1990/91:218 Nr JuU23 Anslag till polisväsendet (prop.1990/91:100
+            bil.15) Utskottets justering: 1991-04-09
+          </p>
+          <p>
+            Förslag till beslut: Bifall till prop., delvis bifall till motionerna
+            1990/91:Ju618, Ju619, Ju623, Ju638, Ju641, Ju816, Ju820 och Ju824,
+            avslag på övriga motioner
+          </p>
+          <p>
+            Debatt i kammaren 1991-04-24 Protokollsnummer 1990/91:101 Riksdagens
+            beslut: Bifall till utskottets hemställan 1991-04-24 Protokollsnummer
+            1990/91:101 Riksdagsskrivelse 1990/91:214 Nr JuU24 Anslag till
+            brottsförebyggande rådet (prop.1990/91:100 bil.4) Utskottets justering:
+            1991-04-09 Förslag till beslut: Bifall till prop., avslag på motionerna
+            Debatt i kammaren 1991-04-24 Protokollsnhummer 1990/91:101 Riksdagens
+            beslut: Bifall till utskottets hemställan 1991-04-25 Protokollsnhummer
+            1990/91:102 Riksdagsskrivelse 1990/91:219 Nr JuU2S
+          </p>
+          <p>
+            Immunitet och privilegier för den Europeiska utvecklingsbanken
+            (prop.1990/91:84)
+          </p>
+          <p>
+            Utskottets justering: 1991-03-12 Förslag till beslut: Bifall
+            till prop. Riksdagens beslut: Bifall till utskottets hemställan
+            1991-03-20 Protokollsnhummer 1990/91:82 Riksdagsskrivelse 1990/91:141
+            Nr JuU26 Bostadsdomstolen och hyresnämnderna (prop.1990/91:98)
+            Utskottets justering: 1991-04-16 Förslag till beslut: Delvis bifall
+            till prop., avslag på motionerna Debatt i kammaren 1991-05-03
+            Protokollshummer 1990/91:106 Riksdagens beslut: Bifall till utskottets
+            hemställan 1991-05-08 Protokollsnummer 1990/91:108 Riksdagsskrivelse
+            1990/91:253
+          </p>
+          <p>
+            1990/91:JuU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_JuU/reg_199091_JuU_0006"/>
+          <p>
+            Nr JuU27 Anslag till rättshjälp m.m. (prop.1990/91:100 bil.4)
+            Utskottets justering: Förslag till beslut: Bifall till prop.,
+            delvis bifall till motionerna 1990/91:Ju409 och Ju832, avslag
+            på övriga motioner Debatt i kammaren Protokollsnummer Riksdagens
+            beslut: Bifall till utskottets hemställan Protokollsnhummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr JuU28
+          </p>
+          <p>
+            1991-04-16
+          </p>
+          <p>
+            1991-05-08 1990/91:109 1991-05-15 1990/91:112 1990/91:260
+          </p>
+          <p>
+            Internationellt samarbete i brottmål m.m. (prop.1990/91:131)
+          </p>
+          <p>
+            Utskottets justering: Förslag till beslut: Bifall till prop.
+            Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer
+            Riksdagsskrivelse
+          </p>
+          <p>
+            Nr JuU29 Ny terroristlagstiftning m.m. (prop.1990/91:118) Utskottets
+            justering: Förslag till beslut: Bifall till prop. med viss justering
+            i lagtext, avslag på motionerna Debatt i kammaren Protokollsnhummer
+            Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer
+            Riksdagsskrivelse
+          </p>
+          <p>
+            Nr JuU30 Tilläggsbudget II (prop.1990/91:125 bil.1) Utskottets
+            justering: Förslag till beslut: Bifall till prop. Riksdagens beslut:
+            Bifall till utskottets hemställan Protokollsnhummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr JuU31 Säkerhetspolisen (prop.1990/91:100 bil.15) Utskottets
+            justering: Förslag till beslut: Bifall till prop., avslag på motionen
+            Riksdagens beslut: Bifall till utskottets hemställan Protokollsnhummer
+            Riksdagsskrivelse
+          </p>
+          <p>
+            1991-05-07
+          </p>
+          <p>
+            1991-05-23 1990/91:117 1990/91:297
+          </p>
+          <p>
+            1991-05-07
+          </p>
+          <p>
+            1991-05-23 1990/91:117 1991-05-28 1990/91:120 1990/91:298
+          </p>
+          <p>
+            1991-05-07
+          </p>
+          <p>
+            1991-05-28 1990/91:120 1990/91:299
+          </p>
+          <p>
+            1991-05-14
+          </p>
+          <p>
+            1991-05-30 1990/91:122 1990/91:322
+          </p>
+          <p>
+            1990/91:JuU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_JuU/reg_199091_JuU_0007"/>
+          <p>
+            Nr JuU32 Narkotikabrottslighet (prop.1990/91:127) Utskottets
+            justering: Förslag till beslut: Bifall till prop. med viss justering
+            i lagtext, delvis bifall till motionerna 1990/91:Ju607 och Ju626,
+            avslag på övriga motioner, visst initiativ Debatt i kammaren Protokollshummer
+            Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer
+            Riksdagsskrivelse
+          </p>
+          <p>
+            Nr JuU33 Vapenlagen (prop.1990/91:130) Utskottets justering:
+            Förslag till beslut: Delvis bifall till prop. och motionerna 1990/91:Ju38,
+            Ju40 och Ju801, avslag på övriga motioner Debatt i kammaren Protokollsnhummer
+            Riksdagens beslut: Bifall till utskottets hemställan Protokollsnhummer
+            Riksdagsskrivelse
+          </p>
+          <p>
+            Nr JuU34
+          </p>
+          <p>
+            Psykiskt störda lagöverträdare (prop.1990/91:58 bil.2)
+          </p>
+          <p>
+            Utskottets justering: Förslag till beslut: Bifall till prop.
+            och motionerna
+          </p>
+          <p>
+            1989/90:Ju615, Ju804, 1990/91:Ju16, Ju18, Ju804 och Ju821,
+          </p>
+          <p>
+            avslag på övriga motioner, visst initiativ Debatt i kammaren
+            Protokollsnhummer Riksdagens beslut: Bifall till utskottets hemställan
+            Protokollshummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr JuU35 Uppskov med behandlingen av vissa ärenden Utskottets
+            justering: Förslag till beslut: Uppskov Riksdagens beslut: Bifall
+            till utskottets hemställan Protokollsnhummer Riksdagsskrivelse
+          </p>
+          <p>
+            1991-05-14
+          </p>
+          <p>
+            1991-05-29 1990/91:121 1991-05-30 1990/91:122 1990/91:323
+          </p>
+          <p>
+            1991-05-07
+          </p>
+          <p>
+            1991-05-23 1990/91:117 1991-05-28 1990/91:120 1990/91:300
+          </p>
+          <p>
+            1991-05-14
+          </p>
+          <p>
+            1991-05-30 1990/91:122 1991-05-30 1990/91:122 1990/91:330
+          </p>
+          <p>
+            1991-05-14
+          </p>
+          <p>
+            1991-05-29 1990/91:121
+          </p>
+          <p>
+            1990/91:JuU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_JuU/reg_199091_JuU_0008"/>
+          <p>
+            Nr JuU36 1990/91:JuU Reg. Ingripande av polis (prop.1990/91:129)
+          </p>
+          <p>
+            Utskottets justering: 1991-05-14 Förslag till beslut: Bifall
+            till prop., avslag på motionerna Debatt i kammaren 1991-05-29
+            Protokollsnummer 1990/91:121 Riksdagens beslut: Bifall till utskottets
+            hemställan 1991-05-30 Protokollsnhummer 1990/91:122 Riksdagsskrivelse
+            1990/91:324 Nr JuU37 Nordisk arbetsmarknad (Advokater m.m.) (prop.1990/91:116)
+            Utskottets justering: 1991-04-23 Förslag till beslut: Bifall till
+            prop. med viss justering i lagtext Riksdagens beslut: Bifall till
+            utskottets hemställan 1991-05-15 Protokollshnummer 1990/91:112
+            Riksdagsskrivelse 1990/91:261 Nr JuU38 Immunitet och privilegier
+            (prop.1990/91:104) Utskottets justering: 1991-05-07 Förslag till
+            beslut: Bifall till prop. Riksdagens beslut: Bifall till utskottets
+            hemställan 1991-05-28 Protokollsnhummer 1990/91:120 Riksdagsskrivelse
+            1990/91:301
+          </p>
+          <p>
+            1" Riksdagen 1990/91. 7 saml. Register
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_JuU/reg_199091_JuU_0009"/>
+          <p>
+            Yttranden
+          </p>
+          <p>
+            Nr JuUly till KU Regeringens behandling av riksdagens skrivelser
+            (skr.1990/91:15)
+          </p>
+          <p>
+            Utskottets justering: 1990-12-05 1990/91:KU43 1991-06-04 Protokollsnummer
+            1990/91:125 Riksdagsskrivelse 1990/91:341
+          </p>
+          <p>
+            Nr JuU2y till KU Ersättare för justitieråd och regeringsråd (prop.1990/91:66)
+          </p>
+          <p>
+            Utskottets justering: 1991-03-05 1990/91:KU23 1991-04-10 Protokollsnummer
+            1990/91:91 Riksdagsskrivelse 1990/91:178
+          </p>
+          <p>
+            Nr JuU3y till SoU Psykiatrisk tvångsvård m.m. (prop.1990/91:58)
+          </p>
+          <p>
+            Utskottets justering: 1991-03-26 1990/91:S0U13 1991-05-30 Protokollsnummer
+            1990/91:122 Riksdagsskrivelse 1990/91:329
+          </p>
+          <p>
+            Nr JuU4y till FiU Omställning och minskning av den statliga administrationen
+            (prop.1990/91:150 bil.II)
+          </p>
+          <p>
+            Utskottets justering: 1991-05-16 1990/91:FiU41 1991-06-14 Protokollsnhummer
+            1990/91:132 Riksdagsskrivelse 1990/91:396
+          </p>
+          <p>
+            1990/91:JuU Reg.
+          </p>
+          <p>
+            10
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_JuU/reg_199091_JuU_0010"/>
+          <p>
+            Sakregister
+          </p>
+          <p>
+            Administrativa rUtile€lomimessesssesssrerssssrresrrrnrennrnnnernennnnnenn
+            ennen Administrativa tjänster inom polisen sm .mmmmmsrresresserreannnnnnnnn
+            ACVOKAaLECTL oooessoeeserennersrsrsererensserreesrsrsrerrrrrrererrrersr
+            nr rnn nr nn sense nn anna Advokatsamfundets disciplinnämnd ............sesesssn0n0n
+            Aids/HIV inom kriminalvården, information OM.............. Allmänna
+            advokatbyråer driftbidrag, anslag till..sssmssssssssssosesserrrererserrernernrrrrnnrn
+            nan nna rörelsekapital m.m., anslag tillss.smmssmsmsssssesesenenennnnnnnnnnn
+            nn uppdragsverksamhet, anslag till Allvarlig psykisk StÖrNiNg......sseesssesesssrersseesrennrennennennrnnennnn
+            nan Anmälningsplikt och tvångsmedel, beslut om (utlänningslagstift
+            ningen) msmmmmssssesserssersesrseneneernenrenesnrnrn nanna Anmälningsskyldighet
+            (utlänningslagstiftningen) .............. Arbetsdomstolen s...ssseessrersreensnernsrerrererrrnrrenrenrnrnnnnn
+            ann enn enn nn nn ArbetsplatsdelgivNiNg ..mmmmsesseesrsresenrnenerrrrenrenrrrnnennrrnern
+            renen nnnn Avgiftsfinansiering på polisens OMråde .............ssssessnnsnnnn
+            AVvkriminaliS€rilZ...sssesssessressrrerrrerserresrernrerenerrerrrrnrrrrnrnrnnnrn
+            rna Avskildhet i disciplinärenden suosmsmmmmresserresreseerenrenennnnnnnnnnn
+            ann
+          </p>
+          <p>
+            Barn, sexuella ÖVErgrePpP s.msmsmssssessererersrrenrersrensnennennenn
+            annen annan Befattning med misstänkt brottsgOdS ...............ss--ee-seersnnsnnn
+            Behandlingsprogram för våldSmMän s..ssssssesssressrsrseserensrnnnnnn
+            Beloppsgränsen mellan stöld och snatteri.................--...-----
+            Bensodiazepiner (UPPSKOV) s...smmnnsssresosrenreneeseenennenernenennrnnnnnnn
+          </p>
+          <p>
+            Bevakning i anStält ..sssmmmsssssssressrersssnnnnnsnnennnennennnnnn
+            ennen renen nn nn Bevakningsföretag Bidrag till vissa internationella
+            sammanslutningar, aNSlag till osooosssssesesrssessesrresrenrernrenrsnnrern
+            nr ennen ner renen ense nen nrnr nen nn 13 TERES [6 Bostadsdomstolen
+            och hyresnämnderna ...........sesnsnannnnnnnn Brevhemlighet BrevkOntrOlls.ssssssssssresreeseesreseenarnrranrrrnrnrrnnennennen
+            ennen ennen ennen en nanna Brott av POliSMän oosseseesesessreseerrsesseerrrnenernrrrrnerren
+            nen nen enn sn enn rnrn rann nn av unga, Statistik ÖVEr ....sssssessesssssssreneneeneenenneneenenrnnerennnnnn
+            mot enskilda, kostnader fÖr..........ssssssessserserseresssesnsnnnnnnn
+            registrering av unga Som begått....................s.s-sssn0n0
+            utomlands, offer fÖr s.....m.msssssesresererrrrrerrrnrrnrernnn
+            nan .
+          </p>
+          <p>
+            1990/91:JuU Reg.
+          </p>
+          <p>
+            11
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_JuU/reg_199091_JuU_0011"/>
+          <p>
+            Brottsbalken, lag om ändring i kriminalvårdslagstift ningen s......seesssseessessesennnnrnrnrnnnnnn
+            narkotikabrottslighet............... psykiskt störda lagöverträdare
+            Brottsförebyggande arbete..............ssssssssosorsssesesnsnesnenennsnernnnnn
+            Brottsförebyggande betydelse, familjens s............ssssssossnsonnnn
+            Brottsförebyggande rådet förvaltningskostnader, anslag till s.msmmmmmssssssersrssnnrrnnsn
+            nr prOfesSUrer VIC sossssssssesseesrseerrererresnrrrrnrrrnerrrrrnrnnnrnn
+            ner n rn rr nn nn utvecklingskostnader, anslag till ............
+            Brottsgods, befattning med misstänkt Brottsoffer, information
+            till Brottsskadenämnden ersättning för skador på grund av brott,
+            anslag till...... förvaltningskostnader, anslag tills osmissesseeeeernrsnsnn
+            BuggningSsmaålet.....sssssseseosersresreresrrsrsesrerersenerrsrenenenrsn
+            enes n en enn nn nn
+          </p>
+          <p>
+            DagsbÖterosssossesresesrrerrsresreersesresrerrrrsrernernrrr rr
+            rsrrrernen rr nns nr rr rna nen nn Decentralisering av polisutbildningen............sssssssemrsnsnen
+            Delegering inom kriminalvården s.....s.esesssenesenessnennnnnnnnen
+            Delegering vid upptagande av nöjdförklaring Delgivning, förenklad
+            =mossmsesssssssresressessernnresrnrrrnrnnrnsnnrsnnnenn nn nn DelgivningSsfrågOr
+            snssmsssersesssssrsrererererrrrrrrrrrrnserersrnnrnenernnnnrn enn
+            nn Delgivningsförsändelse, ÖPpnande aVv.s.....sseesesesssesresesnesnnsnr
+            Disciplinstraff inom kriminalvården ..........seseseerssesesesesnsnnnn
+            Disciplinärenden, avskildhet i............... Diskriminering av
+            handikappade Diverse kostnader för rättsväsendet, anslag till...................
+            Diverse utgifter, anslag tillos...sssssssssssesrssssoserenrerresernrrnnnrnennrn
+            en Domares bisySSlOr s.ssssessesssrsrssrreerrsrrrrerrrrrerrrerrnrrrrrrrn
+            rr rr nn nn rna nn Domarkarriär, moderniserad ... DOMAartjäNSter
+            smsssesssssersrrerrrrerrrrrrrerrrerrrrrererrnr ennen rrn ner nn
+            nn nen nn Domskäl, överklagande av Domstol, utländsk =ssmmsssssssessresrrsresersrrrnenrrsrrrerrrnnnn
+            ennen nen nrn nn nn Domstolarna m.m., anslag till. ...ns..s.sssssrsesessenesernnennnnn
+            ennen nn Domstolsförhandling, föräldranärvarO ......ee.eserssnrnnn
+            Domstolsverket, anslag till.smssmnsssssssssssesereneneerennennsnnrnnnnnrnnnn
+            nn Domstolsväsendet domstolarna m.m., anslag till.s.msmsmsssssersnensnrsnennnnennnnnnen
+            domstolsverket, anslag till sm.smssssssserssesersenrersnnsnrrsnnnnnnnn
+            utrustning till domstolar m.m., anslag till................-..-
+            Drogpolitik, enhetlig
+          </p>
+          <p>
+            Eftersökande av rymlingar smmsessssssesrresrerereresenerrerennennnnrnennn
+            Eftervård inom kriminalvården
+          </p>
+          <p>
+            10
+          </p>
+          <p>
+            NN [EO
+          </p>
+          <p>
+            -— WW NN 0202, Nn
+          </p>
+          <p>
+            NN NN
+          </p>
+          <p>
+            23
+          </p>
+          <p>
+            1990/91:JuU Reg.
+          </p>
+          <p>
+            12
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_JuU/reg_199091_JuU_0012"/>
+          <p>
+            Ekonomisk brottslighet information om åtgärder MO t s..mmmmmssssressserrsssresrnrnnenen
+            nn nn
+          </p>
+          <p>
+            åtgärder MO ..ssmmmnsesresrereneersesesrenerrennenn sne annen
+            eran enn Engångsanskaffning av inventarier m.m., anslag till..........
+            Enhetlig drogpOlitik sssmmnmsssssssssesesressrrrnnrenrenrerernesrernsnennrnnrn
+            nr Ersättning för hjälp åt POliSCN sm smsmsssserserserrserrrenrenreresrsrererenrnrrnnn
+            en nn nn för rättegångskostnader i förvaltningsmål.....................
+            till nämndemän
+          </p>
+          <p>
+            Etisk nämnd EuropakonventiONenh sm ssmsmmssssssseressesssrernernesrenernsnsrsnerrrnrrrrn
+            enn nt Europarådets sociala utvecklingsfond .......seesemsmmsmemne
+            Europeiska utvecklingsbanken sm .smessssersrerssrssesrsnsnennrnersnnnnnn
+            ExpropriationSmMaål.....sssssssssessseseorsenrennennnn nanna .
+          </p>
+          <p>
+            Falsk pOlisan MälanNasssnsssssessesessearsesreseresrernrerrsrsnrrnsnrnrnnnnr
+            nen nn nen Familjens brottsförebyggande betydelse .............seese0soeorornn
+            FastighetsbildningSmMaål nmsmmsssssssesesersesenrsnsrsrersrnsnnenennnrnnnennnn
+            nn Fastighetsdomstolar FastighetSmMålsosssssseeseesesreseeresenenresrenernrerernenenenernnsrsrsr
+            sr en en en ran Forskning om behandlingsmetOder s.ssmmsssesssersrsrererrsnennsrsrrnnrrnernnnnnt
+            om könsrollernas betydelse för brottsligheten.............. om
+            våld mot kvinnOr MMM. ssmmmsssserserrrrsresrerrrnrrnrnnsn nr nn
+            nn Framtidsstudier, långsiktig analys m.m., anslag till ...........
+            Frigivning, information om sena Pr igaN OD eooseseesereererenesrerenrenreserrerenreresnerre
+            nen renenenrn enes renen renen aren ena Frivården, anslag till
+            sssmmssssssssssrserressearsrrrsesresesrererrrnrnrnen enn nan Frivårdens
+            arbetsuppgifter s.............ssssssosessssserenesennsnrnenrnnsnnnn
+            Fängelse för eget bruk av narkotika vid ringa narkotikabrOtt...........sssserrrssosserersreresrsnsrrrrenrrnrerresrnrrnrsnnern
+            nerna Fängelsestraff för unga under 18 år, utredning om förbud
+            mot......... utomlands, verkställighet aV.ossmmmsssserssnesrseennnenenrrnnrnrnnn
+            nn för 18—21-åriNgar snsmnssssreresesrereeneeseseeserenerenenenerensnennnn
+            nan ' Förbud mot fängelse för unga under 18 år Förenklad delgivning
+            as osmmmssssssrseserseserrsrssrrernnrrererrnsn renen nen nn nn
+            Förenta nationernas konvention den 19 december 1988 mot olaglig
+            hantering av narkotika och psykotropa
+          </p>
+          <p>
+            FÖretagSsbOt ssnnsrseresresreerrerresrnesresrrernernnrernsrren
+            renen er esrrrsn ere e rr nen Författningsskyddet snsmmnsssasssesrsrrsssessnrerrerrerreresnrrerenerernnrennnn
+            an Förhållande mellan åklagare och polis.... Förhör, medtagande
+            till=sssmnsmssssssssssrsssresresnrsrsrnernrrsrsnsrenernenenn Förnyelse
+            av PåSS mmnsmessesssssssesessrreserernrerernreererrrrreeneer enn
+            ens rn nrn rena Förskottering av brottsskadestånd .............sesesssmsrssssssnne
+            FÖrSäkringSrätt€l....ssssssssssssssnrennrennreennonernerereernerrrnnesrrrnnn
+            ennen n enn FörsäkringsöverdOmstOlen ..ssssssssssssssssersesereseennrerrrnrrrnnn
+            rn nar
+          </p>
+          <p>
+            17, 26,
+          </p>
+          <p>
+            1990/91:JuU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_JuU/reg_199091_JuU_0013"/>
+          <p>
+            Försättande i nödläge .. FÖFrtrOeNd€eråd sosmssssssrerereerreseerrrsrrrnnenrrnnernen
+            renen eran n ennen ennen nerna n FÖTLUF ooosoeresrreerererereererererrreereserensrennrsernnerenn
+            ner enr renen rer n er nn renarna Förundersökning föräldranärvarO
+            VIC sosommmesssssrrrresssrrrserrrersresrrrerrnrnnnn rna nanna
+            tidSgränS fÖT sssssssrrreesrresrersnrrrrsnrrnnernnrrn rer essnrnsrnnnsn
+            nr n nn nn ann FörvaltningsdOmstOlar smsmmssssesssrererrereerernenreneerennsnennennannnn
+            nan Föräldranärvaro vid domstolsförhandling vid förundersökning
+          </p>
+          <p>
+            Förändringsarbete inom åklagarväsendet...................s-s--....
+            Gemensam kontorsdrift m.m. inom kvarteret Kronoberg, anslag till.ssssmmnmsssssssssrrsssressereoeerresrrrrernrrenennnnrn
+            annan Grannsamverkan mot DrOtt.....ssnmsssseessresererereresersrrnrnnrnrrnrnnn
+            na Grov misshandel, reKViSit sssmmnmsssssosressressonrernerennrreronernrnrrn
+            nr Grovt narkotikabrOtt..........ssssssrererrerererorsnersesersrrsrerrnnrerrrrrnn
+            na Grovt olovligt brukande ssmmnsesressrsssesreneeneesennenennennenenn
+            ennen oron Gränsdragningen mellan narkotikabrott och ringa narkotikabrOtt......sssssssosererererererserrrrrrrrrrrrrrrrerrrrrrrrnrrrrrrrr
+            rr rn nn n nan Gällivare, pOliShUS I osmssssssssessrerssrrenrrrnrernnsnrnennenrernnernrnn
+            nerna nn GängbearbetnNilQ....smmmmssssessennsenresenesrrnrenernernesnrnrrrrsrrnern
+            nen rr renar
+          </p>
+          <p>
+            Handen, pOlishUS I onssnmssssessressrrrrrsnsrneennesnnrsnrennernnnnnrnn
+            ns nnnn nen Handikappade, diskriminering av.... Haninge, länsrätt
+            Iosnmnssssssrsssrressreresnressrennesnresnesnnernennrnnnnenn nn
+            nn Hastighetsövervakning till SJÖSS s.....sssssssssssseseneennsnennennennnnenn
+            Hemlig teleavlySShilg...sssssesessressrennennennennennenesrennenennennenn
+            enn rn nn
+          </p>
+          <p>
+            Hemlig teleövervakninlg....ssmsessseesosnesoresneeneersresnesrnnennrnrnsnnnrnnen
+            Hemligt telefon NUmMMET sissossesesressserseererenresresnrrnnsnnrnn
+            nen n nn nn Hets mot folkgrupp s.ssmnnsessesresnrerseenrerenersreneennsrnrensnnerernrennrnnn
+            nn HIV/aids inom kriminalvården, information OM...............
+            Hjälp åt polisen, ersättning fÖrl.........s.sssssssssesreresesenenenennnnnnnen
+            Huddinge, pOlishUS Isnmssmmnresseserssresesseensarenrennesrsnennennennnnnnn
+            rna Hudiksvall, ny kriminalvårdsanstalt I....nnnnmmsmssseseseenenenannnna
+            Humanisering av kriminalvården ......sesssessnesesnosenenenrnnnnnnnn
+            Husrannsakan
+          </p>
+          <p>
+            i traNSPOrtMedel omooossssssssssrsessresnrernrernerernernrsrnrnnernernnnen
+            nn nn HyreSNäMnNA ssssssssreeessereesrrsnrernrrerrnrerrresrrerr
+            renen rsnrern er r ren n nn nen Häkte i KarlsKrOnNa sssssmssssereeseersereeeeenrnrrereereererrrnerrrnrnrrrr
+            ennen rna na Häktesfrågor Häktning AV UNGA sossosereererrererrersrerenrnrernrerennerenrnnenenennnnnnen
+            eran enn nan nns enn a vid kontraktSvårC.........ssesssessresseessrerrensrerrerrenrnrsrrennrrrnnrn
+            nan Häleflossossssreerseeresereressrnerrerrssrerererrerrrrrrerrrsne
+            ser rrn ren rr sn rn nn nanna nen Häleri, nya former fÖr s.sssmmssssrsssrrsersrresesnrsernrerresrreresnrrnrnerrrnnn
+            en HälerifÖrSse€lS€...........ssssseeseeeeereerereereeeensereneererrrrnrrnrerrrrrnnnnnn
+            rna
+          </p>
+          <p>
+            21 17 21
+          </p>
+          <p>
+            19 19 3y
+          </p>
+          <p>
+            19 19 22
+          </p>
+          <p>
+            1990/91:JuU Reg.
+          </p>
+          <p>
+            14
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_JuU/reg_199091_JuU_0014"/>
+          <p>
+            Ideell SKACQ....ssnseeosreensenrreresrererrnrnrrnrnrrrrnssnreenrnrrnrsnrernr
+            narr nr enn rn nan Immunitet och privilegier m..mmmmsssssssssssesnrrennrrnrsnnnrnnennenrnnnn
+            nr Information från polis om unga OM frigiVNilG sosssssssesssresseensrsrnrssrresnnerresnnrrennernnsn
+            renen enn rn nen om HIV/aids inom kriminalvården s.......sssesssessrssnsnsnnnn
+            om åtgärder mot ekonomisk brottslighet ....................--
+            till DrOttSOffer sssmssesssrrersrrrrrssnnrrrenrnererrserernrsen
+            ere nns n nn rna n Informationsutbyte i internationella förhållanden.............
+            Ingripanden mot berusade personer Ingripanden mot unga IN hibitiOn
+            sssmmmmnssssreensrerrrerernerrsrerrrrrnnernnnrrrnenn enn rn ren
+            n ense nn r erna Inriktningen av narkotikapolitiken ......sss-seeesrsersrnrnnnnnnnnn
+            Inriktningen av polisens arbet€...........sessosesesereserrenenennnnnnnnn
+            Insatser vid statsbeSÖKk =ssmnmnsssssssssssrssssrreresnnresnnesnrnnnernenernnrnn
+            nn Internationella verkställighetslagen .... Internationella överenskommelser
+            = ..smmmmnsssssrennennnennrnnnnnennant Internationellt samarbete
+            i brottmål...............esssssssssssssnnnnn Internationellt samarbete
+            inom polisverksamheten...........
+          </p>
+          <p>
+            Invandrare information till..
+          </p>
+          <p>
+            Jordabalken, lag om ändring i (fastighetsdomstolar, MMM) ooseeeeseeseeerereerseerrrrrrrrerrranerrernenn
+            nere r ene enn senere nere nen renen rn rna Jourdomstolar Justitiedepartementet
+            m.m., anslag till Justitiekanslern, anslag till mssmsssssssssssrsersesssrnenernnennnrnrnnnnnnennnn
+            JUStitieråÅd .oosonnsrseresrerrsenrerrresreorererressrrenerrerrenrrannsnerrsr
+            ennen rr nn rann a Jämställd hetsfrågOr s.....ssssssssssseserenenenerrrnrnrrnrarenrrnrnenennn
+            enn ennnn nns
+          </p>
+          <p>
+            Kammarrätt..................oooo0- Kammarrättsfilial i Umeå Karlskrona
+          </p>
+          <p>
+            Kommunalt inflytande KOM mMUNATTEStossosssseesesereeerrrrrrrerrenenrnrnrrrnrrrnrrrerernnnr
+            renen rn rr rn rn nn KompletteringspropOositiONeN ...s.sssssssessrsrsesrsnennnnennnnnnnrnnnnnt
+            KONfrOntatiOnN snsossessresesesrerarsnrsrsrrnrsrennrrerenrnnrresrrernnrernnr
+            rn rrn rna Kontraktsvård villkorligt fängelse ViClnsmmmssssesessrssesesessesrenesenennnnnnensnnnn
+            nen häktning vid KONtraspiOnNage sosmnsesessesrseeneeseeneersenrnenresnerrrer
+            een nennrrenrn ennen rn n rna nn Kortare utredningsStider.............ssssosssessrrosessenesnrsnnnerneresrnrrnnnn
+            Kostnader för brott mot enskilda .............sssessssssersrreserssssnnnn
+            Krav på villkorligt frigivna m..smmmssssssessnensorsnersnnrrnnnnrnnrnnrnnnnnn
+          </p>
+          <p>
+            25,
+          </p>
+          <p>
+            25, 37,
+          </p>
+          <p>
+            21 38
+          </p>
+          <p>
+            19 17 17
+          </p>
+          <p>
+            1990/91:JuU Reg.
+          </p>
+          <p>
+            15
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_JuU/reg_199091_JuU_0015"/>
+          <p>
+            Kriminalvården delegering iNOM ssmessesseressersseererrerenesernesnerenrner
+            renen ene rnn nn nn Eftervård oossssssresseesrerrrerrererrrrsrrrnransesnenesn
+            nen ern ennen eran n ennen anna nn engångsanskaffning av inventarier
+            m.m., anslag till... frivården, anslag till smomsmsmmssssssssssesssersnrernnnrnrrnnnrnnnnrnnnnn
+            nan humaniSeriNg AV smsmmmmsssssssressresssrsssrernresnnesresrrrnnnsr
+            nens n nr anna häkte i Karlskrona information om HIV/aidS s.ssssensessesrerrerseseerrrresnenerrrrnensnnnn
+          </p>
+          <p>
+            kriminalvårdsanstalterna, anslag till kriminalvårdsstyrelsen,
+            anslag tillim.....s.ssssssssosororsrsnsnnnn lokalförsÖrjNiNgeN
+            smussmssesssessreersrsrrrrrnesrnrsrerrsnrernsrrernnrnrn nan maskin-
+            och verktygsutrustning m.m., anslag till ........ mål och inriktning
+            narkotikaffågOr ossnmeresrererereererrerreresesesrsrnrererererrsnsrererenen
+            nn styrning av ekonomi och resursutnyttjande..................
+            utbildning av personal m.fl., anslag till.............s....s.----
+            UtreCNiNg AV-somsseeereressseeserererersssrrssrrrrnnrrrrenr rss
+            nen nr nerna nan utrustning för kriminalvården, anslag till.....................
+            övergångshem Kriminalvårdsanstalt i Hudiksvall, Karlskrona, Visby.......
+            Kriminalvårdsanstalterna aNSlag tillosoosssssssssssessersressrersrrresrrrernrsresnnr
+            ren es n rr enn n ner n rn enn nn narkotikamissbruk På s..smmmmssserseresesrsrerseresrerenrsrereresernnrnnn
+            nn Kriminalvårdslagstiftningen Kriminalvårdsreformen, utvärdering
+            av Kriminalvårdsstyrelsen, anslag till.....ms.sm.ss.ssssssosessesreererenennnn
+            Kustbevakningen, samarbete med tullen............ssssssssssss0nn0n
+            Kvarhållande i pOlisärfeSt...mssmssssssessssesesrenenrsnsnenennnnenennnen
+            anar Kvarteret KronObErg smssmmssessesseresosnersrerersnrresesrresnrernernnsrnnnnnn
+            KVarterspOliS€r m.ssmssssesrseessrersrrssrrersrerersrrnrrssrrrnsrsrn
+            rn nennrnn rerna nn Kvarterspolisverksam het. ...mnmmnsssssssresesrsesensesrsesrenennennernenennnn
+            nn Kvinnliga iNtagNa sossmsessseesressrerssrrssrrersrrrrsrrnnresresrrrnnnrnnrnrnrn
+            rann nn Kvinnomisshandel, påföljd fÖr s.......sssssssssesssrresssesersenrsnrrnnnna
+            KyrkOffiClbossonnessserrnesrerenenerrnesenenernenenenesenenenennnesenenenenenenernnn
+            en nnn KyrkOMmUSIiker sosssnssesrereessrrrsrererssnrrersesersrrsesrerrrssrrrrrrrerrrrrsnrr
+            rar sr
+          </p>
+          <p>
+            Lagar m.m., lag om ändring i kungörelsen (1885:56 s. 1) med vissa
+            föreskrifter till beredande av skydd för undervattenstelegrafkablar
+            (DÖLEL )oooeesresresesrsnoasererereresresrnereenersrsrrrns renen
+            rar rer ennen renen nan kungörelsen (1915:288) angående förbud
+            att utan särskilt tillstånd framdraga enskild telegraf-, telefon-
+            eller annan svagströmsledning över riksgränsen
+          </p>
+          <p>
+            lagen (1919:426) om flottning i allmän flottled (006175 6) VR
+            lagen (1929:116) om tillsyn över stiftelser (böter)........
+          </p>
+          <p>
+            10
+          </p>
+          <p>
+            10
+          </p>
+          <p>
+            10
+          </p>
+          <p>
+            10 10
+          </p>
+          <p>
+            1990/91:JuU Reg.
+          </p>
+          <p>
+            16
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_JuU/reg_199091_JuU_0016"/>
+          <p>
+            lagen (1932:55) om viktmärkning i vissa fall av gods som skall
+            inlastas å fartyg (bÖter) ...........s.sssssseseseoerenenne checklagen
+            (1932:131) (DÖter).......ss.sssessesesesseneorerernnnnan lagen
+            (1932:242) om skyldighet i vissa fall att tillhandahålla förnödenheter
+            m.m. för ordningsmaktens behov (bÖter) .....s.ssseseerrersrssrresrsrsnrnnn
+            förordningen (1933:78) angående beteckning för vissa slag av vin
+            (BDÖLeErl)...sssssesssrersrseerrrrerererrnrrnerersrensrrnnnn nr
+            skeppsklarerarförordningen (1934:119) (böter) ........... kungörelsen
+            (1935:47) angående viss uppgifts- skyldighet i fråga om hamnar
+            och lastageplatser ävensom kanaler och andra vattentrafikleder
+            (böter).. lagen (1935:113) med vissa bestämmelser om arbetsförmedling
+            (bÖter)........ssessersssrererresesrrrernenenennrnenrn nan lagen
+            (1939:299) om förbud i vissa fall mot överlåtelse eller upplåtelse
+            av fartyg m.m. (böter)....... kungörelsen (1939:707) angående
+            skyldighet för förvaltare av fastighet att biträda vid utlämnande
+            av inköpskort, m.m. (bÖLEr) m.smmnmssssserersesreresesrerserennnenrrnnnn
+            ann lagen (1940:176) med vissa bestämmelser om fraktfart med svenska
+            fartyg (bÖter)................sssses0nn lagen (1941:416) om arvsskatt
+            och gåvoskatt (böter) ... värnpliktslagen (1941:967) (bÖter).............ssssemesssssesnt
+            kungörelsen (1942:155) angående förbud mat försäljning av vissa
+            kemikalier (bÖter)...............s.s..s.s.s lagen (1942:335) om
+            särskilda skyddsåtgärder för vissa kraftanläggningar m.m. (bÖter)............ssesseesesrernrn
+            lagen (1942:723) om skyddsympning inom försvarsväsendet (DÖer)
+            s..ssmmmmsssssrssrsrrsrsrsnrrenrenrrnrnernr renen n nn lagen (1943:459)
+            om tillsyn över hundar och katter
+          </p>
+          <p>
+            lagen (1944:133) om kastrering (bÖter).........................
+            kungörelsen (1945:174) med vissa bestämmelser till skydd mot skada
+            från gengasdrivet fordon eller redskap (bÖLer) smssmnssssrssressersressrerresrenerrenenesrenerenenenrnn
+            enar n en kungörelsen (1945:494) angående lån från värnpliktslånefonden
+            (bÖter)...........ssssssssrsrsssessosrsrsenrarnnn lagen (1946:808)
+            om lagsökning och betalningsföreläggande (lagsökningslagen), (fastighetsdomstolar,
+            M.M.) mesmsssssssessrsenrerserensenrnnnennnnn nn lagen (1947:164)
+            om förbud mot politiska uniformer (BÖLEr) .smmmnssssrrserrrrrerrrenrrnrerresrrrerrrrrernnnrnnen
+            rna kungörelsen (1947:175) angående postverkets ensamrätt till
+            brevbefordran m.m. (böter).................... lagen (1947:529)
+            om allmänna barnbidrag (rättskipningen i socialförsäkringsmål)..................+-
+            lagen (1949:183) om flottningen i Torne och Muonio gränsälvar
+            (bÖLer)......ssssssosersreseesessenesneseenennernnnnt
+          </p>
+          <p>
+            10 10
+          </p>
+          <p>
+            10
+          </p>
+          <p>
+            10
+          </p>
+          <p>
+            10
+          </p>
+          <p>
+            10
+          </p>
+          <p>
+            10
+          </p>
+          <p>
+            10
+          </p>
+          <p>
+            10
+          </p>
+          <p>
+            10
+          </p>
+          <p>
+            10
+          </p>
+          <p>
+            10
+          </p>
+          <p>
+            10
+          </p>
+          <p>
+            10
+          </p>
+          <p>
+            10
+          </p>
+          <p>
+            10
+          </p>
+          <p>
+            1990/91:JuU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_JuU/reg_199091_JuU_0017"/>
+          <p>
+            kungörelsen (1949:491) om förbud att använda bensolhaltigt ämne
+            vid tillverkning av läderskodon [ (5761 753) [RA lagen (1949:722)
+            om pantlånerörelse (böter)................ lagen (1950:272) om
+            rätt för utländska försäkringsföretag att driva försäkringsrörelse
+            i Sverige (DÖer) somsesessrsssressrrsrerresrrrrnsnrsrrrrrnesnrerrnrrnrrnn
+            rr nn nen lagen (1952:98) med särskilda bestämmelser om tvångsmedel
+            i vissa brottmål (fortsatt giltighet av 1952 års tvångsmedelSlag)
+            .......sssssossosssssesnenenenrenenennnnsnrnnna lagen (1952:270)
+            om skyddsympning vid krig eller krigsfara m.m. (bDÖer)...ssssssessssrsenennrrenrnnnnanen
+            sjönödskungörelsen (1952:581), (böter) lagen (1956:245) om uppgiftsskyldighet
+            rörande pris- och konkurrensförhållanden (böter)...................-
+            förordningen (1956:413) om klassificering av kött [ (076) C:a
+            allmänna ordningsstadgan (1956:617), (böter) ............. allmänna
+            tjänstepliktslagen (1959:83), (böter) ............. lagen (1959:188)
+            om krigsansvarighet för liv- och invaliditetsförsäkring (bDÖter).........s.sssssssesesenesennenennnnnnnnan
+            civilförsvarslagen (1960:74), (böter) lagen (1960:409) om förbud
+            i vissa fall mot verksamhet på hälso- och sjukvårdens område [
+            (670153 6) RAR lagen (1960:418) om straff för varusmuggling (070
+            TT 6) lagen (1961:181) om försäljning av teknisk sprit och alkoholhaltiga
+            preparat (bDÖter).............ssssseessressensresnnnnnn lagen
+            (1961:394) om tobaksskatt (böter) ......................- lagen
+            (1961:655) om undanförsel och förstöring
+          </p>
+          <p>
+            lagen (1962:381) om allmän försäkring (böter)............ lagen
+            (1962:381) om allmän försäkring (rättskipningen i socialförsäkringsmål).........................
+            lagen (1962:392) om hustrutillägg och kommunalt bostadstillägg
+            till folkpension (rättskipningen i socialförsäkringSmMål) smmmssssssssssssennsnsenrnnenensrnrnnnnnnnnn
+            enn ann läkemedelsförordningen (1962:701) (böter) .................
+            lagen (1963:76) om kreditaktiebolag (böter) ................ lagen
+            (1963:193) om samarbete med Danmark, Finland, Island och Norge
+            angående verkställighet av straff m.m. (kriminalvårdslagstiftningen)................-
+            lagen (1963:197) om allmänt kriminalregister (psykiskt störda
+            lagöverträdare) ................sssso0sosorooronnnnn lagen (1963:583)
+            om avveckling av fideikommiss [ (8761 2-7 6) FA krigshandelslagen
+            (1964:19), (böter)
+          </p>
+          <p>
+            10 10
+          </p>
+          <p>
+            10
+          </p>
+          <p>
+            10 10
+          </p>
+          <p>
+            1990/91:JuU Reg.
+          </p>
+          <p>
+            18
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_JuU/reg_199091_JuU_0018"/>
+          <p>
+            lagen (1964:143) om bidragsförskott (rättskipningen i socialförsäkringSsmål)
+            ...mmsmsssssesessesesnesennenenenenenenennnn nn anna lagen (1964:167)
+            med särskilda bestämmelser om unga lagöverträdare (ingripanden
+            mot unga) ............... lagen (1964:542) om personundersökning
+            i brottmål (kriminalvårdslagstiftningen) ..................--.--.-
+            lagen (1964:542) om personundersökning i brottmål (psykiskt störda
+            lagöverträdare) ..................... lagen (1965:61) om behörighet
+            att utöva veterinäryrket m.m. (bÖter).......ssssssssosseseenesesnennenennnnnnn
+            nan lagen (1965:94) om polisregister m.m. (ny terroristlagstiftning
+            M.M.J.sssmssssssssssssesesnsnensnenenenernnnen nns lagen (1965:94)
+            om polisregister m.m. (psykiskt störda lagöverträdare) sommmmmmssssssessrsresnennennerenesnennrnernrn
+            annan förordningen (1966:36) om vissa uppgifter från näringsidkare
+            (bÖer) ...mmmmmsmsresresrerseseneenenenerrnnsnsnenenennnn enn
+            kungörelsen (1966:37) om statistiska uppgifter från rörelseidkare
+            och ägare till flerfamiljshus (böter)........ lagen (1966:413)
+            om vapenfri tjänst (böter).................. lagen (1966:742)
+            om hotell- och pensionatrörelse
+          </p>
+          <p>
+            patentlagen (1967:837), (DÖter) .mmnmmnmnsnrnenesrsnsnnnsnnsnnnenn
+            lagen (1969:246) om domstolar i fastighetsmål (fastighetsdomstolar,
+            M.M.) mesmnmssssssessesesnenennenernennnnnnn nanna delgivningslagen
+            (1970:428), (DÖter)............sssssssssssonnsnnn delgivningslagen
+            (1970:428), (delgivningsfrågor) ......... delgivningslagen (1970:428),
+            (psykiskt störda lagÖVErträClal€])..sssssesseseenesreserrrssnerrenernrennrnerrrnennenrnnrn
+            nn ennen lagen (1971:289) om allmänna förvaltningsdom- stolar
+            (fastighetsdomstolar, M.M.)....sssssssssssssssesnnsnnnnnnnn lagen
+            (1971:289) om allmänna förvaltningsdom- stolar (rättskipningen
+            i socialförsäkringsmål) .............. förvaltningsprocesslagen
+            (1971:291), (delgivningSsfrågOr) s....msssssssssesesesesenesenenrnresnnnnrnnenen
+            enar nanna förvaltningsprocesslagen (1971:291), (böter) ................
+            förvaltningsprocesslagen (1971:291), (rättskipningen i socialförsäkringSsmMål)
+            m...sssssssssssssseneenenenesrnenennnennenen nanna bostadsrättslagen
+            (1971:479), (fastighetsdomstolar, MAI) oooeeeeereresrrereresreserrnererrrrrnrrrrrerernrrrnnresr
+            ere ren nnrrn ere n rena lagen (1971:965) om straff för trafikbrott
+            som begåtts utomlands (bÖer).........sssssssereessrrrssrresssrennnnerrrsnnernn
+            nerna nan lagen (1972:260) om internationellt samarbete rörande
+            verkställighet av brottmålsdom (böter)........... lagen (1972:260)
+            om internationellt samarbete rörande verkställighet av brottmålsdom
+            (narkotikabrottslighet) .............sssssesssrsessrensrrsnrsererernnnen
+            nn
+          </p>
+          <p>
+            18
+          </p>
+          <p>
+            32
+          </p>
+          <p>
+            1990/91:JuU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_JuU/reg_199091_JuU_0019"/>
+          <p>
+            lagen (1972:260) om internationellt samarbete rörande verkställighet
+            av brottmålsdom (psykiskt störda lagöverträdar€) s.ee.essserrrrsrrennrnrerenrnrrrrnennnnrnnrnn
+            rättshjälpslagen (1972:429), (fastighetsdomstolar, MIM) oooeorereererrrerrrrnrrrererrerrerrrsn
+            renen rrrrrrn ren erren ner nrnen nen nrn annan rättshjälpslagen
+            (1972:429), (rättskipningen i socialförsäkringSMål) =mmmsseesessrsssrsssresessnsssneneneenenen
+            aren n na rättshjälpslagen (1972:429), (ny terroristlagstiftning
+            4.406 1409 lagen (1973:188) om arrendenämnder och hyres- nämnder
+            (bostadsdomstolen och hyresnämnderna) .... studiestödslagen (1973:349),
+            (rättskipningen i socialförsäkringSmMål) susmmsmspsssssssssnenesesernerersrnnserensnsn
+            annan a lagen (1973:371) om kontant arbetsmarknadsstöd (rättskipningen
+            i socialförsäkringsmål)........................- lagen (1973:431)
+            om utredning angående brott mot utländsk tullag (internationellt
+            samarbete i brottmål [4.805 4 109 förordningen (1973:568) om vissa
+            uppgifter från rörelseidkare (DÖel) sm.mmmsmssesssserseersererernenrrererrrrrrnersesnnnnrn
+            enn vapenlagen (1973:1176), (Vapenlagen)..................s....s.0-
+            handelsregisterlagen (1974:157), (bÖter) .......................
+            lagen (1974:202) om beräkning av strafftid m.m. (kriminalvårdslagstiftNningen)
+            s.smmmmssessersorserrssesrsenrsnrnenen lagen (1974:202) om beräkning
+            av strafftid m.m. (psykiskt störda lagÖverträdare) m.......sssssosssesssenennsrnnnnnn
+            lagen (1974:203) om kriminalvård i anstalt (kriminalvårdslagstift
+            ningen) summmmsersssseserrssrssrrenenrenennenen lagen (1974:371)
+            om rättegången i arbetstvister (bostadsdomstolen och hyresnämnderna).....................
+            lagen (1974:515) om ersättning vid frihetsinskränkning (psykiskt
+            störda lagöverträdare)... lagen (1974:1065) om visst stöldgods
+            m.m. (narkotikabrottslighet) m...nsns.ssssesssreeorenrrnesenesrennrenenennnnnr
+            lagen (1974:1082) om bostadsdomstol (bostadsdomstolen och hyresnämnderna).....................
+            terrängkörningslagen (1975:1313), (böter)....................
+            trafikskadelagen (1975:1410), (DÖter) s...nnnnnmsnmoseoeoesnnanen
+            lagen (1976:157) om skyldighet för arbetsgivare att anmäla ledig
+            plats till den offentliga arbetsförmedlingen (bÖLer)..........ssssssossesrserrsrorersenesnesnennnnen
+            lagen (1976:371) om behandlingen av häktade och anhållna m.fl.
+            (kriminalvårdslagstiftningen) ................ lagen (1976:380)
+            om arbetsskadeförsäkring (rättskipningen i socialförsäkringsmål).........................
+            lagen (1976:580) om medbestämmande i arbetslivet [ (576175 6)
+            lagen (1977:292) om tillverkning av drycker, m.m. [ (076 3 6)
+          </p>
+          <p>
+            34
+          </p>
+          <p>
+            10
+          </p>
+          <p>
+            10
+          </p>
+          <p>
+            1990/91:JuU Reg.
+          </p>
+          <p>
+            20
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_JuU/reg_199091_JuU_0020"/>
+          <p>
+            lagen (1977:293) om handel med drycker (böter).......- lagen
+            (1977:654) om kungörande i mål och ärenden hos myndighet m.m.
+            (delgivningsfrågOor) ...................... lagen (1978:28) om
+            försäkringsdomstolar (rättskipningen i socialförsäkringsmål)..................-....--
+            lagen (1978:40) om införande av lagen (1978:28) om försäkringsdomstolar,
+            m.m. (rättskipningen i socialförsäkringSmål) =mmsssssssesresssrsrorsererrsrsenrrnnrrrrnnnnrnen
+            an passlagen (1978:302), (kriminalvårdslagstiftningen) .... lagen
+            (1978:801) om internationellt samarbete rörande kriminalvård i
+            frihet (kriminalvårdslagstiftningen) s..smmmmmsssssrsrsesrsssenesnennnnnnn
+            lagen (1979:84) om delpensionsförsäkring (rättskipningen i socialförsäkringsmål).................-....---
+            bötesverkställighetslagen (1979:189), (psykiskt störda lagÖVErträClar€]...ssssesssesseseesrenrerresrerenrenenrnnener
+            renen nen ren n enn nn lagen (1979:377) om registrering av båtar
+            för yrkesmässig sjöfart m.m. (bÖter) .....s.sssssssensosnnnrnsnnnnn
+            sekretesslagen (1980:100), (delgivningsfrågor).............. sekretesslagen
+            (1980:100), (rättskipningen i socialförsäkringsmål) sm. mmmmmssssssrsrnsensensnnrnnrnernrnsen
+            sn nerna a sekretesslagen (1980:100), (internationellt samarbete
+            i BrOttmål M.Mo)ossnsssssssssererrersrrrrorerrerrrrnernernrrnernr
+            ere ner nr nana sekretesslagen (1980:100), (ny terroristlagstiftning
+            4005 4319 [Ar sekretesslagen (1980:100), (vapenlagen) ........................
+            lagen (1980:307) om skyldighet för utländska kärande att ställa
+            säkerhet för rättegångskostnader (fastighetsdomstolar, M.M.) smssmmmmsrsrsrersresenrnenenenenernrn
+            rn nns an handräckningslagen (1981:847), (fastighetsdomstolar,
+            M.M.) mesmmmessessresenenenenenenenernen annen an polislagen (1984:387),
+            (förnyelse inom polisen) .......... polislagen (1984:387), (ingripanden
+            mot unga) ........... polislagen (1984:387), (ingripande av polis).................
+            lagen (1985:988) om immunitet för vissa vittnen m.fl. (internationellt
+            samarbete i brottmål m.m.)........ lagen (1986:378) om förlängt
+            barnbidrag (rättskipningen i socialförsäkringsmål).........................
+            jaktlagen (1987:259), (DÖter) msmmsesseesessoeroserosenennnnnnnn
+            lagen (1987:733) om fritidsbåtsregister (böter) .............
+            lagen (1988:97) om förfarandet hos kommunerna, förvaltningsmyndigheterna
+            och domstolarna under krig eller krigsfara m.m. (rättskipningen
+            i socialförsäkringSmMål) sm. .......ssssssesseresenrsnenenerenennnsnrn
+            ennen enn nn vägtrafikskattelagen (1988:327), (böter) ...............,.......-
+            lagen (1988:328) om vägtrafikskatt på utländska fordon (bÖter)
+            ...ssesseresererrerrersrrernrenrenrsnnennenrrnnenner narr nn n
+            nn
+          </p>
+          <p>
+            10
+          </p>
+          <p>
+            18
+          </p>
+          <p>
+            18
+          </p>
+          <p>
+            34
+          </p>
+          <p>
+            29 33
+          </p>
+          <p>
+            10
+          </p>
+          <p>
+            10
+          </p>
+          <p>
+            1990/91:JuU Reg.
+          </p>
+          <p>
+            21
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_JuU/reg_199091_JuU_0021"/>
+          <p>
+            lagen (1988:360) om handläggning av ärenden om bilstöd till handikappade
+            (rättskipningen i socialförsäkringsmål) .....msssesessssesersesesenrnrenenrnnnernsnnsrnrnn
+            nana lagen (1988:609) om målsägandebiträde (utvidgad rätt till
+            målsägandebiträde, M.M.J.nmsmssessssssssnnsnnnn lagen (1988:1464)
+            om ersättning och ledighet för närståendevård (rättskipningen
+            i socialförsäkringsmål) s.msssssssssssessssrerersrnensrsrnsnsrnensennnn
+            nonan smittskyddslagen (1988:1472), (kriminalvårdslagstiftNningen)
+            .messmssesssssrsrorseoronononn nn lagen (1989:8) om kyrkomusiken
+            i svenska kyrkan (nordisk arbetsmarknad) ssmnmmsssssssersrreeserenrrsrrernernnennrn
+            rann lagen (1989:225) om ersättning till smittbärare (rättskipningen
+            i socialförsäkringsmål)..................s------ utlänningslagen
+            (1989:529), (kriminalvårdslagstiftningen) ..smsmmrnsrererssserreresenenennnnnnn
+            utlänningslagen (1989:529), (ny terroristlagstiftning IM) oeeeereerreesrrererrrerrrerrrrrrrrrrrrereerrrerrrrrrnrrrernrrrrrr
+            rr nn nanna na lagen (1990:314) om ömsesidig handräckning i skatteärenden
+            (internationellt samarbete i brottmål [4.405 4 109) taxeringslagen
+            (1990:324), (bÖter)................s-.ssssssssssnnn lagen (1990:325)
+            om självdeklaration och kontrolluppgifter (DÖter) .........ssssssessessesseserneesrererenrenennn
+            järnvägssäkerhetslagen (1990:1157), (böter) ................-
+            lagen (1990:1183) om tillfällig försäljning (böter) ....... lagen
+            (1991:000) med vissa bestämmelser om inter- nationellt samarbete
+            på brottmålsområdet (internationellt samarbete i brottmål mMm.m.).................
+            lagen (1991:000) om särskild utlänningskontroll (ny terroristlagstiftning
+            M.M.J.sssnsssssesssessessresensnsrerennennnnenen nn lagen (1991:000)
+            om tillstånd till ingripande mot svenskt fartyg (narkotikabrottslighet)..........................--
+            Langborgermålet ..snmnmsssesessesrerrenrenrerrernesrrsrernernrrenennenerrnenenen
+            rna Legitimationsskyldighet för ordningsvakter........................
+            Legitimering av polismän susmmmsssssssrerserressrenrrensernrrrrrernrnnnnn
+            rna LiVvStidSStraffonosssssesssresrarsrersrenrrerrrnrsnernrrnrrrnrrnnrnner
+            ennen ennen nn nns ann Lokala polisorganisationen, anslag tills
+            mommsmssssssssssnenennnnnnns Lokaler, domstolar Dokalförsörjningen
+            för polisväsendet................. för åklagarmyndigheter inom
+            kriminalvården. .......sssseeserseseesesenennenenennrnnnenen ennen
+            ann Långsiktig pOlispOlitik...........ssessssosseseseresenernersrsrrsenenrnnrnnrnnnn
+            nan Långtidsdömda, särbehandling av sm...mmseseseessesssrersrrrrrnenennnnn
+            Länspolismästarmodellen susmmmmssssesssresrerrersersrrrnerernrennerennanen
+            nan Länsrätt
+          </p>
+          <p>
+            18
+          </p>
+          <p>
+            1990/91:JuU Reg.
+          </p>
+          <p>
+            22
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_JuU/reg_199091_JuU_0022"/>
+          <p>
+            Maskin- och verktygsutrustning m.m., anslag till ..............
+            I ETS 40776 FE: Medborgarinflytande ssmmmmnssssessessreneennnrensnnrsrsnnenrennnernrn
+            nn n rn nn MedborgarkOmmiSSION ssmnmesssessessrensrersrsrsrennnrrnrnrrnnrnnrnnnn
+            nn nn nn Medborgarskap s.smmnmesressrrensrrererrersrnenennrrrsnrnrnerennerrennrernrn
+            rr n enar MedborgarvittNnen s..smnmmssssssesesreseeseennnrnsrrrnnrnnn
+            ren ernennener nen nen nn n en Medtagande till fÖr HÖr s...ssssssssrseeserenesnrrreserrannnnrrneennnen
+            ns nn nnn nn Miljöfrågor, utbildning i Misshandel oonnnnsssssessesserssnnessernnsnnnnnnn
+            Moderniserad domarkarriär Mål utomlands s..s.sssseseseerererersenenenennenennenenennen
+            nn nn enn Målsägandebiträde Målsägandebiträde vid sexualbrOtt...............s.ssssssssnnnnnnn
+            Målsägande, underrättelse tilli.............ssssososeseseoesnsesnnnnnnnnnnnnn
+          </p>
+          <p>
+            Nacka, pOlishuUS Iosnmnnessssrssrsrenesresnennnenrnesnrrrnnnernrresnrnnerrrnnnnrn
+            rna Narkotika nordiskt samarbete smuggling av svald Narkotikabekämpning
+            Narkotikabrott s...sssssmssssrrerererrsererererererrrrrerrrnrnnrrrrrrrrrn
+            nan Narkotikabrott, åtalsunderlåtelse vid NarkotikabrottskonventiOn€enh
+            s...smmmssssssserereserersrererrenrnnrrrrn rar Narkotikabrottslighet
+            s.mmmmmmsssssssesrenssnsnsrennnrsnnsnernernsrernrnnennn nns Narkotikafrågor
+            m.m. inom kriminalvården.....................- Nordisk arbetsmarknad.
+            ....s.sssssssrrsererrresererereeerrenrerernrrrsnnrrrnn nan Nordiskt
+            samarbete mot narkotika ............ssseeserersersesenssnnnnna
+            Nämndemän aNtal€t.ssssssssssessrereseseerererrerrrrerrrrnnrrrrrrrrerrrrnnrrrnrnnn
+            rna rr nn n ann nn a CI SÄttNiN Gao ooseeseereererseesrerrserrrsesrrrnrrrrnrenn
+            rer n ren nrnen nen en ennen nana n nn mMandattid ...ssssmssssserersrererrerrrrrrrrrrrerrrrrrrrrrrrrrrrrrerrnnnrrrr
+            rr rn rna
+          </p>
+          <p>
+            Obehörigt avvikande från trafikolycksplats ......................--
+            Oetisk kontaktförmedliNng...........ssssssresserseessrersenrenennenernnnnenent
+            Offer för brott utomlands s......s.sssesssressressrersrenernennrnennrnnnnen
+            ann Olaga våldsskildring .......sssssssssesenennnnnsenennenennenenensnnnsnsnnenenrn
+            nat Olovlig KÖrTNiNg oossumsreresersenrereseneneernennrerrrsresnrenesnsrrnenennsnnnenrnnnen
+            Olovligt brukande s..ssmmnsesseseesrersnrssnneerrrsnrrrenerrernenernrrrennnrenent
+            Omprövning (utlänningslagstiftningen) m.......esmsesmr Ordningsbot
+            för Snatteri ....msss.ssesesreseorersersresenrnenrnsnnnnennnrnnnnt
+            Ordningsvakter, legitimationsskyldighet ..........e.s.seseerrr0&gt;
+            Organisationsrekvisitet (utlänningslagstiftningen) .............
+            Otillbörlig psykisk Påverkan sw....seessssssessesenoesensesenennsrnrnenennnnn
+          </p>
+          <p>
+            1990/91:JuU Reg.
+          </p>
+          <p>
+            23
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_JuU/reg_199091_JuU_0023"/>
+          <p>
+            Paragraf 7-iNtyg......sooosesosoesennsrsernrsnsnesrrrennenennenenernnnnsnennnnnnnrnnnn
+            Parlamentarisk KONtrOll.....ssssessssesessersrsnernrrrerersnnrnnererrnnnrrern
+            nn Parts rätt att ta del av beslutsunderlag ..............ssssssrsssersessnna
+            Pass förnyelse AV sommseseeeesreseererrrererreressrssrerrenrerrerrernernernnrrnrnn
+            enn nnn återkallelse av PenningbÖterla.smeessrseerersersrsrrsrresrnrsrererserrrnrrernrerrennnrn
+            renen nn rr rna Pensionerade dOMarE ssmsmsssessressrrrrresrrsrrrrrsrnrsrrrrrnrrrnrrrrn
+            nr n nn nn Pensionerade polismän
+          </p>
+          <p>
+            PermisSsiOnSreglel.smsmssssseresrrreserrrererrrsrerrrrrrrrrrrsrrr
+            ner ernr nn nr rn anar Personligt rekvisit (utlänningslagstiftningen)
+            ..................... Polis, förhållandet mellan åklagare OCh
+            .....m.s.sessesreneesensnnnn Polis och socialtjänst, samarbete
+            mellan ..........s.sssss0ssr0nnnnn Polisanmälan, falSkosssonnsssssseserreseresresrerennrenrerrrrnrnnnrnnrnrrnnnnn
+            nn nn Polisarrest, kvarhållande i o....ssssreersesresrersenerennesnrrnennnnrrnnn
+            ann Polisarrest, sjukvårdssekreteSS ..........s.sessossseseneenennesennennnnnnnnn
+            POIliSaSpPirante€r sosssssesesssessesresserenerrnssnrrrrr nen
+            nnrrnrrr ner n ner r rr rn nan Polisdistriktsindelning Polisen
+            i StOrStaCl....ssssssssesseresereensrrrsrnrnererrernressrrerrnnrnrrrrr
+            nn rr n nn Polisen och invandrarfrågOr .........sssssssssesssereseseserersrsenennnnrnn
+            nn Polisens arbete, inriktningen aVv.-......ssmsesersersssnsennnnnnnnn
+            Polisens radiotrafik Polisens uppgifter Polishus (i Gällivare,
+            Handen, Huddinge, Nacka, Solna, Södertälje, Uddevalla, VänersbOrg).......,.....ssssssssssssssesnssrsnnnn
+            Polisingripanden vid UPpPlOPpP......ssssssmssssssssssessnsnnnsnesnnnnn
+            Polismän DFOtt AV oosoosserererrreerersesrsrsrrrsrrrespsprrrrrnrnrersrrnrre
+            nr nr ere nn n rerna nn pensionerade Polispolitik, långSiktig...........ssesorssesesrssenrenerrenenrernerrenennennen
+            erna Polisregister, vissa frågOr OM s..sssmsoresssssrennesesrnrerernrnnnnennnn
+            annan Polisstyrelsens verksamhet.........s.sossossssssresonersensnnnnsrnennnnnrnnnnn
+            Polistjänster Polisutbildningen, decentralisering AV..........sssssesssrsssessnnnnnn
+            Polisväsendet diverse utgifter, anslag tillis..........,..sssessesssseserssnersnsnnnsnnnrn
+            gemensam kontorsdrift m.m. inom kvarteret Kronoberg, anslag till..s..ssss.sssessessoserserssesnrnnsrnrnnnnnnernrnnnn
+            nr lokala polisorganisationen, anslag till...monmms...ssessessss0&gt;
+            rikspolisstyrelsen, anslag till......................- riktlinjer
+            för resursanvändningen inom statens kriminaltekniska laboratorium,
+            anslag till....... säkerhetspolisen, anslag till... ...ssssssssssesosesserennnennnnnsnn
+            nn underhåll och drift av motorfordon m.m., anslag till. utrustning
+            m.m för polisväsendet, anslag till... Pornografiska föreställningar
+            ............ föreerererenerrrrrrnrern nr rn annans POStfÖrSändelS€
+            ..nssssssssresrerrerrerseerrer essensen nenrerr reses nen nr rn
+            enn eran ennen Professuren i pOlisfrågOr s....s.sssssesressesrserereserrrerrrrserrerrrrrnnrrnnrnn
+            nn Professurer vid BRÅ s..smummsmssssssssseseeosonosssssssrrrrrernrnnnsrrrnr
+            nn
+          </p>
+          <p>
+            3y 6, 29 29
+          </p>
+          <p>
+            1990/91:JuU Reg.
+          </p>
+          <p>
+            24
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_JuU/reg_199091_JuU_0024"/>
+          <p>
+            ProportionalitetsprinCipen smsmmmmssssssessrsrsessrnsersersernnernnnnnr
+            rn anna PrOStitUtiON ssossssssssessresernrresrrersrrrrrrrernesresrrnrrrrnern
+            rr rrrer ennen rna nn Psykiatrisk tvåNgSVård susmnmnnsssssessseesrerenerenenenenenerrsernrnennnnnn
+            annan Psykiatrisk vård på kriminalvårdsanstalterna ....................-
+            Psykisk påverkan, otillbörlig...... Psykiskt störda lagöverträdare
+            Psykiskt utvecklingsstÖrda s...ssessesssssenssernenesersernereresrernsnnrnnn
+            Psykiskt VålCl.sssssssssseseereneroesenenernesesernenerrenenenennrnenennnnnnenen
+            anar anna Påföljdssystemets utformning s....smssssesseresesrenesnenesennnnnennnn
+            annan
+          </p>
+          <p>
+            Rapporteftergiffl .........n..sossoseoneonenseesernnesnenennenennerrrnernernennrnnnn
+            nn nn Rationalisering (den statliga administrationen)..................
+            Rattfylleri (UPPSKOV) sssnsnnneneseseeresresrenenesenenennenenenerenenenennen
+            nanna Regeringens behandling av riksdagens skrivelser ..............
+            REgeriNgSlåCL..ssssssssssesesrenereererenenereneseresenenenensnnenensnnenen
+            enar en annan Registrering av unga som begått brOtt..................s-ss0nn
+            Rekvisiten vid grov misshandel... .sssmssssssessreseesessennernnnennnnnnn
+            RiddarhOlmen osssomsssseessssssrrereesrrrerssrnrrrssnernnrennnernr
+            enn renar rerna anna Rikets Säker het...sssnsssssesoeresesreeenersreesenneneneenennenernenennrnnrnen
+            nen nan Rikspolischefens ställning......sssssssesseseseneenenneneresnennsnernennen
+            ann Rikspolisstyrelsen, anslag till.snmssmsssssssssssesessenesesnenernnnnernnn
+            ann Rikspolisstyrelsens roll............. Riksåklagaren, anslag
+            till Riktlinjer
+          </p>
+          <p>
+            för resursanvändningen inom polisväsendet ...............- för
+            säkerhetspOliS€N...ssmmssssssssseresrensrersnrenererrenennennrnernrn
+            anna
+          </p>
+          <p>
+            Rullande poliskontor ............... Rymlingar, eftersökande
+            av Rättegångsbalken, lag om ändring i
+          </p>
+          <p>
+            delgivningSfrågOr sissnsssesssserereererrerereresenenenernrnrnrnrnenen
+            annan nn fastighetsdOmstOlar smmmssssssserssssrrrrsenrrnnnrnnennennennernnnn
+            nen nn nan ingripande av POLIS m.smmmnsssssssssessrssernenennenennrnerernrrern
+            ennen nn nn nordisk arbetsmarknad ............. psykiskt störda
+            lagöverträdare Rättegångskostnader i förvaltningsprocessen ......................
+            RÄättShaveriSt€l.s.ssssnmnmssssresssneenneesrenserernrsreennennernnennernennernnnnn
+            annan Rättshjälp i förvaltningsärenden [Ut TOT a et FR till SMåföÖretagar€
+            susmmmsssssssesserererresrsenenenenenenesenenennnnen enar an nn
+            vid DOdelNiNQ missssssseesseeseesenrersrenrererrerrrrerrrnerernenerer
+            nen enar nn åt DrOttsOffer ssssssssssresrererersrnrererrnrnrnsenenenenrerrnrnr
+            nere nenrnnn nana Rättshjälpskostnader, anslag till.mssmssssssssesesrrsssrrsssrsnsnnsnssnnnn
+            Rättshjälpslagen, ÖVErSyl QV smnssssresesssersrernennersrernsnsnrsnernrn
+            rent Rättshjälpsmyndigheten, anslag till Rättskipningen i socialförsäkringsmål
+            Rättspsykiatrisk undersökning ....ssesssssesesseosesseeneenrrnrennnnnnnnn
+          </p>
+          <p>
+            29 21 34, 3y 34
+          </p>
+          <p>
+            1990/91:JuU Reg.
+          </p>
+          <p>
+            25
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_JuU/reg_199091_JuU_0025"/>
+          <p>
+            Sakkunnig oussssnererereeerereerennrnerrnrerrennenren renen enn
+            ennen renen ene nen ennen nn Samarbete med tull och kustbevakning,
+            polisens .............. Samarbete mellan polis och socialtjänSt...................s..----.--
+            Samhällstjänst i hela landet för unga Sammanslagning av polisdistrikt.......s..ssssessssrsrssesrsresnnsnsnnnn
+            SeniOrpOliS€r ossssmssssreseereneerereneenernennennernen een nrn
+            renen nen arn eran eran nn ann Sexualbrott
+          </p>
+          <p>
+            målsägandebiträde ViCl...snmmnmssessesreseersennennennenenrenennnnnrnnennnn
+            regeringens behandling av riksdagens skrivelser .......... utbildning
+            beträffande.................-..-...- utbildning beträffande vålds-
+            och mot barn i andra länder smmmsssessrsrssrrersrrrrsrrrnnernnnnrnn
+            annan Sexuellt umgänge med SYSKON .....ssmessessssseessrennennrennenennennnnennn
+            Sexuellt Utnyttjälnde....sossssssesresrenrennrernesnrernrernrerernnsrernrnnrnnnnn
+            Sjukvårdssekretess i polisarrest Sjukvårdssekretess inom kriminalvården
+            SjöpolisverkSamn het... sssssssseesseserersrreesrrrerenrererrnerrrerrerrnnrrnnnnnnr
+            Skadelindrande arbet€....smmmnmsssessessrenerenrenrrennsnnernrrnnrnenernnnnn
+            nn SKAadeStåNA sssnsnssssseseersenereresenenernenerernenenernenernnnen
+            enar enen enn nn anna Skadeståndstalan ..... Skiljemannalagen
+            SMitNiNG oooeeeseerereererenrerereerernnenernnensneen nee ernnernn
+            een r ennen een n enn nn enar Smuggling av svald narkOtika....smsseesesesesressrrnnrrnrsnesnenennensnnnn
+            SMåmålSlägeNassonsssseeneereneerenereenesnennenrennennenern ennen
+            renen nrnr renen nn nn nn Snatteri beloppsgränsen mellan stöld
+            OCh... ssesssesersrrssnsnrnrnnnnn OordningsbOt fÖr s....smsesrsesressrrrssrrarnsrrsnsrrrernrrrnnnernnern
+            nen nr anna nn åtgärder MO tsssmsmssesreresesrerenreneereenrnrennennenn
+            enar errrnenenen rn nnn nn Social träning i anstalt m.nsmmssssssesssesssresssrarernrrsnnnernnennenn
+            rna n nn SocialförsäkringSmMaål snommmssssssresserseresrerrenerrernerrerrrrerrrrenenenennn
+            nn Socialtjänst, samarbete mellan polis OCH..........sssssssessssnsnenn
+            Solna, POliShUS Iossnsesrerersersrrsrrrrssrrrnsrrrrernnrrnernrnnn
+            rna n ennen annan an SpecialdOmStOlar.....sssssssreseenrenrennrennennnernesnnern
+            narr rrrrrnnsnen nen nn n enn SPIONCI ÅL ooseoseeseerrrersereeenrrrrrrrrrrernrnannrrrennnennr
+            renen n ner nernnn nr nen nn rna nen Statens kriminaltekniska
+            laboratorium, anslag till ............ Statistik över brott aV
+            UNGQ....smeesseessresrrsnreserennrrnesnernennrnrnnnnen Statsbesök,
+            insatser Vid ...................- Statsrådsberedningen, anslag
+            till Statsåklagare för miljömål .mmnssssssssssssesenenenenenensnnnnrnsnnrnn
+            nn rna Stockholms län, länsrättel I.ssmmmmmsessreressrrsrerrrrsrrrsnnrnnrnnrnnnnn
+            nn Stockholmskonferensen ESK =msnosssnsssessssessrerseresnsrernennennnsnnn
+            Stockholmspolisen Straffmaximum för grovt narkotikabrott Straffskärpning
+            vid återfall s.ssmmnmsssssssessesrrenerrrsersrrnnenrnnenrnnnn
+            ann Styrning av ekonomi och resursutnyttjande inom kriminalvården
+            ssmmmssessessesresesneerersnrenrrerererrrenerrrerrernernnnen nen
+            nn nn
+          </p>
+          <p>
+            16 1 19
+          </p>
+          <p>
+            17 17 4y
+          </p>
+          <p>
+            1990/91:JuU Reg.
+          </p>
+          <p>
+            260
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_JuU/reg_199091_JuU_0026"/>
+          <p>
+            Stöld och snatteri, beloppsgränsen mellan...............ss.ssss000-
+            Subversiv verkSamnhet....smsnnsssossrssrrrrssnsrressssnresrsernnnernnnrrn
+            nr nn nn Surrogatdelgivning genom arbetsgivare....................s..s..s.00-
+            Svald narkotika, SMUggliNg AV...sssmmsssesresresressesrenrerernernerernernn
+            nn Svensk författningssamling, anslag till... one Svenskt medborgarSkapP........ssssssssereserrrrsrerrrsrerrrernrerrrnsrrrrerrrnr
+            Sysselsättningsplikten i anStält...........s.ssssssssseseosesesnenennrnnnn
+            rna Säkerheten vid domstolarna (uUppskOV)...........sssesssssssressrnn
+            Säkerhetspolisen ANSlag tillossoossssssssesessresresresnerrrnnrrrsrerrerrernnrnnrnen
+            ennen renen renen n 1952 års tvångsmedelSlag s....s.ssssssrsssesenenenesenennenennnnnnnnnnnn
+            FIKtliNjer oosoosseesserresreersresrrerrererrrnrrerrerrrrarrnennnrrnenn
+            ennen nns n rna Säkerhetssal på Riddarholmen (uppskOV).................s.s..-.
+            Säker hetsskyddet..........sossoosessesnnnennnnrrrenrernnresnrsnnnnrnnnennennn
+            rn nn nn Säker hetSstjäNStel snmmmmsssssssesseeseassrrarennsrnsrensrernrnrrrennrnr
+            ennen nn rn anar Särbehandling av långtidsdömda...........s.sssesesesereneserrsnnnnnnnnn
+            Särskild utskrivningsprÖVNiNg.....sessessessrserseeserrenesnenernrnnn
+            nn nn Särskilda uUngdOmMSNHeM smemessesssseresssersrersrrrrrerrrrrrnensrrnenrnn
+            nn nan Södermalmspolisen i Stockholm = ssmnmessreressererrerenrererrerennrn
+            en Södertälje, POliShUS I.ssmsnmsssessressrenenrereerrererrerrnrerrrrrerrrrnrnrnrnrnn
+            nn
+          </p>
+          <p>
+            Taxisamverkan mot DrOtt.....sssssssssressressesssrennnennenresnnnnennnnn
+            anar Teleavlyssning, hemlig sm..msmmmssosessesserersensernrenesnenrernennenennnn
+            enn rna Telefax vid delgivning sm. smssesseesserssrerrersersrenrrsrrnrsnrnenrerrennnnnnn
+            nan TelefONavlySShiNg...sssmseesssseresseesensssnssseererrrranrnrnsrnnsnrernnen
+            nn nn nan Telefonnummer, hemligt....ssmnmmseesesseseorerseerneenerrenerrererrerennnnnn
+            Teleövervakning, hemlig... TerrorismbekämpninNg s.smmmssoessessrsennnsnesnesnrereernerrernennenernnnnnn
+            nen TEerrOriStlägeD.ssssssssesessrreresssrererererrrrerrrrrrrrnrrrernrrrarrsrrsrnsnr
+            ren rna Tidsgräns för förundersökning ......ssssssesersseseesersesennenennnnnnnnnnn
+            Tillgrepp av fortskaffningsmedel...ssmmmssssesrsrsenenserennenennnnnn
+            Tillsättning av domartjänster Tillsättning av högre tjänster inom
+            polisen Tilläggsbudget I engångsanskaffning av inventarier m.m.,
+            anslag till .... Tilläggsbudget II allmänna advokatbyråer: rörelsekapital
+            m.m., anslag tillossmosssesesesesensereneserrenrrrrennerrrnerennenernnnennnensnensnen
+            rn nan Tillämpningen av terroristlagstiftningen ..................s.s.s......
+            TjänStefel mossssssessesesesresresresrnesrrrrsrrrrrrnnsrerrerrrsnnsnenrerennrner
+            nr renen rna Trafikolycksplats, obehörigt avvikande från .......................
+            TrafikövervakninNg so nmssesseseesressserarssneensensrnrsrsranrensennernen
+            nns nan Tullen och kustbevakningen, polisens samarbete med......
+            Tvångsingripande i kyrka smmmmsssrersessesenrenenerrenenenenenenennnnnnnnn
+            Tvångsmedel lag om fortsatt giltighet av 1952 års tvångsmedelslag...
+            TvångsmedelsbestämmelSer .....mmmmnmsnossssesreseerernenenenenennnennnnnnnenn
+          </p>
+          <p>
+            10
+          </p>
+          <p>
+            2,17 34, 3y
+          </p>
+          <p>
+            1990/91:JuU Reg.
+          </p>
+          <p>
+            27
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_JuU/reg_199091_JuU_0027"/>
+          <p>
+            Uddevalla, pOlishUS dossmnsesessseereerersrerrrsrenenrernrnrrrenrrnernenrn
+            nere nn Umeå, kam marrättsfilal I.ossmmmsssssserrersrerrensrrrrsrerrrrsrrrsrrrnrnnnrrn
+            ns Underhåll och drift av motorfordon m.m., anslag till.......
+            Underrättelse till Målsäganden ...msssssssssosssenenenennnnnnnnnnnnnnnnn
+            Underårig Målsägande...snssmmsresesreserrenesesenenrenesenenesrererenrnren
+            erna Unga fängelsestraff fÖrl...sssssessessesseseersesreseererrerrerrererrererrenrerr
+            nn n nn häktnNilg AV oossmsessessererererersrereresrersrrrrsrrrrersnnnrnrnsr
+            nn rr n nr enn n nn [EV Gl (ST som begått brott, registrering
+            AV.....msssssssssssossosnsornennnrnnnn statistik Över DrOtt QV.....ssmssssessseseessennrrnsnrnnernrnnennnrnnrn
+            nonan nn åtalsunderlåtelse fÖr ssmmmmmsssessesrsrsrarerererranerrrerenenennnn
+            rn an nn nn Ungdomars alkoholmissbruk ssmmnmnssssssesessrererreneorsnernennennnnnnn
+            UngdomsbrottSlighet s.smmmmmssssssessrrsssrnnrenreserernrsnrsnrenrernnenr
+            nn nan Ungdomshem, särskilda sm. mmmsnssreseorernenenrnenrenenereserernenerennrnnen
+            UngdomskOntrakti..snnnessresresenrersneseenesrsrennenernerrenernrnernrnnrnnn
+            nn Ungdomsrotlar hos polis M.flinssmssesssssssrerenesrsrnrnrsnenenennnnnnn
+            Upplopp, polisingripanden vid Uppskov med behandling av vissa
+            ärenden
+          </p>
+          <p>
+            Utbildning av kriminalvårdens personal m.fl., anslag till...............
+            beträffande sexualbrott Mot Darf........ss.ssessssssosrersnnnennnn
+            beträffande vålds- och sexualbrott i MiljöffågOr oossnssresressrererrerenrenernenenenennnnenenrrnenenenenenen
+            rn rn enn inom pOlisväsendet....sseseeseesresrsreenereesesnresesrerenrnnennenn
+            enn n en Utländsk dOMStOL....sssssssessressresrerssrensnarrrnnennnennennenn
+            ennen nrn nn nnn Utomlands, offer för DrOtt s......mnmssssssssseresessrrrrerenrerennrrerrrr
+            enn na Utredning av kriminalvården.........ssssssesrsesenesrnnennnnnnnnnnnnnnnn
+            nn Utredningar, anslag till. smsmmmmmsssssssssesresersernernenerrrnrnnsnnrnrnn
+            nn nn nn Utrustning för kriminalvården, anslag till.................o.oss0--
+            Utrustning m.m. för polisväsendet, anslag till....................
+            Utrustning till domstolar m.m., anslag till.....smmm.s.s.sss0s0n&gt;
+            UtvecklingSsSstÖrda s..ssmmsseessressresenansnennnesrrnsnrnrrennennrnnenrnrnnennrrn
+            nn Utvisning, beslut OM smsmmmsssssesssreresssrsesnrsrensnrernrernrnrnnnrennn
+            nen nn nan
+          </p>
+          <p>
+            Utvärdering av kriminalvårdsreformen
+          </p>
+          <p>
+            VapenamnNeStis..ssssmssserresessrernsesrrrnsrnernrennennrenrrenrsnnrn
+            nr nn ennen rn nn en Vapenlagehmsssseesreseeessssreersrenneerernerrnnrsrrsrnnsrnrerrennene
+            rr rn nr nn nn VapenregiSterl somssssesseresessrarssessrersrnesrsennrrnrsnrrrrnsrnrensrnnen
+            nn rr rn nn Verkställighet av fängelsestraff utomlands Verkställighetsinnehållet...........ssssossssssoeseneesenenenenenennnnenennn
+            nan Villkorlig frigiVNiNg smmissssssessesseserersreeneersersnnernerennrnrnrrnerernnrnenn
+            Villkorligt fängelse i stället för villkorlig dOM smsmmmnsesssessrenerrenernenernrnnrnrnnnn
+            nn vid kontraktsvård vid samhällstjänst Visby, ny kriminalvårdsanstalt
+            1.....n.n..s.sssssessesesesrssenrssennnrnnna
+          </p>
+          <p>
+            Vissa domstolskostnader m.m., anslag till......smnmmm.ss.sssssosn&gt;
+            Vissa frågor Om pOlisregiSter sm. smmmmesesssreenenrerersennsnenenennnnnnnn
+          </p>
+          <p>
+            17, 34,
+          </p>
+          <p>
+            19,
+          </p>
+          <p>
+            23 18 23 3y 21
+          </p>
+          <p>
+            19 19 19 19 19 10 19 23 19 19 19 36 35
+          </p>
+          <p>
+            1990/91:JuU Reg.
+          </p>
+          <p>
+            28
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_JuU/reg_199091_JuU_0028"/>
+          <p>
+            VittnesatteSter.........ss.sssooseonsseosennsernsnnesnresnnnrnnrnnrernennnrnn
+            rr nr rn rna Vålds- och sexualbrott, utbildning beträffande ...................
+            NET SY Te MA Våldsmän, behandling aV...smsesessrsssssrsrsrsrersenenenrnrnnnnnnnnnn
+            nanna Våldsskild ring ss ssmmnmssrsnseseereesoeserserennnrrrrrrerrerennernennrnrn
+            nr ennen ann Vänersborg, pOliShUS i ..ssmmmnsssssessrerernrenrnnnrnnnrennrennsnnrrn
+            nen nr nnnn
+          </p>
+          <p>
+            Yrkesutbildning i anStält......s.sssssssessssreseseorenenenrensernsnrnrrnnnrnnnn
+          </p>
+          <p>
+            Åklagare och polis, förhållandet mellan .....ssssssessenssnonnnn
+            Åklagarmyndigheter, lokalförsörjning fÖr s........s.s---ss=rr
+            rr Åklagarmyndigheterna, anslag till ...............sssssssssnooonnnnnn
+            Åklagarväsendet förändringsarbete iNOM smmmmmsssssssrerersesrererenrserrssnrnerennnnn
+            nn riksåklagaren, anslag till.......n.nn.s......---- åklagarmyndigheterna,
+            anslag till Åldersgräns ööseeeneeeeeen een nernnerrnr snar enn
+            rr ennen nen n es eern nere n rn ren n nn nn Åtalsunderlåtelse
+            fÖr UNGA sosessrersrersreserererrrrererrrerrrnrerrerrrrrrnrrrrrrr
+            renen nens n nn nanna rapporteftergift OCH s..........ssossosereseorennennenennrrnenrenernenn
+            nn rna vid narkotikabrott ..........s.ssessessrssersensennennnnernenrenenner
+            nen nnnen Återfall, straffskärpning VIC ss.ssssssssesseseseererennrrrnennernrrnnnrnn
+            nan Återkallelse av PASSoooosesoreereersrersrrrerererrrrrrnrnnerrrrennrernnnrrrnnrnr
+            ann Åtgärder MOL SNAterioooossssesreresrererersrrersnrnnnnnnnnn
+            nen enn ernnnn nn n nns
+          </p>
+          <p>
+            ÄNdFringSsdiSpeNS.......sssssesssssenosnssrrnnerserennnesrererrnnnnnnnnnsrrrnnnnnn
+          </p>
+          <p>
+            Öppnande av delgivningsförsändelSe ...............s..ssn Övergrepp
+            I FÄltlSSak oooooosseeesressrersrreserrerrrnnrrnrrennrrnnennennrnn
+            nr n nn nn Övergångshem inom kriminalvården............sesssesesssrsnnnnnnnn
+            Överklagande av dOmsSKkäl..........sssssssssssossnooonssnnnnnnsssnnnnnnn
+            enn Översyn av rättshjälpslagen .............ssssseooossesssssssnnnnnnnnn
+            Översyn av straffskalorna för narkotikabrott......................
+            Översyn, VApPEenNlag sooseessesseressrrsrenrrrrsrrrenrennrerrernrsrnennrnnn
+            nn enn nan ÖVErtidSUttäg..........sssssssessnsseoonsssrnnessrsrnnnnarssrnnnnnnnnnnnnsrr
+            en nnnnn
+          </p>
+          <p>
+            29 23 11 17 21 23
+          </p>
+          <p>
+            17
+          </p>
+          <p>
+            1990/91:JuU Reg.
+          </p>
+          <p>
+            29
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_JuU/reg_199091_JuU_0029"/>
+          <p>
+            gotab 98956, Stockholm 1991
+          </p>
         </div>
       </div>
     </body>

@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="reg_199293_KrU">
   <teiHeader>
     <fileDesc>
       <titleStmt/>
@@ -19,214 +19,1057 @@
   </teiHeader>
   <text>
     <body>
-      <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_KrU/reg_199293_KrU-000.pdf"/>
+      <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_KrU/reg_199293_KrU_0000"/>
       <div type="gBody">
         <div>
-          <p>Kulturutskottets register vid riksmötet 1992/93</p>
-          <p>Betänkanden</p>
-          <p>Nr KrUl Arkeologiska kostnader Utskottets justering Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer</p>
-          <p>Nr KrU2 Museifrågor Utskottets justering Debatt i kammaren Protokollshummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnhummer</p>
-          <p>Nr KrU3 Tornedalsfrågor Utskottets justering Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnrhummer</p>
-          <p>Nr KrU4 Bevarande av kulturmiljöer m.m. Utskottets justering Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer</p>
-          <p>Nr KrUS Lokalfrågor Utskottets justering Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer</p>
-          <p>1 Riksdagen 1992/93. 13 saml. Register</p>
-          <p>1992-10-22 1992-11-04 1992/93:16</p>
-          <p>1992-10-22 1992-11-04 1992/93:16 1992-11-04 1992/93:16</p>
-          <p>1992-10-22 1992-11-04 1992/93:16 1992-11-04 1992/93:16</p>
-          <p>1992-11-12 1992-12-02 1992/93:36</p>
-          <p>1992-11-12 1992-12-02 1992/93:36</p>
-          <p>El</p>
-          <p>PY ry</p>
-          <p>1992/93 KrU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_KrU/reg_199293_KrU-001.pdf"/>
-          <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_KrU/reg_199293_KrU-002.pdf"/>
-          <p>Nr KrU6 Skydd för ortnamn</p>
-          <p>Utskottets justering | 1992-11-12 Riksdagens beslut: Bifall till utskottets hemställan 1992-12-02 Protokollsnhummer 1992/93:36 Nr KrU7 Filmpolitiken (prop. 1992/93:10) Utskottets justering 1992-11-24 Debatt i kammaren 1992-12-09 Protokollsnrummer 1992/93:41 Riksdagens beslut: Bifall till utskottets hemställan 1992-12-09 Protokollsnhummer 1992/93:41 Riksdagsskrivelse 1992/93:60 Nr KrU8</p>
-          <p>Agande av den avgiftsfinansierade radio- och TV-verksamheten m.m. (skr. 1992/93:147)</p>
-          <p>Utskottets justering 1992-12-15 Debatt i kammaren 1992-12-17 Protokollsnhummer 1992/93:47 Riksdagens beslut: Bifall till utskottets hemställan 1992-12-17 Protokollsnummer 1992/93:47 Riksdagsskrivelse 1992/93:151 Nr KrU9</p>
-          <p>Tilläggsbudget I inom Finansdepartementets och Kulturdepartementets områden (prop. 1992/93:105 bil. 6 och bil. 8)</p>
-          <p>Utskottets justering 1993-02-25 Riksdagens beslut: Bifall till utskottets hemställan 1993-03-17 Protokollsnhummer 1992/93:77 Riksdagsskrivelse 1992/93:193 Nr KrU10</p>
-          <p>Kostnader för Sveriges medlemskap i Unesco m.m. (prop. 1992/93:100 bil. 9)</p>
-          <p>Utskottets justering 1993-02-25 Debatt i kammaren 1993-03-17 Protokollshnhummer 1992/93:77 Riksdagens beslut: Bifall till utskottets hemställan 1993-03-17 Protokollsnummer 1992/93:77 Riksdagsskrivelse 1992/93:194</p>
-          <p>1992/93:KrU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_KrU/reg_199293_KrU-003.pdf"/>
-          <p>Nr KrU11l</p>
-          <p>Stöd till trossamfund m.m. (prop. 1992/93:100 bil. 14)</p>
-          <p>Utskottets justering Debatt i kammaren Protokollsnhummer Riksdagens beslut: Bifall till utskottets hemställan Protokollshummer Riksdagsskrivelse</p>
-          <p>Nr KrU12</p>
-          <p>1993-03-09 1993-03-17 1992/93:77 1993-03-17 1992/93:77 1992/93:195</p>
-          <p>Ungdoms- och folkrörelsefrågor m.m. (prop. 1992/93:100</p>
-          <p>bil. 14) Utskottets justering Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnrhummer Riksdagsskrivelse</p>
-          <p>Nr KrU13 Folkbildning (prop. 1992/93:100 bil. 9) Utskottets justering Debatt i kammaren Protokollshummer Riksdagens beslut: Bifall till utskottets hemställan Protokollshnhummer Riksdagsskrivelse</p>
-          <p>Nr KrU14 Idrott (prop. 1992/93:100 bil. 8) Utskottets justering Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse</p>
-          <p>Nr KrU15 Turism (prop. 1992/93:100 bil. 13) Utskottets justering Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till utskottets hemställan Protokollshnummer Riksdagsskrivelse</p>
-          <p>1993-02-25 1993-03-17 1992/93:77 1993-03-17 1992/93:77 1992/93:196</p>
-          <p>1993-02-25 1993-03-17 1992/93:77 1993-03-17 1992/93:77 1992/93:192</p>
-          <p>1993-03-18 1993-04-01 1992/93:88 1993-04-01 1992/93:88 1992/93:254</p>
-          <p>1993-04-13 1993-04-29 1992/93:102 1993-04-29 1992/93:102 1992/93:314</p>
-          <p>1992/93:KrU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_KrU/reg_199293_KrU-004.pdf"/>
-          <p>Nr KrU16 Anslag till Kulturdepartementet, m.m. (prop. 1992/93:100 bil. 12)</p>
-          <p>Utskottets justering 1993-02-25 Riksdagens beslut: Bifall till utskottets hemställan 1993-03-17 Protokollsnhummer 1992/93:77 Riksdagsskrivelse 1992/93:197 Nr KrU17 Overgripande kulturfrågor Utskottets justering 1993-03-18 Debatt i kammaren 1993-04-01 Protokollsnummer i 1992/93:88 Riksdagens beslut: Bifall till utskottets hemställan 1993-04-01 Protokollsnhummer 1992/93:88 Riksdagsskrivelse 1992/93:249 Nr KrU18 Allmän kulturverksamhet m.m. (prop. 1992/93:100 bil. 12) Utskottets justering 1993-03-18 Debatt i kammaren 1993-04-01 Protokollsnummer : 1992/93:88 Riksdagens beslut: Bifall till utskottets hemställan 1993-04-01 Protokollsnhummer 1992/93:88 Riksdagsskrivelse 1992/93:250 Nr KrU19</p>
-          <p>Ersättningar och bidrag till konstnärer (prop. 1992/93:100 bil. 12)</p>
-          <p>Utskottets justering 1993-03-09 Debatt i kammaren . 1993-04-01 Protokollshummer 1992/93:88 Riksdagens beslut: Bifall till utskottets hemställan 1993-04-01 Protokollshummer ; 1992/93:88 Riksdagsskrivelse 1992/93:251 Nr KrU20 Teater, dans och musik (prop. 1992/93:100 bil. 12) Utskottets justering . 1993-04-13 Debatt i kammaren 1993-04-29 Protokollsnhummer 1992/93:102 Riksdagens beslut: Bifall till utskottets hemställan 1993-05-05 Protokollsnrummer 1992/93:105 Riksdagsskrivelse 1992/93:315</p>
-          <p>1992/93:KrU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_KrU/reg_199293_KrU-005.pdf"/>
-          <p>Nr KrU21</p>
-          <p>Bibliotek, bildkonst, konsthantverk m.m. (prop. 1992/93:100</p>
-          <p>bil. 12) Utskottets justering Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse</p>
-          <p>Nr KrU22 Arkiv (prop. 1992/93:100 bil. 12) Utskottets justering Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse</p>
-          <p>Nr KrU23 Kulturmiljövård (prop. 1992/93:100 bil. 12) Utskottets justering Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse</p>
-          <p>Nr KrU24</p>
-          <p>Museer och utställningar (prop. 1992/93:100 bil. 12)</p>
-          <p>Utskottets justering Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse</p>
-          <p>Nr KrU25</p>
-          <p>1993-03-18 1993-04-01 1992/93:88 1993-04-01 1992/93:88 1992/93:252</p>
-          <p>1993-04-13 1993-04-29 1992/93:102 1993-05-05 1992/93:105 1992/93:316</p>
-          <p>1993-03-18 1993-04-01 1992/93:88 1993-04-01 1992/93:88 1992/93:253</p>
-          <p>1993-04-13 1993-04-29 1992/93:102 1993-05-05 1992/93:105 1992/93:317</p>
-          <p>Inredning och utrustning av lokaler för kulturändamål (prop.</p>
-          <p>1992/93:100 bil. 12) Utskottets justering Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse</p>
-          <p>1" Riksdagen 19921/93. 13 saml. Register</p>
-          <p>1993-04-13 1993-04-29 1992/93:102 1993-05-05 1992/93:105 1992/93:318</p>
-          <p>1992/93:KrU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_KrU/reg_199293_KrU-006.pdf"/>
-          <p>Nr KrU26 Anslag på massmedieområdet (prop. 1992/93:100 bil. 12)</p>
-          <p>Utskottets justering 1993-04-13 Debatt i kammaren 1993-04-29 Protokollsnummer 1992/93:102 Riksdagens beslut: Bifall till utskottets hemställan 1993-05-05 Protokollsnhummer 1992/93:105 Riksdagsskrivelse 1992/93:319 Nr KrU27</p>
-          <p>Den avgiftsfinansierade radio- och TV-verksamheten (prop. 1992/93:100 bil. 12)</p>
-          <p>Utskottets justering 1993-05-13 Debatt i kammaren 1993-06-02 Protokollsnummer 1992/93:120 Riksdagens beslut: Bifall till utskottets hemställan 1993-06-02 Protokollsnhummer 1992/93:120 Riksdagsskrivelse 1992/93:376 Nr KrU28</p>
-          <p>Ägande av den avgiftsfinansierade radio- och TV-verksamheten (prop. 1992/93:236)</p>
-          <p>Utskottets justering 1993-05-13 Debatt i kammaren 1993-06-02 Protokollsnummer 1992/93:120 Riksdagens beslut: Bifall till utskottets hemställan 1993-06-02 Protokollsnummer 1992/93:120 Riksdagsskrivelse 1992/93:377 Nr KrU29</p>
-          <p>Forskning för kunskap och framsteg (prop. 1992/93:170 bil. 8 och bil. 11)</p>
-          <p>Utskottets justering 1993-05-13 Debatt i kammaren 1993-06-03 Protokollsnummer 1992/93:121 Riksdagens beslut: Bifall till utskottets hemställan 1993-06-04 Protokollsnhummmer 1992/93:122 Riksdagsskrivelse 1992/93:396 Nr KrU30 Uppskov med behandlingen av vissa ärenden Utskottets justering 1993-05-13 Riksdagens beslut: Bifall till utskottets hemställan 1993-05-27 Protokollsnummer 1992/93:117</p>
-          <p>1992/93:KrU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_KrU/reg_199293_KrU-007.pdf"/>
-          <p>Nr KrU31 Ny organisation för Dialekt- och ortnamnsarkiven samt svenskt visarkiv m.m. (prop. 1992/93:150 bil. 9)</p>
-          <p>Utskottets justering 1993-05-19 Riksdagens beslut: Bifall till utskottets hemställan 1993-06-02 Protokollsnhummer 1992/93:120 Riksdagsskrivelse 1992/93:378</p>
-          <p>Yttranden till andra utskott</p>
-          <p>Nr KrUly till EU Europeiska ekonomiska samarbetsområdet (EES) (prop. 1991/92:170 bil. 10, bil. 11 och bil. 12)</p>
-          <p>Utskottets justering 1992-08-20 EU01 Debattdag 1992-11-18 Protokollshnummer 1992/93:26 Riksdagsskrivelse 1992/93:18</p>
-          <p>Nr KrU2y till BoU Samerna och samisk kultur m.m. (prop. 1992/93:32 bil. 3)</p>
-          <p>Utskottets justering 1992-11-17 BoU8 Debattdag 1992-12-15 Protokollsnhummer 1992/93:45 Riksdagsskrivelse 1992/93:115</p>
-          <p>Nr KrU3y till KU Privat lokalradio (prop. 1992/93:70)</p>
-          <p>Utskottets justering 1992-12-03 KU1S Debattdag 1993-02-24 Protokollsnummer 1992/93:67 Riksdagsskrivelse 1992/93:168</p>
-          <p>Nr KrU4y till FiU Ny organisation för förvaltning av statens fastigheter och lokaler, m.m. (prop. 1992/93:37 bil. 1)</p>
-          <p>Utskottets justering 1992-11-24 FiU8 Debattdag 1992-12-15 Protokollsnummer 1992/93:45 Riksdagsskrivelse 1992/93:123</p>
-          <p>1992/93:KrU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_KrU/reg_199293_KrU-008.pdf"/>
-          <p>Nr KrUSy till FiU Åtgärder för att stabilisera den svenska ekonomin (prop. 1992/93:50 bil. 7)</p>
-          <p>Utskottets justering 1992-11-24 FiUl Debattdag 1992-12-16 Protokollsnhummer 1992/93:46 Riksdagsskrivelse 1992/93:134</p>
-          <p>Nr KrU6y till KU Redogörelse för behandlingen av riksdagens skrivelser till regeringen (skr. 1992/93:15)</p>
-          <p>Utskottets justering 1993-02-23 KU30 Debattdag 1993-05-26 Protokollsnummer 1992/93:116 Riksdagsskrivelse 1992/93:349</p>
-          <p>Nr KrU7y till BoU Länsstyrelsernas ansvar för kulturmiljövård (prop. 1992/93:100 bil. 14)</p>
-          <p>Utskottets justering 1993-03-09 BoU17 Debattdag 1993-04-15 Protokollsnummer 1992/93:92 Riksdagsskrivelse 1992/9:283</p>
-          <p>Nr KrUg8y till BoU Kulturstöd vid ombyggnad m.m. (prop. 1992/93:100 bil. 12)</p>
-          <p>Utskottets justering 1993-03-09 BoU16 Debattdag 1993-04-15 Protokollsnummer 1992/93:92 Riksdagsskrivelse 1992/93:282</p>
-          <p>Nr KrU9y till AU Finansieringen av ökat stöd till kvinnoorganisationernas centrala verksamhet (prop. 1992/93:100 bil. 14)</p>
-          <p>Utskottets justering 1993-02-25 AU9 Debattdag 1993-03-10 Protokollsnummer 1992/93:72 Riksdagsskrivelse 1992/93:187</p>
-          <p>1992/93:KrU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_KrU/reg_199293_KrU-009.pdf"/>
-          <p>Nr KrU10y till UU Radioprogramverksamhet till utlandet (prop. 1992/93:100 bil. 4)</p>
-          <p>Utskottets justering 1993-03-23 UU14 Debattdag 1993-04-28 Protokollsnhummer 1992/93:101 Riksdagsskrivelse 1992/93:296</p>
-          <p>Nr KrUlly till SoU Stöd och service till vissa funktionshindrade (prop. 1992/93:159)</p>
-          <p>Utskottets justering 1993-03-23 SoU19 Debattdag 1993-05-05 Protokollsnummer 1992/93:105 Riksdagsskrivelse 1992/93:321</p>
-          <p>Nr KrUl2y till LU Andringar i upphovsrättslagen (prop. 1992/93:214)</p>
-          <p>Utskottets justering 1993-05-06 LU44 Debattdag 1993-06-04 Protokollsnhummer 1992/93:122 Riksdagsskrivelse 1992/93:413</p>
-          <p>Nr KrU1l3y till JuU Ny ordningslag m.m. (prop. 1992/93:210) Utskottets justering 1993-04-29 JuU36 Uppskov</p>
-          <p>Nr KrUl4y till FiU Kompletteringspropositionen (prop. 1992/93:150 bil. 7 och bil. 8)</p>
-          <p>Utskottets justering 1993-05-13 FiU30 Debattdag 1993-06-09 Protokollsnrummer 1992/93:125 Riksdagsskrivelse 1992/93:447</p>
-          <p>1992/93:KrU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_KrU/reg_199293_KrU-010.pdf"/>
-          <p>Sakregister</p>
-          <p>Akademien för de fria KONSterNaå .......sssssosserserssoseerrrrnrrrrnnnnnn AmatörkultUr.........osssossssossreserrserererrrerrerrerrrererrrrnrrnrrrrrrrrrr rr rna Arkeologiska kOStnader......sessessesssssessresernnesernesnnsnennennernrnrnnnn Arkiv</p>
-          <p>Dialekt- och ortnamnsarkiven samt svenskt visarkiv .. Immigrantinstitutet i Borås Landsarkivet i Härnösand......... Landsarkivet i Jönköping ......... Landsarkivet i Vadstena............ landsarkivorganisatiON€n ......sssssssssssesssserrernesnennrnnennnnen nan IOKkalfrågOr osnsnssssrsenenrenerenenrerererererernrnrnnerenennnnrnnnnenen annan ann mikrOfilmnNinNg somsmssssssseessersneesersrennennennernnrrrrrnsrrsnrn nn nn nn n a resursöverföring vid leverans av arkivalier ...................</p>
-          <p>svenskt barnbildsarkiV s..sosssssssesserersersrresnrrnrnnrrnernnnnnrn nn nn Svenskt biografiskt lexikOnD.......ossssesesrersnenesnenenennnnenernnnnnn</p>
-          <p>Barn- och ungdomsdelegation€nN..........ssssssssosssesesrnrsnenennnnnnnn Barn- och ungdomskultur barnkulturCentrUum ss smmssssssssrssresresrenrenesnerrnrnennrnnrnernrn nn nn EES-avtalet......ssssssssoosenennennennenennesrerennsnenenrerennsnenenenennnnn rna PriOriteriNng AV..smmsmsssssssosessnensnenrennernrernennsrernernnrnrnrrn nen rn nn nn Bibeln, kvinnoperspektiV........ss.ssssssossoserserseonesenenesnennenernnnnn nn Bibliotek</p>
-          <p>bibliotekSlag .......ssssssoseseonnannnennrrrrenrernernrnnennrnerrrrnennr nn rn nen ersättning åt författare ....................ssssseossesrsesrsrrnnnnnnnnnnn nn folkrörelse- och bibliotekSmuUSeUM s......sssssssesessennnnnnnnnnn litterära verk, uthyrning äV s..msmmssssssessennensrnnesennnnnennnnnn rna nationell bibliotekspOlitik = mmssssssssesssrssersrssesernenennnnnnnnnnn regional biblioteksverksamhet .........s.ssssssssesenrnrnnenrnnrnnnn Talboks- och punktskriftsbiblioteket (TPB) ................. Bild- och formkonstnärer, visningsersättning..................... Biografbyrå, StatensS.................o.ssessssorsesesenennnrnnnnnnnnsnnnnsnnnnen Bokhandel, stöd till.........ssssssssssssssroseserrrenrnsererrrrrrrrrrnnnrrrrrnnn nn Bokmarknaden, utvecklingen av smmmmsnnssssseesrenesnnnnennnnrnnn nr Borås folkrörelse- och biblioteksmuUSeUmM s...smnmsmssessssssrsnsnnnnnnnn Immigrantinstitutet TExtilMUSCUM sososssssesserrorerrrreerrrrrrrrennrrnrnrnnnrnnrrnner rann annan nn</p>
-          <p>1992/93:KrU Reg.</p>
-          <p>10</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_KrU/reg_199293_KrU-011.pdf"/>
-          <p>Botkyrka Stiftelsen Sveriges Invandrarinstitut och Museum....... Byggnader, upphovsrättsligt skydd vid ändring .................- Centrumbildningar. .......sssessessressressrrssnnrsnrrnnrnrnrnernrennrnrrn rn nnn nn Dans ArTANgÖFrSStÖC.......ssesesserssererersnersnerrnnersrsennsrnsrnrrnrrnrrnrnnrn nn Dansens HUS sssssnssesssererserenensnreserrrerenrnnrsrnrnerrnernrrnnnrnn nn anna fria teater-, dans- och musikgrupper .........sesssessesernsonnnn länsdanskonsulent i Östergötland ..................smssss regionala och lokala teater-, dans- och musikinstitutiONer ...........osssseseossesersresennnnnenernennsnrnrnnrnrn nn nn utredning om danslivets utveckling................-+=s-=-------- "Doktorand"-stipendier på det konstnärliga området ....... Dramatiska teaterf s.smmmmmssssssssesennsnsnrsrerernenrrnsnrnenenernrr en en en en nnn Droit de SUit€ sssssssesessrersrnersernrrrrnrrnrrerrrrrr es nen nrerer nes nrn ennen erna EES-avtalet ANPASSNING ooosoosesersrerseeeeereresenrrreresrennnnenennenenenenrnn nr nn nn nn nn kulturminneslagstiftningen s..smmmmmssssrssssesrsseerenennnnnnrnnnnnnn kulturområdet.............essosssesesesseorsesesresrnrnsnnsnnrnnrnrrnsrnnrnnnnn medieOmrådet .........sssoseororereeeresrernenenrrrernennnrnnnnnnenrnsnen nn nana [455 6 1554 VR UNgdOMSfrågOr s..ossssseserenesrerenererrernenennrnennnnsnrnenenenenennnnnnn nns Egenavgiftsfond för kulturskapar€ m.....s.sesesseresesessrsenesnnsnnnnnn Ersättning till rättighetshavare på musikområdet .............. Ersättning åt författare m.fl. för utlåning av deras verk genom bibliotek M.M. somssssssrssersrnsresernernrernernerernnnnrnnrnr renen nn Eskilstuna Gamla teatern med teaterhistoriskt Museum ............... nationellt barnkulturcentrUum ...ssssssssesersersersrsnrrnnrnnn nan Europeiska ekonomiska samarbetsområdet (EES) ............ Fastighetsförvaltningen, statliga..................sessssessesesrsssesnsenent Film biOgrafStÖd s........sseeeseseereerrerenerernersenrenennenenenenerer ennen nr enen nan bransChStÖd .........s.sssesesseseeseonrerernesnnnnnrnernnsnsnnnnenennrnrn nn n nn efterhandsstöd filmens roll i det lokala kulturlivet s.....s..eeeememssnennsn Filminstitutet, Stiftelsen Svenska filmkonsulenter s..snnnmmssssressrrnnrnn nana filmkulturell verksam het.....sssssnsssssssrensnsnensnennnrernnrnnnnnnnnn filmkulturella insatser för barn och ungdom ..............- film- och videoavtal (filmavtalet).............ssssssossennsonsnnnnn Filmpool Jämtland s..ssmmssssresessesersnnrnnsnnrnnersnnrnenernnnennrnnn nn Filmpool NOIC....sssseseeseesennennenernnesnnnnerrrnnnnennn filmproduktion, stöd till........ms.sssess-s--s&gt; &gt;&gt;&gt; filmutvecklingsarbete, regionalt.................</p>
-          <p>för handSStÖd ...........ssssssesserererrosererrerrrrererrnrrrrrrnrrrrrrnnnnnnnn nen</p>
-          <p>12y</p>
-          <p>1992/93:KrU Reg.</p>
-          <p>11</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_KrU/reg_199293_KrU-012.pdf"/>
-          <p>import av VUXenfilm semmmssessssssssssssrresrsnseresnesnenennrnennrnennn nn 7,26 1992/93:KrU Reg. regional filmproduktion s...ssssessssssessrsereseserenenernrnennrnrnnn nn 7, 26 spridning och visning av värdefull film, främjande</p>
-          <p>AV oosseresrerereeerrerrereeeserrsresrrrrrrrrerenrnnr rr ers enar eran sann narr sn nr enn nn nn 7 spridningsplan för visning av filmer =. smmmmmsssssssesnenrnnnnn 7 Vide€OStÖd s.osseseesseeesrrrsrersrrrrrrerrrernnernrrrnnrrrernnsrnrsnn ren nr nn rn nen nn 7 ViSNiNgSsOrganisatiON€r.....s.ssssesseesssreseereseerenrernernennennnnn annan 7 Folkbildning arbetsmarknadsanpassad utbildning ...............ssssssssssr&gt;&gt; 14y folkhögskoleverksSamhet .snnsmssssssssssssessnesnesnssrnennernennennnn 13, Sy, 14y funktionshindrade, stöd och service till.......................- lly handikappåtgärder.........ssssssssooessrsrsensrssnnrnersrnrnerensnnrnsrn nan 13 Skurups folkhögSskOla s.ssmmnesesrereseresrernerenererrernerrerrsnerernnn nn 18 statsbidrag, utbetalningsperioder fÖr ..................-..s.s--=-- 13 studieförbundsverkSamhet.......sssssssssrorssseesersrrrrrrrrerrnnrnna 13, 14y utbildning för arbetslösa ..............sssssssressesesresensenennnnnnnn an 13, 5y utbildning på högskolenivå inom studieförbunden ..... 13, 14y Folkens museum —etnografiska, namnbyte ........n.nsessosensnnn 2 FOIKOPEIAN oososesesesreserresrerenenrarenranenenernrrernsnnnrnenrn nn nn 20 Folkrörelse- och biblioteksmuseum i Borås 2 Folkrörelser [NORS ET Ar 12 barn- och ungdomsverksamhet ..................... 12 Folkets hus-rörelS€nf ss ssmmsssssssssesesrsrenenenenrnnerennennnnenrnnnnnnn 12 folkrörelse- och biblioteksmuseum i Borås .................. 2 lotterier OCh SPCÅ =mossssssssesessesrereenerrenrernererrnrnrrnnnnrnnnnnnenn nn nn 30 organisationsbidrag, nedskärning aV..........s..ss.sesssssnsnenn 12, 14y Fonogram och musikalier, stöd till s.smnmmnmsssssssssssessennnennnnnna 26 Form/Design Center i Malmö s.ssssssssesenenerennenernerernennenennn nn 18 Formkonstnärer, vVisningsersättniNg ............sssssssssersennenennnnn 19 Forsknings- och utvecklingsinsatser inom kulturområdet......... 29 Fotografirätten ............s.ssssssoseoonnnnnn 12y Fotografiska Museet.......................- 2 Fria teater-, dans- och musikgrupper .... 20 Främjande av hemslöjden.......ssssssssesesesernrrsenenennsrenrsnennsnennn nen 21 Funktionshindrade, stöd och service till...........ss.sssssson0n0n0n lly Författare m.fl., ersättning för utlåning av deras verk genom bibliotek Mum. .ssssssessesesresreserserresenrnerrernnnnnnn rer nsn nn anna 19 Förvaltning av statens fastigheter och lokaler, ny Organisation fÖr.......ssssssssrseresrrresenrerenenrnrenenereneen nen nen annan enar nen ana 4y Förvärv av konst för statens byggnader m.m. s...msos.s.sss0n0n 21 Glimmingehus sssssnseeeesenrseseerrrenernesrenernrrnesnrnnrrrrn nr n ennen nnrn ennen nn 4 Gotland, statliga grundbelopp på teaterområdet ................ 17 Grängesberg, gruVmuUSCUIM sumsmsmssrsssssesseresenenennennrnrnnsnrn nn nn nn 30 Gudstjänst, framförande av verk ViCL..............ssssssssssesnnnsenennn 12y Göteborg Göteborgs Opera susmsnsossssrsrsrsenrnrnrsersrsrsrnrsrnrsnnnrnsnrnnnrnrnrnnn 20</p>
-          <p>Röhsska mMuUSECCt sssnnnnnsssssrsssrsesseseereressressessessssenerernnnnrrrrr rna 17 12</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_KrU/reg_199293_KrU-013.pdf"/>
-          <p>HemslÖJjd osossneeerererrereanennanernnarennsrsnrnenernernenenenenerernrnenenenrrnrn ennen nn Härnösand, landsarkivet ssssmmsssssssersrerrrrrerrerrerennsnnrenrrrnnnnnnnnn nn</p>
-          <p>Ideell verksamhet, anslag till... ......sssssssssssonsennernsnnnsnnennnnnnnn nn Idrott</p>
-          <p>JäMStällddossosssseseseereererenrererrererenenrnn enn erenenennrnenenenn ronne nen nn nerna kvinnoorganisationernas centrala verksamhet ............. professionell boxning sameidrott UtreCNiNQ.ssssosesesresenrenennerernersnenernennenenrnerenennrnrn ennen rn enn nenn Immigrantinstitutet i BOrÅS ............ssssssssosroseosessrnsnnnnnsnnrnnnn Inkomstgarantier för KONStNärer .....sssssssssesesenesenennsennnnnennnnn Inredning och utrustning av lokaler för kulturändamål... Internationaliserad kultur, parlamentarisk utredning....... Internationellt kulturutbyte =....mmessssessersssrersrrrenerennnnrnennnnn nn Internationellt samarbete m.m., anslag till .......nsnmsm...s.ss-0 &gt;&gt; Invandrarinstitut och museum i Botkyrka ..............se-sss-0 Invest in Sweden, Styrelsens för Sverigebilden befattning Med susmmmseseeeerrnrrenresenrennenrrnnnenennenerner nen nnner enn r nn nn nan</p>
-          <p>Jämtlandsmodellen på teaterområdet ..............s.sssssssnsnsn Jönköping, lokalisering av landsarkiv s...meeseseserersesrersnnnnnn</p>
-          <p>Kabelnämnden</p>
-          <p>stöd till lokal programverksamhet........ssssssonssnsnnennnnnnnnn Kalmar, lokalisering av landsarkiv s..ssmmmmmsssorereeeseossnrnrnnnnnnnr Kompletteringspropositionen folkbildning, bidrag till... ....mmmmsssssessessesn nn lokalbidrag till trossamfunden organisationsbidrag, nedskärning aV.........s..eesmssn statliga byggnadsarbeten .w...mmsssesserrossenenrnnnnenenenerrensnennn nn Konserthuset i Stockholm smsmnmnrssssseessrsrsnenernernesernnsnernrrnennr nr Konst där Vi DOT osssssnnesseeseeserssessenreseresnrnsrerereenesnesren ennen nrn enn nn nn Konstfrämjandet ssmnnmssreseesrersrarserresesnesnnrerenesrenernrsreresnnrnrnn enn nn Konstnärer bidrag till.sssssssssssssssessenennnnsenensnrnenrensnrenrnsnrnenrnnrrrnen en en rn nen "doktorand"-stipendier s...mmmsssssssssssrrrsesersrrrsnnrnnrnsnnrnnrnnn nn egenavgiftsfond för kONStNnärer .......eeseeseerersrresrsesrnnnnnnnn inkOomstgarantier smosmmsssssssssssrerssrenrrernsernnerernernrnrrnenn rn nn nerna långtidSsstipendier...........seeesssssersesesrsrsensnensnnnersnnrnnnnnrnnnnnnt musikaliska uPPhOVSMäÄn sussossseseesersrsrnrenenenennenenenenennnn nns samverkan med högskolan s...mmmmmsssesesesreneenesrernnnennnnnnnnnn Konstnärsnämnden fi lMStÖG soo oseesreeresrrrrernrerrenrerneneer enes rrnrnernen nen nrn en nrnrrnenn rn rent</p>
-          <p>1992/93:KrU Reg.</p>
-          <p>13</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_KrU/reg_199293_KrU-014.pdf"/>
-          <p>Konstverk, återgivning äV smsmmmssssesesrsnsesrsrsrersenennnenrnnnsnnnnn ann 12y 1992/93:KrU Reg.</p>
-          <p>Kontakttolkutbildning, bidrag till.s.....sssssssssssesssrssssessnenrnnnnnn 13 Kulturdepartementet m.m., anslag smsmmmmmsssrserssrrssrennnnnnnn nan 16 Kulturmiljövård ANSÅG oooeeseesrersrssrresrerrerrrrrsnrrrrrrrrersrrrsennrrrrrssrrsrns nns nr rn nn nn nn 23 arkeologiska massfynd sssmmmesseerressrerrererrrrsrnerrnnsrrenrrrrnn ann 30 decentralisering av freSUrSCI .ssssseessssessrensrennennssnrernnrnnen nr 23 Ekoparken, MallL smisesesesserrseserersreresrererrererrenrenrenernenenen enn 30 GlimmingehUS sssmssssesrsesesesesrsrssrnesesrsreserrsernrrrnrnrner enn nn nn nn nn 4 kulturlandskapSVårA............essssssereresesesenensorernnnserenennnnnnnnn 23 kyrkOreStaUreriNgaål...ssssesssssssseresrenrenerrrrerrenrerrerernrrenen nns 23 Loftahammar, restaurering av 1700-talsorgeln ............. 4 luftförorenings- och försurningsskadOr...................---.-- 4 länsstyrelsernas aNSVåL s.smsmsssssssesresreereerereresrrrnrnsrrrrrrren rann 23, 7y nationell StiftelS€.......sssssssssssrsensenrennnnennrrnenren nns rnnenen nerna nn nn 17 Olof Skötkonung, 1 000-årsminnet av ........s.ssesseosnnnnn 4 Ostindiefararen GÖthebOrg............ssssssrssssersressrerrrsrrnnnnnns 30 OMDbyggnadsSStÖd ...........sssssersesesrerserersenrseneenennrnnnnnrnen ennen anar nn 23, 8y [03 48 911405 VR 6, 30 Riksantikvarieämbetet ...ss.nnnnssssssssessroseesensennrnannennnsnnrnrn enn 23 Råå vallar oosssnnsssssssseossosesenernnrsnnnnrnnn nn 4 rättssäkerhet 23 Sala SilVErgrUVåä.ssssssseneseenresrerersrrnrnrnnerrennennnn near nen nn anna 30 Unescos VärldSsarvsliStå............sssssssssooorerssonereererrnnnrrrnnrnnn 4, 30 upprustning av kulturhistoriskt värdefulla miljöer, extra medel fÖr ssmssssssseseererserrenrrnsrerneerserrsrrnrrnnnnrnnsnnrn nn enn a 23 upprustning av kulturhistoriskt värdefulla miljöer, särskild insatser fÖr s..s.ss.sssssessererrrassrerrrrrrrnrrrsnnrrrrnnrnnenn nan 23 Vadstena SIOtt.............esssossesenesesresrereererenresrrnernennernnnennnnn an 5 Visby kyrkoruiner 4,23 Visby fingmMUlssssssssesssereesesreeseerernrsnrerrenerrerrrrrrrrnnrnnrn nr n annan 4,23 Väderskärs kapell onssmmmmssssssesesesnesnrnenreneenenneneennenennrn enn rann 4 Kulturpolitik amatörkultUri..sssssssssssresenresrenrerernnrennernerrerrrrnn nere nrrnnrnnn rna 18 barn- och ungdomskultUr...........sssssesssesssressrsesserssnsnnnnn nn 17, 18 grundbidragssystemet .........s.ssssseossessrensesennnensnrnnnnnnrnnrnnn nan 17 iNfrastruktUr ooosssssssessesrerrerresesnernrerrrrnrrnnennrrn nr nrn nr nen nanna 17 18 18 17 kulturfond för kulturbyggnader.............s.ssssssssserssennnnn 17 kultursamverkan i VäStSVerige ..mossssesseessserensrensrnnnnnnnnnn 18 kulturstödets inriktniNg........s.sesssssesssessesersennennennsnennnnn nen 17 KulturtUriSmn osssssssesreressrererersrssrrrnsrerrrsrenrsrnennrrnnnnnrernn nen nnn nen 17 MUSECIfFÅgOL ousosesrereresserersrsrrrrrrrererenenrrrrrenenen renen en en rann erna ann 17 NationNalsCENEr ossssssssesesreseeseesenrensnernnrnnern enn rennnnnn ennen ennen nn 17 nationell bibliotekSpOlitik ....smmmss.sesssesssrsserenennnsnnnnennnnnnn 17 parlamentarisk Utredning ........ssssssessresersernrrnnnrennrrnennsnn nar 17 14</p>
-          <p>TegiOnalisCriNg m.ssmsssssssesresresrsresernnrennrnnrerrsn nr n nen n ene nnn nn nn 17</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_KrU/reg_199293_KrU-015.pdf"/>
-          <p>tea terfrågOr s..ssnsssssrsrsrerenerrerserrsrererererernnnrrnenenrrn enar en nan en nn nana 17 1992/93:KrU Reg.</p>
-          <p>1974 års kulturpolitiska Mål .ssmmmmssssrerereserenenrsenennnnnnnnnn 17 Kulturpolitisk utredning....................-.- : 17 Kulturråd, Statens ANSlAG oosoeeseseereserreresrererrererernesenr enn errsnenn aren enn annan ene n eran e nen en nn 18 fOrSkNilNg soooseeesseesrerserersrrersressrerrerrrrrnrerrrrrrnrrnnrnnr nen nn n ennen nana 29 [0872 55 4 RR 17 Kulturtidskrifter 26 26 IYy Litteratur se Bibliotek, Bokhandel, Ersättning åt författare m.fl. för utlåning av deras verk genom bibliotek m.m. och Litteraturstöd Litteraturstöd En bok för alla smsomsmmssssssssesesreseesennrsresennenenernnennrnnrenenrnnnnnn nn 26 kreditgarantier till DOkförläag.............ssssssssrssssseseororsennnnnn 26 prOjektStÖd s.sssssssseseeererrenreerernrerrersrerrerrerrrnnerernrrernrn enn n nn na 26 Loftahammar, restaurering av 1700-talsorgeln ................... 4 Lokala och regionala teater-, dans- och 20 musSikinstitUtiOoN€Cr s..ssmsssssseseesesrersensrrrnnrsnrnnennenernennsnennnnen nn nn nn Lokalförsörjning m.m. för kulturändamål ArkitekturmuUSeet s...smssssseseeseenseenenrennnenennenennerennsnennsnennnn Sy inredning och utrustning av lokaler för kulturändamaål ossmssssseresroreresrererrrereresresrererererenenenenen eran nn 25 Landsarkivet i HärnÖSand.....sssssssssssesseneerenernenennenesnrnrnnnn 5 Moderna MUSECECt...sommmssseressererosrerrrrrererersrrrrrrnnnnrnnnnrnn nn nan Sy ny organisation för förvaltning av statens fastigheter och lOkaler, Mu. ossmssssssseesessrererererrerenerererrnerrrernnrenrrn rna nn 4y Vadstena SIOtt......sssssseseeseesersersrarranrennnerrernennenen nere nrn nn nrnr nen 5 Vissa investeringar m.m., anSläg .smmmmsnsssssesesrenennennnnsnnnnn 14y Lokalradio, PliVåt.ssmsssssssesnrerserresersrrerrrrrnersrrnrrrerennenenn rn enar nn nn 3y Lotterier ideella organisationers små lotterier.............................- 30 kasino i MalmöÖssssnsssesseseerererreneersrererrenerrenenenen ene en enn nn nanna 30 kasinospel i Sverige enligt internationella regler ......... 30 LOtterinämnNdenN osssessessesreseerrrnsrsnnserrnernnennenenren ennen en nere annan 12 upphävande av lagen om automatspel... 30 Luftförorenings- och försurningsskadOor..............s.s-s.s---r-- 4, 23 Långtidsstipendier.........sssssssosesrseneserseenerenersrnenrnnnrnenrnnnnnnnnnnn ann 19 Länsdanskonsulent i Östergötland .................ssssssssoonnn 18 LÖNEDbiIdrag sosseesseseererrerrererersersrrrrerrennnrnn nere nen ennen en renen ene ne nen nnn 17 Malmö Form/Design Center. .ssmsssessesessrenesesnnnnernesnesnrenerrnnennrnnnnnn 18 SLÖT OTTA TE &amp; «Vr 17 15</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_KrU/reg_199293_KrU-016.pdf"/>
-          <p>Museer och utställningar 1992/93:KrU Reg.</p>
-          <p>Arbetets MUSCUIM....smmmmmsossossseeseerersrererrrnsrnererrernnrrrnn nn rn rn nan 24</p>
-          <p>Arkitekturmuseet, nya lokaler fÖr .............sssssssssrsssnsnenn Sy barn- och ungdomsverksamhet, central utvecklingsresurs för MUSCEINAS m.mmmsmmmssseseessennennnsnnnnnnnn 24 Barnens MUSCUM .ssmessesssrerrseeessesrersrnnnersnrnrrnnnrnnrn nn n erna 24 Bildmuseet i Umeå 24 centrala MUSECCI mossmmmssssesssresesrrrssresrrrsrrnrrnnnnn nr nrnn enn nnn renarna 2 Folkens museum —etnografiska ............sssssssssssenesssnsnsnnn 2, 24 folkrörelse- och biblioteksmuseum i Borås .................- 2 fOrSKNiNg ooooosesereersrerrrerrrerrrrserrrrsrrrsrrrrrn ennen nere n nn nens en nanna 29 Fotografiska museet . 2 Gamla Uppsala samverkansmuseer s.....s.ssssesssossnesennsnenn 24 glasmuseum i Nybro kommUn sssssseseeserresrsrnsnrnnennsnnnnnn 17 glasmuseum i VäxXjÖ sssssnesseseeresrerenesernsnenennsnrnenennnrnnrnrnsnn nn 17 gruvmuseum i Grängesberg ........ssssssesesenenenenenenennnnenrnrnr 30 jonmikrosondprojektet vid Naturhistoriska rikSMUSCCt oooosseeserersrrerrresrrrrenrrenrnererrnnrnnennnesn renen nen ner n erna a 29 [TN UTE: 24 Moderna museet, nya lokaler fÖr...........ssssssssssssssessesrsnrn Sy Mälsåkers SIOtt s.snnnnnnserssesresrererrereerereserrrrenerernrnenenenennnnnnn nan 24 Naturhistoriska riksmuseet... os 29 Nordiska MUSCCt......ssnnsssseoossoorerererererererrrrrrrrrsrrrrrrrrrnr nn nan 2, 24, 29 parlamentarisk utredning om museifrågor ................... 17, 24 regionala museer, bidrag till smmmnsmmmsssssseserersrssrnnennrnnrnn nr 20, 24 Riksutställningar smsmmmsssssessrseerserrersesesenenrenenenernenenenennnnnnn nen 24 Rooseum i Malmö 24, 17 Röhsska museet i Göteborg 17 sammanslagning av Nordiska museet och Statens historiska MUSCUIM sssesssssersresrrrrsrrsrernrenrenrrrrnnnennnn nen nn n rann 17 samverkanSmMUSe€r snssmmssresessrrsssessresrrseensersnrnnnnnnenn nn nana 17, 24 segelfartyg, bidrag till bevarande av kulturhistoriskt värdefulla oossssssssessseserssereerrrerrnrrrrererrnrrrrrnrrrnnrrn nr nn nn nr n nn nn 24 SKANSCN ooseeeeseserersreerrrreesrrrrsrrrrsnrrrsresrrnrnennrnsnernnrenenn nen n nn rn nn 9 Skokloster, bevakningskostnader .............ssssssessesessrssssnn 24 Statens historiska MUSEUM snmmmeosssssssresrrsrrerssrrrrrrnrnrnnnn nn 2,24 Statens KONnStmMUSEeCI ....snssseereseenenesesernenenennenenenennn nn 24 statens pPOrträttsamliNg ........sssssssssssorsnrenennesrennsnernrnnsnnnnn nn 24 Stiftelsen Sveriges Invandrarinstitut och Museum....... 2 Sveriges historiska museum, bildandet av ...................- 2 Sveriges lantbruksmuseum vid Julita Gård 24 Textilmuseum i BOFråS.........sessssssssosesenesrnnnnnn on 2 VaSamUSCCt.iisssseessreesessreessesennrrrsrsnesnsrrrsrnrernnr rr nn ner nn rn anna 24 1900-talets liv och arbete, dokumentation av............... 24 Musik ersättning till rättighetshavare på musikområdet......... 19 16</p>
-          <p>FOIKOPELAN oooossesrereseeresrerenrernneneerenererernenerernsnenernnnenenennnnn nn nn 20</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_KrU/reg_199293_KrU-017.pdf"/>
-          <p>fria teater-, dans- och musikgrupper ..............s.sssssss00n0n 20 1992/93:KrU Reg.</p>
-          <p>föÖrSVarSmMUSik sssssssesserrrerrresrsrrrrrensnrenrnrnnennnrnnnrnn renen nn nn ann 20 GöteborgsOperan .... 20 Konserthuset i Stockholm s..ssnssssssseesseensesorennrennernernsnnnr 9 Musikaliska akademien ................--.- 20 musikteaterverksamhet i Norrland 17 ÖRPETLAN oossoeseesseereesreneeneerenrnerenrerernnerr nere nrrn ennen enn renen nen n rn rn nn 20 regional musikverksamhet s.....nmmnssssssessennensnrsnnsnnnnrnnennnnr 20 regionala och lokala teater-, dans- och musikinstitutioner... 20 RikSkOnNSErterosossssseessserressnresersrersnnensrernnnsrnesnennnennnrnnsnnnnnn nn 20 Musikaliska akademienh.....sssssessssssesneeneneneennernernennernrnernernnn nen 20 Musikaliska UPPhOVSMäÄn sussssssnsssesenesseereneseenererenesnerenennnnnnn nen 19 Namnlängd, officiell 30 Next Stop Sweden s...smmmmsreresenrensnesesrenerrenesrererernsnerenrrnrnenenenrn rna 15 Norrmalmstorg, minnesmärke På.........ssssssssssosonenssensnnnnsnnnn 18 NUTEK, utredning om skattereformen och turistDbraNSChenN susmossssessserrerrrrrrrerrrrrrrrrrrrnrrnsnsnnnrnnr sne nens n ennen nn 15 Nybro kommun, glasmuseum 17 Näringslivsarkiven, ökat Stöd s...snmmmsssesssreresrorsrrnenenesnenenenennnr 22 Närradio Närradionämnden, anSläg........ssssssessessernsrsnreserennrnnnsnnsnn nn 26 Tekla oosossseseessreesrrerrrerrrrnreerererrrrnr ren nrrnn rn nns nen nen renen renarna 3y Olof Skötkonung, 1 000-årsminnet aV.......s.sssssssssessnsenennnnnnn 4 [0151 4 &amp; Rn 20 Ordningslag cirkusföreställningar s.smsmmssssssessressnrenernrernnrnnennrrrnrnnrnnn nn 13y kostnadsansvar ............... - 13y Organisationsbidrag till folkrörel 12, 14y ÖFTLtNAM AN osssoessesreresereeeeeserrrrsreserrsrsnserrrreeee ren e ere error rese enn nr rerna nn 6, 30 Ostindiefararen GÖthebOrg...........sesssroseoseseeseesersennnnnsnnnnsnnnn enn 30 Parlamentariska utredningar o..ssmmmsesssessrrssresnrnnnrnnenrnnrnnsnnnnnnnn 17 Radio och TV se Kabelnämnden, Lokalradio, privat, Närradio, Radio och TV, avgiftsfinansierad, Radioprogramverksamhet till utlandet, TV-sändningar mellan Sverige och Finland Radio och TV, avgiftsfinansierad avtalsperiodens längd snsmmmsssssessesersrrsreneenerrennenernennnnenennr 8 lagen om TV-avgift, ändring i sssmmmmsrsersrreserrereenernrnnennnnnnr 27 lokal produktiOn ssssmssssssssrssrenesnnsoresrernennennrrennrnernrn rn rna nn 27 medelsberäkningar s...smnmmsssessesersnenrrenesesnnsnnenennannnnernennn anna 27 pressöversikt, internationell... 27 Radionämnden sussnnssessereeseseereeserresrrensrnrnrnnnrrnnnnnnnnnn nan nen ann 27 17</p>
-          <p>Radiotjänst i Kiruna AB (RIKAB) = uonsnnssnsnassesneresnnsnsnnnn 27</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_KrU/reg_199293_KrU-018.pdf"/>
-          <p>sameradio OCh =TV os mssssnsassesseseeseesrsnresenrnenrennnrrernennrnner nn enn SPONSFING oosoeseeresresssrererssrrrrrenrernnrrrresnn ren nrrn ns nero n ennen ner n noen styrelseledamöter, utnämning av s.mmnmmmsssssssessennnnnnnnnnnn nn Sveriges Radio-kOnCerN€N s.smmmmessssessssessnesnernrsnenennnrnnn anar Sveriges Riksradio AB Sveriges Television AB Sveriges Utbildningsradio AB ena TV 2, flyttning QVssssmnsesssesseeseensnenrrennersrenrrsnrrenrsnrrnernnnn nan nan TV-avgift, SIOPaNnde AV-sssosmesseeseessrerererrernsrenrerennrennrnnnnnnnn nan TV-kanal, gemensam nordisk. ....s..sssssseeseressersrensnnsnnnnnnnnn utvecklingsstörda, programutbud fÖr s.......ssesssereeserrrn&gt; vissa PrOgramfrågOr s..s.ssssssososnrsesesenerenenenenenrnenennnnnanen enn nn</p>
-          <p>Radioprogramverksamhet till utlandet, finansiering av .... Redogörelse för behandlingen av riksdagens skrivelser..... Regionala och lokala teater-, dans- och musSsikinstitUtiON€r s..mmmmsssesserresesrsessenrneerernerrrnnernnnnen arne n er n nn annen Riksantikvarieämbetet, anSläg .........ss.sssseserssresssessesnnrnnnsnnennnn Riksförbund, Svenska TornedalingarS..............sssssesssssesenn Rikskonserter, SVenSKka s.ssmmmnsessesserserrrerrerrernerrrerrrrrrnrrerrrrrrn nan Riksteatern, SVEeNSKa.........ssssssssssseoeesorerssrorerssnnnrrsnnrenrnrrenr nn nn Riksutställningar</p>
-          <p>Samisk kultur m.m. bibliotekSSerViC€ .smmsssssserersrrsssrerrerrrrsrrererrrrererrnrrrnrrrnnr nr anna bidrag tillissssssssssesssssarsrrsnrrenrerrrnnrnrnrrrnnnrnn ennen ennen nn nn nn nerna nn Gaaltie — samiskt konst- och kulturcentrum ..............</p>
-          <p>SAMESIÖJA oooosseresrerererrrrsrernrrerrernrrsnrrnrnrrnennn enar enn r ennen nen nn nn nan turism</p>
-          <p>Skådebanor Jämtlands läto ssssssssssssrsssrersrerrernerrsrerrrerrnerrrerrrrnnrnrnnn nn nan nn LiNKÖPiNGeososssesesereseesrensrernrersrrsrnrrnnenrrrrrrnnnsnrnenn er ren nn rn nr n nn Stockholms län sssmmnsssssssersesserererererrrresrrrrrrrrrrrrrrrrrnrrannn nanna Västernorrlands läfts..sssmmnssssssererersresrsrrersrrererrrrrnrrernrrrrn nn Skåne bevarande av industriminnen ssmsssssssessersesrrerersrrsrrrrennrnn länsmuseiorganisationen............... Språkfråga .....nnsnssssssenenenenennnennnnnnnnnnn anna Språk- och folkminnesinstitutet............ Språknämnden, Svenska, bidrag till Språknämnden, Sverigefinska, bidrag till</p>
-          <p>8,</p>
-          <p>18,</p>
-          <p>18,</p>
-          <p>2y 27</p>
-          <p>28</p>
-          <p>1992/93:KrU Reg.</p>
-          <p>18</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_KrU/reg_199293_KrU-019.pdf"/>
-          <p>Statens konstråd</p>
-          <p>sammansättningen av Styrelsen ss ssmmmmsssssssssnssersnnsnnnnnn nn Statens kulturråd, se Kulturråd, Statens Stipendier för unga nyutexaminerade konstnärer.............. Styrelsen för Sverigebilden</p>
-          <p>Invest in Sweden-projektet .............sssssssoseosesersesenesrsennnnns Sveriges bildkonstnärsfond, sammansättningen av StYTClSCN ooosessesesrerserreseernesrenrrersnerrrrrrer nens nrsnnrsnn nerna nere renen earn en enn a Sveriges författarfond, sammansättningen av styrelsen ...... Sveriges historiska museum, bildandet aV...................sss0n00n Swedish Travel and Tourism Council/Next Stop Sweden . Södra teater ..mmmsmssrsssesernerersrnrnenrrrrnen nen ernsn ennen nr nen ens en rnn enn nn nen</p>
-          <p>Talboks- och punktskriftsbiblioteket (TPB).......................- Teater Dramatiska teaterf...nsmmmmsssssssessssrersssrrrrsnnrnnnrrnrn ennen enn annan fria teater-, dans- och Musikgrupper s....ssssssssssseosnrnnnnn Gotland, statliga grundbelopp till............s.sssssssssssss00000n Jämtlandsmodell€n.....ssssssssessressrrrrersrrrersrrrrrenrernenrrnen nr annan NationalsCen i NOTT suossessessesrersressrrrsrrnenensennernenrenen enar eran ann nationalscen i SKÅNE .mmseseresssrererrsrrrererrrrsrrenrrnsersnnnnn nn a parlamentarisk utredning om teaterfrågOor.................... regionala och lokala teater-, dans- och musikinstitutioner</p>
-          <p>RikSt€atCrf ossssssrsseoeseeeereserrerrerrerrrrrrerreerererenrrrerernnrrn nr nr nen na Södra teater fM...sesssseeroesrererrerrrerrrrrrerrnrrrrrererrrrrrrnsrnrrrrrnrn rna a Teater Halland sssmnsnsssssssssersesrrerrrrerrrrerrnrerenrrnrrrnnrrrrrrrnnnnn na Textilmuseum i BOTIåS s...snnnnnsnnasssossesseessnessnesnnanaenenenonnnnsnnnn non TidskriftslåneCenträl...smmmmmssssssessessessrsssneesrreseenesrenennrnrnenenrnn nn Tilläggsbudget I biblioteksersättning, grundbelopp fÖr ...............es.s.s--2--- ersättning åt författare m.fl. för utlåning av deras verk genom bibliotek m.m., medelsanvisning till........ Skansen, Konserthuset i Stockholm och Dansens Hus, avtal OM assssmosssssssssesserererrrrerrrrrrrrrrrrrrrrrrrrrrrrrrrrnnrn annan stöd till idrotten, medelsanvisning till....................s.se.-</p>
-          <p>Svenska Friidrottsförbundet, statlig garanti för Friidrotts-VM år 19998 ooosmmssssssssssesesrrsrenrerenesereresrnrnnerenn nn TornedalSfrågOr s........sssosssesesesenresesenenerneneenenenennensernnnnnnnnnnn annan Trossamfund</p>
-          <p>Turism</p>
-          <p>bygdeturism EES-avtalet</p>
-          <p>20, 29</p>
-          <p>1992/93:KrU Reg.</p>
-          <p>19</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_KrU/reg_199293_KrU-020.pdf"/>
-          <p>fOrSKNiNgG oosooseeeeeereeerererrrererrrerreererrnerrrrrnnrsnnr sr nassar rr enn nanna [GT0T8 ETT FR handikappade. ...ssssssseesesrereessresenrrrersrrnrsrrrnrernnrrnsnsrann nerna nanna Invest ih SWECCD...ssssssssresesrsesrersesrsesrrrersenrrrenerrrrrrrrsnnnenn rn anna Kolmårdens djurpark. ...ss.ssssoreseseseseseresesennsreneserrerrennnn nn miljöinformation Styrelsen för Sverigebilden................s.s.s.ssssss0n0 SWEedlinN€ sissosssesesreseenerneneenenenenennerensenrnenennnenen enar nn nan Turist- och resedatabaSen............ssssssessssesesesennenronennsnennnnn uppbyggnad av informationSSyStem .............-ssesssersssenen Östersund, HÖgskolan i s........sssssoorooosonsssssnnnnnnersonnnnnnn TV-sändningar mellan Sverige och Finland</p>
-          <p>Umeå BildmuUSeCt sssnsssssseseeserrerseseenennnernereresnsnernernrner nn nern nn nn nn nn förstärkning av forskningsarkivet samordnad arkivmiljö .......s.ssssssssesssrsenronnnnnnn utbyggt forskningsarkiv Unesco</p>
-          <p>ANSÅG oooeoeeeeseesersrersrerrneesrrenresrrernsrenerrnerernnernrrnnr nn nr nn rn nn n nn ICCROM, svensk representatiOn .............ssssssssesesnesnnnn VärldSarvSliStänD...ssssssssssrsesseersrssrrrrsrrrenrrsrrrnnrnnrnnnnrn nn n rna nen Ungdomsorganisationer, Landsrådet för SverigesS............... Ungdomsråd, Statens, anslag s....ss.ssseeseeseoseresssennnrnnnnnnnnrnnen Ungdomssamarbete, internationellt FN OR EVA Ungdom för Europa Ungdomsutbyte, Stiftelsen för internationellt .............. Ungdomsverksamhet, central och lokal, anslag ...............-- Upphovsrättslagen smsmmmnssssssesseseerseneenneernesrsrssesernrsnernerrennrrn nn rna Uppskov med behandlingen av vissa ärenden s..............-.-- Utredningar m.m., anslag till. ..mmmmssssssssesessenennrnrrsesnnsnnrn nn rna Utställningar av nutida svensk konst i utlandet ................-</p>
-          <p>Utvecklingsverksamhet inom kulturområdet, bidrag till ..</p>
-          <p>Vadstena Vadstena SIOtt..........ssossoseoreseoresnensenrenenennenennennennnnrrn nen nrn nn nr Vadstenaakademienh ..smmmmsssessresesresreseeseenennnennrnnnsnn ner nn nn nen Vidareförsäljning av KONSt......ssssssseessresesressennrsnennnnsnnnsnnnennnn nn Visby kyrkOrUinN€rlossssosssesrsersrreserrsresresnnrerrrsrenrrsrnernnsnnrrnnsnn ns n nr nns nn 8 195:4 4 9155 sr Väderskärs kapell osssmmnsssssssssessesreesrrerrenrrnrsnnrnnennrrrnerrn nn n nen nns nn Världsarvslista, UNeSCOS s...ssssssssesseronsessennnsennrnnnennnernrennnnnnnnnnn Västsverige, kultursamarbete 1.....nnsnnsnsssssessesrenesnesnsnnerernnnnnnnn Växjö</p>
-          <p>15 15 15 15 15 15 15 15 15 15 15</p>
-          <p>26 26</p>
-          <p>12y</p>
-          <p>1992/93:KrU Reg.</p>
-          <p>20</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_KrU/reg_199293_KrU-021.pdf"/>
-          <p>kart- och papperskonserveringsanläggning och</p>
-          <p>högskolebibliotek = ssnnmmnssssssesnennernnsnnnnnnnn lokalisering av landsarkiv samordning av landsarkiV..............-s.es---</p>
-          <p>Östersjöländerna och Ryssland, kulturfond Östersjöns författar- och översättarcentrum</p>
-          <p>(0)</p>
-          <p>22 22 22</p>
-          <p>18 18</p>
-          <p>1992/93:KrU Reg.</p>
-          <p>21</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_KrU/reg_199293_KrU-022.pdf"/>
-          <p>gotab 44020, Stockholm 1993</p>
+          <p>
+            Kulturutskottets register vid riksmötet 1992/93
+          </p>
+          <p>
+            Betänkanden
+          </p>
+          <p>
+            Nr KrUl Arkeologiska kostnader Utskottets justering Riksdagens
+            beslut: Bifall till utskottets hemställan Protokollsnummer
+          </p>
+          <p>
+            Nr KrU2 Museifrågor Utskottets justering Debatt i kammaren Protokollshummer
+            Riksdagens beslut: Bifall till utskottets hemställan Protokollsnhummer
+          </p>
+          <p>
+            Nr KrU3 Tornedalsfrågor Utskottets justering Debatt i kammaren
+            Protokollsnummer Riksdagens beslut: Bifall till utskottets hemställan
+            Protokollsnrhummer
+          </p>
+          <p>
+            Nr KrU4 Bevarande av kulturmiljöer m.m. Utskottets justering
+            Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer
+          </p>
+          <p>
+            Nr KrUS Lokalfrågor Utskottets justering Riksdagens beslut: Bifall
+            till utskottets hemställan Protokollsnummer
+          </p>
+          <p>
+            1 Riksdagen 1992/93. 13 saml. Register
+          </p>
+          <p>
+            1992-10-22 1992-11-04 1992/93:16
+          </p>
+          <p>
+            1992-10-22 1992-11-04 1992/93:16 1992-11-04 1992/93:16
+          </p>
+          <p>
+            1992-10-22 1992-11-04 1992/93:16 1992-11-04 1992/93:16
+          </p>
+          <p>
+            1992-11-12 1992-12-02 1992/93:36
+          </p>
+          <p>
+            1992-11-12 1992-12-02 1992/93:36
+          </p>
+          <p>
+            El
+          </p>
+          <p>
+            PY ry
+          </p>
+          <p>
+            1992/93 KrU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_KrU/reg_199293_KrU_0001"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_KrU/reg_199293_KrU_0002"/>
+          <p>
+            Nr KrU6 Skydd för ortnamn
+          </p>
+          <p>
+            Utskottets justering | 1992-11-12 Riksdagens beslut: Bifall till
+            utskottets hemställan 1992-12-02 Protokollsnhummer 1992/93:36
+            Nr KrU7 Filmpolitiken (prop. 1992/93:10) Utskottets justering
+            1992-11-24 Debatt i kammaren 1992-12-09 Protokollsnrummer 1992/93:41
+            Riksdagens beslut: Bifall till utskottets hemställan 1992-12-09
+            Protokollsnhummer 1992/93:41 Riksdagsskrivelse 1992/93:60 Nr KrU8
+          </p>
+          <p>
+            Agande av den avgiftsfinansierade radio- och TV-verksamheten
+            m.m. (skr. 1992/93:147)
+          </p>
+          <p>
+            Utskottets justering 1992-12-15 Debatt i kammaren 1992-12-17
+            Protokollsnhummer 1992/93:47 Riksdagens beslut: Bifall till utskottets
+            hemställan 1992-12-17 Protokollsnummer 1992/93:47 Riksdagsskrivelse
+            1992/93:151 Nr KrU9
+          </p>
+          <p>
+            Tilläggsbudget I inom Finansdepartementets och Kulturdepartementets
+            områden (prop. 1992/93:105 bil. 6 och bil. 8)
+          </p>
+          <p>
+            Utskottets justering 1993-02-25 Riksdagens beslut: Bifall till
+            utskottets hemställan 1993-03-17 Protokollsnhummer 1992/93:77
+            Riksdagsskrivelse 1992/93:193 Nr KrU10
+          </p>
+          <p>
+            Kostnader för Sveriges medlemskap i Unesco m.m. (prop. 1992/93:100
+            bil. 9)
+          </p>
+          <p>
+            Utskottets justering 1993-02-25 Debatt i kammaren 1993-03-17
+            Protokollshnhummer 1992/93:77 Riksdagens beslut: Bifall till utskottets
+            hemställan 1993-03-17 Protokollsnummer 1992/93:77 Riksdagsskrivelse
+            1992/93:194
+          </p>
+          <p>
+            1992/93:KrU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_KrU/reg_199293_KrU_0003"/>
+          <p>
+            Nr KrU11l
+          </p>
+          <p>
+            Stöd till trossamfund m.m. (prop. 1992/93:100 bil. 14)
+          </p>
+          <p>
+            Utskottets justering Debatt i kammaren Protokollsnhummer Riksdagens
+            beslut: Bifall till utskottets hemställan Protokollshummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr KrU12
+          </p>
+          <p>
+            1993-03-09 1993-03-17 1992/93:77 1993-03-17 1992/93:77 1992/93:195
+          </p>
+          <p>
+            Ungdoms- och folkrörelsefrågor m.m. (prop. 1992/93:100
+          </p>
+          <p>
+            bil. 14) Utskottets justering Debatt i kammaren Protokollsnummer
+            Riksdagens beslut: Bifall till utskottets hemställan Protokollsnrhummer
+            Riksdagsskrivelse
+          </p>
+          <p>
+            Nr KrU13 Folkbildning (prop. 1992/93:100 bil. 9) Utskottets justering
+            Debatt i kammaren Protokollshummer Riksdagens beslut: Bifall till
+            utskottets hemställan Protokollshnhummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr KrU14 Idrott (prop. 1992/93:100 bil. 8) Utskottets justering
+            Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till
+            utskottets hemställan Protokollsnummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr KrU15 Turism (prop. 1992/93:100 bil. 13) Utskottets justering
+            Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till
+            utskottets hemställan Protokollshnummer Riksdagsskrivelse
+          </p>
+          <p>
+            1993-02-25 1993-03-17 1992/93:77 1993-03-17 1992/93:77 1992/93:196
+          </p>
+          <p>
+            1993-02-25 1993-03-17 1992/93:77 1993-03-17 1992/93:77 1992/93:192
+          </p>
+          <p>
+            1993-03-18 1993-04-01 1992/93:88 1993-04-01 1992/93:88 1992/93:254
+          </p>
+          <p>
+            1993-04-13 1993-04-29 1992/93:102 1993-04-29 1992/93:102 1992/93:314
+          </p>
+          <p>
+            1992/93:KrU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_KrU/reg_199293_KrU_0004"/>
+          <p>
+            Nr KrU16 Anslag till Kulturdepartementet, m.m. (prop. 1992/93:100
+            bil. 12)
+          </p>
+          <p>
+            Utskottets justering 1993-02-25 Riksdagens beslut: Bifall till
+            utskottets hemställan 1993-03-17 Protokollsnhummer 1992/93:77
+            Riksdagsskrivelse 1992/93:197 Nr KrU17 Overgripande kulturfrågor
+            Utskottets justering 1993-03-18 Debatt i kammaren 1993-04-01 Protokollsnummer
+            i 1992/93:88 Riksdagens beslut: Bifall till utskottets hemställan
+            1993-04-01 Protokollsnhummer 1992/93:88 Riksdagsskrivelse 1992/93:249
+            Nr KrU18 Allmän kulturverksamhet m.m. (prop. 1992/93:100 bil.
+            12) Utskottets justering 1993-03-18 Debatt i kammaren 1993-04-01
+            Protokollsnummer : 1992/93:88 Riksdagens beslut: Bifall till utskottets
+            hemställan 1993-04-01 Protokollsnhummer 1992/93:88 Riksdagsskrivelse
+            1992/93:250 Nr KrU19
+          </p>
+          <p>
+            Ersättningar och bidrag till konstnärer (prop. 1992/93:100 bil.
+            12)
+          </p>
+          <p>
+            Utskottets justering 1993-03-09 Debatt i kammaren . 1993-04-01
+            Protokollshummer 1992/93:88 Riksdagens beslut: Bifall till utskottets
+            hemställan 1993-04-01 Protokollshummer ; 1992/93:88 Riksdagsskrivelse
+            1992/93:251 Nr KrU20 Teater, dans och musik (prop. 1992/93:100
+            bil. 12) Utskottets justering . 1993-04-13 Debatt i kammaren 1993-04-29
+            Protokollsnhummer 1992/93:102 Riksdagens beslut: Bifall till utskottets
+            hemställan 1993-05-05 Protokollsnrummer 1992/93:105 Riksdagsskrivelse
+            1992/93:315
+          </p>
+          <p>
+            1992/93:KrU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_KrU/reg_199293_KrU_0005"/>
+          <p>
+            Nr KrU21
+          </p>
+          <p>
+            Bibliotek, bildkonst, konsthantverk m.m. (prop. 1992/93:100
+          </p>
+          <p>
+            bil. 12) Utskottets justering Debatt i kammaren Protokollsnummer
+            Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer
+            Riksdagsskrivelse
+          </p>
+          <p>
+            Nr KrU22 Arkiv (prop. 1992/93:100 bil. 12) Utskottets justering
+            Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till
+            utskottets hemställan Protokollsnummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr KrU23 Kulturmiljövård (prop. 1992/93:100 bil. 12) Utskottets
+            justering Debatt i kammaren Protokollsnummer Riksdagens beslut:
+            Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr KrU24
+          </p>
+          <p>
+            Museer och utställningar (prop. 1992/93:100 bil. 12)
+          </p>
+          <p>
+            Utskottets justering Debatt i kammaren Protokollsnummer Riksdagens
+            beslut: Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr KrU25
+          </p>
+          <p>
+            1993-03-18 1993-04-01 1992/93:88 1993-04-01 1992/93:88 1992/93:252
+          </p>
+          <p>
+            1993-04-13 1993-04-29 1992/93:102 1993-05-05 1992/93:105 1992/93:316
+          </p>
+          <p>
+            1993-03-18 1993-04-01 1992/93:88 1993-04-01 1992/93:88 1992/93:253
+          </p>
+          <p>
+            1993-04-13 1993-04-29 1992/93:102 1993-05-05 1992/93:105 1992/93:317
+          </p>
+          <p>
+            Inredning och utrustning av lokaler för kulturändamål (prop.
+          </p>
+          <p>
+            1992/93:100 bil. 12) Utskottets justering Debatt i kammaren Protokollsnummer
+            Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer
+            Riksdagsskrivelse
+          </p>
+          <p>
+            1" Riksdagen 19921/93. 13 saml. Register
+          </p>
+          <p>
+            1993-04-13 1993-04-29 1992/93:102 1993-05-05 1992/93:105 1992/93:318
+          </p>
+          <p>
+            1992/93:KrU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_KrU/reg_199293_KrU_0006"/>
+          <p>
+            Nr KrU26 Anslag på massmedieområdet (prop. 1992/93:100 bil. 12)
+          </p>
+          <p>
+            Utskottets justering 1993-04-13 Debatt i kammaren 1993-04-29
+            Protokollsnummer 1992/93:102 Riksdagens beslut: Bifall till utskottets
+            hemställan 1993-05-05 Protokollsnhummer 1992/93:105 Riksdagsskrivelse
+            1992/93:319 Nr KrU27
+          </p>
+          <p>
+            Den avgiftsfinansierade radio- och TV-verksamheten (prop. 1992/93:100
+            bil. 12)
+          </p>
+          <p>
+            Utskottets justering 1993-05-13 Debatt i kammaren 1993-06-02
+            Protokollsnummer 1992/93:120 Riksdagens beslut: Bifall till utskottets
+            hemställan 1993-06-02 Protokollsnhummer 1992/93:120 Riksdagsskrivelse
+            1992/93:376 Nr KrU28
+          </p>
+          <p>
+            Ägande av den avgiftsfinansierade radio- och TV-verksamheten
+            (prop. 1992/93:236)
+          </p>
+          <p>
+            Utskottets justering 1993-05-13 Debatt i kammaren 1993-06-02
+            Protokollsnummer 1992/93:120 Riksdagens beslut: Bifall till utskottets
+            hemställan 1993-06-02 Protokollsnummer 1992/93:120 Riksdagsskrivelse
+            1992/93:377 Nr KrU29
+          </p>
+          <p>
+            Forskning för kunskap och framsteg (prop. 1992/93:170 bil. 8
+            och bil. 11)
+          </p>
+          <p>
+            Utskottets justering 1993-05-13 Debatt i kammaren 1993-06-03
+            Protokollsnummer 1992/93:121 Riksdagens beslut: Bifall till utskottets
+            hemställan 1993-06-04 Protokollsnhummmer 1992/93:122 Riksdagsskrivelse
+            1992/93:396 Nr KrU30 Uppskov med behandlingen av vissa ärenden
+            Utskottets justering 1993-05-13 Riksdagens beslut: Bifall till
+            utskottets hemställan 1993-05-27 Protokollsnummer 1992/93:117
+          </p>
+          <p>
+            1992/93:KrU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_KrU/reg_199293_KrU_0007"/>
+          <p>
+            Nr KrU31 Ny organisation för Dialekt- och ortnamnsarkiven samt
+            svenskt visarkiv m.m. (prop. 1992/93:150 bil. 9)
+          </p>
+          <p>
+            Utskottets justering 1993-05-19 Riksdagens beslut: Bifall till
+            utskottets hemställan 1993-06-02 Protokollsnhummer 1992/93:120
+            Riksdagsskrivelse 1992/93:378
+          </p>
+          <p>
+            Yttranden till andra utskott
+          </p>
+          <p>
+            Nr KrUly till EU Europeiska ekonomiska samarbetsområdet (EES)
+            (prop. 1991/92:170 bil. 10, bil. 11 och bil. 12)
+          </p>
+          <p>
+            Utskottets justering 1992-08-20 EU01 Debattdag 1992-11-18 Protokollshnummer
+            1992/93:26 Riksdagsskrivelse 1992/93:18
+          </p>
+          <p>
+            Nr KrU2y till BoU Samerna och samisk kultur m.m. (prop. 1992/93:32
+            bil. 3)
+          </p>
+          <p>
+            Utskottets justering 1992-11-17 BoU8 Debattdag 1992-12-15 Protokollsnhummer
+            1992/93:45 Riksdagsskrivelse 1992/93:115
+          </p>
+          <p>
+            Nr KrU3y till KU Privat lokalradio (prop. 1992/93:70)
+          </p>
+          <p>
+            Utskottets justering 1992-12-03 KU1S Debattdag 1993-02-24 Protokollsnummer
+            1992/93:67 Riksdagsskrivelse 1992/93:168
+          </p>
+          <p>
+            Nr KrU4y till FiU Ny organisation för förvaltning av statens
+            fastigheter och lokaler, m.m. (prop. 1992/93:37 bil. 1)
+          </p>
+          <p>
+            Utskottets justering 1992-11-24 FiU8 Debattdag 1992-12-15 Protokollsnummer
+            1992/93:45 Riksdagsskrivelse 1992/93:123
+          </p>
+          <p>
+            1992/93:KrU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_KrU/reg_199293_KrU_0008"/>
+          <p>
+            Nr KrUSy till FiU Åtgärder för att stabilisera den svenska ekonomin
+            (prop. 1992/93:50 bil. 7)
+          </p>
+          <p>
+            Utskottets justering 1992-11-24 FiUl Debattdag 1992-12-16 Protokollsnhummer
+            1992/93:46 Riksdagsskrivelse 1992/93:134
+          </p>
+          <p>
+            Nr KrU6y till KU Redogörelse för behandlingen av riksdagens skrivelser
+            till regeringen (skr. 1992/93:15)
+          </p>
+          <p>
+            Utskottets justering 1993-02-23 KU30 Debattdag 1993-05-26 Protokollsnummer
+            1992/93:116 Riksdagsskrivelse 1992/93:349
+          </p>
+          <p>
+            Nr KrU7y till BoU Länsstyrelsernas ansvar för kulturmiljövård
+            (prop. 1992/93:100 bil. 14)
+          </p>
+          <p>
+            Utskottets justering 1993-03-09 BoU17 Debattdag 1993-04-15 Protokollsnummer
+            1992/93:92 Riksdagsskrivelse 1992/9:283
+          </p>
+          <p>
+            Nr KrUg8y till BoU Kulturstöd vid ombyggnad m.m. (prop. 1992/93:100
+            bil. 12)
+          </p>
+          <p>
+            Utskottets justering 1993-03-09 BoU16 Debattdag 1993-04-15 Protokollsnummer
+            1992/93:92 Riksdagsskrivelse 1992/93:282
+          </p>
+          <p>
+            Nr KrU9y till AU Finansieringen av ökat stöd till kvinnoorganisationernas
+            centrala verksamhet (prop. 1992/93:100 bil. 14)
+          </p>
+          <p>
+            Utskottets justering 1993-02-25 AU9 Debattdag 1993-03-10 Protokollsnummer
+            1992/93:72 Riksdagsskrivelse 1992/93:187
+          </p>
+          <p>
+            1992/93:KrU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_KrU/reg_199293_KrU_0009"/>
+          <p>
+            Nr KrU10y till UU Radioprogramverksamhet till utlandet (prop.
+            1992/93:100 bil. 4)
+          </p>
+          <p>
+            Utskottets justering 1993-03-23 UU14 Debattdag 1993-04-28 Protokollsnhummer
+            1992/93:101 Riksdagsskrivelse 1992/93:296
+          </p>
+          <p>
+            Nr KrUlly till SoU Stöd och service till vissa funktionshindrade
+            (prop. 1992/93:159)
+          </p>
+          <p>
+            Utskottets justering 1993-03-23 SoU19 Debattdag 1993-05-05 Protokollsnummer
+            1992/93:105 Riksdagsskrivelse 1992/93:321
+          </p>
+          <p>
+            Nr KrUl2y till LU Andringar i upphovsrättslagen (prop. 1992/93:214)
+          </p>
+          <p>
+            Utskottets justering 1993-05-06 LU44 Debattdag 1993-06-04 Protokollsnhummer
+            1992/93:122 Riksdagsskrivelse 1992/93:413
+          </p>
+          <p>
+            Nr KrU1l3y till JuU Ny ordningslag m.m. (prop. 1992/93:210) Utskottets
+            justering 1993-04-29 JuU36 Uppskov
+          </p>
+          <p>
+            Nr KrUl4y till FiU Kompletteringspropositionen (prop. 1992/93:150
+            bil. 7 och bil. 8)
+          </p>
+          <p>
+            Utskottets justering 1993-05-13 FiU30 Debattdag 1993-06-09 Protokollsnrummer
+            1992/93:125 Riksdagsskrivelse 1992/93:447
+          </p>
+          <p>
+            1992/93:KrU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_KrU/reg_199293_KrU_0010"/>
+          <p>
+            Sakregister
+          </p>
+          <p>
+            Akademien för de fria KONSterNaå .......sssssosserserssoseerrrrnrrrrnnnnnn
+            AmatörkultUr.........osssossssossreserrserererrrerrerrerrrererrrrnrrnrrrrrrrrrr
+            rr rna Arkeologiska kOStnader......sessessesssssessresernnesernesnnsnennennernrnrnnnn
+            Arkiv
+          </p>
+          <p>
+            Dialekt- och ortnamnsarkiven samt svenskt visarkiv .. Immigrantinstitutet
+            i Borås Landsarkivet i Härnösand......... Landsarkivet i Jönköping
+            ......... Landsarkivet i Vadstena............ landsarkivorganisatiON€n
+            ......sssssssssssesssserrernesnennrnnennnnen nan IOKkalfrågOr
+            osnsnssssrsenenrenerenenrerererererernrnrnnerenennnnrnnnnenen
+            annan ann mikrOfilmnNinNg somsmssssssseessersneesersrennennennernnrrrrrnsrrsnrn
+            nn nn nn n a resursöverföring vid leverans av arkivalier ...................
+          </p>
+          <p>
+            svenskt barnbildsarkiV s..sosssssssesserersersrresnrrnrnnrrnernnnnnrn
+            nn nn Svenskt biografiskt lexikOnD.......ossssesesrersnenesnenenennnnenernnnnnn
+          </p>
+          <p>
+            Barn- och ungdomsdelegation€nN..........ssssssssosssesesrnrsnenennnnnnnn
+            Barn- och ungdomskultur barnkulturCentrUum ss smmssssssssrssresresrenrenesnerrnrnennrnnrnernrn
+            nn nn EES-avtalet......ssssssssoosenennennennenennesrerennsnenenrerennsnenenenennnnn
+            rna PriOriteriNng AV..smmsmsssssssosessnensnenrennernrernennsrernernnrnrnrrn
+            nen rn nn nn Bibeln, kvinnoperspektiV........ss.ssssssossoserserseonesenenesnennenernnnnn
+            nn Bibliotek
+          </p>
+          <p>
+            bibliotekSlag .......ssssssoseseonnannnennrrrrenrernernrnnennrnerrrrnennr
+            nn rn nen ersättning åt författare ....................ssssseossesrsesrsrrnnnnnnnnnnn
+            nn folkrörelse- och bibliotekSmuUSeUM s......sssssssesessennnnnnnnnnn
+            litterära verk, uthyrning äV s..msmmssssssessennensrnnesennnnnennnnnn
+            rna nationell bibliotekspOlitik = mmssssssssesssrssersrssesernenennnnnnnnnnn
+            regional biblioteksverksamhet .........s.ssssssssesenrnrnnenrnnrnnnn
+            Talboks- och punktskriftsbiblioteket (TPB) ................. Bild-
+            och formkonstnärer, visningsersättning..................... Biografbyrå,
+            StatensS.................o.ssessssorsesesenennnrnnnnnnnnsnnnnsnnnnen
+            Bokhandel, stöd till.........ssssssssssssssroseserrrenrnsererrrrrrrrrrnnnrrrrrnnn
+            nn Bokmarknaden, utvecklingen av smmmmsnnssssseesrenesnnnnennnnrnnn
+            nr Borås folkrörelse- och biblioteksmuUSeUmM s...smnmsmssessssssrsnsnnnnnnnn
+            Immigrantinstitutet TExtilMUSCUM sososssssesserrorerrrreerrrrrrrrennrrnrnrnnnrnnrrnner
+            rann annan nn
+          </p>
+          <p>
+            1992/93:KrU Reg.
+          </p>
+          <p>
+            10
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_KrU/reg_199293_KrU_0011"/>
+          <p>
+            Botkyrka Stiftelsen Sveriges Invandrarinstitut och Museum.......
+            Byggnader, upphovsrättsligt skydd vid ändring .................-
+            Centrumbildningar. .......sssessessressressrrssnnrsnrrnnrnrnrnernrennrnrrn
+            rn nnn nn Dans ArTANgÖFrSStÖC.......ssesesserssererersnersnerrnnersrsennsrnsrnrrnrrnrrnrnnrn
+            nn Dansens HUS sssssnssesssererserenensnreserrrerenrnnrsrnrnerrnernrrnnnrnn
+            nn anna fria teater-, dans- och musikgrupper .........sesssessesernsonnnn
+            länsdanskonsulent i Östergötland ..................smssss regionala
+            och lokala teater-, dans- och musikinstitutiONer ...........osssseseossesersresennnnnenernennsnrnrnnrnrn
+            nn nn utredning om danslivets utveckling................-+=s-=--------
+            "Doktorand"-stipendier på det konstnärliga området ....... Dramatiska
+            teaterf s.smmmmmssssssssesennsnsnrsrerernenrrnsnrnenenernrr en
+            en en en nnn Droit de SUit€ sssssssesessrersrnersernrrrrnrrnrrerrrrrr
+            es nen nrerer nes nrn ennen erna EES-avtalet ANPASSNING ooosoosesersrerseeeeereresenrrreresrennnnenennenenenenrnn
+            nr nn nn nn nn kulturminneslagstiftningen s..smmmmmssssrssssesrsseerenennnnnnrnnnnnnn
+            kulturområdet.............essosssesesesseorsesesresrnrnsnnsnnrnnrnrrnsrnnrnnnnn
+            medieOmrådet .........sssoseororereeeresrernenenrrrernennnrnnnnnnenrnsnen
+            nn nana [455 6 1554 VR UNgdOMSfrågOr s..ossssseserenesrerenererrernenennrnennnnsnrnenenenenennnnnnn
+            nns Egenavgiftsfond för kulturskapar€ m.....s.sesesseresesessrsenesnnsnnnnnn
+            Ersättning till rättighetshavare på musikområdet ..............
+            Ersättning åt författare m.fl. för utlåning av deras verk genom
+            bibliotek M.M. somssssssrssersrnsresernernrernernerernnnnrnnrnr
+            renen nn Eskilstuna Gamla teatern med teaterhistoriskt Museum
+            ............... nationellt barnkulturcentrUum ...ssssssssesersersersrsnrrnnrnnn
+            nan Europeiska ekonomiska samarbetsområdet (EES) ............
+            Fastighetsförvaltningen, statliga..................sessssessesesrsssesnsenent
+            Film biOgrafStÖd s........sseeeseseereerrerenerernersenrenennenenenenerer
+            ennen nr enen nan bransChStÖd .........s.sssesesseseeseonrerernesnnnnnrnernnsnsnnnnenennrnrn
+            nn n nn efterhandsstöd filmens roll i det lokala kulturlivet s.....s..eeeememssnennsn
+            Filminstitutet, Stiftelsen Svenska filmkonsulenter s..snnnmmssssressrrnnrnn
+            nana filmkulturell verksam het.....sssssnsssssssrensnsnensnennnrernnrnnnnnnnnn
+            filmkulturella insatser för barn och ungdom ..............- film-
+            och videoavtal (filmavtalet).............ssssssossennsonsnnnnn
+            Filmpool Jämtland s..ssmmssssresessesersnnrnnsnnrnnersnnrnenernnnennrnnn
+            nn Filmpool NOIC....sssseseeseesennennenernnesnnnnerrrnnnnennn
+            filmproduktion, stöd till........ms.sssess-s--s&gt; &gt;&gt;&gt;
+            filmutvecklingsarbete, regionalt.................
+          </p>
+          <p>
+            för handSStÖd ...........ssssssesserererrosererrerrrrererrnrrrrrrnrrrrrrnnnnnnnn
+            nen
+          </p>
+          <p>
+            12y
+          </p>
+          <p>
+            1992/93:KrU Reg.
+          </p>
+          <p>
+            11
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_KrU/reg_199293_KrU_0012"/>
+          <p>
+            import av VUXenfilm semmmssessssssssssssrresrsnseresnesnenennrnennrnennn
+            nn 7,26 1992/93:KrU Reg. regional filmproduktion s...ssssessssssessrsereseserenenernrnennrnrnnn
+            nn 7, 26 spridning och visning av värdefull film, främjande
+          </p>
+          <p>
+            AV oosseresrerereeerrerrereeeserrsresrrrrrrrrerenrnnr rr ers
+            enar eran sann narr sn nr enn nn nn 7 spridningsplan för visning
+            av filmer =. smmmmmsssssssesnenrnnnnn 7 Vide€OStÖd s.osseseesseeesrrrsrersrrrrrrerrrernnernrrrnnrrrernnsrnrsnn
+            ren nr nn rn nen nn 7 ViSNiNgSsOrganisatiON€r.....s.ssssesseesssreseereseerenrernernennennnnn
+            annan 7 Folkbildning arbetsmarknadsanpassad utbildning ...............ssssssssssr&gt;&gt;
+            14y folkhögskoleverksSamhet .snnsmssssssssssssessnesnesnssrnennernennennnn
+            13, Sy, 14y funktionshindrade, stöd och service till.......................-
+            lly handikappåtgärder.........ssssssssooessrsrsensrssnnrnersrnrnerensnnrnsrn
+            nan 13 Skurups folkhögSskOla s.ssmmnesesrereseresrernerenererrernerrerrsnerernnn
+            nn 18 statsbidrag, utbetalningsperioder fÖr ..................-..s.s--=--
+            13 studieförbundsverkSamhet.......sssssssssrorssseesersrrrrrrrrerrnnrnna
+            13, 14y utbildning för arbetslösa ..............sssssssressesesresensenennnnnnnn
+            an 13, 5y utbildning på högskolenivå inom studieförbunden .....
+            13, 14y Folkens museum —etnografiska, namnbyte ........n.nsessosensnnn
+            2 FOIKOPEIAN oososesesesreserresrerenenrarenranenenernrrernsnnnrnenrn
+            nn nn 20 Folkrörelse- och biblioteksmuseum i Borås 2 Folkrörelser
+            [NORS ET Ar 12 barn- och ungdomsverksamhet .....................
+            12 Folkets hus-rörelS€nf ss ssmmsssssssssesesrsrenenenenrnnerennennnnenrnnnnnnn
+            12 folkrörelse- och biblioteksmuseum i Borås ..................
+            2 lotterier OCh SPCÅ =mossssssssesessesrereenerrenrernererrnrnrrnnnnrnnnnnnenn
+            nn nn 30 organisationsbidrag, nedskärning aV..........s..ss.sesssssnsnenn
+            12, 14y Fonogram och musikalier, stöd till s.smnmmnmsssssssssssessennnennnnnna
+            26 Form/Design Center i Malmö s.ssssssssesenenerennenernerernennenennn
+            nn 18 Formkonstnärer, vVisningsersättniNg ............sssssssssersennenennnnn
+            19 Forsknings- och utvecklingsinsatser inom kulturområdet.........
+            29 Fotografirätten ............s.ssssssoseoonnnnnn 12y Fotografiska
+            Museet.......................- 2 Fria teater-, dans- och musikgrupper
+            .... 20 Främjande av hemslöjden.......ssssssssesesesernrrsenenennsrenrsnennsnennn
+            nen 21 Funktionshindrade, stöd och service till...........ss.sssssson0n0n0n
+            lly Författare m.fl., ersättning för utlåning av deras verk genom
+            bibliotek Mum. .ssssssessesesresreserserresenrnerrernnnnnnn rer
+            nsn nn anna 19 Förvaltning av statens fastigheter och lokaler,
+            ny Organisation fÖr.......ssssssssrseresrrresenrerenenrnrenenereneen
+            nen nen annan enar nen ana 4y Förvärv av konst för statens byggnader
+            m.m. s...msos.s.sss0n0n 21 Glimmingehus sssssnseeeesenrseseerrrenernesrenernrrnesnrnnrrrrn
+            nr n ennen nnrn ennen nn 4 Gotland, statliga grundbelopp på teaterområdet
+            ................ 17 Grängesberg, gruVmuUSCUIM sumsmsmssrsssssesseresenenennennrnrnnsnrn
+            nn nn nn 30 Gudstjänst, framförande av verk ViCL..............ssssssssssesnnnsenennn
+            12y Göteborg Göteborgs Opera susmsnsossssrsrsrsenrnrnrsersrsrsrnrsrnrsnnnrnsnrnnnrnrnrnnn
+            20
+          </p>
+          <p>
+            Röhsska mMuUSECCt sssnnnnnsssssrsssrsesseseereressressessessssenerernnnnrrrrr
+            rna 17 12
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_KrU/reg_199293_KrU_0013"/>
+          <p>
+            HemslÖJjd osossneeerererrereanennanernnarennsrsnrnenernernenenenenerernrnenenenrrnrn
+            ennen nn Härnösand, landsarkivet ssssmmsssssssersrerrrrrerrerrerennsnnrenrrrnnnnnnnnn
+            nn
+          </p>
+          <p>
+            Ideell verksamhet, anslag till... ......sssssssssssonsennernsnnnsnnennnnnnnn
+            nn Idrott
+          </p>
+          <p>
+            JäMStällddossosssseseseereererenrererrererenenrnn enn erenenennrnenenenn
+            ronne nen nn nerna kvinnoorganisationernas centrala verksamhet
+            ............. professionell boxning sameidrott UtreCNiNQ.ssssosesesresenrenennerernersnenernennenenrnerenennrnrn
+            ennen rn enn nenn Immigrantinstitutet i BOrÅS ............ssssssssosroseosessrnsnnnnnsnnrnnnn
+            Inkomstgarantier för KONStNärer .....sssssssssesesenesenennsennnnnennnnn
+            Inredning och utrustning av lokaler för kulturändamål... Internationaliserad
+            kultur, parlamentarisk utredning....... Internationellt kulturutbyte
+            =....mmessssessersssrersrrrenerennnnrnennnnn nn Internationellt
+            samarbete m.m., anslag till .......nsnmsm...s.ss-0 &gt;&gt; Invandrarinstitut
+            och museum i Botkyrka ..............se-sss-0 Invest in Sweden,
+            Styrelsens för Sverigebilden befattning Med susmmmseseeeerrnrrenresenrennenrrnnnenennenerner
+            nen nnner enn r nn nn nan
+          </p>
+          <p>
+            Jämtlandsmodellen på teaterområdet ..............s.sssssssnsnsn
+            Jönköping, lokalisering av landsarkiv s...meeseseserersesrersnnnnnn
+          </p>
+          <p>
+            Kabelnämnden
+          </p>
+          <p>
+            stöd till lokal programverksamhet........ssssssonssnsnnennnnnnnnn
+            Kalmar, lokalisering av landsarkiv s..ssmmmmmsssorereeeseossnrnrnnnnnnnr
+            Kompletteringspropositionen folkbildning, bidrag till... ....mmmmsssssessessesn
+            nn lokalbidrag till trossamfunden organisationsbidrag, nedskärning
+            aV.........s..eesmssn statliga byggnadsarbeten .w...mmsssesserrossenenrnnnnenenenerrensnennn
+            nn Konserthuset i Stockholm smsmnmnrssssseessrsrsnenernernesernnsnernrrnennr
+            nr Konst där Vi DOT osssssnnesseeseeserssessenreseresnrnsrerereenesnesren
+            ennen nrn enn nn nn Konstfrämjandet ssmnnmssreseesrersrarserresesnesnnrerenesrenernrsreresnnrnrnn
+            enn nn Konstnärer bidrag till.sssssssssssssssessenennnnsenensnrnenrensnrenrnsnrnenrnnrrrnen
+            en en rn nen "doktorand"-stipendier s...mmmsssssssssssrrrsesersrrrsnnrnnrnsnnrnnrnnn
+            nn egenavgiftsfond för kONStNnärer .......eeseeseerersrresrsesrnnnnnnnn
+            inkOomstgarantier smosmmsssssssssssrerssrenrrernsernnerernernrnrrnenn
+            rn nn nerna långtidSsstipendier...........seeesssssersesesrsrsensnensnnnersnnrnnnnnrnnnnnnt
+            musikaliska uPPhOVSMäÄn sussossseseesersrsrnrenenenennenenenenennnn
+            nns samverkan med högskolan s...mmmmmsssesesesreneenesrernnnennnnnnnnnn
+            Konstnärsnämnden fi lMStÖG soo oseesreeresrrrrernrerrenrerneneer
+            enes rrnrnernen nen nrn en nrnrrnenn rn rent
+          </p>
+          <p>
+            1992/93:KrU Reg.
+          </p>
+          <p>
+            13
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_KrU/reg_199293_KrU_0014"/>
+          <p>
+            Konstverk, återgivning äV smsmmmssssesesrsnsesrsrsrersenennnenrnnnsnnnnn
+            ann 12y 1992/93:KrU Reg.
+          </p>
+          <p>
+            Kontakttolkutbildning, bidrag till.s.....sssssssssssesssrssssessnenrnnnnnn
+            13 Kulturdepartementet m.m., anslag smsmmmmmsssrserssrrssrennnnnnnn
+            nan 16 Kulturmiljövård ANSÅG oooeeseesrersrssrresrerrerrrrrsnrrrrrrrrersrrrsennrrrrrssrrsrns
+            nns nr rn nn nn nn 23 arkeologiska massfynd sssmmmesseerressrerrererrrrsrnerrnnsrrenrrrrnn
+            ann 30 decentralisering av freSUrSCI .ssssseessssessrensrennennssnrernnrnnen
+            nr 23 Ekoparken, MallL smisesesesserrseserersreresrererrererrenrenrenernenenen
+            enn 30 GlimmingehUS sssmssssesrsesesesesrsrssrnesesrsreserrsernrrrnrnrner
+            enn nn nn nn nn 4 kulturlandskapSVårA............essssssereresesesenensorernnnserenennnnnnnnn
+            23 kyrkOreStaUreriNgaål...ssssesssssssseresrenrenerrrrerrenrerrerernrrenen
+            nns 23 Loftahammar, restaurering av 1700-talsorgeln .............
+            4 luftförorenings- och försurningsskadOr...................---.--
+            4 länsstyrelsernas aNSVåL s.smsmsssssssesresreereerereresrrrnrnsrrrrrrren
+            rann 23, 7y nationell StiftelS€.......sssssssssssrsensenrennnnennrrnenren
+            nns rnnenen nerna nn nn 17 Olof Skötkonung, 1 000-årsminnet av
+            ........s.ssesseosnnnnn 4 Ostindiefararen GÖthebOrg............ssssssrssssersressrerrrsrrnnnnnns
+            30 OMDbyggnadsSStÖd ...........sssssersesesrerserersenrseneenennrnnnnnrnen
+            ennen anar nn 23, 8y [03 48 911405 VR 6, 30 Riksantikvarieämbetet
+            ...ss.nnnnssssssssessroseesensennrnannennnsnnrnrn enn 23 Råå vallar
+            oosssnnsssssssseossosesenernnrsnnnnrnnn nn 4 rättssäkerhet 23
+            Sala SilVErgrUVåä.ssssssseneseenresrerersrrnrnrnnerrennennnn near
+            nen nn anna 30 Unescos VärldSsarvsliStå............sssssssssooorerssonereererrnnnrrrnnrnnn
+            4, 30 upprustning av kulturhistoriskt värdefulla miljöer, extra
+            medel fÖr ssmssssssseseererserrenrrnsrerneerserrsrrnrrnnnnrnnsnnrn
+            nn enn a 23 upprustning av kulturhistoriskt värdefulla miljöer,
+            särskild insatser fÖr s..s.ss.sssssessererrrassrerrrrrrrnrrrsnnrrrrnnrnnenn
+            nan 23 Vadstena SIOtt.............esssossesenesesresrereererenresrrnernennernnnennnnn
+            an 5 Visby kyrkoruiner 4,23 Visby fingmMUlssssssssesssereesesreeseerernrsnrerrenerrerrrrrrrrnnrnnrn
+            nr n annan 4,23 Väderskärs kapell onssmmmmssssssesesesnesnrnenreneenenneneennenennrn
+            enn rann 4 Kulturpolitik amatörkultUri..sssssssssssresenresrenrerernnrennernerrerrrrnn
+            nere nrrnnrnnn rna 18 barn- och ungdomskultUr...........sssssesssesssressrsesserssnsnnnnn
+            nn 17, 18 grundbidragssystemet .........s.ssssseossessrensesennnensnrnnnnnnrnnrnnn
+            nan 17 iNfrastruktUr ooosssssssessesrerrerresesnernrerrrrnrrnnennrrn
+            nr nrn nr nen nanna 17 18 18 17 kulturfond för kulturbyggnader.............s.ssssssssserssennnnn
+            17 kultursamverkan i VäStSVerige ..mossssesseessserensrensrnnnnnnnnnn
+            18 kulturstödets inriktniNg........s.sesssssesssessesersennennennsnennnnn
+            nen 17 KulturtUriSmn osssssssesreressrererersrssrrrnsrerrrsrenrsrnennrrnnnnnrernn
+            nen nnn nen 17 MUSECIfFÅgOL ousosesrereresserersrsrrrrrrrererenenrrrrrenenen
+            renen en en rann erna ann 17 NationNalsCENEr ossssssssesesreseeseesenrensnernnrnnern
+            enn rennnnnn ennen ennen nn 17 nationell bibliotekSpOlitik ....smmmss.sesssesssrsserenennnsnnnnennnnnnn
+            17 parlamentarisk Utredning ........ssssssessresersernrrnnnrennrrnennsnn
+            nar 17 14
+          </p>
+          <p>
+            TegiOnalisCriNg m.ssmsssssssesresresrsresernnrennrnnrerrsn nr
+            n nen n ene nnn nn nn 17
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_KrU/reg_199293_KrU_0015"/>
+          <p>
+            tea terfrågOr s..ssnsssssrsrsrerenerrerserrsrererererernnnrrnenenrrn
+            enar en nan en nn nana 17 1992/93:KrU Reg.
+          </p>
+          <p>
+            1974 års kulturpolitiska Mål .ssmmmmssssrerereserenenrsenennnnnnnnnn
+            17 Kulturpolitisk utredning....................-.- : 17 Kulturråd,
+            Statens ANSlAG oosoeeseseereserreresrererrererernesenr enn errsnenn
+            aren enn annan ene n eran e nen en nn 18 fOrSkNilNg soooseeesseesrerserersrrersressrerrerrrrrnrerrrrrrnrrnnrnnr
+            nen nn n ennen nana 29 [0872 55 4 RR 17 Kulturtidskrifter 26 26
+            IYy Litteratur se Bibliotek, Bokhandel, Ersättning åt författare
+            m.fl. för utlåning av deras verk genom bibliotek m.m. och Litteraturstöd
+            Litteraturstöd En bok för alla smsomsmmssssssssesesreseesennrsresennenenernnennrnnrenenrnnnnnn
+            nn 26 kreditgarantier till DOkförläag.............ssssssssrssssseseororsennnnnn
+            26 prOjektStÖd s.sssssssseseeererrenreerernrerrersrerrerrerrrnnerernrrernrn
+            enn n nn na 26 Loftahammar, restaurering av 1700-talsorgeln ...................
+            4 Lokala och regionala teater-, dans- och 20 musSikinstitUtiOoN€Cr
+            s..ssmsssssseseesesrersensrrrnnrsnrnnennenernennsnennnnen nn nn
+            nn Lokalförsörjning m.m. för kulturändamål ArkitekturmuUSeet s...smssssseseeseenseenenrennnenennenennerennsnennsnennnn
+            Sy inredning och utrustning av lokaler för kulturändamaål ossmssssseresroreresrererrrereresresrererererenenenenen
+            eran nn 25 Landsarkivet i HärnÖSand.....sssssssssssesseneerenernenennenesnrnrnnnn
+            5 Moderna MUSECECt...sommmssseressererosrerrrrrererersrrrrrrnnnnrnnnnrnn
+            nn nan Sy ny organisation för förvaltning av statens fastigheter
+            och lOkaler, Mu. ossmssssssseesessrererererrerenerererrnerrrernnrenrrn
+            rna nn 4y Vadstena SIOtt......sssssseseeseesersersrarranrennnerrernennenen
+            nere nrn nn nrnr nen 5 Vissa investeringar m.m., anSläg .smmmmsnsssssesesrenennennnnsnnnnn
+            14y Lokalradio, PliVåt.ssmsssssssesnrerserresersrrerrrrrnersrrnrrrerennenenn
+            rn enar nn nn 3y Lotterier ideella organisationers små lotterier.............................-
+            30 kasino i MalmöÖssssnsssesseseerererreneersrererrenerrenenenen
+            ene en enn nn nanna 30 kasinospel i Sverige enligt internationella
+            regler ......... 30 LOtterinämnNdenN osssessessesreseerrrnsrsnnserrnernnennenenren
+            ennen en nere annan 12 upphävande av lagen om automatspel... 30
+            Luftförorenings- och försurningsskadOor..............s.s-s.s---r--
+            4, 23 Långtidsstipendier.........sssssssosesrseneserseenerenersrnenrnnnrnenrnnnnnnnnnnn
+            ann 19 Länsdanskonsulent i Östergötland .................ssssssssoonnn
+            18 LÖNEDbiIdrag sosseesseseererrerrererersersrrrrerrennnrnn nere
+            nen ennen en renen ene ne nen nnn 17 Malmö Form/Design Center.
+            .ssmsssessesessrenesesnnnnernesnesnrenerrnnennrnnnnnn 18 SLÖT
+            OTTA TE &amp; «Vr 17 15
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_KrU/reg_199293_KrU_0016"/>
+          <p>
+            Museer och utställningar 1992/93:KrU Reg.
+          </p>
+          <p>
+            Arbetets MUSCUIM....smmmmmsossossseeseerersrererrrnsrnererrernnrrrnn
+            nn rn rn nan 24
+          </p>
+          <p>
+            Arkitekturmuseet, nya lokaler fÖr .............sssssssssrsssnsnenn
+            Sy barn- och ungdomsverksamhet, central utvecklingsresurs för
+            MUSCEINAS m.mmmsmmmssseseessennennnsnnnnnnnn 24 Barnens MUSCUM
+            .ssmessesssrerrseeessesrersrnnnersnrnrrnnnrnnrn nn n erna 24 Bildmuseet
+            i Umeå 24 centrala MUSECCI mossmmmssssesssresesrrrssresrrrsrrnrrnnnnn
+            nr nrnn enn nnn renarna 2 Folkens museum —etnografiska ............sssssssssssenesssnsnsnnn
+            2, 24 folkrörelse- och biblioteksmuseum i Borås .................-
+            2 fOrSKNiNg ooooosesereersrerrrerrrerrrrserrrrsrrrsrrrrrn ennen
+            nere n nn nens en nanna 29 Fotografiska museet . 2 Gamla Uppsala
+            samverkansmuseer s.....s.ssssesssossnesennsnenn 24 glasmuseum
+            i Nybro kommUn sssssseseeserresrsrnsnrnnennsnnnnnn 17 glasmuseum
+            i VäxXjÖ sssssnesseseeresrerenesernsnenennsnrnenennnrnnrnrnsnn
+            nn 17 gruvmuseum i Grängesberg ........ssssssesesenenenenenenennnnenrnrnr
+            30 jonmikrosondprojektet vid Naturhistoriska rikSMUSCCt oooosseeserersrrerrresrrrrenrrenrnererrnnrnnennnesn
+            renen nen ner n erna a 29 [TN UTE: 24 Moderna museet, nya lokaler
+            fÖr...........ssssssssssssssessesrsnrn Sy Mälsåkers SIOtt s.snnnnnnserssesresrererrereerereserrrrenerernrnenenenennnnnnn
+            nan 24 Naturhistoriska riksmuseet... os 29 Nordiska MUSCCt......ssnnsssseoossoorerererererererrrrrrrrrsrrrrrrrrrnr
+            nn nan 2, 24, 29 parlamentarisk utredning om museifrågor ...................
+            17, 24 regionala museer, bidrag till smmmnsmmmsssssseserersrssrnnennrnnrnn
+            nr 20, 24 Riksutställningar smsmmmsssssessrseerserrersesesenenrenenenernenenenennnnnnn
+            nen 24 Rooseum i Malmö 24, 17 Röhsska museet i Göteborg 17 sammanslagning
+            av Nordiska museet och Statens historiska MUSCUIM sssesssssersresrrrrsrrsrernrenrenrrrrnnnennnn
+            nen nn n rann 17 samverkanSmMUSe€r snssmmssresessrrsssessresrrseensersnrnnnnnnenn
+            nn nana 17, 24 segelfartyg, bidrag till bevarande av kulturhistoriskt
+            värdefulla oossssssssessseserssereerrrerrnrrrrererrnrrrrrnrrrnnrrn
+            nr nn nn nr n nn nn 24 SKANSCN ooseeeeseserersreerrrreesrrrrsrrrrsnrrrsresrrnrnennrnsnernnrenenn
+            nen n nn rn nn 9 Skokloster, bevakningskostnader .............ssssssessesessrssssnn
+            24 Statens historiska MUSEUM snmmmeosssssssresrrsrrerssrrrrrrnrnrnnnn
+            nn 2,24 Statens KONnStmMUSEeCI ....snssseereseenenesesernenenennenenenennn
+            nn 24 statens pPOrträttsamliNg ........sssssssssssorsnrenennesrennsnernrnnsnnnnn
+            nn 24 Stiftelsen Sveriges Invandrarinstitut och Museum.......
+            2 Sveriges historiska museum, bildandet av ...................-
+            2 Sveriges lantbruksmuseum vid Julita Gård 24 Textilmuseum i BOFråS.........sessssssssosesenesrnnnnnn
+            on 2 VaSamUSCCt.iisssseessreesessreessesennrrrsrsnesnsrrrsrnrernnr
+            rr nn ner nn rn anna 24 1900-talets liv och arbete, dokumentation
+            av............... 24 Musik ersättning till rättighetshavare på
+            musikområdet......... 19 16
+          </p>
+          <p>
+            FOIKOPELAN oooossesrereseeresrerenrernneneerenererernenerernsnenernnnenenennnnn
+            nn nn 20
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_KrU/reg_199293_KrU_0017"/>
+          <p>
+            fria teater-, dans- och musikgrupper ..............s.sssssss00n0n
+            20 1992/93:KrU Reg.
+          </p>
+          <p>
+            föÖrSVarSmMUSik sssssssesserrrerrresrsrrrrrensnrenrnrnnennnrnnnrnn
+            renen nn nn ann 20 GöteborgsOperan .... 20 Konserthuset i Stockholm
+            s..ssnssssssseesseensesorennrennernernsnnnr 9 Musikaliska akademien
+            ................--.- 20 musikteaterverksamhet i Norrland 17 ÖRPETLAN
+            oossoeseesseereesreneeneerenrnerenrerernnerr nere nrrn ennen enn
+            renen nen n rn rn nn 20 regional musikverksamhet s.....nmmnssssssessennensnrsnnsnnnnrnnennnnr
+            20 regionala och lokala teater-, dans- och musikinstitutioner...
+            20 RikSkOnNSErterosossssseessserressnresersrersnnensrernnnsrnesnennnennnrnnsnnnnnn
+            nn 20 Musikaliska akademienh.....sssssessssssesneeneneneennernernennernrnernernnn
+            nen 20 Musikaliska UPPhOVSMäÄn sussssssnsssesenesseereneseenererenesnerenennnnnnn
+            nen 19 Namnlängd, officiell 30 Next Stop Sweden s...smmmmsreresenrensnesesrenerrenesrererernsnerenrrnrnenenenrn
+            rna 15 Norrmalmstorg, minnesmärke På.........ssssssssssosonenssensnnnnsnnnn
+            18 NUTEK, utredning om skattereformen och turistDbraNSChenN susmossssessserrerrrrrrrerrrrrrrrrrrrnrrnsnsnnnrnnr
+            sne nens n ennen nn 15 Nybro kommun, glasmuseum 17 Näringslivsarkiven,
+            ökat Stöd s...snmmmsssesssreresrorsrrnenenesnenenenennnr 22 Närradio
+            Närradionämnden, anSläg........ssssssessessernsrsnreserennrnnnsnnsnn
+            nn 26 Tekla oosossseseessreesrrerrrerrrrnreerererrrrnr ren nrrnn
+            rn nns nen nen renen renarna 3y Olof Skötkonung, 1 000-årsminnet
+            aV.......s.sssssssssessnsenennnnnnn 4 [0151 4 &amp; Rn 20 Ordningslag
+            cirkusföreställningar s.smsmmssssssessressnrenernrernnrnnennrrrnrnnrnnn
+            nn 13y kostnadsansvar ............... - 13y Organisationsbidrag
+            till folkrörel 12, 14y ÖFTLtNAM AN osssoessesreresereeeeeserrrrsreserrsrsnserrrreeee
+            ren e ere error rese enn nr rerna nn 6, 30 Ostindiefararen GÖthebOrg...........sesssroseoseseeseesersennnnnsnnnnsnnnn
+            enn 30 Parlamentariska utredningar o..ssmmmsesssessrrssresnrnnnrnnenrnnrnnsnnnnnnnn
+            17 Radio och TV se Kabelnämnden, Lokalradio, privat, Närradio,
+            Radio och TV, avgiftsfinansierad, Radioprogramverksamhet till
+            utlandet, TV-sändningar mellan Sverige och Finland Radio och TV,
+            avgiftsfinansierad avtalsperiodens längd snsmmmsssssessesersrrsreneenerrennenernennnnenennr
+            8 lagen om TV-avgift, ändring i sssmmmmsrsersrreserrereenernrnnennnnnnr
+            27 lokal produktiOn ssssmssssssssrssrenesnnsoresrernennennrrennrnernrn
+            rn rna nn 27 medelsberäkningar s...smnmmsssessesersnenrrenesesnnsnnenennannnnernennn
+            anna 27 pressöversikt, internationell... 27 Radionämnden sussnnssessereeseseereeserresrrensrnrnrnnnrrnnnnnnnnnn
+            nan nen ann 27 17
+          </p>
+          <p>
+            Radiotjänst i Kiruna AB (RIKAB) = uonsnnssnsnassesneresnnsnsnnnn
+            27
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_KrU/reg_199293_KrU_0018"/>
+          <p>
+            sameradio OCh =TV os mssssnsassesseseeseesrsnresenrnenrennnrrernennrnner
+            nn enn SPONSFING oosoeseeresresssrererssrrrrrenrernnrrrresnn ren
+            nrrn ns nero n ennen ner n noen styrelseledamöter, utnämning av
+            s.mmnmmmsssssssessennnnnnnnnnnn nn Sveriges Radio-kOnCerN€N s.smmmmessssessssessnesnernrsnenennnrnnn
+            anar Sveriges Riksradio AB Sveriges Television AB Sveriges Utbildningsradio
+            AB ena TV 2, flyttning QVssssmnsesssesseeseensnenrrennersrenrrsnrrenrsnrrnernnnn
+            nan nan TV-avgift, SIOPaNnde AV-sssosmesseeseessrerererrernsrenrerennrennrnnnnnnnn
+            nan TV-kanal, gemensam nordisk. ....s..sssssseeseressersrensnnsnnnnnnnnn
+            utvecklingsstörda, programutbud fÖr s.......ssesssereeserrrn&gt;
+            vissa PrOgramfrågOr s..s.ssssssososnrsesesenerenenenenenrnenennnnnanen
+            enn nn
+          </p>
+          <p>
+            Radioprogramverksamhet till utlandet, finansiering av .... Redogörelse
+            för behandlingen av riksdagens skrivelser..... Regionala och lokala
+            teater-, dans- och musSsikinstitUtiON€r s..mmmmsssesserresesrsessenrneerernerrrnnernnnnen
+            arne n er n nn annen Riksantikvarieämbetet, anSläg .........ss.sssseserssresssessesnnrnnnsnnennnn
+            Riksförbund, Svenska TornedalingarS..............sssssesssssesenn
+            Rikskonserter, SVenSKka s.ssmmmnsessesserserrrerrerrernerrrerrrrrrnrrerrrrrrn
+            nan Riksteatern, SVEeNSKa.........ssssssssssseoeesorerssrorerssnnnrrsnnrenrnrrenr
+            nn nn Riksutställningar
+          </p>
+          <p>
+            Samisk kultur m.m. bibliotekSSerViC€ .smmsssssserersrrsssrerrerrrrsrrererrrrererrnrrrnrrrnnr
+            nr anna bidrag tillissssssssssesssssarsrrsnrrenrerrrnnrnrnrrrnnnrnn
+            ennen ennen nn nn nn nerna nn Gaaltie — samiskt konst- och kulturcentrum
+            ..............
+          </p>
+          <p>
+            SAMESIÖJA oooosseresrerererrrrsrernrrerrernrrsnrrnrnrrnennn enar
+            enn r ennen nen nn nn nan turism
+          </p>
+          <p>
+            Skådebanor Jämtlands läto ssssssssssssrsssrersrerrernerrsrerrrerrnerrrerrrrnnrnrnnn
+            nn nan nn LiNKÖPiNGeososssesesereseesrensrernrersrrsrnrrnnenrrrrrrnnnsnrnenn
+            er ren nn rn nr n nn Stockholms län sssmmnsssssssersesserererererrrresrrrrrrrrrrrrrrrrrnrrannn
+            nanna Västernorrlands läfts..sssmmnssssssererersresrsrrersrrererrrrrnrrernrrrrn
+            nn Skåne bevarande av industriminnen ssmsssssssessersesrrerersrrsrrrrennrnn
+            länsmuseiorganisationen............... Språkfråga .....nnsnssssssenenenenennnennnnnnnnnnn
+            anna Språk- och folkminnesinstitutet............ Språknämnden,
+            Svenska, bidrag till Språknämnden, Sverigefinska, bidrag till
+          </p>
+          <p>
+            8,
+          </p>
+          <p>
+            18,
+          </p>
+          <p>
+            18,
+          </p>
+          <p>
+            2y 27
+          </p>
+          <p>
+            28
+          </p>
+          <p>
+            1992/93:KrU Reg.
+          </p>
+          <p>
+            18
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_KrU/reg_199293_KrU_0019"/>
+          <p>
+            Statens konstråd
+          </p>
+          <p>
+            sammansättningen av Styrelsen ss ssmmmmsssssssssnssersnnsnnnnnn
+            nn Statens kulturråd, se Kulturråd, Statens Stipendier för unga
+            nyutexaminerade konstnärer.............. Styrelsen för Sverigebilden
+          </p>
+          <p>
+            Invest in Sweden-projektet .............sssssssoseosesersesenesrsennnnns
+            Sveriges bildkonstnärsfond, sammansättningen av StYTClSCN ooosessesesrerserreseernesrenrrersnerrrrrrer
+            nens nrsnnrsnn nerna nere renen earn en enn a Sveriges författarfond,
+            sammansättningen av styrelsen ...... Sveriges historiska museum,
+            bildandet aV...................sss0n00n Swedish Travel and Tourism
+            Council/Next Stop Sweden . Södra teater ..mmmsmssrsssesernerersrnrnenrrrrnen
+            nen ernsn ennen nr nen ens en rnn enn nn nen
+          </p>
+          <p>
+            Talboks- och punktskriftsbiblioteket (TPB).......................-
+            Teater Dramatiska teaterf...nsmmmmsssssssessssrersssrrrrsnnrnnnrrnrn
+            ennen enn annan fria teater-, dans- och Musikgrupper s....ssssssssssseosnrnnnnn
+            Gotland, statliga grundbelopp till............s.sssssssssssss00000n
+            Jämtlandsmodell€n.....ssssssssessressrrrrersrrrersrrrrrenrernenrrnen
+            nr annan NationalsCen i NOTT suossessessesrersressrrrsrrnenensennernenrenen
+            enar eran ann nationalscen i SKÅNE .mmseseresssrererrsrrrererrrrsrrenrrnsersnnnnn
+            nn a parlamentarisk utredning om teaterfrågOor....................
+            regionala och lokala teater-, dans- och musikinstitutioner
+          </p>
+          <p>
+            RikSt€atCrf ossssssrsseoeseeeereserrerrerrerrrrrrerreerererenrrrerernnrrn
+            nr nr nen na Södra teater fM...sesssseeroesrererrerrrerrrrrrerrnrrrrrererrrrrrrnsrnrrrrrnrn
+            rna a Teater Halland sssmnsnsssssssssersesrrerrrrerrrrerrnrerenrrnrrrnnrrrrrrrnnnnn
+            na Textilmuseum i BOTIåS s...snnnnnsnnasssossesseessnessnesnnanaenenenonnnnsnnnn
+            non TidskriftslåneCenträl...smmmmmssssssessessessrsssneesrreseenesrenennrnrnenenrnn
+            nn Tilläggsbudget I biblioteksersättning, grundbelopp fÖr ...............es.s.s--2---
+            ersättning åt författare m.fl. för utlåning av deras verk genom
+            bibliotek m.m., medelsanvisning till........ Skansen, Konserthuset
+            i Stockholm och Dansens Hus, avtal OM assssmosssssssssesserererrrrerrrrrrrrrrrrrrrrrrrrrrrrrrrrnnrn
+            annan stöd till idrotten, medelsanvisning till....................s.se.-
+          </p>
+          <p>
+            Svenska Friidrottsförbundet, statlig garanti för Friidrotts-VM
+            år 19998 ooosmmssssssssssesesrrsrenrerenesereresrnrnnerenn nn
+            TornedalSfrågOr s........sssosssesesesenresesenenerneneenenenennensernnnnnnnnnnn
+            annan Trossamfund
+          </p>
+          <p>
+            Turism
+          </p>
+          <p>
+            bygdeturism EES-avtalet
+          </p>
+          <p>
+            20, 29
+          </p>
+          <p>
+            1992/93:KrU Reg.
+          </p>
+          <p>
+            19
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_KrU/reg_199293_KrU_0020"/>
+          <p>
+            fOrSKNiNgG oosooseeeeeereeerererrrererrrerreererrnerrrrrnnrsnnr
+            sr nassar rr enn nanna [GT0T8 ETT FR handikappade. ...ssssssseesesrereessresenrrrersrrnrsrrrnrernnrrnsnsrann
+            nerna nanna Invest ih SWECCD...ssssssssresesrsesrersesrsesrrrersenrrrenerrrrrrrrsnnnenn
+            rn anna Kolmårdens djurpark. ...ss.ssssoreseseseseseresesennsreneserrerrennnn
+            nn miljöinformation Styrelsen för Sverigebilden................s.s.s.ssssss0n0
+            SWEedlinN€ sissosssesesreseenerneneenenenenennerensenrnenennnenen
+            enar nn nan Turist- och resedatabaSen............ssssssessssesesesennenronennsnennnnn
+            uppbyggnad av informationSSyStem .............-ssesssersssenen
+            Östersund, HÖgskolan i s........sssssoorooosonsssssnnnnnnersonnnnnnn
+            TV-sändningar mellan Sverige och Finland
+          </p>
+          <p>
+            Umeå BildmuUSeCt sssnsssssseseeserrerseseenennnernereresnsnernernrner
+            nn nern nn nn nn nn förstärkning av forskningsarkivet samordnad
+            arkivmiljö .......s.ssssssssesssrsenronnnnnnn utbyggt forskningsarkiv
+            Unesco
+          </p>
+          <p>
+            ANSÅG oooeoeeeeseesersrersrerrneesrrenresrrernsrenerrnerernnernrrnnr
+            nn nr nn rn nn n nn ICCROM, svensk representatiOn .............ssssssssesesnesnnnn
+            VärldSarvSliStänD...ssssssssssrsesseersrssrrrrsrrrenrrsrrrnnrnnrnnnnrn
+            nn n rna nen Ungdomsorganisationer, Landsrådet för SverigesS...............
+            Ungdomsråd, Statens, anslag s....ss.ssseeseeseoseresssennnrnnnnnnnnrnnen
+            Ungdomssamarbete, internationellt FN OR EVA Ungdom för Europa
+            Ungdomsutbyte, Stiftelsen för internationellt .............. Ungdomsverksamhet,
+            central och lokal, anslag ...............-- Upphovsrättslagen
+            smsmmmnssssssesseseerseneenneernesrsrssesernrsnernerrennrrn nn
+            rna Uppskov med behandlingen av vissa ärenden s..............-.--
+            Utredningar m.m., anslag till. ..mmmmssssssssesessenennrnrrsesnnsnnrn
+            nn rna Utställningar av nutida svensk konst i utlandet ................-
+          </p>
+          <p>
+            Utvecklingsverksamhet inom kulturområdet, bidrag till ..
+          </p>
+          <p>
+            Vadstena Vadstena SIOtt..........ssossoseoreseoresnensenrenenennenennennennnnrrn
+            nen nrn nn nr Vadstenaakademienh ..smmmmsssessresesresreseeseenennnennrnnnsnn
+            ner nn nn nen Vidareförsäljning av KONSt......ssssssseessresesressennrsnennnnsnnnsnnnennnn
+            nn Visby kyrkOrUinN€rlossssosssesrsersrreserrsresresnnrerrrsrenrrsrnernnsnnrrnnsnn
+            ns n nr nns nn 8 195:4 4 9155 sr Väderskärs kapell osssmmnsssssssssessesreesrrerrenrrnrsnnrnnennrrrnerrn
+            nn n nen nns nn Världsarvslista, UNeSCOS s...ssssssssesseronsessennnsennrnnnennnernrennnnnnnnnnn
+            Västsverige, kultursamarbete 1.....nnsnnsnsssssessesrenesnesnsnnerernnnnnnnn
+            Växjö
+          </p>
+          <p>
+            15 15 15 15 15 15 15 15 15 15 15
+          </p>
+          <p>
+            26 26
+          </p>
+          <p>
+            12y
+          </p>
+          <p>
+            1992/93:KrU Reg.
+          </p>
+          <p>
+            20
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_KrU/reg_199293_KrU_0021"/>
+          <p>
+            kart- och papperskonserveringsanläggning och
+          </p>
+          <p>
+            högskolebibliotek = ssnnmmnssssssesnennernnsnnnnnnnn lokalisering
+            av landsarkiv samordning av landsarkiV..............-s.es---
+          </p>
+          <p>
+            Östersjöländerna och Ryssland, kulturfond Östersjöns författar-
+            och översättarcentrum
+          </p>
+          <p>
+            (0)
+          </p>
+          <p>
+            22 22 22
+          </p>
+          <p>
+            18 18
+          </p>
+          <p>
+            1992/93:KrU Reg.
+          </p>
+          <p>
+            21
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_KrU/reg_199293_KrU_0022"/>
+          <p>
+            gotab 44020, Stockholm 1993
+          </p>
         </div>
       </div>
     </body>

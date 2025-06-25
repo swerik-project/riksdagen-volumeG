@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="reg_199596_NU">
   <teiHeader>
     <fileDesc>
       <titleStmt/>
@@ -19,130 +19,685 @@
   </teiHeader>
   <text>
     <body>
-      <pb facs="riksdagen-volumeG-pdf/data/199596/reg_199596_NU/reg_199596_NU-000.pdf"/>
+      <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199596/reg_199596_NU/reg_199596_NU_0000"/>
       <div type="gBody">
         <div>
-          <p>Näringsutskottets register vid riksmötet 1995/96</p>
-          <p>Betänkanden</p>
-          <p>Nr NU1 Ny ellagstiftning (prop. 1994/95:222) Utskottets justering Förslag till beslut: Bifall till propositionen. Avslag på motionerna. Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse</p>
-          <p>Nr NU2 Mästarbrev för hantverkare (prop. 1994/95:228) Utskottets justering Förslag till beslut: Bifall till propositionen. Avslag på motionen. Riksdagens beslut: Bifall till utskottets hemställan Protokollsnhummer Riksdagsskrivelse</p>
-          <p>Nr NU3 Postens finansiella tjänster (prop. 1995/96:3) Utskottets justering Förslag till beslut: Bifall till propositionen. Avslag på motionerna. Debatt i kammaren Protokollsnhummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnhummer Riksdagsskrivelse</p>
-          <p>I Riksdagen 1995/96 17 saml.Register</p>
-          <p>1995-10-10</p>
-          <p>1995-10-25 1995/96:14 1995-10-25 1995/96:14 1995/96:2</p>
-          <p>1995-10-17</p>
-          <p>1995-11-15 1995/96:23 1995/96:9</p>
-          <p>1995-11-14</p>
-          <p>1995-11-23 1995/96:28 1995-11-23 1995/96:28 1995/96:41</p>
-          <p>Zz E8/ aÉ un 28 Sila</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199596/reg_199596_NU/reg_199596_NU-001.pdf"/>
-          <p>Nr NU4 Redogörelse för företag med statligt ägande, m.m. (skriv. 1995/96:20) Utskottets justering 1995-11-14 Förslag till beslut: Skrivelsen läggs till handlingarna. Avslag på motionerna.</p>
-          <p>Riksdagens beslut: Bifall till utskottets hemställan 1995-11-23 Protokollsnummer 1995/96:28 Riksdagsskrivelse 1995/96:42 Nr NUS Allmänna pensionsfondens verksamhet år 1994 (skriv. 1995/96:13) Utskottets justering 1995-11-14 Förslag till beslut: Skrivelsen läggs till handlingarna Riksdagens beslut: Bifall till utskottets hemställan 1995-11-23 Protokollshummer 1995/96:28 Riksdagsskrivelse 1995/96:43 Nr NU6</p>
-          <p>Ändring i lagen om statligt stöd till banker och andra kreditinstitut (prop. 1995/96:70)</p>
-          <p>Utskottets justering 1995-11-21 Förslag till beslut: Bifall till propositionen Riksdagens beslut: Bifall till utskottets hemställan 1995-12-07 Protokollsnummer 1995/96:33 Riksdagsskrivelse 1995/96:75 Nr NU7 Insättningsgaranti (prop. 1995/96:60) Utskottets justering 1995-11-21</p>
-          <p>Förslag till beslut: Delvis bifall till propositionen. Avslag på motionerna.</p>
-          <p>Debatt i kammaren 1995-12-07 Protokollsnummer 1995/96:33 Riksdagens beslut: Bifall till utskottets hemställan 1995-12-08 Protokollsnummer 1995/96:34 Riksdagsskrivelse 1995/96:83 Nr NU8</p>
-          <p>Andringar i kapitaltäckningsreglerna m.m. (prop. 1995/96:62, prop. 1995/96:10, prop. 1995/96:74) Utskottets justering 1995-12-05 Förslag till beslut: Bifall till propositionerna med vissa redaktionella ändringar. Avslag på motionen.</p>
-          <p>Riksdagens beslut: Bifall till utskottets hemställan 1995-12-15 Protokollsnummer 1995/96:39 Riksdagsskrivelser 1995/96:110, 111</p>
-          <p>1995/96:NU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199596/reg_199596_NU/reg_199596_NU-002.pdf"/>
-          <p>Nr NU9 Ökad bankkonkurrens (prop. 1995/96:74, prop. 1995/96:10, prop. 1995/96:60, prop. 1995/96:104) Utskottets justering 1995-12-05 Förslag till beslut: Bifall till proposition 1995/96:104, bifall till proposition 1995/96:60 med viss redaktionell ändring samt delvis bifall till propositionerna 1995/96:10 och 1995/96:74. Bifall till motion angående icke- finansiella bankägare och avslag på övriga motioner.</p>
-          <p>Debatt i kammaren 1995-12-15 Protokollsnummer 1995/96:39 Riksdagens beslut: Bifall till utskottets hemställan 1995-12-15 Protokollsnummer 1995/96:39 Riksdagsskrivelser 1995/96:112, 113 Nr NU10</p>
-          <p>Säkrare finansiering av framtida kärnavfallskostnader m.m. (prop. 1995/96:83) Utskottets justering 1995-12-07 Förslag till beslut: Bifall till propositionen med viss redaktionell ändring. Avslag på motionerna.</p>
-          <p>Debatt i kammaren 1995-12-15 Protokollsnhummer 1995/96:39 Riksdagens beslut: Bifall till utskottets hemställan 1995-12-15 Protokollsnummer 1995/96:39 Riksdagsskrivelse 1995/96:114 Nr NU11 Clearingverksamhet m.m. (prop. 1995/96:50) Utskottets justering 1996-02-21 Förslag till beslut: Bifall till propositionen. Avslag på motionerna. Riksdagens beslut: Bifall till utskottets hemställan 1996-03-13 Protokollsnhummer 1995/96:68 Riksdagsskrivelse 1995/96:180 Nr NU12 Andring i lagstiftningen för värdepappersfonder (prop. 1995/96:73) Utskottets justering 1995-11-28 Förslag till beslut: Bifall till propositionen Riksdagens beslut: Bifall till utskottets hemställan 1995-12-07 Protokollsnummer 1995/96:33 Riksdagsskrivelse 1995/96:76 Nr NU13 Exportinsatser för små och medelstora företag, m.m. (prop. 1995/96:94) Utskottets justering 1995-12-07 Förslag till beslut: Bifall till propositionen. Avslag på motionerna.</p>
-          <p>1 Riksdagen 1995/96 17 saml. Register</p>
-          <p>1995/96:NU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199596/reg_199596_NU/reg_199596_NU-003.pdf"/>
-          <p>Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse</p>
-          <p>Nr NU14 Energistadgefördraget (prop. 1995/96:68) Utskottets justering Förslag till beslut: Bifall till propositionen Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse</p>
-          <p>Nr NU15 Vissa gruvfrågor Utskottets justering Förslag till beslut: Avslag på samtliga motioner Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer</p>
-          <p>Nr NU16 Pyrotekniska varor Utskottets justering Förslag till beslut: Avslag på motionerna Debatt i kammaren Protokollsnhummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer</p>
-          <p>Nr NU17 Kärnavfall m.m. Utskottets justering Förslag till beslut: Avslag på motionerna Debatt i kammaren Protokollshummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnhummer</p>
-          <p>Nr NU18 Tilläggsbudget (prop. 1995/96:105) Utskottets justering</p>
-          <p>Förslag till beslut: Bifall till propositionen. Avslag på</p>
-          <p>motionen. Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelser</p>
-          <p>1995-12-19 1995/96:41 1995-12-19 1995/96:41 1995/96:136</p>
-          <p>1996-02-13</p>
-          <p>1996-03-13 1995/96:68 1995/96:177</p>
-          <p>1996-04-16</p>
-          <p>1996-05-08 1995/96:93</p>
-          <p>1996-02-06</p>
-          <p>1996-02-21 1995/96:59 1996-02-21 1995/96:59</p>
-          <p>1996-02-20</p>
-          <p>1996-03-13 1995/96:68 1996-03-13 1995/96:68</p>
-          <p>1996-03-12</p>
-          <p>1996-03-27 1995/96:76 1996-03-28 1995/96:77 1995/96:197, 198</p>
-          <p>1995/96:NU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199596/reg_199596_NU/reg_199596_NU-004.pdf"/>
-          <p>Nr NU19 Forskning inom skogs- och livsmedelsindustrierna</p>
-          <p>Utskottets justering 1996-03-26 Förslag till beslut: Avslag på motionerna Riksdagens beslut: Bifall till utskottets hemställan 1996-04-17 Protokollsnummer 1995/96:81 Nr NU20 Vissa kompletteringar till elreformen (prop. 1995/96:151) Utskottets justering 1996-05-02 Förslag till beslut: Bifall till propositionen. Avslag på motionen. Debatt i kammaren 1996-05-23 Protokollsnhummer 1995/96:98 Riksdagens beslut: Bifall till utskottets hemställan 1996-05-29 Protokollsnummer 1995/96:101 Riksdagsskrivelse 1995/96:266 Nr NU21 Vissa konkurrens- och avregleringsfrågor Utskottets justering 1996-03-26 Förslag till beslut: Avslag på motionerna Debatt i kammaren 1996-05-02 Protokollsnummer 1995/96:89 Riksdagens beslut: Bifall till utskottets hemställan 1996-05-08 Protokollsnummer 1995/96:93 Nr NU22</p>
-          <p>Godkännande av 1995 års internationella naturgummiavtal (prop. 1995/96:135)</p>
-          <p>Utskottets justering 1996-04-16 Förslag till beslut: Bifall till propositionen Riksdagens beslut: Bifall till utskottets hemställan 1996-05-08 Protokollsnhummer 1995/96:93 Riksdagsskrivelse 1995/96:226 Nr NU23 Förstärkt tillsyn över finansiella företag (prop. 1995/96:173) Utskottets justering 1996-05-23</p>
-          <p>Förslag till beslut: Delvis bifall till propositionen. Avslag på motionerna.</p>
-          <p>Riksdagens beslut: Bifall till utskottets hemställan 1996-06-05 Protokollsnhummer 1995/96:106 Riksdagsskrivelse 1995/96:285</p>
-          <p>1995/96:NU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199596/reg_199596_NU/reg_199596_NU-005.pdf"/>
-          <p>Nr NU24 En sjätte AP-fondstyrelse m.m. (prop. 1995/96:171) Utskottets justering Förslag till beslut: Delvis bifall till propositionen. Avslag på motionerna. Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnhummer Riksdagsskrivelse</p>
-          <p>Nr NU2S5 Avveckling av bankstödet (prop. 1995/96:172) Utskottets justering Förslag till beslut: Bifall till propositionen. Avslag på motionerna. Debatt i kammaren Protokollsnhummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse</p>
-          <p>Nr NU26</p>
-          <p>1996-05-23</p>
-          <p>1996-06-05 1995/96:106 1996-06-05 1995/96:106 1995/96:284</p>
-          <p>1996-05-09</p>
-          <p>1996-05-23 1995/96:98 1996-05-29 1995/96:101 1995/96:267</p>
-          <p>Aktiv förvaltning av statens företagsägande (prop. 1995/96:141,</p>
-          <p>prop. 1994/95:100) Utskottets justering Förslag till beslut: Delvis bifall till proposition 1995/96:141 och avslag på proposition 1994/95:100. Bifall till motioner om riktlinjer för kommersiella företag med statligt ägande och avslag på övriga motioner. Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnhummer Riksdagsskrivelse</p>
-          <p>Yttranden</p>
-          <p>Nr NUl1y till JoU PVC Utskottets justering Jordbruksutskottet=1995/96:JoU8</p>
-          <p>Nr NU2y till FöU Totalförsvar i förnyelse (prop. 1995/96:12) Utskottets justering Försvarsutskottet = 1995/96:FöU1</p>
-          <p>1996-05-28</p>
-          <p>1996-06-10 1995/96:108 1996-06-11 1995/96:109 1995/96:302</p>
-          <p>1995-10-26</p>
-          <p>1995-11-16</p>
-          <p>1995/96:NU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199596/reg_199596_NU/reg_199596_NU-006.pdf"/>
-          <p>Nr NU3y till FiU En politik för arbete, trygghet och utveckling (prop. 1995/96:25) Utskottets justering 1995-11-28 Finansutskottet=1995/96:FiU1</p>
-          <p>Nr NU4y till UU EU:s regeringskonferens 1996 (skriv. 1995/96:30) Utskottets justering 1996-02-13 Utrikesutskottet = 1995/96:UU13</p>
-          <p>Nr NUSy till KU Regeringens behandling av riksdagens skrivelser (skriv. 1995/96:15) Utskottets justering 1996-03-05</p>
-          <p>Konstitutionsutskottet = 1995/96:KU30</p>
-          <p>Nr NU6y till KU Några frågor om sekretess (prop. 1995/96:127) Utskottets justering 1996-02-20 Konstitutionsutskottet=1995/96:KU24</p>
-          <p>Nr NU7y till KU EU-frågornas behandling i riksdagen Utskottets justering 1996-04-18</p>
-          <p>Nr NU8y till TU Åtgärder för att bredda och utveckla användningen av informationsteknik (prop. 1995/96:125) Utskottets justering 1996-04-24 Trafikutskottet = 1995/96:TU19</p>
-          <p>Nr NU9y till FiU Ekonomisk vårproposition (prop. 1995/96:150) Utskottets justering 1996-05-14 Finansutskottet = 1995/96:FiU10</p>
-          <p>Nr NU10y till FiU Vissa åtgärder för att halvera arbetslösheten till år 2000, ändrade anslag för budgetåret 1995/96, finansiering m.m. (prop. 1995/96:222)</p>
-          <p>Utskottets justering 1996-06-26 Finansutskottet 1995/96:FiU15</p>
-          <p>1995/96:NU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199596/reg_199596_NU/reg_199596_NU-007.pdf"/>
-          <p>Sakregister 1995/96:NU Reg.</p>
-          <p>Allmänna pensionsfonden</p>
-          <p>PlaCeringSregl€l...sssssesssesesesesesesrsensnsnsrsnsnesrsns renen een en sne erns nn ses nen nn nen 24, 3y sjätte fONndStyrelSe smemseesesssssssrsrsrsrnrerrersererrrsnsnsnsrsrresensnsenrnrrs nerna renen nera 24 ÅrSTeCOVISNiNG oossessssrsrsrsrererrerereresrsrererrsrenererrer ere rsrsne rss aren sne Arn enes eran ennen enn 5 Bankväsen banklagstiftningen, ändringar i smsmmsmsssssrssssresrssrrsrrrerrsrnnnnn 6, 7, 8,9, 23, 25 bankstödet, avveCkling QV.sssssssssesssesrersrrerrrsrrerrerrrrsrrnrnrsrrrrrr sr rrsnernnn rn nn nn 25 Bankstödsnämnden .......ssssssserresrrssesrrrsrrssssrrrrrresessrrrrrrsrrrrnrr rer rrr rr rr rr ren 7,25 banktjänster genom OMDUC ......ssesessersrrsersesrsrrsrrerrsrrrerrerserrrrrrrrrsrrrnrrr rr rr r rn nnn 9 Baselkommittén ......sssssssssrsseseersrerseresesrersrerererersrererereserrsrsren ennen er rrres ennen enn nn rn 8 BCCI-direktiVet ossmsssssrsrsesesenersersersrsrsereresrresrserererererersrsrrerererenen enar enenen en en rna 23 ekonomisk förening, finansieringsverksamhet i s.......sssssssossossorsssssrrrnrsrnnnsn 9 finansiella företag, förstärkt tillsyn ÖVEI .........sssssssssssesssssesesesenesesernennnrn rna 23 finansiella tjänster, POSteNS..........sssssssssesssrsorssrssrssrsrrsrsrnssrerrrrrsrrrrnrrnrrnnn rn rna 3 flaggningsbestämmelSer.......sssssssssesesessrsernsrsrsrsesenesenerersrn ere en ere en een en er nn en enn 8 icke-finansiella bankägare ...smssssssesesesrssessesrsrsesesesesernrrrrsrrenesrser ennen annen enn 9 inlåningsverksamhet s..ssssssesssssssrsrsrrsrsesrneseserrerersrsrererenerererrererrererrsrr ner rr n enn nn 9 insättning av KuUNndmedel....ssessesssssrsrrsrrerrrsreresresrrsrernrerrrnerrrrrrrrrrrrrrer rer rrn nen rnr 9 iNSättniNngSgAarANti..ssssssssssssesesesesesrsreresesrerseresrenesrsrsr enes ere esn enes ene es renen annen rna 7 InsättningsgarantinämMmnNden s.sssmsssesssrssrsrrrsrsrrerssrrsrsrrsrrrrsrrrrrsr ennen rer r enn nnnrnt 25 lämplighetsprövning aV ägare m..sssssssssesesssrrssessrerserrerserrernrrrrerrerrrnerrrr rr nn rn 23 medlemsbanker, ny lag OMM ssssnserssssresrsreresrrsreresrreresrerrsrerrsrrer ren rrrrrr enn rr rer nn nn 9 Posten Fondkommission ÅB = sssssssresssrersssssesreseserrerersesesesrsrersesrenerer renen nn nn nn 3 Postgirot Bank AB sssssosssssssssrsesresresesresersrrsresesrerrrsrersreresrerrrrrer rer rrn essens nns nn 3 rapporteringsplikt för feViSOLeI s....ssssssssssssssssssssssessnsesesernernernereneneneren eran n en 23 regler för finansieringsverksamhet............ssssssssssssssseseseresesesesersenerserernrenen 23 RÖtfIVA oosssesrsrersrseresrsrersesrsrsrerersrsrersrererrsrer ennen er er reses ene sre reser enes r enes esn eran renen een 25 riskvärderingsmodeller ..ssssssssssssssrerrerrerresrrrrsrrsresrrrerrrrrsrerrrrrrrrrrnerrrr ren r rn nr 8 SCCUIUIM ooseesreresrerrersrerreresrerrrreeresrererrer renen eran een rer err enes senere ses senere nen n nen 25 spar- och låneföreniNgar ..s.sssssesssessesrseserrsrsrssrsrsrnerrsrsrsrsrerer rer errsre ner rrr ene n rn en 9 tillsyn över de finansiella marknaderna s....ssssssssssesesesessrrsrsersrsenrrsnsnnnnnn nns 23 vårdslös kreditgivning, ansvar fÖrl..........ssesssessssrsssrrsrsrssrrrsrrsrserrsrernerrrrrrrrrnt 7 Bulvanförhållanden, ändring i lagen OM ViSSå.......ssssessssessssesssseresersesensnsennnsnnn 1</p>
-          <p>Energiförsörjning</p>
-          <p>Affärsverket svenska kraftnät ..............ssssssssssssseresesseseseressesererrnernennnnn 20, 9y alternativa drivmedel, användning åV s...sssssessssseserrerssserrrsrrsrrsrrsrrrrsnrnnnnnn 3y ANSIAgSfLÅGOL oosesesrersrsrersrsrsersererersrsrsernrrsrrnsrn ere en ene en en en ense rann rn near ene en enn 3y balanSaNSVALsssssssrsrsrsrsrsrseserererersrsrrererer enes en er en enes renen ense senere rek Reese renen en enn 1 centrala mellanlagret för använt kärnbränsle (CLAB) ...........sssssssssssss000e 17 el i nätverksamhet, produktion AaV s.....ssssssssesssessessssssesrsssernesrsnrserrsnsnerrrnenenr 1 el, organiserad handelsplats fÖr ........ssssssssssesesesssssesesnrrsensnerernnenrnrnrnsnrnennrnt 1 el, utrikeshandeln Med ..smssssssssesserersrsrsrrreneserrsresrereresrsnensr ens renen nrn enn nrn enar 1 eldistributionsanläggning, ändring i lagen om förvärv QV..........sssssesmsssr 1</p>
-          <p>elkonsumenter, SMÅ .oeommessrsrerrrsserrererrererrrrsrrrressrrrsrrr sne rn r rr n enes n rss n nr rna rna 1 8</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199596/reg_199596_NU/reg_199596_NU-008.pdf"/>
-          <p>ellagen, äNdriNg I sm..ssesessssessssnsrsrenererssrsrsrsrsrsrrrsrssrn ennen sr renen ser rrn ren ennen nn 1,20 1995/96:NU Reg.</p>
-          <p>ellagstiftning, frågan OM IyY sssssssssssssssrssrsrrersrsrsesrsrsrererrner enes e erna enn nr nen en enn 1 elleVeransmätnNilg ....sesssessesssrsserererersrrrsrrresrrerrsrrsr rens renen ennen ennen ner r rn nn 20 elmarknadsreformen, ikraftträdande av s.....s.sssesrsersrsersrssrrrrnerrsrrrsernnrrrnnnnn nt 1 elmätare i inmatningspunkter, kostnaden fÖr ...........sssssssssssessessssssrsresrssnn 20 elproducenter, SIMA ........sssssessssssssreresrsrrrerseresersrrserersrrrn een er renen en seen ennen een erna 1 energipolitiken, riktlinjer fÖr...............sssessessessssssssreseseseresrsesnnnnn 3y, 9y, 10y energistadgefördraget............sssssseessesrsererrrssressererrernesrererreners renen rnren ennen rr nn nn 14 energisystemet, omställningen AV .s.ssssssssssssrsrsesrsrsesrsrsnsrrnsnsrsrenrrenen enar enn nnn nn 1 finansieringSlageD ...s..ssssssessssesrsesrsesrreresrerrsrereserer enes ere e ene rn ene nens een n en rn en en 10 fJÄILVÄLMe oooseereresrsresresresrersrerrerersrsrrerrerrrerrrsrer ers reser eken Ane K Arek Rene nere nerna nr 1 glesbygd, elkonsumenter i s.sssssssrserssreresresrersrersrrrsrererrreserer renen en ene erna en ene 1 kärnavfall, impOrt QV..msssssssssssessrersessrersesrrrsrerereseserer ere er enes eses er n sne n sen n nen enn 17 kärnavfall, inkapsling QV.s.ssmssssssssrerreserresrerneseseserenernesesrsnsrsnsnsns renen nn ennen en 17 kärnavfall, kostnader fÖr ............ssssssessressresrerssrrersserrrrrsrrrrrrrrrrnrrrrrnrr rn rr rr nr 10 kärnavfall, nOrdiSKt...........esssssssssseessessrsssrererersersrssrnrrrssrrrrsrrrrnrnsr rr rer rnrn nr ran 17 kärnavfall, slutförvaring och mellanlagring aV ............ssessssssssssssssnn 10, 17 KärnavfallsfOnden ..ssomsssssssrsersrresrrresrrerrersrrsresrerrresrsrerreres reser rr renen nere renen nn 10 kärnavfallsfrågor, Statens råd för (KASAM) a..ssssresssesrsrssesesrsrssesenesnrsnnrnr 17 kärnbränsle, försörjning MCA ss..sssssssssersrsssrssesrrrerrerrrsrsrersesrsner ennen en ern ennen en en 17 kärnbränsle, iMpOILt AV sssssessssrsrrsssrrserrerrerrrsresrerersrsrerenrer rr eran rsr enes n ene renen en 17 Kärnbränslefondsutredningen........ssessssssssssrsesesesesessssenernenenernerner enar en ener nn nen 10 kärnkraftinspektion, StatenS..............ssesseesssssesseressrsersrsesrsrerreresrsnsrnesnrrnn nen 17 kärnkraftverk, skrotningsspecifikation fÖr ............sssssssssrssssrsresssrrresrrsennen 17 kärntekniklagZeD.......sssssssesssssersrreesrrssresrrsrrreresrsrererrererrrrerrsre ren nrr ene renen 10, 17 kärnteknisk anläggning, lokalisering AV .smmsssssssrssrsrsrrsrsreserrrsesrsrernrsrenrrnnn 17 myndighetstillsyn, finansiering AV ssssmmsesseressrersrsrersersrerrsrsrsenrsren ennen ennen ennen enar 1 NALUIGAS oossssssrrssresrerresrresrresrrsrrrrrrrrrrrrr renare rss enn rs rese eR es RR ARR RKA K ARKA Kerr n nn 1 nordisk elmarknad ssssmsssssssrssrrrersrrrrserrrserrrserrerrsrrrrerrrrr rer rrr rs ren re kr ner renen nn nn 1 prissättning och KODNtrOll....ssssssssssssssssssesnrsreseserenerereseserenrsesnsnsnsnsnsnrn ene n een nn 1 R2-reaktOrososssssessssrssresesseeresrerssrssrsresrrerresrrsrerrereresr een res ess enes rer en ssr ene r ennen en 17 slutförvaret för radioaktivt driftavfall (SER J.......ssssssssessssseserssrrrersersnrsnnen 17 [TO] [3315 524 VA 3y, 10y strålskyddsinstitut, StatenS............sssssssssssesssesrsseresrsresererrrsrsernersrrsernnreren ennen 17 Studsvik AB ossossssseessrrsrrsseeresresressrrssrsrersrrsrrsnrsresrsrer ennen er r enes ense enas ene e nen nen enn Studsvikslagen Svensk Kärnbränslehantering AB (SKB )........ssssssssesesesesssesesoserssnrnrsnnrnrnt 17 tillsynsbestämmelserna i ellagen, viss komplettering aV.................s.s.s.. 20 utgiftsområde 21 EnNeI2Zl ss.smssssssesrsssrsrsessssesesesrseserensnsrnen sne en saneras nen en en nnn 9y Vattenfall AB o.msssssssssseseereresrersrrsresrsrerrsresrsrsrsrsrsrsrsrsrereser enes e renen enten en en enn 1, 26 Vindkraft ossssssssssnssreresreresrrsrrsrersrrsrrererrsrr ere rrr reser enes n enes s aren eek enar enn ena 3y, 10y Å gestareaktOrn............sssssssssssssanssssrrsrsssnsrrrrrrssssnnnnnnrr rss snnnnnn rr nns sanna nn nn nn nen 17 Europeiska unionen energipOlitik.......sssssessssssesreserrrssrrerrrsererrrrrrsnrrrererrer er rer eran ene n enes eran ennen rn en 4y EU-frågornas behandling i rikKSdagenD smsmssrsrsrsrsrsrsrsrsrsrsrsrsrsrsrrrrrsnrrrn rn rna Ty 210542 180) 4 RAA 4y industri- och konkurrenspolitiken ........ssssssssessrsrssrsssrrsrssesessesrsrsrnernerrer enn rna 4y</p>
-          <p>inre Marknaden ssssmssssserresrrrrrrserrrserrrresrrrsrrrrsrrrren nere rsrrsr ers enes r Arenan nen enn nn 4y 9</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199596/reg_199596_NU/reg_199596_NU-009.pdf"/>
-          <p>TegeringskONfereNS.....ssssssssssesesesesessrsrsnsnsnrrrer ere eran en en errr nns sne nens rr near e nen enn 4y</p>
-          <p>små och medelstora fÖretag ...............ssessiissrissrssrrssrrsrrassrrrssrrnsrnnnnrr rann 4y Finansdepartementet anslag inom Finansdepartementets OMråde .......ssssessesissessssessrssrssrssrsnnnn 18 FinansinspektiOnen s........ssssssssssssesrsrsserenesrsreresesesrrrersrsrersrrner senere nen en nen 11, 18, 23 181055 :4 354 55: AA 19 FÖrSVarSindlUStfill ssssssssssssrsresesesrererrsrererereserrerererrrerer esse reser sr r esse een een nen enn 2y Försäkringsrörelse försäkringsrörelselagstiftningen, ändringar I s.sssssssssrssrssrssessersrsrsnnnt 9, 23 Hantverkare, mästarbrev fÖr ssssmmmsserrrssrrrrrreressrrrrrssrsrrrrrrrrrrrrrrrr rss rrr nns rr r rr snor ren 2 Industribranscher krigsmaterielindlUStril ..mmsssssssrsrsrsrersrnesrsrersrersrsrererreresrrrrrrsr enn ere rrsrerer rn rn rna 2y livsmedelsindUStril s.smssssssssrererrsrsrersrsresrsrererererrsr rr r sr ere rer rer esn sn rn nan enn nn na 19 SKOgSINCUStLÅD oooesesseereerererseereresrsrersrerenerrsrer ere renen rsn rens srt aren ene renen een n nen ena 19</p>
-          <p>Kapitalförsörjning</p>
-          <p>ALMI Företagspartner ÅB sssssmsssssssrsseesessrsrsrrsrsesnesrsessnerrrrrrrnrrnnna 13, 3y, 10y AP-fondens placeringSrätt ...ssssssesssrsrssrsrsrsseresreresrsrsrsrerrsrerrsrerrrnenrn rna 24, 3y INdUStrifONCeDassesssreerrerserrerrerreresrerreresrsrerrersr rer rs rer reses rer er rerna KR r renen ana 3y kvinnors företagande, främjande aV...ssssssessersssrsssrsrrrrrrenrssrerrrrrrnnrnrnn 3y, 10y NYfÖretagarlån sm..sssssessrsrsrsesrsrsrsrrrrersrsrrrsrr ers er sne rer ere er ere renen ene nen ene nerna 3y, 10y riskkapitalförsÖLjDiNG.......ssesssssssssesesesreresrsrsrsrerrsrererrrrrsrerrrr ennen ene n rna 3y, 10y små och medelstora företag: se Små och medelstora företag uppfinnare och innovatörer, Stöd till...........sssssssssrssrssrsrsrrsrrrrrrerrrnsns 3y, 10y utvecklingsbolag, regiONnala ...s.ssssssrsrssrsrsrsrsreresrererrersrsrsrrsrrnerrr nr n non 3y, 10y Konkurrensfrågor AVICZÅCIING oossssseersresrersesrsrereresrereresererrsrererererrsr ere r ere rr ere n enar r en rn n na 21, 3y, 10y kommunala varuförsörjningSPlaner s..mssmssssssssrsrsrssrsrrsrsrrsrsrrsrerrsrererrnn ennen 21 kompetenskrav inom restaurangnäriNgeD smmssssserssrsrsrrssrrrsrrsrerererrsrerenen 21 SCKICtCSS oosoreerseerrerrsererresresrerrerrerrsreresrsrrsrrsrerrsr ess rss rs rrn ran enes RR KRKA Kar ren ennen a 6y skärpt KONKUITCNS...ssssssssssesrerersesesesesrerererrersrsrsrerrererrsr rs nrr renen nanna 21, 3y, 10y Kooperativ utveckling, Stöd till sssssssssssssssssssrssrsnssersersrsesererrrsnrsrsrrrrrerrrn er rna 10y</p>
-          <p>Mineralförsörjning</p>
-          <p>Adak, gruvavfallSUPPlag s...mssmssrorssesresresreresrrsesrrsrrsrrernrerrrrrrerrr rs renen ren r nn en 15 Garpenberg, gruvavfallSUpplag......sssessesssssrsssresreresrnesrernerrernesnernernerennrn enar en 15 geologiska undersökning (SGU), SVerigeS sm..sssssssersersoseesrrsrrssessrsresrrnrrnen 9y gruvnäringen, Satsningar PÅ ....s.sssesesssssessssesesrsrsrsrnsrnernernersesesrsrsnsr eran er en en ens nn 15 minerallagstiftningen, ÖVErSYN QV sm..mssssssssrssssrsesresessesresesrrrsrererrrrnn rn nen 15, 3y prospektering, villkOr fÖr s..ssssssssssssrssrssessrsrsressrsrnrsrrenresrenrrerrrsnenn ennen nen rna 15 Närings- och teknikutvecklingsverket (NUTEK)...... 1, 18, 19, 20, 3y, 9y, 10y</p>
-          <p>Näringsdepartementet anslag inom Näringsdepartementets område .......... 13, 18, 26, 3y, 9y, 10y</p>
-          <p>1995/96:NU Reg.</p>
-          <p>10</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199596/reg_199596_NU/reg_199596_NU-010.pdf"/>
-          <p>Näringspolitik informationsteknik (IT).........sssssessesssssssssessessessrersesrnessrsrerrerrrrrrrrrner ennen nn nan 8y inriktning IT-industrin.... programvaruindustril s..ssssesessssssssssrsssrsrsrsrsnsrsnsnenenen ens rnsren ennen aren ennen en nnn 8y småföretagspOlitik............sssssssssseressesereerererreresrsrrsrsrerrrsrrreren ren r ent 3y, 9y, 10y teknisk UtveCklilg .....ssesssssssesersrssrssesersrsnrerrerrrnrerrrrrrrrrr rer ere rr rr r rr renen ena 3y utgiftsområde 24 NäringSliV s. .ossessssssssssssesesenenesesesesersrsererersennerererer ennen rnnn 9y Östersjöregionen, samarbete och utveckling inOM ............sssssssssssesssss002 10y PlastinClUStfil sssssssssssssreresrsrersrsrsrsrsrerererrsrsrererrsrer renen rr en esse sens r ene arr en een en eran en enn ly PVO oooorrsrsrsrersrsrsrsrsrsrsrsrerererererersrrerersrsrsnsnsrs re rrn ere n enes en en eran ennen ARA R nen en en enar ennen ly Pyrotekniska varor krav på förbud mot barium och strontiUM ........sssssssssssssesesseresssssssnsesensnnr 16 krav på ÖVErSYN, ML. moossssssesssesessssrsrsrsrsrsrsrsrsrsrsren en enersn ense ns nen ens ns en ennen 16 Riksdagens skrivelser, regeringens behandling aV........sssessssrssssessesesesersnsnnnnn 5y Rymdverksamhet EVE ET RA 18</p>
-          <p>Små och medelstora företag</p>
-          <p>ALMI Företagspartner ÅB s..smssssssssssssessesressesrssresrrsrernsrsesrnsrnrnnn IndusStrifONCeD.......sssessesssssrsrrersserrerrersrsrerrrrrrsrenrrrr rss ere renen enn ene nen rn ennen kvinnors företagande, främjande av program för småföretagsutveckling, förnyelse och tillväxt................... 10y riskkapitalförSÖrjniNg........sesssessssssesessssesrsresrsrsrsesrererrrnen en ernsn renen en nn nn 3y, 10y teknikSpridning s...ssssssssssssesssssrssesesesrsnerseserneresnererr snar ernen ers nerna ne nen nn nn 3y, 10y SprängämnesinspektiONeh ...sssssssssssssssrssesrsrersesrsnesesreresrsnereserrer nen nere nsnrnrnrn nen 16 Statliga företag Exportkredit, AB SVENSK s.ssmsssssssssseeressesreneesrserrsesresnesrnesresrersrrsrnernnrnrn rna 18, 26 anslag för OmStrukturerilg2.........sssessssessessessrresrssrssrrsrrsresesrrsnr rer ernrn enn nn erna 26 Apoteksbolaget AB ..ssssssssrsesesssrsrssresesrsrnesenrernesrereresreresrrrer ennen ner ern eran nr nn nn nan 26 Arlanda flygplatS .m.smssssssssrsresrerssrsrsrererresersresresnesrrsresrer reser r er n renen en rrn nerna 26 ASSiDOMäÄnN ÅB orsorosesrsresesrsrsrererersersesrsrsererrenernrsnererrenesrenen es rene nere res nrn rn en ns nn 26 [03 ESTIESY NR 26 20 31:10) 89 &gt; 26 försäljning av skogsmark till enskilda ..........sssssssssssssssesessesnssnnserernsnsnn 4, 26 förvaltning osssssrssssrsresresesersrrerenerseserrereresrenesnen en ern een n eran enn rn en rna rr enr nan 26, 3y Lantbrukskredit AB =ssmsssssssssssssesrssssesrsreresrsrersrsreresrerersrsrerer ennen ennen enar en en en en 26 Pharmacia &amp; UpPjOBRn ..ssssssssrsrsesesresrrsrerrerserrsrererrsrernrrrrrrnrerrsresrrrr rer r enn n er ern nen 26 PIiVatiSCIiNG sosssssssrsersrsreresrerssrsrernrresesrrrereresner renen er r ene erna renen ennen enn 26, 3y, 10y | UST6 [072200 2) FS AA 4 FIKtliljer oossossssssesresrsrersenrsrsrereresrsrerenenesreren ene rer es rs es n ere er rer R sr Ren kkr RAR rann nen 26 SAQ Kontroll AB oosssssssssssssrssessssresrsresreseesresresrerrerresrersrerrer rer rer renen ene n nen 26 SBAB oe srsrsrsesesesesesesesesesrsrsesererersrsrner een eran en ene en ene en enes en een en ennen arenan ennen ran 26 SBL Vaccin AB sossssssssesssrsesererressererersrressrerrrerrnrrrsrsrrrsrsrresrrr reser n rer n enn nr sn 26 Svensk Interkontinental Lufttrafik AB (SILA) ssssssssssssssessssrersrrerrerrnnrrnnnr 26 NE) VEN SN 5 SR 26</p>
-          <p>1995/96:NU Reg.</p>
-          <p>11</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199596/reg_199596_NU/reg_199596_NU-011.pdf"/>
-          <p>TV eo ooerererererseserensesererersrsesererererer en ere er ene en ene er ere rns aren enes eran en sr renen en rr anor enn 26 Vasakronan AB sssesssesresressessrersrrerrrsrerrrrrsrrrererrerrerrrerrrrrrrrrrrrrrrr rn rr nr rn rn nen 26 Vattenfall AB s.sssssssssssssssssrreserrrerserrrsrrrrrssrrrrrsrrrrnrsrrrrrrr ner s ess rr nr res rn nan 1, 26 Svensk-norsk industrifond, statlig garanti till................ssssssessrssrssrrersesssrsrnnst 18 Teknisk utveckling FoU-insatser inom livsmedelsindustrin s..ssssesssssssrsrssrsrsrssrsrsrrererrrernerrnrnr 19 FoU-insatser inom SKOgSindusStril s..sssssssrssseereerssrsserrsrsresrsrserrrrrsnerrrnen nen nnn 19 teknikSpridning s...ssssssssessssesrereseresresesrersesrererrsrrrerrsrerererrerer nr nsrrnr nen enn 3y, 10y Turistsektorn, teknikutveckling iNOIM s.....sssssssssssssssrssssssesesesrersesesesrsrnrrrrnen rn rnn 13 Utrikeshandel el, utrikeshandeln Med s..ssmmssssssssrsrsrrrrssrsrsrsrsrsrernesrereresrrnsn ere nsnen enar enar en renen en en 1 exportfrämjande verksamhet..........ssssssssossesosnrsneneresrsnsnesesrsnsnrnenen een nnnsn ne 13 Exportkredit, AB SVenSK s.ssssssssssssssesessesesrsnesesnesesrsrernernesnsnerererennrnsnn nen 18, 26 Exportråd, SVeIigCS.......sesssssssssssesesesesesrsesesesrsnsnsnsnsesesersersersererensns ene enrn ns nnn 13 internationella naturgummiavtal, 1995 årS.........ssesssssssssrsesenenenrenenenernnnrnr 22 nordisk elmarknad .ssmssssssrsrssesrsrerrsrernerrrrernerrenerrereresreren en ern een arenan enes n nen en enn 1 Värdepappersmarknaden BCCI-direktiVet ssssssnsrssssssrssssrsrsrernernernererersererererererererererererer ers nsrn en ens rren enar en en 23 clearingverksamhet, ny lagstiftning fÖr..............ssssesssssssssssesessrssssersernnrnrn 11 inflytande i värdepappersfOnder .......sssssessssessssesesrsssneresrnernesesnrnsnsnsnsnen nns nn 11 kapitaltäCknilg.......sssssesssssseseseenesesresesresesesrersrarenesrrn aren ennen enes nr renen eran en enn n enn 8 kontoförande inStitUt.............ssssssssssersssrsrsrrsrsrseresrsrseseserrsreresnsnsrsnener ene nrn nn 11 KkOntOhållning s...ssesesssssssssesereeresesrereserrernerrerer ennen ner sne ers renen es nsn es en en enar ennen enn 11 lämplighetsprövning AV ägare m..sssssssssssrssessesesrssesesenrsrersesrsnsnrn arena ennen enn 23 rapporteringsplikt för TreViSOICI ......sssssssssssssssssrsssesesesnsresesrsrnenerer enar ernn nen enn 23 registerfÖrilg s.esesssssessssessrssrererresrerrerrrrrrrrerrrrr reses s eran een ees esse r enes een ennen nen 11 registrering av andelsägare ....ssssssssssssssrsrssesreneserrsnerererner er ernrnen sne er enn nn en 12 regler för finansieringsverksamhet...........sssssssssssssseserersesesnsnrnenenesenernrnnnen 23 tillSYI ooseeseesreresresrersrerersrerersrsrrerrsresr rer rsr rer rer esr rer rer eer rer ere r ennen aren renen renen ena 23 utredning om de finansiella marknadernåa........ssssssssssssssesersrnrsenenerernrnennne 11 VP-SYStemet os oesseereesrsesseesrersrsrrresrrerrsrsrrrssrrersrrssrrssr ren rsr rer rrrn renare ns nen n nen 11 Värdepapperscentralen VPC AB =msssrsnssssesrssesssssesernenesesesnenenernenesnsnsnen rna 11 värdepapperslagstiftningen, ändringar 1.............sssss----- 7,8,9, 11, 12, 23 Östersjöregionen, program för samarbete och utveckling i ......................- 10y</p>
-          <p>Gotab, Stockholm 1996</p>
-          <p>1995/96:NU Reg.</p>
-          <p>12</p>
+          <p>
+            Näringsutskottets register vid riksmötet 1995/96
+          </p>
+          <p>
+            Betänkanden
+          </p>
+          <p>
+            Nr NU1 Ny ellagstiftning (prop. 1994/95:222) Utskottets justering
+            Förslag till beslut: Bifall till propositionen. Avslag på motionerna.
+            Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till
+            utskottets hemställan Protokollsnummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr NU2 Mästarbrev för hantverkare (prop. 1994/95:228) Utskottets
+            justering Förslag till beslut: Bifall till propositionen. Avslag
+            på motionen. Riksdagens beslut: Bifall till utskottets hemställan
+            Protokollsnhummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr NU3 Postens finansiella tjänster (prop. 1995/96:3) Utskottets
+            justering Förslag till beslut: Bifall till propositionen. Avslag
+            på motionerna. Debatt i kammaren Protokollsnhummer Riksdagens
+            beslut: Bifall till utskottets hemställan Protokollsnhummer Riksdagsskrivelse
+          </p>
+          <p>
+            I Riksdagen 1995/96 17 saml.Register
+          </p>
+          <p>
+            1995-10-10
+          </p>
+          <p>
+            1995-10-25 1995/96:14 1995-10-25 1995/96:14 1995/96:2
+          </p>
+          <p>
+            1995-10-17
+          </p>
+          <p>
+            1995-11-15 1995/96:23 1995/96:9
+          </p>
+          <p>
+            1995-11-14
+          </p>
+          <p>
+            1995-11-23 1995/96:28 1995-11-23 1995/96:28 1995/96:41
+          </p>
+          <p>
+            Zz E8/ aÉ un 28 Sila
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199596/reg_199596_NU/reg_199596_NU_0001"/>
+          <p>
+            Nr NU4 Redogörelse för företag med statligt ägande, m.m. (skriv.
+            1995/96:20) Utskottets justering 1995-11-14 Förslag till beslut:
+            Skrivelsen läggs till handlingarna. Avslag på motionerna.
+          </p>
+          <p>
+            Riksdagens beslut: Bifall till utskottets hemställan 1995-11-23
+            Protokollsnummer 1995/96:28 Riksdagsskrivelse 1995/96:42 Nr NUS
+            Allmänna pensionsfondens verksamhet år 1994 (skriv. 1995/96:13)
+            Utskottets justering 1995-11-14 Förslag till beslut: Skrivelsen
+            läggs till handlingarna Riksdagens beslut: Bifall till utskottets
+            hemställan 1995-11-23 Protokollshummer 1995/96:28 Riksdagsskrivelse
+            1995/96:43 Nr NU6
+          </p>
+          <p>
+            Ändring i lagen om statligt stöd till banker och andra kreditinstitut
+            (prop. 1995/96:70)
+          </p>
+          <p>
+            Utskottets justering 1995-11-21 Förslag till beslut: Bifall till
+            propositionen Riksdagens beslut: Bifall till utskottets hemställan
+            1995-12-07 Protokollsnummer 1995/96:33 Riksdagsskrivelse 1995/96:75
+            Nr NU7 Insättningsgaranti (prop. 1995/96:60) Utskottets justering
+            1995-11-21
+          </p>
+          <p>
+            Förslag till beslut: Delvis bifall till propositionen. Avslag
+            på motionerna.
+          </p>
+          <p>
+            Debatt i kammaren 1995-12-07 Protokollsnummer 1995/96:33 Riksdagens
+            beslut: Bifall till utskottets hemställan 1995-12-08 Protokollsnummer
+            1995/96:34 Riksdagsskrivelse 1995/96:83 Nr NU8
+          </p>
+          <p>
+            Andringar i kapitaltäckningsreglerna m.m. (prop. 1995/96:62,
+            prop. 1995/96:10, prop. 1995/96:74) Utskottets justering 1995-12-05
+            Förslag till beslut: Bifall till propositionerna med vissa redaktionella
+            ändringar. Avslag på motionen.
+          </p>
+          <p>
+            Riksdagens beslut: Bifall till utskottets hemställan 1995-12-15
+            Protokollsnummer 1995/96:39 Riksdagsskrivelser 1995/96:110, 111
+          </p>
+          <p>
+            1995/96:NU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199596/reg_199596_NU/reg_199596_NU_0002"/>
+          <p>
+            Nr NU9 Ökad bankkonkurrens (prop. 1995/96:74, prop. 1995/96:10,
+            prop. 1995/96:60, prop. 1995/96:104) Utskottets justering 1995-12-05
+            Förslag till beslut: Bifall till proposition 1995/96:104, bifall
+            till proposition 1995/96:60 med viss redaktionell ändring samt
+            delvis bifall till propositionerna 1995/96:10 och 1995/96:74.
+            Bifall till motion angående icke- finansiella bankägare och avslag
+            på övriga motioner.
+          </p>
+          <p>
+            Debatt i kammaren 1995-12-15 Protokollsnummer 1995/96:39 Riksdagens
+            beslut: Bifall till utskottets hemställan 1995-12-15 Protokollsnummer
+            1995/96:39 Riksdagsskrivelser 1995/96:112, 113 Nr NU10
+          </p>
+          <p>
+            Säkrare finansiering av framtida kärnavfallskostnader m.m. (prop.
+            1995/96:83) Utskottets justering 1995-12-07 Förslag till beslut:
+            Bifall till propositionen med viss redaktionell ändring. Avslag
+            på motionerna.
+          </p>
+          <p>
+            Debatt i kammaren 1995-12-15 Protokollsnhummer 1995/96:39 Riksdagens
+            beslut: Bifall till utskottets hemställan 1995-12-15 Protokollsnummer
+            1995/96:39 Riksdagsskrivelse 1995/96:114 Nr NU11 Clearingverksamhet
+            m.m. (prop. 1995/96:50) Utskottets justering 1996-02-21 Förslag
+            till beslut: Bifall till propositionen. Avslag på motionerna.
+            Riksdagens beslut: Bifall till utskottets hemställan 1996-03-13
+            Protokollsnhummer 1995/96:68 Riksdagsskrivelse 1995/96:180 Nr
+            NU12 Andring i lagstiftningen för värdepappersfonder (prop. 1995/96:73)
+            Utskottets justering 1995-11-28 Förslag till beslut: Bifall till
+            propositionen Riksdagens beslut: Bifall till utskottets hemställan
+            1995-12-07 Protokollsnummer 1995/96:33 Riksdagsskrivelse 1995/96:76
+            Nr NU13 Exportinsatser för små och medelstora företag, m.m. (prop.
+            1995/96:94) Utskottets justering 1995-12-07 Förslag till beslut:
+            Bifall till propositionen. Avslag på motionerna.
+          </p>
+          <p>
+            1 Riksdagen 1995/96 17 saml. Register
+          </p>
+          <p>
+            1995/96:NU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199596/reg_199596_NU/reg_199596_NU_0003"/>
+          <p>
+            Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall
+            till utskottets hemställan Protokollsnummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr NU14 Energistadgefördraget (prop. 1995/96:68) Utskottets justering
+            Förslag till beslut: Bifall till propositionen Riksdagens beslut:
+            Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr NU15 Vissa gruvfrågor Utskottets justering Förslag till beslut:
+            Avslag på samtliga motioner Riksdagens beslut: Bifall till utskottets
+            hemställan Protokollsnummer
+          </p>
+          <p>
+            Nr NU16 Pyrotekniska varor Utskottets justering Förslag till
+            beslut: Avslag på motionerna Debatt i kammaren Protokollsnhummer
+            Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer
+          </p>
+          <p>
+            Nr NU17 Kärnavfall m.m. Utskottets justering Förslag till beslut:
+            Avslag på motionerna Debatt i kammaren Protokollshummer Riksdagens
+            beslut: Bifall till utskottets hemställan Protokollsnhummer
+          </p>
+          <p>
+            Nr NU18 Tilläggsbudget (prop. 1995/96:105) Utskottets justering
+          </p>
+          <p>
+            Förslag till beslut: Bifall till propositionen. Avslag på
+          </p>
+          <p>
+            motionen. Debatt i kammaren Protokollsnummer Riksdagens beslut:
+            Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelser
+          </p>
+          <p>
+            1995-12-19 1995/96:41 1995-12-19 1995/96:41 1995/96:136
+          </p>
+          <p>
+            1996-02-13
+          </p>
+          <p>
+            1996-03-13 1995/96:68 1995/96:177
+          </p>
+          <p>
+            1996-04-16
+          </p>
+          <p>
+            1996-05-08 1995/96:93
+          </p>
+          <p>
+            1996-02-06
+          </p>
+          <p>
+            1996-02-21 1995/96:59 1996-02-21 1995/96:59
+          </p>
+          <p>
+            1996-02-20
+          </p>
+          <p>
+            1996-03-13 1995/96:68 1996-03-13 1995/96:68
+          </p>
+          <p>
+            1996-03-12
+          </p>
+          <p>
+            1996-03-27 1995/96:76 1996-03-28 1995/96:77 1995/96:197, 198
+          </p>
+          <p>
+            1995/96:NU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199596/reg_199596_NU/reg_199596_NU_0004"/>
+          <p>
+            Nr NU19 Forskning inom skogs- och livsmedelsindustrierna
+          </p>
+          <p>
+            Utskottets justering 1996-03-26 Förslag till beslut: Avslag på
+            motionerna Riksdagens beslut: Bifall till utskottets hemställan
+            1996-04-17 Protokollsnummer 1995/96:81 Nr NU20 Vissa kompletteringar
+            till elreformen (prop. 1995/96:151) Utskottets justering 1996-05-02
+            Förslag till beslut: Bifall till propositionen. Avslag på motionen.
+            Debatt i kammaren 1996-05-23 Protokollsnhummer 1995/96:98 Riksdagens
+            beslut: Bifall till utskottets hemställan 1996-05-29 Protokollsnummer
+            1995/96:101 Riksdagsskrivelse 1995/96:266 Nr NU21 Vissa konkurrens-
+            och avregleringsfrågor Utskottets justering 1996-03-26 Förslag
+            till beslut: Avslag på motionerna Debatt i kammaren 1996-05-02
+            Protokollsnummer 1995/96:89 Riksdagens beslut: Bifall till utskottets
+            hemställan 1996-05-08 Protokollsnummer 1995/96:93 Nr NU22
+          </p>
+          <p>
+            Godkännande av 1995 års internationella naturgummiavtal (prop.
+            1995/96:135)
+          </p>
+          <p>
+            Utskottets justering 1996-04-16 Förslag till beslut: Bifall till
+            propositionen Riksdagens beslut: Bifall till utskottets hemställan
+            1996-05-08 Protokollsnhummer 1995/96:93 Riksdagsskrivelse 1995/96:226
+            Nr NU23 Förstärkt tillsyn över finansiella företag (prop. 1995/96:173)
+            Utskottets justering 1996-05-23
+          </p>
+          <p>
+            Förslag till beslut: Delvis bifall till propositionen. Avslag
+            på motionerna.
+          </p>
+          <p>
+            Riksdagens beslut: Bifall till utskottets hemställan 1996-06-05
+            Protokollsnhummer 1995/96:106 Riksdagsskrivelse 1995/96:285
+          </p>
+          <p>
+            1995/96:NU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199596/reg_199596_NU/reg_199596_NU_0005"/>
+          <p>
+            Nr NU24 En sjätte AP-fondstyrelse m.m. (prop. 1995/96:171) Utskottets
+            justering Förslag till beslut: Delvis bifall till propositionen.
+            Avslag på motionerna. Debatt i kammaren Protokollsnummer Riksdagens
+            beslut: Bifall till utskottets hemställan Protokollsnhummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr NU2S5 Avveckling av bankstödet (prop. 1995/96:172) Utskottets
+            justering Förslag till beslut: Bifall till propositionen. Avslag
+            på motionerna. Debatt i kammaren Protokollsnhummer Riksdagens
+            beslut: Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr NU26
+          </p>
+          <p>
+            1996-05-23
+          </p>
+          <p>
+            1996-06-05 1995/96:106 1996-06-05 1995/96:106 1995/96:284
+          </p>
+          <p>
+            1996-05-09
+          </p>
+          <p>
+            1996-05-23 1995/96:98 1996-05-29 1995/96:101 1995/96:267
+          </p>
+          <p>
+            Aktiv förvaltning av statens företagsägande (prop. 1995/96:141,
+          </p>
+          <p>
+            prop. 1994/95:100) Utskottets justering Förslag till beslut:
+            Delvis bifall till proposition 1995/96:141 och avslag på proposition
+            1994/95:100. Bifall till motioner om riktlinjer för kommersiella
+            företag med statligt ägande och avslag på övriga motioner. Debatt
+            i kammaren Protokollsnummer Riksdagens beslut: Bifall till utskottets
+            hemställan Protokollsnhummer Riksdagsskrivelse
+          </p>
+          <p>
+            Yttranden
+          </p>
+          <p>
+            Nr NUl1y till JoU PVC Utskottets justering Jordbruksutskottet=1995/96:JoU8
+          </p>
+          <p>
+            Nr NU2y till FöU Totalförsvar i förnyelse (prop. 1995/96:12)
+            Utskottets justering Försvarsutskottet = 1995/96:FöU1
+          </p>
+          <p>
+            1996-05-28
+          </p>
+          <p>
+            1996-06-10 1995/96:108 1996-06-11 1995/96:109 1995/96:302
+          </p>
+          <p>
+            1995-10-26
+          </p>
+          <p>
+            1995-11-16
+          </p>
+          <p>
+            1995/96:NU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199596/reg_199596_NU/reg_199596_NU_0006"/>
+          <p>
+            Nr NU3y till FiU En politik för arbete, trygghet och utveckling
+            (prop. 1995/96:25) Utskottets justering 1995-11-28 Finansutskottet=1995/96:FiU1
+          </p>
+          <p>
+            Nr NU4y till UU EU:s regeringskonferens 1996 (skriv. 1995/96:30)
+            Utskottets justering 1996-02-13 Utrikesutskottet = 1995/96:UU13
+          </p>
+          <p>
+            Nr NUSy till KU Regeringens behandling av riksdagens skrivelser
+            (skriv. 1995/96:15) Utskottets justering 1996-03-05
+          </p>
+          <p>
+            Konstitutionsutskottet = 1995/96:KU30
+          </p>
+          <p>
+            Nr NU6y till KU Några frågor om sekretess (prop. 1995/96:127)
+            Utskottets justering 1996-02-20 Konstitutionsutskottet=1995/96:KU24
+          </p>
+          <p>
+            Nr NU7y till KU EU-frågornas behandling i riksdagen Utskottets
+            justering 1996-04-18
+          </p>
+          <p>
+            Nr NU8y till TU Åtgärder för att bredda och utveckla användningen
+            av informationsteknik (prop. 1995/96:125) Utskottets justering
+            1996-04-24 Trafikutskottet = 1995/96:TU19
+          </p>
+          <p>
+            Nr NU9y till FiU Ekonomisk vårproposition (prop. 1995/96:150)
+            Utskottets justering 1996-05-14 Finansutskottet = 1995/96:FiU10
+          </p>
+          <p>
+            Nr NU10y till FiU Vissa åtgärder för att halvera arbetslösheten
+            till år 2000, ändrade anslag för budgetåret 1995/96, finansiering
+            m.m. (prop. 1995/96:222)
+          </p>
+          <p>
+            Utskottets justering 1996-06-26 Finansutskottet 1995/96:FiU15
+          </p>
+          <p>
+            1995/96:NU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199596/reg_199596_NU/reg_199596_NU_0007"/>
+          <p>
+            Sakregister 1995/96:NU Reg.
+          </p>
+          <p>
+            Allmänna pensionsfonden
+          </p>
+          <p>
+            PlaCeringSregl€l...sssssesssesesesesesesrsensnsnsrsnsnesrsns
+            renen een en sne erns nn ses nen nn nen 24, 3y sjätte fONndStyrelSe
+            smemseesesssssssrsrsrsrnrerrersererrrsnsnsnsrsrresensnsenrnrrs
+            nerna renen nera 24 ÅrSTeCOVISNiNG oossessssrsrsrsrererrerereresrsrererrsrenererrer
+            ere rsrsne rss aren sne Arn enes eran ennen enn 5 Bankväsen banklagstiftningen,
+            ändringar i smsmmsmsssssrssssresrssrrsrrrerrsrnnnnn 6, 7, 8,9,
+            23, 25 bankstödet, avveCkling QV.sssssssssesssesrersrrerrrsrrerrerrrrsrrnrnrsrrrrrr
+            sr rrsnernnn rn nn nn 25 Bankstödsnämnden .......ssssssserresrrssesrrrsrrssssrrrrrresessrrrrrrsrrrrnrr
+            rer rrr rr rr rr ren 7,25 banktjänster genom OMDUC ......ssesessersrrsersesrsrrsrrerrsrrrerrerserrrrrrrrrsrrrnrrr
+            rr rr r rn nnn 9 Baselkommittén ......sssssssssrsseseersrerseresesrersrerererersrererereserrsrsren
+            ennen er rrres ennen enn nn rn 8 BCCI-direktiVet ossmsssssrsrsesesenersersersrsrsereresrresrserererererersrsrrerererenen
+            enar enenen en en rna 23 ekonomisk förening, finansieringsverksamhet
+            i s.......sssssssossossorsssssrrrnrsrnnnsn 9 finansiella företag,
+            förstärkt tillsyn ÖVEI .........sssssssssssesssssesesesenesesernennnrn
+            rna 23 finansiella tjänster, POSteNS..........sssssssssesssrsorssrssrssrsrrsrsrnssrerrrrrsrrrrnrrnrrnnn
+            rn rna 3 flaggningsbestämmelSer.......sssssssssesesessrsernsrsrsrsesenesenerersrn
+            ere en ere en een en er nn en enn 8 icke-finansiella bankägare
+            ...smssssssesesesrssessesrsrsesesesesernrrrrsrrenesrser ennen
+            annen enn 9 inlåningsverksamhet s..ssssssesssssssrsrsrrsrsesrneseserrerersrsrererenerererrererrererrsrr
+            ner rr n enn nn 9 insättning av KuUNndmedel....ssessesssssrsrrsrrerrrsreresresrrsrernrerrrnerrrrrrrrrrrrrrer
+            rer rrn nen rnr 9 iNSättniNngSgAarANti..ssssssssssssesesesesesrsreresesrerseresrenesrsrsr
+            enes ere esn enes ene es renen annen rna 7 InsättningsgarantinämMmnNden
+            s.sssmsssesssrssrsrrrsrsrrerssrrsrsrrsrrrrsrrrrrsr ennen rer r
+            enn nnnrnt 25 lämplighetsprövning aV ägare m..sssssssssesesssrrssessrerserrerserrernrrrrerrerrrnerrrr
+            rr nn rn 23 medlemsbanker, ny lag OMM ssssnserssssresrsreresrrsreresrreresrerrsrerrsrrer
+            ren rrrrrr enn rr rer nn nn 9 Posten Fondkommission ÅB = sssssssresssrersssssesreseserrerersesesesrsrersesrenerer
+            renen nn nn nn 3 Postgirot Bank AB sssssosssssssssrsesresresesresersrrsresesrerrrsrersreresrerrrrrer
+            rer rrn essens nns nn 3 rapporteringsplikt för feViSOLeI s....ssssssssssssssssssssssessnsesesernernernereneneneren
+            eran n en 23 regler för finansieringsverksamhet............ssssssssssssssseseseresesesesersenerserernrenen
+            23 RÖtfIVA oosssesrsrersrseresrsrersesrsrsrerersrsrersrererrsrer
+            ennen er er reses ene sre reser enes r enes esn eran renen een
+            25 riskvärderingsmodeller ..ssssssssssssssrerrerrerresrrrrsrrsresrrrerrrrrsrerrrrrrrrrrnerrrr
+            ren r rn nr 8 SCCUIUIM ooseesreresrerrersrerreresrerrrreeresrererrer
+            renen eran een rer err enes senere ses senere nen n nen 25 spar-
+            och låneföreniNgar ..s.sssssesssessesrseserrsrsrssrsrsrnerrsrsrsrsrerer
+            rer errsre ner rrr ene n rn en 9 tillsyn över de finansiella marknaderna
+            s....ssssssssssesesesessrrsrsersrsenrrsnsnnnnnn nns 23 vårdslös
+            kreditgivning, ansvar fÖrl..........ssesssessssrsssrrsrsrssrrrsrrsrserrsrernerrrrrrrrrnt
+            7 Bulvanförhållanden, ändring i lagen OM ViSSå.......ssssessssessssesssseresersesensnsennnsnnn
+            1
+          </p>
+          <p>
+            Energiförsörjning
+          </p>
+          <p>
+            Affärsverket svenska kraftnät ..............ssssssssssssseresesseseseressesererrnernennnnn
+            20, 9y alternativa drivmedel, användning åV s...sssssessssseserrerssserrrsrrsrrsrrsrrrrsnrnnnnnn
+            3y ANSIAgSfLÅGOL oosesesrersrsrersrsrsersererersrsrsernrrsrrnsrn
+            ere en ene en en en ense rann rn near ene en enn 3y balanSaNSVALsssssssrsrsrsrsrsrseserererersrsrrererer
+            enes en er en enes renen ense senere rek Reese renen en enn 1
+            centrala mellanlagret för använt kärnbränsle (CLAB) ...........sssssssssssss000e
+            17 el i nätverksamhet, produktion AaV s.....ssssssssesssessessssssesrsssernesrsnrserrsnsnerrrnenenr
+            1 el, organiserad handelsplats fÖr ........ssssssssssesesesssssesesnrrsensnerernnenrnrnrnsnrnennrnt
+            1 el, utrikeshandeln Med ..smssssssssesserersrsrsrrreneserrsresrereresrsnensr
+            ens renen nrn enn nrn enar 1 eldistributionsanläggning, ändring
+            i lagen om förvärv QV..........sssssesmsssr 1
+          </p>
+          <p>
+            elkonsumenter, SMÅ .oeommessrsrerrrsserrererrererrrrsrrrressrrrsrrr
+            sne rn r rr n enes n rss n nr rna rna 1 8
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199596/reg_199596_NU/reg_199596_NU_0008"/>
+          <p>
+            ellagen, äNdriNg I sm..ssesessssessssnsrsrenererssrsrsrsrsrsrrrsrssrn
+            ennen sr renen ser rrn ren ennen nn 1,20 1995/96:NU Reg.
+          </p>
+          <p>
+            ellagstiftning, frågan OM IyY sssssssssssssssrssrsrrersrsrsesrsrsrererrner
+            enes e erna enn nr nen en enn 1 elleVeransmätnNilg ....sesssessesssrsserererersrrrsrrresrrerrsrrsr
+            rens renen ennen ennen ner r rn nn 20 elmarknadsreformen, ikraftträdande
+            av s.....s.sssesrsersrsersrssrrrrnerrsrrrsernnrrrnnnnn nt 1 elmätare
+            i inmatningspunkter, kostnaden fÖr ...........sssssssssssessessssssrsresrssnn
+            20 elproducenter, SIMA ........sssssessssssssreresrsrrrerseresersrrserersrrrn
+            een er renen en seen ennen een erna 1 energipolitiken, riktlinjer
+            fÖr...............sssessessessssssssreseseseresrsesnnnnn 3y, 9y,
+            10y energistadgefördraget............sssssseessesrsererrrssressererrernesrererreners
+            renen rnren ennen rr nn nn 14 energisystemet, omställningen AV
+            .s.ssssssssssssrsrsesrsrsesrsrsnsrrnsnsrsrenrrenen enar enn nnn
+            nn 1 finansieringSlageD ...s..ssssssessssesrsesrsesrreresrerrsrereserer
+            enes ere e ene rn ene nens een n en rn en en 10 fJÄILVÄLMe oooseereresrsresresresrersrerrerersrsrrerrerrrerrrsrer
+            ers reser eken Ane K Arek Rene nere nerna nr 1 glesbygd, elkonsumenter
+            i s.sssssssrserssreresresrersrersrrrsrererrreserer renen en ene
+            erna en ene 1 kärnavfall, impOrt QV..msssssssssssessrersessrersesrrrsrerereseserer
+            ere er enes eses er n sne n sen n nen enn 17 kärnavfall, inkapsling
+            QV.s.ssmssssssssrerreserresrerneseseserenernesesrsnsrsnsnsns renen
+            nn ennen en 17 kärnavfall, kostnader fÖr ............ssssssessressresrerssrrersserrrrrsrrrrrrrrrrnrrrrrnrr
+            rn rr rr nr 10 kärnavfall, nOrdiSKt...........esssssssssseessessrsssrererersersrssrnrrrssrrrrsrrrrnrnsr
+            rr rer rnrn nr ran 17 kärnavfall, slutförvaring och mellanlagring
+            aV ............ssessssssssssssssnn 10, 17 KärnavfallsfOnden ..ssomsssssssrsersrresrrresrrerrersrrsresrerrresrsrerreres
+            reser rr renen nere renen nn 10 kärnavfallsfrågor, Statens råd
+            för (KASAM) a..ssssresssesrsrssesesrsrssesenesnrsnnrnr 17 kärnbränsle,
+            försörjning MCA ss..sssssssssersrsssrssesrrrerrerrrsrsrersesrsner
+            ennen en ern ennen en en 17 kärnbränsle, iMpOILt AV sssssessssrsrrsssrrserrerrerrrsresrerersrsrerenrer
+            rr eran rsr enes n ene renen en 17 Kärnbränslefondsutredningen........ssessssssssssrsesesesesessssenernenenernerner
+            enar en ener nn nen 10 kärnkraftinspektion, StatenS..............ssesseesssssesseressrsersrsesrsrerreresrsnsrnesnrrnn
+            nen 17 kärnkraftverk, skrotningsspecifikation fÖr ............sssssssssrssssrsresssrrresrrsennen
+            17 kärntekniklagZeD.......sssssssesssssersrreesrrssresrrsrrreresrsrererrererrrrerrsre
+            ren nrr ene renen 10, 17 kärnteknisk anläggning, lokalisering
+            AV .smmsssssssrssrsrsrrsrsreserrrsesrsrernrsrenrrnnn 17 myndighetstillsyn,
+            finansiering AV ssssmmsesseressrersrsrersersrerrsrsrsenrsren ennen
+            ennen ennen enar 1 NALUIGAS oossssssrrssresrerresrresrresrrsrrrrrrrrrrrrr
+            renare rss enn rs rese eR es RR ARR RKA K ARKA Kerr n nn 1 nordisk
+            elmarknad ssssmsssssssrssrrrersrrrrserrrserrrserrerrsrrrrerrrrr
+            rer rrr rs ren re kr ner renen nn nn 1 prissättning och KODNtrOll....ssssssssssssssssssesnrsreseserenerereseserenrsesnsnsnsnsnsnrn
+            ene n een nn 1 R2-reaktOrososssssessssrssresesseeresrerssrssrsresrrerresrrsrerrereresr
+            een res ess enes rer en ssr ene r ennen en 17 slutförvaret för
+            radioaktivt driftavfall (SER J.......ssssssssessssseserssrrrersersnrsnnen
+            17 [TO] [3315 524 VA 3y, 10y strålskyddsinstitut, StatenS............sssssssssssesssesrsseresrsresererrrsrsernersrrsernnreren
+            ennen 17 Studsvik AB ossossssseessrrsrrsseeresresressrrssrsrersrrsrrsnrsresrsrer
+            ennen er r enes ense enas ene e nen nen enn Studsvikslagen Svensk
+            Kärnbränslehantering AB (SKB )........ssssssssesesesesssesesoserssnrnrsnnrnrnt
+            17 tillsynsbestämmelserna i ellagen, viss komplettering aV.................s.s.s..
+            20 utgiftsområde 21 EnNeI2Zl ss.smssssssesrsssrsrsessssesesesrseserensnsrnen
+            sne en saneras nen en en nnn 9y Vattenfall AB o.msssssssssseseereresrersrrsresrsrerrsresrsrsrsrsrsrsrsrsrereser
+            enes e renen enten en en enn 1, 26 Vindkraft ossssssssssnssreresreresrrsrrsrersrrsrrererrsrr
+            ere rrr reser enes n enes s aren eek enar enn ena 3y, 10y Å gestareaktOrn............sssssssssssssanssssrrsrsssnsrrrrrrssssnnnnnnrr
+            rss snnnnnn rr nns sanna nn nn nn nen 17 Europeiska unionen energipOlitik.......sssssessssssesreserrrssrrerrrsererrrrrrsnrrrererrer
+            er rer eran ene n enes eran ennen rn en 4y EU-frågornas behandling
+            i rikKSdagenD smsmssrsrsrsrsrsrsrsrsrsrsrsrsrsrsrrrrrsnrrrn rn
+            rna Ty 210542 180) 4 RAA 4y industri- och konkurrenspolitiken
+            ........ssssssssessrsrssrsssrrsrssesessesrsrsrnernerrer enn rna
+            4y
+          </p>
+          <p>
+            inre Marknaden ssssmssssserresrrrrrrserrrserrrresrrrsrrrrsrrrren
+            nere rsrrsr ers enes r Arenan nen enn nn 4y 9
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199596/reg_199596_NU/reg_199596_NU_0009"/>
+          <p>
+            TegeringskONfereNS.....ssssssssssesesesesessrsrsnsnsnrrrer ere
+            eran en en errr nns sne nens rr near e nen enn 4y
+          </p>
+          <p>
+            små och medelstora fÖretag ...............ssessiissrissrssrrssrrsrrassrrrssrrnsrnnnnrr
+            rann 4y Finansdepartementet anslag inom Finansdepartementets OMråde
+            .......ssssessesissessssessrssrssrssrsnnnn 18 FinansinspektiOnen
+            s........ssssssssssssesrsrsserenesrsreresesesrrrersrsrersrrner
+            senere nen en nen 11, 18, 23 181055 :4 354 55: AA 19 FÖrSVarSindlUStfill
+            ssssssssssssrsresesesrererrsrererereserrerererrrerer esse reser
+            sr r esse een een nen enn 2y Försäkringsrörelse försäkringsrörelselagstiftningen,
+            ändringar I s.sssssssssrssrssrssessersrsrsnnnt 9, 23 Hantverkare,
+            mästarbrev fÖr ssssmmmsserrrssrrrrrreressrrrrrssrsrrrrrrrrrrrrrrrr
+            rss rrr nns rr r rr snor ren 2 Industribranscher krigsmaterielindlUStril
+            ..mmsssssssrsrsrsrersrnesrsrersrersrsrererreresrrrrrrsr enn ere
+            rrsrerer rn rn rna 2y livsmedelsindUStril s.smssssssssrererrsrsrersrsresrsrererererrsr
+            rr r sr ere rer rer esn sn rn nan enn nn na 19 SKOgSINCUStLÅD
+            oooesesseereerererseereresrsrersrerenerrsrer ere renen rsn rens
+            srt aren ene renen een n nen ena 19
+          </p>
+          <p>
+            Kapitalförsörjning
+          </p>
+          <p>
+            ALMI Företagspartner ÅB sssssmsssssssrsseesessrsrsrrsrsesnesrsessnerrrrrrrnrrnnna
+            13, 3y, 10y AP-fondens placeringSrätt ...ssssssesssrsrssrsrsrsseresreresrsrsrsrerrsrerrsrerrrnenrn
+            rna 24, 3y INdUStrifONCeDassesssreerrerserrerrerreresrerreresrsrerrersr
+            rer rs rer reses rer er rerna KR r renen ana 3y kvinnors företagande,
+            främjande aV...ssssssessersssrsssrsrrrrrrenrssrerrrrrrnnrnrnn
+            3y, 10y NYfÖretagarlån sm..sssssessrsrsrsesrsrsrsrrrrersrsrrrsrr
+            ers er sne rer ere er ere renen ene nen ene nerna 3y, 10y riskkapitalförsÖLjDiNG.......ssesssssssssesesesreresrsrsrsrerrsrererrrrrsrerrrr
+            ennen ene n rna 3y, 10y små och medelstora företag: se Små och
+            medelstora företag uppfinnare och innovatörer, Stöd till...........sssssssssrssrssrsrsrrsrrrrrrerrrnsns
+            3y, 10y utvecklingsbolag, regiONnala ...s.ssssssrsrssrsrsrsrsreresrererrersrsrsrrsrrnerrr
+            nr n non 3y, 10y Konkurrensfrågor AVICZÅCIING oossssseersresrersesrsrereresrereresererrsrererererrsr
+            ere r ere rr ere n enar r en rn n na 21, 3y, 10y kommunala varuförsörjningSPlaner
+            s..mssmssssssssrsrsrssrsrrsrsrrsrsrrsrerrsrererrnn ennen 21 kompetenskrav
+            inom restaurangnäriNgeD smmssssserssrsrsrrssrrrsrrsrerererrsrerenen
+            21 SCKICtCSS oosoreerseerrerrsererresresrerrerrerrsreresrsrrsrrsrerrsr
+            ess rss rs rrn ran enes RR KRKA Kar ren ennen a 6y skärpt KONKUITCNS...ssssssssssesrerersesesesesrerererrersrsrsrerrererrsr
+            rs nrr renen nanna 21, 3y, 10y Kooperativ utveckling, Stöd till
+            sssssssssssssssssssrssrsnssersersrsesererrrsnrsrsrrrrrerrrn er
+            rna 10y
+          </p>
+          <p>
+            Mineralförsörjning
+          </p>
+          <p>
+            Adak, gruvavfallSUPPlag s...mssmssrorssesresresreresrrsesrrsrrsrrernrerrrrrrerrr
+            rs renen ren r nn en 15 Garpenberg, gruvavfallSUpplag......sssessesssssrsssresreresrnesrernerrernesnernernerennrn
+            enar en 15 geologiska undersökning (SGU), SVerigeS sm..sssssssersersoseesrrsrrssessrsresrrnrrnen
+            9y gruvnäringen, Satsningar PÅ ....s.sssesesssssessssesesrsrsrsrnsrnernernersesesrsrsnsr
+            eran er en en ens nn 15 minerallagstiftningen, ÖVErSYN QV sm..mssssssssrssssrsesresessesresesrrrsrererrrrnn
+            rn nen 15, 3y prospektering, villkOr fÖr s..ssssssssssssrssrssessrsrsressrsrnrsrrenresrenrrerrrsnenn
+            ennen nen rna 15 Närings- och teknikutvecklingsverket (NUTEK)......
+            1, 18, 19, 20, 3y, 9y, 10y
+          </p>
+          <p>
+            Näringsdepartementet anslag inom Näringsdepartementets område
+            .......... 13, 18, 26, 3y, 9y, 10y
+          </p>
+          <p>
+            1995/96:NU Reg.
+          </p>
+          <p>
+            10
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199596/reg_199596_NU/reg_199596_NU_0010"/>
+          <p>
+            Näringspolitik informationsteknik (IT).........sssssessesssssssssessessessrersesrnessrsrerrerrrrrrrrrner
+            ennen nn nan 8y inriktning IT-industrin.... programvaruindustril
+            s..ssssesessssssssssrsssrsrsrsrsnsrsnsnenenen ens rnsren ennen
+            aren ennen en nnn 8y småföretagspOlitik............sssssssssseressesereerererreresrsrrsrsrerrrsrrreren
+            ren r ent 3y, 9y, 10y teknisk UtveCklilg .....ssesssssssesersrssrssesersrsnrerrerrrnrerrrrrrrrrr
+            rer ere rr rr r rr renen ena 3y utgiftsområde 24 NäringSliV s.
+            .ossessssssssssssesesenenesesesesersrsererersennerererer ennen
+            rnnn 9y Östersjöregionen, samarbete och utveckling inOM ............sssssssssssesssss002
+            10y PlastinClUStfil sssssssssssssreresrsrersrsrsrsrsrerererrsrsrererrsrer
+            renen rr en esse sens r ene arr en een en eran en enn ly PVO oooorrsrsrsrersrsrsrsrsrsrsrsrerererererersrrerersrsrsnsnsrs
+            re rrn ere n enes en en eran ennen ARA R nen en en enar ennen
+            ly Pyrotekniska varor krav på förbud mot barium och strontiUM
+            ........sssssssssssssesesseresssssssnsesensnnr 16 krav på ÖVErSYN,
+            ML. moossssssesssesessssrsrsrsrsrsrsrsrsrsrsren en enersn ense
+            ns nen ens ns en ennen 16 Riksdagens skrivelser, regeringens behandling
+            aV........sssessssrssssessesesesersnsnnnnn 5y Rymdverksamhet EVE
+            ET RA 18
+          </p>
+          <p>
+            Små och medelstora företag
+          </p>
+          <p>
+            ALMI Företagspartner ÅB s..smssssssssssssessesressesrssresrrsrernsrsesrnsrnrnnn
+            IndusStrifONCeD.......sssessesssssrsrrersserrerrersrsrerrrrrrsrenrrrr
+            rss ere renen enn ene nen rn ennen kvinnors företagande, främjande
+            av program för småföretagsutveckling, förnyelse och tillväxt...................
+            10y riskkapitalförSÖrjniNg........sesssessssssesessssesrsresrsrsrsesrererrrnen
+            en ernsn renen en nn nn 3y, 10y teknikSpridning s...ssssssssssssesssssrssesesesrsnerseserneresnererr
+            snar ernen ers nerna ne nen nn nn 3y, 10y SprängämnesinspektiONeh
+            ...sssssssssssssssrssesrsrersesrsnesesreresrsnereserrer nen nere
+            nsnrnrnrn nen 16 Statliga företag Exportkredit, AB SVENSK s.ssmsssssssssseeressesreneesrserrsesresnesrnesresrersrrsrnernnrnrn
+            rna 18, 26 anslag för OmStrukturerilg2.........sssessssessessessrresrssrssrrsrrsresesrrsnr
+            rer ernrn enn nn erna 26 Apoteksbolaget AB ..ssssssssrsesesssrsrssresesrsrnesenrernesrereresreresrrrer
+            ennen ner ern eran nr nn nn nan 26 Arlanda flygplatS .m.smssssssssrsresrerssrsrsrererresersresresnesrrsresrer
+            reser r er n renen en rrn nerna 26 ASSiDOMäÄnN ÅB orsorosesrsresesrsrsrererersersesrsrsererrenernrsnererrenesrenen
+            es rene nere res nrn rn en ns nn 26 [03 ESTIESY NR 26 20 31:10)
+            89 &gt; 26 försäljning av skogsmark till enskilda ..........sssssssssssssssesessesnssnnserernsnsnn
+            4, 26 förvaltning osssssrssssrsresresesersrrerenerseserrereresrenesnen
+            en ern een n eran enn rn en rna rr enr nan 26, 3y Lantbrukskredit
+            AB =ssmsssssssssssssesrssssesrsreresrsrersrsreresrerersrsrerer
+            ennen ennen enar en en en en 26 Pharmacia &amp; UpPjOBRn ..ssssssssrsrsesesresrrsrerrerserrsrererrsrernrrrrrrnrerrsresrrrr
+            rer r enn n er ern nen 26 PIiVatiSCIiNG sosssssssrsersrsreresrerssrsrernrresesrrrereresner
+            renen er r ene erna renen ennen enn 26, 3y, 10y | UST6 [072200
+            2) FS AA 4 FIKtliljer oossossssssesresrsrersenrsrsrereresrsrerenenesreren
+            ene rer es rs es n ere er rer R sr Ren kkr RAR rann nen 26 SAQ
+            Kontroll AB oosssssssssssssrssessssresrsresreseesresresrerrerresrersrerrer
+            rer rer renen ene n nen 26 SBAB oe srsrsrsesesesesesesesesesrsrsesererersrsrner
+            een eran en ene en ene en enes en een en ennen arenan ennen ran
+            26 SBL Vaccin AB sossssssssesssrsesererressererersrressrerrrerrnrrrsrsrrrsrsrresrrr
+            reser n rer n enn nr sn 26 Svensk Interkontinental Lufttrafik
+            AB (SILA) ssssssssssssssessssrersrrerrerrnnrrnnnr 26 NE) VEN SN
+            5 SR 26
+          </p>
+          <p>
+            1995/96:NU Reg.
+          </p>
+          <p>
+            11
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199596/reg_199596_NU/reg_199596_NU_0011"/>
+          <p>
+            TV eo ooerererererseserensesererersrsesererererer en ere er ene
+            en ene er ere rns aren enes eran en sr renen en rr anor enn 26
+            Vasakronan AB sssesssesresressessrersrrerrrsrerrrrrsrrrererrerrerrrerrrrrrrrrrrrrrrr
+            rn rr nr rn rn nen 26 Vattenfall AB s.sssssssssssssssssrreserrrerserrrsrrrrrssrrrrrsrrrrnrsrrrrrrr
+            ner s ess rr nr res rn nan 1, 26 Svensk-norsk industrifond, statlig
+            garanti till................ssssssessrssrssrrersesssrsrnnst 18
+            Teknisk utveckling FoU-insatser inom livsmedelsindustrin s..ssssesssssssrsrssrsrsrssrsrsrrererrrernerrnrnr
+            19 FoU-insatser inom SKOgSindusStril s..sssssssrssseereerssrsserrsrsresrsrserrrrrsnerrrnen
+            nen nnn 19 teknikSpridning s...ssssssssessssesrereseresresesrersesrererrsrrrerrsrerererrerer
+            nr nsrrnr nen enn 3y, 10y Turistsektorn, teknikutveckling iNOIM
+            s.....sssssssssssssssrssssssesesesrersesesesrsrnrrrrnen rn rnn
+            13 Utrikeshandel el, utrikeshandeln Med s..ssmmssssssssrsrsrrrrssrsrsrsrsrsrernesrereresrrnsn
+            ere nsnen enar enar en renen en en 1 exportfrämjande verksamhet..........ssssssssossesosnrsneneresrsnsnesesrsnsnrnenen
+            een nnnsn ne 13 Exportkredit, AB SVenSK s.ssssssssssssssesessesesrsnesesnesesrsrernernesnsnerererennrnsnn
+            nen 18, 26 Exportråd, SVeIigCS.......sesssssssssssesesesesesrsesesesrsnsnsnsnsesesersersersererensns
+            ene enrn ns nnn 13 internationella naturgummiavtal, 1995 årS.........ssesssssssssrsesenenenrenenenernnnrnr
+            22 nordisk elmarknad .ssmssssssrsrssesrsrerrsrernerrrrernerrenerrereresreren
+            en ern een arenan enes n nen en enn 1 Värdepappersmarknaden BCCI-direktiVet
+            ssssssnsrssssssrssssrsrsrernernernererersererererererererererererer
+            ers nsrn en ens rren enar en en 23 clearingverksamhet, ny lagstiftning
+            fÖr..............ssssesssssssssssesessrssssersernnrnrn 11 inflytande
+            i värdepappersfOnder .......sssssessssessssesesrsssneresrnernesesnrnsnsnsnsnen
+            nns nn 11 kapitaltäCknilg.......sssssesssssseseseenesesresesresesesrersrarenesrrn
+            aren ennen enes nr renen eran en enn n enn 8 kontoförande inStitUt.............ssssssssssersssrsrsrrsrsrseresrsrseseserrsreresnsnsrsnener
+            ene nrn nn 11 KkOntOhållning s...ssesesssssssssesereeresesrereserrernerrerer
+            ennen ner sne ers renen es nsn es en en enar ennen enn 11 lämplighetsprövning
+            AV ägare m..sssssssssssrssessesesrssesesenrsrersesrsnsnrn arena
+            ennen enn 23 rapporteringsplikt för TreViSOICI ......sssssssssssssssssrsssesesesnsresesrsrnenerer
+            enar ernn nen enn 23 registerfÖrilg s.esesssssessssessrssrererresrerrerrrrrrrrerrrrr
+            reses s eran een ees esse r enes een ennen nen 11 registrering
+            av andelsägare ....ssssssssssssssrsrssesreneserrsnerererner er
+            ernrnen sne er enn nn en 12 regler för finansieringsverksamhet...........sssssssssssssseserersesesnsnrnenenesenernrnnnen
+            23 tillSYI ooseeseesreresresrersrerersrerersrsrrerrsresr rer rsr
+            rer rer esr rer rer eer rer ere r ennen aren renen renen ena 23
+            utredning om de finansiella marknadernåa........ssssssssssssssesersrnrsenenerernrnennne
+            11 VP-SYStemet os oesseereesrsesseesrersrsrrresrrerrsrsrrrssrrersrrssrrssr
+            ren rsr rer rrrn renare ns nen n nen 11 Värdepapperscentralen
+            VPC AB =msssrsnssssesrssesssssesernenesesesnenenernenesnsnsnen
+            rna 11 värdepapperslagstiftningen, ändringar 1.............sssss-----
+            7,8,9, 11, 12, 23 Östersjöregionen, program för samarbete och
+            utveckling i ......................- 10y
+          </p>
+          <p>
+            Gotab, Stockholm 1996
+          </p>
+          <p>
+            1995/96:NU Reg.
+          </p>
+          <p>
+            12
+          </p>
         </div>
       </div>
     </body>

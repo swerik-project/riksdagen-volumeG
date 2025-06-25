@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="reg_199596_TU">
   <teiHeader>
     <fileDesc>
       <titleStmt/>
@@ -19,124 +19,619 @@
   </teiHeader>
   <text>
     <body>
-      <pb facs="riksdagen-volumeG-pdf/data/199596/reg_199596_TU/reg_199596_TU-000.pdf"/>
+      <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199596/reg_199596_TU/reg_199596_TU_0000"/>
       <div type="gBody">
         <div>
-          <p>Trafikutskottets register ' vid riksmötet 1995/96</p>
-          <p>1995/96 TUReg.</p>
-          <p>Betänkanden</p>
-          <p>Nr TU1 Informationsteknik Utskottets justering 1995-10-26. Förslag till beslut: Avslag på motionerna. Debatt i kammaren 1995-11-08 (protokollsnhummer 1995/96:19). Riksdagens beslut 1995-11-08 (protokollsnummer 1995/96:19). Bifall till trafikutskottets hemställan.</p>
-          <p>Nr TU2 Trafiksäkerhet Utskottets justering 1995-10-26. Förslag till beslut: Delvis bifall till motion om släpfordon. Avslag på övriga motioner. Debatt i kammaren 1995-11-08 (protokollsnhummer 1995/96:19). Riksdagens beslut 1995-11-15 (protokollsnummer 1995/96:23). Bifall till trafikutskottets hemställan. Riksdagsskrivelse 1995/96:8.</p>
-          <p>Nr TU3 Yrkestrafik- och parkeringsfrågor Utskottets justering 1995-10-26. Förslag till beslut: Avslag på motionerna. Riksdagens beslut 1995-11-15 (protokollsnummer 1995/96:23). Bifall till trafikutskottets hemställan.</p>
-          <p>Nr TU4 Inlandsbanan (förs. 1995/96:4) Utskottets justering 1995-11-09. Förslag till beslut: Bifall till förslaget. Avslag på motionerna. Debatt i kammaren 1995-11-23 (protokollsnummer 1995/96:28). Riksdagens beslut 1995-11-23 (protokollshummer 1995/96:28). Bifall till trafikutskottets hemställan. Riksdagsskrivelse 1995/96:38 och 1995/96:39.</p>
-          <p>I Riksdagen 1995/96 15 saml. Register</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199596/reg_199596_TU/reg_199596_TU-001.pdf"/>
-          <pb facs="riksdagen-volumeG-pdf/data/199596/reg_199596_TU/reg_199596_TU-002.pdf"/>
-          <p>Nr TUS Vissa frågor inom Luftfartsverkets område m.m. (prop. 1995/96:65) Utskottets justering 1995-11-21. Förslag till beslut: Delvis bifall till propositionens förslag beträffande likvidi- tets- och kapitaltäckningsgaranti. Bifall till propositionens övriga förslag. Avslag på motionerna. Debatt i kammaren 1995-12-13 (protokollsnhummer 1995/96:37). Riksdagens beslut 1995-12-13 (protokollsnummer 1995/96:37). Bifall till trafikutskottets hemställan. Riksdagsskrivelse 1995/96:97.</p>
-          <p>Nr TU6 Köp av interregional persontrafik på järnväg (prop. 1995/96:46) Utskottets justering 1995-11-23. Förslag till beslut: Bifall till propositionen. Avslag på motionerna. Debatt i kammaren 1995-12-13 (protokollsnummer 1995/96:37). Riksdagens beslut 1995-12-13 (protokollsnummer 1995/96:37). Bifall till trafikutskottets hemställan. Riksdagsskrivelse 1995/96:98.</p>
-          <p>Nr TU7 Gotlandstrafiken (prop. 1995/96:44) Utskottets justering 1996-11-23. Förslag till beslut: Bifall till propositionen. Avslag på motionerna. Debatt i kammaren 1995-12-13 (protokollsnummer 1995/96:37). Riksdagens beslut 1995-12-14 (protokollsnummer 1995/96:38). Bifall till trafikutskottets hemställan. Riksdagsskrivelse 1995/96:99.</p>
-          <p>Nr TU8 Lag om byggande av järnväg (prop. 1995/96:2) Utskottets justering 1995-12-05. Förslag till beslut: Bifall till propositionen. Avslag på motionerna. Debatt i kammaren 1995-12-18 (protokollsnummer 1995/96:40). Riksdagens beslut 1995-12-19 (protokollsnummer 1995/96:41). Bifall till trafikutskottets hemställan. Riksdagsskrivelse 1995/96:127.</p>
-          <p>Nr TU9 Funktionshindrades tillgång till teletjänster (prop. 1995/96:86) Utskottets justering 1995-12-05. Förslag till beslut: Bifall till propositionen. Riksdagens beslut 1995-12-19 (protokollsnummer 1995/96:41). Bifall till trafikutskottets hemställan. Riksdagsskrivelse 1995/96:128.</p>
-          <p>1995/96:TUReg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199596/reg_199596_TU/reg_199596_TU-003.pdf"/>
-          <p>Nr TU10 Vissa säkerhets- och miljökrav på fritidsbåtar (prop. 1995/96:100) Utskottets justering 1995-12-05 Förslag till beslut: Bifall till propositionen. Riksdagens beslut 1995-12-19 (protokollsnummer 1995/96:41). Bifall till trafikutskottets hemställan. Riksdagsskrivelse 1995/96:129</p>
-          <p>Nr TU11 Vägverkets produktionsdivision (prop. 1995/96:91) Utskottets justering 1995-12-07. Förslag till beslut: Bifall till propositionen. Avslag på motionerna. Debatt i kammaren 1995-12-18 (protokollsnummer 1995/96:40). Riksdagens beslut 1995-12-19 (protokollsnummer 1995/96:41). Bifall till trafikutskottets hemställan. Riksdagsskrivelse 1995/96:130.</p>
-          <p>Nr TU12 Nya förutsättningar för järnvägstrafiken (prop. 1995/96:92) Utskottets justering 1995-12-07. Förslag till beslut: Bifall till utskottets initiativ om godstrafiken. Delvis bifall till motioner beträffande en uppföljning och utvärdering av konsekvenserna om hur de nya riktlinjerna för järnvägstrafiken bör genomföras. Avslag på övriga motioner. Debatt i kammaren 1995-12-14 (protokollshummer 1995/96:38). Riksdagens beslut 1995-12-14 (protokollsnummer 1995/96:38). Bifall till trafikutskottets hemställan. Riksdagsskrivelse 1995/96:108.</p>
-          <p>Nr TU13 Organisationen av den periodiska fordonskontrollen (skr. 1995/96:93) Utskottets justering 1996-02-20 Förslag till beslut: Skrivelsen till handlingarna. Avslag på motionerna. Debatt i kammaren 1996-03-06 (protokollshummer 1995/96:64). Riksdagens beslut 1996-03-13 (protokollsnhummer 1995/96:68). Bifall till trafikutskottets hemställan. Riksdagsskrivelse 1995/96:176.</p>
-          <p>Nr TU14 Andringar i körkortslagen (prop. 1995/96:118) Utskottets justering 1996-03-05 Förslag till beslut: Bifall till propositionen. Avslag på motionerna. Debatt i kammaren 1996-03-27 (protokollshummer 1995/96:76). Riksdagens beslut 1996-03-27 (protokollsnummer 1995/96:76). Bifall till trafikutskottets hemställan. Riksdagsskrivelse 1995/96:195.</p>
-          <p>1" Riksdagen 1995/96 15 saml. Register</p>
-          <p>1995/96:TUReg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199596/reg_199596_TU/reg_199596_TU-004.pdf"/>
-          <p>Nr TU15 Tilläggsbudget inom Kommunikationsdepartementets område (prop. 1995/96:105 avsnitt 4) Utskottets justering 1996-03-05 Förslag till beslut: Bifall till propositionen i denna del. Riksdagens beslut 1996-03-29 (protokollsnummer 1995/96:78). Bifall till trafikutskottets hemställan. Riksdagsskrivelse 1995/96:205.</p>
-          <p>Nr TU16 Ecomet (prop. 1995/96:142) Utskottets justering 1996-04-23 Förslag till beslut: Bifall till propositionen. Riksdagens beslut 1996-05-09 (protokollsnummmer 1995/96:94). Bifall till trafikutskottets hemställan. Riksdagsskrivelse 1995/96:239.</p>
-          <p>Nr TU17 Oresundsförbindelsen (skr. 1995/96:130) Utskottets justering 1996-04-16 Förslag till beslut: Skrivelsen till handlingarna. Avslag på motionerna. Debatt i kammaren 1996-05-08 (protokollshummer 1995/96:93). Riksdagens beslut 1996-05-08 (protokollsnummer 1995/96:93). Bifall till trafikutskottets hemställan. Riksdagsskrivelse 1995/96:230.</p>
-          <p>Nr TU18 Vägverkets sektorsansvar inom vägtransportsystemet m.m. (prop. 1995/96:131) Utskottets justering 1996-04-23 Förslag till beslut: Delvis bifall till propositionens förslag dels om använd- ningen av anslaget A 2. Drift och underhåll av statliga vägar, dels om vissa bemyndiganden. I övrigt bifall till propositionens förslag. Avslag på motio- nerna. Debatt i kammaren 1996-05-08 (protokollshummer 1995/96:93). Riksdagens beslut 1996-05-08 (protokollsnummer 1995/96:93). Bifall till trafikutskottets hemställan. Riksdagsskrivelse 1995/96:231.</p>
-          <p>Nr TU19 Informationsteknikens användning (prop. 1995/96:125) Utskottets justering 1996-05-23 Förslag till beslut: Initiativ dels om en samlad årlig redovisning av utveck- lingen på IT-området, dels om ett samlande och samordnande ansvar för IT- säkerhetsfrågorna samt om en strategi på området. Bifall till propositionen. Avslag på motionerna. Debatt i kammaren 1996-06-04 (protokollsnhummer 1995/96:105).</p>
-          <p>1995/96:TUReg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199596/reg_199596_TU/reg_199596_TU-005.pdf"/>
-          <p>Riksdagens beslut 1996-06-04 (protokollsnhummer 1995/96:105). 1995/96:TUReg. Bifall till trafikutskottets hemställan. Riksdagsskrivelse 1995/96:282.</p>
-          <p>Nr TU20 Tillstånd för internationell järnvägstrafik (prop. 1995/96:192) Utskottets justering 1996-05-21 Förslag till beslut: Bifall till propositionen. Riksdagens beslut 1996-06-04 (protokollsnhummer 1995/96:105). Bifall till trafikutskottets hemställan. Riksdagsskrivelse 1995/96:283.</p>
-          <p>Yttranden till andra utskott</p>
-          <p>Nr TUl1ly till KU Förvaltningsmyndigheternas ledning (prop. 1994/95:150 bil. 7) Trafikutskottets justering 1995-10-26. Trafikutskottets förslag till beslut: Bifall till propositionen i denna del. Konstitutionsutskottets (bet. 1995/96:KU1) justering 1995-11-16. Konstitutionsutskottets förslag till beslut: Bifall till propositionen i denna del. Debatt i kammaren 1995-11-23 (protokollsnummer 1995/96:28). Riksdagens beslut 1995-11-23 (protokollsnummer 1995/96:28). Bifall till konstitutionsutskottets hemställan. Riksdagsskrivelse: 1995/96:32.</p>
-          <p>Nr TU2y till UU EU:s regeringskonferens 1996 (skr. 1995/96:30 delvis) Trafikutskottets justering 1996-02-20. Trafikutskottets förslag till beslut: Skrivelsen till handlingarna och avslag på motionerna i denna del. Utrikesutskottets (bet. 1995/96:UU13) justering 1996-03-07. Utrikesutskottets förslag till beslut: Skrivelsen till handlingarna. Debatt i kammaren 1996-03-28-29 (protokollsnummer 1995/96:77-78). Riksdagens beslut 1996-03-29 (protokollsnhummmer 1995/96:78). Skrivelsen till handlingarna. Avslag på motionerna. Riksdagsskrivelse: 1995/96:199.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199596/reg_199596_TU/reg_199596_TU-006.pdf"/>
-          <p>Nr TU3y till KU 1995/96:TUReg. Redogörelse för behandlingen av riksdagens skrivelser till regeringen (skr. 1995/96:15 delvis) Trafikutskottets justering 1996-03-05. Trafikutskottets förslag till beslut: Skrivelsen till handlingarna. Konstitutionsutskottets (ber. 1995/96:KU30) justering 1996-05-09. Konstitutionsutskottets förslag till beslut: Skrivelsen till handlingarna. Debatt i kammaren 1996-05-29 (protokollsnummer 1995/96:101). Riksdagens beslut 1996-05-29 (protokollsnhummer 1995/96:101). Skrivelsen till handlingarna. Riksdagsskrivelse: 1995/96:269-270.</p>
-          <p>Nr TU4y till KU EU-frågornas behandling i riksdagen Trafikutskottets justering 1996-04-16. Anm. Yttrandet innehåller trafikutskottets svar m.m. till konstitutionsutskot- tet på en inom KU:s kansli upprättad promemoria innehållande bl.a. frågor till utskotten.</p>
-          <p>Nr TUSy till FiU Ekonomisk vårproposition (prop. 1995/96:150 delvis) Trafikutskottets justering 1996-05-09. Trafikutskottets förslag till beslut: Bifall till propositionen och avslag på motionerna i denna del. Finansutskottets (bet. 1995/96:FiU10) justering 1996-05-28. Finansutskottets förslag till beslut: Bifall till propositionen och avslag på motionerna i denna del. Debatt i kammaren 1996-06-11 (protokollsnummer 1995/96:109). Riksdagens beslut 1996-06-11 (protokollsnummer 1995/96:109). Bifall till finansutskottets hemställan. Riksdagsskrivelse: 1995/96:304.</p>
-          <p>Nr TU6y till NU Aktiv förvaltning av statens företagsägande (prop. 1995/96:141 delvis) Trafikutskottets justering 1996-04-23. Trafikutskottets förslag till beslut: Bifall till propositionen och avslag på motionerna i denna del. Näringsutskottets (bet. 1995/96:NU26) justering 1996-05-28. Näringsutskottets förslag till beslut: Bifall till propositionen och avslag på motionerna i denna del. Debatt i kammaren 1996-06-10 (protokollsnummer 1995/96:108). Riksdagens beslut 1996-06-11 (protokollsnhummer 1995/96:109). Bifall till näringsutskottets hemställan. Riksdagsskrivelse: 1995/96:302.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199596/reg_199596_TU/reg_199596_TU-007.pdf"/>
-          <p>Sakregister 1995/96:TUReg.</p>
-          <p>A A-Banan Projekt AB....ssssssssssssesssssessnresersssrssnrsrnnsrnnrrrnrrnnnt 5 A-traktOrerls.ssssssssssessesesresesrsrsrernesrersesresresnrsnerrerrennsr renen nr nn nr 2 AirportCenter ÅB....ssssssssssssssesesssseserrsrnesrernesesnsnesnsnsnsnennnnn 5 AnläggningSlageD......sssssssessssseesessessesrssresrerrersrsrnnenernrrnen enar 8 Arlanda flygplats (privatisering)..............ssssssssesssssssosnennnr 6y (NU26) Arlandabaneavtalen..........ssssossssssssersrssessrsnrsnesresnnrnrnernrn ana 5 Avreglering av järnvägstrafiken ..........ssssssssssssesessnenennnen 12 B Baltikum (via-trafik)...........ssessssessssorsoesorssrssesrerrersrrrrsrrn rna 7 Banavgifterl..........ssssssssesesessnesesererrnesenesrsnerrsnerernenenernrn nn nn 12,15 Banfördelning och trafikledning............ssssssssssssssssesrsnsnen 12 Banverkets dubbla roll (järnvägsbyggande).................... 8 Banverkets entreprenadverksamhet..............ssssssssssssesesesen 12 Banverkets industridiViSiOD..........ssssesssssssessssssessessernesnnnen 12 BilbälteStVåNg.........sssessossssesesensesreserrrsersrrrnsenrnrnnnnrnsrnnn sena 2 BilprOVniNgeD....sssssssssssesesesesesesessnsesernsnsnsnsnsnsnsnrnsnr nan nn en 13 Biltelefon under KÖINiNg........sssssssssssssserssreserenesernsnenennnnn 2 Bolagisering av SJ.ssssssssssssesessesreesesnesrnesnesrerresnernernennrnrn rna 12 Bussar och lastbilar (hastighetsgränser)....................s..... 2 Busstrafikmarknadeln..........ssesessesssesreressrsssresresesrnesresnrrnrrnenen 3 Byggande av järnväg (lagZ)..........ssssssssssssesssoenenerernrnenenennnen 8 D Dalarnas nattågstrafik................sssssssesssssssesenesnenesnnnrnrnnnenen 6 Datakommunikation 1, 19 Datoriserade parlamentariker..........ssssssssesssossesesssnsnnsennnnnr 19 DatOrtek osssssssssssrsrsesreseersesrersesrerrersesrerrersrernrrsnernner nen nrn renen ennen 19 Digital kommunikationsbasS.........ssessssessssesesesesoessnsnrnnsnnnn 19 Digitalisering av TV och radiO..........sssssssssssesssseseresnsserenen 19 Distansutbildning s....ssssssssesessresssrrssresrssrsreresrsrenerrrnrrer er nn rna 19 Drift och underhåll av statliga vägar (anslag).................. 18 E E-post (PLiVät)a.ssssssssssssesesesesesrereseseresrsnernnrnern renen aren nrnen aren enn 19 ECOMCtasoesereesessrerreresrerrererrsrersrersreresresrernrrrrrr renen nere renen en en 16 Ekonomisk VårpropOSitiOnD...........sssssessssessrssssssessesnesrrsennent 5y (FiU10) Elektronisk handel och marknadsplatser................sssss.s-s- 1 Enhetstaxa för ISDN=..ssssssssssssesssessessesseserssrsrnesrrsnesrerernerent 1, 19 Enhetstaxa på telenätet...............ssssssssossossesosossesnsnenesernsnsr 1 Epa-traktOrer.........sssssssoossssssseseserenenesernarnernererernener ene nrnrnn nn 2</p>
-          <p>Estonias förlisning (anslag för övertäckning)................. 15</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199596/reg_199596_TU/reg_199596_TU-008.pdf"/>
-          <p>EU:s besiktningspolitik s....mssssssssssssssesessesesesnsnesernsnersennrn en EU-frågornas behandling i riksdagen...........s.ssssesemssnn EU:s järnvägspOlitik......ssssssssessssssssesssesesnsnenersernenesnsnsnennnn EU:s regeringskonferens 1996..........sssssssssseresesseserserenernr EuropamOpedelh...sssssssesssrsesesresesrerseseeresnernnrrrrnern rn er ner rann nna European Cooperation in Meteorology (Ecomet)...........</p>
-          <p>F Fartygstonnage (Gotlandstrafiken)...............sssssssssssssssssnt FastighetsbildningSslagen...........sssessssesssssssrrsesessrrsnesesnnnnen FastlandShamnaål........ssssssssssssresersesesresesnesrerernrnnernrrnennrn nen Flygande inspektiOner.........sssssesssesessssssesesesnsnsnesernsnennnnsnn Fordonskontrollen, periodiska...........sesssssssssssssssesssseresnsn Fritidsbåtar............essossosso0s00so0sssnssrnsrrsrrsrnsrnnrnnrnn nns nnnrnn rna Funktionshindrades resmöjligheter................ssssssssssssssne Funktionshindrades teletjänster.................sssssssssssssssssnnne FärdSskrivarkfäV.....ssssssssosssssssseseseseseresrsrsrereserrsnsn en nrnsnenrnn Färjetrafikens lagreglering.........sssssssssesesesesensornsnsnsnsnnnnrnr FÖrarprÖVNiNgeD....ssssssssssssssssesrsrsrsrsrnenesesnsnsnenesnr nr rn nn rna Företagsägande Första hjälpen (körkortsutbildning)...............+sssssssssssss2+ Förvaltningsmyndigheternas ledning............ssssssssssssssmns</p>
-          <p>G Gemensamma funktioner (SJ-Banverket).....................+ GodstrafikenD..........ssssessessrsrssnrrrerrsrsrrrsnrnrnrrrernrrrrrrrrrnnrn nn Gotlandstillägget...........ssesssssssesesessesessesersersennssnrsnrrnrnnnn nn Gotlandstrafiken..........sessesssererererresresrsrsrernrsnrrrrrrrrrrrnrr nn nn Gotlandstrafikens huvudmannaskap...........sssssssesnsnen GrunddatabasSer........ssssserssrorersserrrsrrrsrrrnrsrrrrerrrrrrrrrrrrrrr rn nn</p>
-          <p>H Handikappade (teletjänster)..............s.sssesesesssenssenenensnnnnnn Handsfree-utruStniN2.........sssssesessssrsssrssessesrssesrernesrrrernnnnt HaningeledenD.....sssssssssssesesesesrsesesrsrsesnsnsreresnsnenerernn nen nn nen HastighetsregulatOrer...........ssssssssosesssesessnsosesesenerenennnnnnnnn Helsingborg-Helsingör (järnvägstunnel).................ssss++ Hushållning med naturresurser (laZ).........ssssssesesosssnennnn Hälso- och sjukvård (IT).......ssessessessosesersesersrnsnserensnrennnnr</p>
-          <p>Informationsteknik..............essssssesssesssssssersrsessrsrnessesnsrnernnn Informationsteknikens användning............ssssssssssssisssrsns InlandsbanaD......ssssesssesseseserressrerersrsrrrsnrsnrrrrrrrnnrr rer n rn n na Inspektioner, flygande........sssesessersessesessrensenennnnnrnsnrnnnen</p>
-          <p>2y (UU13) 2 16</p>
-          <p>18 6y (NU26) 2 1y (KU1)</p>
-          <p>1995/96:TUReg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199596/reg_199596_TU/reg_199596_TU-009.pdf"/>
-          <p>Internationell samverkan (IT). .....sssssssssssssssrrssensnnnrsrrrrnnrr Interregional persontrafik (upphandling)................s+sss++ ISDN-nNätet....sssesssssessererereerrresrerrrrrrresrresrrsrrsnennrrnrn nen rrn ennen IT-baserade läromedel.....ssssssesssrsssssrssrererssnesrsnsnerserernrnnnent IT-frÅgOLsssssssrsrsesesrsrererererererersenerer eran en ene en rasen en ran en ennen ren enn IT i SKOlADassosssrsrssrrerrsrrreresrrsrrsrrsrrrrrsner rer rrrerrrr ere es renen en en a IT-KatalOg2.ssssssssssserssseesrrsrsrrsrrrersressrrsrsrrsrnrrrernnrrnrnnrn ennen nn nn</p>
-          <p>J JämställdhetsfrågOr Om IT sosmsssssssrssesesesrsrseserenerernrnrrnrnn JärnvägsOperatÖrer, NYA......ssssssssssssssrssessssesesnesesnsnsnsnenent JärnVägSPlaN€Cl..sssssessssssssesrssenrernesesnenesneren enes erna ennen en rn nan Järnvägstrafiken (uppföljning och utvärdering)............. Järnvägstrafikens förutsättningar................+-eessmsmsn Järnvägssäkerhetslägen........ssssssssssssssesesesesesesennnenernensnnnn Järnvägstunnel Helsingborg-HelsingöÖr..............sessssss</p>
-          <p>K KatalysatorVärmare.......sssssssssssssesrssesesrsrnesessrernensnrnsnnener ennen Kollektivtrafiken (IT)....sssssssssesssssssssesssnrsrsrssnrrsrnennrrnrrnrna Kollektivtrafikens konkurrenskraft...............sssssssssssss00s Kommunikationsnätens utbyggnad...............ssssssssmsmemes Konkurrens i busstrafiken..........ssssssossosssseressssesrnenerserene Konsumentupplysning Om IT ssssssssssessessesesnsnenenernrnsnnnr Kortare arbetsdag (IT) Köp av interregional persontrafik på järnVäg................. Kör- och vilotider (yrkestrafiken)...........ssssssssmssssn Körkort B (Uutvidgnilg)..........sssssssssssssssssssesesenenenrnnnsernnen Körkort (läkarundersökning)...........sssssssessssessesessenesennen KÖTrKkOTtSlagZeDasssssssesssssrsssreesererererersrsrensrerresrernernennrr ennen en KörkortsutbildniNngeD.........ssssessesssessssrrssrseeserersserenrsnnnsna</p>
-          <p>L Lastbilar (längd, vikt, hastighet)................ssssssssssssesssesnne Lastbilstransporter (utjämning av taxor), lagförslag....... LFV Handling AB.ssssssssrssssrsresrsresesresesrsrsrnerersrerersnrrnrnrn nn Lokalbussarnas trafiksträCKOr............ssssssssssssssesenensenisensn Lokalbusslinjer (EU-regler)........ssssssssessrsseseserrnenrererernnnnrn Luftfartsverkskoncernen (holdingbolag)...............+s+s+ Länsjärnvägarna (gemensamma funktioner).................. Lärarutbildning (IT).....sssssssssssssssssssssnesesrrnsernrnnnrenerennnnnnen</p>
-          <p>- NN WU</p>
-          <p>1995/96:TUReg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199596/reg_199596_TU/reg_199596_TU-010.pdf"/>
-          <p>M</p>
-          <p>Miljökonsekvensbeskrivningar (järnvägsbyggande)....... Miljöpolitiken (IT). ..ssssssssssssessnssesnesesnrsnsneseserennsnenennnnrenn MIttliDjeD....ssssssosssssresessresresresnrsnesnesrrsn ner nere renen nr enn nn ena Monopolstrukturer (IT).......ssssssseseseseseserernresenenrnnnnnnnnnnnnn Moped, snabb (KÖrkOrt)........sssesessesssorssssrseresesesersenesernrnrne</p>
-          <p>Mopedåldern.</p>
-          <p>Motorcyklar (besiktning)...........ssssssssssssesesosseserernsnrnrnrnrnn Motorcyklar (gult strålkastarljuS)................sessssssssssose00n0n</p>
-          <p>Motorsporten</p>
-          <p>(åldersgränSer)..........ssssssessossessenenesenennnnnnt</p>
-          <p>Motorvärmare för miljÖD.........ssssssssssesssssssssernsserserrserernnnt Mått- och viktregler (tyngre VägfordOn)...............s.s+s-s+s--</p>
-          <p>N Nationell IT-s</p>
-          <p>[8 21055 24 FRA</p>
-          <p>Nattågstrafik på Dalarnå.........ssesesesososseseresesensnsnsnnnsrnnnnnn</p>
-          <p>Nordström &amp;</p>
-          <p>(0)</p>
-          <p>Thulin ABssssnssssssssssssesesesesrsnserenensnnnnnsnnnn sn</p>
-          <p>Offentlig upphandling (databasS).............sssssseeersrsssnne Offentliga handlingars tillgänglighet...............s.sss--:+ Oligopolstrukturer (IT)......ssssesssssosessssesenrsrnrnsnsrnnrnnnnnnnr</p>
-          <p>Open Univers</p>
-          <p>P</p>
-          <p>ity-MOdellen......ssssssssssssssesesnsnsnsnsnernnnn ennen</p>
-          <p>Parkeringsbolagens verksamhet.............ssssssosesssnssenenenenen ParkeringSfrågOrl.........sssssssssssssssnesesesesesesnsnserensnsnrnsnnnnnnn en Periodiska fordonskontrollen...........sssssessssssssesssssrsesersnnn Persontrafik på övre NOIrlanC........sssssesesesesessssnsssnsennnnnnr Persontrafikens avreglering (SJ)...........ssssssssssesssssesesernnne Persontrafiktaxor (Gotlandstrafiken)................sssssss</p>
-          <p>PIARC:s 10:e</p>
-          <p>VinterkONgreSS.......sssssssssssesseresnesnrsnsnsnnsnnn</p>
-          <p>Platsreservation (Gotlandstrafiken)...............ssssssssrsssss0e PlattformsförbindelSer.........sssssssssssssersssesneneneneresnsnrnnnrnen Post- och telestyrelSen...........sssssssssososossesesensrnsnsnnnnnnsnnen Posten (privatisering AV).......sssssssssssossesoesesnsnssnssrnnsnnnren Projektuppföljning (Öresundsbron).............swssssssssx</p>
-          <p>Promillegräns</p>
-          <p>12 1y (KU1) 6y (NU26) 17</p>
-          <p>1995/96:TUReg.</p>
-          <p>10</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199596/reg_199596_TU/reg_199596_TU-011.pdf"/>
-          <p>R Redogörelse för behandlingen av riksdagens skrivelser till regeringeh.......ssssssssessssoesornessnsnrnsnrnnnnn Regional balans (IT )J.ssssssssssssssssssesnessnsrnesnssnnrnrnnrnrnnn ennen Reklamskyltar vid Vägarna.......s.sssssssosssssoseseresnesnsnnnnnrn Riksdagens skrivelser till regeringen............ssesssessssne Riksvägsklassificering (Gotlandstrafiken)................... 120058 [237 0</p>
-          <p>S Shortline-trafik..........sssssosssrssssseserrerernrrerernrnrnrrrrrrrnrrrnnrnn</p>
-          <p>SJ-KONCEINCIN.ssesseeesererreressrrrrerrrssserrrrrrnrrrrrrrrrrrrrrnn ren n nn nn SJ:s företrädesrätt.............ssssssssrrssoossensnnnrrerrrrnrnnnrrrrrrrr</p>
-          <p>Skolbussar (säkerhetsbälten)...............sssssosssrrosesoorsnnnn Skoldatanätet............sssesssesseseosreserrorernrrsrsrrrrrerrrsrnnernrnnen NET 0) 10006 (0) 4 Vr Statens företagsSägande............ssssssssessssnssesnsnesesennsnnnsnnn Strålkastarljus (ZUlt)..........sssssesssesesessenesesesenerernrnnnnrnnnnnn</p>
-          <p>Swedavia ABasmmssssssssrssrssesreererrerserrsesrrrrsrrrrerresnrnn ere nr n rn nn Systemtågstrafiken.............ssssssssssosoosenesesesenenenennnnrnnnnnn Säkerhets- och miljökrav på fritidsbåtar (lag)............. Säkerhet och sårbarhet (IT).......ssssssssssssrsersersnsernreernnrnrr</p>
-          <p>T Taxiförare (bilbälte2)...........ssssoosssesssssrsssosrsesonnrenrnsrrrrrrer TaxitillStåNCA.........sssssosssessssesnrsnrererrsrsrnrsnrsrnrrrnrnerrrrrn enn nn TelefOnmÖtel.....ssssssressssrsrssorrserrrreserrrsrsrerrrrnrrrrrrrersrrrnrr Telekommunikation (IT).........sssssesssrssesssssesreroreenrsernrne Telekommunikationer (handikappade)...................... Teletjänster (handikappade)...........ssssssessesssssssresesesnsnnr Telia AB osssossssrsserssrsssrsserssrssrresrrrrnrrsrrrrnnrrrrrrrrrrr rer nrn nerna</p>
-          <p>TilläggsbUdgeta...sssssssrsssrsrssrenesneernesrssnesnnrnrsrnenennrrernrnnnen Tillstånd för internationell järnvägstrafik (lag).......... Trafikledning och banfördelning av järnvägstrafiken Trafikupphandling, reformerad...........ssssssssssssseresnssnnnr TrafikövervakniNgehD......ssssssssssesesessrsnssnsnssesesesrsrsrsrnrnt Transeuropeiska transportnätverken..............esessssss Transportstöd för GOtlanC..........sssssesseseessessssserseserennnnr Tyngre motorcyklar (behörighetsålder)......................-</p>
-          <p>3y (KU30) 19 2 3y (KU30) 7 19 12 2</p>
-          <p>4 16 6y (NU26) 12 12 12 16 2 19 2 6y (NU26) 2 19</p>
-          <p>1995/96:TUReg.</p>
-          <p>11</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199596/reg_199596_TU/reg_199596_TU-012.pdf"/>
-          <p>Typgodkännandereglert.......ssssssssesesesesensesesesesesenenenrnsnnr Tågledningen (anSlagZ).......sssssssssesesessssesesesnssesesnsnnnnnnnn</p>
-          <p>U Utgiftsområde 22: Kommunikationer..........sessssssessem Utredningsarbete med anledning av M/S Estonias förlisning (anslag)...................s..-.- Utländskt körkort (byte till Svenskt)................s.sssssssss</p>
-          <p>Vv Varningsljus (roterande).............ssssssssssssesesseresnsnerernsnnr VattenlageD........sesssssesssssserrssesesesrererserserrererernener enn rn en en enn VideokonferenSel........ssssssssssssessesessesnessesrernrsnrrnerernen nn Vissa kostnader till följd av M/S Estonias förlisning.. Vårproposition, ekOonOMiSK.........ssssssssesesssesesenesenenrnrnnr Vägverket, omstrukturering QV......ssssssseeeemssmemssnn Vägverkets myndighetsrOll..........ssessssssesessssssesnsnenennsnnnn Vägverkets produktionsdivision (bolagisering)............ Vägverkets sektorsansvar inom vägtransportsystemet.</p>
-          <p>Y YrkestrafikfrågOr............sososooososesesesessseseresrsernesrrrrrerennnnn Yrkestrafikmål (besvärsrätt)................sssssossooesonssnnsnnsnt YrketrafiklagenD........ssssssssssssesenesessesenesrsrsrnenernsrerernnnen enn</p>
-          <p>Ä Äldre körkortshaVare..............seseseeseosessrssrserssrsersrrnnnnn</p>
-          <p>ö Öresundsbroprojektet..................ssssssssssonssssnossssnnnnnn Öresundsförbindelsen............ssessesssessrossrssressrssrsrsrsnnnnnnn Östeuropa (via-trafik).................ssssssosssssosssssrsssnnnnnnnnnn</p>
-          <p>Gotab, Stockholm 1996</p>
-          <p>5y (FiU10)</p>
-          <p>15 14</p>
-          <p>2 8 19 15 5y (FiU10) 18 11 18 18</p>
-          <p>[</p>
-          <p>17 17</p>
-          <p>1995/96:TUReg.</p>
-          <p>12</p>
+          <p>
+            Trafikutskottets register ' vid riksmötet 1995/96
+          </p>
+          <p>
+            1995/96 TUReg.
+          </p>
+          <p>
+            Betänkanden
+          </p>
+          <p>
+            Nr TU1 Informationsteknik Utskottets justering 1995-10-26. Förslag
+            till beslut: Avslag på motionerna. Debatt i kammaren 1995-11-08
+            (protokollsnhummer 1995/96:19). Riksdagens beslut 1995-11-08 (protokollsnummer
+            1995/96:19). Bifall till trafikutskottets hemställan.
+          </p>
+          <p>
+            Nr TU2 Trafiksäkerhet Utskottets justering 1995-10-26. Förslag
+            till beslut: Delvis bifall till motion om släpfordon. Avslag på
+            övriga motioner. Debatt i kammaren 1995-11-08 (protokollsnhummer
+            1995/96:19). Riksdagens beslut 1995-11-15 (protokollsnummer 1995/96:23).
+            Bifall till trafikutskottets hemställan. Riksdagsskrivelse 1995/96:8.
+          </p>
+          <p>
+            Nr TU3 Yrkestrafik- och parkeringsfrågor Utskottets justering
+            1995-10-26. Förslag till beslut: Avslag på motionerna. Riksdagens
+            beslut 1995-11-15 (protokollsnummer 1995/96:23). Bifall till trafikutskottets
+            hemställan.
+          </p>
+          <p>
+            Nr TU4 Inlandsbanan (förs. 1995/96:4) Utskottets justering 1995-11-09.
+            Förslag till beslut: Bifall till förslaget. Avslag på motionerna.
+            Debatt i kammaren 1995-11-23 (protokollsnummer 1995/96:28). Riksdagens
+            beslut 1995-11-23 (protokollshummer 1995/96:28). Bifall till trafikutskottets
+            hemställan. Riksdagsskrivelse 1995/96:38 och 1995/96:39.
+          </p>
+          <p>
+            I Riksdagen 1995/96 15 saml. Register
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199596/reg_199596_TU/reg_199596_TU_0001"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199596/reg_199596_TU/reg_199596_TU_0002"/>
+          <p>
+            Nr TUS Vissa frågor inom Luftfartsverkets område m.m. (prop.
+            1995/96:65) Utskottets justering 1995-11-21. Förslag till beslut:
+            Delvis bifall till propositionens förslag beträffande likvidi-
+            tets- och kapitaltäckningsgaranti. Bifall till propositionens
+            övriga förslag. Avslag på motionerna. Debatt i kammaren 1995-12-13
+            (protokollsnhummer 1995/96:37). Riksdagens beslut 1995-12-13 (protokollsnummer
+            1995/96:37). Bifall till trafikutskottets hemställan. Riksdagsskrivelse
+            1995/96:97.
+          </p>
+          <p>
+            Nr TU6 Köp av interregional persontrafik på järnväg (prop. 1995/96:46)
+            Utskottets justering 1995-11-23. Förslag till beslut: Bifall till
+            propositionen. Avslag på motionerna. Debatt i kammaren 1995-12-13
+            (protokollsnummer 1995/96:37). Riksdagens beslut 1995-12-13 (protokollsnummer
+            1995/96:37). Bifall till trafikutskottets hemställan. Riksdagsskrivelse
+            1995/96:98.
+          </p>
+          <p>
+            Nr TU7 Gotlandstrafiken (prop. 1995/96:44) Utskottets justering
+            1996-11-23. Förslag till beslut: Bifall till propositionen. Avslag
+            på motionerna. Debatt i kammaren 1995-12-13 (protokollsnummer
+            1995/96:37). Riksdagens beslut 1995-12-14 (protokollsnummer 1995/96:38).
+            Bifall till trafikutskottets hemställan. Riksdagsskrivelse 1995/96:99.
+          </p>
+          <p>
+            Nr TU8 Lag om byggande av järnväg (prop. 1995/96:2) Utskottets
+            justering 1995-12-05. Förslag till beslut: Bifall till propositionen.
+            Avslag på motionerna. Debatt i kammaren 1995-12-18 (protokollsnummer
+            1995/96:40). Riksdagens beslut 1995-12-19 (protokollsnummer 1995/96:41).
+            Bifall till trafikutskottets hemställan. Riksdagsskrivelse 1995/96:127.
+          </p>
+          <p>
+            Nr TU9 Funktionshindrades tillgång till teletjänster (prop. 1995/96:86)
+            Utskottets justering 1995-12-05. Förslag till beslut: Bifall till
+            propositionen. Riksdagens beslut 1995-12-19 (protokollsnummer
+            1995/96:41). Bifall till trafikutskottets hemställan. Riksdagsskrivelse
+            1995/96:128.
+          </p>
+          <p>
+            1995/96:TUReg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199596/reg_199596_TU/reg_199596_TU_0003"/>
+          <p>
+            Nr TU10 Vissa säkerhets- och miljökrav på fritidsbåtar (prop.
+            1995/96:100) Utskottets justering 1995-12-05 Förslag till beslut:
+            Bifall till propositionen. Riksdagens beslut 1995-12-19 (protokollsnummer
+            1995/96:41). Bifall till trafikutskottets hemställan. Riksdagsskrivelse
+            1995/96:129
+          </p>
+          <p>
+            Nr TU11 Vägverkets produktionsdivision (prop. 1995/96:91) Utskottets
+            justering 1995-12-07. Förslag till beslut: Bifall till propositionen.
+            Avslag på motionerna. Debatt i kammaren 1995-12-18 (protokollsnummer
+            1995/96:40). Riksdagens beslut 1995-12-19 (protokollsnummer 1995/96:41).
+            Bifall till trafikutskottets hemställan. Riksdagsskrivelse 1995/96:130.
+          </p>
+          <p>
+            Nr TU12 Nya förutsättningar för järnvägstrafiken (prop. 1995/96:92)
+            Utskottets justering 1995-12-07. Förslag till beslut: Bifall till
+            utskottets initiativ om godstrafiken. Delvis bifall till motioner
+            beträffande en uppföljning och utvärdering av konsekvenserna om
+            hur de nya riktlinjerna för järnvägstrafiken bör genomföras. Avslag
+            på övriga motioner. Debatt i kammaren 1995-12-14 (protokollshummer
+            1995/96:38). Riksdagens beslut 1995-12-14 (protokollsnummer 1995/96:38).
+            Bifall till trafikutskottets hemställan. Riksdagsskrivelse 1995/96:108.
+          </p>
+          <p>
+            Nr TU13 Organisationen av den periodiska fordonskontrollen (skr.
+            1995/96:93) Utskottets justering 1996-02-20 Förslag till beslut:
+            Skrivelsen till handlingarna. Avslag på motionerna. Debatt i kammaren
+            1996-03-06 (protokollshummer 1995/96:64). Riksdagens beslut 1996-03-13
+            (protokollsnhummer 1995/96:68). Bifall till trafikutskottets hemställan.
+            Riksdagsskrivelse 1995/96:176.
+          </p>
+          <p>
+            Nr TU14 Andringar i körkortslagen (prop. 1995/96:118) Utskottets
+            justering 1996-03-05 Förslag till beslut: Bifall till propositionen.
+            Avslag på motionerna. Debatt i kammaren 1996-03-27 (protokollshummer
+            1995/96:76). Riksdagens beslut 1996-03-27 (protokollsnummer 1995/96:76).
+            Bifall till trafikutskottets hemställan. Riksdagsskrivelse 1995/96:195.
+          </p>
+          <p>
+            1" Riksdagen 1995/96 15 saml. Register
+          </p>
+          <p>
+            1995/96:TUReg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199596/reg_199596_TU/reg_199596_TU_0004"/>
+          <p>
+            Nr TU15 Tilläggsbudget inom Kommunikationsdepartementets område
+            (prop. 1995/96:105 avsnitt 4) Utskottets justering 1996-03-05
+            Förslag till beslut: Bifall till propositionen i denna del. Riksdagens
+            beslut 1996-03-29 (protokollsnummer 1995/96:78). Bifall till trafikutskottets
+            hemställan. Riksdagsskrivelse 1995/96:205.
+          </p>
+          <p>
+            Nr TU16 Ecomet (prop. 1995/96:142) Utskottets justering 1996-04-23
+            Förslag till beslut: Bifall till propositionen. Riksdagens beslut
+            1996-05-09 (protokollsnummmer 1995/96:94). Bifall till trafikutskottets
+            hemställan. Riksdagsskrivelse 1995/96:239.
+          </p>
+          <p>
+            Nr TU17 Oresundsförbindelsen (skr. 1995/96:130) Utskottets justering
+            1996-04-16 Förslag till beslut: Skrivelsen till handlingarna.
+            Avslag på motionerna. Debatt i kammaren 1996-05-08 (protokollshummer
+            1995/96:93). Riksdagens beslut 1996-05-08 (protokollsnummer 1995/96:93).
+            Bifall till trafikutskottets hemställan. Riksdagsskrivelse 1995/96:230.
+          </p>
+          <p>
+            Nr TU18 Vägverkets sektorsansvar inom vägtransportsystemet m.m.
+            (prop. 1995/96:131) Utskottets justering 1996-04-23 Förslag till
+            beslut: Delvis bifall till propositionens förslag dels om använd-
+            ningen av anslaget A 2. Drift och underhåll av statliga vägar,
+            dels om vissa bemyndiganden. I övrigt bifall till propositionens
+            förslag. Avslag på motio- nerna. Debatt i kammaren 1996-05-08
+            (protokollshummer 1995/96:93). Riksdagens beslut 1996-05-08 (protokollsnummer
+            1995/96:93). Bifall till trafikutskottets hemställan. Riksdagsskrivelse
+            1995/96:231.
+          </p>
+          <p>
+            Nr TU19 Informationsteknikens användning (prop. 1995/96:125)
+            Utskottets justering 1996-05-23 Förslag till beslut: Initiativ
+            dels om en samlad årlig redovisning av utveck- lingen på IT-området,
+            dels om ett samlande och samordnande ansvar för IT- säkerhetsfrågorna
+            samt om en strategi på området. Bifall till propositionen. Avslag
+            på motionerna. Debatt i kammaren 1996-06-04 (protokollsnhummer
+            1995/96:105).
+          </p>
+          <p>
+            1995/96:TUReg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199596/reg_199596_TU/reg_199596_TU_0005"/>
+          <p>
+            Riksdagens beslut 1996-06-04 (protokollsnhummer 1995/96:105).
+            1995/96:TUReg. Bifall till trafikutskottets hemställan. Riksdagsskrivelse
+            1995/96:282.
+          </p>
+          <p>
+            Nr TU20 Tillstånd för internationell järnvägstrafik (prop. 1995/96:192)
+            Utskottets justering 1996-05-21 Förslag till beslut: Bifall till
+            propositionen. Riksdagens beslut 1996-06-04 (protokollsnhummer
+            1995/96:105). Bifall till trafikutskottets hemställan. Riksdagsskrivelse
+            1995/96:283.
+          </p>
+          <p>
+            Yttranden till andra utskott
+          </p>
+          <p>
+            Nr TUl1ly till KU Förvaltningsmyndigheternas ledning (prop. 1994/95:150
+            bil. 7) Trafikutskottets justering 1995-10-26. Trafikutskottets
+            förslag till beslut: Bifall till propositionen i denna del. Konstitutionsutskottets
+            (bet. 1995/96:KU1) justering 1995-11-16. Konstitutionsutskottets
+            förslag till beslut: Bifall till propositionen i denna del. Debatt
+            i kammaren 1995-11-23 (protokollsnummer 1995/96:28). Riksdagens
+            beslut 1995-11-23 (protokollsnummer 1995/96:28). Bifall till konstitutionsutskottets
+            hemställan. Riksdagsskrivelse: 1995/96:32.
+          </p>
+          <p>
+            Nr TU2y till UU EU:s regeringskonferens 1996 (skr. 1995/96:30
+            delvis) Trafikutskottets justering 1996-02-20. Trafikutskottets
+            förslag till beslut: Skrivelsen till handlingarna och avslag på
+            motionerna i denna del. Utrikesutskottets (bet. 1995/96:UU13)
+            justering 1996-03-07. Utrikesutskottets förslag till beslut: Skrivelsen
+            till handlingarna. Debatt i kammaren 1996-03-28-29 (protokollsnummer
+            1995/96:77-78). Riksdagens beslut 1996-03-29 (protokollsnhummmer
+            1995/96:78). Skrivelsen till handlingarna. Avslag på motionerna.
+            Riksdagsskrivelse: 1995/96:199.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199596/reg_199596_TU/reg_199596_TU_0006"/>
+          <p>
+            Nr TU3y till KU 1995/96:TUReg. Redogörelse för behandlingen av
+            riksdagens skrivelser till regeringen (skr. 1995/96:15 delvis)
+            Trafikutskottets justering 1996-03-05. Trafikutskottets förslag
+            till beslut: Skrivelsen till handlingarna. Konstitutionsutskottets
+            (ber. 1995/96:KU30) justering 1996-05-09. Konstitutionsutskottets
+            förslag till beslut: Skrivelsen till handlingarna. Debatt i kammaren
+            1996-05-29 (protokollsnummer 1995/96:101). Riksdagens beslut 1996-05-29
+            (protokollsnhummer 1995/96:101). Skrivelsen till handlingarna.
+            Riksdagsskrivelse: 1995/96:269-270.
+          </p>
+          <p>
+            Nr TU4y till KU EU-frågornas behandling i riksdagen Trafikutskottets
+            justering 1996-04-16. Anm. Yttrandet innehåller trafikutskottets
+            svar m.m. till konstitutionsutskot- tet på en inom KU:s kansli
+            upprättad promemoria innehållande bl.a. frågor till utskotten.
+          </p>
+          <p>
+            Nr TUSy till FiU Ekonomisk vårproposition (prop. 1995/96:150
+            delvis) Trafikutskottets justering 1996-05-09. Trafikutskottets
+            förslag till beslut: Bifall till propositionen och avslag på motionerna
+            i denna del. Finansutskottets (bet. 1995/96:FiU10) justering 1996-05-28.
+            Finansutskottets förslag till beslut: Bifall till propositionen
+            och avslag på motionerna i denna del. Debatt i kammaren 1996-06-11
+            (protokollsnummer 1995/96:109). Riksdagens beslut 1996-06-11 (protokollsnummer
+            1995/96:109). Bifall till finansutskottets hemställan. Riksdagsskrivelse:
+            1995/96:304.
+          </p>
+          <p>
+            Nr TU6y till NU Aktiv förvaltning av statens företagsägande (prop.
+            1995/96:141 delvis) Trafikutskottets justering 1996-04-23. Trafikutskottets
+            förslag till beslut: Bifall till propositionen och avslag på motionerna
+            i denna del. Näringsutskottets (bet. 1995/96:NU26) justering 1996-05-28.
+            Näringsutskottets förslag till beslut: Bifall till propositionen
+            och avslag på motionerna i denna del. Debatt i kammaren 1996-06-10
+            (protokollsnummer 1995/96:108). Riksdagens beslut 1996-06-11 (protokollsnhummer
+            1995/96:109). Bifall till näringsutskottets hemställan. Riksdagsskrivelse:
+            1995/96:302.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199596/reg_199596_TU/reg_199596_TU_0007"/>
+          <p>
+            Sakregister 1995/96:TUReg.
+          </p>
+          <p>
+            A A-Banan Projekt AB....ssssssssssssesssssessnresersssrssnrsrnnsrnnrrrnrrnnnt
+            5 A-traktOrerls.ssssssssssessesesresesrsrsrernesrersesresresnrsnerrerrennsr
+            renen nr nn nr 2 AirportCenter ÅB....ssssssssssssssesesssseserrsrnesrernesesnsnesnsnsnsnennnnn
+            5 AnläggningSlageD......sssssssessssseesessessesrssresrerrersrsrnnenernrrnen
+            enar 8 Arlanda flygplats (privatisering)..............ssssssssesssssssosnennnr
+            6y (NU26) Arlandabaneavtalen..........ssssossssssssersrssessrsnrsnesresnnrnrnernrn
+            ana 5 Avreglering av järnvägstrafiken ..........ssssssssssssesessnenennnen
+            12 B Baltikum (via-trafik)...........ssessssessssorsoesorssrssesrerrersrrrrsrrn
+            rna 7 Banavgifterl..........ssssssssesesessnesesererrnesenesrsnerrsnerernenenernrn
+            nn nn 12,15 Banfördelning och trafikledning............ssssssssssssssssesrsnsnen
+            12 Banverkets dubbla roll (järnvägsbyggande)....................
+            8 Banverkets entreprenadverksamhet..............ssssssssssssesesesen
+            12 Banverkets industridiViSiOD..........ssssesssssssessssssessessernesnnnen
+            12 BilbälteStVåNg.........sssessossssesesensesreserrrsersrrrnsenrnrnnnnrnsrnnn
+            sena 2 BilprOVniNgeD....sssssssssssesesesesesesessnsesernsnsnsnsnsnsnsnrnsnr
+            nan nn en 13 Biltelefon under KÖINiNg........sssssssssssssserssreserenesernsnenennnnn
+            2 Bolagisering av SJ.ssssssssssssesessesreesesnesrnesnesrerresnernernennrnrn
+            rna 12 Bussar och lastbilar (hastighetsgränser)....................s.....
+            2 Busstrafikmarknadeln..........ssesessesssesreressrsssresresesrnesresnrrnrrnenen
+            3 Byggande av järnväg (lagZ)..........ssssssssssssesssoenenerernrnenenennnen
+            8 D Dalarnas nattågstrafik................sssssssesssssssesenesnenesnnnrnrnnnenen
+            6 Datakommunikation 1, 19 Datoriserade parlamentariker..........ssssssssesssossesesssnsnnsennnnnr
+            19 DatOrtek osssssssssssrsrsesreseersesrersesrerrersesrerrersrernrrsnernner
+            nen nrn renen ennen 19 Digital kommunikationsbasS.........ssessssessssesesesesoessnsnrnnsnnnn
+            19 Digitalisering av TV och radiO..........sssssssssssesssseseresnsserenen
+            19 Distansutbildning s....ssssssssesessresssrrssresrssrsreresrsrenerrrnrrer
+            er nn rna 19 Drift och underhåll av statliga vägar (anslag)..................
+            18 E E-post (PLiVät)a.ssssssssssssesesesesesrereseseresrsnernnrnern
+            renen aren nrnen aren enn 19 ECOMCtasoesereesessrerreresrerrererrsrersrersreresresrernrrrrrr
+            renen nere renen en en 16 Ekonomisk VårpropOSitiOnD...........sssssessssessrssssssessesnesrrsennent
+            5y (FiU10) Elektronisk handel och marknadsplatser................sssss.s-s-
+            1 Enhetstaxa för ISDN=..ssssssssssssesssessessesseserssrsrnesrrsnesrerernerent
+            1, 19 Enhetstaxa på telenätet...............ssssssssossossesosossesnsnenesernsnsr
+            1 Epa-traktOrer.........sssssssoossssssseseserenenesernarnernererernener
+            ene nrnrnn nn 2
+          </p>
+          <p>
+            Estonias förlisning (anslag för övertäckning).................
+            15
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199596/reg_199596_TU/reg_199596_TU_0008"/>
+          <p>
+            EU:s besiktningspolitik s....mssssssssssssssesessesesesnsnesernsnersennrn
+            en EU-frågornas behandling i riksdagen...........s.ssssesemssnn
+            EU:s järnvägspOlitik......ssssssssessssssssesssesesnsnenersernenesnsnsnennnn
+            EU:s regeringskonferens 1996..........sssssssssseresesseserserenernr
+            EuropamOpedelh...sssssssesssrsesesresesrerseseeresnernnrrrrnern
+            rn er ner rann nna European Cooperation in Meteorology (Ecomet)...........
+          </p>
+          <p>
+            F Fartygstonnage (Gotlandstrafiken)...............sssssssssssssssssnt
+            FastighetsbildningSslagen...........sssessssesssssssrrsesessrrsnesesnnnnen
+            FastlandShamnaål........ssssssssssssresersesesresesnesrerernrnnernrrnennrn
+            nen Flygande inspektiOner.........sssssesssesessssssesesesnsnsnesernsnennnnsnn
+            Fordonskontrollen, periodiska...........sesssssssssssssssesssseresnsn
+            Fritidsbåtar............essossosso0s00so0sssnssrnsrrsrrsrnsrnnrnnrnn
+            nns nnnrnn rna Funktionshindrades resmöjligheter................ssssssssssssssne
+            Funktionshindrades teletjänster.................sssssssssssssssssnnne
+            FärdSskrivarkfäV.....ssssssssosssssssseseseseseresrsrsrereserrsnsn
+            en nrnsnenrnn Färjetrafikens lagreglering.........sssssssssesesesesensornsnsnsnsnnnnrnr
+            FÖrarprÖVNiNgeD....ssssssssssssssssesrsrsrsrsrnenesesnsnsnenesnr
+            nr rn nn rna Företagsägande Första hjälpen (körkortsutbildning)...............+sssssssssssss2+
+            Förvaltningsmyndigheternas ledning............ssssssssssssssmns
+          </p>
+          <p>
+            G Gemensamma funktioner (SJ-Banverket).....................+
+            GodstrafikenD..........ssssessessrsrssnrrrerrsrsrrrsnrnrnrrrernrrrrrrrrrnnrn
+            nn Gotlandstillägget...........ssesssssssesesessesessesersersennssnrsnrrnrnnnn
+            nn Gotlandstrafiken..........sessesssererererresresrsrsrernrsnrrrrrrrrrrrnrr
+            nn nn Gotlandstrafikens huvudmannaskap...........sssssssesnsnen
+            GrunddatabasSer........ssssserssrorersserrrsrrrsrrrnrsrrrrerrrrrrrrrrrrrrr
+            rn nn
+          </p>
+          <p>
+            H Handikappade (teletjänster)..............s.sssesesesssenssenenensnnnnnn
+            Handsfree-utruStniN2.........sssssesessssrsssrssessesrssesrernesrrrernnnnt
+            HaningeledenD.....sssssssssssesesesesrsesesrsrsesnsnsreresnsnenerernn
+            nen nn nen HastighetsregulatOrer...........ssssssssosesssesessnsosesesenerenennnnnnnnn
+            Helsingborg-Helsingör (järnvägstunnel).................ssss++
+            Hushållning med naturresurser (laZ).........ssssssesesosssnennnn
+            Hälso- och sjukvård (IT).......ssessessessosesersesersrnsnserensnrennnnr
+          </p>
+          <p>
+            Informationsteknik..............essssssesssesssssssersrsessrsrnessesnsrnernnn
+            Informationsteknikens användning............ssssssssssssisssrsns
+            InlandsbanaD......ssssesssesseseserressrerersrsrrrsnrsnrrrrrrrnnrr
+            rer n rn n na Inspektioner, flygande........sssesessersessesessrensenennnnnrnsnrnnnen
+          </p>
+          <p>
+            2y (UU13) 2 16
+          </p>
+          <p>
+            18 6y (NU26) 2 1y (KU1)
+          </p>
+          <p>
+            1995/96:TUReg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199596/reg_199596_TU/reg_199596_TU_0009"/>
+          <p>
+            Internationell samverkan (IT). .....sssssssssssssssrrssensnnnrsrrrrnnrr
+            Interregional persontrafik (upphandling)................s+sss++
+            ISDN-nNätet....sssesssssessererereerrresrerrrrrrresrresrrsrrsnennrrnrn
+            nen rrn ennen IT-baserade läromedel.....ssssssesssrsssssrssrererssnesrsnsnerserernrnnnent
+            IT-frÅgOLsssssssrsrsesesrsrererererererersenerer eran en ene en
+            rasen en ran en ennen ren enn IT i SKOlADassosssrsrssrrerrsrrreresrrsrrsrrsrrrrrsner
+            rer rrrerrrr ere es renen en en a IT-KatalOg2.ssssssssssserssseesrrsrsrrsrrrersressrrsrsrrsrnrrrernnrrnrnnrn
+            ennen nn nn
+          </p>
+          <p>
+            J JämställdhetsfrågOr Om IT sosmsssssssrssesesesrsrseserenerernrnrrnrnn
+            JärnvägsOperatÖrer, NYA......ssssssssssssssrssessssesesnesesnsnsnsnenent
+            JärnVägSPlaN€Cl..sssssessssssssesrssenrernesesnenesneren enes
+            erna ennen en rn nan Järnvägstrafiken (uppföljning och utvärdering).............
+            Järnvägstrafikens förutsättningar................+-eessmsmsn Järnvägssäkerhetslägen........ssssssssssssssesesesesesesennnenernensnnnn
+            Järnvägstunnel Helsingborg-HelsingöÖr..............sessssss
+          </p>
+          <p>
+            K KatalysatorVärmare.......sssssssssssssesrssesesrsrnesessrernensnrnsnnener
+            ennen Kollektivtrafiken (IT)....sssssssssesssssssssesssnrsrsrssnrrsrnennrrnrrnrna
+            Kollektivtrafikens konkurrenskraft...............sssssssssssss00s
+            Kommunikationsnätens utbyggnad...............ssssssssmsmemes Konkurrens
+            i busstrafiken..........ssssssossosssseressssesrnenerserene Konsumentupplysning
+            Om IT ssssssssssessessesesnsnenenernrnsnnnr Kortare arbetsdag
+            (IT) Köp av interregional persontrafik på järnVäg.................
+            Kör- och vilotider (yrkestrafiken)...........ssssssssmssssn Körkort
+            B (Uutvidgnilg)..........sssssssssssssssssssesesenenenrnnnsernnen
+            Körkort (läkarundersökning)...........sssssssessssessesessenesennen
+            KÖTrKkOTtSlagZeDasssssssesssssrsssreesererererersrsrensrerresrernernennrr
+            ennen en KörkortsutbildniNngeD.........ssssessesssessssrrssrseeserersserenrsnnnsna
+          </p>
+          <p>
+            L Lastbilar (längd, vikt, hastighet)................ssssssssssssesssesnne
+            Lastbilstransporter (utjämning av taxor), lagförslag....... LFV
+            Handling AB.ssssssssrssssrsresrsresesresesrsrsrnerersrerersnrrnrnrn
+            nn Lokalbussarnas trafiksträCKOr............ssssssssssssssesenensenisensn
+            Lokalbusslinjer (EU-regler)........ssssssssessrsseseserrnenrererernnnnrn
+            Luftfartsverkskoncernen (holdingbolag)...............+s+s+ Länsjärnvägarna
+            (gemensamma funktioner).................. Lärarutbildning (IT).....sssssssssssssssssssssnesesrrnsernrnnnrenerennnnnnen
+          </p>
+          <p>
+            - NN WU
+          </p>
+          <p>
+            1995/96:TUReg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199596/reg_199596_TU/reg_199596_TU_0010"/>
+          <p>
+            M
+          </p>
+          <p>
+            Miljökonsekvensbeskrivningar (järnvägsbyggande)....... Miljöpolitiken
+            (IT). ..ssssssssssssessnssesnesesnrsnsneseserennsnenennnnrenn
+            MIttliDjeD....ssssssosssssresessresresresnrsnesnesrrsn ner nere
+            renen nr enn nn ena Monopolstrukturer (IT).......ssssssseseseseseserernresenenrnnnnnnnnnnnnn
+            Moped, snabb (KÖrkOrt)........sssesessesssorssssrseresesesersenesernrnrne
+          </p>
+          <p>
+            Mopedåldern.
+          </p>
+          <p>
+            Motorcyklar (besiktning)...........ssssssssssssesesosseserernsnrnrnrnrnn
+            Motorcyklar (gult strålkastarljuS)................sessssssssssose00n0n
+          </p>
+          <p>
+            Motorsporten
+          </p>
+          <p>
+            (åldersgränSer)..........ssssssessossessenenesenennnnnnt
+          </p>
+          <p>
+            Motorvärmare för miljÖD.........ssssssssssesssssssssernsserserrserernnnt
+            Mått- och viktregler (tyngre VägfordOn)...............s.s+s-s+s--
+          </p>
+          <p>
+            N Nationell IT-s
+          </p>
+          <p>
+            [8 21055 24 FRA
+          </p>
+          <p>
+            Nattågstrafik på Dalarnå.........ssesesesososseseresesensnsnsnnnsrnnnnnn
+          </p>
+          <p>
+            Nordström &amp;
+          </p>
+          <p>
+            (0)
+          </p>
+          <p>
+            Thulin ABssssnssssssssssssesesesesrsnserenensnnnnnsnnnn sn
+          </p>
+          <p>
+            Offentlig upphandling (databasS).............sssssseeersrsssnne
+            Offentliga handlingars tillgänglighet...............s.sss--:+
+            Oligopolstrukturer (IT)......ssssesssssosessssesenrsrnrnsnsrnnrnnnnnnnr
+          </p>
+          <p>
+            Open Univers
+          </p>
+          <p>
+            P
+          </p>
+          <p>
+            ity-MOdellen......ssssssssssssssesesnsnsnsnsnernnnn ennen
+          </p>
+          <p>
+            Parkeringsbolagens verksamhet.............ssssssosesssnssenenenenen
+            ParkeringSfrågOrl.........sssssssssssssssnesesesesesesnsnserensnsnrnsnnnnnnn
+            en Periodiska fordonskontrollen...........sssssessssssssesssssrsesersnnn
+            Persontrafik på övre NOIrlanC........sssssesesesesessssnsssnsennnnnnr
+            Persontrafikens avreglering (SJ)...........ssssssssssesssssesesernnne
+            Persontrafiktaxor (Gotlandstrafiken)................sssssss
+          </p>
+          <p>
+            PIARC:s 10:e
+          </p>
+          <p>
+            VinterkONgreSS.......sssssssssssesseresnesnrsnsnsnnsnnn
+          </p>
+          <p>
+            Platsreservation (Gotlandstrafiken)...............ssssssssrsssss0e
+            PlattformsförbindelSer.........sssssssssssssersssesneneneneresnsnrnnnrnen
+            Post- och telestyrelSen...........sssssssssososossesesensrnsnsnnnnnnsnnen
+            Posten (privatisering AV).......sssssssssssossesoesesnsnssnssrnnsnnnren
+            Projektuppföljning (Öresundsbron).............swssssssssx
+          </p>
+          <p>
+            Promillegräns
+          </p>
+          <p>
+            12 1y (KU1) 6y (NU26) 17
+          </p>
+          <p>
+            1995/96:TUReg.
+          </p>
+          <p>
+            10
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199596/reg_199596_TU/reg_199596_TU_0011"/>
+          <p>
+            R Redogörelse för behandlingen av riksdagens skrivelser till
+            regeringeh.......ssssssssessssoesornessnsnrnsnrnnnnn Regional
+            balans (IT )J.ssssssssssssssssssesnessnsrnesnssnnrnrnnrnrnnn ennen
+            Reklamskyltar vid Vägarna.......s.sssssssosssssoseseresnesnsnnnnnrn
+            Riksdagens skrivelser till regeringen............ssesssessssne
+            Riksvägsklassificering (Gotlandstrafiken)................... 120058
+            [237 0
+          </p>
+          <p>
+            S Shortline-trafik..........sssssosssrssssseserrerernrrerernrnrnrrrrrrrnrrrnnrnn
+          </p>
+          <p>
+            SJ-KONCEINCIN.ssesseeesererreressrrrrerrrssserrrrrrnrrrrrrrrrrrrrrnn
+            ren n nn nn SJ:s företrädesrätt.............ssssssssrrssoossensnnnrrerrrrnrnnnrrrrrrrr
+          </p>
+          <p>
+            Skolbussar (säkerhetsbälten)...............sssssosssrrosesoorsnnnn
+            Skoldatanätet............sssesssesseseosreserrorernrrsrsrrrrrerrrsrnnernrnnen
+            NET 0) 10006 (0) 4 Vr Statens företagsSägande............ssssssssessssnssesnsnesesennsnnnsnnn
+            Strålkastarljus (ZUlt)..........sssssesssesesessenesesesenerernrnnnnrnnnnnn
+          </p>
+          <p>
+            Swedavia ABasmmssssssssrssrssesreererrerserrsesrrrrsrrrrerresnrnn
+            ere nr n rn nn Systemtågstrafiken.............ssssssssssosoosenesesesenenenennnnrnnnnnn
+            Säkerhets- och miljökrav på fritidsbåtar (lag)............. Säkerhet
+            och sårbarhet (IT).......ssssssssssssrsersersnsernreernnrnrr
+          </p>
+          <p>
+            T Taxiförare (bilbälte2)...........ssssoosssesssssrsssosrsesonnrenrnsrrrrrrer
+            TaxitillStåNCA.........sssssosssessssesnrsnrererrsrsrnrsnrsrnrrrnrnerrrrrn
+            enn nn TelefOnmÖtel.....ssssssressssrsrssorrserrrreserrrsrsrerrrrnrrrrrrrersrrrnrr
+            Telekommunikation (IT).........sssssesssrssesssssesreroreenrsernrne
+            Telekommunikationer (handikappade)...................... Teletjänster
+            (handikappade)...........ssssssessesssssssresesesnsnnr Telia AB
+            osssossssrsserssrsssrsserssrssrresrrrrnrrsrrrrnnrrrrrrrrrrr rer
+            nrn nerna
+          </p>
+          <p>
+            TilläggsbUdgeta...sssssssrsssrsrssrenesneernesrssnesnnrnrsrnenennrrernrnnnen
+            Tillstånd för internationell järnvägstrafik (lag).......... Trafikledning
+            och banfördelning av järnvägstrafiken Trafikupphandling, reformerad...........ssssssssssssseresnssnnnr
+            TrafikövervakniNgehD......ssssssssssesesessrsnssnsnssesesesrsrsrsrnrnt
+            Transeuropeiska transportnätverken..............esessssss Transportstöd
+            för GOtlanC..........sssssesseseessessssserseserennnnr Tyngre
+            motorcyklar (behörighetsålder)......................-
+          </p>
+          <p>
+            3y (KU30) 19 2 3y (KU30) 7 19 12 2
+          </p>
+          <p>
+            4 16 6y (NU26) 12 12 12 16 2 19 2 6y (NU26) 2 19
+          </p>
+          <p>
+            1995/96:TUReg.
+          </p>
+          <p>
+            11
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199596/reg_199596_TU/reg_199596_TU_0012"/>
+          <p>
+            Typgodkännandereglert.......ssssssssesesesesensesesesesesenenenrnsnnr
+            Tågledningen (anSlagZ).......sssssssssesesessssesesesnssesesnsnnnnnnnn
+          </p>
+          <p>
+            U Utgiftsområde 22: Kommunikationer..........sessssssessem Utredningsarbete
+            med anledning av M/S Estonias förlisning (anslag)...................s..-.-
+            Utländskt körkort (byte till Svenskt)................s.sssssssss
+          </p>
+          <p>
+            Vv Varningsljus (roterande).............ssssssssssssesesseresnsnerernsnnr
+            VattenlageD........sesssssesssssserrssesesesrererserserrererernener
+            enn rn en en enn VideokonferenSel........ssssssssssssessesessesnessesrernrsnrrnerernen
+            nn Vissa kostnader till följd av M/S Estonias förlisning.. Vårproposition,
+            ekOonOMiSK.........ssssssssesesssesesenesenenrnrnnr Vägverket,
+            omstrukturering QV......ssssssseeeemssmemssnn Vägverkets myndighetsrOll..........ssessssssesessssssesnsnenennsnnnn
+            Vägverkets produktionsdivision (bolagisering)............ Vägverkets
+            sektorsansvar inom vägtransportsystemet.
+          </p>
+          <p>
+            Y YrkestrafikfrågOr............sososooososesesesessseseresrsernesrrrrrerennnnn
+            Yrkestrafikmål (besvärsrätt)................sssssossooesonssnnsnnsnt
+            YrketrafiklagenD........ssssssssssssesenesessesenesrsrsrnenernsrerernnnen
+            enn
+          </p>
+          <p>
+            Ä Äldre körkortshaVare..............seseseeseosessrssrserssrsersrrnnnnn
+          </p>
+          <p>
+            ö Öresundsbroprojektet..................ssssssssssonssssnossssnnnnnn
+            Öresundsförbindelsen............ssessesssessrossrssressrssrsrsrsnnnnnnn
+            Östeuropa (via-trafik).................ssssssosssssosssssrsssnnnnnnnnnn
+          </p>
+          <p>
+            Gotab, Stockholm 1996
+          </p>
+          <p>
+            5y (FiU10)
+          </p>
+          <p>
+            15 14
+          </p>
+          <p>
+            2 8 19 15 5y (FiU10) 18 11 18 18
+          </p>
+          <p>
+            [
+          </p>
+          <p>
+            17 17
+          </p>
+          <p>
+            1995/96:TUReg.
+          </p>
+          <p>
+            12
+          </p>
         </div>
       </div>
     </body>

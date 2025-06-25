@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="reg_199091_AU">
   <teiHeader>
     <fileDesc>
       <titleStmt/>
@@ -19,141 +19,674 @@
   </teiHeader>
   <text>
     <body>
-      <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_AU/reg_199091_AU-000.pdf"/>
+      <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_AU/reg_199091_AU_0000"/>
       <div type="gBody">
         <div>
-          <p>Arbetsmarknadsutskottets register</p>
-          <p>A=</p>
-          <p>vid riksmötet 1990/91 Beg 1990/91 AU Reg. Nr AU01 Jämställdhet Utskottets justering: 1990-10-10 Riksdagens beslut: Bifall till utskottets hemställan 1990-10-24 Protokollsnhummer 1990/91:14 Riksdagsskrivelse - Nr AU02 Ledighet och arbetstid Utskottets justering: 1990-10-11 Debatt i kammaren 1990-11-21 Protokollsnummer 1990/91:29 Riksdagens beslut: Bifall till utskottets hemställan 1990-11-21 Protokollshummer 1990/91:29 Riksdagsskrivelse - Nr AU03 Förtroendemannalagen Utskottets justering: 1990-10-23 Debatt i kammaren 1990-11-21 Protokollsnummer 1990/91:29 Riksdagens beslut: Bifall till utskottets hemställan 1990-11-21 Protokollsnhummer 1990/91:29 Riksdagsskrivelse 1990/91:35 Nr AU04 Styrelserepresentation för privatanställda Utskottets justering: 1990-10-04 Debatt i kammaren 1990-11-21 Protokollsnhummer 1990/91:29 Riksdagens beslut: Bifall till utskottets hemställan 1990-11-21 Protokollshummer 1990/91:29</p>
-          <p>Riksdagsskrivelse</p>
-          <p>1 Riksdagen 1990/91. 18 saml. Register</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_AU/reg_199091_AU-001.pdf"/>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_AU/reg_199091_AU-002.pdf"/>
-          <p>Nr AU0S5S Anställningsskydd Utskottets justering: Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnhummer Riksdagsskrivelse</p>
-          <p>Nr AU06 Medbestämmande i arbetslivet Utskottets justering: Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse</p>
-          <p>Nr AU07 Personalpolitik Utskottets justering: Debatt i kammaren Protokollsnummer Riksdagens heslut: Bifall till utskottets hemställan Protokollsnhummer Riksdagsskrivelse</p>
-          <p>Nr AU08 Arbetsmiljö Utskottets justering: Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse</p>
-          <p>Nr AU09</p>
-          <p>ILOs konventioner nr 168 och 167 (prop. 1989/90:64)</p>
-          <p>Utskottets justering: Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse</p>
-          <p>Nr AU10 Ändring i arbetsmiljölagen Utskottets justering: Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse</p>
-          <p>1990-11-06 1990-11-21 1990/91:29 1990-11-21 1990/91:29</p>
-          <p>1990-10-04 1990-11-21 1990/91:29 1990-11-21 1990/91:29</p>
-          <p>1990-10-23 1990-11-21 1990/91:29 1990-11-28 1990/91:34</p>
-          <p>1990-11-06 1990-11-21 1990/91:29 1990-11-21 1990/91:29</p>
-          <p>1990-10-04 1990-10-24 1990/91:14 1990/91:8</p>
-          <p>1990-10-04 1990-10-24 1990/91:14 1990/91:7</p>
-          <p>1990/91:AU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_AU/reg_199091_AU-003.pdf"/>
-          <p>Nr AU11 Arbetsmarknadspolitiken (prop. 1990/91:100 bil. 12)</p>
-          <p>Utskottets justering: 1991-03-07 Debatt i kammaren 1991-03-27 Protokollsnummer 1990/91:87 Riksdagens beslut: Bifall till utskottets hemställan 1991-03-27 Protokollsnhummer 1990/91:87 Riksdagsskrivelse 1990/91:164 Nr AU12 Arbetslivsfrågor (prop. 1990/91:100 bil. 12) Utskottets justering: 1991-03-14 Debatt i kammaren 1991-03-27 Protokollsnummer 1990/91:87 Riksdagens beslut: Bifall till utskottets hemställan 1991-03-27 Protokollsnhummer 1990/91:87 Riksdagsskrivelse 1990/91:165 Nr AU13</p>
-          <p>Regionalpolitiken (prop. 1990/91:100 bil. 14, prop. 1990/91:87, prop. 1990/91:125 bil. 9)</p>
-          <p>Utskottets justering: 1991-04-25 Debatt i kammaren 1991-05-16 Protokollsnummer 1990/91:113 Riksdagens beslut: Bifall till utskottets hemställan 1991-05-17 Protokollsnummer 1990/91:114 Riksdagsskrivelse 1990/91:282 Nr AU14</p>
-          <p>Ombildning av Nordkalottens AMU-center till stiftelse (prop. 1990/91:2)</p>
-          <p>Utskottets justering: 1990-11-06 Riksdagens beslut: Bifall till utskottets hemställan 1990-11-21 Protokollsnummer 1990/91:29 Riksdagsskrivelse 1990/91:28 Nr AU1S</p>
-          <p>Tilläggsbudget I till statsbudgeten för budgetåret 1990/91 (prop. 1990/91:25 bil. 6, prop. 1990/91:25 bil. 8)</p>
-          <p>Utskottets justering: 1990-11-29 Debatt i kammaren 1990-12-13 Protokollsnhummer 1990/91:45 Riksdagens beslut: Bifall till utskottets hemställan 1990-12-13 Protokollsnummer 1990/91:45 Riksdagsskrivelse 1990/91:99</p>
-          <p>1990/91:AU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_AU/reg_199091_AU-004.pdf"/>
-          <p>Nr AU16 Arbetslivsforskningens organisation m.m. (prop. 1990/91:69)</p>
-          <p>Utskottets justering: 1991-03-05 Debatt i kammaren 1991-03-27 Protokollsnummer 1990/91:87 Riksdagens beslut: Bifall till utskottets hemställan 1991-03-27 Protokollsnhummer 1990/91:87 Riksdagsskrivelse 1990/91:166 Nr AU17</p>
-          <p>Ny jämställdhetslag, m.m. (prop. 1990/91:113, prop. 1990/91:100)</p>
-          <p>Utskottets justering: 1991-04-18 Debatt i kammaren 1991-05-22 Protokollsnummer 1990/91:116 Riksdagens beslut: Bifall till utskottets hemställan 1991-05-23 Protokollsnummer 1990/91:117 Riksdagsskrivelse 1990/91:288 Nr AU18 Statlig personalpolitik (prop. 1990/91:100 bil. 15) Utskottets justering: 1991-03-07 Riksdagens beslut: Bifall till utskottets hemställan 1991-03-27 Protokollsnhummer 1990/91:87 Riksdagsskrivelse 1990/91:167 Nr AU19</p>
-          <p>Anslag till arbetsmarknadsdepartementet m.m. (prop. 1990/91:100 bil. 12)</p>
-          <p>Utskottets justering: 1991-03-05 Riksdagens beslut: Bifall till utskottets hemställan 1991-03-27 Protokollsnummer 1990/91:87 Riksdagsskrivelse 1990/91:168 Nr AU20</p>
-          <p>Privat arbetsförmedling och uthyrning av arbetskraft, m.m. (prop. 1990/91:124)</p>
-          <p>Utskottets justering: 1991-05-16 Debatt i kammaren 1991-05-27 Protokollsnummer 1990/91:119 Riksdagens beslut: Bifall till utskottets hemställan 1991-05-28 Protokollsnummer 1990/91:120 Riksdagsskrivelse 1990/91:304</p>
-          <p>1990/91:AU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_AU/reg_199091_AU-005.pdf"/>
-          <p>Nr AU21 Vissa fredspliktsregler, "Lex Britannia" (prop. 1990/91:162)</p>
-          <p>Utskottets justering: 1991-05-16 Debatt i kammaren 1991-05-27 Protokollsnummer 1990/91:119 Riksdagens beslut: Bifall till utskottets hemställan 1991-05-28 Protokollsnummer 1990/91:120 Riksdagsskrivelse 1990/91:305 Nr AU22 Arbetsmiljö och rehabilitering (prop. 1990/91:140) Utskottets justering: 1991-05-14 Debatt i kammaren 1991-05-27 Protokollsnummer 1990/91:119 Riksdagens beslut: Bifall till utskottets hemställan 1991-05-28 Protokollsnhummer 1990/91:120 Riksdagsskrivelse 1990/91:302 Nr AU23</p>
-          <p>Tilläggsbudget II till statsbudgeten för budgetåret 1990/91 (prop. 1990/91:125 bil. 7, prop. 1990/91:125 bil. 10)</p>
-          <p>Utskottets justering: 1991-05-14 Riksdagens beslut: Bifall till utskottets hemställan 1991-05-28 Protokollsnhummer 1990/91:120 Riksdagsskrivelse 1990/91:307 Nr AU24</p>
-          <p>Andringar i lagen om arbetslöshetsförsäkring, m.m. (prop. 1990/91:160)</p>
-          <p>Utskottets justering: 1991-05-16 Riksdagens beslut: Bifall till utskottets hemställan 1991-05-28 Protokollsnummer 1990/91:120 Riksdagsskrivelse 1990/91:306 Nr AU2S Uppskov med behandlingen av vissa ärenden Utskottets justering: 1991-05-16 Riksdagens beslut: Bifall till utskottets hemställan 1991-05-29 Protokollsnhummer 1990/91:121</p>
-          <p>Riksdagsskrivelse -</p>
-          <p>Nr AU26 Visst regionalpolitiskt stöd Utskottets justering: 1991-05-21 Debatt i kammaren 1991-05-27 Protokollsnhummer 1990/91:119 Riksdagens beslut: Bifall till utskottets hemställan 1991-05-28 Protokollsnhummer 1990/91:120 Riksdagsskrivelse 1990/91:308</p>
-          <p>1990/91:AU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_AU/reg_199091_AU-006.pdf"/>
-          <p>Yttranden till andra utskott</p>
-          <p>Nr AUt1y till UU EG-frågor Utskottets justering: 1990-10-23 UU8</p>
-          <p>Nr AU2y till KU Konsekvensanalyser i propositioner Utskottets justering: 1991-02-19 KU30</p>
-          <p>Nr AU3y till KU Ärendefördelningen mellan riksdagens utskott Utskottets justering: 1991-03-19 KU47</p>
-          <p>Nr AU4y till JoU Sockernäringen (prop. 1990/91:87) Utskottets justering: 1991-04-10 JoU2S</p>
-          <p>Nr AUS5y till FiU Kompletteringspropositionen (prop. 1990/91:150 bil. 1:6, 1:8, 2:9) Utskottets justering: 1991-05-16 FiU30</p>
-          <p>1990/91:AU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_AU/reg_199091_AU-007.pdf"/>
-          <p>Sakregister</p>
-          <p>Ackordslön i transportarbet€..........ss.sessssessessesrssnresserrnnnennnnnn AffärsverkSsinveSteriNgar s...mssssssssseeseesennresneesnnrersnnennnernnnrrn ann Alkohol- och drogproblem. ossmessessessererserererensernnnernsnnrnnnnnnnnn Allmännyttiga OrganisatiON€r m.ssssssssesessrersoensnnerrrensrrrennnnnnnn Amalgam ............. AMU-gruppen AN HÖLigVvårA oossssssresrerereneseseenerennerenenenennnnnnrnsn nn en nrnr Anställningsskydd Arbetarskyddsavgiftel s...mmmmmmssssssesrsesensesnesnenennennenenrrrrnnnn nn eran ArbetarskyddsstyrelSen s..smsssssssessenesnsesenesrenersnnernerrrnrnnnnnnnnnnnn ArbetsanpaSsSNilg...mmmmsssssssersesesneersseserenensensnnennnnnnerrrnn rr nr nn renar Arbetsbiträde€..........ssossoseorsesoneneenerneresnennnneserrnrrnnnrnnrnernnrn nr rn nnn nn Arbetsdelhilg....smmmssoreseesennenreseenernenernrernnnrnernrrrnnrnern rr nn nns nr nanna Arbetsdomstolen ANSIäQ oooeseereesreereeresresernerresnesesneresnnnrnnnrrnr renen nen nen nr n rn nen nnn Sammansättning i jämställdhetsmål mmm Arbetsförmedling Allmän platsan mälan smsmmmnssssssesorereresereorerrnnrrrrrnnnr nen nn nnnn Arbete efter PensioneriNg.....seessessesoresensenennenennnnnnnnnnrnnn Förmedling av arbete i andra länder s....sseeeeerrrrrrrrnnnnn Kompetent personal för hörselskadade och vuxna [6 (057 VAA</p>
-          <p>Kulturarbetsförmedling Privat arbetsförmedling Uppföljningsansvar för handikappade ungdomar........ ArbetsförmedlingSlägen...sssmsssrssresesssnrnsserernererernrnrnrrnnrrrnn nens ArbetsförmedlingsmOnOpOl.ssssssrersesresserssersessresrsrennnrrnrennent Arbetsgaranti för handikappade. ...msmmssssesessesresesennenersnnnennnna Arbetsgivarverkets..sssnsmssssesessrsnesessesrsennrsnerernnnernernennenen nr n ennen Arbetshandikappade ArbetslivsCentrUll smmssssssessersrsssesnessesennrrssserennnrersrernrerrn nr rn arena ArbetslivSfOonden s.smmnnesseereeressressrenesnrerrrrnersnrresnn nee renen rr nen nr nen ArbetslivsforSknNinlg.....ssssssssssresesereserreresernneseernnnnnrrnnn nn nr rr nn enn Arbetslokaler.......ssssssoeseeseneeneroesnrressernesnsnnsnenrrnnrnrnnrnnrnnr rer nnnnn Arbetslöshetsförsäkring Egenföretagarnas sociala SituatiON s.........seeeeesesersesnsennnnn Ersättning till äldre arbetslÖSä..........sssssseseseessnesenrennnnnren ErSättningSregler....ssssseseseenesesneesnrresernernrnennrnnrnnrnnernnnnn nns Företagarbegreppet...........ssesssssssnnesnnnnn Inträde i arbetslöshetskassa LagändriNgar sm.smsssessssrssosesessrererrnenenesenrnrnenen ens enenr ene r nn nen Periodisering av arbetslöshetsersättning......................-- Regler för föräldrar utan barnOmSOrg.........eeeeensn SemesterersättNiNg........sssssssssseserserneseenerorensnnsnesrernnrnn nr nnnt Utredning om allmän arbetslöshetsförsäkring.............. Arbetsmarknadsavgiftel .....mmmmssessesesesrererserennrnrrsrnrnnernrnnnernnnnn Arbetsmarknadsdepartementet, anslag Arbetsmarknadsfonden Arbetsmarknadsinstitut</p>
-          <p>1990/91:AU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_AU/reg_199091_AU-008.pdf"/>
-          <p>Arbetsmarknadspolitiken, inriktning och finansiering ..... Arbetsmarknadspolitiska åtgärder, anslag ..............s-se-----&gt;&gt; Arbetsmarknadsutbildning Dagpenning till ungdomar under 20 år ssnsmmmmmmnsnesennnnn Finansiering av utbildningsbidrag INriktNiNg..sssssesssesesesesnernnenennennennrn nn enn Utbildning i företag.......seeeeeerseeseeesereennernnnennnnnnn Arbetsmarknadsverkets förvaltningskostnader Arbetsmiljö Arbetsmiljö och yttre miljö s.....sssssessseseseseenesernrnennrnnnnnnn Inriktningen av arbetsmiljöarbetet ..............s.sesensn0snnnn Internationella initiativ...mmsoesseseeseorerorsrerernersnnnnrnrnnrnnn ann Konsekvenser av tillämpningsbestämmelser.................</p>
-          <p>Kvinnors arbetsmiljö.. Offentlig SEKtOrs...ssssssssssenesrsnensorsesesnesenesrenennrnenrnnnnennrnen enn Psykiska arbetsmiljöproblem smmmmssrsrsseresesnesernrnrnnnnnnnnnn</p>
-          <p>Ändringar i arbetsmiljölagen ...............ssssssnnenennnnnnnnnnnn ArbetsmiljöbrOtt .....nnnsmssssssrarosronnennannrennernrnsnernernnnrnnrrnn rr annant ArbetsmiljöfOnden s...smmmsssssresneneenesnesernessesnsnnnnernrnnrnernnrnnrn annan ArbetsmiljöinstitUten sm.osmmssssssereeseeesessessesnnsnnnennnennnennn enn nnnnn Arbetsmiljölagen, ändringar s.mmsssssessesssrsrsrnesnnenernnrnrnnnnnnnnnn ArbetsOrganisatiOn.....sssmsssssssesssoneenesneresnesneserernnrennnrnnrrnnnnnn nn nnn Arbetsrätten, utredning OM smsmmsmseseesesresesrennerernnnnnrnnrnnrnnnnnnnn Arbetsskada ....ssmnneeseoeseonernernnenerrenernernernenesnennrrnenrrrnennnnnnnn nn nen Arbetsskyldighet oosmnsnmsnasssneesnrerennenesrernesnnserernnnsnrnnernrnnnnnnnnnnn nn Arbetstagarbegreppet......sssssssosononenennenenesenrsrenerernenesnrnennnnnnnnnn ATDbEtStill...ooossseseoreenesrenerenernennenenennrnenennenerenenrnn ennen enar nere nen nen enn Arbetstidsförkortning Arbetstoppar .................... Arbetsvärdering ASDESÉOS onosnesreseerrernesrenernennnennenesnennenernnenesnerenn ren nnn enn nn nr rent Avskrivning av arbetsmarknadsverkets lånefordringar...... AVSKFiVNingSlål oosssssssssseseseereseererenernenerrenenenenennennnnennrnennen ann nn nen Avstängning från arbetsuppgifter ................ssssssssesssesesnnnnr</p>
-          <p>Belysning på arbetsplatser .................. Beredningsorgan i företagsstyrelser Beredskapsarbeten Arbeten i olika landsdelar sssmmnssmssssrersesersrssresnnnennnnnnnnnnn an Fackligt inflytande... osssssssssesesreresesenernenesnenenennnnen annen nanna Blockader mot fÖretag.......sssesesreresrereserresesernernennrrrenerrnrnnnn nana Buller</p>
-          <p>Decentralisering DEIPENSION sosseserrereesresrrersererrerrrerrrnrrnrrrrnrennenernnnrnrnrnn ann nen nerna ana DeltidSarbet€ sosmsssssssesseeeerererenneresnerennrrrnrneeresern nere nnernnn nr erna nan</p>
-          <p>11, 5y 11, 5y</p>
-          <p>Sy 11 11 11, 5y 11, 5y</p>
-          <p>1990/91:AU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_AU/reg_199091_AU-009.pdf"/>
-          <p>Diskrimineringsförbud DOMAarCsuooeessessereeensersnn annan Driftenhetsbegreppet nen Dyslektiker oosssssssreseesrareesssreererssrerernennrnrrrerrnrernrrsr nr ner rrrn erna nen</p>
-          <p>EG ArbetsmarknadsfrågOr ...........ssssssrsrsesesesesenenenenenennenenenennnn Arbetsmiljö och arbetsrätt ........sssssoseossersnrenesnrsnenernsnnnnnnr "Det goda arbetet" iiosnnosssssssssesssssrsnrererenrrenrrrrrennrrrnnrrnnr narr Jämställd hetSfrågOr ssssnmnmsnsosseeseeseererrerernerrerenerenrenenennnen eran nn Nedsättning av socialavgifter s....nmmmssssssssrsnesorsnesesnennnnennrnr Regionalpolitik ossssnnssssrssssrersrererernenrrernernnrsnnsnnrennenn enn nen nerna Elevskyddsombud oena Elöverkänslighet m.smnmmsssssereresesreserrrerreerrrenrrrnrnrenrrrnrernrrnennrnn nana EnNSamarbet€.ssssessesserreseresresresernrnernnernnerernernernrnnrrnener nen ennen nn nn ENtrepreNadef oossssssesresereerrrrrrrsrrrrerererr nere r renen er rnnr rer nrn ren nn rna ERU, aNSlag sossossrssreersesesrrernrerssrenrrrnensresnrernnrsrrenrrrnnrnnrnnrn nerna Etnisk diskriminering Externa arbetstagarkonsulter, anslag sm smmmmmnrssresrsrssesnsnnnnnnnn</p>
-          <p>Fackföreningsavgiflu....ssossssesssesesnenrennenenennenenennrnerennnsnenenrnenen Facklig vVerkSam het..ssnssmssssserrerrrrerereressrrnnnnrrnnrrernrrrennrennnrnnnnnn Facklig VetOrätt ...sssnnsssssosrorerrererrrrerrnernrrarnrrrenrererrnrrernrrnn ren nn rna Flexibla lönebidräag......smmssssreseressrrenerrrnnrsennnnnrnennerrnnnn eran nn nnn nn FlyttningSbidräag ...ssmssesressesrrneresnrrrrnnnrennrrrsnnsnrennrnrnnnnrrnnrn nn nen nn FredSplikt mssnnsssssesrrssrerserernrrersrensnrrrnrnnrsrnennerrrrrnnennr en nrnnen nen n nn nn Främjandelagen FÖTAr hytter osoosssssssereeeesrereeeeererrersrrrrrrrrrnrsnr enn n sanne rr ene renen nn anna FÖreningsarbet€e ssmmmsssssresrrrrerresnrrernnrrrrrsrrnnernnrnnnnn nen n enn Företagsblockader FÖFretagSbOtl sssnssssseseeesererrrerrrrnrereenrerensrrrrrnrnnnrnnenrnrrn enn nen nrn nen nn ann FöretagshälsOVård sossnmnmessresrereseeresersrererenrenerenrnnerenenennnenen nanna FÖTetagSStÖGs.ssssssresrresereerererrrerrrrserrrrrrrnrrrrrrnnrnnrrnnrnnnrn renas nerna ann FöretagsutbildNiNg.....ssssssossesresrensensrennerrerreneenernenrennnnenrnnrn annen Förhandlingsrätt/skyldighet ...msnmsssssesresernesreneernennennsnennsnnnnnnnn Förordnandepension Förtidspensionerade Förtroendemannalagen s.mmsmmsssressssrsneresrenenrerererenernrnenenenen annan Föräldraledighet Hel ledighet och förkortad arbetstid för småbarnsföräldlräf.......ssessrsressreresesrsrrenenenenenenensn ennen en enn nanna Jämställd hetsaspekter .ssmmnnssnsssseseeseenenneneenennennennnnernrnen ne nn Lagändring</p>
-          <p>Glesbygdsdelegationen .mimsnnsssssrserresesnrenrsrenrenrerernernrnerrrnennrnnn GlesbygdSStÖd s.sssssnsesrresrrresnrrrrrrrenrerernneenrernrernrerrernrrnrern annen rr n nn GrupplivförSäkrfilg........ssssssesseosessrernrenreneenennenrenernenernerneren renen [GET CSE TA [5 4 RR</p>
-          <p>17,</p>
-          <p>18,</p>
-          <p>8, 15,</p>
-          <p>12,</p>
-          <p>17</p>
-          <p>[CSS UN</p>
-          <p>1990/91:AU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_AU/reg_199091_AU-010.pdf"/>
-          <p>HemtjälSt€N sonssssssereerrrsrreresrererrrrrrrrerrrerrrerenenrnrnnnrrrrrrnnnnnnr nanna Hörselskadade sumsssmsssarsseessreeserserrereseresesnrrrerenrsnernrrrnrenrnrnnnn nn nanna</p>
-          <p>Immateriella investeringar. ...mmmmssssesssessrenssransesnrernrrnnennnnn nn nn Inbyggda verkstäder .s...sssmmsssssserensenrrersnreenesnnneererrrerrnnrrnn nn n arna Industricentra................. Infrastrukturåtgärder InkomstbOortfall o..smnsssssssssressressrressrenserenrrrrnrnnrnannn ren srrnrr nn nn nn nn Inlandsbanan sssssssesrerrresresresreserrennernrnn er rrrnen renar sense an nerna non nan InskolningSplatS€r .m..ssmsssesssesrsssresrerrerrsrrnnrsrnrerrnrrnrnrrrrrrrrrnnrnn nn nn Introduktionsbidräg......ssssesrereessersresernersrenrrsrenrennernennnnenrrnnnn nn Introduktionsprogram för nyanställda .....sm.ssssesssersessrssrrrnn INVANdLALE oooeeeeseersereseesrerresserrersernrrrsrrrrrrrnn enes n rer snnn serna nr nn arenan Investeringsbidräag......ssssssesseseernerserrsennrereernennennerrernennsnnrnennrn enn</p>
-          <p>JOrdbrUKarCoooosssssseseesrrrersrrrernrrrrerrererererrrrererrrrerrrrnrerrnrrnr eran en Jämställdhet oosmnnssssssesrereresrorererrrrrrrerrerersrrnrrrrnrrrrrrrrrrrrrr ere rr rna Jämställd hetSlag .smsssssssssssssesressrnsrsnrenrernernrsnesnernrrn ennen nrnnrn ann nnn Jämställd hetsnämnden snussnsssssssrrrerererseresessrrrerrrererrrnrnrrrrnr arna</p>
-          <p>KAMFratStÖC sussseesresrrrerrresresnrerserenrrrnrrrrnnrrnnnrnn renar ern annen ne nen nan KAS, ålderSgrälS.ssmmsnrssreseeseeserererresrersrerresrnesrerrerrrrrenrenernrn ren rna KatastrofbiståNd .nsnmsnssrssssrereresreseereneerenranesrererennennenenen enar ann nan Kollektivavtal om jämställd het....sssmmmmsssssssessensnnennnennnnnnnnnnnnnn Kommersiell SErViC€ s.ssnnssssseenarnsessresersnenersrsesnennennrenesnen ennen rena Konflikter på arbetsmarknaden KonsekvensanalyS€rl.ssssmmmsssrrressesseressrerrrssnenresrsrrrrennrerrnrnnn nanna Konsekvensbeskrivningar av arbetsmiljöbestämmelser ..... Kreditgaranti€lssmmmssssssesseesresssrensrressrrnsnrrnnnennrsnnnrrnnen rann nrn annan Kulturarbetare ArbetsförmedliNg.......ssssssssosessresersernnrsrennennennernennen ennen annena Fria hemMFr€SOL smossesseeseesreesrrerserersrernrrernnrsnernnn renen enn nr sn nn ann Kulturinstitutioner ................. Kvinnoorganisationer, anslag Kvinnor Arbetsmiljö ..smmmmmnssssoeserersrrensrrnnnrrnnrrnrrrrrrarnnrrrnnrnennnsn nen nenn FOTSKNING oososesesrereererererrererersssrrrserr ner rrnnerernnnrrrrrrerrn ner nn rean | STO) AE Va: VO TO GIESDYgA oosooresesrarrresrereerernerrarrrrnern een nrnnrsnennrrrren renen nn rn nen en Kvinnopolitiskt perspektiv på ekonomin ..............-.....</p>
-          <p>Representation i styrelser m.m. ......... Våld mot KViNNOTL o.sossesesrsrerereneserenesrenenenensnenerenrnsnsnenrnnnnnnn</p>
-          <p>2,8 11</p>
-          <p>9,22 13</p>
-          <p>11, Sy</p>
-          <p>20 11 12 17</p>
-          <p>8, 17, 22 13, 16 1, 17 13 1, 17 1 1, 17 1, 17</p>
-          <p>1990/91:AU Reg.</p>
-          <p>10</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_AU/reg_199091_AU-011.pdf"/>
-          <p>KÖNSSEgregerilgssossmssesseeeoseesersseoereenersrnernr ere ner r enn nenernen renen nnnn</p>
-          <p>LandsbygdsutveCkling..........ssssssseseseeererernensrrnnrnnnernenesnnrnennnnr Laxfond Vänerlm.smmmesreressererersrrnnnnnrnrnesrneernrserrnrnnnrnenerner nen nan Ledighetslagar, översyn av .... Lex BritalM Mia msosmmmsssressrsrererensrrnrnrnnnrerrrnnnerernrn ner n nere rrn rr renarna</p>
-          <p>LÄänSsansSlaget susmssssesesseerenrraseeneerernrsesnnerrnernnrr ner rrn en en enar nrnrn en en nn LänsSStyrelSerNåQ...sssossssseessreserenseserrnrreernresrrnnrrnrnnrnrrrn nr nen ennen nn Lönebidrag Flexibla bidrag ...ssmsssreessornnersnrrrrrrsenrnennnerenssnrnernrnrnnrnrrn nn nn Lönebidrag för förtidspensionerade...............seeesemennn LönediskriminerilQ....ssesssessoessresnneererernenrennnnnernenernrn ene rnnnnen LÖnNegarantilägeN su.smmmssssesseeserrenrererresnnrrnerenennsn renen rn nn enten enn</p>
-          <p>MB L-medlen ssssnasasssesrrererernreerernnnnnnn nns rernn ner rern arr n rn n rn nn en nn Medbestämmande i arbetslivet ..ssnmmmmsssseseresseennesrernnnnnnnnnnnnnn Miljökunskap ........seseesssesesennnnenen Minoritetsorganisationer Missbruksproblem nen MODDNING ousseresreseeresrerrenerrnenernesn aren reser ernner renen ennen en ene renen ennen MOLOFSÅgATL oonsnnrnsrersrnsrseererersrseneeren nare rnren enar en ense ene nern rn rnnrnn ennen IN UTEN FT 4 90 RR</p>
-          <p>Nattraktamente sssmmsnsssssssssresnrerereennnnernrrrrennenrennrn nn ennnnnnen enes nnn Nedsättning av socialavgifter s.....smss.ssssseereesrersnnnnsennnnnnennnnenen Negativ föreningsrätt .................. Nordkalottens AMU-center</p>
-          <p>Offentlig sektor Arbetsmiljö .s..mmsssssossesosrasrensrrsnsereoneernesrnnrenrrrnnenrrn rer ernen rent</p>
-          <p>Ofrivilligt deltidsarbete msmsmsmsmsssssssressesesnnennnnrnrnnnrenrnnnnennnnnnnn Omlokalisering OM plaCerilg oossossresesrerenennenrerenernennernnernrenerernrn renen en ererenen en en ennen</p>
-          <p>Passiv FÖKDNINQGososssssereseeeeeesrenerrenrrrennnrenrernernnnnennrr renen enn rn rn en enar PatientaVvgifl......sssssssosssorenrenesesrsrennnrnnrenenrenennenernensnrn rn en rnrnn nn nnnn PEnSiONärEr ooossssesreseererreersrenrenrenesnrerre ner ennen rnnr nns ns renen ennen enn Personalekonomiska redovisningar sm smseeeeeresrersererennrnnnnnnn PersonalpOlitik........sssssssssessesesesnenennrnenenesrnnnnrrr nn een renen nnenn Personalutbildning .....sssseessrsreesserrrerersrrrnrennnrrsrnrnnennennereen enn nnn Platsan mälan ......smm.sseee&gt;&gt; Postservice i glesbygd Privat arbetsförmedling PrOovanställNing .....ssssssssssessseenresneereerenrnernrennnr ennen nee ner nere nen n nn</p>
-          <p>1</p>
-          <p>12 12, 15 17 15</p>
-          <p>16 6, 20, 21 8, 22</p>
-          <p>1990/91:AU Reg.</p>
-          <p>11</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_AU/reg_199091_AU-012.pdf"/>
-          <p>Psykiska arbetsmiljöproblem......ss.sssssssrssesrsrsessnsnrrnnsnnrnnrn nen</p>
-          <p>Regionala fackliga förtroendemän Regionala skyddsombud s.....sssessesseesersnerernnnnn Regionala utvecklingsinsatser..............- Regionalpolitik sssssmsssssssssrssensnnennnnsnnnnn nan Rehabilitering ................- Rekryteringsstöd ............- Resursområde ............----- Riskgarantilån................. RÖJSÅgAT ososoresssreoeseerererrererrerererrereererererrerererernenenen ennen en nn nn</p>
-          <p>Saklig grund.... SAM Hal oso ee ssssesreserereererrrerrrrsrrrrrrrrnrrrnrrrnrrnnrrr ennen nn nn nn anna Service i gleSDYgC..sssomnnesnesseseesrernersenneneernerernernrnernnnnnnnenn Sexuella trakaSSeri€riomosmmmsssssssserrserrerrerreresrrnerrrrrrrrrrrnnrnnnnn nn nana</p>
-          <p>NS [OF V 6</p>
-          <p>SkiljeklaUSUICr mossssseeessrerserresrerrerserrerserrrrrrererrrrnrnrrner nen nrn rna nn nana Skyddat arbet€........sssessreseereseesressrsresreneenrernernererrernernennrnn ennen rena SkyddskOmmitté€er....ssmssssreseeseesersesrerrerresesrerrererrrrnennenn annan ana SkyddSOmbUC s.ssssseesesreorersrerrersrersrrnnrrnnerrnrrnnrnenn nen er n nen nn enn n nan Småbarnsföräldrar sssmmmmssssseserrerreresenerrenenrrrenenenenrnnenen annen annan ana Socialavgifter Lag om tillfällig avvikelS€ m..ssmmsmmssssensesnnssernnnennernnnnnn nen n nen Nedsättning i StÖödOmråde s.......s.ssssseereresesenesernesennenennennnnn Sockerbruken på Öland och Gotland .............sssssssessssnnnn Sommartrafik =9Å.sssmmssssssessrererssrrersrrrrrrrrerrrerrrrnrrnnrrnnrnnnn rr nanna Starta-eget-Didraget smnsmnssssssesrersennsrneorerrennenerrernrrrrnnrnnrnrrnnrnnr nn StatShälSä sosssssssesserrererrrsrresrsrerrerrerenrrnnrrrnern renen ren nen nr neon ann Stoppningsrätt för skyddsombud m.flis.smsnsssssrsssesssrnernernnn nn StridSåtgärder o.ssmmsesseseesrereerererseererererrererernererenerernrnernnn eran n eran ana Strukturstöd för byggarbetsmarknaden .............sssssssessresnnsnn TATT UTA ET &amp; VR Styrelserepresentation för privatanställda ................s.s--s---- StödområdesindelninNg.....sessssssrsrsesesenenesesesenensnrnensnen eran enen enn Sympatiåtgärder ............ orsereresernen an Sysselsättningsbidrag....................... Sysselsättningsskapande åtgärder Särskilda åtgärder för arbetshandikappade, anslag.............</p>
-          <p>TandVvårdSsperSOnal..sssmsnsrsssssesrsrsesnseserenennnenenenrnsnsnenensnen ennen nn nnn Telekommunikation Tillträdesrätt för fackliga förtroendemän Tilläggsbudget I..... Tilläggsbudget II... TObAakSrÖKnNilg ssssssssererererererssererersereserereerserererrrrnerrnnnn nr nan aren nan</p>
-          <p>22</p>
-          <p>15, 5y</p>
-          <p>4, 5,6, 17</p>
-          <p>15, 18, Sy</p>
-          <p>1990/91:AU Reg.</p>
-          <p>12</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_AU/reg_199091_AU-013.pdf"/>
-          <p>Transnationella företag ......s..ssseserorsesenenarnenensnnrnenennnnnnnnnnnnen 3 1990/91:AU Reg.</p>
-          <p>Trygghetsåtgärder för statsanställda, anslag... Sy TUFOTA NING oososseeeeesreesererersneesnerrrnner ennen ere nere renen ner n ere ran nrn nn 5 TvåhundrakronorSsregell smsmmmmessessssessresrenernrenernnnnnen enn rn rn nn nn 6 Tyst avtalsregleriNg...mmmmsssseseseseneerenrnennrnenennenennsnenrernnnnnennnnnnnn 6 UnderleverantÖrer s.snmmssreserrerresrernsnrernsrrrsnresnnerrrrrn nen rnn nn nnnnn 13 Ungdomar på landsbygden s.......sseseresesesesrsrsrnnrnnnnenenennnnnnnnnnr 13 Uppskov med behandling av vissa ärenden s.....eeeeese 25 UPPSägnNiNg sossoeesrereseseseeserneneersrsnenenerernenernenrnernen ennen een ren enn enn 5 Utbildningsbidrag..........ssssseseesnsnsnsnnn 11, 12, 22, 5y Utbildningsvikariat Sy Uthyrning av arbetskraft ........ssesssesesenennnnnennnnnnnnnnnsnnnensnnnnnn 20 UthyrningSStUgOr s..sssmsssssesesesesessersenernennrnrnrnrnenenrnnnsnrnsnn ere nennnn 13 UtlOkaliSeriNg ssmmmnssnseseesnennessesernesnernenernnernnsn een ernen enn rn renen enn nnn 13 Vetorätt vid entreprenader s........ssssssressnseneneroenenesnnnennnnrnrnenen 6, 20 Vikariebegreppet 5 VUXENAÖVA.sossesesrrressesereerrerererrrserrrenrr nere nrrnnren ner renen nn erna rerna nen 11 Våld mot KkViNNOT sosssnsssesresserseserrenerennnernnenernnsnernernenn enn nnrn enat 1, 17 VärnpliktsutbildniNg.......ossssessesreseserenrernnnrnenennenrnnsnsnrnennrnrnnnen 17 VästnordenfOnden ss.mmmmeresesrrrseesrensrareesnrrrnerernnrnnrrnr ennen nen renen 13 YrkeSsfÖrare...sssenreesrerreersrensnnrnrennennersrsnnerernerrrn ennen nn nn ennen erna 22 Yrkesinriktad rehabilitering 11, 12, 22, 5y Yrkesinspektionen ON TS ET: 12 Blekinge och Hallands län egna yrkesinspektionsdistrikt .........se.seseseseseseesesesnenenesnsnnnennnnnr 8 Kontrollerande funktiOn s...ssssssssessesoseseereserennernnnnnnennnnen 22 Verksamhetens inriktning........ssessseesesessresenessenernnnnennnnnn 8 Yrkesinspektionsnämndernas sammansättning ............ 8 Yttre MiljÖs...mssssssssosreseonrenrenersesneneennrernnernrsnrnn rn nrn renen ennen renen enn 3, 22 Ärendefördelning mellan utskOtt..................s.esmnn 3y</p>
-          <p>13</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_AU/reg_199091_AU-014.pdf"/>
-          <p>gotab 98923, Stockholm 1991</p>
+          <p>
+            Arbetsmarknadsutskottets register
+          </p>
+          <p>
+            A=
+          </p>
+          <p>
+            vid riksmötet 1990/91 Beg 1990/91 AU Reg. Nr AU01 Jämställdhet
+            Utskottets justering: 1990-10-10 Riksdagens beslut: Bifall till
+            utskottets hemställan 1990-10-24 Protokollsnhummer 1990/91:14
+            Riksdagsskrivelse - Nr AU02 Ledighet och arbetstid Utskottets
+            justering: 1990-10-11 Debatt i kammaren 1990-11-21 Protokollsnummer
+            1990/91:29 Riksdagens beslut: Bifall till utskottets hemställan
+            1990-11-21 Protokollshummer 1990/91:29 Riksdagsskrivelse - Nr
+            AU03 Förtroendemannalagen Utskottets justering: 1990-10-23 Debatt
+            i kammaren 1990-11-21 Protokollsnummer 1990/91:29 Riksdagens beslut:
+            Bifall till utskottets hemställan 1990-11-21 Protokollsnhummer
+            1990/91:29 Riksdagsskrivelse 1990/91:35 Nr AU04 Styrelserepresentation
+            för privatanställda Utskottets justering: 1990-10-04 Debatt i
+            kammaren 1990-11-21 Protokollsnhummer 1990/91:29 Riksdagens beslut:
+            Bifall till utskottets hemställan 1990-11-21 Protokollshummer
+            1990/91:29
+          </p>
+          <p>
+            Riksdagsskrivelse
+          </p>
+          <p>
+            1 Riksdagen 1990/91. 18 saml. Register
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_AU/reg_199091_AU_0001"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_AU/reg_199091_AU_0002"/>
+          <p>
+            Nr AU0S5S Anställningsskydd Utskottets justering: Debatt i kammaren
+            Protokollsnummer Riksdagens beslut: Bifall till utskottets hemställan
+            Protokollsnhummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr AU06 Medbestämmande i arbetslivet Utskottets justering: Debatt
+            i kammaren Protokollsnummer Riksdagens beslut: Bifall till utskottets
+            hemställan Protokollsnummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr AU07 Personalpolitik Utskottets justering: Debatt i kammaren
+            Protokollsnummer Riksdagens heslut: Bifall till utskottets hemställan
+            Protokollsnhummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr AU08 Arbetsmiljö Utskottets justering: Debatt i kammaren Protokollsnummer
+            Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer
+            Riksdagsskrivelse
+          </p>
+          <p>
+            Nr AU09
+          </p>
+          <p>
+            ILOs konventioner nr 168 och 167 (prop. 1989/90:64)
+          </p>
+          <p>
+            Utskottets justering: Riksdagens beslut: Bifall till utskottets
+            hemställan Protokollsnummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr AU10 Ändring i arbetsmiljölagen Utskottets justering: Riksdagens
+            beslut: Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse
+          </p>
+          <p>
+            1990-11-06 1990-11-21 1990/91:29 1990-11-21 1990/91:29
+          </p>
+          <p>
+            1990-10-04 1990-11-21 1990/91:29 1990-11-21 1990/91:29
+          </p>
+          <p>
+            1990-10-23 1990-11-21 1990/91:29 1990-11-28 1990/91:34
+          </p>
+          <p>
+            1990-11-06 1990-11-21 1990/91:29 1990-11-21 1990/91:29
+          </p>
+          <p>
+            1990-10-04 1990-10-24 1990/91:14 1990/91:8
+          </p>
+          <p>
+            1990-10-04 1990-10-24 1990/91:14 1990/91:7
+          </p>
+          <p>
+            1990/91:AU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_AU/reg_199091_AU_0003"/>
+          <p>
+            Nr AU11 Arbetsmarknadspolitiken (prop. 1990/91:100 bil. 12)
+          </p>
+          <p>
+            Utskottets justering: 1991-03-07 Debatt i kammaren 1991-03-27
+            Protokollsnummer 1990/91:87 Riksdagens beslut: Bifall till utskottets
+            hemställan 1991-03-27 Protokollsnhummer 1990/91:87 Riksdagsskrivelse
+            1990/91:164 Nr AU12 Arbetslivsfrågor (prop. 1990/91:100 bil. 12)
+            Utskottets justering: 1991-03-14 Debatt i kammaren 1991-03-27
+            Protokollsnummer 1990/91:87 Riksdagens beslut: Bifall till utskottets
+            hemställan 1991-03-27 Protokollsnhummer 1990/91:87 Riksdagsskrivelse
+            1990/91:165 Nr AU13
+          </p>
+          <p>
+            Regionalpolitiken (prop. 1990/91:100 bil. 14, prop. 1990/91:87,
+            prop. 1990/91:125 bil. 9)
+          </p>
+          <p>
+            Utskottets justering: 1991-04-25 Debatt i kammaren 1991-05-16
+            Protokollsnummer 1990/91:113 Riksdagens beslut: Bifall till utskottets
+            hemställan 1991-05-17 Protokollsnummer 1990/91:114 Riksdagsskrivelse
+            1990/91:282 Nr AU14
+          </p>
+          <p>
+            Ombildning av Nordkalottens AMU-center till stiftelse (prop.
+            1990/91:2)
+          </p>
+          <p>
+            Utskottets justering: 1990-11-06 Riksdagens beslut: Bifall till
+            utskottets hemställan 1990-11-21 Protokollsnummer 1990/91:29 Riksdagsskrivelse
+            1990/91:28 Nr AU1S
+          </p>
+          <p>
+            Tilläggsbudget I till statsbudgeten för budgetåret 1990/91 (prop.
+            1990/91:25 bil. 6, prop. 1990/91:25 bil. 8)
+          </p>
+          <p>
+            Utskottets justering: 1990-11-29 Debatt i kammaren 1990-12-13
+            Protokollsnhummer 1990/91:45 Riksdagens beslut: Bifall till utskottets
+            hemställan 1990-12-13 Protokollsnummer 1990/91:45 Riksdagsskrivelse
+            1990/91:99
+          </p>
+          <p>
+            1990/91:AU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_AU/reg_199091_AU_0004"/>
+          <p>
+            Nr AU16 Arbetslivsforskningens organisation m.m. (prop. 1990/91:69)
+          </p>
+          <p>
+            Utskottets justering: 1991-03-05 Debatt i kammaren 1991-03-27
+            Protokollsnummer 1990/91:87 Riksdagens beslut: Bifall till utskottets
+            hemställan 1991-03-27 Protokollsnhummer 1990/91:87 Riksdagsskrivelse
+            1990/91:166 Nr AU17
+          </p>
+          <p>
+            Ny jämställdhetslag, m.m. (prop. 1990/91:113, prop. 1990/91:100)
+          </p>
+          <p>
+            Utskottets justering: 1991-04-18 Debatt i kammaren 1991-05-22
+            Protokollsnummer 1990/91:116 Riksdagens beslut: Bifall till utskottets
+            hemställan 1991-05-23 Protokollsnummer 1990/91:117 Riksdagsskrivelse
+            1990/91:288 Nr AU18 Statlig personalpolitik (prop. 1990/91:100
+            bil. 15) Utskottets justering: 1991-03-07 Riksdagens beslut: Bifall
+            till utskottets hemställan 1991-03-27 Protokollsnhummer 1990/91:87
+            Riksdagsskrivelse 1990/91:167 Nr AU19
+          </p>
+          <p>
+            Anslag till arbetsmarknadsdepartementet m.m. (prop. 1990/91:100
+            bil. 12)
+          </p>
+          <p>
+            Utskottets justering: 1991-03-05 Riksdagens beslut: Bifall till
+            utskottets hemställan 1991-03-27 Protokollsnummer 1990/91:87 Riksdagsskrivelse
+            1990/91:168 Nr AU20
+          </p>
+          <p>
+            Privat arbetsförmedling och uthyrning av arbetskraft, m.m. (prop.
+            1990/91:124)
+          </p>
+          <p>
+            Utskottets justering: 1991-05-16 Debatt i kammaren 1991-05-27
+            Protokollsnummer 1990/91:119 Riksdagens beslut: Bifall till utskottets
+            hemställan 1991-05-28 Protokollsnummer 1990/91:120 Riksdagsskrivelse
+            1990/91:304
+          </p>
+          <p>
+            1990/91:AU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_AU/reg_199091_AU_0005"/>
+          <p>
+            Nr AU21 Vissa fredspliktsregler, "Lex Britannia" (prop. 1990/91:162)
+          </p>
+          <p>
+            Utskottets justering: 1991-05-16 Debatt i kammaren 1991-05-27
+            Protokollsnummer 1990/91:119 Riksdagens beslut: Bifall till utskottets
+            hemställan 1991-05-28 Protokollsnummer 1990/91:120 Riksdagsskrivelse
+            1990/91:305 Nr AU22 Arbetsmiljö och rehabilitering (prop. 1990/91:140)
+            Utskottets justering: 1991-05-14 Debatt i kammaren 1991-05-27
+            Protokollsnummer 1990/91:119 Riksdagens beslut: Bifall till utskottets
+            hemställan 1991-05-28 Protokollsnhummer 1990/91:120 Riksdagsskrivelse
+            1990/91:302 Nr AU23
+          </p>
+          <p>
+            Tilläggsbudget II till statsbudgeten för budgetåret 1990/91 (prop.
+            1990/91:125 bil. 7, prop. 1990/91:125 bil. 10)
+          </p>
+          <p>
+            Utskottets justering: 1991-05-14 Riksdagens beslut: Bifall till
+            utskottets hemställan 1991-05-28 Protokollsnhummer 1990/91:120
+            Riksdagsskrivelse 1990/91:307 Nr AU24
+          </p>
+          <p>
+            Andringar i lagen om arbetslöshetsförsäkring, m.m. (prop. 1990/91:160)
+          </p>
+          <p>
+            Utskottets justering: 1991-05-16 Riksdagens beslut: Bifall till
+            utskottets hemställan 1991-05-28 Protokollsnummer 1990/91:120
+            Riksdagsskrivelse 1990/91:306 Nr AU2S Uppskov med behandlingen
+            av vissa ärenden Utskottets justering: 1991-05-16 Riksdagens beslut:
+            Bifall till utskottets hemställan 1991-05-29 Protokollsnhummer
+            1990/91:121
+          </p>
+          <p>
+            Riksdagsskrivelse -
+          </p>
+          <p>
+            Nr AU26 Visst regionalpolitiskt stöd Utskottets justering: 1991-05-21
+            Debatt i kammaren 1991-05-27 Protokollsnhummer 1990/91:119 Riksdagens
+            beslut: Bifall till utskottets hemställan 1991-05-28 Protokollsnhummer
+            1990/91:120 Riksdagsskrivelse 1990/91:308
+          </p>
+          <p>
+            1990/91:AU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_AU/reg_199091_AU_0006"/>
+          <p>
+            Yttranden till andra utskott
+          </p>
+          <p>
+            Nr AUt1y till UU EG-frågor Utskottets justering: 1990-10-23 UU8
+          </p>
+          <p>
+            Nr AU2y till KU Konsekvensanalyser i propositioner Utskottets
+            justering: 1991-02-19 KU30
+          </p>
+          <p>
+            Nr AU3y till KU Ärendefördelningen mellan riksdagens utskott
+            Utskottets justering: 1991-03-19 KU47
+          </p>
+          <p>
+            Nr AU4y till JoU Sockernäringen (prop. 1990/91:87) Utskottets
+            justering: 1991-04-10 JoU2S
+          </p>
+          <p>
+            Nr AUS5y till FiU Kompletteringspropositionen (prop. 1990/91:150
+            bil. 1:6, 1:8, 2:9) Utskottets justering: 1991-05-16 FiU30
+          </p>
+          <p>
+            1990/91:AU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_AU/reg_199091_AU_0007"/>
+          <p>
+            Sakregister
+          </p>
+          <p>
+            Ackordslön i transportarbet€..........ss.sessssessessesrssnresserrnnnennnnnn
+            AffärsverkSsinveSteriNgar s...mssssssssseeseesennresneesnnrersnnennnernnnrrn
+            ann Alkohol- och drogproblem. ossmessessessererserererensernnnernsnnrnnnnnnnnn
+            Allmännyttiga OrganisatiON€r m.ssssssssesessrersoensnnerrrensrrrennnnnnnn
+            Amalgam ............. AMU-gruppen AN HÖLigVvårA oossssssresrerereneseseenerennerenenenennnnnnrnsn
+            nn en nrnr Anställningsskydd Arbetarskyddsavgiftel s...mmmmmmssssssesrsesensesnesnenennennenenrrrrnnnn
+            nn eran ArbetarskyddsstyrelSen s..smsssssssessenesnsesenesrenersnnernerrrnrnnnnnnnnnnnn
+            ArbetsanpaSsSNilg...mmmmsssssssersesesneersseserenensensnnennnnnnerrrnn
+            rr nr nn renar Arbetsbiträde€..........ssossoseorsesoneneenerneresnennnneserrnrrnnnrnnrnernnrn
+            nr rn nnn nn Arbetsdelhilg....smmmssoreseesennenreseenernenernrernnnrnernrrrnnrnern
+            rr nn nns nr nanna Arbetsdomstolen ANSIäQ oooeseereesreereeresresernerresnesesneresnnnrnnnrrnr
+            renen nen nen nr n rn nen nnn Sammansättning i jämställdhetsmål
+            mmm Arbetsförmedling Allmän platsan mälan smsmmmnssssssesorereresereorerrnnrrrrrnnnr
+            nen nn nnnn Arbete efter PensioneriNg.....seessessesoresensenennenennnnnnnnnnrnnn
+            Förmedling av arbete i andra länder s....sseeeeerrrrrrrrnnnnn
+            Kompetent personal för hörselskadade och vuxna [6 (057 VAA
+          </p>
+          <p>
+            Kulturarbetsförmedling Privat arbetsförmedling Uppföljningsansvar
+            för handikappade ungdomar........ ArbetsförmedlingSlägen...sssmsssrssresesssnrnsserernererernrnrnrrnnrrrnn
+            nens ArbetsförmedlingsmOnOpOl.ssssssrersesresserssersessresrsrennnrrnrennent
+            Arbetsgaranti för handikappade. ...msmmssssesessesresesennenersnnnennnna
+            Arbetsgivarverkets..sssnsmssssesessrsnesessesrsennrsnerernnnernernennenen
+            nr n ennen Arbetshandikappade ArbetslivsCentrUll smmssssssessersrsssesnessesennrrssserennnrersrernrerrn
+            nr rn arena ArbetslivSfOonden s.smmnnesseereeressressrenesnrerrrrnersnrresnn
+            nee renen rr nen nr nen ArbetslivsforSknNinlg.....ssssssssssresesereserreresernneseernnnnnrrnnn
+            nn nr rr nn enn Arbetslokaler.......ssssssoeseeseneeneroesnrressernesnsnnsnenrrnnrnrnnrnnrnnr
+            rer nnnnn Arbetslöshetsförsäkring Egenföretagarnas sociala SituatiON
+            s.........seeeeesesersesnsennnnn Ersättning till äldre arbetslÖSä..........sssssseseseessnesenrennnnnren
+            ErSättningSregler....ssssseseseenesesneesnrresernernrnennrnnrnnrnnernnnnn
+            nns Företagarbegreppet...........ssesssssssnnesnnnnn Inträde i
+            arbetslöshetskassa LagändriNgar sm.smsssessssrssosesessrererrnenenesenrnrnenen
+            ens enenr ene r nn nen Periodisering av arbetslöshetsersättning......................--
+            Regler för föräldrar utan barnOmSOrg.........eeeeensn SemesterersättNiNg........sssssssssseserserneseenerorensnnsnesrernnrnn
+            nr nnnt Utredning om allmän arbetslöshetsförsäkring..............
+            Arbetsmarknadsavgiftel .....mmmmssessesesesrererserennrnrrsrnrnnernrnnnernnnnn
+            Arbetsmarknadsdepartementet, anslag Arbetsmarknadsfonden Arbetsmarknadsinstitut
+          </p>
+          <p>
+            1990/91:AU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_AU/reg_199091_AU_0008"/>
+          <p>
+            Arbetsmarknadspolitiken, inriktning och finansiering ..... Arbetsmarknadspolitiska
+            åtgärder, anslag ..............s-se-----&gt;&gt; Arbetsmarknadsutbildning
+            Dagpenning till ungdomar under 20 år ssnsmmmmmmnsnesennnnn Finansiering
+            av utbildningsbidrag INriktNiNg..sssssesssesesesesnernnenennennennrn
+            nn enn Utbildning i företag.......seeeeeerseeseeesereennernnnennnnnnn
+            Arbetsmarknadsverkets förvaltningskostnader Arbetsmiljö Arbetsmiljö
+            och yttre miljö s.....sssssessseseseseenesernrnennrnnnnnnn Inriktningen
+            av arbetsmiljöarbetet ..............s.sesensn0snnnn Internationella
+            initiativ...mmsoesseseeseorerorsrerernersnnnnrnrnnrnnn ann Konsekvenser
+            av tillämpningsbestämmelser.................
+          </p>
+          <p>
+            Kvinnors arbetsmiljö.. Offentlig SEKtOrs...ssssssssssenesrsnensorsesesnesenesrenennrnenrnnnnennrnen
+            enn Psykiska arbetsmiljöproblem smmmmssrsrsseresesnesernrnrnnnnnnnnnn
+          </p>
+          <p>
+            Ändringar i arbetsmiljölagen ...............ssssssnnenennnnnnnnnnnn
+            ArbetsmiljöbrOtt .....nnnsmssssssrarosronnennannrennernrnsnernernnnrnnrrnn
+            rr annant ArbetsmiljöfOnden s...smmmsssssresneneenesnesernessesnsnnnnernrnnrnernnrnnrn
+            annan ArbetsmiljöinstitUten sm.osmmssssssereeseeesessessesnnsnnnennnennnennn
+            enn nnnnn Arbetsmiljölagen, ändringar s.mmsssssessesssrsrsrnesnnenernnrnrnnnnnnnnnn
+            ArbetsOrganisatiOn.....sssmsssssssesssoneenesneresnesneserernnrennnrnnrrnnnnnn
+            nn nnn Arbetsrätten, utredning OM smsmmsmseseesesresesrennerernnnnnrnnrnnrnnnnnnnn
+            Arbetsskada ....ssmnneeseoeseonernernnenerrenernernernenesnennrrnenrrrnennnnnnnn
+            nn nen Arbetsskyldighet oosmnsnmsnasssneesnrerennenesrernesnnserernnnsnrnnernrnnnnnnnnnnn
+            nn Arbetstagarbegreppet......sssssssosononenennenenesenrsrenerernenesnrnennnnnnnnnn
+            ATDbEtStill...ooossseseoreenesrenerenernennenenennrnenennenerenenrnn
+            ennen enar nere nen nen enn Arbetstidsförkortning Arbetstoppar
+            .................... Arbetsvärdering ASDESÉOS onosnesreseerrernesrenernennnennenesnennenernnenesnerenn
+            ren nnn enn nn nr rent Avskrivning av arbetsmarknadsverkets lånefordringar......
+            AVSKFiVNingSlål oosssssssssseseseereseererenernenerrenenenenennennnnennrnennen
+            ann nn nen Avstängning från arbetsuppgifter ................ssssssssesssesesnnnnr
+          </p>
+          <p>
+            Belysning på arbetsplatser .................. Beredningsorgan
+            i företagsstyrelser Beredskapsarbeten Arbeten i olika landsdelar
+            sssmmnssmssssrersesersrssresnnnennnnnnnnnnn an Fackligt inflytande...
+            osssssssssesesreresesenernenesnenenennnnen annen nanna Blockader
+            mot fÖretag.......sssesesreresrereserresesernernennrrrenerrnrnnnn
+            nana Buller
+          </p>
+          <p>
+            Decentralisering DEIPENSION sosseserrereesresrrersererrerrrerrrnrrnrrrrnrennenernnnrnrnrnn
+            ann nen nerna ana DeltidSarbet€ sosmsssssssesseeeerererenneresnerennrrrnrneeresern
+            nere nnernnn nr erna nan
+          </p>
+          <p>
+            11, 5y 11, 5y
+          </p>
+          <p>
+            Sy 11 11 11, 5y 11, 5y
+          </p>
+          <p>
+            1990/91:AU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_AU/reg_199091_AU_0009"/>
+          <p>
+            Diskrimineringsförbud DOMAarCsuooeessessereeensersnn annan Driftenhetsbegreppet
+            nen Dyslektiker oosssssssreseesrareesssreererssrerernennrnrrrerrnrernrrsr
+            nr ner rrrn erna nen
+          </p>
+          <p>
+            EG ArbetsmarknadsfrågOr ...........ssssssrsrsesesesesenenenenenennenenenennnn
+            Arbetsmiljö och arbetsrätt ........sssssoseossersnrenesnrsnenernsnnnnnnr
+            "Det goda arbetet" iiosnnosssssssssesssssrsnrererenrrenrrrrrennrrrnnrrnnr
+            narr Jämställd hetSfrågOr ssssnmnmsnsosseeseeseererrerernerrerenerenrenenennnen
+            eran nn Nedsättning av socialavgifter s....nmmmssssssssrsnesorsnesesnennnnennrnr
+            Regionalpolitik ossssnnssssrssssrersrererernenrrernernnrsnnsnnrennenn
+            enn nen nerna Elevskyddsombud oena Elöverkänslighet m.smnmmsssssereresesreserrrerreerrrenrrrnrnrenrrrnrernrrnennrnn
+            nana EnNSamarbet€.ssssessesserreseresresresernrnernnernnerernernernrnnrrnener
+            nen ennen nn nn ENtrepreNadef oossssssesresereerrrrrrrsrrrrerererr
+            nere r renen er rnnr rer nrn ren nn rna ERU, aNSlag sossossrssreersesesrrernrerssrenrrrnensresnrernnrsrrenrrrnnrnnrnnrn
+            nerna Etnisk diskriminering Externa arbetstagarkonsulter, anslag
+            sm smmmmmnrssresrsrssesnsnnnnnnnn
+          </p>
+          <p>
+            Fackföreningsavgiflu....ssossssesssesesnenrennenenennenenennrnerennnsnenenrnenen
+            Facklig vVerkSam het..ssnssmssssserrerrrrerereressrrnnnnrrnnrrernrrrennrennnrnnnnnn
+            Facklig VetOrätt ...sssnnsssssosrorerrererrrrerrnernrrarnrrrenrererrnrrernrrnn
+            ren nn rna Flexibla lönebidräag......smmssssreseressrrenerrrnnrsennnnnrnennerrnnnn
+            eran nn nnn nn FlyttningSbidräag ...ssmssesressesrrneresnrrrrnnnrennrrrsnnsnrennrnrnnnnrrnnrn
+            nn nen nn FredSplikt mssnnsssssesrrssrerserernrrersrensnrrrnrnnrsrnennerrrrrnnennr
+            en nrnnen nen n nn nn Främjandelagen FÖTAr hytter osoosssssssereeeesrereeeeererrersrrrrrrrrrnrsnr
+            enn n sanne rr ene renen nn anna FÖreningsarbet€e ssmmmsssssresrrrrerresnrrernnrrrrrsrrnnernnrnnnnn
+            nen n enn Företagsblockader FÖFretagSbOtl sssnssssseseeesererrrerrrrnrereenrerensrrrrrnrnnnrnnenrnrrn
+            enn nen nrn nen nn ann FöretagshälsOVård sossnmnmessresrereseeresersrererenrenerenrnnerenenennnenen
+            nanna FÖTetagSStÖGs.ssssssresrresereerererrrerrrrserrrrrrrnrrrrrrnnrnnrrnnrnnnrn
+            renas nerna ann FöretagsutbildNiNg.....ssssssossesresrensensrennerrerreneenernenrennnnenrnnrn
+            annen Förhandlingsrätt/skyldighet ...msnmsssssesresernesreneernennennsnennsnnnnnnnn
+            Förordnandepension Förtidspensionerade Förtroendemannalagen s.mmsmmsssressssrsneresrenenrerererenernrnenenenen
+            annan Föräldraledighet Hel ledighet och förkortad arbetstid för
+            småbarnsföräldlräf.......ssessrsressreresesrsrrenenenenenenensn
+            ennen en enn nanna Jämställd hetsaspekter .ssmmnnssnsssseseeseenenneneenennennennnnernrnen
+            ne nn Lagändring
+          </p>
+          <p>
+            Glesbygdsdelegationen .mimsnnsssssrserresesnrenrsrenrenrerernernrnerrrnennrnnn
+            GlesbygdSStÖd s.sssssnsesrresrrresnrrrrrrrenrerernneenrernrernrerrernrrnrern
+            annen rr n nn GrupplivförSäkrfilg........ssssssesseosessrernrenreneenennenrenernenernerneren
+            renen [GET CSE TA [5 4 RR
+          </p>
+          <p>
+            17,
+          </p>
+          <p>
+            18,
+          </p>
+          <p>
+            8, 15,
+          </p>
+          <p>
+            12,
+          </p>
+          <p>
+            17
+          </p>
+          <p>
+            [CSS UN
+          </p>
+          <p>
+            1990/91:AU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_AU/reg_199091_AU_0010"/>
+          <p>
+            HemtjälSt€N sonssssssereerrrsrreresrererrrrrrrrerrrerrrerenenrnrnnnrrrrrrnnnnnnr
+            nanna Hörselskadade sumsssmsssarsseessreeserserrereseresesnrrrerenrsnernrrrnrenrnrnnnn
+            nn nanna
+          </p>
+          <p>
+            Immateriella investeringar. ...mmmmssssesssessrenssransesnrernrrnnennnnn
+            nn nn Inbyggda verkstäder .s...sssmmsssssserensenrrersnreenesnnneererrrerrnnrrnn
+            nn n arna Industricentra................. Infrastrukturåtgärder
+            InkomstbOortfall o..smnsssssssssressressrressrenserenrrrrnrnnrnannn
+            ren srrnrr nn nn nn nn Inlandsbanan sssssssesrerrresresresreserrennernrnn
+            er rrrnen renar sense an nerna non nan InskolningSplatS€r .m..ssmsssesssesrsssresrerrerrsrrnnrsrnrerrnrrnrnrrrrrrrrrnnrnn
+            nn nn Introduktionsbidräg......ssssesrereessersresernersrenrrsrenrennernennnnenrrnnnn
+            nn Introduktionsprogram för nyanställda .....sm.ssssesssersessrssrrrnn
+            INVANdLALE oooeeeeseersereseesrerresserrersernrrrsrrrrrrrnn enes
+            n rer snnn serna nr nn arenan Investeringsbidräag......ssssssesseseernerserrsennrereernennennerrernennsnnrnennrn
+            enn
+          </p>
+          <p>
+            JOrdbrUKarCoooosssssseseesrrrersrrrernrrrrerrererererrrrererrrrerrrrnrerrnrrnr
+            eran en Jämställdhet oosmnnssssssesrereresrorererrrrrrrerrerersrrnrrrrnrrrrrrrrrrrrrr
+            ere rr rna Jämställd hetSlag .smsssssssssssssesressrnsrsnrenrernernrsnesnernrrn
+            ennen nrnnrn ann nnn Jämställd hetsnämnden snussnsssssssrrrerererseresessrrrerrrererrrnrnrrrrnr
+            arna
+          </p>
+          <p>
+            KAMFratStÖC sussseesresrrrerrresresnrerserenrrrnrrrrnnrrnnnrnn
+            renar ern annen ne nen nan KAS, ålderSgrälS.ssmmsnrssreseeseeserererresrersrerresrnesrerrerrrrrenrenernrn
+            ren rna KatastrofbiståNd .nsnmsnssrssssrereresreseereneerenranesrererennennenenen
+            enar ann nan Kollektivavtal om jämställd het....sssmmmmsssssssessensnnennnennnnnnnnnnnnnn
+            Kommersiell SErViC€ s.ssnnssssseenarnsessresersnenersrsesnennennrenesnen
+            ennen rena Konflikter på arbetsmarknaden KonsekvensanalyS€rl.ssssmmmsssrrressesseressrerrrssnenresrsrrrrennrerrnrnnn
+            nanna Konsekvensbeskrivningar av arbetsmiljöbestämmelser .....
+            Kreditgaranti€lssmmmssssssesseesresssrensrressrrnsnrrnnnennrsnnnrrnnen
+            rann nrn annan Kulturarbetare ArbetsförmedliNg.......ssssssssosessresersernnrsrennennennernennen
+            ennen annena Fria hemMFr€SOL smossesseeseesreesrrerserersrernrrernnrsnernnn
+            renen enn nr sn nn ann Kulturinstitutioner ................. Kvinnoorganisationer,
+            anslag Kvinnor Arbetsmiljö ..smmmmmnssssoeserersrrensrrnnnrrnnrrnrrrrrrarnnrrrnnrnennnsn
+            nen nenn FOTSKNING oososesesrereererererrererersssrrrserr ner
+            rrnnerernnnrrrrrrerrn ner nn rean | STO) AE Va: VO TO GIESDYgA
+            oosooresesrarrresrereerernerrarrrrnern een nrnnrsnennrrrren renen
+            nn rn nen en Kvinnopolitiskt perspektiv på ekonomin ..............-.....
+          </p>
+          <p>
+            Representation i styrelser m.m. ......... Våld mot KViNNOTL o.sossesesrsrerereneserenesrenenenensnenerenrnsnsnenrnnnnnnn
+          </p>
+          <p>
+            2,8 11
+          </p>
+          <p>
+            9,22 13
+          </p>
+          <p>
+            11, Sy
+          </p>
+          <p>
+            20 11 12 17
+          </p>
+          <p>
+            8, 17, 22 13, 16 1, 17 13 1, 17 1 1, 17 1, 17
+          </p>
+          <p>
+            1990/91:AU Reg.
+          </p>
+          <p>
+            10
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_AU/reg_199091_AU_0011"/>
+          <p>
+            KÖNSSEgregerilgssossmssesseeeoseesersseoereenersrnernr ere ner
+            r enn nenernen renen nnnn
+          </p>
+          <p>
+            LandsbygdsutveCkling..........ssssssseseseeererernensrrnnrnnnernenesnnrnennnnr
+            Laxfond Vänerlm.smmmesreressererersrrnnnnnrnrnesrneernrserrnrnnnrnenerner
+            nen nan Ledighetslagar, översyn av .... Lex BritalM Mia msosmmmsssressrsrererensrrnrnrnnnrerrrnnnerernrn
+            ner n nere rrn rr renarna
+          </p>
+          <p>
+            LÄänSsansSlaget susmssssesesseerenrraseeneerernrsesnnerrnernnrr
+            ner rrn en en enar nrnrn en en nn LänsSStyrelSerNåQ...sssossssseessreserenseserrnrreernresrrnnrrnrnnrnrrrn
+            nr nen ennen nn Lönebidrag Flexibla bidrag ...ssmsssreessornnersnrrrrrrsenrnennnerenssnrnernrnrnnrnrrn
+            nn nn Lönebidrag för förtidspensionerade...............seeesemennn
+            LönediskriminerilQ....ssesssessoessresnneererernenrennnnnernenernrn
+            ene rnnnnen LÖnNegarantilägeN su.smmmssssesseeserrenrererresnnrrnerenennsn
+            renen rn nn enten enn
+          </p>
+          <p>
+            MB L-medlen ssssnasasssesrrererernreerernnnnnnn nns rernn ner
+            rern arr n rn n rn nn en nn Medbestämmande i arbetslivet ..ssnmmmmsssseseresseennesrernnnnnnnnnnnnnn
+            Miljökunskap ........seseesssesesennnnenen Minoritetsorganisationer
+            Missbruksproblem nen MODDNING ousseresreseeresrerrenerrnenernesn
+            aren reser ernner renen ennen en ene renen ennen MOLOFSÅgATL oonsnnrnsrersrnsrseererersrseneeren
+            nare rnren enar en ense ene nern rn rnnrnn ennen IN UTEN FT 4
+            90 RR
+          </p>
+          <p>
+            Nattraktamente sssmmsnsssssssssresnrerereennnnernrrrrennenrennrn
+            nn ennnnnnen enes nnn Nedsättning av socialavgifter s.....smss.ssssseereesrersnnnnsennnnnnennnnenen
+            Negativ föreningsrätt .................. Nordkalottens AMU-center
+          </p>
+          <p>
+            Offentlig sektor Arbetsmiljö .s..mmsssssossesosrasrensrrsnsereoneernesrnnrenrrrnnenrrn
+            rer ernen rent
+          </p>
+          <p>
+            Ofrivilligt deltidsarbete msmsmsmsmsssssssressesesnnennnnrnrnnnrenrnnnnennnnnnnn
+            Omlokalisering OM plaCerilg oossossresesrerenennenrerenernennernnernrenerernrn
+            renen en ererenen en en ennen
+          </p>
+          <p>
+            Passiv FÖKDNINQGososssssereseeeeeesrenerrenrrrennnrenrernernnnnennrr
+            renen enn rn rn en enar PatientaVvgifl......sssssssosssorenrenesesrsrennnrnnrenenrenennenernensnrn
+            rn en rnrnn nn nnnn PEnSiONärEr ooossssesreseererreersrenrenrenesnrerre
+            ner ennen rnnr nns ns renen ennen enn Personalekonomiska redovisningar
+            sm smseeeeeresrersererennrnnnnnnn PersonalpOlitik........sssssssssessesesesnenennrnenenesrnnnnrrr
+            nn een renen nnenn Personalutbildning .....sssseessrsreesserrrerersrrrnrennnrrsrnrnnennennereen
+            enn nnn Platsan mälan ......smm.sseee&gt;&gt; Postservice i glesbygd
+            Privat arbetsförmedling PrOovanställNing .....ssssssssssessseenresneereerenrnernrennnr
+            ennen nee ner nere nen n nn
+          </p>
+          <p>
+            1
+          </p>
+          <p>
+            12 12, 15 17 15
+          </p>
+          <p>
+            16 6, 20, 21 8, 22
+          </p>
+          <p>
+            1990/91:AU Reg.
+          </p>
+          <p>
+            11
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_AU/reg_199091_AU_0012"/>
+          <p>
+            Psykiska arbetsmiljöproblem......ss.sssssssrssesrsrsessnsnrrnnsnnrnnrn
+            nen
+          </p>
+          <p>
+            Regionala fackliga förtroendemän Regionala skyddsombud s.....sssessesseesersnerernnnnn
+            Regionala utvecklingsinsatser..............- Regionalpolitik sssssmsssssssssrssensnnennnnsnnnnn
+            nan Rehabilitering ................- Rekryteringsstöd ............-
+            Resursområde ............----- Riskgarantilån.................
+            RÖJSÅgAT ososoresssreoeseerererrererrerererrereererererrerererernenenen
+            ennen en nn nn
+          </p>
+          <p>
+            Saklig grund.... SAM Hal oso ee ssssesreserereererrrerrrrsrrrrrrrrnrrrnrrrnrrnnrrr
+            ennen nn nn nn anna Service i gleSDYgC..sssomnnesnesseseesrernersenneneernerernernrnernnnnnnnenn
+            Sexuella trakaSSeri€riomosmmmsssssssserrserrerrerreresrrnerrrrrrrrrrrnnrnnnnn
+            nn nana
+          </p>
+          <p>
+            NS [OF V 6
+          </p>
+          <p>
+            SkiljeklaUSUICr mossssseeessrerserresrerrerserrerserrrrrrererrrrnrnrrner
+            nen nrn rna nn nana Skyddat arbet€........sssessreseereseesressrsresreneenrernernererrernernennrnn
+            ennen rena SkyddskOmmitté€er....ssmssssreseeseesersesrerrerresesrerrererrrrnennenn
+            annan ana SkyddSOmbUC s.ssssseesesreorersrerrersrersrrnnrrnnerrnrrnnrnenn
+            nen er n nen nn enn n nan Småbarnsföräldrar sssmmmmssssseserrerreresenerrenenrrrenenenenrnnenen
+            annen annan ana Socialavgifter Lag om tillfällig avvikelS€ m..ssmmsmmssssensesnnssernnnennernnnnnn
+            nen n nen Nedsättning i StÖödOmråde s.......s.ssssseereresesenesernesennenennennnnn
+            Sockerbruken på Öland och Gotland .............sssssssessssnnnn
+            Sommartrafik =9Å.sssmmssssssessrererssrrersrrrrrrrrerrrerrrrnrrnnrrnnrnnnn
+            rr nanna Starta-eget-Didraget smnsmnssssssesrersennsrneorerrennenerrernrrrrnnrnnrnrrnnrnnr
+            nn StatShälSä sosssssssesserrererrrsrresrsrerrerrerenrrnnrrrnern
+            renen ren nen nr neon ann Stoppningsrätt för skyddsombud m.flis.smsnsssssrsssesssrnernernnn
+            nn StridSåtgärder o.ssmmsesseseesrereerererseererererrererernererenerernrnernnn
+            eran n eran ana Strukturstöd för byggarbetsmarknaden .............sssssssessresnnsnn
+            TATT UTA ET &amp; VR Styrelserepresentation för privatanställda
+            ................s.s--s---- StödområdesindelninNg.....sessssssrsrsesesenenesesesenensnrnensnen
+            eran enen enn Sympatiåtgärder ............ orsereresernen an Sysselsättningsbidrag.......................
+            Sysselsättningsskapande åtgärder Särskilda åtgärder för arbetshandikappade,
+            anslag.............
+          </p>
+          <p>
+            TandVvårdSsperSOnal..sssmsnsrsssssesrsrsesnseserenennnenenenrnsnsnenensnen
+            ennen nn nnn Telekommunikation Tillträdesrätt för fackliga förtroendemän
+            Tilläggsbudget I..... Tilläggsbudget II... TObAakSrÖKnNilg ssssssssererererererssererersereserereerserererrrrnerrnnnn
+            nr nan aren nan
+          </p>
+          <p>
+            22
+          </p>
+          <p>
+            15, 5y
+          </p>
+          <p>
+            4, 5,6, 17
+          </p>
+          <p>
+            15, 18, Sy
+          </p>
+          <p>
+            1990/91:AU Reg.
+          </p>
+          <p>
+            12
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_AU/reg_199091_AU_0013"/>
+          <p>
+            Transnationella företag ......s..ssseserorsesenenarnenensnnrnenennnnnnnnnnnnen
+            3 1990/91:AU Reg.
+          </p>
+          <p>
+            Trygghetsåtgärder för statsanställda, anslag... Sy TUFOTA NING
+            oososseeeeesreesererersneesnerrrnner ennen ere nere renen ner
+            n ere ran nrn nn 5 TvåhundrakronorSsregell smsmmmmessessssessresrenernrenernnnnnen
+            enn rn rn nn nn 6 Tyst avtalsregleriNg...mmmmsssseseseseneerenrnennrnenennenennsnenrernnnnnennnnnnnn
+            6 UnderleverantÖrer s.snmmssreserrerresrernsnrernsrrrsnresnnerrrrrn
+            nen rnn nn nnnnn 13 Ungdomar på landsbygden s.......sseseresesesesrsrsrnnrnnnnenenennnnnnnnnnr
+            13 Uppskov med behandling av vissa ärenden s.....eeeeese 25 UPPSägnNiNg
+            sossoeesrereseseseeserneneersrsnenenerernenernenrnernen ennen
+            een ren enn enn 5 Utbildningsbidrag..........ssssseseesnsnsnsnnn
+            11, 12, 22, 5y Utbildningsvikariat Sy Uthyrning av arbetskraft
+            ........ssesssesesenennnnnennnnnnnnnnnsnnnensnnnnnn 20 UthyrningSStUgOr
+            s..sssmsssssesesesesessersenernennrnrnrnrnenenrnnnsnrnsnn ere
+            nennnn 13 UtlOkaliSeriNg ssmmmnssnseseesnennessesernesnernenernnernnsn
+            een ernen enn rn renen enn nnn 13 Vetorätt vid entreprenader s........ssssssressnseneneroenenesnnnennnnrnrnenen
+            6, 20 Vikariebegreppet 5 VUXENAÖVA.sossesesrrressesereerrerererrrserrrenrr
+            nere nrrnnren ner renen nn erna rerna nen 11 Våld mot KkViNNOT
+            sosssnsssesresserseserrenerennnernnenernnsnernernenn enn nnrn
+            enat 1, 17 VärnpliktsutbildniNg.......ossssessesreseserenrernnnrnenennenrnnsnsnrnennrnrnnnen
+            17 VästnordenfOnden ss.mmmmeresesrrrseesrensrareesnrrrnerernnrnnrrnr
+            ennen nen renen 13 YrkeSsfÖrare...sssenreesrerreersrensnnrnrennennersrsnnerernerrrn
+            ennen nn nn ennen erna 22 Yrkesinriktad rehabilitering 11, 12,
+            22, 5y Yrkesinspektionen ON TS ET: 12 Blekinge och Hallands län
+            egna yrkesinspektionsdistrikt .........se.seseseseseseesesesnenenesnsnnnennnnnr
+            8 Kontrollerande funktiOn s...ssssssssessesoseseereserennernnnnnnennnnen
+            22 Verksamhetens inriktning........ssessseesesessresenessenernnnnennnnnn
+            8 Yrkesinspektionsnämndernas sammansättning ............ 8 Yttre
+            MiljÖs...mssssssssosreseonrenrenersesneneennrernnernrsnrnn rn
+            nrn renen ennen renen enn 3, 22 Ärendefördelning mellan utskOtt..................s.esmnn
+            3y
+          </p>
+          <p>
+            13
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_AU/reg_199091_AU_0014"/>
+          <p>
+            gotab 98923, Stockholm 1991
+          </p>
         </div>
       </div>
     </body>

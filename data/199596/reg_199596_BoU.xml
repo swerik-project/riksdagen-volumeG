@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="reg_199596_BoU">
   <teiHeader>
     <fileDesc>
       <titleStmt/>
@@ -19,96 +19,563 @@
   </teiHeader>
   <text>
     <body>
-      <pb facs="riksdagen-volumeG-pdf/data/199596/reg_199596_BoU/reg_199596_BoU-000.pdf"/>
+      <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199596/reg_199596_BoU/reg_199596_BoU_0000"/>
       <div type="gBody">
         <div>
-          <p>Bostadsutskottets register vid riksmötet 1995/96</p>
-          <p>Betänkanden</p>
-          <p>Nr BoU1l Översiktsplaneringen enligt plan- och bygglagen, m.m. (prop. 1994/95:230) Utskottets justering Förslag till beslut: Med anledning av motioner tillkännagivanden om dels tillgängligheten i den fysiska miljön, dels möjligheten att i detaljplan precisera handelsändamålet och dels kvalitetsdeklaration av bostäder. Avslag på övriga motioner och bifall till propositionen. Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse</p>
-          <p>Nr BoU2 Ökade medel för vissa bostadsförbättringsåtgärder (prop. 1995/96:67) Utskottets justering Förslag till beslut: Bifall till propositionen Debatt i kammaren Protokollshummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse</p>
-          <p>Nr BoU3</p>
-          <p>Ändringar i bostadsrättslagen m.m. (prop. 1995/96:17) Utskottets justering</p>
-          <p>I Riksdagen 1995/96 19 saml. BoU Register</p>
-          <p>1995-11-09</p>
-          <p>1995-11-22 1995/96:27 1995-11-23 1995/96:28 1995/96:30</p>
-          <p>1995-11-14</p>
-          <p>1995-11-22 1995/96:27 1995-11-23 1995/96:28 1995/96:31</p>
-          <p>1995-11-23</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199596/reg_199596_BoU/reg_199596_BoU-001.pdf"/>
-          <p>Förslag till beslut: Delvis bifall till propositionen beträffande dels lydelsen av 6 kap. 8 $ bostadsrättslagen, dels lydelsen av 6. kap 4 $ bostadsrättslagen och dels övergångsbestämmelserna. I övrigt bifall till propositionen och avslag på motionerna. Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse</p>
-          <p>Nr BoU4 Ansvaret för fastighetsbildningsverksamheten, m.m. (prop. 1995/96:78), (prop. 1995/96:47) Utskottets justering Förslag till beslut: Med anledning av förslag i proposition 1995/96:78 tillkännagivande beträffande ledningsformen för det nya Lantmäteriverket, i övrigt bifall till propositionerna och avslag på motionerna. Debatt i kammaren Protokollshummer Riksdagens beslut: Bifall till utskottets hemställan Protokollshummer</p>
-          <p>1995-12-13 1995/96:37 1995-12-14 1995/96:38 1995/96:101</p>
-          <p>1995-11-23</p>
-          <p>1995-12-13 1995/96:37 1995-12-14 1995/96:38</p>
-          <p>Riksdagsskrivelse 1995/96:102 Nr BoUS Samordnad länsförvaltning (1995/96:RR3) Utskottets justering 1996-02-08 Förslag till beslut: Tillkännagivande till regeringen angående länsexperterna och länsstyrelsens samordningsroll. Avslag på revisorernas förslag om trafiksäkerheten. Avslag på motionen. Debatt i kammaren 1996-02-21 Protokollsnummer 1995/96:59 Riksdagens beslut: Bifall till utskottets hemställan 1996-02-21 Protokollsnhummer 1995/96:59 Riksdagsskrivelse 1995/96:154 och 1995/96:155 Nr BoU6 Fastighetsbildning, m.m. Utskottets justering 1996-02-08 Förslag till beslut: Avslag på motionerna Debatt i kammaren 1996-02-21 Protokollsnhummer 1995/96:59 Riksdagens beslut: Bifall till utskottets hemställan 1996-02-21 Protokollsnhummer 1995/96:59</p>
-          <p>1995/96:BoU Reg</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199596/reg_199596_BoU/reg_199596_BoU-002.pdf"/>
-          <p>Nr BoU7 Jordförvärvslagen och rennäringslagen m.m. Utskottets justering Förslag till beslut: Initiativ till regeringen om förnyade överväganden om ersättning för rovdjursrivna renar. Avslag på samtliga motioner. Debatt i kammaren Protokollshummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnhummer Riksdagsskrivelse</p>
-          <p>Nr BoU8 Naturresurslagen Utskottets justering Förslag till beslut: Avslag på motionerna Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnhummer</p>
-          <p>Nr BoU9 Länsindelningen i Skåne och Västsverige m.m. (prop. 1995/96:38) Utskottets justering Förslag till beslut: Delvis bifall till motioner rörande resultatet av beredningen av frågan om den regionala ansvarsfördelningen och besparingskraven på de nya länsstyrelserna. Bifall till motion rörande namnändring av Kopparbergs län. I övrigt avslag motionerna och bifall till propositionen. Debatt i kammaren Protokollsnhummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse</p>
-          <p>Nr BoU10 De ekonomiska villkoren för det sent byggda bostads- beståndet, m.m. (prop. 1995/96:101) Utskottets justering Förslag till beslut: Delvis bifall till propositionen beträffande förslaget till lag om ändring i lagen om statlig fastighetsskatt. Delvis bifall till propositionen och vissa motioner beträffande hyresgästinflytande vid ombyggnad. I övrigt bifall till propositionen och avslag på motionerna. Tillkännagivande beträffande tidsfristen för visst stöd från fonden för fukt- och mögelskador (utskottsinitiativ).</p>
-          <p>1" Riksdagen 1995/96 19 saml. BoU Register</p>
-          <p>1996-02-08</p>
-          <p>1996-02-21 1995/96:59 1996-02-21 1995/96:59 1995/96:153</p>
-          <p>1996-02-08</p>
-          <p>1996-02-21 1995/96:59 1996-02-21 1995/96:59</p>
-          <p>1996-03-28</p>
-          <p>1996-04-17 1995/96:81 1996-04-17 1995/96:81 1995/96:206</p>
-          <p>1996-04-25</p>
-          <p>1995/96:BoU Reg</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199596/reg_199596_BoU/reg_199596_BoU-003.pdf"/>
-          <p>Debatt i kammaren 1996-05-08 Protokollsnummer 1995/96:93 Riksdagens beslut: Bifall till utskottets hemställan 1996-05-08 Protokollsnhummer 1995/96:93 Riksdagsskrivelse 1995/96:227 och 1995/96:228 Nr BoU1l1 Nya regler för bostadsbidrag (prop. 1995/96:186) Utskottets justering 1996-04-25</p>
-          <p>Förslag till beslut: Tillkännagivande om bostadsbidragens roll som bostadspolitiskt instrument. Delvis bifall till motioner beträffande direktutbetalning av bostadsbidrag och kretsen av bidragsberättigade. Avslag på propositionen och delvis bifall till vissa motioner rörande bostadsbidragen till ungdomar under 29 år. Delvis bifall till propositionen samt motion rörande den högsta bidragsgrundande bostadsytan. I övrigt bifall till regeringens förslag.</p>
-          <p>Debatt i kammaren 1996-05-08 Protokollshummer 1995/96:93 Riksdagens beslut: Bifall till utskottets hemställan 1996-05-08 Protokollsnummer 1995/96:93 Riksdagsskrivelse 1995/96:229 Nr BoU12</p>
-          <p>Avgifter enligt lagen om allmänna vatten- och avloppsanläggningar (prop. 1995/96:188)</p>
-          <p>Utskottets justering 1996-05-07 Förslag till beslut: Bifall till propositionen. Avslag på motionen. Debatt i kammaren 1996-05-23 Protokollsnummer 1995/96:98 Riksdagens beslut: Bifall till utskottets hemställan 1996-05-29 Protokollsnummer 1995/96:101 Riksdagsskrivelse 1995/96:268 Nr BoU13</p>
-          <p>Tilläggsbudget för budgetåret 1995/96 i vad avser bostadsutskottets beredningsområde (prop. 1995/96:105 litt. 9, 11)</p>
-          <p>Utskottets justering 1996-02-22 Förslag till beslut: Bifall till propositionen Riksdagens beslut: Bifall till utskottets hemställan 1996-03-13 Protokollsnummer 1995/96:68 Riksdagsskrivelse 1995/96:178 och 1995/96:179</p>
-          <p>1995/96:BoU Reg</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199596/reg_199596_BoU/reg_199596_BoU-004.pdf"/>
-          <p>1995/96:BoU Reg Yttranden</p>
-          <p>Nr BoUl1y till KU Förvaltningsmyndigheternas ledningsformer (prop. 1994/95:100 bil. 7) Utskottets justering 1995-10-26 KUI</p>
-          <p>Nr BoU2y till TU Lag om byggande av järnväg (prop. 1995/96:2) Utskottets justering 1995-11-09 TU8</p>
-          <p>Nr BoU3y till FiU Användningen av medel för förbättring av inomhusmiljön (prop. 1995/96:25 bil. 7) Utskottets justering 1995-11-24 FiUl</p>
-          <p>Nr BoU4y till KU Riksdagens skrivelse 1995/96:15 (skr. 1995/96:15) Utskottets justering 1996-02-22 KU30</p>
-          <p>Nr BoUS5y till FiU Möjlighet för Venantius att lämna lån i vissa fall (prop. 1995/96:169) Utskottets justering 1996-04-18 FiU1l4</p>
-          <p>Nr BoU6y till TU Informationsteknik (prop. 1995/96:125) Utskottets justering 1996-04-18 TU19</p>
-          <p>Nr BoU7y till NU Aktiv förvaltning av statens företagsägande (prop. 1995/96:141) Utskottets justering 1996-04-25 NU26</p>
-          <p>Nr BoU8y till UU Verksamheten i Europeiska unionen under 1995 i vad avser bostadsutskottets beredningsområde (skr. 1995/96:190) Utskottets justering 1996-05-07 UU25</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199596/reg_199596_BoU/reg_199596_BoU-005.pdf"/>
-          <p>1995/96:BoU Reg Nr BoU9y till FiU Den ekonomiska vårpropositionen vad gäller bostadsutskottets beredningsområde (prop. 1995/96:150)</p>
-          <p>Utskottets justering 1996-05-14 FiU10</p>
-          <p>Nr BoU10y till SKU Skattereduktion för utgifter för byggnadsarbete på bostadshus (prop. 1995/96:229) Utskottets justering 1996-05-28 SkU32</p>
-          <p>Nr BoUlly till FiU Program för hållbar utveckling m.m. (prop. 1995/96:222) Utskottets justering 1996-06-20 FiU15</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199596/reg_199596_BoU/reg_199596_BoU-006.pdf"/>
-          <p>Sakregister</p>
-          <p>BAanNVerketsssssssssrseseeresrsesreerreeresresresrrsrrerrresrrerrsrrs rer errres reser ere seen enes eran rer r sne rna 2y : Bostadsbidrag administrativa hanteringeD.....s.ssseesserssrrersrrsrsrerrrrrrsrsrsrer rr rsr ren n rr rn nn nn 11:18 avdragsreglerna för resor och övriga kostnader ............ssessssssrressrrsresn 11:9 bidragsgrundande inkomsten för egenföretagare ...............ssses.srssesna 11:8 direktutbetalning av bostadsbidräag.............sssssssesrsesrssrserrerersrrrnrnrrrsnnnnnn 11:14 folkbokföring och bostadsbidräag.............ssesssesesesssrssrsrserrsrsrreseserrsrenrnr 11:16 förmögenhet i egnahem och bostadsrätter ..............sessssssssrssesrerrsrerrrsnnn 11:6 förmögenhetspröVNiNgeN sm..ssesessssssesrsrrsrsrsresesrssrsrenersrnrrn rn er sr rn en en er en erna 11:5 förslagens ekonomiska KonsekVenSer ......sssssesesresessesersssrsersrsrsrserersnnn 11:19 hushåll med låga inkomster där båda arbetar...............sssesssssesessososnsnen 11:4 högsta bidragsgrundande bostadSsytan.............sssssrssssssssrsrsrrsrsrrsrsrssrsne 11:12 höjning av det särskilda bidraget s......s.ssssesesessesessessrsensrnensrsrrerersrsnn rna 11:10 individuella inKOMStgräNSel......ssssssessesresessrsrrnrrnsers ens rrn nns enn ennen egen rn nnn 11:3 information om bostadsbidrag ...........sssssssesessesersrsersrrsrserrrrsrsrnersrnrn rna 11:17 kretsen av bidragsberättigade...........ssessesossreserresrseresrssrsrnrsrsrnrsrsrrrrrr rn nr 11:15 minsta ytgräns för bostadsbidrag till hushåll med enbart UMgängesrättSsDarN ssssssssssrerrreseressrrrresrrssrrsrrersrerrrrerrrr esse rr reser rr n rr rr nen 11:13 nytt system för inkOmStprÖöVDIiNg ...ssmssssssrsrsrssrrsrsresrsrrsrssrsrsrersrsrsrsre nr rna r en 11:2 realisationsvinster vid beräkning av den bidragsgrundande inKOIMStCN ooseeeeeererereererrereresrsrerrerrsresresres ere sr srss rss es eran er ers r Reser e nr sars n ene r nan 11:7 skattesystemet och bostadsbidragen.............sssesssssresssrssererrsreserrrsrsrenrr 11:20 som bostadspolitiskt instrument M.M. smsmmssssesrsrrsrrrsesesesrrrsrrrrrsnrnennn rna 11:1 ungdomar ÖVEr 29 Ålovmsssssrsrerereereerreresrererrsrerersrsrserener sne rs rens er renen rr enn nr nn 11:11 Bostadsfinansieringen hyresgästinflytande vid OmbyggnDaC.......ssssssssrsrsrsrsssrssesrsrerrsrsrerrrrer nn nn n 10:9 konsumentskyddet vid nybyggnad av Småhus ..........ssessssseseorsrsrsrsrsnen 10:10 kreditgarantins andel av garantiunderlaget ........s.ssssrssssrsrsrssrssrsrerernrnnen 10:8 möjligheten att binda ränteniVån...........sssssssssesessssesserereneneneneserennnnnn ennen 10:7 På längre SiKtosssssssssrsersrersesrsrsrsrsrersrersrrrsrensr ers r ense ense ense ene e nn RAR Aer ennen 10:5 subventionsandelen för bostäder som påbörjas år 1996 ...................... 10:6 Bostadsförbättringsåtgärder, ökade medel för ViSSå ............ssss.ssmsmsmss 2, 3y Bostadsmarknaden .......ssssssssrsrssesrsresrenrerrsresrerererrsererersrsrs aren er eran er eran en enn n en 10:11 Bostadsrättslagen, ändring i bostadsrättsregister, CEentrält.............sssssssssssssesessosesserersesersrrrrrnerersrr aren rn rn nn 3:5 deposition av årsavgifter. ..........sssessrssrssesrsrsernsrnsrsrsrnrrnerenerensnsn renen en en ene n nan 3:7 dubbelupplåtelse, inskränkning av förbudet MOL.................sesssssn 3:8 föreningens självbestämmande över sina Stadgar .............sssssssmemensnen 3:9 förvärvarens ansvar för överlåtarens förpliktelser ................s.ssssssssssn0ns 3:2 panthavarens rätt till medlemskap och andrahandsupplåtelS€............ssssessrsersrrsreresrrrsrsrsrrerersrersrsrrrrns renen sn sn en eran n en 3:3 panträtten, den legala ........sssessrsessrssrrsresresrsrnesrsrsrsrererrrrsrsrerrsrrsnr nere ner n en na 3:1 spekulation vid ombildning, åtgärder MOt .......s.sssssesssoseserssrsnsnsnsnsrinnnn 3:10 ÖvergångsbestämmelSer .ssmmssrssrssrresrrerrerrersrsrersrsrsrsrerer er sr ene nsn eran enar n ennen aa 3:6 BrUNNSDCIG oosssseresrerrerseerrerrerrerrersrerrersresrrerrrsrrer rer errsrer enes e ess er er esse essens renen n enn 8:12</p>
-          <p>1995/96:BoU Reg</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199596/reg_199596_BoU/reg_199596_BoU-007.pdf"/>
-          <p>Byggproduktdirektivet, arbetet med, inom EU s....sssssssssssssessessessrsnrssrssrsrennnnt 8y Dalslands Kanal.sssossssssessssressrsrsrernrersrsresesreresrsrererrersesn ennen r essensen ere reser rer rrn rn nan 8:8 Ekologiskt hållbara byggåtgärder s.......sssssssssssrrsrssrssrenersrsnrsrnrersernrrrrsrrerrnnn rna lly Europeiska kartmyndigheter s...ssssssssssssesesrsrsesrsrsrsersesesrereresrersesrrrrrrsner renen nr nn nn 4:7 | 20:4 37 0567 RR 8:6 Europeiska unionen, byggnadsdirektiVet..........sssssssssssrsssrrersssersrrsssrrsesrerirnnsa 8y Expropriationslagen domstolsprövning av tillståndSfrågan ..............sssssssesssseresesssesenenererennrenen 6:6 [2 (ST: 8 090245 0524 (2 SR 6:5</p>
-          <p>Fastighetsbildning</p>
-          <p>ANSVALCt fÖLsssssssrsrsrsrsrsrererssrersrerersrsnsrrrs een er ensen aren en eran en eken enar en en ren nr rn enn 4:1 grannars Ställning VICl.....sssssssssessssesesrsrseresrsrrrsrerersrsrrrrsrereserrererrr ner ner ere r nan 6:2 lagstiftningens inverkan på landsbygden s........sssssssesssrsrssssrersrssseserenernnen 6:4 och naturresurslagen ....... ootssrrassssrrsa sans srrrn annas erna sr raserna narr ennen enn e nanna 6:1 och strandskydd s.ssmsssssssesessersrersesresesresersrsrerreresrererrrerrsrrrrrer esse ner rer r renen eran 6:3 lagändringar med anledning av omorganisationen AV.......s..s.sesesemsemen 4:5 Fastighetsbildningsförbättrilg ...........sssssssssssssssssrsresresrrsresrsesrerrrsrersrernnrsnernenrnnr 2y Fastighetsbildningslagen, ändring i sm:sssssssesssrsrsssreresrersesrsrsersesrsrernesrnnennen 4:3, 4:6 Fastighetsskatt finansiering av skattelättnaCen............ssssssssssorsrrsrrsersnrernrsrrsrrsnrrrrrnrrnen rn 10:2 för bostäder under värdeår 1991...ss..esssersssseserererrsrrereresernererenererererenna 10:1 NIVÅN Påssosssssesesrsrssrerererererererererersr reser rrs een en ens enar aren ene en een en enar en eran ene e renen ann 3y översyn av bostadsbeskattningen............ssssssssssssrssessesessrssnesesnesesnernnsnnnn 10:4 översyn av hantering av fastighetsskattefrågan............................ 10:3, 11y Fiskesamernas rättighetel..........ossosssssseseseseesesreorsrnenrsnrerresrerrernrerrsrrrnrrrren rn rn n nn 1:8 Fonden för fukt- och MöÖgelskadOr.........ssssssssssesssseresessesesrneseserrernersenrerrrnent 10:13 Försvarsmyndigheternas ledning s...sssssssssesssssseseresrrrssnesrssesrerseresesrerernernrnen ennen nn ly [6376 [21 NV a RAA 8:11 Göta Kanal som nationalstadspark .........sssssssessssoressssrerrssrssresrrrnrsrsnnerrrnrrrrsn rn 8:17 Habitat Ilissnosssssesrsrerersesernersereneresrsrsrsrsrsrrserersrrsererensrr ene er aren er ene en een arenan earn nana 10:12 Hyresgästinflytande vid OmbyggnDaC........ssesesssesersssssesesssnesesesrsnsnernernsnennnnn nn 10:9 InformationSteknik........sssssssssessssssssessessesesesnesrersesrersnsrrer rer resner rer ern ene n ner nr nen ena 6y Inomhusmiljön, användning av medel för förbättring aV.............ssssssssmsesssn 3y JaUICKASKAsososseesrrssresresresresrerreereerrsresresrererer rer rer arne ern rer nes renen ene r nere r ennen enar 8:14 Jordbruksfastighet, avstyckning från.............sssssssssseseseseseresesesesenrnsn sesernnnnnn 1:3 Jordförvärvslagen avstyckning från jordbruksfastighet................ssssesssssssssesessesesesorsrsneresnnnt 1:3 juridiska personers fÖTVÄLV s.sssmsssessrsessrsreresreseeserrresrrsrrsrsrn ere ense rer nr nn sn 7:1 ÖVETSYI AV ooseeessessrresersssrrsrsrrsrresrsrssrrsrrsrrsrrsrn ner rs ner sn renen enn rens seen rer e Renee ner 17:2</p>
-          <p>Järnväg, lag om byggande QVs.smssssssssssresresresrsessrenernrrssrresrrrsrrrsnesrrrrn ere rn ns n rn nen 2y</p>
-          <p>1995/96:BoU Reg</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199596/reg_199596_BoU/reg_199596_BoU-008.pdf"/>
-          <p>Kommunal lantmäterimyndighet</p>
-          <p>inrättade AV oossosseserrerrreerrrrrrrererrrerrrrsrererrrrrrrrrrrnrerr rr n ennen rer rer rens r rer n rann 4:2 IE: 73400 4 8 VR 4:3 Konsumentskyddet vid nybyggnad av småhus ........ssssssersresesrsrersrsrsrsnnnnnn 10:10 Kopparbergs län, namnbyte av ..smmmmessrssrrsrrsereerrrrrerrrerressresrrsrrrrrrrrrrrerrnrrn rerna 9:10 Kreditgarantier Kretsloppsanpassning av byggnadsprojekt ms. s.sssssssssrsressrsrsrrsrsnsnsnrnnsnent lly Kulturstöd vid ombyggnad beslutsramen fÖr ssssssssssssrsrrsrersrersesrersesreresresresresrererererrrr ere renen en er renen enes enn 13:1 Kärnbränsle, alternativa metoder för slutförvaring aV s.......sssssssseisssessnn 8:2 Kävlingeån m.fl. VattenCragZ.........sessesesrorssrsrsrersrsrsrsesrnsrsreresesrrsrrsrnrrnernnrnenn en 8:10 Landsbygden, boende På .......ssesssssssssrsrsrseresrsnrsrernerserserersnsesnsrsnn ene sn ennen en en nn en 1:4 Lantmäteriverket, ledningsformen för det NYA........ssssssessssesrsresrseserserenrrrsnnnn 4:4 Länsindelningen i Skåne och Västsverige besparingskraven på de nya länsstyrelSerNå.........sssssssssssssesessssrssossnensnnnn 9:9 Kopparbergs län, namnbyte aV......sssssssssesrresrreresresreressrerserrererrsrnrrrrerrenrnt 9:10 länsstyrelsens lednDiNg s...ssessssssssresresrrsresrrsrrrssrrsresrrrrrrrrr rr rr reser renen enn nen en 9:4 residensstad i ett nytt vVästsvenskt lä s........ssssssssesessssesrsrsserererersrsrsrsrsnnrn 9:8 residensstad i SKåne län s...ssssssssrsesrsrsrsreresrereresenrsrrerserererer ere rr rr ers er sen en er nan 9:5 resultatet av beredningen av frågan om den regionala ANSVarsfÖrdelniNgeD...sessessrrsrseresrserrsrssrrssrrssrrrrrsrrrrrr rs rsr rr ers rens n aren rn en en 9:1 rådgivande folkomröstningar inför beslutet om omfattningen av ett nytt VÄStSVenSKt läl....sssssssessssesesnesrsesresrsrnesesrsrenener enes ernr rer ensnn nan nn nn 9:7 sammanläggningen av de båda Skånelänen .........ss.sessesisssessisssssersrnnnn 9:2 Skånelänets Nya NaMI...ssssssessssesrsresrssrsesrsrsrsrsernrrrrsrrrrs erna ennen rnnrrn nn enn nn a 9:3 utredningsarbetets inriktning avseende ett nytt västsvenskt ' ET &amp; RR 9:6 Länsstyrelserna anslaget tillosssssssssssssssesesresrsrsrerersrrnrerenrerenresrrrr ens rr en rrr er ere r enes erna ense renen nn 13:2 läNSEXPEeIteflNA ssssssseesssesresesrersrerseresresreresresrrsrerrsreresr enes enesn enes en eran sees en nanna 5:1 samordningsrOllen .mssmssssssssssrssssrsrsrrsrsrsesresrrsrrsrrrerrsrer ere es reser er en esse ene n nn nn 5:2 trafikSäkerhetel........sssssossorssesreseeseesresresrsrsrsrrerrrsrrrrrsrerrsr rer ers er rrre renen enn rn eran 5:3 Miljöinriktade byggåtgärder ........ssssesssssrerssresresresrerrrrsrerererrrrsrerrrersnnrn er en rn rna lly Miljökonsekvensbeskrivning vid järnvägsbyggande............sssseimsmimessssnn 2y Miljöskyddslagen, ändrilg I smssssssssssrssrssrerssresrrsrnrsrersesrerererrrrsrerer ere ere nere nn nn 4:8 Naturresurslagen alternativa metoder för slutförvaringen av utbränt 1€:1 8810) 3195 (Ar 8:2 BrUNNSDeIg sosseessersrsreresrerseresrerereresrernrsresrerrrrrerner er rer ere essensen enes esenen rr nan 8:12 Dalslands Kanal.sssssnsssesssresrsresresrersesrrerersrnrrsrrrerrersrerrsresrsrn rer er rrr er enes rr r ar ann nn 8:8 den kommunala VetOrätten...........ssssssssssseressrerrerrsrrsresresrernerrrrrrrsrs renen enn na 8:1 fastighetsbildning OCh.......ssessssssessssrsrsnrsrnesrnrernrsreresrsrsreresrersr eran ense enenen rr nn 6.1 [6316 [5 NVC a VR 8:11 [6554 $T5N a VR 8:13</p>
-          <p>1995/96:BoU Reg</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199596/reg_199596_BoU/reg_199596_BoU-009.pdf"/>
-          <p>Göta kanal som nationalstadspark .........ssssssssssessssesesrssrssrrsssererrnserensnnrn nn 8:7 1995/96:BoU Reg</p>
-          <p>JaUreKASKAssssssossrreresresererrerrerrersrerrersrsrersrerrerrrrer rer rrrrsr er rsr er rss rn rr rn enn r nn n a 8:14 Kävlingeåns Vattendrag.....sesssssssrssssssesesresesrnrsesesrsrrreresrrnrernererernrn erna nan 8:10 nationalstadsparken och EXPO97 =sssssssssssssesrsrsssrerrsrnesesereseresnsnrrernrnennnnnnn 8:6 statens ekonomiska ansvar för miljöövervakningen i VÄtlterll ooseoesesesrsrssrrresrereeresesrsrsrrsreresrsrsrerer esse rsrss ere reser enes en enes r ene ennen enn n enn 8:5 vattenförsörjningen Som rikSintreSSe s..eomsssssssssrsrsrrsrsererrsrsrnrnrsernrnennrn enn nn 8:4 vattenkraftens roll i energibalanSeh ...msssssssssssrsrssrsrrrrrrnrnerrsrsnrnererrrne renen 8:9 vindkraften som rikSintreSS€ s....ssssssesssssereresesrsrsrsesrsrrrrrerrrsrrrrrnsnsnrnrnrnnnnnnn 8:3 vägförbindelse till Talma Sameby s..emmmnssrrsrserssrsersrrererrrrrsrsrnrsrerrerrernrn rna 8:15 Vättern som dricksvattentäkt ...............ssssssssssesssssssserserereseseresreserenrenenrnrn 8:4 NaturvårdsinVenteringår s.....ssssssessssssssessesessssesesensrsessrsenerserrnsrnsensnsnnenrnnnnrnn en Illy PBL-frågor barnens intressen vid planeringen. .....esssssssssssssesrsnssereresesnrssnenesnerennnnnn 1:13 ekonomiska satsningar och analyser w.....ssssssssssesessesesesesrsnsnsnenesnenernnnrnnnn 1:3 frivilliga och alternativa Översiktsplaner ..........ssssssssssssesesssssnesesnrsernrnsnene 1:9 förtydliganden och analyser. ....ssssssrsessersssessersrsrenrrrnesrersesnern es erna ner nen nn en 1:1 förändringar av lovplikten s....sssssssssssssssssrssssrsrsnesesrererners enes ennen senere renen nn nn 1:11 gränsdragning mellan rivnings- och producentanSVar ...........+ssssssssss-- 1:24 handikapprörelsens inflytande s....ssssssssssssrsrsssreresnerereresernrnrnerernsner enn nn 1:14 kompensationsåtgärder vid naturskadOr...........sesssssssssessesesesesesereserenennn 1:18 koppling till JärnVägSlaZ....s.sssssssrsesseserrsresesrsrnesrsrsrsrererern ene eresrsrer ere n rn n en ena 2y kravet på miljökonsekvensbeskrivningal..........ssssssssssssessseseseresnenenennnr a 1:16 kretsen av de samrådsberättigade..............sssssessssessrseseseseseresnesrnrrnrnrrnnnn 1:12 lydelsen av 1 kap. I $ PBL ossssssssssssressssessessrersresesresrersesresesrersrrrernnrner nen n nan 1:2 lydelsen av 2 kap. 2. $ PBL sssssssssssssrsrssssssessrssessrsresresrsresesresrrrnrsnernen renarna 1:8 lydelsen av 4 kap. I $ PBL osoissssrssssssrssssrsssessrsrssrersrssresresrsnrnrnrrrnrrn nn nen 1:11 länsstyrelsens fOl..sssssssssssssssssssssssreserrnesresnrsnrsrserresnerner renar ern enes ns nere nera n nn 1:6 nedlagda åkrar Som grönområden ......sssssssessssseserseserrssessenenses erna en rns enn 1:20 parker och grönområden ....sssssssessrersrsrerereesrerersesrsrsrereserrsrrrrren er nrn en en nn nn 1:17 precisering av handelsändamål sm. .s.ssssssssssesesesesesesrsesesrnsesen ene enenen enn n nn 1:28 TC ZiONPlaNCriNg sossossssssreerseeresrersrerrerreresresrrrrrsn rer esnern ene es reser senere ennen ennen nn 1:25 rivningsmaterial och rivningsaVvfäall m.s.ssmsssssssessererssrrsreserrrserrrnrenrrrn rn nn nn 1:23 rivningsplan Vid UtriVvDilQ.....esssssesssessesesreresnrsesrsneresrsrneren enes es nare errrnenena 1:22 skyddsinstitut för viktiga grönstruktUurer..........ssssssrsrsssssesrrsersrrserersrrnena 1:19 tillgängligheten i den fysiska miljÖD ......ssesssssssssssssnsnrserensnrnrnsnrnnnrsnnnn en 1:21 överprövning av beslut i plan- och byggärenden s........sssssssessssssesersenennse 1:5 översiktsplanens aktualitet.............sssssssesssssssesersesersrsesesesesesrrrernennrnenen ena 1:15 översyn av viss följdlagStiftfiMQ.........esssssessseseseserrsensnssersnsrsrsesrnrnerenen nan 1:7</p>
-          <p>Regeringens skrivelse 1995/96:15, behandlingen av riksdagens</p>
-          <p>skrivelser till regeriNgeCh sm.ssomssssrerrerresresesresresrsrerrerrsresrenrerrs reser ere en ren ennen es ennen 4y Rennäringslagen fiskesamernas rättigheter ..ssmsssssssssssserssrrersrerreresrrsrenrerrrrer ennen enn n ennen n rna 1:8 samebyns verksamhetsOmråde s.......ssssessssssssssesersssrrensesessensnrenrnsensnsnnennnnn 7:6 småviltjakt och fiske ...sssssesessssesesessessresrsesernrnsesrnsrsrnsns ers rnsnn en rn rn en nn rnn rna 1:1</p>
-          <p>Vitesföreläggande ......sssssssssesesnssrsrsrneresrereresrersrsneresesn enes nr es rens rs nere ne rer ene nn nn 7:9 10</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199596/reg_199596_BoU/reg_199596_BoU-010.pdf"/>
-          <p>åtgärder för att minska antalet renar .........s.ssssesesrsrssrsrsrsrsrsrrrsrrnernersrsr enn n rn 7:10 Riksdagens revisorer förslag om samordnad länsförvaltning........ssssssessssssssesrseserrsrsserersnenennrn enn nt 5 ROT-åtgärder "grönt" DiCrag sossssssessesrrssrrssrresrrresrrrrserrsnrrrrrrrrr ene rrrrrnrr nr sr er tanker k nn nns nn lly hyresgästinflytande vid OmbyggnaC.......sssssssssssrssrssesessrnrssrsresenrererrnnnnnt 10:9 ökad Satsning På........esssessrsrsresrerreresresresrerersesrsrsrsrerrrrsrnrsrn reser er en ene renen nanna 10y ökade medel fÖr s.ssmsssssrssrerrerrerrererserrsrsrssresresreresrer reser ren enn er rer er rrn enes e annan 2, 3y Rovdjursrivna renar, ersättning fÖrl..........sssessessessessrsrsrrsreresrerrrsrsresrrrsrrnrrnrn 7:12 Samebyns verksamhetsOmråde s......ssssssersersresrsrsrssesesrsrsrsrsrererererererrrrrenrrn annan 7:6 Sametinget, Vetorätt fÖL ........sssseessesserrsererererrerrsresrsrrererrerersrsrerrrrererrer ere rn rena 7:11 Samordnad länsförvaltning läNSEXPEeIterNA sssssssssesrereresrsrsrsrsresrersrersrerrsrersesrer enes er enr enes sr eran arenan een en ene n enas 5:1 länsstyrelsernas samordningSrOll s..mssssssssssssseseseseserersnsenernerrnsnnerrnn eran nan nn 5:2 SBAB, ägandeförhållandena i s.essessssersrrsrssrsrrsrsrsrssrrrsrsrsrsrsrsrsrerererersrsn ennen enn Ty Skattereduktion för utgifter för byggnadsarbete på bostadshus .................. 10y Skåne län det nya länets Nam smesvessessseseserrrrerrrrsrrrrserrerrrsrrerrsrr enn rs r ers rnr ren rr ren rn nn enar nn 9:3 FeSidenSStaC i sessssseesreerresrrerrresrrrrerrresrrersrrrerrrrrrer renen seen ers rrr ren rrr rer enn nr nanna 9:5 sammanläggning av de båda länen ....ssssssesesresesesrsrsrsrssrrrsrsersrsrnsrsr rr n nen 9:2 Skärgården, fastighetsöverlåtelSe i..........s.sssssssrssssesesrssrsrsnererneserereserrnrsrn rr annan T:5 Småviltjakt och fiske s.ssmssssssrsrsreererrererrerrerrerrsrsreresesrsrsrsrsrsrer er er arean er eran ennen enn T:1 Strandskydd och fastighetsbildning.............sesssssesssersssesrsreresernenrrreserrsrennernrn nn 6.3 Stämpelskatten, tidsbegränsad nedsättniNg...............ssssessesssserrssresersereressinnnn lly Sysselsättningsåtgärder inom miljöområdet ............sssesssesssesrsrrrerererereresrrnen lly Talma sameby, Väg tillissssssssesseesessresrresrresrrerresrerrsrssrererrererrererrs ren rer ere rr rn nn 8:15 Tomträtt inskränkningar i upplåtelsemöjligheten ............ssssssessssssssersesesrsersenennnrnrn 6:7 Tomträttsutredningens fÖrSlåg s....sssssssssssrsrsessrsrseseseserseresernsrsrsernnn ene n nn nn 6:8 Trafiksäkerheten s.ssmsssssssrsrrereersrersrersresressrrssrerrrsresrersrsrrrrsrrsrererer reser reser rr rr enn nen nn 5:3 Utgiftsområde 18, preliminärbudgetberäkning fÖr s...........sessssssersssrersresresenin 9y</p>
-          <p>Vatten- och avloppsanläggningar förtydligande av 26 $ va-lagen vad gäller</p>
-          <p>ANläggningsaVgiffCl......ssssessessreseerserresrerrerereresrsrsrsrsrer aren enar arena enar eran nen 12:2 miljöanpassade avgiftsUttag............sssssresesessereresrsrseseserrsnnrrrerensrsnnn nn rn nn 12:3 utökade möjligheter att differentiera anläggningsavgifter ................... 12:1 Venantius AB, möjligheten att erhålla lån från .............essssessssssssesersenenenernsnn 5y Viltskador, ersättning fÖr ........ssesssssessrssresrseresreserserenrsrsrsrsrrerrrrsrrrerrrsrs renen renen en 9y Västsvenskt län [14 865 VA RAA 9:6—8 Vättern miljöövervaknilg I.sssssssssserrsssresesrressrrrrsrrerrrsrrrrrrrrrrr nns rrr ers rr rer rrn ennen rna nn 8:5 som dricksvattentäkt ..............sssssssesssosssrrssessesesrsesesrsesesrersenrsrersrenenerrrr rn renen 8:4</p>
-          <p>1995/96:BoU Reg</p>
-          <p>11</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199596/reg_199596_BoU/reg_199596_BoU-011.pdf"/>
-          <p>Gotab, Stockholm 1996</p>
-          <p>12</p>
+          <p>
+            Bostadsutskottets register vid riksmötet 1995/96
+          </p>
+          <p>
+            Betänkanden
+          </p>
+          <p>
+            Nr BoU1l Översiktsplaneringen enligt plan- och bygglagen, m.m.
+            (prop. 1994/95:230) Utskottets justering Förslag till beslut:
+            Med anledning av motioner tillkännagivanden om dels tillgängligheten
+            i den fysiska miljön, dels möjligheten att i detaljplan precisera
+            handelsändamålet och dels kvalitetsdeklaration av bostäder. Avslag
+            på övriga motioner och bifall till propositionen. Debatt i kammaren
+            Protokollsnummer Riksdagens beslut: Bifall till utskottets hemställan
+            Protokollsnummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr BoU2 Ökade medel för vissa bostadsförbättringsåtgärder (prop.
+            1995/96:67) Utskottets justering Förslag till beslut: Bifall till
+            propositionen Debatt i kammaren Protokollshummer Riksdagens beslut:
+            Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr BoU3
+          </p>
+          <p>
+            Ändringar i bostadsrättslagen m.m. (prop. 1995/96:17) Utskottets
+            justering
+          </p>
+          <p>
+            I Riksdagen 1995/96 19 saml. BoU Register
+          </p>
+          <p>
+            1995-11-09
+          </p>
+          <p>
+            1995-11-22 1995/96:27 1995-11-23 1995/96:28 1995/96:30
+          </p>
+          <p>
+            1995-11-14
+          </p>
+          <p>
+            1995-11-22 1995/96:27 1995-11-23 1995/96:28 1995/96:31
+          </p>
+          <p>
+            1995-11-23
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199596/reg_199596_BoU/reg_199596_BoU_0001"/>
+          <p>
+            Förslag till beslut: Delvis bifall till propositionen beträffande
+            dels lydelsen av 6 kap. 8 $ bostadsrättslagen, dels lydelsen av
+            6. kap 4 $ bostadsrättslagen och dels övergångsbestämmelserna.
+            I övrigt bifall till propositionen och avslag på motionerna. Debatt
+            i kammaren Protokollsnummer Riksdagens beslut: Bifall till utskottets
+            hemställan Protokollsnummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr BoU4 Ansvaret för fastighetsbildningsverksamheten, m.m. (prop.
+            1995/96:78), (prop. 1995/96:47) Utskottets justering Förslag till
+            beslut: Med anledning av förslag i proposition 1995/96:78 tillkännagivande
+            beträffande ledningsformen för det nya Lantmäteriverket, i övrigt
+            bifall till propositionerna och avslag på motionerna. Debatt i
+            kammaren Protokollshummer Riksdagens beslut: Bifall till utskottets
+            hemställan Protokollshummer
+          </p>
+          <p>
+            1995-12-13 1995/96:37 1995-12-14 1995/96:38 1995/96:101
+          </p>
+          <p>
+            1995-11-23
+          </p>
+          <p>
+            1995-12-13 1995/96:37 1995-12-14 1995/96:38
+          </p>
+          <p>
+            Riksdagsskrivelse 1995/96:102 Nr BoUS Samordnad länsförvaltning
+            (1995/96:RR3) Utskottets justering 1996-02-08 Förslag till beslut:
+            Tillkännagivande till regeringen angående länsexperterna och länsstyrelsens
+            samordningsroll. Avslag på revisorernas förslag om trafiksäkerheten.
+            Avslag på motionen. Debatt i kammaren 1996-02-21 Protokollsnummer
+            1995/96:59 Riksdagens beslut: Bifall till utskottets hemställan
+            1996-02-21 Protokollsnhummer 1995/96:59 Riksdagsskrivelse 1995/96:154
+            och 1995/96:155 Nr BoU6 Fastighetsbildning, m.m. Utskottets justering
+            1996-02-08 Förslag till beslut: Avslag på motionerna Debatt i
+            kammaren 1996-02-21 Protokollsnhummer 1995/96:59 Riksdagens beslut:
+            Bifall till utskottets hemställan 1996-02-21 Protokollsnhummer
+            1995/96:59
+          </p>
+          <p>
+            1995/96:BoU Reg
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199596/reg_199596_BoU/reg_199596_BoU_0002"/>
+          <p>
+            Nr BoU7 Jordförvärvslagen och rennäringslagen m.m. Utskottets
+            justering Förslag till beslut: Initiativ till regeringen om förnyade
+            överväganden om ersättning för rovdjursrivna renar. Avslag på
+            samtliga motioner. Debatt i kammaren Protokollshummer Riksdagens
+            beslut: Bifall till utskottets hemställan Protokollsnhummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr BoU8 Naturresurslagen Utskottets justering Förslag till beslut:
+            Avslag på motionerna Debatt i kammaren Protokollsnummer Riksdagens
+            beslut: Bifall till utskottets hemställan Protokollsnhummer
+          </p>
+          <p>
+            Nr BoU9 Länsindelningen i Skåne och Västsverige m.m. (prop. 1995/96:38)
+            Utskottets justering Förslag till beslut: Delvis bifall till motioner
+            rörande resultatet av beredningen av frågan om den regionala ansvarsfördelningen
+            och besparingskraven på de nya länsstyrelserna. Bifall till motion
+            rörande namnändring av Kopparbergs län. I övrigt avslag motionerna
+            och bifall till propositionen. Debatt i kammaren Protokollsnhummer
+            Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer
+            Riksdagsskrivelse
+          </p>
+          <p>
+            Nr BoU10 De ekonomiska villkoren för det sent byggda bostads-
+            beståndet, m.m. (prop. 1995/96:101) Utskottets justering Förslag
+            till beslut: Delvis bifall till propositionen beträffande förslaget
+            till lag om ändring i lagen om statlig fastighetsskatt. Delvis
+            bifall till propositionen och vissa motioner beträffande hyresgästinflytande
+            vid ombyggnad. I övrigt bifall till propositionen och avslag på
+            motionerna. Tillkännagivande beträffande tidsfristen för visst
+            stöd från fonden för fukt- och mögelskador (utskottsinitiativ).
+          </p>
+          <p>
+            1" Riksdagen 1995/96 19 saml. BoU Register
+          </p>
+          <p>
+            1996-02-08
+          </p>
+          <p>
+            1996-02-21 1995/96:59 1996-02-21 1995/96:59 1995/96:153
+          </p>
+          <p>
+            1996-02-08
+          </p>
+          <p>
+            1996-02-21 1995/96:59 1996-02-21 1995/96:59
+          </p>
+          <p>
+            1996-03-28
+          </p>
+          <p>
+            1996-04-17 1995/96:81 1996-04-17 1995/96:81 1995/96:206
+          </p>
+          <p>
+            1996-04-25
+          </p>
+          <p>
+            1995/96:BoU Reg
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199596/reg_199596_BoU/reg_199596_BoU_0003"/>
+          <p>
+            Debatt i kammaren 1996-05-08 Protokollsnummer 1995/96:93 Riksdagens
+            beslut: Bifall till utskottets hemställan 1996-05-08 Protokollsnhummer
+            1995/96:93 Riksdagsskrivelse 1995/96:227 och 1995/96:228 Nr BoU1l1
+            Nya regler för bostadsbidrag (prop. 1995/96:186) Utskottets justering
+            1996-04-25
+          </p>
+          <p>
+            Förslag till beslut: Tillkännagivande om bostadsbidragens roll
+            som bostadspolitiskt instrument. Delvis bifall till motioner beträffande
+            direktutbetalning av bostadsbidrag och kretsen av bidragsberättigade.
+            Avslag på propositionen och delvis bifall till vissa motioner
+            rörande bostadsbidragen till ungdomar under 29 år. Delvis bifall
+            till propositionen samt motion rörande den högsta bidragsgrundande
+            bostadsytan. I övrigt bifall till regeringens förslag.
+          </p>
+          <p>
+            Debatt i kammaren 1996-05-08 Protokollshummer 1995/96:93 Riksdagens
+            beslut: Bifall till utskottets hemställan 1996-05-08 Protokollsnummer
+            1995/96:93 Riksdagsskrivelse 1995/96:229 Nr BoU12
+          </p>
+          <p>
+            Avgifter enligt lagen om allmänna vatten- och avloppsanläggningar
+            (prop. 1995/96:188)
+          </p>
+          <p>
+            Utskottets justering 1996-05-07 Förslag till beslut: Bifall till
+            propositionen. Avslag på motionen. Debatt i kammaren 1996-05-23
+            Protokollsnummer 1995/96:98 Riksdagens beslut: Bifall till utskottets
+            hemställan 1996-05-29 Protokollsnummer 1995/96:101 Riksdagsskrivelse
+            1995/96:268 Nr BoU13
+          </p>
+          <p>
+            Tilläggsbudget för budgetåret 1995/96 i vad avser bostadsutskottets
+            beredningsområde (prop. 1995/96:105 litt. 9, 11)
+          </p>
+          <p>
+            Utskottets justering 1996-02-22 Förslag till beslut: Bifall till
+            propositionen Riksdagens beslut: Bifall till utskottets hemställan
+            1996-03-13 Protokollsnummer 1995/96:68 Riksdagsskrivelse 1995/96:178
+            och 1995/96:179
+          </p>
+          <p>
+            1995/96:BoU Reg
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199596/reg_199596_BoU/reg_199596_BoU_0004"/>
+          <p>
+            1995/96:BoU Reg Yttranden
+          </p>
+          <p>
+            Nr BoUl1y till KU Förvaltningsmyndigheternas ledningsformer (prop.
+            1994/95:100 bil. 7) Utskottets justering 1995-10-26 KUI
+          </p>
+          <p>
+            Nr BoU2y till TU Lag om byggande av järnväg (prop. 1995/96:2)
+            Utskottets justering 1995-11-09 TU8
+          </p>
+          <p>
+            Nr BoU3y till FiU Användningen av medel för förbättring av inomhusmiljön
+            (prop. 1995/96:25 bil. 7) Utskottets justering 1995-11-24 FiUl
+          </p>
+          <p>
+            Nr BoU4y till KU Riksdagens skrivelse 1995/96:15 (skr. 1995/96:15)
+            Utskottets justering 1996-02-22 KU30
+          </p>
+          <p>
+            Nr BoUS5y till FiU Möjlighet för Venantius att lämna lån i vissa
+            fall (prop. 1995/96:169) Utskottets justering 1996-04-18 FiU1l4
+          </p>
+          <p>
+            Nr BoU6y till TU Informationsteknik (prop. 1995/96:125) Utskottets
+            justering 1996-04-18 TU19
+          </p>
+          <p>
+            Nr BoU7y till NU Aktiv förvaltning av statens företagsägande
+            (prop. 1995/96:141) Utskottets justering 1996-04-25 NU26
+          </p>
+          <p>
+            Nr BoU8y till UU Verksamheten i Europeiska unionen under 1995
+            i vad avser bostadsutskottets beredningsområde (skr. 1995/96:190)
+            Utskottets justering 1996-05-07 UU25
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199596/reg_199596_BoU/reg_199596_BoU_0005"/>
+          <p>
+            1995/96:BoU Reg Nr BoU9y till FiU Den ekonomiska vårpropositionen
+            vad gäller bostadsutskottets beredningsområde (prop. 1995/96:150)
+          </p>
+          <p>
+            Utskottets justering 1996-05-14 FiU10
+          </p>
+          <p>
+            Nr BoU10y till SKU Skattereduktion för utgifter för byggnadsarbete
+            på bostadshus (prop. 1995/96:229) Utskottets justering 1996-05-28
+            SkU32
+          </p>
+          <p>
+            Nr BoUlly till FiU Program för hållbar utveckling m.m. (prop.
+            1995/96:222) Utskottets justering 1996-06-20 FiU15
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199596/reg_199596_BoU/reg_199596_BoU_0006"/>
+          <p>
+            Sakregister
+          </p>
+          <p>
+            BAanNVerketsssssssssrseseeresrsesreerreeresresresrrsrrerrresrrerrsrrs
+            rer errres reser ere seen enes eran rer r sne rna 2y : Bostadsbidrag
+            administrativa hanteringeD.....s.ssseesserssrrersrrsrsrerrrrrrsrsrsrer
+            rr rsr ren n rr rn nn nn 11:18 avdragsreglerna för resor och övriga
+            kostnader ............ssessssssrressrrsresn 11:9 bidragsgrundande
+            inkomsten för egenföretagare ...............ssses.srssesna 11:8
+            direktutbetalning av bostadsbidräag.............sssssssesrsesrssrserrerersrrrnrnrrrsnnnnnn
+            11:14 folkbokföring och bostadsbidräag.............ssesssesesesssrssrsrserrsrsrreseserrsrenrnr
+            11:16 förmögenhet i egnahem och bostadsrätter ..............sessssssssrssesrerrsrerrrsnnn
+            11:6 förmögenhetspröVNiNgeN sm..ssesessssssesrsrrsrsrsresesrssrsrenersrnrrn
+            rn er sr rn en en er en erna 11:5 förslagens ekonomiska KonsekVenSer
+            ......sssssesesresessesersssrsersrsrsrserersnnn 11:19 hushåll
+            med låga inkomster där båda arbetar...............sssesssssesessososnsnen
+            11:4 högsta bidragsgrundande bostadSsytan.............sssssrssssssssrsrsrrsrsrrsrsrssrsne
+            11:12 höjning av det särskilda bidraget s......s.ssssesesessesessessrsensrnensrsrrerersrsnn
+            rna 11:10 individuella inKOMStgräNSel......ssssssessesresessrsrrnrrnsers
+            ens rrn nns enn ennen egen rn nnn 11:3 information om bostadsbidrag
+            ...........sssssssesessesersrsersrrsrserrrrsrsrnersrnrn rna 11:17
+            kretsen av bidragsberättigade...........ssessesossreserresrseresrssrsrnrsrsrnrsrsrrrrrr
+            rn nr 11:15 minsta ytgräns för bostadsbidrag till hushåll med
+            enbart UMgängesrättSsDarN ssssssssssrerrreseressrrrresrrssrrsrrersrerrrrerrrr
+            esse rr reser rr n rr rr nen 11:13 nytt system för inkOmStprÖöVDIiNg
+            ...ssmssssssrsrsrssrrsrsresrsrrsrssrsrsrersrsrsrsre nr rna r en
+            11:2 realisationsvinster vid beräkning av den bidragsgrundande
+            inKOIMStCN ooseeeeeererereererrereresrsrerrerrsresresres ere sr
+            srss rss es eran er ers r Reser e nr sars n ene r nan 11:7 skattesystemet
+            och bostadsbidragen.............sssesssssresssrssererrsreserrrsrsrenrr
+            11:20 som bostadspolitiskt instrument M.M. smsmmssssesrsrrsrrrsesesesrrrsrrrrrsnrnennn
+            rna 11:1 ungdomar ÖVEr 29 Ålovmsssssrsrerereereerreresrererrsrerersrsrserener
+            sne rs rens er renen rr enn nr nn 11:11 Bostadsfinansieringen
+            hyresgästinflytande vid OmbyggnDaC.......ssssssssrsrsrsrsssrssesrsrerrsrsrerrrrer
+            nn nn n 10:9 konsumentskyddet vid nybyggnad av Småhus ..........ssessssseseorsrsrsrsrsnen
+            10:10 kreditgarantins andel av garantiunderlaget ........s.ssssrssssrsrsrssrssrsrerernrnnen
+            10:8 möjligheten att binda ränteniVån...........sssssssssesessssesserereneneneneserennnnnn
+            ennen 10:7 På längre SiKtosssssssssrsersrersesrsrsrsrsrersrersrrrsrensr
+            ers r ense ense ense ene e nn RAR Aer ennen 10:5 subventionsandelen
+            för bostäder som påbörjas år 1996 ...................... 10:6
+            Bostadsförbättringsåtgärder, ökade medel för ViSSå ............ssss.ssmsmsmss
+            2, 3y Bostadsmarknaden .......ssssssssrsrssesrsresrenrerrsresrerererrsererersrsrs
+            aren er eran er eran en enn n en 10:11 Bostadsrättslagen, ändring
+            i bostadsrättsregister, CEentrält.............sssssssssssssesessosesserersesersrrrrrnerersrr
+            aren rn rn nn 3:5 deposition av årsavgifter. ..........sssessrssrssesrsrsernsrnsrsrsrnrrnerenerensnsn
+            renen en en ene n nan 3:7 dubbelupplåtelse, inskränkning av förbudet
+            MOL.................sesssssn 3:8 föreningens självbestämmande
+            över sina Stadgar .............sssssssmemensnen 3:9 förvärvarens
+            ansvar för överlåtarens förpliktelser ................s.ssssssssssn0ns
+            3:2 panthavarens rätt till medlemskap och andrahandsupplåtelS€............ssssessrsersrrsreresrrrsrsrsrrerersrersrsrrrrns
+            renen sn sn en eran n en 3:3 panträtten, den legala ........sssessrsessrssrrsresresrsrnesrsrsrsrererrrrsrsrerrsrrsnr
+            nere ner n en na 3:1 spekulation vid ombildning, åtgärder MOt
+            .......s.sssssesssoseserssrsnsnsnsnsrinnnn 3:10 ÖvergångsbestämmelSer
+            .ssmmssrssrssrresrrerrerrersrsrersrsrsrsrerer er sr ene nsn eran
+            enar n ennen aa 3:6 BrUNNSDCIG oosssseresrerrerseerrerrerrerrersrerrersresrrerrrsrrer
+            rer errsrer enes e ess er er esse essens renen n enn 8:12
+          </p>
+          <p>
+            1995/96:BoU Reg
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199596/reg_199596_BoU/reg_199596_BoU_0007"/>
+          <p>
+            Byggproduktdirektivet, arbetet med, inom EU s....sssssssssssssessessessrsnrssrssrsrennnnt
+            8y Dalslands Kanal.sssossssssessssressrsrsrernrersrsresesreresrsrererrersesn
+            ennen r essensen ere reser rer rrn rn nan 8:8 Ekologiskt hållbara
+            byggåtgärder s.......sssssssssssrrsrssrssrenersrsnrsrnrersernrrrrsrrerrnnn
+            rna lly Europeiska kartmyndigheter s...ssssssssssssesesrsrsesrsrsrsersesesrereresrersesrrrrrrsner
+            renen nr nn nn 4:7 | 20:4 37 0567 RR 8:6 Europeiska unionen, byggnadsdirektiVet..........sssssssssssrsssrrersssersrrsssrrsesrerirnnsa
+            8y Expropriationslagen domstolsprövning av tillståndSfrågan ..............sssssssesssseresesssesenenererennrenen
+            6:6 [2 (ST: 8 090245 0524 (2 SR 6:5
+          </p>
+          <p>
+            Fastighetsbildning
+          </p>
+          <p>
+            ANSVALCt fÖLsssssssrsrsrsrsrsrererssrersrerersrsnsrrrs een er
+            ensen aren en eran en eken enar en en ren nr rn enn 4:1 grannars
+            Ställning VICl.....sssssssssessssesesrsrseresrsrrrsrerersrsrrrrsrereserrererrr
+            ner ner ere r nan 6:2 lagstiftningens inverkan på landsbygden
+            s........sssssssesssrsrssssrersrssseserenernnen 6:4 och naturresurslagen
+            ....... ootssrrassssrrsa sans srrrn annas erna sr raserna narr
+            ennen enn e nanna 6:1 och strandskydd s.ssmsssssssesessersrersesresesresersrsrerreresrererrrerrsrrrrrer
+            esse ner rer r renen eran 6:3 lagändringar med anledning av omorganisationen
+            AV.......s..s.sesesemsemen 4:5 Fastighetsbildningsförbättrilg
+            ...........sssssssssssssssssrsresresrrsresrsesrerrrsrersrernnrsnernenrnnr
+            2y Fastighetsbildningslagen, ändring i sm:sssssssesssrsrsssreresrersesrsrsersesrsrernesrnnennen
+            4:3, 4:6 Fastighetsskatt finansiering av skattelättnaCen............ssssssssssorsrrsrrsersnrernrsrrsrrsnrrrrrnrrnen
+            rn 10:2 för bostäder under värdeår 1991...ss..esssersssseserererrsrrereresernererenererererenna
+            10:1 NIVÅN Påssosssssesesrsrssrerererererererererersr reser rrs
+            een en ens enar aren ene en een en enar en eran ene e renen ann
+            3y översyn av bostadsbeskattningen............ssssssssssssrssessesessrssnesesnesesnernnsnnnn
+            10:4 översyn av hantering av fastighetsskattefrågan............................
+            10:3, 11y Fiskesamernas rättighetel..........ossosssssseseseseesesreorsrnenrsnrerresrerrernrerrsrrrnrrrren
+            rn rn n nn 1:8 Fonden för fukt- och MöÖgelskadOr.........ssssssssssesssseresessesesrneseserrernersenrerrrnent
+            10:13 Försvarsmyndigheternas ledning s...sssssssssesssssseseresrrrssnesrssesrerseresesrerernernrnen
+            ennen nn ly [6376 [21 NV a RAA 8:11 Göta Kanal som nationalstadspark
+            .........sssssssessssoressssrerrssrssresrrrnrsrsnnerrrnrrrrsn
+            rn 8:17 Habitat Ilissnosssssesrsrerersesernersereneresrsrsrsrsrsrrserersrrsererensrr
+            ene er aren er ene en een arenan earn nana 10:12 Hyresgästinflytande
+            vid OmbyggnDaC........ssesesssesersssssesesssnesesesrsnsnernernsnennnnn
+            nn 10:9 InformationSteknik........sssssssssessssssssessessesesesnesrersesrersnsrrer
+            rer resner rer ern ene n ner nr nen ena 6y Inomhusmiljön, användning
+            av medel för förbättring aV.............ssssssssmsesssn 3y JaUICKASKAsososseesrrssresresresresrerreereerrsresresrererer
+            rer rer arne ern rer nes renen ene r nere r ennen enar 8:14 Jordbruksfastighet,
+            avstyckning från.............sssssssssseseseseseresesesesenrnsn
+            sesernnnnnn 1:3 Jordförvärvslagen avstyckning från jordbruksfastighet................ssssesssssssssesessesesesorsrsneresnnnt
+            1:3 juridiska personers fÖTVÄLV s.sssmsssessrsessrsreresreseeserrresrrsrrsrsrn
+            ere ense rer nr nn sn 7:1 ÖVETSYI AV ooseeessessrresersssrrsrsrrsrresrsrssrrsrrsrrsrrsrn
+            ner rs ner sn renen enn rens seen rer e Renee ner 17:2
+          </p>
+          <p>
+            Järnväg, lag om byggande QVs.smssssssssssresresresrsessrenernrrssrresrrrsrrrsnesrrrrn
+            ere rn ns n rn nen 2y
+          </p>
+          <p>
+            1995/96:BoU Reg
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199596/reg_199596_BoU/reg_199596_BoU_0008"/>
+          <p>
+            Kommunal lantmäterimyndighet
+          </p>
+          <p>
+            inrättade AV oossosseserrerrreerrrrrrrererrrerrrrsrererrrrrrrrrrrnrerr
+            rr n ennen rer rer rens r rer n rann 4:2 IE: 73400 4 8 VR 4:3
+            Konsumentskyddet vid nybyggnad av småhus ........ssssssersresesrsrersrsrsrsnnnnnn
+            10:10 Kopparbergs län, namnbyte av ..smmmmessrssrrsrrsereerrrrrerrrerressresrrsrrrrrrrrrrrerrnrrn
+            rerna 9:10 Kreditgarantier Kretsloppsanpassning av byggnadsprojekt
+            ms. s.sssssssssrsressrsrsrrsrsnsnsnrnnsnent lly Kulturstöd vid
+            ombyggnad beslutsramen fÖr ssssssssssssrsrrsrersrersesrersesreresresresresrererererrrr
+            ere renen en er renen enes enn 13:1 Kärnbränsle, alternativa metoder
+            för slutförvaring aV s.......sssssssseisssessnn 8:2 Kävlingeån
+            m.fl. VattenCragZ.........sessesesrorssrsrsrersrsrsrsesrnsrsreresesrrsrrsrnrrnernnrnenn
+            en 8:10 Landsbygden, boende På .......ssesssssssssrsrsrseresrsnrsrernerserserersnsesnsrsnn
+            ene sn ennen en en nn en 1:4 Lantmäteriverket, ledningsformen
+            för det NYA........ssssssessssesrsresrseserserenrrrsnnnn 4:4 Länsindelningen
+            i Skåne och Västsverige besparingskraven på de nya länsstyrelSerNå.........sssssssssssssesessssrssossnensnnnn
+            9:9 Kopparbergs län, namnbyte aV......sssssssssesrresrreresresreressrerserrererrsrnrrrrerrenrnt
+            9:10 länsstyrelsens lednDiNg s...ssessssssssresresrrsresrrsrrrssrrsresrrrrrrrrr
+            rr rr reser renen enn nen en 9:4 residensstad i ett nytt vVästsvenskt
+            lä s........ssssssssesessssesrsrsserererersrsrsrsrsnnrn 9:8 residensstad
+            i SKåne län s...ssssssssrsesrsrsrsreresrereresenrsrrerserererer
+            ere rr rr ers er sen en er nan 9:5 resultatet av beredningen av
+            frågan om den regionala ANSVarsfÖrdelniNgeD...sessessrrsrseresrserrsrssrrssrrssrrrrrsrrrrrr
+            rs rsr rr ers rens n aren rn en en 9:1 rådgivande folkomröstningar
+            inför beslutet om omfattningen av ett nytt VÄStSVenSKt läl....sssssssessssesesnesrsesresrsrnesesrsrenener
+            enes ernr rer ensnn nan nn nn 9:7 sammanläggningen av de båda
+            Skånelänen .........ss.sessesisssessisssssersrnnnn 9:2 Skånelänets
+            Nya NaMI...ssssssessssesrsresrssrsesrsrsrsrsernrrrrsrrrrs erna
+            ennen rnnrrn nn enn nn a 9:3 utredningsarbetets inriktning avseende
+            ett nytt västsvenskt ' ET &amp; RR 9:6 Länsstyrelserna anslaget
+            tillosssssssssssssssesesresrsrsrerersrrnrerenrerenresrrrr ens
+            rr en rrr er ere r enes erna ense renen nn 13:2 läNSEXPEeIteflNA
+            ssssssseesssesresesrersrerseresresreresresrrsrerrsreresr enes
+            enesn enes en eran sees en nanna 5:1 samordningsrOllen .mssmssssssssssrssssrsrsrrsrsrsesresrrsrrsrrrerrsrer
+            ere es reser er en esse ene n nn nn 5:2 trafikSäkerhetel........sssssossorssesreseeseesresresrsrsrsrrerrrsrrrrrsrerrsr
+            rer ers er rrre renen enn rn eran 5:3 Miljöinriktade byggåtgärder
+            ........ssssesssssrerssresresresrerrrrsrerererrrrsrerrrersnnrn
+            er en rn rna lly Miljökonsekvensbeskrivning vid järnvägsbyggande............sssseimsmimessssnn
+            2y Miljöskyddslagen, ändrilg I smssssssssssrssrssrerssresrrsrnrsrersesrerererrrrsrerer
+            ere ere nere nn nn 4:8 Naturresurslagen alternativa metoder för
+            slutförvaringen av utbränt 1€:1 8810) 3195 (Ar 8:2 BrUNNSDeIg
+            sosseessersrsreresrerseresrerereresrernrsresrerrrrrerner er rer
+            ere essensen enes esenen rr nan 8:12 Dalslands Kanal.sssssnsssesssresrsresresrersesrrerersrnrrsrrrerrersrerrsresrsrn
+            rer er rrr er enes rr r ar ann nn 8:8 den kommunala VetOrätten...........ssssssssssseressrerrerrsrrsresresrernerrrrrrrsrs
+            renen enn na 8:1 fastighetsbildning OCh.......ssessssssessssrsrsnrsrnesrnrernrsreresrsrsreresrersr
+            eran ense enenen rr nn 6.1 [6316 [5 NVC a VR 8:11 [6554 $T5N a
+            VR 8:13
+          </p>
+          <p>
+            1995/96:BoU Reg
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199596/reg_199596_BoU/reg_199596_BoU_0009"/>
+          <p>
+            Göta kanal som nationalstadspark .........ssssssssssessssesesrssrssrrsssererrnserensnnrn
+            nn 8:7 1995/96:BoU Reg
+          </p>
+          <p>
+            JaUreKASKAssssssossrreresresererrerrerrersrerrersrsrersrerrerrrrer
+            rer rrrrsr er rsr er rss rn rr rn enn r nn n a 8:14 Kävlingeåns
+            Vattendrag.....sesssssssrssssssesesresesrnrsesesrsrrreresrrnrernererernrn
+            erna nan 8:10 nationalstadsparken och EXPO97 =sssssssssssssesrsrsssrerrsrnesesereseresnsnrrernrnennnnnnn
+            8:6 statens ekonomiska ansvar för miljöövervakningen i VÄtlterll
+            ooseoesesesrsrssrrresrereeresesrsrsrrsreresrsrsrerer esse rsrss
+            ere reser enes en enes r ene ennen enn n enn 8:5 vattenförsörjningen
+            Som rikSintreSSe s..eomsssssssssrsrsrrsrsererrsrsrnrnrsernrnennrn
+            enn nn 8:4 vattenkraftens roll i energibalanSeh ...msssssssssssrsrssrsrrrrrrnrnerrsrsnrnererrrne
+            renen 8:9 vindkraften som rikSintreSS€ s....ssssssesssssereresesrsrsrsesrsrrrrrerrrsrrrrrnsnsnrnrnrnnnnnnn
+            8:3 vägförbindelse till Talma Sameby s..emmmnssrrsrserssrsersrrererrrrrsrsrnrsrerrerrernrn
+            rna 8:15 Vättern som dricksvattentäkt ...............ssssssssssesssssssserserereseseresreserenrenenrnrn
+            8:4 NaturvårdsinVenteringår s.....ssssssessssssssessesessssesesensrsessrsenerserrnsrnsensnsnnenrnnnnrnn
+            en Illy PBL-frågor barnens intressen vid planeringen. .....esssssssssssssesrsnssereresesnrssnenesnerennnnnn
+            1:13 ekonomiska satsningar och analyser w.....ssssssssssesessesesesesrsnsnsnenesnenernnnrnnnn
+            1:3 frivilliga och alternativa Översiktsplaner ..........ssssssssssssesesssssnesesnrsernrnsnene
+            1:9 förtydliganden och analyser. ....ssssssrsessersssessersrsrenrrrnesrersesnern
+            es erna ner nen nn en 1:1 förändringar av lovplikten s....sssssssssssssssssrssssrsrsnesesrererners
+            enes ennen senere renen nn nn 1:11 gränsdragning mellan rivnings-
+            och producentanSVar ...........+ssssssssss-- 1:24 handikapprörelsens
+            inflytande s....ssssssssssssrsrsssreresnerereresernrnrnerernsner
+            enn nn 1:14 kompensationsåtgärder vid naturskadOr...........sesssssssssessesesesesesereserenennn
+            1:18 koppling till JärnVägSlaZ....s.sssssssrsesseserrsresesrsrnesrsrsrsrererern
+            ene eresrsrer ere n rn n en ena 2y kravet på miljökonsekvensbeskrivningal..........ssssssssssssessseseseresnenenennnr
+            a 1:16 kretsen av de samrådsberättigade..............sssssessssessrseseseseseresnesrnrrnrnrrnnnn
+            1:12 lydelsen av 1 kap. I $ PBL ossssssssssssressssessessrersresesresrersesresesrersrrrernnrner
+            nen n nan 1:2 lydelsen av 2 kap. 2. $ PBL sssssssssssssrsrssssssessrssessrsresresrsresesresrrrnrsnernen
+            renarna 1:8 lydelsen av 4 kap. I $ PBL osoissssrssssssrssssrsssessrsrssrersrssresresrsnrnrnrrrnrrn
+            nn nen 1:11 länsstyrelsens fOl..sssssssssssssssssssssssreserrnesresnrsnrsrserresnerner
+            renar ern enes ns nere nera n nn 1:6 nedlagda åkrar Som grönområden
+            ......sssssssessssseserseserrssessenenses erna en rns enn 1:20
+            parker och grönområden ....sssssssessrersrsrerereesrerersesrsrsrereserrsrrrrren
+            er nrn en en nn nn 1:17 precisering av handelsändamål sm. .s.ssssssssssesesesesesesrsesesrnsesen
+            ene enenen enn n nn 1:28 TC ZiONPlaNCriNg sossossssssreerseeresrersrerrerreresresrrrrrsn
+            rer esnern ene es reser senere ennen ennen nn 1:25 rivningsmaterial
+            och rivningsaVvfäall m.s.ssmsssssssessererssrrsreserrrserrrnrenrrrn
+            rn nn nn 1:23 rivningsplan Vid UtriVvDilQ.....esssssesssessesesreresnrsesrsneresrsrneren
+            enes es nare errrnenena 1:22 skyddsinstitut för viktiga grönstruktUurer..........ssssssrsrsssssesrrsersrrserersrrnena
+            1:19 tillgängligheten i den fysiska miljÖD ......ssesssssssssssssnsnrserensnrnrnsnrnnnrsnnnn
+            en 1:21 överprövning av beslut i plan- och byggärenden s........sssssssessssssesersenennse
+            1:5 översiktsplanens aktualitet.............sssssssesssssssesersesersrsesesesesesrrrernennrnenen
+            ena 1:15 översyn av viss följdlagStiftfiMQ.........esssssessseseseserrsensnssersnsrsrsesrnrnerenen
+            nan 1:7
+          </p>
+          <p>
+            Regeringens skrivelse 1995/96:15, behandlingen av riksdagens
+          </p>
+          <p>
+            skrivelser till regeriNgeCh sm.ssomssssrerrerresresesresresrsrerrerrsresrenrerrs
+            reser ere en ren ennen es ennen 4y Rennäringslagen fiskesamernas
+            rättigheter ..ssmsssssssssssserssrrersrerreresrrsrenrerrrrer ennen
+            enn n ennen n rna 1:8 samebyns verksamhetsOmråde s.......ssssessssssssssesersssrrensesessensnrenrnsensnsnnennnnn
+            7:6 småviltjakt och fiske ...sssssesessssesesessessresrsesernrnsesrnsrsrnsns
+            ers rnsnn en rn rn en nn rnn rna 1:1
+          </p>
+          <p>
+            Vitesföreläggande ......sssssssssesesnssrsrsrneresrereresrersrsneresesn
+            enes nr es rens rs nere ne rer ene nn nn 7:9 10
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199596/reg_199596_BoU/reg_199596_BoU_0010"/>
+          <p>
+            åtgärder för att minska antalet renar .........s.ssssesesrsrssrsrsrsrsrsrrrsrrnernersrsr
+            enn n rn 7:10 Riksdagens revisorer förslag om samordnad länsförvaltning........ssssssessssssssesrseserrsrsserersnenennrn
+            enn nt 5 ROT-åtgärder "grönt" DiCrag sossssssessesrrssrrssrresrrresrrrrserrsnrrrrrrrrr
+            ene rrrrrnrr nr sr er tanker k nn nns nn lly hyresgästinflytande
+            vid OmbyggnaC.......sssssssssssrssrssesessrnrssrsresenrererrnnnnnt
+            10:9 ökad Satsning På........esssessrsrsresrerreresresresrerersesrsrsrsrerrrrsrnrsrn
+            reser er en ene renen nanna 10y ökade medel fÖr s.ssmsssssrssrerrerrerrererserrsrsrssresresreresrer
+            reser ren enn er rer er rrn enes e annan 2, 3y Rovdjursrivna renar,
+            ersättning fÖrl..........sssessessessessrsrsrrsreresrerrrsrsresrrrsrrnrrnrn
+            7:12 Samebyns verksamhetsOmråde s......ssssssersersresrsrsrssesesrsrsrsrsrererererererrrrrenrrn
+            annan 7:6 Sametinget, Vetorätt fÖL ........sssseessesserrsererererrerrsresrsrrererrerersrsrerrrrererrer
+            ere rn rena 7:11 Samordnad länsförvaltning läNSEXPEeIterNA sssssssssesrereresrsrsrsrsresrersrersrerrsrersesrer
+            enes er enr enes sr eran arenan een en ene n enas 5:1 länsstyrelsernas
+            samordningSrOll s..mssssssssssssseseseseserersnsenernerrnsnnerrnn
+            eran nan nn 5:2 SBAB, ägandeförhållandena i s.essessssersrrsrssrsrrsrsrsrssrrrsrsrsrsrsrsrsrerererersrsn
+            ennen enn Ty Skattereduktion för utgifter för byggnadsarbete på
+            bostadshus .................. 10y Skåne län det nya länets Nam
+            smesvessessseseserrrrerrrrsrrrrserrerrrsrrerrsrr enn rs r ers
+            rnr ren rr ren rn nn enar nn 9:3 FeSidenSStaC i sessssseesreerresrrerrresrrrrerrresrrersrrrerrrrrrer
+            renen seen ers rrr ren rrr rer enn nr nanna 9:5 sammanläggning
+            av de båda länen ....ssssssesesresesesrsrsrsrssrrrsrsersrsrnsrsr
+            rr n nen 9:2 Skärgården, fastighetsöverlåtelSe i..........s.sssssssrssssesesrssrsrsnererneserereserrnrsrn
+            rr annan T:5 Småviltjakt och fiske s.ssmssssssrsrsreererrererrerrerrerrsrsreresesrsrsrsrsrsrer
+            er er arean er eran ennen enn T:1 Strandskydd och fastighetsbildning.............sesssssesssersssesrsreresernenrrreserrsrennernrn
+            nn 6.3 Stämpelskatten, tidsbegränsad nedsättniNg...............ssssessesssserrssresersereressinnnn
+            lly Sysselsättningsåtgärder inom miljöområdet ............sssesssesssesrsrrrerererereresrrnen
+            lly Talma sameby, Väg tillissssssssesseesessresrresrresrrerresrerrsrssrererrererrererrs
+            ren rer ere rr rn nn 8:15 Tomträtt inskränkningar i upplåtelsemöjligheten
+            ............ssssssessssssssersesesrsersenennnrnrn 6:7 Tomträttsutredningens
+            fÖrSlåg s....sssssssssssrsrsessrsrseseseserseresernsrsrsernnn
+            ene n nn nn 6:8 Trafiksäkerheten s.ssmsssssssrsrrereersrersrersresressrrssrerrrsresrersrsrrrrsrrsrererer
+            reser reser rr rr enn nen nn 5:3 Utgiftsområde 18, preliminärbudgetberäkning
+            fÖr s...........sessssssersssrersresresenin 9y
+          </p>
+          <p>
+            Vatten- och avloppsanläggningar förtydligande av 26 $ va-lagen
+            vad gäller
+          </p>
+          <p>
+            ANläggningsaVgiffCl......ssssessessreseerserresrerrerereresrsrsrsrsrer
+            aren enar arena enar eran nen 12:2 miljöanpassade avgiftsUttag............sssssresesessereresrsrseseserrsnnrrrerensrsnnn
+            nn rn nn 12:3 utökade möjligheter att differentiera anläggningsavgifter
+            ................... 12:1 Venantius AB, möjligheten att erhålla
+            lån från .............essssessssssssesersenenenernsnn 5y Viltskador,
+            ersättning fÖr ........ssesssssessrssresrseresreserserenrsrsrsrsrrerrrrsrrrerrrsrs
+            renen renen en 9y Västsvenskt län [14 865 VA RAA 9:6—8 Vättern
+            miljöövervaknilg I.sssssssssserrsssresesrressrrrrsrrerrrsrrrrrrrrrrr
+            nns rrr ers rr rer rrn ennen rna nn 8:5 som dricksvattentäkt ..............sssssssesssosssrrssessesesrsesesrsesesrersenrsrersrenenerrrr
+            rn renen 8:4
+          </p>
+          <p>
+            1995/96:BoU Reg
+          </p>
+          <p>
+            11
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199596/reg_199596_BoU/reg_199596_BoU_0011"/>
+          <p>
+            Gotab, Stockholm 1996
+          </p>
+          <p>
+            12
+          </p>
         </div>
       </div>
     </body>

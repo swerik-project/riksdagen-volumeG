@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="reg_199293_KU">
   <teiHeader>
     <fileDesc>
       <titleStmt/>
@@ -19,274 +19,1272 @@
   </teiHeader>
   <text>
     <body>
-      <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_KU/reg_199293_KU-000.pdf"/>
+      <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_KU/reg_199293_KU_0000"/>
       <div type="gBody">
         <div>
-          <p>Konstitutionsutskottets register vid AS</p>
-          <p>riksmötet 1992/93 a</p>
-          <p>1992/93 KU Reg.</p>
-          <p>Betänkanden</p>
-          <p>Nr KU1 Riksdagen och normgivningsprocessen med anledning av förslag från riksdagens revisorer, m.m. (förs. 1991/92:19) Utskottets justering 1992-10-08 Förslag till beslut: Delvis bifall till förslaget såvitt avser skyldighet för kommuner och landsting att publicera sina författningar samt förslaget och en motion såvitt avser redovisningen av riksdagens normgivningsbemyndiganden. I Övrigt avslag.</p>
-          <p>Debatt i kammaren 1992-11-04 Protokollsnhummer 1992/93:16 Riksdagens beslut: Bifall till utskottets hemställan 1992-11-04 Protokollsnummer 1992/93:16 Riksdagsskrivelse 1992/93:5, 6, 7 Nr KU2 Fri- och rättigheter m.m. Utskottets justering 1992-10-08 Förslag till beslut: Avslag på samtliga motioner. Debatt i kammaren 1992-11-04 Protokollsnummer 1992/93:16 Riksdagens beslut: Bifall till utskottets hemställan 1992-11-04 Protokollsnummer 1992/93:16</p>
-          <p>Riksdagsskrivelse -</p>
-          <p>Nr KU3 Statlig förvaltning m.m. Utskottets justering 1992-11-05 Förslag till beslut: Avslag på samtliga motioner. Debatt i kammaren 1992-11-19 Protokollsnummer 1992/93:27 Riksdagens beslut: Bifall till utskottets hemställan 1992-11-19 Protokollsnhummer 1992/93:27 Riksdagsskrivelse -</p>
-          <p>1 Riksdagen 1992/93. 4 saml. Register</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_KU/reg_199293_KU-001.pdf"/>
-          <p>Nr KU4 Regionala och kommunala frågor Utskottets justering Förslag till beslut: Delvis bifall till en motion rörande antalet ersättare för ledamöter i kommunfullmäktige. Avslag på Övriga motioner. Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse</p>
-          <p>Nr KUS Författningsfrågor Utskottets justering Förslag till beslut: Bifall till två motioner rörande grundlagsreglering av utlandssvenskarnas rösträtt. Avslag på Övriga motioner. Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse</p>
-          <p>Nr KU6 Valfrågor, m.m. Utskottets justering Förslag till beslut: Bifall till motion om brevröstning och motion om överklagandetider i vallagen. Avslag på övriga motioner. Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till utskottets hemställan Protokollshummer Riksdagsskrivelse</p>
-          <p>Nr KU7 Allmänna helgdagar, m.m. Utskottets justering Förslag till beslut: Avslag på samtliga motioner. Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse</p>
-          <p>Nr KU8</p>
-          <p>1992-11-05</p>
-          <p>1992-11-19 1992/93:27 1992-11-19 1992/93:27 1992/93:20</p>
-          <p>1992-11-12</p>
-          <p>1992-11-25 1992/93:31 1992-11-25 1992/93:31 1992/93:31</p>
-          <p>1992-11-10</p>
-          <p>1992-11-25 1992/93:31 1992-11-25 1992/93:31 1992/93:32</p>
-          <p>1992-11-17</p>
-          <p>1992-12-02 1992/93:36 1992-12-02 1992/93:36</p>
-          <p>Justitieombudsmännens redovisning av sin verksamhet till</p>
-          <p>1992/93 års riksmöte m.m. (redog. 1992/93:JO1) Utskottets justering</p>
-          <p>1992-12-08</p>
-          <p>1992/93:KU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_KU/reg_199293_KU-002.pdf"/>
-          <p>Förslag till beslut: Redogörelsen lagd till handlingarna. Avslag på samtliga motioner.</p>
-          <p>Debatt i kammaren 1992-12-15 Protokollsnummer 1992/93:45 Riksdagens beslut: Bifall till utskottets hemställan 1992-12-15 Protokollshummer 1992/93:45 Riksdagsskrivelse 1992/93:116 Nr KU9 Riksdagsfrågor Utskottets justering 1992-11-24</p>
-          <p>Förslag till beslut: Delvis bifall till motion om valprövningsnämndens sammansättning. Avslag på övriga motioner.</p>
-          <p>Debatt i kammaren 1992-12-02 Protokollsnhummer 1992/93:36 Riksdagens beslut: Bifall till utskottets hemställan 1992-12-02 Protokollsnummer 1992/93:36 Riksdagsskrivelse 1992/93:37 Nr KU10</p>
-          <p>Riksdagens förvaltningskontors verksamhetsberättelse (redog. 1992/93:RFK1) Utskottets justering 1992-11-24 Förslag till beslut: Redogörelsen lagd till handlingarna. Avslag på motionen.</p>
-          <p>Riksdagens beslut: Bifall till utskottets hemställan 1992-12-02 Protokollsnummer 1992/93:36 Riksdagsskrivelse 1992/93:38 Nr KU11 Ändringar i sekretesslagen (prop. 1992/93:120) Utskottets justering 1992-12-03</p>
-          <p>Förslag till beslut: Bifall till propositionen. Avslag på samtliga motioner.</p>
-          <p>Debatt i kammaren 1992-12-10 Protokollsnhummer 1992/93:42 Riksdagens beslut: Bifall till utskottets hemställan 1992-12-10 Protokollsnummer 1992/93:42 Riksdagsskrivelse 1992/93:77 Nr KU12</p>
-          <p>Lagstiftning om satellitsändningar av TV-program (prop. 1992/93:75) Utskottets justering 1992-12-03 Förslag till beslut: Bifall till propositionen. Avslag på samtliga motioner. Debatt i kammaren 1992-12-15 Protokollsnhummer 1992/93:45 Riksdagens beslut: Bifall till utskottets hemställan 1992-12-15</p>
-          <p>1992/93:KU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_KU/reg_199293_KU-003.pdf"/>
-          <p>Protokollshummer 1992/93:45 Riksdagsskrivelse 1992/93:117 Nr KU13</p>
-          <p>Godkännande av Europarådets konvention om utlänningars delaktighet i samhällslivet på kommunal nivå (prop. 1992/93:104)</p>
-          <p>Utskottets justering 1992-11-26 Förslag till beslut: Bifall till propositionen. Riksdagens beslut: Bifall till utskottets hemställan 1992-12-09 Protokollsnummer 1992/93:41 Riksdagsskrivelse 1992/93:64 Nr KU14 Vissa kyrkliga frågor (prop. 1992/93:85) Utskottets justering 1992-11-26 Förslag till beslut: Bifall till propositionen. Riksdagens beslut: Bifall till utskottets hemställan 1992-12-09 Protokollsnhummer 1992/93:41 Riksdagsskrivelse 1992/93:65 Nr KUI1S Privat lokalradio m.m. (prop. 1992/93:70) Utskottets justering 1993-02-09</p>
-          <p>Förslag till beslut: Bifall till en motion rörande avgifter för närradiosändningar. Delvis bifall till propositionen och en motion om regeringens förslag till lokalradiolag, en motion om sändningsområden, propositionen om regeringens förslag till lag om ändring i radiolagen (1966:755), propositionen och en motion rörande regeringens förslag till lag om ändring i närradiolagen (1982:459) utom såvitt avser 10 c $ och 10 d $, samt propositionen om regeringens förslag till lag om ändring i lagen (1991:1559) med föreskrifter på tryckfrihetsförordningens och yttrandefrihetsgrundlagens områden. Avslag på propositionen och motionerna i Övrigt. Initiativ till mom. 10—13.</p>
-          <p>Debatt i kammaren 1993-02-24 Protokollsnummer 1992/93:67 Riksdagens beslut: Bifall till utskottets hemställan 1993-02-24 Protokollsnhummer 1992/93:67 Riksdagsskrivelse 1992/93:168 Nr KU16 Riksdagens val av vissa organ Utskottets justering 1992-12-08 Förslag till beslut: Bifall till initiativ. Riksdagens beslut: Bifall till utskottets hemställan 1992-12-17 Protokollsnummer 1992/93:47 Riksdagsskrivelse 1992/93:143</p>
-          <p>1992/93:KU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_KU/reg_199293_KU-004.pdf"/>
-          <p>Nr KU17 Sameting m.m. (prop. 1992/93:32 bil. 1) Utskottets justering 1992-12-03 Förslag till beslut: Propositionen lagd till handlingarna vad gäller genomförande och kostnader som inte omfattas av regeringens förslag till sametingslag samt betr. samiskt språk, i Övrigt bifall till propositionen. Avslag på samtliga motioner.</p>
-          <p>Debatt i kammaren 1992-12-15 Protokollsnummer 1992/93:45 Riksdagens beslut: Bifall till utskottets hemställan 1992-12-15 Protokollsnummer 1992/93:45 Riksdagsskrivelse 1992/93:114 Nr KU18 Statliga förvaltningsfrågor Utskottets justering 1993-04-13 Förslag till beslut: Avslag på samtliga motioner. Debatt i kammaren 1993-04-29 Protokollshummer 1992/93:102 Riksdagens beslut: Bifall till utskottets hemställan 1993-05-05 Protokollsnummer 1992/93:105</p>
-          <p>Riksdagsskrivelse -</p>
-          <p>Nr KU19 Sändning av grannländers rundradioprogram från sändare i Sverige (prop. 1992/93:113)</p>
-          <p>Utskottets justering 1992-12-03 Förslag till beslut: Bifall till propositionen. Riksdagens beslut: Bifall till utskottets hemställan 1992-12-15 Protokollsnhummer 1992/93:45 Riksdagsskrivelse 1992/93:118 Nr KU20</p>
-          <p>De kungliga slotten — tilläggsbudget I (prop. 1992/93:105 bil. 1)</p>
-          <p>Utskottets justering 1993-02-23 Förslag till beslut: Bifall till propositionen. Riksdagens beslut: Bifall till utskottets hemställan 1993-03-10 Protokollsnummer 1992/93:72 Riksdagsskrivelse 1992/93:181 Nr KU21 Riksdagsledamöternas och statsrådens arvoden Utskottets justering 1993-03-09 Förslag till beslut: Delvis bifall till samtliga motioner. Debatt i kammaren 1993-03-17 Protokollshnhummer 1992/93:77 Riksdagens beslut: Bifall till utskottets hemställan 1993-03-17 Protokollshummer 1992/93:77 Riksdagsskrivelse 1992/93:190, 191</p>
-          <p>1" Riksdagen 1992/93. 4 saml. Register</p>
-          <p>1992/93:KU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_KU/reg_199293_KU-005.pdf"/>
-          <p>Nr KU22 Kungliga hov- och slottsstaterna (prop. 1992/93:100 bil. 2) Utskottets justering 1993-03-18 Förslag till beslut: Bifall till propositionen. Avslag på samtliga motioner.</p>
-          <p>Debatt i kammaren 1993-03-31 Protokollshummer 1992/93:87 Riksdagens beslut: Bifall till utskottets hemställan 1993-03-31 Protokollsnhummer 1992/93:87 Riksdagsskrivelse 1992/93:234 Nr KU23 Anslag till Datainspektionen (prop. 1992/93:100 bil. 3) Utskottets justering 1993-03-18 Förslag till beslut: Bifall till propositionen. Riksdagens beslut: Bifall till utskottets hemställan 1993-03-31 Protokollsnhummer 1992/93:87 Riksdagsskrivelse 1992/93:235 Nr KU24 Stöd till politiska partier (prop. 1992/93:100 bil. 3) Utskottets justering 1993-03-18</p>
-          <p>Förslag till beslut: Bifall till propositionen. Avslag på samtliga motioner.</p>
-          <p>Debatt i kammaren 1993-03-31 Protokollsnhummer 1992/93:87 Riksdagens beslut: Bifall till utskottets hemställan 1993-03-31 Protokollshummer 1992/93:87 Riksdagsskrivelse 1992/93:236 Nr KU2S Anslag till allmänna val (prop. 1992/93:100 bil. 3) Utskottets justering 1993-03-18 Förslag till beslut: Bifall till propositionen. Riksdagens beslut: Bifall till utskottets hemställan 1993-03-31 Protokollshummer 1992/93:87 Riksdagsskrivelse 1992/93:237 Nr KU26 Anslag till Sametinget (prop. 1992/93:100 bil. 9) Utskottets justering 1993-03-18 Förslag till beslut: Bifall till propositionen. Riksdagens beslut: Bifall till utskottets hemställan 1993-03-31 Protokollsnhummer 1992/93:87 Riksdagsskrivelse 1992/93:238</p>
-          <p>1992/93:KU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_KU/reg_199293_KU-006.pdf"/>
-          <p>Nr KU27 Presstöd m.m. (prop. 1992/93:100 bil. 12) Utskottets justering 1993-03-23 Förslag till beslut: Bifall till propositionen. Avslag på samtliga motioner.</p>
-          <p>Debatt i kammaren 1993-03-31 Protokollsnhummer 1992/93:87 Riksdagens beslut: Bifall till utskottets hemställan 1993-03-31 Protokollsnhummer 1992/93:87 Riksdagsskrivelse 1992/93:239 Nr KU28 Valkretsindelningen i Malmöhus län (prop. 1992/93:163) Utskottets justering 1993-03-18</p>
-          <p>Förslag till beslut: Bifall till propositionen. Avslag på samtliga motioner.</p>
-          <p>Debatt i kammaren 1993-04-01 Protokollsnummer 1992/93:88 Riksdagens beslut: Bifall till utskottets hemställan 1993-04-02 Protokollsnummer 1992/93:89 Riksdagsskrivelse 1992/93:255 Nr KU29</p>
-          <p>Riksdagen och dess myndigheter m.m. (prop. 1992/93:100 bil. 16) Utskottets justering 1993-04-02 Förslag till beslut: Bifall till propositionen. Delvis bifall till motion om barntillsyn i riksdagen. Avslag på övriga</p>
-          <p>motioner. Debatt i kammaren 1993-04-22 Protokollshummer 1992/93:97 Riksdagens beslut: Bifall till utskottets hemställan 1993-04-28 Protokollsnhummer 1992/93:101 Riksdagsskrivelse 1992/93:298, 299 Nr KU30</p>
-          <p>Granskning av statsrådens tjänsteutövning och regeringsärendenas handläggning (skr. 1992/93:15) Utskottets justering 1993-05-13 Förslag till beslut: Resultatet av granskningen anmäls för riksdagen. Skrivelsen lagd till handlingarna.</p>
-          <p>Debatt i kammaren 1993-05-26 Protokollsnummer 1992/93:116 Riksdagens beslut: Bifall till reservation 4 i övrigt till handlingarna med godkännande av vad utskottet anfört 1993-05-26 Protokollshummer 1992/93:116 Riksdagsskrivelse 1992/93:349</p>
-          <p>1992/93:KU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_KU/reg_199293_KU-007.pdf"/>
-          <p>Nr KU31 Ombildande av vissa tjänster inom riksdagens förvaltningsområde (förs. 1992/93:RFKS) Utskottets justering Förslag till beslut: Bifall till förslaget. Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse</p>
-          <p>Nr KU32</p>
-          <p>Förslag till en lag om personregister i riksdagens</p>
-          <p>informationssystem Rixlex (förs. 1992/93:RFK4) Utskottets justering</p>
-          <p>Förslag till beslut: Delvis bifall till förslaget. Avslag på</p>
-          <p>samtliga motioner. Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse</p>
-          <p>Nr KU33</p>
-          <p>1993-05-28</p>
-          <p>1993-06-08 1992/93:124 1992/93:432, 433</p>
-          <p>1993-05-11</p>
-          <p>1993-06-04 1992/93:122 1992/93:402, 403</p>
-          <p>Riksdagens byggnader (prop. 1992/93:100 bil. 16 delvis och förs.</p>
-          <p>1992/93:RFK3) Utskottets justering</p>
-          <p>1993-05-13</p>
-          <p>Förslag till beslut: Bifall till RFK:s förslag. Delvis bifall till propositionen. Avslag på motionerna. Bifall till initiativ betr.</p>
-          <p>lokaldispositionsfrågorna. Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse</p>
-          <p>Nr KU34</p>
-          <p>1993-06-02 1992/93:120 1993-06-02 1992/93:120 1992/93:367, 368</p>
-          <p>Rundradiosändning av finländska televisionsprogram (prop.</p>
-          <p>1992/93:235) Utskottets justering Förslag till beslut: Bifall till propositionen. Riksdagens beslut: Bifall till utskottets hemställan Protokollsnhummer Riksdagsskrivelse</p>
-          <p>Nr KU35 Sjukavdrag för riksdagsledamöter och statsråd Utskottets justering Förslag till beslut: Bifall till initiativ. Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse</p>
-          <p>1993-05-04</p>
-          <p>1993-05-26 1992/93:116 1992/93:346</p>
-          <p>1993-05-25</p>
-          <p>1993-06-04 1992/93:122 1993-06-08 1992/93:124 1992/93:434, 435</p>
-          <p>1992/93:KU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_KU/reg_199293_KU-008.pdf"/>
-          <p>Nr KU36 Uppskov till 1993/94 års riksmöte med behandlingen av vissa ärenden Utskottets justering 1993-05-28 Förslag till beslut: Uppskov av del av proposition, en skrivelse och 154 motioner.</p>
-          <p>Debatt i kammaren 1993-06-04 Protokollsnummer 1992/93:122 Riksdagens beslut: Bifall till utskottets hemställan 1993-06-07 Protokollsnummer 1992/93:123</p>
-          <p>Riksdagsskrivelse -</p>
-          <p>Nr KU37 Inrättande av parlamentarikerkommitte med anledning av EES-avtalet</p>
-          <p>Utskottets justering 1993-05-25 Förslag till beslut: Bifall till initiativ. Riksdagens beslut: Bifall till utskottets hemställan 1993-06-08 Protokollsnummer 1992/93:124 Riksdagsskrivelse 1992/93:436 Nr KU38 Offentlighet och sekretess Utskottets justering 1993-05-25</p>
-          <p>Förslag till beslut: Bifall till en motion om folkbokföringssekretess. Delvis bifall till en motion om myndigheternas uppdragsverksamhet och offentlighetsprincipen. Avslag på övriga motioner.</p>
-          <p>Debatt i kammaren 1993-06-04 Protokollsnhummer 1992/93:122 Riksdagens beslut: Bifall till utskottets hemställan 1993-06-07 Protokollsnummer 1992/93:123 Riksdagsskrivelse 1992/93:414 Nr KU39</p>
-          <p>Anslag till Styrelsen för lokalradiotillstånd (prop. 1992/93:150 bil. 9)</p>
-          <p>Utskottets justering 1993-05-13 Förslag till beslut: Bifall till propositionen. Riksdagens beslut: Bifall till utskottets hemställan 1993-06-07 Protokollsnummer 1992/93:123 Riksdagsskrivelse 1992/93:415 Nr KU40 Ändringar i sekretesslagen (prop. 1992/93:256) Utskottets justering 1993-05-27</p>
-          <p>Förslag till beslut: Bifall till propositionen och initiativ. Avslag på motionerna. Debatt i kammaren 1993-06-02 Protokollsnummer 1992/93:120</p>
-          <p>1992/93:KU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_KU/reg_199293_KU-009.pdf"/>
-          <p>Riksdagens beslut: Bifall till utskottets hemställan 1993-06-02 Protokollsnummer 1992/93:120 Riksdagsskrivelse 1992/93:364</p>
-          <p>Yttranden till andra utskott</p>
-          <p>Nr KU1y till EU Europeiska ekonomiska samarbetsområdet (EES) (prop. 1991/92:170) Utskottets justering 1992-08-22 1992/93:EU1</p>
-          <p>Nr KU2y till SoU Okad konkurrens i kommunal verksamhet (prop. 1992/93:43) Utskottets justering 1992-11-12 1992/93:SoU9</p>
-          <p>Nr KU3y till FiU Åtgärder för att stabilisera den svenska ekonomin (prop. 1992/93:50) Utskottets justering 1992-11-24 1992/93:FiU1</p>
-          <p>Nr KU4y till NU Ny konkurrenslagstiftning (prop. 1992/93:56) Utskottets justering 1992-12-01 1992/93:NU17</p>
-          <p>Nr KUSy till SoU Husläkare m.m. (prop. 1992/93:160) Utskottets justering 1993-04-20 1992/93:S0U22</p>
-          <p>Nr KU6y till SfU Sjukförsäkringsregister hos de allmänna försäkringskassorna (prop. 1992/93:193) Utskottets justering 1993-05-06 1992/93:SfU 19</p>
-          <p>Nr KU7y till JuU Ny ordningslag (prop. 1992/93:210) Utskottets justering 1993-05-06 1992/93:JuU 36</p>
-          <p>Nr KU8y till TU Telelag och förändrad verksamhetsform för Televerket m.m. (prop. 1992/93:200) Utskottets justering 1993-04-29 1992/93:TU30</p>
-          <p>1992/93:KU Reg.</p>
-          <p>10</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_KU/reg_199293_KU-010.pdf"/>
-          <p>Sakregister</p>
-          <p>Affärsverk, bolagisering QV...smssmsesesssesserersesersnnrnrsnsnennennnnenenen Alkoholfri representatiOnN s...sssssssesssrsssssrnssrernerenresnnernernnnnnnn nn AllemanSrättsssmmssssesssressressserereserrersnrnrrrnrrrrnrsrnrerrnernrnnrrnn enn nnn nn Allmänna helgdagar smusmnmsssssssrerserererresrerererrsrrnrerrnnrrsrrnrernnnnnen nn Allmänna val, anslag till.sssmmnssssssessssessrsrssressrrserrsnrsnnrnnnrnnsnnn nt Anslag allmänna VAL ssnsssesesessesseeserrersrsnsrersnernrsrrererrrennsn ene nnnnn enn andel i gemensamma kostnader för Nordiska rådet..... barntillsyn, rikSdagenN .....sssesseseresrsnrrersrrnsnernnrenrrrrnennrnrnennnn Datainspektionen s..smmssssessesrererserrrnnnnrrnn nan distributionsstöd till dagspressen driftsstöd till dagspreSSeN sm..smsmsessessersrsssesrsnennrnerennenerenernnn ersättning till Olof af Forselles, fråga OM ..............s..n0ns förvaltningskostnader för riksdagen och dess MYNdigheternssssssssseserersrersrernrenrrnrerrr nens rernrrrnner nen rann ne nn Kungl. hov- och slottsstaterna kungliga SlOtteN .usmmnsmssssssssrsrsserernsressrnrrsrrrsrrrsnr ere es rsrn rn nr nen LI-StiftelS€N ossssssssesrsrsrsersrennernrerennnnrnrrnrrrrnrennrrn ennen enn n ene nr nn nen Nordiska rådets svenska delegation och kansli............. PICSStÖGssssssesererersrrererrerereerrrenrnrrrrierrrrrrrrnrrnnrsrr rer nnrn nen nnnnn nen Presstödsnämnden och taltidningsnämnden................. riksdagen och dess myndigheter m.m. ssmmmesersesesnnsnnnn riksdagens byggnader sssmmmessessessresererersnesnernrssnsnnrnernrnenenen riksdagens förlagsverksamhet...... riksdagens ledamöter och partier riksdagens ombudsmän, justitieombudsmännen.......... riksdagsutskottenS reSOTr s..smmssssssessrerseresnrrsrsrrersnnnrennnennnn nr SAMECLiNZC ooooossreseresereresrrereesreessrrerrrenersrrerererr ner nnrrrnnn nn nn nen statlig kreditgaranti till dagspressen. .........ssesesssnsnsenensne Stiftelsen för lättläst nyhetsinformation och litteratUr ooosssseseeerreerrrererreserererrrrrrrrer reser rr rrrrnnn ss nns enn nn n rna stöd till politiska partier sm.ossmsmssesssessrrrrenernnrnrnnennrnnnnnnnnenn stöd till radio- och kassettidningar utvecklingsstöd till dagspreSSeN............sssssterssesorsesrsnensrnr Arbetsformer, rikSCdagenNS s..smmmmmsessesserenesrersrerrenerresrnernnrnennnnn nn Arvode till förtroendevalda i statlig verksamhet ................ Arvode till personalföreträdare i myndighetsstyrelse......... Arvoden, riksdagsledamöter och statsråd ...............s.s.s-ss-.--- Asyl- och utlämningsärenden, sekreteSS .............ssssssssssssnsnn Automatisk giltighet, EES ..snnnnnsmmmsn nns Avgifter för kontroll och inspektion AVtalsfrihet..sssssesseeseressrersrnnresnnsrerrnrrrnnrerrrnernersrrnnrernr nen nr rn nen nn</p>
-          <p>Barnomsorg, enhetliga regler fÖr s....sssssssssssrersrrsrsnsrnnrnnnnnnnnn Barnpornografi, SeKreteSS .msssssssssersrserererersronersrnernnernr ner nn ennen Barntillsyn, riksdagen ssmmmsssssesssssesnsesernresersnnesrrennsern renen rer nnn</p>
-          <p>Belöningssystem, Offentligt s..smm.sssssssssssessseserersbrnsenerernrnnnnnnrnnn</p>
-          <p>40 29</p>
-          <p>1992/93:KU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_KU/reg_199293_KU-011.pdf"/>
-          <p>Beriktigande i fråga om satellitsända TV-program............. Beskattningsmaktellsmmmmmssesssrersssessrssrersrrarsrenrrnrrerrrnnn rr rn nanna Betalningsperioder, spridning av.... Brevröstning</p>
-          <p>Datafrågor hUSIÄäKAre oooseeseesresresrsrererrernesrerererrrnrsrn renen enar en enn r renare nen nn rena personregister i Rixlex, lag om .... publika informationsSyStelM s..mmmsssssssessesssessresrerernennennrnr sjukförsäkringsregiSter s..mmmmmmssssssesrasenenrnenesnenrrnrnerenrnn enn Översyn av datalagen sm.msmmmsssssererrrerernesesenennenen sn nerenrn nn enn Datainspektionen, anslag till.....mmmmsssssssssasesrnsnrsneneenenenennrnnnnn DISKriminNeriNg omsmnsesresreresesreneerernenerrnersnrsenenenen ennen ene renen er r nn en Distributionsstöd till dagspressen, anslag till...............------- Driftsstöd till dagspressen, anslag tilli..ms.s.sssssssessenernennnnnn</p>
-          <p>EES-utskottet ........ssosssossoennennnnnnnn EFTA-delegationen, val av Ersättare, antal i kommunfullmäktige s.mmmmmmssssoreerennennsnnnn Ersättning till ledamöter i statliga utredningar .................. ESK:s parlamentariska församling, utseende av svenska I(Z6 ET 8101 Etiska regler i pOlitik€n s.smmmssssoresrensrenersesererrrrnnnnrrnnrnr rinner enn nn Europadagen som flaggdag ..smnmmsrsseeresraerrenrsenrennnrnnnannn nn enn rna Europakonventionen Europarådets konvention om utlänningars delaktighet i samhällslivet på kommunal NiVå .nmmmmessessersreseenrrsrenrerennen nt Europarådets svenska delegation, val av s...mnsessesiorsnsnn</p>
-          <p>Fackliga Stridsåtgärder.............sssssesesessenenenenrenenerenenenenenrnrnrnn nn Finländska televisionsprogram, lagen om radiosändningar äV smessssseessressrersrsrereeneenrrrnnerennnrnn nen nr nerna nn Flaggdagar, allmänna smsmmsssessseeresrererresrrsnrerrernnnnnrnnn enn nen nr nn ran FolkbokföringssekreteSSeh ..mmmmssessesesrresresresrrrnrennrnnnnrnnnnnn nan FOIKkOMFÖStNiNg oosseeeserersrerserrernrerrerrerrerrersrrrrrenrrrrrnnn rann rs rna n rna nan Fri- och rättigheter allemanNSrätt.ossssssssseeseessrrrsrrernesenrernenrrrnrenrrnnrnnn nns n nr snar nen ann avtalsfrihet beskattningsmaktens gränser diskriminering .oommmmsessrerrsrennseseernensennr annen ennnrnnn nn nen n nn rna nn EuropakOonventiON€i s..smmesseresresessrareessensreneinnnnrnrnrnn renarna fackliga Stridsåtgärder..........o.sosesseoeneorsrsrsrsrerrrnrnnnnnnnn nn nan föreningsrätt, negativ fÖräldrarättosssmmmsssssssrerseresrresresrerrrnrnrrernrnnerr nr n een r nn nen r nn ora hets mot fOlkgrUPP a ..sosmmesssessrsresnenresnernrerrrnnnennnrnnnrnnnnn nn nan kontaktaänNONSEr ossssssssesrsseresreseeesreninnnnsrnrsnn rer rnnn ere n nn r nan livsåskåd ningsfrihet .ssnmmnssessssssoeseoesesrerenrnenrnnsnennrnennn nerna medborgarkontrakt ssmssmmmmsssssessesessresesnnnsnrrnnnnnnnnn nn NÄäriNgSfrih€t..sssssssssessrssesssrreessesrrenrrrrsrrernnrrsnnnrn nn nn rn nn rn n nn</p>
-          <p>12</p>
-          <p>34</p>
-          <p>38</p>
-          <p>NNNNNANNNYNNNN</p>
-          <p>1992/93:KU Reg.</p>
-          <p>12</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_KU/reg_199293_KU-012.pdf"/>
-          <p>offentlighet OCh INSYN sm.mmmssssssessessesesesnenrenerren renen nen rn n nen patienters rätt till VårG omsmmnsmmmssssesresesrsnerenenenennenenenen erna nn politisk åsiktsregiStreriNg......msesssssoesesenenenenennenenenenennnn nn FE: SES 4 4 riksdagens kontrollmakt rättssäkerhet Mum. mosossssssessssessererersrernnesnrrernnrernnnsrn nr n nan SAMEYNAS FäÄttosoossssesererrenrersrersrerrennnrnnrrrnerrrnn nere nrnn er rn rna Fri-och rättigheter</p>
-          <p>skydd mot hemlig telefonavlyssning yrkesfrihet .... äganderätt .ssnssssssessersrerrererrrrerrrrr ner rrrn enn n ennen nen ennen nen r nn nn</p>
-          <p>översyn av lagstiftning som begränsar frihet och [8 81055: 08 1 Föreningsrätt, NCZaliV.....ssssssssseseoseorensennerreneenennerernrsnennrnennrnnnn Företagshemligheter s..mmnmumssssssereerrerenrrenerneneenennersernernen ennen nn ann Författningsfrågor etiska regler i politiken folkomröstningsfrågor författningSsrefOrmM = msssmesssssresserserrerserennenennernenernrnrrnen nen nn konsekvensanalyser inför folkomröstningen om EG .. längre Mandatperioder......s.sssssessessereseneenennrnnsrnnsnennrnnn nn nn</p>
-          <p>OpinionsundersÖkniNgaåar s..msssssessessessesenrenennennennsnernrnenn nn PErSON VAL ooseesseseesreereereenneernnnernnn ann riksdagsledamöternas antal FÖSträttSregler sossssssseesrerersrresrrrrsenrrrrenrarnnnernnnnrrn ner rn er nnn enn nns StatsSKiCKetoooooosssessrerenrrenserernsrrrenrrrsrrnernrnrnnrnerenerrrrnrnn rna nan UpPplÖöSningsinstitUtet...........eesesessserresssennesrrennssnrernsnnrnn nn nr valdagar, skilda FÖrOrdningSmMOL iV....ssssssssseeseeserrerresrrrnrnrrreserrrerennennernnrnn enn nen nnn Försäkringskassorna, regiSt€rl....sssssessseseeneesseeresnrersennnsnnnn nn Förtroendeuppdrag, ledighet för politiska m.........s.sseeeennn Förtroendevalda i statlig verksamhet, arvode ..................-.- Förvaltningskontorets verksam hetsberättelse...................... Förvaltningskostnader, riksdagens sms ssmmmsessrosessseeseererernnnrnnr FÖFräldrarätto..ssmnsssssresesresreseanesnerrennennrnnerrerernnsnernrn nn nn terra rna en Föräldraskap, uppgift om</p>
-          <p>Gemensamma parlamentarikerkommittén, val av svenska ledamÖter....ssssssrerssresreseenesresnrennerennenernrrrernrnrnnen renen nen Granskning justitieombudsmännens verksam het........sosesssensnrsnnsnnn riksdagens förvaltningskontors verksamhet 1.7.1991— 30.60.1992. ooonossessrsnenenrernernenenennersnenenennenenenrnennn nen statsrådens tjänsteutövning och regeringsärendenas handläggnNinNg....ssssssessrsseesnrenresnrrerensrnernrernrnnrrrn rn renen rena n enn</p>
-          <p>1. Regeringens sammansättning och regeringsarbetets organisation 2. Regeringskansliet — statistik och andra redovisningar</p>
-          <p>2 2 2 2 2 2 7</p>
-          <p>2,1</p>
-          <p>,</p>
-          <p>NN NN</p>
-          <p>NN NH</p>
-          <p>LON BR RH UM UM VV VV VV VV UV AR UV AR AR AN</p>
-          <p>30</p>
-          <p>1992/93:KU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_KU/reg_199293_KU-013.pdf"/>
-          <p>. Remisser till Lagrådet - Propositionsavlämnandet till riksdagen - Författningsutgivningen - Normgivningsfrågor — bemyndiganden - Myndighetsutövningen i tillfälliga organ under regeringen</p>
-          <p>NN OUNRBÖO</p>
-          <p>8. Förvaltningsmyndigheternas internationella överenskommelser 9. Riksdagens skrivelser 9 a. Behandlingen av riksdagens skrivelser 9 b. Lokaliseringen av Lärarhögskolan i Stockholm 9 c. Riksdagens beslut rörande ROT-verksamheten 10 a. Statsrådens innehav av värdepapper, jäv m.m. 10 b. Kommunikationsministerns engagemang i Majgården 11. Svensk hjälp till skogsindustrin m.m. i Polen 12. Flyktingpolitiken samt uttalande om kosovoalbaner 13. Utnämningsfrågor 14. Anslagsfrågor inom Utbildningsdepartementet 15. Förbudet mot handel med Sydafrika 16 a. Volvo-Procordia-affären 16 b. Kulturministerns uttalande om viss närradioverksamhet 16 c. Medel för informationsinsatser om europeisk integration 16 d. Kulturministerns handläggning av frågor om Sveriges Radio</p>
-          <p>Handikappade, vallokalers tillgänglighet för ...................... Helgdagar, allmän nNa..sssssssssssreserereerrrssererrrrrrrrrerrrerrrsrrrrrrn rn rn n a Hemlig telefonavlyssning, skydd mot Hets mot fOlkgrUpPP s..smsssesesresreseesesrsesrsreseesrrsrrrrenrenrrrrnnrrrsr renarna Homosexuellas rättigheter smmmmssssssseersressersereessrersnnsrrrnnnnrnn ann HUSIÄKaArC ooooooeeeeresrrresrrsrrsererrrerrrrsrrrrrrsrrrrrrrrrsrerr rerna ren nr sann rn nn nn</p>
-          <p>ILO:s konvention om ursprungsfolk m.m. .....s..sssseresssnena Information riksdagens m.smmmsersrersreseesrrrererrrrrrerrnrrrrrnerrrrnrnrn ran Informationssystem fÖreSkrifferf smosssmsssssreresesrerrrrrrsnenerrresnerersrnenesr enn n ennen nen nn nen nn</p>
-          <p>anslag tillosmossssssesssesreseesreserrerresrrrsrrrrsrrerrr rs nrerr nr rnrrern nn nn nan kontinuerlig granskning av bl.a. Invandrarverket........ rekrytering av justitieombudSsmän s...s.sssesssessseersersnnnnnnn Rätt för JO att utdöma böter och/eller skadestånd ......</p>
-          <p>oc 00 00</p>
-          <p>1992/93:KU Reg.</p>
-          <p>14</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_KU/reg_199293_KU-014.pdf"/>
-          <p>ämbetsberättels€...........ssssosssesesesenenenenenerrnnrnrnenenen ann nn an arenan 8 1992/93:KU Reg.</p>
-          <p>Kommunala frågor</p>
-          <p>antal ersättare för ledamöter i kommunfullmäktige.... 4 barnomsorg, enhetliga regler fÖr s...........ss.sssrssseeresronannna 4 benämningen StaCl....smmmmsssssessesessessrarserrrsrernsnerrenenner ennen nn ana 4 brukarinflyta nde smmmssssssesrererrerrerrererrrrresrererrrnrsnrnnrn ennen ana 4 direktvalda stadsdelsnämnder i Göteborg och Stockholm | AF ly godkännande av Europarådskonvention om utlänningars delaktighet ...mmmmsssssssresererrrsrensrrnrrnnrnnnnnnnn nn 13 hUSIÄKAre oosoosserereeserersrrsrenerssnrrrererrrnrrrrsrrrrrree rr rer n nr rn nr rann rna Sy kommunal demOKkrati....ssssssssesrrsssernerennennennerersrnernrrnnen rna 4 kommunal vårdnadsersättNiNg............s.ssseeseseoesesnnnnnnnna 4 kommunala valkretsar 6 kommunalt partistöd .... 4 lokal självstyrelse minsssssseseeserreserrseernerrennrsrenernennsnennrnrn nn nn nn 4 valgenomslag i kommunerna, snabbare .................ss00&gt; 4 Ökad KONKUTICNS sosmnssssssssesereereerrerrerrerrrrreennnrrrnrnnrnr rr rr rna 2y KonkurrenslagstiftniNng, NY smsmmsmmessessreserenererrenrsennresrrrrnnnnnnn nan 4y Konsekvensanalyser inför folkomröstningen om EG ........ KontaktaNnNONSEr siosmoseessessessrassessessrenrernrennenrennernrrnrrrnes nr nan nn 2 Kontrollmakt, riks ageNS....sssssesseereessrrerresressrerrrsrrnnennenn renarna 2 Kungl. hov- och slottsstaterna, anslag till.....s...sss..sssssssn&gt; 22 Kungliga slotten, tilläggsbudget I.mnmnsmmmnsssssssessrrssersrsnennnnnnnnn 20 Kyrkliga frågor kyrkoavgift, särskild, övergångsreglering ...................... 14 kyrkoherdetjänster, domkapitels yttrande .................... 14 lagen om Svenska kyrkan, upphävande... 14 prästanställnings upphörande s......ssesssessssressesrrrrsnnrnn nonan 14 Lagvalsregelisssssssssesserseesressranrrrnresrenrrrrrren rese sne sne nr e nen n renen nn ly Landskapsvapen 7 Landstingen ................... 4 Ledamotsservice 9 Ledamöter i statliga utredningar, ersättning till................. 3 LikställighetsprinCip€N.......sssssssssesseonesneenernernenernerernenernen nn nnn 2y Livsåskåd ningsfrihet m......ssssssessseosseresresesrererrsrnrsrrnenerener eran nanna 2 LokalradiO, PliVåbssssmssssserrersrssresrrerrersrrrrrrerrenn rr erna ennen rn rn rna 15 LänsdemoOkraåtiossnmsnnssrsnereesreneerserresrersrarrerrerernennererrenren en nrn anna nan 4 LÄNStiNQ oosoesseresrerresrerresrerereerrerrenrerenennrrrrerrer renen en er nere rn enar ennen nn 4 Löner till riksdagsledamöterna 9 Malmöhus län, valkretsindelningen su ommmmeesserrresserersrsnrsnnnnn 28 Mandatperiode€nD....sssssssrerersrsnesreresneserrnrrrerrernernnnner nere renen nnn nn nen 5 INA [76 EV ATS RR 7 Medborgarkontrakt ................ on 2 Medborgarrättskommission 18 15</p>
-          <p>Meddelarskyddet.....ssssnsssoresssneresserrerernerernerrnrerrnnrrernrernnrnn rna nan 11, 38, ly</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_KU/reg_199293_KU-015.pdf"/>
-          <p>Myndighetsstyrelser ..snmnnmmsssooosranann sissrarrraras sansa ass en annan annan na MyndighetsUutÖVNilg.....sesssesessrererressersererensrrrrsrrerererrrrrrrnnnnn rna Målsättning, övergripande för lättläst information och |itteratUr ooososeessrersserrrrsrresrrrnrrrrrsrrsener renen nns rer n enn annan enes n seen n nanna Målsättning, övergripande för Presstödsnämnden.............. Målsättning, övergripande för Taltidningsnämnden ..........</p>
-          <p>Negativ föreningsrätt</p>
-          <p>NOMineringSsrätt€lhb.....sssssssssresseseereneennennernennrn nn</p>
-          <p>Nordiska rådet, andel i gemensamma kostnader ................</p>
-          <p>Nordiska rådets svenska delegation</p>
-          <p>Anslag tillossonsossssessssssesrrsoresrerrrerrrrnnrennrrrn nr nan</p>
-          <p>PES oooeerresessesresersrenrereenesreneenrenernennernen nr ennrn nn nn</p>
-          <p>förordningsmotiv, användningen av..........</p>
-          <p>lagstiftningen och de utomlands bosatta svenskarna.... normgivningsbemyndiganden, redovisning av</p>
-          <p>riKSCAgZCNS oooooseesererrrersresereerrerrerrrernrnrrrrrnnrnnn rna regelrefOrmMerilg.....mssssossenseenrnsrennnennn nero nnn nn NådeinstitUutet.......ssssssssssoseseseneenesenennennnnnnnnnennnn Näringsfrihet ssmmsssssssresrenessrersrerrrerrennnenrnrrnnrnnn nn</p>
-          <p>OffentlighetsprinCipenN sm. smmmssseseesessesersrennennnnnnna Offentligt belöningssystem, reformerat ........... Opinionsundersökningaåar s....ssssssssseessresrrnnnernnnn OrdenSsväsendet.....snsssessesesesranerseenennennennennrnnnnnnnnn</p>
-          <p>P-tjälSt€roossssseereesrrerrrerrerrerrrrsrrerrerrnrrrrennrrnnnrrnnnn nn Partibeteckningar, utnyttjandet av...................</p>
-          <p>Partier, stöd till</p>
-          <p>PartiStÖG......sssssssosssssesrersrerssresereesserrrsrrrernnnnrnnnnn nn</p>
-          <p>Personalföreträdare i myndighetsstyrelse, arvode till......... Personnummer, förväxlingsrisk vid användning av...........</p>
-          <p>PersOnvalssssssssseessresnenrrnnnn na Politisk åsiktsregistrering</p>
-          <p>Politiska förtroendeuppdrag, ledighet för ....... Politiska partier, stöd till. osssmmmmsssssssssennrrnnnn nn PFreSStÖGssssssesrresresrererrenrrenrenrrrrernnrrnnennrnnrnrnnn nn nn nn nn</p>
-          <p>Radio- och kassettidningar, anslag till.............</p>
-          <p>Radio- och TV-frågor</p>
-          <p>finländska televisionsprograM....................</p>
-          <p>innehållet i privat lokalradios sändningar närradions ställning</p>
-          <p>2,11, 38,</p>
-          <p>3 2y</p>
-          <p>1992/93:KU Reg.</p>
-          <p>16</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_KU/reg_199293_KU-016.pdf"/>
-          <p>privat IOKkalraCdiO smsmmmmssssresrsennesrenreneenreneneenenenen ennen ene r nen nn nn satellitsändningar av TV-program. .....sssssesssssessnernnennnnnnn styrelsen för lokalradiotillstånd sändning av grannländers rundradioprogram från</p>
-          <p>sändare i SVCIIgC ssmnmsssosrerersreererreesrerserrrrrrerrerrnnnrnrrnrnn nn nn nn sändningsområden för privat lokalradio ................------- sändningstillstånd för privat lokalradio .............-.-------- åtgärder mot rasism i närradio........</p>
-          <p>överklagande av vitesföreläggande överklagande i fråga om sändningsområdenas OMfallNilgooooeoeseeeeessereererrrrerrrrennrrrrrrr ren rrrn nanna nen nro ns n arna nn Rasism i närradio, åtgärder mot ens skydd MOLtosossssssessreserrerererseerererrerrsrrrrrrrrerrernennrrrnn rn enar n nn rann RegelrefOrmeriNg...smsssseeesrerreseenreseerneersennenrerenenenernnnenen ennen nn nn nn</p>
-          <p>Regionala och kommunala frågor antal ersättare för ledamöter i kommunfullmäktige....</p>
-          <p>barnomsorg, enhetliga regler fÖr s.smmmmmssssssssesrerensnennnnnnn benämningen StaCl...sssmmsssssoreresrenrenrenenernenenenennnnenen ennen nn nn brukarinflyta de .smmnsssssssssresrerrrrssrenerrrsensennennnn ennen nennr nn nn nn</p>
-          <p>direktvalda stadsdelsnämnder i Göteborg och StOCKHOLM ooooosesesrrssrrersrenrrrsrrrnrrennarnnrnn arr nan erna renen ennen enn n enn kommunal demOkraåti.....ssmnnnsssesrsrreserresrensrennennnennesnnernn nana kommunalt partistöd .....mmmmssesrresrersererennesrenennennennnnnnn nonan kommunal vårdnadsersättniNg............esseesesesnesenesnnnnnn Kristianstads och Malmöhus län, alternativ ledningsOrganiSatiON susmmmmssssssrresrereresrserrsrererrenennnrnen nan nn nana laNCStiNgeN ooooesssesereerrrerrererrerrrrrsrrennrnrrenrenren ennen ennen nerna nen nen ledighet för politiska UPPCrAG....smsmssereesesrenesnrsnerernnnnnen nen lokal självstyrelse mssssssessseesresseeserssrennrnnennenennrnn ennen ennen nn läns/regionparlament.. länsdemOKratiossssmsssssrseesrrrererreensrrarnsnrsnnnenn een esnnenn nen renar nn nn LäÄNStillg oosoesesreeresrrenrenreneerreneenenn een esn ennen renen een ens nrn ennen nen narr nn revisorer för kontroll av kommunal verksamhet, auktoriserade slosssssssssreesrrrrerrrrersrrrrnnrrsrnrrnnrerernnnsnn eran enn nan samordnad regional förvaltNiNg........eeeeememensessnnn snabbare valgenomslag i KommUnNErNA .seneeesrenernnnnn ökad regional demOkraåti.........s.ssssesseseseeserenernennenernnnnnnnn Reklam</p>
-          <p>finlänska televisionSprOgfäall.u...ssmmsmssessesesresenrenrennrnrnn nana i satellitsända TV-program ssmmmmsesresreesesrerrerrnrernennnn nn anna Representation, alkohOlffi sm .smnmmmssrssresesnenrenenenenennenenenennennnnnnn Revisorer för kontroll av kommunal verksamhet, AUkKtOriSEraC€..sssseeserrrrererreesnrernnnnrrnrnnrernnnennrern nen rrnnren nen nr enn nn nn a Riksbankens jubileumsfond, val av stiftelsens styrelse....... Riksdagen andel i gemensamma kostnader för Nordiska rådet,</p>
-          <p>15 12 15</p>
-          <p>19 15 15 15 15</p>
-          <p>ee me SS SA Re RR — e Re se me RB</p>
-          <p>Se RR</p>
-          <p>29 29</p>
-          <p>1992/93:KU Reg.</p>
-          <p>17</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_KU/reg_199293_KU-017.pdf"/>
-          <p>anslag till ledamöter OCh partier .........s.ssssesssrssennnnnnnnnnnnn 29 1992/93:KU Reg.</p>
-          <p>anslag till riksdagen och dess myndigheter................... 29 arbetsformer 9 Dar ntillSYyn sosssssssesssssrresesererernnrrrererrrarr enn rrsrrer rn rrennrnn ner n nr nan 29 EES-uUtskOttet ......sosesssssseorsenesesernerenenennnenenrenenerenennnnenennrnnnn 16 EFTA-delegationen, val fill... oomsssssssseseseeseesenennnnnnnnnnnn 16 ersättning till Olof af Forselles, fråga OM .............ossosnnn 29 Europarådets svenska delegation, val av .... 16 frågeStUNder sossssssesseresssresesreserrenernennenesnensennen enar en eran anar en rna 16 förlagsverksamhet, anslag till smsmmmmmmssssssssesssenenenrnnnnnennnr 29 förslag från riksdagens revisOrer s.....ss.ssesesessssesenensnsnnsnnn 1 förvaltningskontorets verksam hetsberättelse................. 10 förvaltningskostnader, anslag till .... 29 informationssystemet Rixlex 32 justitieombudsmännen, anslag till. ssmsmmmmsmssessseressnnsnnnn 29 kanslichefStjälSter ssmmsssssssessrsssrerssrennrensrenennrrrnrsrennnrn rn enn nn 31 leda MOtSSErViCe ooooseseerenesrererreserrenern ennen ene en aren renarna nano nn 9 löner till leda MÖterNa sm..mmmmmsseresesenrnrnrnesensnsnren ennen ennen enn 9 Nordiska rådets svenska delegation ............seseessessnsnsnn 16 Nordiska rådets svenska delegation, anslag till............. 29 ombildande av vissa tjänster oo 31 registrering av ledamöternas ekonomiska intressen..... 9 remittering av Vissa äreNndenN.....smssssssssesessrenennsnenernsnnnnnn 16 riksdagen och normgivningsproOCeSSeN...........eee---+=-- 1 riksdagens byggnader s...mmmmssesssreseerenerrenesenenenesnrnrnnnnnnnn anna 33 riksdagens information ....... - 9 riksdagens kontrollmakt 2 riksdagens tillgänglighet för handikappade .................. 9 riksdagens val av ViSSa OIgåD smumsmsesssssresesnresesernnnnernrnnennnn 16 riksdagens ÖPPNANdE sosssssseresrerserenserenresenrnn ennen ernnn nen nen 9 riksdagsledamöternas antal....... ena 5 riksdagsledamöternas arvoden 21 riksmötets avslutande, följdändringar till tidpunktsändrinNg ......ssssessesserersrerssrarsnerrnrnenr rann ern ennen enn nar 16 skolmat i riksdagsrestaUuranNgen smessmmmseeesrreseeessnnnnnnnnn 9 SPIåÅKVåÅLA ooossosesrenerersesesenerersrserserenensnnerersrrnen rn enn nn rerna rna rna 9 Stiftelsen Riksbankens Jubileumsfond, val av TAC ST &amp; Vr 16 val till gemensamma parlamentarikerkommittén........ 16 val till riksdagens utskOtt.............ssssesesessesssonsennnennnrnnnnnnn 9 valprövningsnämndens sam mansättning...................-.. 9 ändrad placering av ledamöterna i kammaren............. 9 Riksdagens ombudsmän, ämbetsberättelsen........................ 8 Riksdagsutskottens resor .. 29 RiXl€X ooosseeseererneserenrersnnerserennnrnnrrerrrrnrrrrrrnrrnrenner rr nen rnn rann n nn nn 32 RättlSprÖVDiNG.sssssesresereseseerrereerrsrsressrnrsnrresrrrnnsnnernnen ren rr n rens nen 3 Rättssäkerhet s...nnnsnnsoseserrereereresrererrerneeresrenesrsrsrsrener en enar nn nn nn nn nn 2 RÖSträttSregler s.snnnnnsussesesrsrsrerererenesenenernerenenresereren sne ensn renen nen 5</p>
-          <p>18</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_KU/reg_199293_KU-018.pdf"/>
-          <p>Samefrågor anslag till sametinget ................. definition av vem som är same</p>
-          <p>ILO:s konvention om ursprungsfolk M.M. ..........eee- röstlängd för SametingSVal msmssssssssssesrsserenrsnnsnrnrrnrnnnnnn rösträtt för SaMetiNgSvVal...ssmsmsssssssssssrrsrrserrenernrsnrnnrnrnnn nn SAMECLiNGosooeeeresreererserresererrsenrrerrenrrrrrrrrrnrrrrnrnn enn rrn nen n rn rn nn nen SAMErNAS Fättsnossssssrsseererrsrenrerrererrrrrerrrrnrernernenrrr renen ennen ann samiskt SPråk ommsnssssssrsseressneseresrerereerernennerenenenennnnen enar en rna nn val till SaMetiNget mssnmsssessressesseereresrrrnrnrrenernnrnn rer nrnnrnnrn nn nn</p>
-          <p>Samhällsinformation</p>
-          <p>Satellitsändningar av TV-program</p>
-          <p>andel europeiska PrOgralM....mssssssssssssorsossrnenrsnsnrnrnennnenenn DeriktigaNde sosmsssssessereerrersrnnrrsrrsrsrrrsrrrrnnrennrrn nen r enn sn nen rn erna lagstiftning OM ssomessssessseeseerereereereenesrrrnnnerennenernrrnen renen rann nn regler som hindrar vidarespridning............ssesesesnnn</p>
-          <p>reklam Sekretesslagen</p>
-          <p>asyl- och utlämningsärenden......ssssssessssesrsresresrsnrnnsnsnnnn barnpornOgrafl........ssssssssessesresesresnesrernnrrrennrrrsner nan er nrn nr nn nn</p>
-          <p>folkbokföringssekreteSS€nN sm. mmsosssssserssesesnesnensenernnrnrnrnnnen privata donationsfOnder s......ssssessesesersrseserrenrsnernernrnennnnnn</p>
-          <p>sjukförsäkringsregister .... uppgift om föräldraskap . utrikessekretess våldsskildringar</p>
-          <p>SjukförsäkringSsregiSter .......sssssssessorsorsneesnrennenesrenernnsnennnnrnenenn Skolmat i riksdagsrestaUraN gen ..mmmsssssosseresnesneorennsnesnsnnnnnnnr SPIåKVåLA oossosesrsrsrsesesrosrserserersrrernerenenenenenerrnnenensnsnn ense enar nnn enn nnn Stad, benämningen ssmmmsssssreseerensesenrenresresrrernennenernennrnnsnen enn nn nn</p>
-          <p>Stadsdelsnämnder, direktvalda i Stockholm och</p>
-          <p>GÖLEDOTLQosoesreresreseererrerenrererrenerren ner err enn esn rr n nr ene nrr ennen nen n ennen</p>
-          <p>Statlig förvaltning</p>
-          <p>alkoholfri representatiOnN ..........ssssesssresserssensersrennrnnrnnnnnnn arvode till förtroendevalda .....sssssssressererrsrnernrnnnrrnnnnrnnnnnnn</p>
-          <p>arvode till personalföreträdare i myndighetsstyrelse.... ersättning till ledamöter i statliga utredningar ............ fri tolkSErViCe ssssseseesessresernsresersrrrrsrrerrrenrrrrrsr nr n rn rn annan nn kontroll och inspektion av icke offentlig verksamhet, avgifter s.smmmmssessssssesrersrrerenrrrrrerrerrrrrnrnnrn nn rann medborgarrättskommission ... NådeinstitUtet .....ssssssosssesresesrrnrrrsrererrrrsrnrrrererrernrernnnen nn anna nnn personnummeranvändning, förväxlingsrisk vid ........... rättsprövningslagen, ändring I..omnssssssssseseeseerersenrsrernrnnnnn spridning av betalningsperioder..............ssssssesssssssrsnnnen statliga verks- och myndighetsstyrelser.......................-.-</p>
-          <p>11, ly</p>
-          <p>11</p>
-          <p>3,18</p>
-          <p>1992/93:KU Reg.</p>
-          <p>19</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_KU/reg_199293_KU-019.pdf"/>
-          <p>subsidiaritetSprinCipeN ...smsssssssressesersrserernnenennrnnrrnrnnn nens tidsfrister för inkrävande av uppgifter.....................---.- åtgärder för att underlätta kontakterna med MYNdigheterNa..ssmmsssssseesserssserrsersesen seen nrrsrrr renen enn nr rna nn nn Statlig kreditgaranti till dagspressen, anslag till.................- Statliga verks- och myndighetsstyrelser ..........s.sssssosoesesnenenn Statsråd, arVOCCN....ssosmssssssseessesreesresnenrenerennnernenn nan orena norr n rna ann Styrelser, statliga verk och myndigheter s....m.ns.sssssosenennennnnn Stöd till politiska Partier. ....sssssssssesrrererssrererrrnnrnrsnrnnernnrn nn nn SubsidiaritetsprinCipenN s..mmmsssssssrseesrensressreserrsernnnnn nen nnnn nn nen nn Svenska kyrkan, lagen OM summsmmmsmrsrssrerrrsrenesesessersnenrererrrnnrnnnn</p>
-          <p>Taltidningsnämnden, anslag till.snmmnsmmmmssssssrsersrenesrsnrernsnsnnnnnn Telefonavlyssning, skydd mot hemlig.........ssssssessssesssesnnsnnnnn Telefonkontakter mellan allmänheten och</p>
-          <p>Uppdrag, ledighet för politiska sm..smmmsmsssssessssnrnesnenrsnnrnnnnsnnnn Uppdragsverksamhet, myndigheternas ........ssssssesorsnnsnnnnnn Uppgift om föräldraskap. ....ssssesesssesresesonessnsnrenrsnesnrrnrrennnnnn Uppgift, skyldighet att lämna smmmmmsnesesssrsserenroeneenenenennenerennnnn Uppgifter, tidsfrister för inlämnande av....msmssesssrserensnnennne Uppskov till 1993/94 års riksmöte med behandlingen av vissa ärenden ..................</p>
-          <p>Utlandsröstning Utvecklingsstöd till dagspressen, anslag tilli................-.+---- Val, anslag till allmänna musmsmmsessessesererereererrrnrenrrernernnrnrrnnrnnn Valfrågor DrevrÖStNiNg sssssesseessesrernnenrrenrenrennnsnnrrnnernrnnnnnn ennen nn n rn nn kommunala valkretsar s.smmmmnsssseseessrenererernesnnnennsnnnrnnrnnnn nt</p>
-          <p>kyrkliga Väl onosmmssesssrssesenesnsnenenenesnereneresnenrnerennensnsnenennn nn nn legitimationskontroll i vallokal mandatperiodens längd s.mmmmmmsosssorererenrsrsenrensnsnsnennrnnn enas partibeteckningar, utnyttjandet av ...............soseeesrnenennnn PErSONVAL ooo oooeeeeeressessreerserereresrerrnnnerrrerrrrr ennen rn nr enn rn n enn nn riksdagens val av viSSa OIgåN memmmsessesessesesennnenerennennnnnnnnnn röstlängd för SametiNgSVval mssmmmmsssreessrersrenesnenrnnnrrennnnnnn rösträtt vid SametiNngSVal m.osmmmsssssserrassresersennrnennnrrn nr rann nn nn rösträttsregler ..... skilda valdagar utlaändSrÖStNiNg ssmmseeseesseeserrrerrseesresrrrnrrerernenn nens enn rr sena n anna val till riksdagens utskOtt............s.ssssosseoseseonnennsnnnnnnnnn anna val till SaMCtiNg sosmnsseseesseeessrersrernsrrrresrerenrrrnrr rn nr n eran n nn nn nn valhemligheten i små valdistrikt...............s.ssssssssssnnsn0nn</p>
-          <p>valkretsindelningen i Malmöhus län... ..onnmnmmsssssrnenennnnnn</p>
-          <p>3 3</p>
-          <p>1992/93:KU Reg.</p>
-          <p>20</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_KU/reg_199293_KU-020.pdf"/>
-          <p>valkretsindelningen i Malmöhus län. .nosmsmmrnerreereennn vallokalers tillgänglighet för handikappade.................. valprövningsnämndens sam mansättning.......................</p>
-          <p>överklagandetider ........</p>
-          <p>Valgenomslag i kommunerna, snabbare sm msmmmmmeensenrnnnnnsnnn Valkretsindelningen i Malmöhus län su osmmmmssresrerresresrerennnnnn</p>
-          <p>Verksstyrelser ..........ooso0oo0nnn Våldsskildring, sekretess ... Vård, patienters rätt till..... Vårdnadsersättning, kommunal</p>
-          <p>Yrkesfrihet..........................</p>
-          <p>Åsiktsregistrering, politisk Åtgärder för att stabilisera</p>
-          <p>Äganderätt ..........................</p>
-          <p>Övergripande målsättning Övergripande målsättning Övergripande målsättning information och litteratur</p>
-          <p>den svenska ekonomin ............</p>
-          <p>för Presstödsnämnden.............. för Taltidningsnämnden .......... för utgivningen av lättläst</p>
-          <p>28 6</p>
-          <p>27</p>
-          <p>27</p>
-          <p>1992/93:KU Reg.</p>
-          <p>21</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_KU/reg_199293_KU-021.pdf"/>
-          <p>gotab 44000, Stockholm 1993</p>
+          <p>
+            Konstitutionsutskottets register vid AS
+          </p>
+          <p>
+            riksmötet 1992/93 a
+          </p>
+          <p>
+            1992/93 KU Reg.
+          </p>
+          <p>
+            Betänkanden
+          </p>
+          <p>
+            Nr KU1 Riksdagen och normgivningsprocessen med anledning av förslag
+            från riksdagens revisorer, m.m. (förs. 1991/92:19) Utskottets
+            justering 1992-10-08 Förslag till beslut: Delvis bifall till förslaget
+            såvitt avser skyldighet för kommuner och landsting att publicera
+            sina författningar samt förslaget och en motion såvitt avser redovisningen
+            av riksdagens normgivningsbemyndiganden. I Övrigt avslag.
+          </p>
+          <p>
+            Debatt i kammaren 1992-11-04 Protokollsnhummer 1992/93:16 Riksdagens
+            beslut: Bifall till utskottets hemställan 1992-11-04 Protokollsnummer
+            1992/93:16 Riksdagsskrivelse 1992/93:5, 6, 7 Nr KU2 Fri- och rättigheter
+            m.m. Utskottets justering 1992-10-08 Förslag till beslut: Avslag
+            på samtliga motioner. Debatt i kammaren 1992-11-04 Protokollsnummer
+            1992/93:16 Riksdagens beslut: Bifall till utskottets hemställan
+            1992-11-04 Protokollsnummer 1992/93:16
+          </p>
+          <p>
+            Riksdagsskrivelse -
+          </p>
+          <p>
+            Nr KU3 Statlig förvaltning m.m. Utskottets justering 1992-11-05
+            Förslag till beslut: Avslag på samtliga motioner. Debatt i kammaren
+            1992-11-19 Protokollsnummer 1992/93:27 Riksdagens beslut: Bifall
+            till utskottets hemställan 1992-11-19 Protokollsnhummer 1992/93:27
+            Riksdagsskrivelse -
+          </p>
+          <p>
+            1 Riksdagen 1992/93. 4 saml. Register
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_KU/reg_199293_KU_0001"/>
+          <p>
+            Nr KU4 Regionala och kommunala frågor Utskottets justering Förslag
+            till beslut: Delvis bifall till en motion rörande antalet ersättare
+            för ledamöter i kommunfullmäktige. Avslag på Övriga motioner.
+            Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till
+            utskottets hemställan Protokollsnummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr KUS Författningsfrågor Utskottets justering Förslag till beslut:
+            Bifall till två motioner rörande grundlagsreglering av utlandssvenskarnas
+            rösträtt. Avslag på Övriga motioner. Debatt i kammaren Protokollsnummer
+            Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer
+            Riksdagsskrivelse
+          </p>
+          <p>
+            Nr KU6 Valfrågor, m.m. Utskottets justering Förslag till beslut:
+            Bifall till motion om brevröstning och motion om överklagandetider
+            i vallagen. Avslag på övriga motioner. Debatt i kammaren Protokollsnummer
+            Riksdagens beslut: Bifall till utskottets hemställan Protokollshummer
+            Riksdagsskrivelse
+          </p>
+          <p>
+            Nr KU7 Allmänna helgdagar, m.m. Utskottets justering Förslag
+            till beslut: Avslag på samtliga motioner. Debatt i kammaren Protokollsnummer
+            Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer
+            Riksdagsskrivelse
+          </p>
+          <p>
+            Nr KU8
+          </p>
+          <p>
+            1992-11-05
+          </p>
+          <p>
+            1992-11-19 1992/93:27 1992-11-19 1992/93:27 1992/93:20
+          </p>
+          <p>
+            1992-11-12
+          </p>
+          <p>
+            1992-11-25 1992/93:31 1992-11-25 1992/93:31 1992/93:31
+          </p>
+          <p>
+            1992-11-10
+          </p>
+          <p>
+            1992-11-25 1992/93:31 1992-11-25 1992/93:31 1992/93:32
+          </p>
+          <p>
+            1992-11-17
+          </p>
+          <p>
+            1992-12-02 1992/93:36 1992-12-02 1992/93:36
+          </p>
+          <p>
+            Justitieombudsmännens redovisning av sin verksamhet till
+          </p>
+          <p>
+            1992/93 års riksmöte m.m. (redog. 1992/93:JO1) Utskottets justering
+          </p>
+          <p>
+            1992-12-08
+          </p>
+          <p>
+            1992/93:KU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_KU/reg_199293_KU_0002"/>
+          <p>
+            Förslag till beslut: Redogörelsen lagd till handlingarna. Avslag
+            på samtliga motioner.
+          </p>
+          <p>
+            Debatt i kammaren 1992-12-15 Protokollsnummer 1992/93:45 Riksdagens
+            beslut: Bifall till utskottets hemställan 1992-12-15 Protokollshummer
+            1992/93:45 Riksdagsskrivelse 1992/93:116 Nr KU9 Riksdagsfrågor
+            Utskottets justering 1992-11-24
+          </p>
+          <p>
+            Förslag till beslut: Delvis bifall till motion om valprövningsnämndens
+            sammansättning. Avslag på övriga motioner.
+          </p>
+          <p>
+            Debatt i kammaren 1992-12-02 Protokollsnhummer 1992/93:36 Riksdagens
+            beslut: Bifall till utskottets hemställan 1992-12-02 Protokollsnummer
+            1992/93:36 Riksdagsskrivelse 1992/93:37 Nr KU10
+          </p>
+          <p>
+            Riksdagens förvaltningskontors verksamhetsberättelse (redog.
+            1992/93:RFK1) Utskottets justering 1992-11-24 Förslag till beslut:
+            Redogörelsen lagd till handlingarna. Avslag på motionen.
+          </p>
+          <p>
+            Riksdagens beslut: Bifall till utskottets hemställan 1992-12-02
+            Protokollsnummer 1992/93:36 Riksdagsskrivelse 1992/93:38 Nr KU11
+            Ändringar i sekretesslagen (prop. 1992/93:120) Utskottets justering
+            1992-12-03
+          </p>
+          <p>
+            Förslag till beslut: Bifall till propositionen. Avslag på samtliga
+            motioner.
+          </p>
+          <p>
+            Debatt i kammaren 1992-12-10 Protokollsnhummer 1992/93:42 Riksdagens
+            beslut: Bifall till utskottets hemställan 1992-12-10 Protokollsnummer
+            1992/93:42 Riksdagsskrivelse 1992/93:77 Nr KU12
+          </p>
+          <p>
+            Lagstiftning om satellitsändningar av TV-program (prop. 1992/93:75)
+            Utskottets justering 1992-12-03 Förslag till beslut: Bifall till
+            propositionen. Avslag på samtliga motioner. Debatt i kammaren
+            1992-12-15 Protokollsnhummer 1992/93:45 Riksdagens beslut: Bifall
+            till utskottets hemställan 1992-12-15
+          </p>
+          <p>
+            1992/93:KU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_KU/reg_199293_KU_0003"/>
+          <p>
+            Protokollshummer 1992/93:45 Riksdagsskrivelse 1992/93:117 Nr
+            KU13
+          </p>
+          <p>
+            Godkännande av Europarådets konvention om utlänningars delaktighet
+            i samhällslivet på kommunal nivå (prop. 1992/93:104)
+          </p>
+          <p>
+            Utskottets justering 1992-11-26 Förslag till beslut: Bifall till
+            propositionen. Riksdagens beslut: Bifall till utskottets hemställan
+            1992-12-09 Protokollsnummer 1992/93:41 Riksdagsskrivelse 1992/93:64
+            Nr KU14 Vissa kyrkliga frågor (prop. 1992/93:85) Utskottets justering
+            1992-11-26 Förslag till beslut: Bifall till propositionen. Riksdagens
+            beslut: Bifall till utskottets hemställan 1992-12-09 Protokollsnhummer
+            1992/93:41 Riksdagsskrivelse 1992/93:65 Nr KUI1S Privat lokalradio
+            m.m. (prop. 1992/93:70) Utskottets justering 1993-02-09
+          </p>
+          <p>
+            Förslag till beslut: Bifall till en motion rörande avgifter för
+            närradiosändningar. Delvis bifall till propositionen och en motion
+            om regeringens förslag till lokalradiolag, en motion om sändningsområden,
+            propositionen om regeringens förslag till lag om ändring i radiolagen
+            (1966:755), propositionen och en motion rörande regeringens förslag
+            till lag om ändring i närradiolagen (1982:459) utom såvitt avser
+            10 c $ och 10 d $, samt propositionen om regeringens förslag till
+            lag om ändring i lagen (1991:1559) med föreskrifter på tryckfrihetsförordningens
+            och yttrandefrihetsgrundlagens områden. Avslag på propositionen
+            och motionerna i Övrigt. Initiativ till mom. 10—13.
+          </p>
+          <p>
+            Debatt i kammaren 1993-02-24 Protokollsnummer 1992/93:67 Riksdagens
+            beslut: Bifall till utskottets hemställan 1993-02-24 Protokollsnhummer
+            1992/93:67 Riksdagsskrivelse 1992/93:168 Nr KU16 Riksdagens val
+            av vissa organ Utskottets justering 1992-12-08 Förslag till beslut:
+            Bifall till initiativ. Riksdagens beslut: Bifall till utskottets
+            hemställan 1992-12-17 Protokollsnummer 1992/93:47 Riksdagsskrivelse
+            1992/93:143
+          </p>
+          <p>
+            1992/93:KU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_KU/reg_199293_KU_0004"/>
+          <p>
+            Nr KU17 Sameting m.m. (prop. 1992/93:32 bil. 1) Utskottets justering
+            1992-12-03 Förslag till beslut: Propositionen lagd till handlingarna
+            vad gäller genomförande och kostnader som inte omfattas av regeringens
+            förslag till sametingslag samt betr. samiskt språk, i Övrigt bifall
+            till propositionen. Avslag på samtliga motioner.
+          </p>
+          <p>
+            Debatt i kammaren 1992-12-15 Protokollsnummer 1992/93:45 Riksdagens
+            beslut: Bifall till utskottets hemställan 1992-12-15 Protokollsnummer
+            1992/93:45 Riksdagsskrivelse 1992/93:114 Nr KU18 Statliga förvaltningsfrågor
+            Utskottets justering 1993-04-13 Förslag till beslut: Avslag på
+            samtliga motioner. Debatt i kammaren 1993-04-29 Protokollshummer
+            1992/93:102 Riksdagens beslut: Bifall till utskottets hemställan
+            1993-05-05 Protokollsnummer 1992/93:105
+          </p>
+          <p>
+            Riksdagsskrivelse -
+          </p>
+          <p>
+            Nr KU19 Sändning av grannländers rundradioprogram från sändare
+            i Sverige (prop. 1992/93:113)
+          </p>
+          <p>
+            Utskottets justering 1992-12-03 Förslag till beslut: Bifall till
+            propositionen. Riksdagens beslut: Bifall till utskottets hemställan
+            1992-12-15 Protokollsnhummer 1992/93:45 Riksdagsskrivelse 1992/93:118
+            Nr KU20
+          </p>
+          <p>
+            De kungliga slotten — tilläggsbudget I (prop. 1992/93:105 bil.
+            1)
+          </p>
+          <p>
+            Utskottets justering 1993-02-23 Förslag till beslut: Bifall till
+            propositionen. Riksdagens beslut: Bifall till utskottets hemställan
+            1993-03-10 Protokollsnummer 1992/93:72 Riksdagsskrivelse 1992/93:181
+            Nr KU21 Riksdagsledamöternas och statsrådens arvoden Utskottets
+            justering 1993-03-09 Förslag till beslut: Delvis bifall till samtliga
+            motioner. Debatt i kammaren 1993-03-17 Protokollshnhummer 1992/93:77
+            Riksdagens beslut: Bifall till utskottets hemställan 1993-03-17
+            Protokollshummer 1992/93:77 Riksdagsskrivelse 1992/93:190, 191
+          </p>
+          <p>
+            1" Riksdagen 1992/93. 4 saml. Register
+          </p>
+          <p>
+            1992/93:KU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_KU/reg_199293_KU_0005"/>
+          <p>
+            Nr KU22 Kungliga hov- och slottsstaterna (prop. 1992/93:100 bil.
+            2) Utskottets justering 1993-03-18 Förslag till beslut: Bifall
+            till propositionen. Avslag på samtliga motioner.
+          </p>
+          <p>
+            Debatt i kammaren 1993-03-31 Protokollshummer 1992/93:87 Riksdagens
+            beslut: Bifall till utskottets hemställan 1993-03-31 Protokollsnhummer
+            1992/93:87 Riksdagsskrivelse 1992/93:234 Nr KU23 Anslag till Datainspektionen
+            (prop. 1992/93:100 bil. 3) Utskottets justering 1993-03-18 Förslag
+            till beslut: Bifall till propositionen. Riksdagens beslut: Bifall
+            till utskottets hemställan 1993-03-31 Protokollsnhummer 1992/93:87
+            Riksdagsskrivelse 1992/93:235 Nr KU24 Stöd till politiska partier
+            (prop. 1992/93:100 bil. 3) Utskottets justering 1993-03-18
+          </p>
+          <p>
+            Förslag till beslut: Bifall till propositionen. Avslag på samtliga
+            motioner.
+          </p>
+          <p>
+            Debatt i kammaren 1993-03-31 Protokollsnhummer 1992/93:87 Riksdagens
+            beslut: Bifall till utskottets hemställan 1993-03-31 Protokollshummer
+            1992/93:87 Riksdagsskrivelse 1992/93:236 Nr KU2S Anslag till allmänna
+            val (prop. 1992/93:100 bil. 3) Utskottets justering 1993-03-18
+            Förslag till beslut: Bifall till propositionen. Riksdagens beslut:
+            Bifall till utskottets hemställan 1993-03-31 Protokollshummer
+            1992/93:87 Riksdagsskrivelse 1992/93:237 Nr KU26 Anslag till Sametinget
+            (prop. 1992/93:100 bil. 9) Utskottets justering 1993-03-18 Förslag
+            till beslut: Bifall till propositionen. Riksdagens beslut: Bifall
+            till utskottets hemställan 1993-03-31 Protokollsnhummer 1992/93:87
+            Riksdagsskrivelse 1992/93:238
+          </p>
+          <p>
+            1992/93:KU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_KU/reg_199293_KU_0006"/>
+          <p>
+            Nr KU27 Presstöd m.m. (prop. 1992/93:100 bil. 12) Utskottets
+            justering 1993-03-23 Förslag till beslut: Bifall till propositionen.
+            Avslag på samtliga motioner.
+          </p>
+          <p>
+            Debatt i kammaren 1993-03-31 Protokollsnhummer 1992/93:87 Riksdagens
+            beslut: Bifall till utskottets hemställan 1993-03-31 Protokollsnhummer
+            1992/93:87 Riksdagsskrivelse 1992/93:239 Nr KU28 Valkretsindelningen
+            i Malmöhus län (prop. 1992/93:163) Utskottets justering 1993-03-18
+          </p>
+          <p>
+            Förslag till beslut: Bifall till propositionen. Avslag på samtliga
+            motioner.
+          </p>
+          <p>
+            Debatt i kammaren 1993-04-01 Protokollsnummer 1992/93:88 Riksdagens
+            beslut: Bifall till utskottets hemställan 1993-04-02 Protokollsnummer
+            1992/93:89 Riksdagsskrivelse 1992/93:255 Nr KU29
+          </p>
+          <p>
+            Riksdagen och dess myndigheter m.m. (prop. 1992/93:100 bil. 16)
+            Utskottets justering 1993-04-02 Förslag till beslut: Bifall till
+            propositionen. Delvis bifall till motion om barntillsyn i riksdagen.
+            Avslag på övriga
+          </p>
+          <p>
+            motioner. Debatt i kammaren 1993-04-22 Protokollshummer 1992/93:97
+            Riksdagens beslut: Bifall till utskottets hemställan 1993-04-28
+            Protokollsnhummer 1992/93:101 Riksdagsskrivelse 1992/93:298, 299
+            Nr KU30
+          </p>
+          <p>
+            Granskning av statsrådens tjänsteutövning och regeringsärendenas
+            handläggning (skr. 1992/93:15) Utskottets justering 1993-05-13
+            Förslag till beslut: Resultatet av granskningen anmäls för riksdagen.
+            Skrivelsen lagd till handlingarna.
+          </p>
+          <p>
+            Debatt i kammaren 1993-05-26 Protokollsnummer 1992/93:116 Riksdagens
+            beslut: Bifall till reservation 4 i övrigt till handlingarna med
+            godkännande av vad utskottet anfört 1993-05-26 Protokollshummer
+            1992/93:116 Riksdagsskrivelse 1992/93:349
+          </p>
+          <p>
+            1992/93:KU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_KU/reg_199293_KU_0007"/>
+          <p>
+            Nr KU31 Ombildande av vissa tjänster inom riksdagens förvaltningsområde
+            (förs. 1992/93:RFKS) Utskottets justering Förslag till beslut:
+            Bifall till förslaget. Riksdagens beslut: Bifall till utskottets
+            hemställan Protokollsnummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr KU32
+          </p>
+          <p>
+            Förslag till en lag om personregister i riksdagens
+          </p>
+          <p>
+            informationssystem Rixlex (förs. 1992/93:RFK4) Utskottets justering
+          </p>
+          <p>
+            Förslag till beslut: Delvis bifall till förslaget. Avslag på
+          </p>
+          <p>
+            samtliga motioner. Riksdagens beslut: Bifall till utskottets
+            hemställan Protokollsnummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr KU33
+          </p>
+          <p>
+            1993-05-28
+          </p>
+          <p>
+            1993-06-08 1992/93:124 1992/93:432, 433
+          </p>
+          <p>
+            1993-05-11
+          </p>
+          <p>
+            1993-06-04 1992/93:122 1992/93:402, 403
+          </p>
+          <p>
+            Riksdagens byggnader (prop. 1992/93:100 bil. 16 delvis och förs.
+          </p>
+          <p>
+            1992/93:RFK3) Utskottets justering
+          </p>
+          <p>
+            1993-05-13
+          </p>
+          <p>
+            Förslag till beslut: Bifall till RFK:s förslag. Delvis bifall
+            till propositionen. Avslag på motionerna. Bifall till initiativ
+            betr.
+          </p>
+          <p>
+            lokaldispositionsfrågorna. Debatt i kammaren Protokollsnummer
+            Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer
+            Riksdagsskrivelse
+          </p>
+          <p>
+            Nr KU34
+          </p>
+          <p>
+            1993-06-02 1992/93:120 1993-06-02 1992/93:120 1992/93:367, 368
+          </p>
+          <p>
+            Rundradiosändning av finländska televisionsprogram (prop.
+          </p>
+          <p>
+            1992/93:235) Utskottets justering Förslag till beslut: Bifall
+            till propositionen. Riksdagens beslut: Bifall till utskottets
+            hemställan Protokollsnhummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr KU35 Sjukavdrag för riksdagsledamöter och statsråd Utskottets
+            justering Förslag till beslut: Bifall till initiativ. Debatt i
+            kammaren Protokollsnummer Riksdagens beslut: Bifall till utskottets
+            hemställan Protokollsnummer Riksdagsskrivelse
+          </p>
+          <p>
+            1993-05-04
+          </p>
+          <p>
+            1993-05-26 1992/93:116 1992/93:346
+          </p>
+          <p>
+            1993-05-25
+          </p>
+          <p>
+            1993-06-04 1992/93:122 1993-06-08 1992/93:124 1992/93:434, 435
+          </p>
+          <p>
+            1992/93:KU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_KU/reg_199293_KU_0008"/>
+          <p>
+            Nr KU36 Uppskov till 1993/94 års riksmöte med behandlingen av
+            vissa ärenden Utskottets justering 1993-05-28 Förslag till beslut:
+            Uppskov av del av proposition, en skrivelse och 154 motioner.
+          </p>
+          <p>
+            Debatt i kammaren 1993-06-04 Protokollsnummer 1992/93:122 Riksdagens
+            beslut: Bifall till utskottets hemställan 1993-06-07 Protokollsnummer
+            1992/93:123
+          </p>
+          <p>
+            Riksdagsskrivelse -
+          </p>
+          <p>
+            Nr KU37 Inrättande av parlamentarikerkommitte med anledning av
+            EES-avtalet
+          </p>
+          <p>
+            Utskottets justering 1993-05-25 Förslag till beslut: Bifall till
+            initiativ. Riksdagens beslut: Bifall till utskottets hemställan
+            1993-06-08 Protokollsnummer 1992/93:124 Riksdagsskrivelse 1992/93:436
+            Nr KU38 Offentlighet och sekretess Utskottets justering 1993-05-25
+          </p>
+          <p>
+            Förslag till beslut: Bifall till en motion om folkbokföringssekretess.
+            Delvis bifall till en motion om myndigheternas uppdragsverksamhet
+            och offentlighetsprincipen. Avslag på övriga motioner.
+          </p>
+          <p>
+            Debatt i kammaren 1993-06-04 Protokollsnhummer 1992/93:122 Riksdagens
+            beslut: Bifall till utskottets hemställan 1993-06-07 Protokollsnummer
+            1992/93:123 Riksdagsskrivelse 1992/93:414 Nr KU39
+          </p>
+          <p>
+            Anslag till Styrelsen för lokalradiotillstånd (prop. 1992/93:150
+            bil. 9)
+          </p>
+          <p>
+            Utskottets justering 1993-05-13 Förslag till beslut: Bifall till
+            propositionen. Riksdagens beslut: Bifall till utskottets hemställan
+            1993-06-07 Protokollsnummer 1992/93:123 Riksdagsskrivelse 1992/93:415
+            Nr KU40 Ändringar i sekretesslagen (prop. 1992/93:256) Utskottets
+            justering 1993-05-27
+          </p>
+          <p>
+            Förslag till beslut: Bifall till propositionen och initiativ.
+            Avslag på motionerna. Debatt i kammaren 1993-06-02 Protokollsnummer
+            1992/93:120
+          </p>
+          <p>
+            1992/93:KU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_KU/reg_199293_KU_0009"/>
+          <p>
+            Riksdagens beslut: Bifall till utskottets hemställan 1993-06-02
+            Protokollsnummer 1992/93:120 Riksdagsskrivelse 1992/93:364
+          </p>
+          <p>
+            Yttranden till andra utskott
+          </p>
+          <p>
+            Nr KU1y till EU Europeiska ekonomiska samarbetsområdet (EES)
+            (prop. 1991/92:170) Utskottets justering 1992-08-22 1992/93:EU1
+          </p>
+          <p>
+            Nr KU2y till SoU Okad konkurrens i kommunal verksamhet (prop.
+            1992/93:43) Utskottets justering 1992-11-12 1992/93:SoU9
+          </p>
+          <p>
+            Nr KU3y till FiU Åtgärder för att stabilisera den svenska ekonomin
+            (prop. 1992/93:50) Utskottets justering 1992-11-24 1992/93:FiU1
+          </p>
+          <p>
+            Nr KU4y till NU Ny konkurrenslagstiftning (prop. 1992/93:56)
+            Utskottets justering 1992-12-01 1992/93:NU17
+          </p>
+          <p>
+            Nr KUSy till SoU Husläkare m.m. (prop. 1992/93:160) Utskottets
+            justering 1993-04-20 1992/93:S0U22
+          </p>
+          <p>
+            Nr KU6y till SfU Sjukförsäkringsregister hos de allmänna försäkringskassorna
+            (prop. 1992/93:193) Utskottets justering 1993-05-06 1992/93:SfU
+            19
+          </p>
+          <p>
+            Nr KU7y till JuU Ny ordningslag (prop. 1992/93:210) Utskottets
+            justering 1993-05-06 1992/93:JuU 36
+          </p>
+          <p>
+            Nr KU8y till TU Telelag och förändrad verksamhetsform för Televerket
+            m.m. (prop. 1992/93:200) Utskottets justering 1993-04-29 1992/93:TU30
+          </p>
+          <p>
+            1992/93:KU Reg.
+          </p>
+          <p>
+            10
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_KU/reg_199293_KU_0010"/>
+          <p>
+            Sakregister
+          </p>
+          <p>
+            Affärsverk, bolagisering QV...smssmsesesssesserersesersnnrnrsnsnennennnnenenen
+            Alkoholfri representatiOnN s...sssssssesssrsssssrnssrernerenresnnernernnnnnnn
+            nn AllemanSrättsssmmssssesssressressserereserrersnrnrrrnrrrrnrsrnrerrnernrnnrrnn
+            enn nnn nn Allmänna helgdagar smusmnmsssssssrerserererresrerererrsrrnrerrnnrrsrrnrernnnnnen
+            nn Allmänna val, anslag till.sssmmnssssssessssessrsrssressrrserrsnrsnnrnnnrnnsnnn
+            nt Anslag allmänna VAL ssnsssesesessesseeserrersrsnsrersnernrsrrererrrennsn
+            ene nnnnn enn andel i gemensamma kostnader för Nordiska rådet.....
+            barntillsyn, rikSdagenN .....sssesseseresrsnrrersrrnsnernnrenrrrrnennrnrnennnn
+            Datainspektionen s..smmssssessesrererserrrnnnnrrnn nan distributionsstöd
+            till dagspressen driftsstöd till dagspreSSeN sm..smsmsessessersrsssesrsnennrnerennenerenernnn
+            ersättning till Olof af Forselles, fråga OM ..............s..n0ns
+            förvaltningskostnader för riksdagen och dess MYNdigheternssssssssseserersrersrernrenrrnrerrr
+            nens rernrrrnner nen rann ne nn Kungl. hov- och slottsstaterna
+            kungliga SlOtteN .usmmnsmssssssssrsrsserernsressrnrrsrrrsrrrsnr
+            ere es rsrn rn nr nen LI-StiftelS€N ossssssssesrsrsrsersrennernrerennnnrnrrnrrrrnrennrrn
+            ennen enn n ene nr nn nen Nordiska rådets svenska delegation och
+            kansli............. PICSStÖGssssssesererersrrererrerereerrrenrnrrrrierrrrrrrrnrrnnrsrr
+            rer nnrn nen nnnnn nen Presstödsnämnden och taltidningsnämnden.................
+            riksdagen och dess myndigheter m.m. ssmmmesersesesnnsnnnn riksdagens
+            byggnader sssmmmessessessresererersnesnernrssnsnnrnernrnenenen
+            riksdagens förlagsverksamhet...... riksdagens ledamöter och partier
+            riksdagens ombudsmän, justitieombudsmännen.......... riksdagsutskottenS
+            reSOTr s..smmssssssessrerseresnrrsrsrrersnnnrennnennnn nr SAMECLiNZC
+            ooooossreseresereresrrereesreessrrerrrenersrrerererr ner nnrrrnnn
+            nn nn nen statlig kreditgaranti till dagspressen. .........ssesesssnsnsenensne
+            Stiftelsen för lättläst nyhetsinformation och litteratUr ooosssseseeerreerrrererreserererrrrrrrrer
+            reser rr rrrrnnn ss nns enn nn n rna stöd till politiska partier
+            sm.ossmsmssesssessrrrrenernnrnrnnennrnnnnnnnnenn stöd till radio-
+            och kassettidningar utvecklingsstöd till dagspreSSeN............sssssterssesorsesrsnensrnr
+            Arbetsformer, rikSCdagenNS s..smmmmmsessesserenesrersrerrenerresrnernnrnennnnn
+            nn Arvode till förtroendevalda i statlig verksamhet ................
+            Arvode till personalföreträdare i myndighetsstyrelse.........
+            Arvoden, riksdagsledamöter och statsråd ...............s.s.s-ss-.---
+            Asyl- och utlämningsärenden, sekreteSS .............ssssssssssssnsnn
+            Automatisk giltighet, EES ..snnnnnsmmmsn nns Avgifter för kontroll
+            och inspektion AVtalsfrihet..sssssesseeseressrersrnnresnnsrerrnrrrnnrerrrnernersrrnnrernr
+            nen nr rn nen nn
+          </p>
+          <p>
+            Barnomsorg, enhetliga regler fÖr s....sssssssssssrersrrsrsnsrnnrnnnnnnnnn
+            Barnpornografi, SeKreteSS .msssssssssersrserererersronersrnernnernr
+            ner nn ennen Barntillsyn, riksdagen ssmmmsssssesssssesnsesernresersnnesrrennsern
+            renen rer nnn
+          </p>
+          <p>
+            Belöningssystem, Offentligt s..smm.sssssssssssessseserersbrnsenerernrnnnnnnrnnn
+          </p>
+          <p>
+            40 29
+          </p>
+          <p>
+            1992/93:KU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_KU/reg_199293_KU_0011"/>
+          <p>
+            Beriktigande i fråga om satellitsända TV-program.............
+            Beskattningsmaktellsmmmmmssesssrersssessrssrersrrarsrenrrnrrerrrnnn
+            rr rn nanna Betalningsperioder, spridning av.... Brevröstning
+          </p>
+          <p>
+            Datafrågor hUSIÄäKAre oooseeseesresresrsrererrernesrerererrrnrsrn
+            renen enar en enn r renare nen nn rena personregister i Rixlex,
+            lag om .... publika informationsSyStelM s..mmmsssssssessesssessresrerernennennrnr
+            sjukförsäkringsregiSter s..mmmmmmssssssesrasenenrnenesnenrrnrnerenrnn
+            enn Översyn av datalagen sm.msmmmsssssererrrerernesesenennenen
+            sn nerenrn nn enn Datainspektionen, anslag till.....mmmmsssssssssasesrnsnrsneneenenenennrnnnnn
+            DISKriminNeriNg omsmnsesresreresesreneerernenerrnersnrsenenenen
+            ennen ene renen er r nn en Distributionsstöd till dagspressen,
+            anslag till...............------- Driftsstöd till dagspressen,
+            anslag tilli..ms.s.sssssssessenernennnnnn
+          </p>
+          <p>
+            EES-utskottet ........ssosssossoennennnnnnnn EFTA-delegationen,
+            val av Ersättare, antal i kommunfullmäktige s.mmmmmmssssoreerennennsnnnn
+            Ersättning till ledamöter i statliga utredningar ..................
+            ESK:s parlamentariska församling, utseende av svenska I(Z6 ET
+            8101 Etiska regler i pOlitik€n s.smmmssssoresrensrenersesererrrrnnnnrrnnrnr
+            rinner enn nn Europadagen som flaggdag ..smnmmsrsseeresraerrenrsenrennnrnnnannn
+            nn enn rna Europakonventionen Europarådets konvention om utlänningars
+            delaktighet i samhällslivet på kommunal NiVå .nmmmmessessersreseenrrsrenrerennen
+            nt Europarådets svenska delegation, val av s...mnsessesiorsnsnn
+          </p>
+          <p>
+            Fackliga Stridsåtgärder.............sssssesesessenenenenrenenerenenenenenrnrnrnn
+            nn Finländska televisionsprogram, lagen om radiosändningar äV
+            smessssseessressrersrsrereeneenrrrnnerennnrnn nen nr nerna nn
+            Flaggdagar, allmänna smsmmsssessseeresrererresrrsnrerrernnnnnrnnn
+            enn nen nr nn ran FolkbokföringssekreteSSeh ..mmmmssessesesrresresresrrrnrennrnnnnrnnnnnn
+            nan FOIKkOMFÖStNiNg oosseeeserersrerserrernrerrerrerrerrersrrrrrenrrrrrnnn
+            rann rs rna n rna nan Fri- och rättigheter allemanNSrätt.ossssssssseeseessrrrsrrernesenrernenrrrnrenrrnnrnnn
+            nns n nr snar nen ann avtalsfrihet beskattningsmaktens gränser
+            diskriminering .oommmmsessrerrsrennseseernensennr annen ennnrnnn
+            nn nen n nn rna nn EuropakOonventiON€i s..smmesseresresessrareessensreneinnnnrnrnrnn
+            renarna fackliga Stridsåtgärder..........o.sosesseoeneorsrsrsrsrerrrnrnnnnnnnn
+            nn nan föreningsrätt, negativ fÖräldrarättosssmmmsssssssrerseresrresresrerrrnrnrrernrnnerr
+            nr n een r nn nen r nn ora hets mot fOlkgrUPP a ..sosmmesssessrsresnenresnernrerrrnnnennnrnnnrnnnnn
+            nn nan kontaktaänNONSEr ossssssssesrsseresreseeesreninnnnsrnrsnn
+            rer rnnn ere n nn r nan livsåskåd ningsfrihet .ssnmmnssessssssoeseoesesrerenrnenrnnsnennrnennn
+            nerna medborgarkontrakt ssmssmmmmsssssessesessresesnnnsnrrnnnnnnnnn
+            nn NÄäriNgSfrih€t..sssssssssessrssesssrreessesrrenrrrrsrrernnrrsnnnrn
+            nn nn rn nn rn n nn
+          </p>
+          <p>
+            12
+          </p>
+          <p>
+            34
+          </p>
+          <p>
+            38
+          </p>
+          <p>
+            NNNNNANNNYNNNN
+          </p>
+          <p>
+            1992/93:KU Reg.
+          </p>
+          <p>
+            12
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_KU/reg_199293_KU_0012"/>
+          <p>
+            offentlighet OCh INSYN sm.mmmssssssessessesesesnenrenerren renen
+            nen rn n nen patienters rätt till VårG omsmmnsmmmssssesresesrsnerenenenennenenenen
+            erna nn politisk åsiktsregiStreriNg......msesssssoesesenenenenennenenenenennnn
+            nn FE: SES 4 4 riksdagens kontrollmakt rättssäkerhet Mum. mosossssssessssessererersrernnesnrrernnrernnnsrn
+            nr n nan SAMEYNAS FäÄttosoossssesererrenrersrersrerrennnrnnrrrnerrrnn
+            nere nrnn er rn rna Fri-och rättigheter
+          </p>
+          <p>
+            skydd mot hemlig telefonavlyssning yrkesfrihet .... äganderätt
+            .ssnssssssessersrerrererrrrerrrrr ner rrrn enn n ennen nen ennen
+            nen r nn nn
+          </p>
+          <p>
+            översyn av lagstiftning som begränsar frihet och [8 81055: 08
+            1 Föreningsrätt, NCZaliV.....ssssssssseseoseorensennerreneenennerernrsnennrnennrnnnn
+            Företagshemligheter s..mmnmumssssssereerrerenrrenerneneenennersernernen
+            ennen nn ann Författningsfrågor etiska regler i politiken folkomröstningsfrågor
+            författningSsrefOrmM = msssmesssssresserserrerserennenennernenernrnrrnen
+            nen nn konsekvensanalyser inför folkomröstningen om EG .. längre
+            Mandatperioder......s.sssssessessereseneenennrnnsrnnsnennrnnn
+            nn nn
+          </p>
+          <p>
+            OpinionsundersÖkniNgaåar s..msssssessessessesenrenennennennsnernrnenn
+            nn PErSON VAL ooseesseseesreereereenneernnnernnn ann riksdagsledamöternas
+            antal FÖSträttSregler sossssssseesrerersrresrrrrsenrrrrenrarnnnernnnnrrn
+            ner rn er nnn enn nns StatsSKiCKetoooooosssessrerenrrenserernsrrrenrrrsrrnernrnrnnrnerenerrrrnrnn
+            rna nan UpPplÖöSningsinstitUtet...........eesesessserresssennesrrennssnrernsnnrnn
+            nn nr valdagar, skilda FÖrOrdningSmMOL iV....ssssssssseeseeserrerresrrrnrnrrreserrrerennennernnrnn
+            enn nen nnn Försäkringskassorna, regiSt€rl....sssssessseseeneesseeresnrersennnsnnnn
+            nn Förtroendeuppdrag, ledighet för politiska m.........s.sseeeennn
+            Förtroendevalda i statlig verksamhet, arvode ..................-.-
+            Förvaltningskontorets verksam hetsberättelse......................
+            Förvaltningskostnader, riksdagens sms ssmmmsessrosessseeseererernnnrnnr
+            FÖFräldrarätto..ssmnsssssresesresreseanesnerrennennrnnerrerernnsnernrn
+            nn nn terra rna en Föräldraskap, uppgift om
+          </p>
+          <p>
+            Gemensamma parlamentarikerkommittén, val av svenska ledamÖter....ssssssrerssresreseenesresnrennerennenernrrrernrnrnnen
+            renen nen Granskning justitieombudsmännens verksam het........sosesssensnrsnnsnnn
+            riksdagens förvaltningskontors verksamhet 1.7.1991— 30.60.1992.
+            ooonossessrsnenenrernernenenennersnenenennenenenrnennn nen statsrådens
+            tjänsteutövning och regeringsärendenas handläggnNinNg....ssssssessrsseesnrenresnrrerensrnernrernrnnrrrn
+            rn renen rena n enn
+          </p>
+          <p>
+            1. Regeringens sammansättning och regeringsarbetets organisation
+            2. Regeringskansliet — statistik och andra redovisningar
+          </p>
+          <p>
+            2 2 2 2 2 2 7
+          </p>
+          <p>
+            2,1
+          </p>
+          <p>
+            ,
+          </p>
+          <p>
+            NN NN
+          </p>
+          <p>
+            NN NH
+          </p>
+          <p>
+            LON BR RH UM UM VV VV VV VV UV AR UV AR AR AN
+          </p>
+          <p>
+            30
+          </p>
+          <p>
+            1992/93:KU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_KU/reg_199293_KU_0013"/>
+          <p>
+            . Remisser till Lagrådet - Propositionsavlämnandet till riksdagen
+            - Författningsutgivningen - Normgivningsfrågor — bemyndiganden
+            - Myndighetsutövningen i tillfälliga organ under regeringen
+          </p>
+          <p>
+            NN OUNRBÖO
+          </p>
+          <p>
+            8. Förvaltningsmyndigheternas internationella överenskommelser
+            9. Riksdagens skrivelser 9 a. Behandlingen av riksdagens skrivelser
+            9 b. Lokaliseringen av Lärarhögskolan i Stockholm 9 c. Riksdagens
+            beslut rörande ROT-verksamheten 10 a. Statsrådens innehav av värdepapper,
+            jäv m.m. 10 b. Kommunikationsministerns engagemang i Majgården
+            11. Svensk hjälp till skogsindustrin m.m. i Polen 12. Flyktingpolitiken
+            samt uttalande om kosovoalbaner 13. Utnämningsfrågor 14. Anslagsfrågor
+            inom Utbildningsdepartementet 15. Förbudet mot handel med Sydafrika
+            16 a. Volvo-Procordia-affären 16 b. Kulturministerns uttalande
+            om viss närradioverksamhet 16 c. Medel för informationsinsatser
+            om europeisk integration 16 d. Kulturministerns handläggning av
+            frågor om Sveriges Radio
+          </p>
+          <p>
+            Handikappade, vallokalers tillgänglighet för ......................
+            Helgdagar, allmän nNa..sssssssssssreserereerrrssererrrrrrrrrerrrerrrsrrrrrrn
+            rn rn n a Hemlig telefonavlyssning, skydd mot Hets mot fOlkgrUpPP
+            s..smsssesesresreseesesrsesrsreseesrrsrrrrenrenrrrrnnrrrsr renarna
+            Homosexuellas rättigheter smmmmssssssseersressersereessrersnnsrrrnnnnrnn
+            ann HUSIÄKaArC ooooooeeeeresrrresrrsrrsererrrerrrrsrrrrrrsrrrrrrrrrsrerr
+            rerna ren nr sann rn nn nn
+          </p>
+          <p>
+            ILO:s konvention om ursprungsfolk m.m. .....s..sssseresssnena
+            Information riksdagens m.smmmsersrersreseesrrrererrrrrrerrnrrrrrnerrrrnrnrn
+            ran Informationssystem fÖreSkrifferf smosssmsssssreresesrerrrrrrsnenerrresnerersrnenesr
+            enn n ennen nen nn nen nn
+          </p>
+          <p>
+            anslag tillosmossssssesssesreseesreserrerresrrrsrrrrsrrerrr rs
+            nrerr nr rnrrern nn nn nan kontinuerlig granskning av bl.a. Invandrarverket........
+            rekrytering av justitieombudSsmän s...s.sssesssessseersersnnnnnnn
+            Rätt för JO att utdöma böter och/eller skadestånd ......
+          </p>
+          <p>
+            oc 00 00
+          </p>
+          <p>
+            1992/93:KU Reg.
+          </p>
+          <p>
+            14
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_KU/reg_199293_KU_0014"/>
+          <p>
+            ämbetsberättels€...........ssssosssesesesenenenenenerrnnrnrnenenen
+            ann nn an arenan 8 1992/93:KU Reg.
+          </p>
+          <p>
+            Kommunala frågor
+          </p>
+          <p>
+            antal ersättare för ledamöter i kommunfullmäktige.... 4 barnomsorg,
+            enhetliga regler fÖr s...........ss.sssrssseeresronannna 4 benämningen
+            StaCl....smmmmsssssessesessessrarserrrsrernsnerrenenner ennen
+            nn ana 4 brukarinflyta nde smmmssssssesrererrerrerrererrrrresrererrrnrsnrnnrn
+            ennen ana 4 direktvalda stadsdelsnämnder i Göteborg och Stockholm
+            | AF ly godkännande av Europarådskonvention om utlänningars delaktighet
+            ...mmmmsssssssresererrrsrensrrnrrnnrnnnnnnnn nn 13 hUSIÄKAre oosoosserereeserersrrsrenerssnrrrererrrnrrrrsrrrrrree
+            rr rer n nr rn nr rann rna Sy kommunal demOKkrati....ssssssssesrrsssernerennennennerersrnernrrnnen
+            rna 4 kommunal vårdnadsersättNiNg............s.ssseeseseoesesnnnnnnnna
+            4 kommunala valkretsar 6 kommunalt partistöd .... 4 lokal självstyrelse
+            minsssssseseeserreserrseernerrennrsrenernennsnennrnrn nn nn nn
+            4 valgenomslag i kommunerna, snabbare .................ss00&gt;
+            4 Ökad KONKUTICNS sosmnssssssssesereereerrerrerrerrrrreennnrrrnrnnrnr
+            rr rr rna 2y KonkurrenslagstiftniNng, NY smsmmsmmessessreserenererrenrsennresrrrrnnnnnnn
+            nan 4y Konsekvensanalyser inför folkomröstningen om EG ........
+            KontaktaNnNONSEr siosmoseessessessrassessessrenrernrennenrennernrrnrrrnes
+            nr nan nn 2 Kontrollmakt, riks ageNS....sssssesseereessrrerresressrerrrsrrnnennenn
+            renarna 2 Kungl. hov- och slottsstaterna, anslag till.....s...sss..sssssssn&gt;
+            22 Kungliga slotten, tilläggsbudget I.mnmnsmmmnsssssssessrrssersrsnennnnnnnnn
+            20 Kyrkliga frågor kyrkoavgift, särskild, övergångsreglering ......................
+            14 kyrkoherdetjänster, domkapitels yttrande ....................
+            14 lagen om Svenska kyrkan, upphävande... 14 prästanställnings
+            upphörande s......ssesssessssressesrrrrsnnrnn nonan 14 Lagvalsregelisssssssssesserseesressranrrrnresrenrrrrrren
+            rese sne sne nr e nen n renen nn ly Landskapsvapen 7 Landstingen
+            ................... 4 Ledamotsservice 9 Ledamöter i statliga utredningar,
+            ersättning till................. 3 LikställighetsprinCip€N.......sssssssssesseonesneenernernenernerernenernen
+            nn nnn 2y Livsåskåd ningsfrihet m......ssssssessseosseresresesrererrsrnrsrrnenerener
+            eran nanna 2 LokalradiO, PliVåbssssmssssserrersrssresrrerrersrrrrrrerrenn
+            rr erna ennen rn rn rna 15 LänsdemoOkraåtiossnmsnnssrsnereesreneerserresrersrarrerrerernennererrenren
+            en nrn anna nan 4 LÄNStiNQ oosoesseresrerresrerresrerereerrerrenrerenennrrrrerrer
+            renen en er nere rn enar ennen nn 4 Löner till riksdagsledamöterna
+            9 Malmöhus län, valkretsindelningen su ommmmeesserrresserersrsnrsnnnnn
+            28 Mandatperiode€nD....sssssssrerersrsnesreresneserrnrrrerrernernnnner
+            nere renen nnn nn nen 5 INA [76 EV ATS RR 7 Medborgarkontrakt
+            ................ on 2 Medborgarrättskommission 18 15
+          </p>
+          <p>
+            Meddelarskyddet.....ssssnsssoresssneresserrerernerernerrnrerrnnrrernrernnrnn
+            rna nan 11, 38, ly
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_KU/reg_199293_KU_0015"/>
+          <p>
+            Myndighetsstyrelser ..snmnnmmsssooosranann sissrarrraras sansa
+            ass en annan annan na MyndighetsUutÖVNilg.....sesssesessrererressersererensrrrrsrrerererrrrrrrnnnnn
+            rna Målsättning, övergripande för lättläst information och |itteratUr
+            ooososeessrersserrrrsrresrrrnrrrrrsrrsener renen nns rer n enn
+            annan enes n seen n nanna Målsättning, övergripande för Presstödsnämnden..............
+            Målsättning, övergripande för Taltidningsnämnden ..........
+          </p>
+          <p>
+            Negativ föreningsrätt
+          </p>
+          <p>
+            NOMineringSsrätt€lhb.....sssssssssresseseereneennennernennrn
+            nn
+          </p>
+          <p>
+            Nordiska rådet, andel i gemensamma kostnader ................
+          </p>
+          <p>
+            Nordiska rådets svenska delegation
+          </p>
+          <p>
+            Anslag tillossonsossssessssssesrrsoresrerrrerrrrnnrennrrrn nr
+            nan
+          </p>
+          <p>
+            PES oooeerresessesresersrenrereenesreneenrenernennernen nr ennrn
+            nn nn
+          </p>
+          <p>
+            förordningsmotiv, användningen av..........
+          </p>
+          <p>
+            lagstiftningen och de utomlands bosatta svenskarna.... normgivningsbemyndiganden,
+            redovisning av
+          </p>
+          <p>
+            riKSCAgZCNS oooooseesererrrersresereerrerrerrrernrnrrrrrnnrnnn
+            rna regelrefOrmMerilg.....mssssossenseenrnsrennnennn nero nnn
+            nn NådeinstitUutet.......ssssssssssoseseseneenesenennennnnnnnnnennnn
+            Näringsfrihet ssmmsssssssresrenessrersrerrrerrennnenrnrrnnrnnn
+            nn
+          </p>
+          <p>
+            OffentlighetsprinCipenN sm. smmmssseseesessesersrennennnnnnna
+            Offentligt belöningssystem, reformerat ........... Opinionsundersökningaåar
+            s....ssssssssseessresrrnnnernnnn OrdenSsväsendet.....snsssessesesesranerseenennennennennrnnnnnnnnn
+          </p>
+          <p>
+            P-tjälSt€roossssseereesrrerrrerrerrerrrrsrrerrerrnrrrrennrrnnnrrnnnn
+            nn Partibeteckningar, utnyttjandet av...................
+          </p>
+          <p>
+            Partier, stöd till
+          </p>
+          <p>
+            PartiStÖG......sssssssosssssesrersrerssresereesserrrsrrrernnnnrnnnnn
+            nn
+          </p>
+          <p>
+            Personalföreträdare i myndighetsstyrelse, arvode till.........
+            Personnummer, förväxlingsrisk vid användning av...........
+          </p>
+          <p>
+            PersOnvalssssssssseessresnenrrnnnn na Politisk åsiktsregistrering
+          </p>
+          <p>
+            Politiska förtroendeuppdrag, ledighet för ....... Politiska partier,
+            stöd till. osssmmmmsssssssssennrrnnnn nn PFreSStÖGssssssesrresresrererrenrrenrenrrrrernnrrnnennrnnrnrnnn
+            nn nn nn nn
+          </p>
+          <p>
+            Radio- och kassettidningar, anslag till.............
+          </p>
+          <p>
+            Radio- och TV-frågor
+          </p>
+          <p>
+            finländska televisionsprograM....................
+          </p>
+          <p>
+            innehållet i privat lokalradios sändningar närradions ställning
+          </p>
+          <p>
+            2,11, 38,
+          </p>
+          <p>
+            3 2y
+          </p>
+          <p>
+            1992/93:KU Reg.
+          </p>
+          <p>
+            16
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_KU/reg_199293_KU_0016"/>
+          <p>
+            privat IOKkalraCdiO smsmmmmssssresrsennesrenreneenreneneenenenen
+            ennen ene r nen nn nn satellitsändningar av TV-program. .....sssssesssssessnernnennnnnnn
+            styrelsen för lokalradiotillstånd sändning av grannländers rundradioprogram
+            från
+          </p>
+          <p>
+            sändare i SVCIIgC ssmnmsssosrerersreererreesrerserrrrrrerrerrnnnrnrrnrnn
+            nn nn nn sändningsområden för privat lokalradio ................-------
+            sändningstillstånd för privat lokalradio .............-.--------
+            åtgärder mot rasism i närradio........
+          </p>
+          <p>
+            överklagande av vitesföreläggande överklagande i fråga om sändningsområdenas
+            OMfallNilgooooeoeseeeeessereererrrrerrrrennrrrrrrr ren rrrn nanna
+            nen nro ns n arna nn Rasism i närradio, åtgärder mot ens skydd
+            MOLtosossssssessreserrerererseerererrerrsrrrrrrrrerrernennrrrnn
+            rn enar n nn rann RegelrefOrmeriNg...smsssseeesrerreseenreseerneersennenrerenenenernnnenen
+            ennen nn nn nn
+          </p>
+          <p>
+            Regionala och kommunala frågor antal ersättare för ledamöter
+            i kommunfullmäktige....
+          </p>
+          <p>
+            barnomsorg, enhetliga regler fÖr s.smmmmmssssssssesrerensnennnnnnn
+            benämningen StaCl...sssmmsssssoreresrenrenrenenernenenenennnnenen
+            ennen nn nn brukarinflyta de .smmnsssssssssresrerrrrssrenerrrsensennennnn
+            ennen nennr nn nn nn
+          </p>
+          <p>
+            direktvalda stadsdelsnämnder i Göteborg och StOCKHOLM ooooosesesrrssrrersrenrrrsrrrnrrennarnnrnn
+            arr nan erna renen ennen enn n enn kommunal demOkraåti.....ssmnnnsssesrsrreserresrensrennennnennesnnernn
+            nana kommunalt partistöd .....mmmmssesrresrersererennesrenennennennnnnnn
+            nonan kommunal vårdnadsersättniNg............esseesesesnesenesnnnnnn
+            Kristianstads och Malmöhus län, alternativ ledningsOrganiSatiON
+            susmmmmssssssrresrereresrserrsrererrenennnrnen nan nn nana laNCStiNgeN
+            ooooesssesereerrrerrererrerrrrrsrrennrnrrenrenren ennen ennen
+            nerna nen nen ledighet för politiska UPPCrAG....smsmssereesesrenesnrsnerernnnnnen
+            nen lokal självstyrelse mssssssessseesresseeserssrennrnnennenennrnn
+            ennen ennen nn läns/regionparlament.. länsdemOKratiossssmsssssrseesrrrererreensrrarnsnrsnnnenn
+            een esnnenn nen renar nn nn LäÄNStillg oosoesesreeresrrenrenreneerreneenenn
+            een esn ennen renen een ens nrn ennen nen narr nn revisorer för
+            kontroll av kommunal verksamhet, auktoriserade slosssssssssreesrrrrerrrrersrrrrnnrrsrnrrnnrerernnnsnn
+            eran enn nan samordnad regional förvaltNiNg........eeeeememensessnnn
+            snabbare valgenomslag i KommUnNErNA .seneeesrenernnnnn ökad regional
+            demOkraåti.........s.ssssesseseseeserenernennenernnnnnnnn Reklam
+          </p>
+          <p>
+            finlänska televisionSprOgfäall.u...ssmmsmssessesesresenrenrennrnrnn
+            nana i satellitsända TV-program ssmmmmsesresreesesrerrerrnrernennnn
+            nn anna Representation, alkohOlffi sm .smnmmmssrssresesnenrenenenenennenenenennennnnnnn
+            Revisorer för kontroll av kommunal verksamhet, AUkKtOriSEraC€..sssseeserrrrererreesnrernnnnrrnrnnrernnnennrern
+            nen rrnnren nen nr enn nn nn a Riksbankens jubileumsfond, val
+            av stiftelsens styrelse....... Riksdagen andel i gemensamma kostnader
+            för Nordiska rådet,
+          </p>
+          <p>
+            15 12 15
+          </p>
+          <p>
+            19 15 15 15 15
+          </p>
+          <p>
+            ee me SS SA Re RR — e Re se me RB
+          </p>
+          <p>
+            Se RR
+          </p>
+          <p>
+            29 29
+          </p>
+          <p>
+            1992/93:KU Reg.
+          </p>
+          <p>
+            17
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_KU/reg_199293_KU_0017"/>
+          <p>
+            anslag till ledamöter OCh partier .........s.ssssesssrssennnnnnnnnnnnn
+            29 1992/93:KU Reg.
+          </p>
+          <p>
+            anslag till riksdagen och dess myndigheter...................
+            29 arbetsformer 9 Dar ntillSYyn sosssssssesssssrresesererernnrrrererrrarr
+            enn rrsrrer rn rrennrnn ner n nr nan 29 EES-uUtskOttet ......sosesssssseorsenesesernerenenennnenenrenenerenennnnenennrnnnn
+            16 EFTA-delegationen, val fill... oomsssssssseseseeseesenennnnnnnnnnnn
+            16 ersättning till Olof af Forselles, fråga OM .............ossosnnn
+            29 Europarådets svenska delegation, val av .... 16 frågeStUNder
+            sossssssesseresssresesreserrenernennenesnensennen enar en eran
+            anar en rna 16 förlagsverksamhet, anslag till smsmmmmmmssssssssesssenenenrnnnnnennnr
+            29 förslag från riksdagens revisOrer s.....ss.ssesesessssesenensnsnnsnnn
+            1 förvaltningskontorets verksam hetsberättelse.................
+            10 förvaltningskostnader, anslag till .... 29 informationssystemet
+            Rixlex 32 justitieombudsmännen, anslag till. ssmsmmmmsmssessseressnnsnnnn
+            29 kanslichefStjälSter ssmmsssssssessrsssrerssrennrensrenennrrrnrsrennnrn
+            rn enn nn 31 leda MOtSSErViCe ooooseseerenesrererreserrenern ennen
+            ene en aren renarna nano nn 9 löner till leda MÖterNa sm..mmmmmsseresesenrnrnrnesensnsnren
+            ennen ennen enn 9 Nordiska rådets svenska delegation ............seseessessnsnsnn
+            16 Nordiska rådets svenska delegation, anslag till.............
+            29 ombildande av vissa tjänster oo 31 registrering av ledamöternas
+            ekonomiska intressen..... 9 remittering av Vissa äreNndenN.....smssssssssesessrenennsnenernsnnnnnn
+            16 riksdagen och normgivningsproOCeSSeN...........eee---+=-- 1
+            riksdagens byggnader s...mmmmssesssreseerenerrenesenenenesnrnrnnnnnnnn
+            anna 33 riksdagens information ....... - 9 riksdagens kontrollmakt
+            2 riksdagens tillgänglighet för handikappade ..................
+            9 riksdagens val av ViSSa OIgåD smumsmsesssssresesnresesernnnnernrnnennnn
+            16 riksdagens ÖPPNANdE sosssssseresrerserenserenresenrnn ennen
+            ernnn nen nen 9 riksdagsledamöternas antal....... ena 5 riksdagsledamöternas
+            arvoden 21 riksmötets avslutande, följdändringar till tidpunktsändrinNg
+            ......ssssessesserersrerssrarsnerrnrnenr rann ern ennen enn nar
+            16 skolmat i riksdagsrestaUuranNgen smessmmmseeesrreseeessnnnnnnnnn
+            9 SPIåÅKVåÅLA ooossosesrenerersesesenerersrserserenensnnerersrrnen
+            rn enn nn rerna rna rna 9 Stiftelsen Riksbankens Jubileumsfond,
+            val av TAC ST &amp; Vr 16 val till gemensamma parlamentarikerkommittén........
+            16 val till riksdagens utskOtt.............ssssesesessesssonsennnennnrnnnnnnn
+            9 valprövningsnämndens sam mansättning...................-.. 9
+            ändrad placering av ledamöterna i kammaren............. 9 Riksdagens
+            ombudsmän, ämbetsberättelsen........................ 8 Riksdagsutskottens
+            resor .. 29 RiXl€X ooosseeseererneserenrersnnerserennnrnnrrerrrrnrrrrrrnrrnrenner
+            rr nen rnn rann n nn nn 32 RättlSprÖVDiNG.sssssesresereseseerrereerrsrsressrnrsnrresrrrnnsnnernnen
+            ren rr n rens nen 3 Rättssäkerhet s...nnnsnnsoseserrereereresrererrerneeresrenesrsrsrsrener
+            en enar nn nn nn nn nn 2 RÖSträttSregler s.snnnnnsussesesrsrsrerererenesenenernerenenresereren
+            sne ensn renen nen 5
+          </p>
+          <p>
+            18
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_KU/reg_199293_KU_0018"/>
+          <p>
+            Samefrågor anslag till sametinget ................. definition
+            av vem som är same
+          </p>
+          <p>
+            ILO:s konvention om ursprungsfolk M.M. ..........eee- röstlängd
+            för SametingSVal msmssssssssssesrsserenrsnnsnrnrrnrnnnnnn rösträtt
+            för SaMetiNgSvVal...ssmsmsssssssssssrrsrrserrenernrsnrnnrnrnnn
+            nn SAMECLiNGosooeeeresreererserresererrsenrrerrenrrrrrrrrrnrrrrnrnn
+            enn rrn nen n rn rn nn nen SAMErNAS Fättsnossssssrsseererrsrenrerrererrrrrerrrrnrernernenrrr
+            renen ennen ann samiskt SPråk ommsnssssssrsseressneseresrerereerernennerenenenennnnen
+            enar en rna nn val till SaMetiNget mssnmsssessressesseereresrrrnrnrrenernnrnn
+            rer nrnnrnnrn nn nn
+          </p>
+          <p>
+            Samhällsinformation
+          </p>
+          <p>
+            Satellitsändningar av TV-program
+          </p>
+          <p>
+            andel europeiska PrOgralM....mssssssssssssorsossrnenrsnsnrnrnennnenenn
+            DeriktigaNde sosmsssssessereerrersrnnrrsrrsrsrrrsrrrrnnrennrrn
+            nen r enn sn nen rn erna lagstiftning OM ssomessssessseeseerereereereenesrrrnnnerennenernrrnen
+            renen rann nn regler som hindrar vidarespridning............ssesesesnnn
+          </p>
+          <p>
+            reklam Sekretesslagen
+          </p>
+          <p>
+            asyl- och utlämningsärenden......ssssssessssesrsresresrsnrnnsnsnnnn
+            barnpornOgrafl........ssssssssessesresesresnesrernnrrrennrrrsner
+            nan er nrn nr nn nn
+          </p>
+          <p>
+            folkbokföringssekreteSS€nN sm. mmsosssssserssesesnesnensenernnrnrnrnnnen
+            privata donationsfOnder s......ssssessesesersrseserrenrsnernernrnennnnnn
+          </p>
+          <p>
+            sjukförsäkringsregister .... uppgift om föräldraskap . utrikessekretess
+            våldsskildringar
+          </p>
+          <p>
+            SjukförsäkringSsregiSter .......sssssssessorsorsneesnrennenesrenernnsnennnnrnenenn
+            Skolmat i riksdagsrestaUraN gen ..mmmsssssosseresnesneorennsnesnsnnnnnnnr
+            SPIåKVåLA oossosesrsrsrsesesrosrserserersrrernerenenenenenerrnnenensnsnn
+            ense enar nnn enn nnn Stad, benämningen ssmmmsssssreseerensesenrenresresrrernennenernennrnnsnen
+            enn nn nn
+          </p>
+          <p>
+            Stadsdelsnämnder, direktvalda i Stockholm och
+          </p>
+          <p>
+            GÖLEDOTLQosoesreresreseererrerenrererrenerren ner err enn esn
+            rr n nr ene nrr ennen nen n ennen
+          </p>
+          <p>
+            Statlig förvaltning
+          </p>
+          <p>
+            alkoholfri representatiOnN ..........ssssesssresserssensersrennrnnrnnnnnnn
+            arvode till förtroendevalda .....sssssssressererrsrnernrnnnrrnnnnrnnnnnnn
+          </p>
+          <p>
+            arvode till personalföreträdare i myndighetsstyrelse.... ersättning
+            till ledamöter i statliga utredningar ............ fri tolkSErViCe
+            ssssseseesessresernsresersrrrrsrrerrrenrrrrrsr nr n rn rn annan
+            nn kontroll och inspektion av icke offentlig verksamhet, avgifter
+            s.smmmmssessssssesrersrrerenrrrrrerrerrrrrnrnnrn nn rann medborgarrättskommission
+            ... NådeinstitUtet .....ssssssosssesresesrrnrrrsrererrrrsrnrrrererrernrernnnen
+            nn anna nnn personnummeranvändning, förväxlingsrisk vid ...........
+            rättsprövningslagen, ändring I..omnssssssssseseeseerersenrsrernrnnnnn
+            spridning av betalningsperioder..............ssssssesssssssrsnnnen
+            statliga verks- och myndighetsstyrelser.......................-.-
+          </p>
+          <p>
+            11, ly
+          </p>
+          <p>
+            11
+          </p>
+          <p>
+            3,18
+          </p>
+          <p>
+            1992/93:KU Reg.
+          </p>
+          <p>
+            19
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_KU/reg_199293_KU_0019"/>
+          <p>
+            subsidiaritetSprinCipeN ...smsssssssressesersrserernnenennrnnrrnrnnn
+            nens tidsfrister för inkrävande av uppgifter.....................---.-
+            åtgärder för att underlätta kontakterna med MYNdigheterNa..ssmmsssssseesserssserrsersesen
+            seen nrrsrrr renen enn nr rna nn nn Statlig kreditgaranti till
+            dagspressen, anslag till.................- Statliga verks- och
+            myndighetsstyrelser ..........s.sssssosoesesnenenn Statsråd, arVOCCN....ssosmssssssseessesreesresnenrenerennnernenn
+            nan orena norr n rna ann Styrelser, statliga verk och myndigheter
+            s....m.ns.sssssosenennennnnn Stöd till politiska Partier. ....sssssssssesrrererssrererrrnnrnrsnrnnernnrn
+            nn nn SubsidiaritetsprinCipenN s..mmmsssssssrseesrensressreserrsernnnnn
+            nen nnnn nn nen nn Svenska kyrkan, lagen OM summsmmmsmrsrssrerrrsrenesesessersnenrererrrnnrnnnn
+          </p>
+          <p>
+            Taltidningsnämnden, anslag till.snmmnsmmmmssssssrsersrenesrsnrernsnsnnnnnn
+            Telefonavlyssning, skydd mot hemlig.........ssssssessssesssesnnsnnnnn
+            Telefonkontakter mellan allmänheten och
+          </p>
+          <p>
+            Uppdrag, ledighet för politiska sm..smmmsmsssssessssnrnesnenrsnnrnnnnsnnnn
+            Uppdragsverksamhet, myndigheternas ........ssssssesorsnnsnnnnnn
+            Uppgift om föräldraskap. ....ssssesesssesresesonessnsnrenrsnesnrrnrrennnnnn
+            Uppgift, skyldighet att lämna smmmmmsnesesssrsserenroeneenenenennenerennnnn
+            Uppgifter, tidsfrister för inlämnande av....msmssesssrserensnnennne
+            Uppskov till 1993/94 års riksmöte med behandlingen av vissa ärenden
+            ..................
+          </p>
+          <p>
+            Utlandsröstning Utvecklingsstöd till dagspressen, anslag tilli................-.+----
+            Val, anslag till allmänna musmsmmsessessesererereererrrnrenrrernernnrnrrnnrnnn
+            Valfrågor DrevrÖStNiNg sssssesseessesrernnenrrenrenrennnsnnrrnnernrnnnnnn
+            ennen nn n rn nn kommunala valkretsar s.smmmmnsssseseessrenererernesnnnennsnnnrnnrnnnn
+            nt
+          </p>
+          <p>
+            kyrkliga Väl onosmmssesssrssesenesnsnenenenesnereneresnenrnerennensnsnenennn
+            nn nn legitimationskontroll i vallokal mandatperiodens längd s.mmmmmmsosssorererenrsrsenrensnsnsnennrnnn
+            enas partibeteckningar, utnyttjandet av ...............soseeesrnenennnn
+            PErSONVAL ooo oooeeeeeressessreerserereresrerrnnnerrrerrrrr ennen
+            rn nr enn rn n enn nn riksdagens val av viSSa OIgåN memmmsessesessesesennnenerennennnnnnnnnn
+            röstlängd för SametiNgSVval mssmmmmsssreessrersrenesnenrnnnrrennnnnnn
+            rösträtt vid SametiNngSVal m.osmmmsssssserrassresersennrnennnrrn
+            nr rann nn nn rösträttsregler ..... skilda valdagar utlaändSrÖStNiNg
+            ssmmseeseesseeserrrerrseesresrrrnrrerernenn nens enn rr sena n
+            anna val till riksdagens utskOtt............s.ssssosseoseseonnennsnnnnnnnnn
+            anna val till SaMCtiNg sosmnsseseesseeessrersrernsrrrresrerenrrrnrr
+            rn nr n eran n nn nn nn valhemligheten i små valdistrikt...............s.ssssssssssnnsn0nn
+          </p>
+          <p>
+            valkretsindelningen i Malmöhus län... ..onnmnmmsssssrnenennnnnn
+          </p>
+          <p>
+            3 3
+          </p>
+          <p>
+            1992/93:KU Reg.
+          </p>
+          <p>
+            20
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_KU/reg_199293_KU_0020"/>
+          <p>
+            valkretsindelningen i Malmöhus län. .nosmsmmrnerreereennn vallokalers
+            tillgänglighet för handikappade.................. valprövningsnämndens
+            sam mansättning.......................
+          </p>
+          <p>
+            överklagandetider ........
+          </p>
+          <p>
+            Valgenomslag i kommunerna, snabbare sm msmmmmmeensenrnnnnnsnnn
+            Valkretsindelningen i Malmöhus län su osmmmmssresrerresresrerennnnnn
+          </p>
+          <p>
+            Verksstyrelser ..........ooso0oo0nnn Våldsskildring, sekretess
+            ... Vård, patienters rätt till..... Vårdnadsersättning, kommunal
+          </p>
+          <p>
+            Yrkesfrihet..........................
+          </p>
+          <p>
+            Åsiktsregistrering, politisk Åtgärder för att stabilisera
+          </p>
+          <p>
+            Äganderätt ..........................
+          </p>
+          <p>
+            Övergripande målsättning Övergripande målsättning Övergripande
+            målsättning information och litteratur
+          </p>
+          <p>
+            den svenska ekonomin ............
+          </p>
+          <p>
+            för Presstödsnämnden.............. för Taltidningsnämnden ..........
+            för utgivningen av lättläst
+          </p>
+          <p>
+            28 6
+          </p>
+          <p>
+            27
+          </p>
+          <p>
+            27
+          </p>
+          <p>
+            1992/93:KU Reg.
+          </p>
+          <p>
+            21
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_KU/reg_199293_KU_0021"/>
+          <p>
+            gotab 44000, Stockholm 1993
+          </p>
         </div>
       </div>
     </body>

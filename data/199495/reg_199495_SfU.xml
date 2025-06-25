@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="reg_199495_SfU">
   <teiHeader>
     <fileDesc>
       <titleStmt/>
@@ -19,148 +19,704 @@
   </teiHeader>
   <text>
     <body>
-      <pb facs="riksdagen-volumeG-pdf/data/199495/reg_199495_SfU/reg_199495_SfU-000.pdf"/>
+      <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199495/reg_199495_SfU/reg_199495_SfU-000.pdf"/>
       <div type="gBody">
         <div>
-          <p>Socialförsäkringsutkottets</p>
-          <p>A=</p>
-          <p>register vid riksmötet 1994/95 7 1994/95 SfUReg. Betänkanden Nr SfU1 Socialförsäkring — handläggning m.m. Utskottets justering 1994-10-27 Riksdagens beslut: Bifall till utskottets hemställan 1994-11-16 Protokollsnhummer 1994/95:23 Nr SfU2 Vissa utlännings- och medborgarskapsfrågor Utskottets justering 1994-10-27 Debatt i kammaren 1994-11-16 Protokollsnummer 1994/95:23 Riksdagens beslut: Bifall till utskottets hemställan 1994-11-16 Protokollsnhummer 1994/95:23 Nr SfU3 Socialförsäkringsregister (prop. 1994/95:8) Utskottets justering 1994-11-24 Debatt i kammaren 1994-12-07 Protokollsnhummer 1994/95:37 Riksdagens beslut: Bifall till utskottets hemställan 1994-12-07 Protokollsnhummer 1994/95:37 Riksdagsskrivelse 1994/95:60 Nr SfU4 Stimulansbidrag till kommuner (prop. 1994/95:26) Utskottets justering 1994-11-15 Riksdagens beslut: Bifall till utskottets hemställan 1994-11-23 Protokollsnummer 1994/95:28 Riksdagsskrivelse 1994/95:30</p>
-          <p>1 Riksdagen 1994/95. 11 saml. Register</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199495/reg_199495_SfU/reg_199495_SfU-001.pdf"/>
-          <p>Nr SfUS 1994/95:SfUReg. Upphävande av lagar med anknytning till EES-avtalet (prop. 1994/95:37) (prop. 1994/95:83)</p>
-          <p>Utskottets justering 1994-12-06 Riksdagens beslut: Bifall till utskottets hemställan 1994-12-16 Protokollsnummer 1994/95:44 Riksdagsskrivelser 1994/95:116 och</p>
-          <p>1994/95:117</p>
-          <p>Nr SfU6 Förändringar i finansieringen av det allmänna pensionssystemet (prop. 1994/95:41)</p>
-          <p>Utskottets justering 1994-12-01 Debatt i kammaren 1994-12-12 Protokollsnummer 1994/95:40 Riksdagens beslut: Bifall till utskottets hemställan 1994-12-15 Protokollsnummer 1994/95:43 Riksdagsskrivelse 1994/95:81 Nr SfU7 Vissa socialförsäkringsfrågor (prop. 1994/95:42) Utskottets justering 1994-12-06 Riksdagens beslut: Bifall till utskottets hemställan 1994-12-16 Protokollsnummer 1994/95:44 Riksdagsskrivelse 1994/95:118 Nr SfU8</p>
-          <p>Ersättning för vissa vårdförmåner i internationella förhållanden m.m. (prop. 1994/95:88)</p>
-          <p>Utskottets justering 1994-12-01 Debatt i kammaren 1994-12-15 Protokollsnummer 1994/95:43 Riksdagens beslut: Bifall till utskottets hemställan 1994-12-16 Protokollsnummer 1994/95:44 Riksdagsskrivelse 1994/95:119 Nr SfU9 Vissa studiestödsfrågor (prop. 1994/95:98) Utskottets justering 1994-12-01 Debatt i kammaren 1994-12-12 Protokollsnummer 1994/95:40 Riksdagens beslut: Bifall till utskottets hemställan 1994-12-15 Protokollsnhummer 1994/95:43 Riksdagsskrivelse 1994/95:82 Nr SfU10</p>
-          <p>Socialförsäkring — inriktning och anslag (prop. 1994/95:100 bil. 6) (prop. 1994/95:147) Utskottets justering 1995-05-04 Debatt i kammaren 1995-05-17 2 Protokollsnhummer 1994/95:107</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199495/reg_199495_SfU/reg_199495_SfU-002.pdf"/>
-          <p>Riksdagens beslut: Bifall till utskottets hemställan 1995-05-17 1994/95:SfUReg.</p>
-          <p>Protokollsnummer 1994/95:107 Riksdagsskrivelse 1994/95:343 Nr SfU11 Invandring — Tilläggsbudget (prop. 1994/95:105) Utskottets justering 1995-02-21 Riksdagens beslut: Bifall till utskottets hemställan 1995-03-15 Protokollsnhummer 1994/95:73 Riksdaggsskrivelse 1994/95:201 Nr SfU12 Studiestöd m.m. (prop. 1994/95:100 bil. 9) Utskottets justering 1995-04-04 Debatt i kammaren 1995-04-20 Protokollsnhummer 1994/95:91 Riksdagens beslut: Bifall till utskottets hemställan 1995-04-20 Protokollsnhummer 1994/95:91 Riksdagsskrivelse 1994/95:278 Nr SfU13</p>
-          <p>Invandrar- och flyktingpolitiken (prop. 1994/95:100 bil. 11) (skr. 1994/95:131)</p>
-          <p>Utskottets justering 1995-04-20 Debatt i kammaren 1995-05-03 Protokollsnhummer 1994/95:99 Riksdagens beslut: Bifall till utskottets hemställan 1995-05-03 Protokollsnummer 1994/95:99 Riksdagsskrivelser 1994/95:309 och 1994/95:310 Nr SfU14 Tilläggsbudget — flyktingmottagandet (prop. 1994/95:125) Utskottets justering 1995-05-04 Riksdagens beslut: Bifall till utskottets hemställan 1995-05-17 Protokollsnhummer 1994/95:107 Riksdagsskrivelse 1994/95:346 Nr SfU1S5</p>
-          <p>Särskilda utbildningssatsningar inom högskolan (prop. 1994/95:139)</p>
-          <p>Utskottets justering 1995-04-06 Debatt i kammaren 1995-04-20 Protokollshummer 1994/95:91 Riksdagens beslut: Bifall till utskottets hemställan 1995-04-20 Protokollsnummer 1994/95:91 Riksdagsskrivelse 1994/95:279</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199495/reg_199495_SfU/reg_199495_SfU-003.pdf"/>
-          <p>Nr SfU16 Ändringar i utlänningslagen (prop. 1994/95:179) Utskottets justering Debatt i kammaren Protokollsnhummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnrhummer Riksdagsskrivelse</p>
-          <p>Nr SfU17 Socialförsäkringsfrågor (prop. 1994/95:197) Utskottets justering Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnhummer Riksdagsskrivelse</p>
-          <p>Nr SfU18 Mottagande av asylsökande (prop. 1994/95:206) Utskottets justering Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse</p>
-          <p>Nr SfU19</p>
-          <p>1995-05-18 1995-06-07 1994/95:115 1995-06-07 1994/95:115 1994/95:401</p>
-          <p>1995-05-04 1995-05-17 1994/95:107 1995-05-17 1994/95:107 1994/95:344</p>
-          <p>1995-05-04 1995-05-17 1994/95:107 1994/95:345</p>
-          <p>Konvention om social trygghet mellan Sverige och Chile</p>
-          <p>(prop. 1994/95:199) Utskottets justering Debatt i kammaren Protokollsnhummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse</p>
-          <p>Nr SfU20 Kontroll av socialförsäkringen (förs. 1994/95:10) Utskottets justering Debatt i kammaren Protokollsnhummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelser</p>
-          <p>1995-06-01 1995-06-12 1994/95:118 1995-06-13 1994/95:119 1994/95:435</p>
-          <p>1995-06-01 1995-06-12 1994/95:118 1995-06-13 1994/95:119 1994/95:436 och 1994/95:437</p>
-          <p>1994/95:SfUReg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199495/reg_199495_SfU/reg_199495_SfU-004.pdf"/>
-          <p>Yttranden</p>
-          <p>Nr SfU1ly till SoU Studiestödet för vuxna funktionshindrade Utskottets justering SoU3</p>
-          <p>Nr SfU2y till JuU Fortsatt reformering av instansordningen i de allmänna förvaltningsdomstolarna Utskottets justering JuU6</p>
-          <p>Nr SfU3y till FöÖU Totalförsvarsplikt m.m. Utskottets justering FöU1l</p>
-          <p>Nr SfU4y till UU Sveriges medlemskap i Europeiska unionen Utskottets justering UUS</p>
-          <p>Nr SfUS5y till SoU Vårdnadsbidraget. Garantidagarna. Enskild barnomsorg Utskottets justering SoU8</p>
-          <p>Nr SfU6y till FiU Vissa ekonomisk-politiska åtgärder, m.m. Utskottets justering FiUl</p>
-          <p>Nr SfU7y till FiU Kompletteringspropositionen Utskottets justering FiU20</p>
-          <p>1994-10-25</p>
-          <p>1994-11-15</p>
-          <p>1994-11-15</p>
-          <p>1994-11-24</p>
-          <p>1994-12-01</p>
-          <p>1994-12-01</p>
-          <p>1995-05-18</p>
-          <p>1994/95:SfUReg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199495/reg_199495_SfU/reg_199495_SfU-005.pdf"/>
-          <p>Sakregister Allmän försäkring, ändring i lägen....ssesessessessessrrsrrsnennnnnn</p>
-          <p>Allmänna egenavgifter</p>
-          <p>Allmänna pensionsfonden, ändring i reglemente Arbetstillstånd, säsongsarbetstillstånd .................................. Asylsökande aNKNYtNilgososseeseesesssrererresrsereerereererreresrerrrnnrrrrnnnnrnnrnn nn nanna aSylproCeSSeN..ssssessssnnnnnnn bistånd till barn brottslighet m..sssssssseessoresenrrrrerrerrernrrnnrrrrrnnrnn nn n nan förläggningsverksamhet s..smmmnsssssessessrsrsnennennennrnnnnnnnnnn rann förstärkning av asylbyråer s......ss.ssssssssssesenenenesnnnsnnnnnnn nan inCidentrappOrter s..smsmsssssssersesrsrenrsrrersnrsrrnr nen rss nnrnrrn enn nn nn kommunerSättNiNg.......ssssssssresessrssereseesernnnennnesnnnrnnnnnnnnn nan misskÖtSamhet.....ssnssssesessesrrenenrennernennerrenennnnn renen nrnrnn ennen nen VANd€l ooesssseererererrereserrernernersenrrrsesrennrr ennen renen nen nen ennen rr nn nan nn verkställighet........sssssssossosesonnenesnennenesresrennnnnrnnennrn nr nen nnn rann vistelsetidsbestämmelSer......ss.ssssosssnesennennennennennnnnrsnennrnnn nn ändring i lagen om mottagande av asylsökande ...........</p>
-          <p>Barnpension</p>
-          <p>Basbelopp analys av basbeloppsförändringar s.........s..ssssseresesnsrenenn indexering av SGI-taket s.smmmnssseseesennesenrennennnnnennnsnennsnnnnnn ändrad beräkningsmetOd s.......sssssessessessrrnnsrrnsnannnrnnnnn anna BidragSsfUSk o.sssnssssessesersenresnsrernnrernennernnnrenner renen nrnn nn ennrn ner n rn nanna Bostadstillägg till pensionärer analys av pensionärers levnadSniVå s..............ese-ssrerrennnn</p>
-          <p>avkastning av förmÖögenhet.......ss.sssssssssrosessrssernrsnennnnnsnnnn beräkning av skuldränta s......s.sssssssessssesnennnsnesnnnnennnrnen nns inkOMStavdÅrAg...ssoseseerseseesresenerrsesranerrerresennennnnnsnenenn nen nnn ann nan samordning med bostadsbidrag ...........ss.sssssssssssrsersrsorsnnn skälig levnadsnivå vid beräkning av särskilt bostadstillägg ...........s.sssssesssesesennennennenrsnrnnrrrernernnnnern rn nrn nn nr särskilt bostadstillägg ändring i lägeN..msseeessesesesseneenerrenrrsrrrrernennsnrrnnnnnrnnrn nn</p>
-          <p>Centrala studiestödsnämnden</p>
-          <p>7, 8, 10, 17, 3y, Sy</p>
-          <p>13, 16</p>
-          <p>1994/95:SfUReg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199495/reg_199495_SfU/reg_199495_SfU-006.pdf"/>
-          <p>Civilt fÖrSVår ssosmmsssssssssrseseresrrererrrrrrerrerrrrrrrrnrrrnrrrrnrrnrr nns nn rn nanna</p>
-          <p>Dagmarmedel.sssnnsssssesssesrserernerernresnrrrnrrrrnrnrrrrrrnsnnrrernrn enn n nn nr Delpensionsförsäkring arbetsvillkOr s..ss.sssssesessesanoesrrersersrrnnnnrrrrrnrtnrsn ennen ene en enn n nn ändring i läge mmssssssrsssssersrssrerrrnsnnrrnrenrrnernernrn ene rn nn renen</p>
-          <p>EES-avtalet upphävande av läg.....ssmssseseeserssessrersrrrrnnerernrnnrrenrnnnnrnnnr nan Efterlevandepensioner till vuxna, anSläg................s.ssssss--ss- Egenavgifter alLMäÄN Nås sseseseeseeeesrerrersrensrenrrsrenrernnr rer rrrnrrn ennen nrr enar enar en renen beräkningsunderlag....messsessesrssrsssrrsrsrrnrenerrnenrenenennnnrnrn nn ann Ersättning för sjukgymnastik, ändring i lagen.................... Ersättning till kommunerna för åtgärder för flyktingar IM.M., ANSÅG ooseeeeesrreessereerrnrerrrrernrrrrrrrrrnrrnrnrrrrrrr enn nen nn enn sn nro nn n Ersättning till Posten AB, anslag s...ssssssssesssessenenrnsnrnnnnnnnnnnn Etnisk diskriminering, anslag till åtgärder mOt.................. Europeiska unionen samarbete inom flykting- och migrationspolitiken...... SOCial trygghet .......ssssossonorensenrsenrsrnnnnrernenrernennenenrnnenen en nn nn nan</p>
-          <p>Finansiell samordning förlängd tid för lokal försöksverksamhet utvidgad lokal försöksverksamhet..............s.ssssssssssesennnnn Flyktingar DESParingSrällsomssssseserererrersrrerrsrrrnnrrrrernnsrrrnn renen ren nns en nen ann evakuering för medicinsk vård .............. flyktingkVOten ss ssssssseseessresseresresnnernnnernnrnennsnnenen förberedelse för ett framtida återvändande ..... inriktning av besparingsåtgärder......................ssssss0000n inriktning av flyktingpolitiken............sssssssssesesssesensnnnnnnn internationell Samverkaln....smmmsssssssssserrenesnennerenrsnrnenennn nn nn kommunmottagande .....ssseesssesssrssrerrrrrserrrrnrsrsrsenrnrnnrnnnnn anna stimulansbidräg......ssesessessessrerrerrensrrrrrrenrrsrsrenrererenennn sn nn en Folkpension</p>
-          <p>sänkning för förtidspenSiOnNär .....msssssessessssesrsenrnrnensnnnn nar Forskning, socialförsäkringsområdet ..............sssssssmsmsnnn Främlingsfientlighet och rasism, åtgärder ..........................- Förläggningskostnader m.m., anSläg......ssssesessnesesrsrnsrennrnrnnnn Försäkringskassor DESPAriNgAL ooosossseseressersreseerneernrnerrrernrnnnnenrnennrnnnsnnrn eran annan nan förtroendeläkare s.mmmmmmssessesrernenennenrnnrnnenerrernennrnsrrrnnnennnn renar kompetensutveCkling ........sssssssressssssssserernsnesnnnrnrnsnrern ann nn lokalkOntOrSNät.......s.essssssseessrsnrennnrrrrerrrrsnrernerrerrernsnsnnsn nen omläggning till kalenderår s........ossssssesessssenenennnnnnnnnnnnnnan rehabilitering ......ss.ssssosrsnsnennsrensrennrrrnrrrnnernernnenerr rn enn n nn nen SaAMMAanNSIagNiNg sosseesseeseserssrrenrennrnrrrrnnrerrsrnennennrnen renen rann årSredOViSNiNgG ossssssesssesesrersenerererrrrererrennrrrrrenrnnnrnnrn sen nnn an nana</p>
-          <p>3y 1994/95:SfUReg. 17</p>
-          <p>17 17</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199495/reg_199495_SfU/reg_199495_SfU-007.pdf"/>
-          <p>Försöksverksamhet med kommunal primärvård,</p>
-          <p>ändring i lägeN smuossssssresresressneesresrrrrrrresnnerernnrnrennernnen nn n rann rna nn</p>
-          <p>Förtidspension</p>
-          <p>alternativ till</p>
-          <p>avskaffade äldreregler.... barntillägg ssssmsssessesreseennnennnrrnrernnrrnrrrrenesnrennrnnnennrnnnsn nr nn nan handikappade studerande ...seeeseersersersrsrsrsenrenenennrnennn anna höjning av pensionstillsKkOtt............s.sssssesssersersersrnesrsrn rann regeläNdriNgar .sosssssseserrserrsererrrrrrrerererrrrrerrrrrernnrnrnnnnnenn rna nan sänkning av folkpenSiOnN s..ssssssssessrssssessenenrenrenennennen enn annan utredning Om rätt till..osmsmmmsssssssssrsssreresrerrnrnrsrnnnnn nr nn nn nn nn</p>
-          <p>Förvaltningsdomstolar</p>
-          <p>nämndemannamedverkan i socialförsäkringsmål........ prövningstillstånd i socialförsäkringsmål.....................-</p>
-          <p>Föräldraförsäkring</p>
-          <p>barnkKONMtOs.sssssosssesssssesrerernnerseeeeerrererrrrrrrrsrnnrenn rann nn nn rnnn annan</p>
-          <p>Föräldrapenning</p>
-          <p>avräkning av tid med föräldrapenningförmån enligt utländsk lagstiftning .... biståndsarbetare ................... delad mellan föräldrar BZArantidagarossssssessessesrersreesrernrrrrreennerrrenrrrrerrnernrnn nr nenn rr rn nn kompensationSNivån s..ssmmmesreseereserresesesesernenrnrenenrnnrnen rn n rn nn till en av föräldrarna vid gemensam vårdnad ............... under arbetsfri tid o.smmmmsssesssersrrrrrrerserrnerrrrrnnrrnnrrnernnnsnn nr nan åldersgräns för garantidagar ......ss.s.sssssssssesrsssrsrnnnsnennn anna</p>
-          <p>Handikappersättning</p>
-          <p>INflatiOnSSKYCd sossssssesressrresrarsnrerrrersrrrnesernrnnnnernennn nen nr n ann reformering av bestäm melSernNa..........ssesssosssensennennennnnnn</p>
-          <p>Handläggning av ärenden om bilstöd till handikappade, ändring i lägeN smsssssssssesresersnersrrerrrrnrrerrrrereenrrrnrsnrnn ere rens nn rann</p>
-          <p>Hälso- och sjukvårdslagen, ändring i.........s.ssssssssesessrsesnnna</p>
-          <p>Ideell skada, statlig ersättning vid, ändring i lagen.............</p>
-          <p>Internationell samverkan inom ramen för flykting- och</p>
-          <p>migrationspolitiken mM.m., aNSläg.........ssssesssessersrsrennanennnnnnn nn</p>
-          <p>Invandrare</p>
-          <p>Invandrartidningen, anslag ..............ssssss-+&gt;&gt;-- - Invandring</p>
-          <p>segregerade bostadsområden .............ssssessssssessssesensenennnnnn CiSkriminNeriNgsosmmmseeseensrrsnrersererererrrrrerernnrnrrrnnrennernn er nn nn [091054 &amp;&gt; Lä TOT a RA</p>
-          <p>besparingsåtgärder os ..........sssessesesraseersenenenenennnrenenennsnnnnn nen nnn inriktning av invandringspolitiken...........eeeseeeseeesesernrnr</p>
-          <p>10,</p>
-          <p>10 10</p>
-          <p>1994/95:SfUReg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199495/reg_199495_SfU/reg_199495_SfU-008.pdf"/>
-          <p>Kommunalskattelagen, ändring i lägen ......sssssessessssrsssnrnnna</p>
-          <p>Lokal försöksverksamhet med finansiell samordning mellan socialförsäkring, hälso- och sjukvård och socialtjänst fortsatt giltighet av lagar ändring i lagar sussessssesssessrresrrsrersnnnr rss nere nnsrn nn nen nnen nn nan nn Lån till hemutrustning för flyktingar m.fl., anslag............. Läkarvårdsersättning, ändring i lägen.........ssesssesessserersrsrnenr Läkemedelskostnader avgiftsfria läkemedel och förbrukningsartiklar ............ DEgrÄNSNING oooeoosereeseressrersseennresrresrrnrrsnrrssrn nns rna nns n nanna nen nan finansiering högkostnadsskydd Patientavgifl.......s..osesseoresseoneersereesernnnnerrrnnrenn renen nernrnnrnen ändring i läge .omsmmssssesresssrenrernrerennrrretrnerr ner nere ns ren terna</p>
-          <p>Mottagande av asylsökande, ändring i lagen ......................-</p>
-          <p>Närståendepenning</p>
-          <p>Offentlig utfrågning, invandrartäta OMråden.....................- Ombudsmannen mot etnisk diskriminering, anslag ..........</p>
-          <p>Patientsombudsman i socialförsäkringsmål ...................s.--- Pensioner allmän egenavgift för sjömän allmän pensionsavgiff..........ssseessssssnenranesnesnennnrsnrnnsnnnenan enn allmän sjukförsäkringsavgift.............ssssssssssosessensanennnnnnnnn analys av pensionärers levnadSniVå ...........ses.seserensrersrnn CZCNAVZifler sossssesssererrerererrrrerrerrrnnrnnrrrrnrrnrrnrenrnenn enn nen nn nanna INCCXCLING ooooeesreeerrerereerrrerrrrrsrerrranrnrsnerrnnrrnnrnennn rerna nn n nanna pensionsgrundande inkOmMmsSt...ssseseerereesrerenrerernennnnnnnnenen pensionsgrundande tidl...nsmessessrssrsessenrrnrsnnernennenerennnnnnnnnnen PenSiOnNSålder ssnsssesesrereerererrererenrerrerrerrerrerrnnennrnrnen enar nns nn nn premiereservsystem, avsättning till...................... tilläggspensioneringsavgift, storlek över taket............... VÄrdeSäkrlinNg..oosssensersseeesrrrsreerrernrrrrrrrrrrrrrrrerrnrnrrnnnnr nr nn anna PensionstillskOtt........sssesssrsreneenesenrsnenrenrerrrnrerenrenranenrnnnrnnsnnn anna</p>
-          <p>Rehabilitering arbetsgivaraNSVål smossmssesseesssesersresserrrrsrsrrrrrn nen rrrn enn rn nn nn nn arbetshjälpmedel................. försäkringskassans roll .... kvinnors rehabilitering ..........e.sssossseseresrrrsensrannennnnnnrnnnn nan köp av tjälSter ssmssssssseseesseseererrensrrersennnrnrrrnnennennnn nare nn nen nn rehabiliteringsersättNiNg .......ssssssssssesseosrannennnnnrn annen nan nn</p>
-          <p>6 1994/95:SfUReg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199495/reg_199495_SfU/reg_199495_SfU-009.pdf"/>
-          <p>RFV:S SJUKHUS ossossssssensrosrsrnsrrosrnsnnersrnsnsnsrsrnsnnrrnnrn rna rna non n 10 1994/95:SfUReg.</p>
-          <p>Rehabiliteringspenning, kompensationsnivån .................... Ty Riksförsäkringsverket ANSIAG oooooosreeersrreserrerrrrrserrrrrrrrrrrrrrrrerrrrrnnesrnrrrrernnrr nns enn nanna 10 DESPariNgAL oosssssseseeseerrersrrerrrrrrrrerrrrnrrrrnenrernnnn ann nerna nan nana 10 Riksförsäkringsverkets Sjukhus s.....msssesssesrsenneneonenrnnsnnnennnennns 10 Sjukdomsbegreppet s....s.sssssossesersensrenrenrserrrrrererrsenrnrnernennerennnn ann 10 Sjukförsäkring bruttoredOViSNilNg ........sssessssessrassrarrsenrresrrnrnrrrrnsnnrnnnnn nan nana 10 ersättning i internationella förhållanden ...................... 8 StatSbiClräg..sosssseesrerresrrerrerrrrerrreerrrrrrrsrrrrrrernnrnrnnssn nn nnnnrn ann nn 10 Sjukhusvård, avgift för PenSiOnärer..............ssssesssessesssenensnnnn 10 Sjuklön KareNSA AG. ooseseessesreserresernrerrsesrnenrsnrrrnerrrrnsnernern renen ner nrn enn n nen 10, 7y kOompensationSnNiVåN ..mmessessssrsrsrerenrsrsrnrnrnnenernrnnnrnrnnnn ana 7y, 10 rapporteringsskyldighet s...mnnmmsssssssesssseonennanenennanenennnnn rna 10 Sjukpenning bedömning av arbetsförmågan ...............s.s.sesssssesesnnnnsnnnn 10 biståndsarbetare .....s.sssosossossreseorerrnrerenrersrnrrnrennrrrnrrennnnn nn nan 10 fördjupad PrÖVNiNg s...ssssesssessrrrsersssrersenrnersnrnrnrnn nr narr nn rna 10 fÖrSäKfAlD oooossssesresessereersesererrrrrernesrnrrrrrnenenn ense n esse nr nnn eran n nn 10 iNTiktNilgoossssseesseeseereersersrrrerrrnrrrrrrrrenrersrnnn rann nen n nn nn nerna a 10 Kare€NSCAD.soossseesserseessrerrererrarrrnnrnnrnnnarnnensenn rs rn en nr nn en nen nen nan 10, 7y kompensationSniVånN s..mmssssssssssrsssnnssrnenrnnnnensnnnnnnn rna nn nn 10, 7y kompletterande utredniNg...........sssssssssessesersssnenennennsnnnn 10 läkarintyg/utlåtande 10 regeläNGriNgal .sssssesssssersersrrrererrerrernsrerrserrrnrnrnnr sann nrnn nns nanna 6y Sjukpenning och rehabilitering, anslag.... oe 10 Sjukpenningggrundande inkOmMmSt a...smeesesesrsesnrenesnnnrnnnsnnnnnn 10 Sjukvårdsförmåner, anSläg.........sssssssssrsesesrsenennnnnnnnnnnnnnn nonan 10 Självdeklaration och kontrolluppgift, ändring i lagen....... 6 Sjömansskatt, ändring i läge .......s..sssssesreserseseesnenernnnnnnnnnnn nan 6 Smittbärare ändring i läge mmm sssssesesresereernennsrerernenesenrrnenenn enn nenen nn nn nn nn 7 ersättning till, ändring i lägen s.mmssssssssssessererernenenrnnnnnnn 3y Social konvention Chile oosoessseseseseerererrrrrnrnenesrenerenenenen eran en ensnn nen rn enar en en enar nan nn an 19 ekonomiska konsekvenser ........s.ssssseesesensensrennenennnnnennnnnna 19 Socialavgifter arbetsmarknadsavgift på inkomst av annat förvärvsarbet€.........sssssssesseosenseenersrerrerrerserrrrrenrrrrernrneren rn nn nn 17 sjukförsäkringsavgiffl..........ossssssssrssesenessonsennenesrenennnnnnn nn nn 17 Vinstandelar s...sssssssssrssseseerrerrenrerrenrerrrnrersernrrrrnnnennrn ennen annan nn 6y ändring i läge .smmmssseseesesresenrasesransenennrsnnrnen renen n annan nns nana 6, 17, 3y Socialförsäkring behov av enklare regler s..mmmmmssssseeseenresenersrnnnnnrernennnn enn nan 20 extern FeViSiODN sossmssssesesresseeseenesnerrnrerrerrsrsnnsrrsennrnernnnrennn nan 20 finansiell samordning med hälso- och sjukvård, 10</p>
-          <p>socialtjänst och arbetsmarknadsmyndighet................... 17</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199495/reg_199495_SfU/reg_199495_SfU-010.pdf"/>
-          <p>20 1994/95:SfUReg.</p>
-          <p>intern kontroll</p>
-          <p>intern revision 20 konsekvensbeskrivningar 20 FeCOViSNiNgGososesereereeererrrrrrrrriserrrrrnrnrnrernrrrnnrsnrenn enn nerna nen nn nan 20 regelSYSteM sssssssessrssersrenrseesrennrernnnnesnrnn arne nn enn nr nrnn nn enn nana 1 Socialförsäkringsnämnder handläggnNinNg...ssesseseseesresernerreernernrerrrenrrerern ennen nennsnrn nn nn nen 1 läkarmedverkan..sssssssesreesseersrsrnnnnrrrnrrnrnrenrrnnnenrrnn ennen nana 1 Socialförsäkringsregister bidragSsfUuSk sossnsssseseerenrerrenrenernrrrsrrannenrnernenrer ennen renernnn en enn nan 3 lag om socialförsäkringsregister ........s..s.sssssssessenennnnnnnnnn 3 Statens invandrarverk 13 13 6 3y 12 12 12 stipendium vid baSår s.......sssosssesesrsrsrsenrsrnnenennrnrnnennnnnnn nn 12 Studiebidlrag......msssessrerensrrnnnrrennserenerarnrr rer snn nns ennen nes n renen nn nt 12 studielån i ungdomsgymnasiUlmM......oesssssssesssenrnennrnnnn ann 12 studier Utomlands. ..smmmesssesseesrrssrrarnsnransrnanrrnnnesn annen rnnn rann 12 Studielån anstånd med återbetalning................e.seossssesenesesrsnenrnnnnnnn 12 avskrivning på grund av sjukdOmM.........s.seseseerererenrnenennnn 12 vid basårsutbildning a .....osssossesreoreoresreresrsrerenrrrrrerenenanen ann 15 Studiemedel [VOR EV 12, 6y utbildningens längd, aVPaSSNiNg ....mmmsmssseseseesenienennnnsnnnnn 9, 12, 7y övre åldersgräns för rätt tillsss.smss.sssssssssesererrerenenennnnn nan 12 Studiesociala ändamål FOR EF 12 reseersättning vid statens skolor för VUXNA ..................- 12 reserabatter........ssossoosoossensrrnrrrnsrennnnrrnrrrnnnnrnr rens nnnnnn nn nn nn nn nan 12 Talboks- och punktskriftsbiblioteket.........................-.-- 12 Studiestöd deltidSStUdiers.ssmssssssesresesresrnerenrenrernnnenn ren rennrnerrennn nen nrn rn nere 9, 7y folbokföring vid Studier s........ssesesssserrenrerenrorernrsnsnsnennnn nn 12 reformering av studiestödssystemet.............................-.- 12 upphävande av tidigare beslut 9 utländska medborgare.................. 12 vuxna funktionshindrade.......... ly Studiestödslagen ÄNCTLÅNG oosseseererrerrrserrerrernerrsrenrenrernresreesrerrrseresneroer ennen nn enar en ann 9, 12, 15, 3y Svenskt medborgarskap ansÖökningsavgift smmmmmmessssrsseeresresnrennrsrennennennenernenennen ennen ann 2 för barn födda utomlands av svenska mödrar .............. 16 11</p>
-          <p>handläggande Myndighet ...sssssssessrssesnrenenrsenrnnennnnnn enn nnn 2</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199495/reg_199495_SfU/reg_199495_SfU-011.pdf"/>
-          <p>hemvisttidens längd vid ansökan OM... .smseeessersserrrsrrnsr högtidlighet vid erhållande aV.........sssssosesesresessnnnnennnn nan identitetskONtrOll..sssssssssssessersrerrrrsrerrrrsersnrrnnrnnennnrrrnnnn nan KarenStider ssssssssssessrersrererersrrerrrrrerrrrrrrrrrrrrrnnrrrrennrrnr rann rna krav på kunskaper i svenska språket UtfeC NING aoosseseeresressersrerrereesrereererrerrrrrsnerrrren rna nen vandeln</p>
-          <p>vid oklar identitet återkallelse ..sssmsssesesrenerenerernenererrenenrnenrnrnrenennnnnnnenen rn rn nn nn nan ändring i läge. ssmesssssseesrrerseessensresnerrererenrernrrennrnnr rann nn nana överlämnande av ärenden su smmeeesserssersresssrssrnnnrrnrenn nn nn Särskilda insatser i invandrartäta områden, anslag ............ Särskilda åtgärder i flyktingmottagandet, anslag ................ Särskilt pensionstillägg, anslag sm..mmmmsnsssssernserenrernsnrnrnrnnrnnnn nen</p>
-          <p>Särskilt vuxenstudiestöd för arbetslösa, ändring i lagen .... Särskilt vuxenstudiestöd till studerande vid vissa lärarutbildningar</p>
-          <p>Tandvårdsförsäkringen högkostnadsskydd ...........sssesesseseesesrrseenesernesnnsnennennrrnennrn nan patientavgift......... tandvårdstaxan Tandvårdslagen, ändring i lägen smsmmmmssesssersrererrererernernenenn nan Tillfällig föräldrapenning kOMPEensatiOnSNiVå....ssssseseseresesererrererenenenernenenernenen nn nn ana slopade kontaktdagar s..mmmmmesessrereeresernrsrrrnennernrnnernnrrnnnnrn nn till båda föräldrarna Samtidigt............ssssssososesesrerenennennnnn vid bosättning i Danmark, Finland eller Norge ........... Tilläggspensionsavgifter, lag om förvaltning av vissa ......... Timersättning vid vissa vuxenutbildningar</p>
-          <p>Uppbördslagen, ändring i lägen s..smsssssssssesesressessenrennsnnsnnnn nn Uppehållstillstånd anknytningar</p>
-          <p>Per ManNeNta soossesseseererererreerersenesrererenenenrrnsnsrer enes nenen renen nr n enad tidsbegränsade sussssssessersrrersrrnrrrnnrrrrenrernrerern ren nrnn nen n enn nr nn nn tidsfrist för återkallels€.............sssossossosossonnenrnennernnnnrrnnn nr utrednNing............s..ssse0ss0&gt; vandelns betydelse villkor för återkallelse VISSA ANNÖTIGAsooossssesessrereeserresrererrererereerrrrrrrrrrrerrernrnnrennnnnan återkallelse mosmssssesssressrssersrereesenseneeresrenerrerennnsnrenenn renen nen nan</p>
-          <p>10,</p>
-          <p>16 2 16 16 16 16 16 2 16 16 16 13 14 10 12</p>
-          <p>1994/95:SfUReg.</p>
-          <p>12</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199495/reg_199495_SfU/reg_199495_SfU-012.pdf"/>
-          <p>Utlänningar, information till smo sesesesssssessesesserererensnrnnnnnnnnnnnn Utlänningslagen förvar av Dar ommssessrersrarsersrerrennrrsrrrrrerrrrrrr rer rn n rn nsnnn anna förvarslOkaler o.smmmssssrrssserrererernrnernrnrnnnerernr ner rnnn rr ernren eran nt människOSMUggliNg .ummeseessessennensreornerneesnrersrnennrrnrssnrnn rann åldersgränsen i ÄNdFLING Åossoseeeesesrerreereeseereererrererrerrrnrnn ennen enn nrn rann e rr ngr annen Utlänningsnämnden</p>
-          <p>Utvisning på grund av brOtt.....ssssssssessensssesrnsenernornsnrrrensrnrrnrrnnrnn nn verkställighet...........s.ossososoosonononnesnennenennnnnerrrrnnrnnenernrnrnnn nn</p>
-          <p>Visering besÖkSViSerilg s...sssmssessessenrenearnennsneserneersnnernernerrnrnenn enn rna sn f.d. JUZOSIaViCh sissnsesrerresersrnrenenrenernennenren nens ren nen enn rn rr nn rann generellt ViseringSskräV sm mmssssssereresenesrseseenreresenrerenrnrnnnnt Vissa yrkesskadeersättningar, anSläg .........s.sseessesessenenenrnsnnnt Vuxenstudiestöd</p>
-          <p>internatbidrag kollektiva ansökningar.... korttidsstudieStÖd..............ee-essserrerseenreonrrnnnernnnrrrrnnennnrn rna lärarutbildning för naturvetare ..mmemesssersessenrrernnnnsnnnnnn N/T-pPlatS€i.sssssesseesoersnrenrsrenrennnsnesnnnenrerresrrrrrrrrrr nen rrn rn enn nan TCSUISCIL oosooserereseerereerenrrrerenrsrrneren enes ner ene r eran ense rer n enn nn pannan särskilt vuxenstudiestÖd ............eeessesssoseeosrersesrsrernrnnrnnrnnn YTH-utbild ning ...ssmnneserreresrressrrrnrnernsrrrsnnrerrrrnnernnrrennnnn nn nn Vårdbidrag INflatioNSSKYdCA sssosssesseserresersnesrrnsrerrenrnrrnrernrrernnsnrernnsr nn nn nnn till äldre SYSKON sismmnasessensersnnerernnnnrnnennnnn eran nn oo Vårdbidrag för handikappade barn, anslag .............esnrr Vårdnadsbidrag ....mnmmmssserereerererenenenenrenenenenrnren ennen enar enen en enn nn nn</p>
-          <p>Ålderspensioner</p>
-          <p>reformerat pensionssystem .... . Åtgärder för invandrare, anSläg..............sssssssseoossssssnnnnsnnnnn Åtgärder mot etnisk diskriminering, anslag.......................- Åtgärder mot främlingsfientlighet och rasism, anslag........</p>
-          <p>Överföring av och andra åtgärder för flyktingar m.m.,</p>
-          <p>11</p>
-          <p>16 1994/95:SfUReg.</p>
-          <p>13</p>
-          <p>13</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199495/reg_199495_SfU/reg_199495_SfU-013.pdf"/>
-          <p>gotab 48669, Stockholm 1995</p>
+          <p>
+            Socialförsäkringsutkottets
+          </p>
+          <p>
+            A=
+          </p>
+          <p>
+            register vid riksmötet 1994/95 7 1994/95 SfUReg. Betänkanden
+            Nr SfU1 Socialförsäkring — handläggning m.m. Utskottets justering
+            1994-10-27 Riksdagens beslut: Bifall till utskottets hemställan
+            1994-11-16 Protokollsnhummer 1994/95:23 Nr SfU2 Vissa utlännings-
+            och medborgarskapsfrågor Utskottets justering 1994-10-27 Debatt
+            i kammaren 1994-11-16 Protokollsnummer 1994/95:23 Riksdagens beslut:
+            Bifall till utskottets hemställan 1994-11-16 Protokollsnhummer
+            1994/95:23 Nr SfU3 Socialförsäkringsregister (prop. 1994/95:8)
+            Utskottets justering 1994-11-24 Debatt i kammaren 1994-12-07 Protokollsnhummer
+            1994/95:37 Riksdagens beslut: Bifall till utskottets hemställan
+            1994-12-07 Protokollsnhummer 1994/95:37 Riksdagsskrivelse 1994/95:60
+            Nr SfU4 Stimulansbidrag till kommuner (prop. 1994/95:26) Utskottets
+            justering 1994-11-15 Riksdagens beslut: Bifall till utskottets
+            hemställan 1994-11-23 Protokollsnummer 1994/95:28 Riksdagsskrivelse
+            1994/95:30
+          </p>
+          <p>
+            1 Riksdagen 1994/95. 11 saml. Register
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199495/reg_199495_SfU/reg_199495_SfU-001.pdf"/>
+          <p>
+            Nr SfUS 1994/95:SfUReg. Upphävande av lagar med anknytning till
+            EES-avtalet (prop. 1994/95:37) (prop. 1994/95:83)
+          </p>
+          <p>
+            Utskottets justering 1994-12-06 Riksdagens beslut: Bifall till
+            utskottets hemställan 1994-12-16 Protokollsnummer 1994/95:44 Riksdagsskrivelser
+            1994/95:116 och
+          </p>
+          <p>
+            1994/95:117
+          </p>
+          <p>
+            Nr SfU6 Förändringar i finansieringen av det allmänna pensionssystemet
+            (prop. 1994/95:41)
+          </p>
+          <p>
+            Utskottets justering 1994-12-01 Debatt i kammaren 1994-12-12
+            Protokollsnummer 1994/95:40 Riksdagens beslut: Bifall till utskottets
+            hemställan 1994-12-15 Protokollsnummer 1994/95:43 Riksdagsskrivelse
+            1994/95:81 Nr SfU7 Vissa socialförsäkringsfrågor (prop. 1994/95:42)
+            Utskottets justering 1994-12-06 Riksdagens beslut: Bifall till
+            utskottets hemställan 1994-12-16 Protokollsnummer 1994/95:44 Riksdagsskrivelse
+            1994/95:118 Nr SfU8
+          </p>
+          <p>
+            Ersättning för vissa vårdförmåner i internationella förhållanden
+            m.m. (prop. 1994/95:88)
+          </p>
+          <p>
+            Utskottets justering 1994-12-01 Debatt i kammaren 1994-12-15
+            Protokollsnummer 1994/95:43 Riksdagens beslut: Bifall till utskottets
+            hemställan 1994-12-16 Protokollsnummer 1994/95:44 Riksdagsskrivelse
+            1994/95:119 Nr SfU9 Vissa studiestödsfrågor (prop. 1994/95:98)
+            Utskottets justering 1994-12-01 Debatt i kammaren 1994-12-12 Protokollsnummer
+            1994/95:40 Riksdagens beslut: Bifall till utskottets hemställan
+            1994-12-15 Protokollsnhummer 1994/95:43 Riksdagsskrivelse 1994/95:82
+            Nr SfU10
+          </p>
+          <p>
+            Socialförsäkring — inriktning och anslag (prop. 1994/95:100 bil.
+            6) (prop. 1994/95:147) Utskottets justering 1995-05-04 Debatt
+            i kammaren 1995-05-17 2 Protokollsnhummer 1994/95:107
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199495/reg_199495_SfU/reg_199495_SfU-002.pdf"/>
+          <p>
+            Riksdagens beslut: Bifall till utskottets hemställan 1995-05-17
+            1994/95:SfUReg.
+          </p>
+          <p>
+            Protokollsnummer 1994/95:107 Riksdagsskrivelse 1994/95:343 Nr
+            SfU11 Invandring — Tilläggsbudget (prop. 1994/95:105) Utskottets
+            justering 1995-02-21 Riksdagens beslut: Bifall till utskottets
+            hemställan 1995-03-15 Protokollsnhummer 1994/95:73 Riksdaggsskrivelse
+            1994/95:201 Nr SfU12 Studiestöd m.m. (prop. 1994/95:100 bil. 9)
+            Utskottets justering 1995-04-04 Debatt i kammaren 1995-04-20 Protokollsnhummer
+            1994/95:91 Riksdagens beslut: Bifall till utskottets hemställan
+            1995-04-20 Protokollsnhummer 1994/95:91 Riksdagsskrivelse 1994/95:278
+            Nr SfU13
+          </p>
+          <p>
+            Invandrar- och flyktingpolitiken (prop. 1994/95:100 bil. 11)
+            (skr. 1994/95:131)
+          </p>
+          <p>
+            Utskottets justering 1995-04-20 Debatt i kammaren 1995-05-03
+            Protokollsnhummer 1994/95:99 Riksdagens beslut: Bifall till utskottets
+            hemställan 1995-05-03 Protokollsnummer 1994/95:99 Riksdagsskrivelser
+            1994/95:309 och 1994/95:310 Nr SfU14 Tilläggsbudget — flyktingmottagandet
+            (prop. 1994/95:125) Utskottets justering 1995-05-04 Riksdagens
+            beslut: Bifall till utskottets hemställan 1995-05-17 Protokollsnhummer
+            1994/95:107 Riksdagsskrivelse 1994/95:346 Nr SfU1S5
+          </p>
+          <p>
+            Särskilda utbildningssatsningar inom högskolan (prop. 1994/95:139)
+          </p>
+          <p>
+            Utskottets justering 1995-04-06 Debatt i kammaren 1995-04-20
+            Protokollshummer 1994/95:91 Riksdagens beslut: Bifall till utskottets
+            hemställan 1995-04-20 Protokollsnummer 1994/95:91 Riksdagsskrivelse
+            1994/95:279
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199495/reg_199495_SfU/reg_199495_SfU-003.pdf"/>
+          <p>
+            Nr SfU16 Ändringar i utlänningslagen (prop. 1994/95:179) Utskottets
+            justering Debatt i kammaren Protokollsnhummer Riksdagens beslut:
+            Bifall till utskottets hemställan Protokollsnrhummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr SfU17 Socialförsäkringsfrågor (prop. 1994/95:197) Utskottets
+            justering Debatt i kammaren Protokollsnummer Riksdagens beslut:
+            Bifall till utskottets hemställan Protokollsnhummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr SfU18 Mottagande av asylsökande (prop. 1994/95:206) Utskottets
+            justering Riksdagens beslut: Bifall till utskottets hemställan
+            Protokollsnummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr SfU19
+          </p>
+          <p>
+            1995-05-18 1995-06-07 1994/95:115 1995-06-07 1994/95:115 1994/95:401
+          </p>
+          <p>
+            1995-05-04 1995-05-17 1994/95:107 1995-05-17 1994/95:107 1994/95:344
+          </p>
+          <p>
+            1995-05-04 1995-05-17 1994/95:107 1994/95:345
+          </p>
+          <p>
+            Konvention om social trygghet mellan Sverige och Chile
+          </p>
+          <p>
+            (prop. 1994/95:199) Utskottets justering Debatt i kammaren Protokollsnhummer
+            Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer
+            Riksdagsskrivelse
+          </p>
+          <p>
+            Nr SfU20 Kontroll av socialförsäkringen (förs. 1994/95:10) Utskottets
+            justering Debatt i kammaren Protokollsnhummer Riksdagens beslut:
+            Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelser
+          </p>
+          <p>
+            1995-06-01 1995-06-12 1994/95:118 1995-06-13 1994/95:119 1994/95:435
+          </p>
+          <p>
+            1995-06-01 1995-06-12 1994/95:118 1995-06-13 1994/95:119 1994/95:436
+            och 1994/95:437
+          </p>
+          <p>
+            1994/95:SfUReg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199495/reg_199495_SfU/reg_199495_SfU-004.pdf"/>
+          <p>
+            Yttranden
+          </p>
+          <p>
+            Nr SfU1ly till SoU Studiestödet för vuxna funktionshindrade Utskottets
+            justering SoU3
+          </p>
+          <p>
+            Nr SfU2y till JuU Fortsatt reformering av instansordningen i
+            de allmänna förvaltningsdomstolarna Utskottets justering JuU6
+          </p>
+          <p>
+            Nr SfU3y till FöÖU Totalförsvarsplikt m.m. Utskottets justering
+            FöU1l
+          </p>
+          <p>
+            Nr SfU4y till UU Sveriges medlemskap i Europeiska unionen Utskottets
+            justering UUS
+          </p>
+          <p>
+            Nr SfUS5y till SoU Vårdnadsbidraget. Garantidagarna. Enskild
+            barnomsorg Utskottets justering SoU8
+          </p>
+          <p>
+            Nr SfU6y till FiU Vissa ekonomisk-politiska åtgärder, m.m. Utskottets
+            justering FiUl
+          </p>
+          <p>
+            Nr SfU7y till FiU Kompletteringspropositionen Utskottets justering
+            FiU20
+          </p>
+          <p>
+            1994-10-25
+          </p>
+          <p>
+            1994-11-15
+          </p>
+          <p>
+            1994-11-15
+          </p>
+          <p>
+            1994-11-24
+          </p>
+          <p>
+            1994-12-01
+          </p>
+          <p>
+            1994-12-01
+          </p>
+          <p>
+            1995-05-18
+          </p>
+          <p>
+            1994/95:SfUReg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199495/reg_199495_SfU/reg_199495_SfU-005.pdf"/>
+          <p>
+            Sakregister Allmän försäkring, ändring i lägen....ssesessessessessrrsrrsnennnnnn
+          </p>
+          <p>
+            Allmänna egenavgifter
+          </p>
+          <p>
+            Allmänna pensionsfonden, ändring i reglemente Arbetstillstånd,
+            säsongsarbetstillstånd .................................. Asylsökande
+            aNKNYtNilgososseeseesesssrererresrsereerereererreresrerrrnnrrrrnnnnrnnrnn
+            nn nanna aSylproCeSSeN..ssssessssnnnnnnn bistånd till barn brottslighet
+            m..sssssssseessoresenrrrrerrerrernrrnnrrrrrnnrnn nn n nan förläggningsverksamhet
+            s..smmmnsssssessessrsrsnennennennrnnnnnnnnnn rann förstärkning
+            av asylbyråer s......ss.ssssssssssesenenenesnnnsnnnnnnn nan inCidentrappOrter
+            s..smsmsssssssersesrsrenrsrrersnrsrrnr nen rss nnrnrrn enn nn
+            nn kommunerSättNiNg.......ssssssssresessrssereseesernnnennnesnnnrnnnnnnnnn
+            nan misskÖtSamhet.....ssnssssesessesrrenenrennernennerrenennnnn
+            renen nrnrnn ennen nen VANd€l ooesssseererererrereserrernernersenrrrsesrennrr
+            ennen renen nen nen ennen rr nn nan nn verkställighet........sssssssossosesonnenesnennenesresrennnnnrnnennrn
+            nr nen nnn rann vistelsetidsbestämmelSer......ss.ssssosssnesennennennennennnnnrsnennrnnn
+            nn ändring i lagen om mottagande av asylsökande ...........
+          </p>
+          <p>
+            Barnpension
+          </p>
+          <p>
+            Basbelopp analys av basbeloppsförändringar s.........s..ssssseresesnsrenenn
+            indexering av SGI-taket s.smmmnssseseesennesenrennennnnnennnsnennsnnnnnn
+            ändrad beräkningsmetOd s.......sssssessessessrrnnsrrnsnannnrnnnnn
+            anna BidragSsfUSk o.sssnssssessesersenresnsrernnrernennernnnrenner
+            renen nrnn nn ennrn ner n rn nanna Bostadstillägg till pensionärer
+            analys av pensionärers levnadSniVå s..............ese-ssrerrennnn
+          </p>
+          <p>
+            avkastning av förmÖögenhet.......ss.sssssssssrosessrssernrsnennnnnsnnnn
+            beräkning av skuldränta s......s.sssssssessssesnennnsnesnnnnennnrnen
+            nns inkOMStavdÅrAg...ssoseseerseseesresenerrsesranerrerresennennnnnsnenenn
+            nen nnn ann nan samordning med bostadsbidrag ...........ss.sssssssssssrsersrsorsnnn
+            skälig levnadsnivå vid beräkning av särskilt bostadstillägg ...........s.sssssesssesesennennennenrsnrnnrrrernernnnnern
+            rn nrn nn nr särskilt bostadstillägg ändring i lägeN..msseeessesesesseneenerrenrrsrrrrernennsnrrnnnnnrnnrn
+            nn
+          </p>
+          <p>
+            Centrala studiestödsnämnden
+          </p>
+          <p>
+            7, 8, 10, 17, 3y, Sy
+          </p>
+          <p>
+            13, 16
+          </p>
+          <p>
+            1994/95:SfUReg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199495/reg_199495_SfU/reg_199495_SfU-006.pdf"/>
+          <p>
+            Civilt fÖrSVår ssosmmsssssssssrseseresrrererrrrrrerrerrrrrrrrnrrrnrrrrnrrnrr
+            nns nn rn nanna
+          </p>
+          <p>
+            Dagmarmedel.sssnnsssssesssesrserernerernresnrrrnrrrrnrnrrrrrrnsnnrrernrn
+            enn n nn nr Delpensionsförsäkring arbetsvillkOr s..ss.sssssesessesanoesrrersersrrnnnnrrrrrnrtnrsn
+            ennen ene en enn n nn ändring i läge mmssssssrsssssersrssrerrrnsnnrrnrenrrnernernrn
+            ene rn nn renen
+          </p>
+          <p>
+            EES-avtalet upphävande av läg.....ssmssseseeserssessrersrrrrnnerernrnnrrenrnnnnrnnnr
+            nan Efterlevandepensioner till vuxna, anSläg................s.ssssss--ss-
+            Egenavgifter alLMäÄN Nås sseseseeseeeesrerrersrensrenrrsrenrernnr
+            rer rrrnrrn ennen nrr enar enar en renen beräkningsunderlag....messsessesrssrsssrrsrsrrnrenerrnenrenenennnnrnrn
+            nn ann Ersättning för sjukgymnastik, ändring i lagen....................
+            Ersättning till kommunerna för åtgärder för flyktingar IM.M.,
+            ANSÅG ooseeeeesrreessereerrnrerrrrernrrrrrrrrrnrrnrnrrrrrrr enn
+            nen nn enn sn nro nn n Ersättning till Posten AB, anslag s...ssssssssesssessenenrnsnrnnnnnnnnnnn
+            Etnisk diskriminering, anslag till åtgärder mOt..................
+            Europeiska unionen samarbete inom flykting- och migrationspolitiken......
+            SOCial trygghet .......ssssossonorensenrsenrsrnnnnrernenrernennenenrnnenen
+            en nn nn nan
+          </p>
+          <p>
+            Finansiell samordning förlängd tid för lokal försöksverksamhet
+            utvidgad lokal försöksverksamhet..............s.ssssssssssesennnnn
+            Flyktingar DESParingSrällsomssssseserererrersrrerrsrrrnnrrrrernnsrrrnn
+            renen ren nns en nen ann evakuering för medicinsk vård ..............
+            flyktingkVOten ss ssssssseseessresseresresnnernnnernnrnennsnnenen
+            förberedelse för ett framtida återvändande ..... inriktning av
+            besparingsåtgärder......................ssssss0000n inriktning
+            av flyktingpolitiken............sssssssssesesssesensnnnnnnn internationell
+            Samverkaln....smmmsssssssssserrenesnennerenrsnrnenennn nn nn kommunmottagande
+            .....ssseesssesssrssrerrrrrserrrrnrsrsrsenrnrnnrnnnnn anna stimulansbidräg......ssesessessessrerrerrensrrrrrrenrrsrsrenrererenennn
+            sn nn en Folkpension
+          </p>
+          <p>
+            sänkning för förtidspenSiOnNär .....msssssessessssesrsenrnrnensnnnn
+            nar Forskning, socialförsäkringsområdet ..............sssssssmsmsnnn
+            Främlingsfientlighet och rasism, åtgärder ..........................-
+            Förläggningskostnader m.m., anSläg......ssssesessnesesrsrnsrennrnrnnnn
+            Försäkringskassor DESPAriNgAL ooosossseseressersreseerneernrnerrrernrnnnnenrnennrnnnsnnrn
+            eran annan nan förtroendeläkare s.mmmmmmssessesrernenennenrnnrnnenerrernennrnsrrrnnnennnn
+            renar kompetensutveCkling ........sssssssressssssssserernsnesnnnrnrnsnrern
+            ann nn lokalkOntOrSNät.......s.essssssseessrsnrennnrrrrerrrrsnrernerrerrernsnsnnsn
+            nen omläggning till kalenderår s........ossssssesessssenenennnnnnnnnnnnnnan
+            rehabilitering ......ss.ssssosrsnsnennsrensrennrrrnrrrnnernernnenerr
+            rn enn n nn nen SaAMMAanNSIagNiNg sosseesseeseserssrrenrennrnrrrrnnrerrsrnennennrnen
+            renen rann årSredOViSNiNgG ossssssesssesesrersenerererrrrererrennrrrrrenrnnnrnnrn
+            sen nnn an nana
+          </p>
+          <p>
+            3y 1994/95:SfUReg. 17
+          </p>
+          <p>
+            17 17
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199495/reg_199495_SfU/reg_199495_SfU-007.pdf"/>
+          <p>
+            Försöksverksamhet med kommunal primärvård,
+          </p>
+          <p>
+            ändring i lägeN smuossssssresresressneesresrrrrrrresnnerernnrnrennernnen
+            nn n rann rna nn
+          </p>
+          <p>
+            Förtidspension
+          </p>
+          <p>
+            alternativ till
+          </p>
+          <p>
+            avskaffade äldreregler.... barntillägg ssssmsssessesreseennnennnrrnrernnrrnrrrrenesnrennrnnnennrnnnsn
+            nr nn nan handikappade studerande ...seeeseersersersrsrsrsenrenenennrnennn
+            anna höjning av pensionstillsKkOtt............s.sssssesssersersersrnesrsrn
+            rann regeläNdriNgar .sosssssseserrserrsererrrrrrrerererrrrrerrrrrernnrnrnnnnnenn
+            rna nan sänkning av folkpenSiOnN s..ssssssssessrssssessenenrenrenennennen
+            enn annan utredning Om rätt till..osmsmmmsssssssssrsssreresrerrnrnrsrnnnnn
+            nr nn nn nn nn
+          </p>
+          <p>
+            Förvaltningsdomstolar
+          </p>
+          <p>
+            nämndemannamedverkan i socialförsäkringsmål........ prövningstillstånd
+            i socialförsäkringsmål.....................-
+          </p>
+          <p>
+            Föräldraförsäkring
+          </p>
+          <p>
+            barnkKONMtOs.sssssosssesssssesrerernnerseeeeerrererrrrrrrrsrnnrenn
+            rann nn nn rnnn annan
+          </p>
+          <p>
+            Föräldrapenning
+          </p>
+          <p>
+            avräkning av tid med föräldrapenningförmån enligt utländsk lagstiftning
+            .... biståndsarbetare ................... delad mellan föräldrar
+            BZArantidagarossssssessessesrersreesrernrrrrreennerrrenrrrrerrnernrnn
+            nr nenn rr rn nn kompensationSNivån s..ssmmmesreseereserresesesesernenrnrenenrnnrnen
+            rn n rn nn till en av föräldrarna vid gemensam vårdnad ...............
+            under arbetsfri tid o.smmmmsssesssersrrrrrrerserrnerrrrrnnrrnnrrnernnnsnn
+            nr nan åldersgräns för garantidagar ......ss.s.sssssssssesrsssrsrnnnsnennn
+            anna
+          </p>
+          <p>
+            Handikappersättning
+          </p>
+          <p>
+            INflatiOnSSKYCd sossssssesressrresrarsnrerrrersrrrnesernrnnnnernennn
+            nen nr n ann reformering av bestäm melSernNa..........ssesssosssensennennennnnnn
+          </p>
+          <p>
+            Handläggning av ärenden om bilstöd till handikappade, ändring
+            i lägeN smsssssssssesresersnersrrerrrrnrrerrrrereenrrrnrsnrnn
+            ere rens nn rann
+          </p>
+          <p>
+            Hälso- och sjukvårdslagen, ändring i.........s.ssssssssesessrsesnnna
+          </p>
+          <p>
+            Ideell skada, statlig ersättning vid, ändring i lagen.............
+          </p>
+          <p>
+            Internationell samverkan inom ramen för flykting- och
+          </p>
+          <p>
+            migrationspolitiken mM.m., aNSläg.........ssssesssessersrsrennanennnnnnn
+            nn
+          </p>
+          <p>
+            Invandrare
+          </p>
+          <p>
+            Invandrartidningen, anslag ..............ssssss-+&gt;&gt;-- -
+            Invandring
+          </p>
+          <p>
+            segregerade bostadsområden .............ssssessssssessssesensenennnnnn
+            CiSkriminNeriNgsosmmmseeseensrrsnrersererererrrrrerernnrnrrrnnrennernn
+            er nn nn [091054 &amp;&gt; Lä TOT a RA
+          </p>
+          <p>
+            besparingsåtgärder os ..........sssessesesraseersenenenenennnrenenennsnnnnn
+            nen nnn inriktning av invandringspolitiken...........eeeseeeseeesesernrnr
+          </p>
+          <p>
+            10,
+          </p>
+          <p>
+            10 10
+          </p>
+          <p>
+            1994/95:SfUReg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199495/reg_199495_SfU/reg_199495_SfU-008.pdf"/>
+          <p>
+            Kommunalskattelagen, ändring i lägen ......sssssessessssrsssnrnnna
+          </p>
+          <p>
+            Lokal försöksverksamhet med finansiell samordning mellan socialförsäkring,
+            hälso- och sjukvård och socialtjänst fortsatt giltighet av lagar
+            ändring i lagar sussessssesssessrresrrsrersnnnr rss nere nnsrn
+            nn nen nnen nn nan nn Lån till hemutrustning för flyktingar m.fl.,
+            anslag............. Läkarvårdsersättning, ändring i lägen.........ssesssesessserersrsrnenr
+            Läkemedelskostnader avgiftsfria läkemedel och förbrukningsartiklar
+            ............ DEgrÄNSNING oooeoosereeseressrersseennresrresrrnrrsnrrssrn
+            nns rna nns n nanna nen nan finansiering högkostnadsskydd Patientavgifl.......s..osesseoresseoneersereesernnnnerrrnnrenn
+            renen nernrnnrnen ändring i läge .omsmmssssesresssrenrernrerennrrretrnerr
+            ner nere ns ren terna
+          </p>
+          <p>
+            Mottagande av asylsökande, ändring i lagen ......................-
+          </p>
+          <p>
+            Närståendepenning
+          </p>
+          <p>
+            Offentlig utfrågning, invandrartäta OMråden.....................-
+            Ombudsmannen mot etnisk diskriminering, anslag ..........
+          </p>
+          <p>
+            Patientsombudsman i socialförsäkringsmål ...................s.---
+            Pensioner allmän egenavgift för sjömän allmän pensionsavgiff..........ssseessssssnenranesnesnennnrsnrnnsnnnenan
+            enn allmän sjukförsäkringsavgift.............ssssssssssosessensanennnnnnnnn
+            analys av pensionärers levnadSniVå ...........ses.seserensrersrnn
+            CZCNAVZifler sossssesssererrerererrrrerrerrrnnrnnrrrrnrrnrrnrenrnenn
+            enn nen nn nanna INCCXCLING ooooeesreeerrerereerrrerrrrrsrerrranrnrsnerrnnrrnnrnennn
+            rerna nn n nanna pensionsgrundande inkOmMmsSt...ssseseerereesrerenrerernennnnnnnnenen
+            pensionsgrundande tidl...nsmessessrssrsessenrrnrsnnernennenerennnnnnnnnnen
+            PenSiOnNSålder ssnsssesesrereerererrererenrerrerrerrerrerrnnennrnrnen
+            enar nns nn nn premiereservsystem, avsättning till......................
+            tilläggspensioneringsavgift, storlek över taket...............
+            VÄrdeSäkrlinNg..oosssensersseeesrrrsreerrernrrrrrrrrrrrrrrrerrnrnrrnnnnr
+            nr nn anna PensionstillskOtt........sssesssrsreneenesenrsnenrenrerrrnrerenrenranenrnnnrnnsnnn
+            anna
+          </p>
+          <p>
+            Rehabilitering arbetsgivaraNSVål smossmssesseesssesersresserrrrsrsrrrrrn
+            nen rrrn enn rn nn nn nn arbetshjälpmedel................. försäkringskassans
+            roll .... kvinnors rehabilitering ..........e.sssossseseresrrrsensrannennnnnnrnnnn
+            nan köp av tjälSter ssmssssssseseesseseererrensrrersennnrnrrrnnennennnn
+            nare nn nen nn rehabiliteringsersättNiNg .......ssssssssssesseosrannennnnnrn
+            annen nan nn
+          </p>
+          <p>
+            6 1994/95:SfUReg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199495/reg_199495_SfU/reg_199495_SfU-009.pdf"/>
+          <p>
+            RFV:S SJUKHUS ossossssssensrosrsrnsrrosrnsnnersrnsnsnsrsrnsnnrrnnrn
+            rna rna non n 10 1994/95:SfUReg.
+          </p>
+          <p>
+            Rehabiliteringspenning, kompensationsnivån ....................
+            Ty Riksförsäkringsverket ANSIAG oooooosreeersrreserrerrrrrserrrrrrrrrrrrrrrrerrrrrnnesrnrrrrernnrr
+            nns enn nanna 10 DESPariNgAL oosssssseseeseerrersrrerrrrrrrrerrrrnrrrrnenrernnnn
+            ann nerna nan nana 10 Riksförsäkringsverkets Sjukhus s.....msssesssesrsenneneonenrnnsnnnennnennns
+            10 Sjukdomsbegreppet s....s.sssssossesersensrenrenrserrrrrererrsenrnrnernennerennnn
+            ann 10 Sjukförsäkring bruttoredOViSNilNg ........sssessssessrassrarrsenrresrrnrnrrrrnsnnrnnnnn
+            nan nana 10 ersättning i internationella förhållanden ......................
+            8 StatSbiClräg..sosssseesrerresrrerrerrrrerrreerrrrrrrsrrrrrrernnrnrnnssn
+            nn nnnnrn ann nn 10 Sjukhusvård, avgift för PenSiOnärer..............ssssesssessesssenensnnnn
+            10 Sjuklön KareNSA AG. ooseseessesreserresernrerrsesrnenrsnrrrnerrrrnsnernern
+            renen ner nrn enn n nen 10, 7y kOompensationSnNiVåN ..mmessessssrsrsrerenrsrsrnrnrnnenernrnnnrnrnnnn
+            ana 7y, 10 rapporteringsskyldighet s...mnnmmsssssssesssseonennanenennanenennnnn
+            rna 10 Sjukpenning bedömning av arbetsförmågan ...............s.s.sesssssesesnnnnsnnnn
+            10 biståndsarbetare .....s.sssosossossreseorerrnrerenrersrnrrnrennrrrnrrennnnn
+            nn nan 10 fördjupad PrÖVNiNg s...ssssesssessrrrsersssrersenrnersnrnrnrnn
+            nr narr nn rna 10 fÖrSäKfAlD oooossssesresessereersesererrrrrernesrnrrrrrnenenn
+            ense n esse nr nnn eran n nn 10 iNTiktNilgoossssseesseeseereersersrrrerrrnrrrrrrrrenrersrnnn
+            rann nen n nn nn nerna a 10 Kare€NSCAD.soossseesserseessrerrererrarrrnnrnnrnnnarnnensenn
+            rs rn en nr nn en nen nen nan 10, 7y kompensationSniVånN s..mmssssssssssrsssnnssrnenrnnnnensnnnnnnn
+            rna nn nn 10, 7y kompletterande utredniNg...........sssssssssessesersssnenennennsnnnn
+            10 läkarintyg/utlåtande 10 regeläNGriNgal .sssssesssssersersrrrererrerrernsrerrserrrnrnrnnr
+            sann nrnn nns nanna 6y Sjukpenning och rehabilitering, anslag....
+            oe 10 Sjukpenningggrundande inkOmMmSt a...smeesesesrsesnrenesnnnrnnnsnnnnnn
+            10 Sjukvårdsförmåner, anSläg.........sssssssssrsesesrsenennnnnnnnnnnnnnn
+            nonan 10 Självdeklaration och kontrolluppgift, ändring i lagen.......
+            6 Sjömansskatt, ändring i läge .......s..sssssesreserseseesnenernnnnnnnnnnn
+            nan 6 Smittbärare ändring i läge mmm sssssesesresereernennsrerernenesenrrnenenn
+            enn nenen nn nn nn nn 7 ersättning till, ändring i lägen s.mmssssssssssessererernenenrnnnnnnn
+            3y Social konvention Chile oosoessseseseseerererrrrrnrnenesrenerenenenen
+            eran en ensnn nen rn enar en en enar nan nn an 19 ekonomiska konsekvenser
+            ........s.ssssseesesensensrennenennnnnennnnnna 19 Socialavgifter
+            arbetsmarknadsavgift på inkomst av annat förvärvsarbet€.........sssssssesseosenseenersrerrerrerserrrrrenrrrrernrneren
+            rn nn nn 17 sjukförsäkringsavgiffl..........ossssssssrssesenessonsennenesrenennnnnnn
+            nn nn 17 Vinstandelar s...sssssssssrssseseerrerrenrerrenrerrrnrersernrrrrnnnennrn
+            ennen annan nn 6y ändring i läge .smmmssseseesesresenrasesransenennrsnnrnen
+            renen n annan nns nana 6, 17, 3y Socialförsäkring behov av enklare
+            regler s..mmmmmssssseeseenresenersrnnnnnrernennnn enn nan 20 extern
+            FeViSiODN sossmssssesesresseeseenesnerrnrerrerrsrsnnsrrsennrnernnnrennn
+            nan 20 finansiell samordning med hälso- och sjukvård, 10
+          </p>
+          <p>
+            socialtjänst och arbetsmarknadsmyndighet................... 17
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199495/reg_199495_SfU/reg_199495_SfU-010.pdf"/>
+          <p>
+            20 1994/95:SfUReg.
+          </p>
+          <p>
+            intern kontroll
+          </p>
+          <p>
+            intern revision 20 konsekvensbeskrivningar 20 FeCOViSNiNgGososesereereeererrrrrrrrriserrrrrnrnrnrernrrrnnrsnrenn
+            enn nerna nen nn nan 20 regelSYSteM sssssssessrssersrenrseesrennrernnnnesnrnn
+            arne nn enn nr nrnn nn enn nana 1 Socialförsäkringsnämnder handläggnNinNg...ssesseseseesresernerreernernrerrrenrrerern
+            ennen nennsnrn nn nn nen 1 läkarmedverkan..sssssssesreesseersrsrnnnnrrrnrrnrnrenrrnnnenrrnn
+            ennen nana 1 Socialförsäkringsregister bidragSsfUuSk sossnsssseseerenrerrenrenernrrrsrrannenrnernenrer
+            ennen renernnn en enn nan 3 lag om socialförsäkringsregister ........s..s.sssssssessenennnnnnnnnn
+            3 Statens invandrarverk 13 13 6 3y 12 12 12 stipendium vid baSår
+            s.......sssosssesesrsrsrsenrsrnnenennrnrnnennnnnnn nn 12 Studiebidlrag......msssessrerensrrnnnrrennserenerarnrr
+            rer snn nns ennen nes n renen nn nt 12 studielån i ungdomsgymnasiUlmM......oesssssssesssenrnennrnnnn
+            ann 12 studier Utomlands. ..smmmesssesseesrrssrrarnsnransrnanrrnnnesn
+            annen rnnn rann 12 Studielån anstånd med återbetalning................e.seossssesenesesrsnenrnnnnnnn
+            12 avskrivning på grund av sjukdOmM.........s.seseseerererenrnenennnn
+            12 vid basårsutbildning a .....osssossesreoreoresreresrsrerenrrrrrerenenanen
+            ann 15 Studiemedel [VOR EV 12, 6y utbildningens längd, aVPaSSNiNg
+            ....mmmsmssseseseesenienennnnsnnnnn 9, 12, 7y övre åldersgräns
+            för rätt tillsss.smss.sssssssssesererrerenenennnnn nan 12 Studiesociala
+            ändamål FOR EF 12 reseersättning vid statens skolor för VUXNA
+            ..................- 12 reserabatter........ssossoosoossensrrnrrrnsrennnnrrnrrrnnnnrnr
+            rens nnnnnn nn nn nn nn nan 12 Talboks- och punktskriftsbiblioteket.........................-.--
+            12 Studiestöd deltidSStUdiers.ssmssssssesresesresrnerenrenrernnnenn
+            ren rennrnerrennn nen nrn rn nere 9, 7y folbokföring vid Studier
+            s........ssesesssserrenrerenrorernrsnsnsnennnn nn 12 reformering
+            av studiestödssystemet.............................-.- 12 upphävande
+            av tidigare beslut 9 utländska medborgare.................. 12
+            vuxna funktionshindrade.......... ly Studiestödslagen ÄNCTLÅNG
+            oosseseererrerrrserrerrernerrsrenrenrernresreesrerrrseresneroer
+            ennen nn enar en ann 9, 12, 15, 3y Svenskt medborgarskap ansÖökningsavgift
+            smmmmmmessssrsseeresresnrennrsrennennennenernenennen ennen ann
+            2 för barn födda utomlands av svenska mödrar .............. 16
+            11
+          </p>
+          <p>
+            handläggande Myndighet ...sssssssessrssesnrenenrsenrnnennnnnn
+            enn nnn 2
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199495/reg_199495_SfU/reg_199495_SfU-011.pdf"/>
+          <p>
+            hemvisttidens längd vid ansökan OM... .smseeessersserrrsrrnsr
+            högtidlighet vid erhållande aV.........sssssosesesresessnnnnennnn
+            nan identitetskONtrOll..sssssssssssessersrerrrrsrerrrrsersnrrnnrnnennnrrrnnnn
+            nan KarenStider ssssssssssessrersrererersrrerrrrrerrrrrrrrrrrrrrnnrrrrennrrnr
+            rann rna krav på kunskaper i svenska språket UtfeC NING aoosseseeresressersrerrereesrereererrerrrrrsnerrrren
+            rna nen vandeln
+          </p>
+          <p>
+            vid oklar identitet återkallelse ..sssmsssesesrenerenerernenererrenenrnenrnrnrenennnnnnnenen
+            rn rn nn nn nan ändring i läge. ssmesssssseesrrerseessensresnerrererenrernrrennrnnr
+            rann nn nana överlämnande av ärenden su smmeeesserssersresssrssrnnnrrnrenn
+            nn nn Särskilda insatser i invandrartäta områden, anslag ............
+            Särskilda åtgärder i flyktingmottagandet, anslag ................
+            Särskilt pensionstillägg, anslag sm..mmmmsnsssssernserenrernsnrnrnrnnrnnnn
+            nen
+          </p>
+          <p>
+            Särskilt vuxenstudiestöd för arbetslösa, ändring i lagen ....
+            Särskilt vuxenstudiestöd till studerande vid vissa lärarutbildningar
+          </p>
+          <p>
+            Tandvårdsförsäkringen högkostnadsskydd ...........sssesesseseesesrrseenesernesnnsnennennrrnennrn
+            nan patientavgift......... tandvårdstaxan Tandvårdslagen, ändring
+            i lägen smsmmmmssesssersrererrererernernenenn nan Tillfällig föräldrapenning
+            kOMPEensatiOnSNiVå....ssssseseseresesererrererenenenernenenernenen
+            nn nn ana slopade kontaktdagar s..mmmmmesessrereeresernrsrrrnennernrnnernnrrnnnnrn
+            nn till båda föräldrarna Samtidigt............ssssssososesesrerenennennnnn
+            vid bosättning i Danmark, Finland eller Norge ........... Tilläggspensionsavgifter,
+            lag om förvaltning av vissa ......... Timersättning vid vissa
+            vuxenutbildningar
+          </p>
+          <p>
+            Uppbördslagen, ändring i lägen s..smsssssssssesesressessenrennsnnsnnnn
+            nn Uppehållstillstånd anknytningar
+          </p>
+          <p>
+            Per ManNeNta soossesseseererererreerersenesrererenenenrrnsnsrer
+            enes nenen renen nr n enad tidsbegränsade sussssssessersrrersrrnrrrnnrrrrenrernrerern
+            ren nrnn nen n enn nr nn nn tidsfrist för återkallels€.............sssossossosossonnenrnennernnnnrrnnn
+            nr utrednNing............s..ssse0ss0&gt; vandelns betydelse villkor
+            för återkallelse VISSA ANNÖTIGAsooossssesessrereeserresrererrererereerrrrrrrrrrrerrernrnnrennnnnan
+            återkallelse mosmssssesssressrssersrereesenseneeresrenerrerennnsnrenenn
+            renen nen nan
+          </p>
+          <p>
+            10,
+          </p>
+          <p>
+            16 2 16 16 16 16 16 2 16 16 16 13 14 10 12
+          </p>
+          <p>
+            1994/95:SfUReg.
+          </p>
+          <p>
+            12
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199495/reg_199495_SfU/reg_199495_SfU-012.pdf"/>
+          <p>
+            Utlänningar, information till smo sesesesssssessesesserererensnrnnnnnnnnnnnn
+            Utlänningslagen förvar av Dar ommssessrersrarsersrerrennrrsrrrrrerrrrrrr
+            rer rn n rn nsnnn anna förvarslOkaler o.smmmssssrrssserrererernrnernrnrnnnerernr
+            ner rnnn rr ernren eran nt människOSMUggliNg .ummeseessessennensreornerneesnrersrnennrrnrssnrnn
+            rann åldersgränsen i ÄNdFLING Åossoseeeesesrerreereeseereererrererrerrrnrnn
+            ennen enn nrn rann e rr ngr annen Utlänningsnämnden
+          </p>
+          <p>
+            Utvisning på grund av brOtt.....ssssssssessensssesrnsenernornsnrrrensrnrrnrrnnrnn
+            nn verkställighet...........s.ossososoosonononnesnennenennnnnerrrrnnrnnenernrnrnnn
+            nn
+          </p>
+          <p>
+            Visering besÖkSViSerilg s...sssmssessessenrenearnennsneserneersnnernernerrnrnenn
+            enn rna sn f.d. JUZOSIaViCh sissnsesrerresersrnrenenrenernennenren
+            nens ren nen enn rn rr nn rann generellt ViseringSskräV sm mmssssssereresenesrseseenreresenrerenrnrnnnnt
+            Vissa yrkesskadeersättningar, anSläg .........s.sseessesessenenenrnsnnnt
+            Vuxenstudiestöd
+          </p>
+          <p>
+            internatbidrag kollektiva ansökningar.... korttidsstudieStÖd..............ee-essserrerseenreonrrnnnernnnrrrrnnennnrn
+            rna lärarutbildning för naturvetare ..mmemesssersessenrrernnnnsnnnnnn
+            N/T-pPlatS€i.sssssesseesoersnrenrsrenrennnsnesnnnenrerresrrrrrrrrrr
+            nen rrn rn enn nan TCSUISCIL oosooserereseerereerenrrrerenrsrrneren
+            enes ner ene r eran ense rer n enn nn pannan särskilt vuxenstudiestÖd
+            ............eeessesssoseeosrersesrsrernrnnrnnrnnn YTH-utbild ning
+            ...ssmnneserreresrressrrrnrnernsrrrsnnrerrrrnnernnrrennnnn nn
+            nn Vårdbidrag INflatioNSSKYdCA sssosssesseserresersnesrrnsrerrenrnrrnrernrrernnsnrernnsr
+            nn nn nnn till äldre SYSKON sismmnasessensersnnerernnnnrnnennnnn
+            eran nn oo Vårdbidrag för handikappade barn, anslag .............esnrr
+            Vårdnadsbidrag ....mnmmmssserereerererenenenenrenenenenrnren ennen
+            enar enen en enn nn nn
+          </p>
+          <p>
+            Ålderspensioner
+          </p>
+          <p>
+            reformerat pensionssystem .... . Åtgärder för invandrare, anSläg..............sssssssseoossssssnnnnsnnnnn
+            Åtgärder mot etnisk diskriminering, anslag.......................-
+            Åtgärder mot främlingsfientlighet och rasism, anslag........
+          </p>
+          <p>
+            Överföring av och andra åtgärder för flyktingar m.m.,
+          </p>
+          <p>
+            11
+          </p>
+          <p>
+            16 1994/95:SfUReg.
+          </p>
+          <p>
+            13
+          </p>
+          <p>
+            13
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199495/reg_199495_SfU/reg_199495_SfU-013.pdf"/>
+          <p>
+            gotab 48669, Stockholm 1995
+          </p>
         </div>
       </div>
     </body>

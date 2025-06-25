@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="reg_199192_UbU">
   <teiHeader>
     <fileDesc>
       <titleStmt/>
@@ -19,270 +19,1288 @@
   </teiHeader>
   <text>
     <body>
-      <pb facs="riksdagen-volumeG-pdf/data/199192/reg_199192_UbU/reg_199192_UbU-000.pdf"/>
+      <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199192/reg_199192_UbU/reg_199192_UbU_0000"/>
       <div type="gBody">
         <div>
-          <p>Utbildningsutskottets register vid</p>
-          <p>riksmötet 1991/92</p>
-          <p>dr</p>
-          <p>PY Es Ey</p>
-          <p>1991/92 UbUReg.</p>
-          <p>Betänkanden</p>
-          <p>Nr UbU1 Jämställdhetsfrågor i utbildningen Utskottets justering Riksdagens beslut: Bifall till utskottets hemställan Protokollshummer Riksdagsskrivelse</p>
-          <p>Nr UbU2 Vissa högskolefrågor Utskottets justering Riksdagens beslut: Bifall till utskottets hemställan Protokollshummer Riksdagsskrivelse</p>
-          <p>Nr UbU3 Miljöfrågor i utbildningen Utskottets justering Riksdagens beslut: Bifall till utskottets hemställan Protokollsnhummer Riksdagsskrivelse</p>
-          <p>Nr UbU4 Vissa skolfrågor Utskottets justering Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse</p>
-          <p>Nr UbUS Bostäder för gäststuderande m.fl. Utskottets justering Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till utskottets hemställan Protokollshummer Riksdagsskrivelse</p>
-          <p>1 Riksdagen 1991192. 14 saml. Register</p>
-          <p>1991-10-24 1991-11-06 1991/92:19</p>
-          <p>1991-10-24 1991-11-06 1991/92:19</p>
-          <p>1991-10-24 1991-11-06 1991/92:19</p>
-          <p>1991-11-12 1991-11-27 1991/92:33</p>
-          <p>1991-11-12 1991-11-27 1991/92:33 1991-11-27 1991/92:33</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199192/reg_199192_UbU/reg_199192_UbU-001.pdf"/>
-          <p>Nr UbU6 Statsbidrag till miljöförbättringar i skolan (prop. 1991/92:10)</p>
-          <p>Utskottets justering 1991-11-05 Riksdagens beslut: Bifall till utskottets hemställan 1991-11-27 Protokollsnummer 1991/92:33 Riksdagsskrivelse 1991/92:26 Nr UbU7 Tilläggsbudget I (prop. 1991/92:25 bil. 7) Utskottets justering 1991-12-05 Debatt i kammaren 1991-12-17 Protokollshummer 1991/92:47 Riksdagens beslut: Bifall till utskottets hemställan 1991-12-17 Protokollsnhummer 1991/92:47 Riksdagsskrivelse 1991/92:87 Nr UbU8</p>
-          <p>Anslag till utbildningsdepartementet, m.m. (prop. 1991/92:100 bil. 9)</p>
-          <p>Utskottets justering 1992-03-12 Riksdagens beslut: Bifall till utskottets hemställan 1992-04-08 Protokollsnummer 1991/92:94 Riksdagsskrivelse 1991/92:191 Nr UbU9</p>
-          <p>Anslag till utveckling av skolväsendet, m.m. (prop. 1991/92:100 bil. 9)</p>
-          <p>Utskottets justering 1992-03-12 Debatt i kammaren 1992-04-08 Protokollsnhummer 1991/92:94 Riksdagens beslut: Bifall till utskottets hemställan 1992-04-08 Protokollsnummer 1991/92:94 Riksdagsskrivelse 1991/92:192 Nr UbU10</p>
-          <p>Bidrag till det kommunala skolväsendet (prop. 1991/92:100 bil. 9)</p>
-          <p>Utskottets justering 1992-03-26 Debatt i kammaren 1992-04-08 Protokollsnummer 1991/92:94 Riksdagens beslut: Bifall till utskottets hemställan 1992-04-08 Protokollsnummer 1991/92:94 Riksdagsskrivelse 1991/92:190</p>
-          <p>1991/92:UbUReg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199192/reg_199192_UbU/reg_199192_UbU-002.pdf"/>
-          <p>Nr UbU1ll Anslag till särskolor, specialskolor, m.m. (prop. 1991/92:100 bil. 9)</p>
-          <p>Utskottets justering 1992-03-19 Debatt i kammaren 1992-04-08 Protokollsnummer 1991/92:94 Riksdagens beslut: Bifall till utskottets hemställan 1992-04-08 Protokollsnrummer 1991/92:94 Riksdagsskrivelse 1991/92:193 Nr UbU12 Utrustning m.m. inom skolan (prop. 1991/92:100 bil. 9) Utskottets justering 1992-03-19 Debatt i kammaren 1992-04-08 Protokollsnhummer 1991/92:94 Riksdagens beslut: Bifall till utskottets hemställan 1992-04-08 Protokollsnhummer 1991/92:04 Riksdagsskrivelse 1991/92:194 Nr UbU13</p>
-          <p>Vissa för högskolan gemensamma frågor och anslag (prop. 1991/92:100 bil. 9)</p>
-          <p>Utskottets justering 1992-04-09 Debatt i kammaren 1992-05-06 Protokollsnummer 1991/92:106 Riksdagens beslut: Bifall till utskottets hemställan 1992-05-06 Protokollsnhummer 1991/92:106 Riksdagsskrivelse 1991/92:241 Nr UbU14</p>
-          <p>Grundläggande högskoleutbildning m.m. (prop. 1991/92:100 bil. 9)</p>
-          <p>Utskottets justering 1992-04-09 Debatt i kammaren 1992-05-06 Protokollshummer 1991/92:106 Riksdagens beslut: Bifall till utskottets hemställan 1992-05-06 Protokollsnhummer 1991/92:106 Riksdagsskrivelse 1991/92:242 Nr UbU1S Anslag till forskning, m.m. (prop. 1991/92:100 bil. 9) Utskottets justering 1992-04-02 Debatt i kammaren 1992-05-06 Protokollsnhummer 1991/92:106 Riksdagens beslut: Bifall till utskottets hemställan 1992-05-06 Protokollsnummer 1991/92:106 Riksdagsskrivelse 1991/92:243</p>
-          <p>1991/92:UbUReg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199192/reg_199192_UbU/reg_199192_UbU-003.pdf"/>
-          <p>Nr UbU16 Lokalförsörjning m.m. för högre utbildning och forskning (prop. 1991/92:100 bil. 9)</p>
-          <p>Utskottets justering 1992-04-02 Debatt i kammaren 1992-05-06 Protokollsnummer 1991/92:106 Riksdagens beslut: Bifall till utskottets hemställan 1992-05-06 Protokollsnhummer 1991/92:106 Riksdagsskrivelse 1991/92:240 Nr UbU17</p>
-          <p>Anslag till lantbruksuniversitetet, m.m. (prop. 1991/92:100 bil. 10)</p>
-          <p>Utskottets justering 1992-04-23 Debatt i kammaren 1992-05-06 Protokollsnhummer 1991/92:106 Riksdagens beslut: Bifall till utskottets hemställan 1992-05-06 Protokollshummer 1991/92:106 Riksdagsskrivelse 1991/92:244 Nr UbU18</p>
-          <p>Central myndighetsorganisation för högskolan, m.m. (prop. 1991/92:76, prop. 1991/92:100 bil. 9)</p>
-          <p>Utskottets justering 1992-03-19 Debatt i kammaren 1991-04-08 Protokollsnummer 1991/92:94 Riksdagens beslut: Bifall till utskottets hemställan 1992-04-08 Protokollsnhummer 1991/92:94 Riksdagsskrivelse 1991/92:195 Nr UbU19 Läroplansfrågor och betygsfrågor Utskottets justering 1992-05-12 Debatt i kammaren 1992-05-26 Protokollsnhummer 1991/92:120 Riksdagens beslut: Bifall till utskottets hemställan 1992-05-26 Protokollsnhummer 1991/92:120</p>
-          <p>Riksdagsskrivelse -</p>
-          <p>Nr UbU20 Lärarutbildningen m.m. (prop. 1991/92:75, prop. 1991/92:100 bil. 9)</p>
-          <p>Utskottets justering 1992-05-14 Debatt i kammaren 1992-05-26 Protokollshummer 1991/92:120</p>
-          <p>1991/92:121 Riksdagens beslut: Res. 14 mom. 32 bifall. I övrigt bifall till utskottets hemställan 1992-05-27 Protokollsnummer 1991/92:121 Riksdagsskrivelse 1991/92:282</p>
-          <p>1991/92:UbUReg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199192/reg_199192_UbU/reg_199192_UbU-004.pdf"/>
-          <p>Nr UbU21 Andrat huvudmannaskap för särskolan och särvux m.m. (prop. 1991/92:94)</p>
-          <p>Utskottets justering 1992-04-23 Debatt i kammaren 1992-05-06 Protokollsnhummer 1991/92:106 Riksdagens beslut: Återförvisat 1992-05-06 Protokollsnummer | 1991/92:107 Riksdagsskrivelse - Nr UbU22 Fristående skolor (prop. 1991/92:95) Utskottets justering 1992-05-26 Debatt i kammaren 1992-06-09 Protokollsnummer 1991/92:127 Riksdagens beslut: Bifall till utskottets hemställan 1992-06-09 Protokollsnummer 1991/92:127 Riksdagsskrivelse 1991/92:346 Nr UbU23</p>
-          <p>Riksbankens jubileumsfonds verksamhet under år 1991 (redog. 1991/92:6, redog. 1991/92:7)</p>
-          <p>Utskottets justering 1992-05-12 Riksdagens beslut: Bifall till utskottets hemställan 1992-05-27 Protokollsnhummer 1991/92:121 Riksdagsskrivelse 1991/92:283 1991/92:284 Nr UbU24 Uppskov med behandlingen av vissa ärenden Utskottets justering 1992-05-21 Riksdagens beslut: Bifall till utskottets hemställan 1992-06-02 Protokollsnummer 1991/92:124 Riksdagsskrivelse - Nr UbU25 Tilläggsbudget II (prop. 1991/92:125 bil. 6) Utskottets justering 1992-05-05 Riksdagens beslut: Bifall till utskottets hemställan 1992-05-14 Protokollsnhummer 1991/92:112 Riksdagsskrivelse 1991/92:263 Nr UbU26</p>
-          <p>Vissa gymnasie- och vuxenutbildningsfrågor m.m. (prop. 1991/92:157)</p>
-          <p>Utskottets justering 1992-05-19 Debatt i kammaren 1992-06-01 Protokollsnummer 1991/92:123 Riksdagens beslut: Bifall till utskottets hemställan 1992-06-02 Protokollsnummer 1991/92:124 Riksdagsskrivelse 1991/92:311</p>
-          <p>1" Riksdagen 1991/92. 14 saml. Register</p>
-          <p>1991/92:UbUReg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199192/reg_199192_UbU/reg_199192_UbU-005.pdf"/>
-          <p>Nr UbU27 Viss förstärkning av forskningsresurserna vid Sveriges lantbruksuniversitet (prop. 1991/92:150 bil. 1:7)</p>
-          <p>Utskottets justering 1992-05-19 Riksdagens beslut: Bifall till utskottets hemställan 1992-06-02 Protokollsnummer 1991/92:124 Riksdagsskrivelse 1991/92:332 Nr UbU28</p>
-          <p>Andrat huvudmannaskap för särskolan och särvux m.m. (förnyad behandling) (prop. 1991/92:94)</p>
-          <p>Utskottets justering 1992-05-12 Debatt i kammaren 1992-05-27 Protokollshummer 1991/92:121 Riksdagens beslut: Bifall till utskottets hemställan 1992-05-27 Protokollsnhummer 1991/92:121 Riksdagsskrivelse 1991/92:285 Yttranden</p>
-          <p>Nr UbUly till FiU (bet. 1991/92:FiU10) Inriktningen av den ekonomiska politiken (prop. 1991/92:38) Utskottets justering 1991-11-28</p>
-          <p>Nr UbU2y till FiU (bet. 1991/92:FiU8) Riktlinjer för den statliga fastighetsförvaltningen och ombildningen av byggnadsstyrelsen, m.m. (prop. 1991/92:44) Utskottets justering 1991-11-28</p>
-          <p>Nr UbU3y till AU (bet. 1991/92:AU11) Arbetsmarknadspolitiska åtgärder för ungdomar under 25 år (prop. 1991/92:124) Utskottets justering 1992-04-02</p>
-          <p>Nr UbU4y till FiU (bet. 1991/92:FiU30) Kompletteringspropositionen (prop. 1991/92:150 bil. 1:6) Utskottets justering 1992-05-19</p>
-          <p>Nr UbUS5y till FiU (bet. 1991/92:FiU29) Kommunal ekonomi (prop. 1991/92:150 bil. II:5) Utskottets justering 1992-05-19</p>
-          <p>1991/92:UbUReg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199192/reg_199192_UbU/reg_199192_UbU-006.pdf"/>
-          <p>Sakregister</p>
-          <p>Alkohol, narkotika och tobak (ANT).........sssssssesesseseonesnnsnr Alternativ odling fOrSKNiNg Iossoessresereseesrersrerrensernrrrnr nen nrrnn nns enn ernnsn een n enn n rn nns AlternativkUrSCi..smommmsssssreseersersneneennarnnn ass nnnnnnnennennernrrn nen nn nan Anpassad StudiegåNg...........seseeseesreoresesenernenenennnnnennnsnnnnnnnennnn Ansökningsavgifter iNOM KOMVUX sossososeseresersrerernnrrnrnnnnan vid statens skolor för vuxna Antagningssystemet till högre utbildning..............e-e-se---- Apotekarlinjen fÖrläN gigas oosseeseesseesrerrrersrernersrennrnnnn nerna rann erernrnn renen nerna nens Arbetsformer [RS CO EV VR Arbetslivserfarenhet SOM UTrValSgrUNA ssssssssserserresrsenrrrsrnernnnennnnrrrnnernes aren renen nn n nn Arbetsmiljön i SKOlQN.....ssssssesresressersnrrensnrsnnnnennnsnnennren nen nn ann ATrbetSPlån sossnssssesessreseereneereenenrrnenrnnernnern nen ren ere nernnsnennr nr n rann a Arkitektlinjen lokalisering till universitetet i UMeå...............essnssnn0n planeringsramar ÖVEerSyn av ....osnnnnns Arktisk forskning Center fÖl....sssssssersrerrrrrrnen ant Arvika, musiklärarutbildning i Asylsökande elever bidragsgivning till KOMMUNEINA sunmmmnsseeerrerererernnrnnnnrn rna Autism resurscentrum för elever Med ..smmmmssssssrssssrrresrrnrrennrrnnnnn Avgifter i gymnasieskolan och KOMVUX s....seeeessererreresrernnnnn Avskiljande från högskoleutbildning...........seeseseseesreerernen</p>
-          <p>Baltiska språk BarnkUunSkapP....sssmsssesesresesresssrenseensresnnnnnrresrnnnn rer ernrrrrrnrnn ann nn nn Barnmorskeutbildning fÖrläNgNiNg.sosesseeseereseeresneneneerenrernnenn ren esnnernr nere nen renen enn n annan Bebyggelseantikvarisk utbildning...........ssssesssersseseesresernennnn Bergslagens samverkande högskolOr.........sssssesreseseererersnrenen Bergsskolan i FilipStaCl....smssssseseserenneneosnsnnnrnnrrnrrnennrnnnnnnnnnnnn Besparingar inom komvux Besvärsnämnden för högskolan</p>
-          <p>Betygsberedningen direktiv tilloossssssssssseosseressersnnennrrnnnnnrer enar nnnerrnrrerr rr rn nn nn nn Betygssystem principer för ett Nytt ssmmsmmmsssseressssererrennrrrrrrrrnnrnnnnrrnnn nn nn</p>
-          <p>4, 20</p>
-          <p>1991/92:UbUReg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199192/reg_199192_UbU/reg_199192_UbU-007.pdf"/>
-          <p>Betygsättning av doktorsavhandlingar. ..sseessessersreserenressrrernrerrnnennrnrn nan Bidrag till driften av det kommunala offentliga skolväsendet anslag fill.ssosssssesssssresresrerrerrersrnrrsrrssresrnreresnnrrrrnnrrnrn ren r enn nn a avveckling QV..smmmssssssessreesrreessrersnnerssnrrennnerrrnnnn rna nanna mereennns Bidrag till driften av fristående skolor anslag tillossoossssssesssesseseeseenseennrrnernnnrnernn eran nn n nn ner n nr n anno a Bidrag till driften av särskolor m.m. anslag till</p>
-          <p>avveckling av Bidrag till driften av vuxenutbildning för psykiskt utvecklingsstörda (särvux) ANSläg tilloosoososssssessesseseesnenrennrrnrennnrnnrrnn nere nere nee nn n nen nan Avveckling QV.sssnssseesesreserreneenesreneesnerneerernernernrsrnrrnnernenn rann nn Bidrag till kommunal högskoleutbildning m.m. aNSlag fillosssssosssssssssreseeseenrernrennesnrrerrernrnnnesn nns n ren nr renen nn nen nytt statsbidragSsSyStemM .mmmssesssssseserersesnnennnnannnrsnnnnnnn rna nan Bidrag till Skogs- och lantbruksakademien aNSläg tillossoososssesssesrsrresrenrernrrsresnnesrrrsnn ennen ann n eran n nerna nanna Bidrag till svensk undervisning i utlandet m.m. ANSlag tillossosoosssesssesresersrrsransresrrernrrrrrrnrrrrrennrrrnnn nanna nerna rann nan Bidrag till undervisning av invandrare i svenska språket ANSlag fillosooossssssssesessereseseenneresnennrnnereen een ernenn nen nen n enn nen nn nn avveCklilg QV.smmmsssssressesreneenseeseesrasnernnernnenn narr nen n nro n nerna nn Bidrag till utrustning för gymnasier m.m. avskaffande av anslaget m.smmnmmssssssssssssssssrrssnrnnrrrsnnnnnrnnn nanna Bidrag till viss central kursverksamhet, m.m. avskaffande av anslaget m.ssmnsmsesssersssrrerrsreensnsrrrrrrnnnnrnnrn rann Bostäder för gäststuderande M.fl..ssmmmmmsesresssrrrrerererrsrrrnrnerrrrrrrnrnnnr nn Bräcke Östergård [40070 (2 70 Central kursverksamhet bidrag tillosssmsnsssesssesrrsrrsresrnrerrerrenrrenrrnrnr ennen nrnnn rn n rna n nana Centrum för miljövetenskaplig forskning i Umeå</p>
-          <p>Centrum för rehabiliteringsteknik (CERTEC) vid universitetet i LUNG .mmmmmmsssressresreserensesnrensrenrrrnnnnnernnnrnn nn enn nn nn Civilingenjörsutbildning</p>
-          <p>IOKaliSeriNg AV.ssmmssseesseeseeneernrssreesrrerrrssrrenrssrrerrernrrrnn ner nnn nr planeringsramar Cyklotronanläggning i LinkÖPINg.......ss.sssssesersseeseensrennannnn nan DalälvsdelegatiOnN€nN....ssssssssssreseeneenennenreneennenesnnrnnnrnn enn nrnn nn nn nn</p>
-          <p>Dammsdalskolan i Vingåker Dans i skolan</p>
-          <p>15</p>
-          <p>5, 16:1</p>
-          <p>16:2</p>
-          <p>21, 28</p>
-          <p>1991/92:UbUReg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199192/reg_199192_UbU/reg_199192_UbU-008.pdf"/>
-          <p>Dansundervisning i Göteborgs KOMMUN s.issnseseesessrenrennennenesnenrnenennnn ene nn nanna Dimensionering av grundläggande högskoleutbildning .... Djurhuset vid Sahlgrenska sjukhuset s..s.mmsmsssssseenenrennsnnnnr DoktorandtjänSter.............sssesssrsserssrsersnesnnrnnnsnesnernsnennennrn nn nn nn Doktorsexamen, krav för lärartjänst i högskolan ...............</p>
-          <p>Dramatikerutbildning...</p>
-          <p>IDE [256</p>
-          <p>Ekeskolan i Örebro, ökat stöd till .....................ssssssssoesr0no</p>
-          <p>Ekonomlinjen</p>
-          <p>alternativ eKONOMI ussssssssesssersrsrrrrerernrresrrrerrerrrrnnerrrennrrnnnn vid högskolan i JÖNKÖPING s.sssmresssessrneseerenenenenenennennnnnnnn</p>
-          <p>Ekvivalering</p>
-          <p>av utländska betyg ..........sessesssoressressrsnerenesennenenenennrnrn erna nn</p>
-          <p>Elever med handikapp</p>
-          <p>utbildningssituationen fÖr sm emmeerserrerererneererserrnenernnnnn Elevinflytande i SKOIan smmnmsssssssesrennenrenesrsnensenenrnenenennnensnnnnn Estetiska ÄMNEN ussssserereseerereneserrenenrennenrrnenennsnrenenenen enn nn nn nan Etiska frågOr os.ssssosososesesesesoerererernrsenennenennnrnnsenensnnensrnennnne nan nonan</p>
-          <p>Etnologi</p>
-          <p>institution vid universitetet i Linköping (Vadstena)....</p>
-          <p>Europeisk forskningssamverkan</p>
-          <p>anslag till..ssssssssesssesrenreserrnrnnerrerrrernrrnnernrrernrner ennen ene rn rn ennen</p>
-          <p>Europeisk utbildningssamverkan</p>
-          <p>anslag till. sssssssssssessessnesnnrererenrsrrnnrrrrresrrrrrnerrenrnrernrrnnnnrn nan</p>
-          <p>Examen</p>
-          <p>i SKOIlANDN oosoosseserersserreerrsrsrrrrerrerrrrrrrrrrrerrorrer rer rr rr rr rr r rn rn rr nn rn rann</p>
-          <p>Farmaceutiska fakulteten</p>
-          <p>anslag till.ssonsssssssssseesrrnrenrenrerrrnrrernrrsnnrrnen en rsnsnerrnnrnrn rr rn rn ann</p>
-          <p>Fasta forskningsresurser</p>
-          <p>Utbyggnad QV sssneseesseseesesrenrenrererrnnerrerernerernenenenernrnnn nn nn nn</p>
-          <p>Fastighetsekonomi</p>
-          <p>Utbildning imsmmsnsssssrsrreneeneerenrrrresnnnenrernernrrsnsrrnrnnnnrn enn n nns Fastighetsförvaltningen på högskolans område ..................</p>
-          <p>Filipstad</p>
-          <p>Bergsskolan idsssnnnssssesrasenesnerneresrerrnerenerrenenrrsrrnrrnrn een nn en en enn</p>
-          <p>Flygteknik</p>
-          <p>FlyktingkunSkap s..smmnsssssesenrerenenesneneeresrserrerenerrrrrrnrrrereren ennen enn</p>
-          <p>Folkhögskoleutbildning</p>
-          <p>vid Mo Gård oosssnsnsreresenesenerrnrnrnenrenenenenenensnsrnsnnrnnnn enn nen nn enn Folkhögskollärarutbildning......esseessessreresresesrsrnnenrnnnnnnnnnnnnnnn</p>
-          <p>Fordonsteknik</p>
-          <p>Forskning inom skolväsendet</p>
-          <p>anslag till..ssssssssssssssresersrenrrrenrerrresnnnrn nen renen rrnrnrnennenr ner rn rann</p>
-          <p>Forskningsarkiv</p>
-          <p>vid universitetet i UMEÅ s.smmnnssssssssssssssssrersersrsrrernrrsnnern ann</p>
-          <p>10 14 16:1 15 20 14 4, 9:4, 10, 19</p>
-          <p>11:5</p>
-          <p>14 14</p>
-          <p>9:5</p>
-          <p>15</p>
-          <p>1991/92:UbUReg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199192/reg_199192_UbU/reg_199192_UbU-009.pdf"/>
-          <p>Forskningsråden utvärdering av OrganisatiON€D........sssssssesssrsssssrsrssrrnnnnn ann Forskningsrådsnämnden ANSlag tillossosssssssssseressrressnnrensrnernnnnrerernnnerenrrnnnnern ennen annan NEd läggNiNg ooossseesreeesssresssrrenserrrenssrrrrrnnernnnernnnsssr enn rerna nanna FOTrtbild NiNgsssnmsssesererreessrensenerensrrernnrnnrrnrenernnnrnnen aren nn nr en anna nan i engelska..... i miljökunskap.................. i religionskunskap SYSt€M fÖL sssseeeersrerrrrsrerrrrrrrrrrnrrrrnrrerrrrrnrrrnrrnrrrnnrrnnrrrnrrn nn enn nn Fortbildning i socialt behandlingsarbete Fortbildning m.m. ANSlag tillossosssssssssssrrrsrereresrrenrresrrrnrnrrnrrerrrsrrrnn sera n nn rna nn nanna FredSfrågOr sisnnnmaserrererreneererenerrererrenererneneenenennrnrnen senere nana n nanna Fristående skolor avgifter I ......ns.n....- för särskoleelever hemkommuns skyldighet att ersätta lägeskommun ..... internationella SKOIOI.....sssssesseessesssrensresersnnannnennnnrnnnnnn nanna kommuns skyldighet att lämna bidrag ...........sssesseennn&gt; rätt till SKOISKjUtS ....nsnsssssoreneneenenenneseenenenesennenesnenennenen nanna skyldighet att medverka i uppföljning och UtVÄrdl€rilG.ssssssesseseeseesrerernenrrsrerrrsnrrrrnnerrennen nen enn ennen nana nen nn statsbidrag till särskilt bidrag till ViSSQ...ssssssssessesssrensernnrrnnrennrrnnnrrnnnnn nanna Fritidssektorn forskningSreSUrSCr ossesseessessressresrenerersesnerrnnernnrernrrnn nn n nn högskoleutbildning fÖr........ssssesssersressresressrarsrrrnnnennnnnnnnnnn Fysiska miljön i skolan avskaffande av anslaget till ossmmsmsmssssssesrsrrsnennrnnenn rna annan Förskollärare och fritidspedagoger förlängd utbildning av s.smmmmmmssesrresrenenennn nn vidareutbildning till grundskollärare Första hjälpen m.m. obligatorisk Undervisning Il..mmmmmsssssseseesennneneennernrnnnnn nn nn Föräldrainflytande i skolan lagfäst rätt till.smmsssssssssssressresresnersrrnnnernnnnennnnern nn nn nn nn nn nn Målen fÖrl oossnsesresererrerrereerererererrennrrrerrrerernrnernnerrrn nan rann nana</p>
-          <p>Garanterad undervisningStidl s.smmmmmssssseessesresesnesessnrsnrnnrnnnnnnr Garpenberg oossesresreseenrenereeneneeneneerenererreneereresrenereenrrrr nen ne nen nen Generellt statsbidrag till KOMMUNEI smnsmresseseeseenernrsnennnennnnnn Gjuteriteknik smossssmsesrresseseesnennenrrnrerrrrrrerrennernesrrrnneresrrernrnrrnn nr nen [61 ETS T6 65 OR 6: Grundskollärarutbildning 40 poängs praktisk-pedagogisk utbildning för åk</p>
-          <p>ENgelSKka Iosssmsssssessseesseesernneennrernnrrnnnrnnnnnn examensbeskrivningar förlängning av (för åk 1— 7). smnsmnmssesrereresreneseenennenennnn annan</p>
-          <p>21</p>
-          <p>11:8</p>
-          <p>1991/92:UbUReg.</p>
-          <p>10</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199192/reg_199192_UbU/reg_199192_UbU-010.pdf"/>
-          <p>IOKaliseriNng AV.smmmmsseessesseeseeneesesrennnennrsrrnnssernnsrrernrrnrern nr rn nen lärare i slöjd, barnkunskap och hemkunskap .............- PlaneringSsraMarl ssssssssssssesrsreseseorerreresnsnsnerren ennen nrnrn nen n rn nen praktisk-estetiska äMnNEN..smesssssesseesrerenserrenenennnnnnnn nn enn skolpolitiska utgångspunkter för s....m.sss.sssesssrssrrsrsnrnnn vidareutbildning av hemspråkslärare till .............s.s...-o- Grundvux lär ALC Åoooessseserererererrrrrerrrrnrenrrrrrnerrnenn erna narr enn n ennen nen renarna Grythyttan, högre restaurangutbildning i Gymnasielärarutbildning 40 poängs praktisk-pedagogisk utbildning ...................- distansutbild Ning s...smsmsssssrsesereenerrenenreneserrenernenern ennen nn nen jordbruk, skogsbruk och trädgårdsskötsel....................- PlaneringSraMal ssssssssrererererererersrerenrrenenrrrnenenrn ennen enn n nn nn Vård lärare oosssssssessesreseererrererrerenerrenennenen ennen annen erna ennen nera n nn nn</p>
-          <p>Gymnasiereformens finansiering... Gymnasieskolan individuella PrOgfälM sosmmmssssssssseseesernesnernrsnrrnrsrnesnnrn rna nr LA-KUTSET oosoonorereesererssrrreneeserernersrnerserernrrrsnrrrnn ner nrrrn nr ann n nn påbyggnadsutbildning s..mseseesssssessessronsrsrnsrnernrnnrnnnnnn en utbyggnaden QV smnmmnsssssessssrereresesreserrerernsrerernernennrn enn rar rn nn Gäststuderande bostäder fÖTr .smssssesresrerrereserrerernenrenarrerernrnerernernsner renen nrn nn rn nen</p>
-          <p>Handikappade elever utbildningssituationen fÖr sm:?s.eeeesssrrrrerrrrrererrrrrrrrnrn nn Handikappkonsulenter för SärskOleeleVverl...smmmssessersorereennrsnrereerrsrnrrnsrrreresnn rn nn er n nn HantverksutbildniNg.......sseossessesssesseressenssrernerennrrernrersnnnrrrnnnnnn Helsingborg högskoleutbildning i smo smmmmnssrsrsrerssesenererrreneresnrrenennrnnnnn nn Hemkunskap utökad tid Hemspråksundervisning</p>
-          <p>SIOPANAE AVosoooeereseeseererreresrerenesesnreneresnenerernerrennrnrner ennen nn enn "slopande av medel fÖr sssmsnssrsrssreseererserersnrsrennrnerrrnrnnrrnnnnn UtvärderiNg QV..smmssseseesesesersesrernsnnenernreserrernrenernrnrrnrn ann n nn rna Humanistisk-sam hällsvetenskapliga forskningsrådet anslag till.snnosssssssssssssessrsseserneresnennenerenrrnrn ennen rrnen ennen nn n nanna Humanistiska fakulteterna anslag till.sonmossssssessssserenesosrsrerrerennrnenrrnenrnnrn ennen renen renen annan</p>
-          <p>förstärkning vid universitetet i Linköping Hälso- och sjukvårdslinjen nedläggning AV smmmmsesereseseserererenrrrnenrnerenernerenennrnenen renen nn rena HälSOfOSträf sosnsnnsessreseerrrerrernrrserrenrrarnnernerrrsnnenn rann nn nenn nr nn nn nn nan Högskolan för lärarutbildning i Stockholm, lokalisering</p>
-          <p>20 20 20 20 20 20 20 20</p>
-          <p>20 2,14</p>
-          <p>20</p>
-          <p>20 20</p>
-          <p>21</p>
-          <p>, 28</p>
-          <p>5, 16:1</p>
-          <p>1991/92:UbUReg.</p>
-          <p>11</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199192/reg_199192_UbU/reg_199192_UbU-011.pdf"/>
-          <p>Högskolelagen komplettering av 2 $ (Miljö) m..snssmssssseseosesrerreseenerrennrnenan Högspänningsutrustning i UPpSalåa m.ssmmmmmnssssssessesensrnnennennnnnn Högstadiets organisation HörselkOnSulenter sssmmmssssssessesssrensersnnnsnerrerenrenrnrrnrennern nn nrsn nana</p>
-          <p>Idrottshögskolan i Stockholm su nmmmsssssessrersesrrresrsnrernnnrn anna nna Idrottslärarutbildning PlaneriNgSraMar ossssessessrererrersreesrressrrnnernrrnnnrrnnrn rna enn nn nn Inackorderingsstöd det kommunala ansvaret fÖr s.smmmmsssesrsrssrsrserernrsnrrnernen ana Individuella program ssssmmssssssserersssrrrrrnnnn nn trsrererererrnnnrernnnnn nn Ingenjörsutbildning fÖrläNgNiNgG.ssoeesresreereesrreserrsrrenrrnnnnnresnn renen n ren nnn nen nrn nn nana INgESUNA sosseeseeseeseeesreseesrerrenr reser esnnernnnrnsrrrrrnnernr rr nr rn rrrner nr erna nn Inredning och utrustning av lokaler vid högskoleenheterna m.m. anslag tillossoonsssssssssesresssrreresrrrrrrsnrnerrrrrrrnnrenr rna enn rerna nerna anna Inredning och utrustning av lokaler vid Sveriges lantbruksuniversitet m.m. ANSläag tillosssnssssssssesessesrennesrrsr ren rennrnnnrsn ren nsnen renen nen ennen enar en bemyndigande om anskaffning av smmmmmmnesessssenennsnennn Institutet för rymdfysik ANSlag tillosooosssssssssssressesressrrrsrnernrrernnrrrnnnrnrrnnnrrnn enn nn nr rna nan Institutet för skogsförbättriNg......sssssessesreseesersranernennennen annan Internationalisering utbildningssamarbete utanför EG-länderna.................. Internationalisering i undervisningen s...ssmeesessssssssrssesnnnnn nn Internationaliseringsåtgärder inom högskolan Internationellt studenthus</p>
-          <p>Journalistutbildning Ny UtbildNilgmoommssssssseereerrrerreesrrensrneerrrrerrenrnrerrrernrrrnr enn nn nn Juridiska fakulteterna ANSlag tillosssossssssssersesresesresrereerrersernrernrerrsr nere nrnn renen ennen nerna forskning vid universitetet i Umeå Juristlinjen PlanNeriNngSraMarLoossssseseesresrereererrerseerrerrerrererrernnsnrrnnenr rena na vid universitetet i UMCå mmmmsmsrsssersrsrsrsesersnenenenenenenenen rna JÄCLAÅS ooooseserersrsrnererenererereranererenenerenerenrsrrrnrenseren ennen en en en en nn ennen JägmästarutbildnNinNg ...smmmmessrersrrrsrrensnrerrrnernesrrsrrnrrrnrrnrnnn rna rna Jämställdhetsfrågor inom skolan</p>
-          <p>Klädformgivning UtbildNiNg Iossmmsssssesresesrreseersessesrrarnnerrnrnnsnrerenn enes nnn ennen ennen Kommunal vuxenutbildning ansökningsavgifter INOM ..mmmmsesssresssressresernssrennernn nr nn nnnn besparingar INOM. ossssssesseessresrersssrersrersrernnrnnn rann nnn aren nan nan</p>
-          <p>16:2</p>
-          <p>2, 20</p>
-          <p>10 21, 26, 28</p>
-          <p>14</p>
-          <p>20</p>
-          <p>7, 16:2, 20</p>
-          <p>17</p>
-          <p>17</p>
-          <p>15 17</p>
-          <p>14 19 14</p>
-          <p>16:1</p>
-          <p>26 10</p>
-          <p>1991/92:UbUReg.</p>
-          <p>12</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199192/reg_199192_UbU/reg_199192_UbU-012.pdf"/>
-          <p>medel fÖT sussssmeseesrrerseenrrnrenrernrrnrnarrr ann nen nsnrernn renen renen rr nn nn tillfällig UtökNiNg QV..nmessesssesseneesenenrererenrerensnenennnnrnen nere nn UtNyttjäNnde QV somnessessesreeseerrrrnrnerenenrreserererenerrrsnn enn rr n nn n rna Kompletteringskurser i gymnasieskolan s..smmmmmmseesesesnsnnnnnnn Konsthögskola i södra SVErige m.ssssessessresseenseesererernerrnrnnnnennen Konstnärligt utvecklingsarbete anslag till. oomnsssssssrssesreresrerennennrnrern renen ennen ere nenr nen n ennen nen nn KonsumentkunSkapP.........ssssesssresessersrennenernesnesneresnsnnenrnnesnnnnnnn Kontaktsekretariat m.smmmnmssssssesresesnnrsssresseornernrrerneennennernnrnnnrrnrnn KooperationsforskNing.....eeesesserersoresenesernerenrsrsrnrrnrrrnennennnen Kostnadsramar för inredning och utrustning ....................- Kristen etik skolans förankrilg immmmmserssresrrereersenrrsrannererrrr ennen ann nn nera Kultur i SKOlaN.ssssmsssessrenresrernersrersrersnnerrennrennnrnn ennen nr rn nen nn enn nn Kultur och historia i undervisningen ökade bidrag tillossmsmmnsssssssresessersresrenernnenennennrrenrennen nerna nn nen Kulturvård aLMÄDt oooeeeoseeererrerererrerrenrererrnrennrrrrr renare rrnnn ennen narr ne nero nerna Kungl. biblioteket anslag till.smnsssssssssssesreseeesrrrrernesneererreresrnrnerr ennen ennen nr nen enn Kursplan för varje ämne KursplanefrågOr s...snnsssessesrsrssesenerensnnenensenensrnenennrnsrnrnnrnrnnnnrnnnn SYMNASIK oooseeseeressererreresrererrerrrnrernererrerren ennen nere nen nrn ennen nn Kristen COM oooossseesesreerererserersnrrrnrsrrernerrrnr reser rrrn renen rr rnnn nr erna KårobligatOriet...........sssssssenennonenenesnesnsnerenesnsnenenrersrenenenernenenenn</p>
-          <p>LA-KUTSECIL oososesresrerrrreerenernrennennennene narr reser renen ee rrrn ere n rn nr enn n nn Laboratorieassistentlinjen fÖr län gNiNG.seeseeresrerererresrenenerrrsnrsnrenennrnerrrnernenernrr rn rerna nn Lantbruksskolor lärOtiden ViClssmonssssssenesrenerernrernrennennerernrrnernenrrn ennen renen nnn nen rnn Lanthushållsskolor huvudmannaskap fÖr sssssmnssssrsssrresersnranrarnnsnrennernrrnnernnrn nen i HaMMEN HÖR oossereseeresesreserrrresernrenesnaneenesrrensnennernnn ennen nn statsbidrag till.ssssmmssssssssssrenrennrnrasnennenreresnrnnrnrnnenesnr nen nnn enn utbildningar ViCl....mssmssssrerenrenresreenenrennenennenrenennenesn er er nen rna utbildningens meritvärde Lantmäterilinjen lokalisering till LUNG smmmmsssssrsssrsnereennsnennenrenennnnesnrn renen nnnn LektOrstjänSter sosmmmsssssssreseeresernesrenrnsresnesrrrneresnerrrrrnnannrnrnn enn nen LektorsutbildnNinNg .....ssssesssseessessernnnennresrnnesnnrenrsrrenererrenn nn nn nn LjusforskningsCentrUmM .mmmsssssssssesessssrerrerrerernererrrnrnnrnernn nerna Logopedlinjen planeringSralMal.ssmssssesssessoreenseserrsereenrerrrnrrrnennrnnn ennen nn nnnn Lokala och individuella linjer samt fristående kurser anslag till.............. planeringsramar</p>
-          <p>4y 7 10 26 14</p>
-          <p>15 4 15 18 16:2</p>
-          <p>19 9:4</p>
-          <p>10</p>
-          <p>15</p>
-          <p>14</p>
-          <p>7, 14, 3y, 4y 7, 14, 3y, 4y</p>
-          <p>1991/92:UbUReg.</p>
-          <p>13</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199192/reg_199192_UbU/reg_199192_UbU-013.pdf"/>
-          <p>Lokaler, högskolornas underhåll och upprustning översyn av behov Lokalförsörjning för högre utbildning och forskning........ Lokalkostnader m.m. vid högskoleenheterna ANSIag tillossooossssseesereresrerrnersrersnnersrrernennernnrnnern enn nrn ann rna nanna Lokalkostnader m.m. vid Sveriges lantbruksuniversitet ANSlag tillosooosssessssrrreerrersrrrererrrrenrrrsrnrrrrrrrrnn enn nr nen nen n erna non Läkarlinjen PlanNeringSraMarl.ssssssessrerreerrersrrrenrerrrerrerrernenrnenrrnnrnn rna noen LärarCertifikalt oonsmsssssseesrrerrrrerrrerrrrsrrrrrrrnrrenerrrrrnrrn ren nrrnn rn anna nana Lärarfortbild Ning. ..ssmmmmssssessrerereneresrrrnrsrenrrenrersrenrrrrennrnn ann nan nen na Lärartillgången, särskilda medel för att förbättra ............... Lärarutbildning alkoholfrågor, sex- och samlevnadsfrågor ..................... grundutbildning i religionskunskap ............ssessesensn0n innehållet I.osmmsmssssesrssesrerreseesersresrennernenrenenrenerrenennenr rn nanna a integration av ämnesteori och praktik... KOStkUNSKAP osmooneeeserrrssrernrenrensrassnrennennnrsernnennnrnnrnnenn enn nanna</p>
-          <p>StFUKLULooooosssssesssseeerrereerrnreserrenererrrrrererrrrrnrrrerrrrrrrrnrsrer rn nn anna</p>
-          <p>Läraryrket, krav för utövandet av Lärlingar utbildning fÖrl.....sssssesesrrrsrerrreserersrrrrrerrerrnrnerrrrrnrnnnenn renarna nn Lärlingsutbildning</p>
-          <p>Läromedel granskNiNg AVossooseeeeessererereeeresesrerensrrrssnrennrnennnern nn serna anna lagfäst rätt till KOStnadSfria s.smmmmmmsssssrerssrererrensennenern asarna nan OM SAMÅL oosoeesreseseesrernerreneererenrenenren ennen enenenenenennsnnnenenen ronne a specialpedagogiska hjälpmedel för handikappade........ utveckling och produktion aV....sssesssssesresresessrenrrnnn annan LärOplanSfrågOr o.smsnssserasresreresrereneneenenrenenennereren enar anen aan n enn nanna nn Läspedagogiskt iNnStitUt ..snmmmnssssssesresnennesnrnesnenesnennrnennen ann nanna | 15:50 AR Löntagarorganisationerna medel för verksamhet i skolans arbetslivsorientering..</p>
-          <p>Manne Siegbahninstitutet för fysik</p>
-          <p>ANSlag tillosooosssssssssseesserssneenrenrrrenrnrnr nen rrn ren nen ren ennen nen nn ennen nn Mark- och vattenmiljöer, forskning OM s...mmmsssssesesrennnnnnnnn MASkinSkriVDiNg ...ssmmsmsssserresssrererrrrrrrrrsrrrnrsrerrrrenrrnrrr rann nrnnn nn nn nn MassmediekunSkapPa..smsseeseesessersesnrenrerrenesnennenenernesennrrnrnnennnnen Matematisk-naturvetenskapliga fakulteterna anslag till.mssosssssssesssressrrrsrernnrnnnnenn ner rrn enn n anno nn nan</p>
-          <p>förstärkning vid universitetet i Linköping Medellånga vårdutbildningar [6 65 4 Medicinska fakulteterna anslag till.sssnsssssssssrereresrenrenrenrenr enn renern ennen enn nr nere ennen enn n nan</p>
-          <p>16:2 16:1 16:1</p>
-          <p>14</p>
-          <p>15</p>
-          <p>1991/92:UbUReg.</p>
-          <p>14</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199192/reg_199192_UbU/reg_199192_UbU-014.pdf"/>
-          <p>Medicinska forskningsrådet anslag till.nossssssssssssssnennenesrersorrerennrrererrnrnen er rnnr rn renen nn n nen enn Medicinska handikapp [2 (AC of &amp; 4376 Medieprogrammet grendelning i.......nnsseesesrnr Mikrofilmning av affischer MiljöfOrsknNinNg s.somssssssssessranesnenrennsnennerrenrrnernernennenennnnen nen nn rna Miljöfrågorna i läroplansarbetet ....n.nsmsseeseeesrenesennnnnnnnnnnnnnnn Miljöinslag i utbildningen AlMÄDt oosooseserereereresrrrerenranerenenenrnnereererenenernenenenenenenen nerna nn nn i högskoleutbildningen sm. ..meeesesererersrsrnrsrnrnernnnnnnnnnnnnnnn nn i lärarutbildning och -fortbildning .........seeesseeenrensennr Miljövetenskapligt utbildningSsråd..............e-emmmenn Mindre studiekurs Musikhögskolan i Malmö grundutbildningsmedlen.....eeeeeeeeesesrsrnenrnrnrrnnnnnnnnnnn IN UTEST SS 0 ET a Vr Måldokument för barnomsorg och skola gZEMENSAMA oosseseeesesesrersrsrsrsenrnensrnnerererernrnenrnen ene rnen nn r renen en nan Målrelaterade betyg som urvalsinstrumMent smmsssesseresesrererresrererrenernrn nn enn nnn nen</p>
-          <p>Naturvetenskap och teknik information OM smsmmessssssessrasrasseenseesrrenereresnnrnrernrnr enn nn n rr nan Naturvetenskapliga forskningsrådet anslag till. oosonssssssessessenesnesnesrenesnennernenerr ennen rrn ennen ene rn enn rna nn Nedrustningsforskning CENtrUum fÖrL sosse aesserrererrrsreneenerrerreneen nens renen ennen ennen ennen renarna Nordisk designskola i Borås bidrag tillssnssssssssssesreseenenenenennsnnneneenenererrrnenrnenenenenen nn nnnn nen</p>
-          <p>Odontologiska fakulteterna anslag till.sssnsssssssssesseseesrssseenrnnennrrnrnrn nr r renen ennen ennen nn nn Optikerutbildning ...msssssssnsesesesenenenennnrenrnrnrnnnennnnnnnnenennnrnenenn</p>
-          <p>Planeringsramar lokala och individuella linjer samt fristående kurser .. utbildning för administrativa, ekonomiska och sociala YTKCnN susmmesesesserenenrererenenenerrererenrrrenenrnerer enn renen nn nan utbildning för kultur- och informationsyrken ............. utbildning för tekniska yrken m.smesesseerersesrrsenrnnnnnnnennnn utbildning för undervisningsyrken ss... utbildning för vårdyrken s.....ssssessesssessreresenensnnennnnnnnnnn Plötslig spädbarnsdöd Polarforskning anslag till...nsssssssssesssssereernnnnnnnnr enn nn nn Praktikplatser Praktikår i grundskolan ........sssessssssosserrerererrennrnnrnrennrrnrrnnn rann ProfessOrS NalMssssssesssrerersrrerrernrrrrnrrrrrrrsrrrnernr ren nr ennen nn rr nan</p>
-          <p>15,</p>
-          <p>19</p>
-          <p>19</p>
-          <p>1991/92:UbUReg.</p>
-          <p>15</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199192/reg_199192_UbU/reg_199192_UbU-015.pdf"/>
-          <p>Professur i brackvattensekologi</p>
-          <p>idrottsmedicin internationell migration och etniska relationer ........... FE 07: OS marin MikrobiOlOgi......s.essesssessresrerresrennernerrrennesrernrrnrerrn nen a NatUrfätt ooosssssseeseesrerrenrerrrrrrerererrnrrrnrrrrrrrnnersn er rnnenn rna rna n rann oceanografi med särskild inriktning mot Östersjön..... småföretagens ekonomi och utveckling ........................ Profilering av SKOIOI..ssssssssseessessrersransrenrerensersrnrrsrerrrrsnn enn n nen Psykologlinjen PlaneringSraMal.ssssssssssseerererseesrernerrennerernrsnnernernennenn ennen an</p>
-          <p>resursförstärkning Psykoterapiutbildning för PSYKOlOgEL sissnssreresresesreseenresernnrsrernenrenennennr ennen ennen rn nana Påbyggnadsutbildning i gymnasieskOlan ssmnnesssssreerrrnrrenrrrnrrrnnrrnrersenernnnnn rna nanna nn</p>
-          <p>Regiutbildning vid teaterhögskolan i Malmö. ....ssssssssrsesesresnrenennenenennnnnn Rehabiliteringslinjen fÖrläNgNIiNG.oeeesssessrereereresrrersrrrrsesrrrrnnrrrenrrr ra rrnne rer n nn r erna nn PlaneriNngSraMaL .sosssessseessreassereenssserrensrrerrrrrrrnnnrrrnnnn rn nn nana påbyggnadsSlinjer ...ssssrsrsesenrsrnenenrerererersrsrnnrrenerenenen ennen ann RektorsutbildnNing....ssssssesserosessressrennrersrsrensresrrsrrererrrrnrnn arr rn rna nn Religionskunskap smssmmmrssrsresresernrenesrerresresnnenesrsrresrrenernrernrnrnnnn Religionsvetenskaplig utbildning</p>
-          <p>Restaurangutbildning, högre vid högskolan i ÖrebrO..........ssssssssssresssssensrsnnsnnnnnan ann nn Resurscentra med utåtriktad verksamhet..............s.ossosooono0n Resurscentrum för elever Med auUtiSM smmmmssssssseeresrrssenersernnarrenern nen n rna nan Reumatologi fOrSKNiNg Iossesesresresrererrerseeresrernesrennrnrerrenrenenrrr sann nen nn nen anna Riksbankens jubileumsfond, stiftelsen verksam he€t.ssssssesressrerrrssresrrenrrrnrrersererrrrrerrrrrrnrenrr rann nn rn nen RiksskOgStaxXeriNgeCh smsmmmssssssesreresresrennsesrenrensesersrrnnennennennen ann rna Rymdforskning ANSIag fillossoosssssssssssssessesreneererrenreen nen nen nen renen renas ennen nana n ann Rör inte min kompis kampanj fÖrl ssssessesresrseseesrersresrrresrrrerrrrrrsrrernrrerrrrnrnrrnr en nana</p>
-          <p>Salbohedskolan i Säla......sssssssesseessrsserrnsrrnnrenrennnrerrrennrnnn nr nn nan Samer UNdEerVisNiNg OM snussmemsssesssrresserarsrssrrrensrrrnrerrrrnrnernnn nr rann enn Sameskolor = anslag till.smnonosssssssssesresrresnesrsrenrrnnnrsnrrnnnnnsernnn renen ren nn n nan Samhällsvetenskapliga fakulteterna anslag till.snsomosssssssseesrsrssrssssrnrersrrrrrnnrrrsrnrerrr nr nere rn enar enn nan</p>
-          <p>1991/92:UbUReg.</p>
-          <p>16</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199192/reg_199192_UbU/reg_199192_UbU-016.pdf"/>
-          <p>Sanktioner statliga, mot KOMMUNEINA susmeseseeresresernreesrenrennernnennnrnnnn Sektorsbidraget till skolan anslagsbelopp avveckling av principen om ett generellt....mmmsmssssssssennsnenrsrsennenenrnnnnnn nns UpPpfÖljNniNg QV.-ssmnnsssssesseserrsesneerennnarrenrenesr renar nenren ennen enn nen nan Servicemyndigheten anslag tillosssssssssssesessererrrrerrrerrrnrerrrrerrrrrrnrrrrrrnrnrnrrr nr n rann rann Sex- och samlevnadsundervViSniNg.......ssssessssserssrsrsersnsnnnnnnnnn Signaltekniker, utbildning av .s.smmnmenssesersrorenrenernesnenernennen annan a SIH (Statens institut för handikappfrågor i skolan)........... Sjuksköterskelinjen INLättläNde ooooossesseerrerserrsrrerrernrrrrrrnrnn renen rrn nen nenr ennen rn annan an Skara, lantbruksuniversitetet I ....nmmmmss.sssssossesssoserssersssosrnnnnnnn Skogs- och jordbrukets forskningsråd ANSlag tillossossossssssssssressrsssrrrsrrnnrernrrerrrerrnrn rann r ennen enn rann n nanna SkOgsfOrsknNinNg....sssseseenennesrennennerresrennernrerernernesnsnnrnernenennen nen nan Skogsmästarutbild Ning ....ssssssssensenreerrrsernesnrsrennenennenernen annans Skogsteknikerutbildning......... Skolans värdemässiga grund Skollagen, ändriNg I .ssmmmssrsssersreseerennrenrenresernerrernerennen ennen nana nn fristående SKOIOT s..ssssssrerererererrrenenerrsrsenenenenensrsnnerenenen ennen gymnasieskOlan..sssssssssrressensrensersnnrennesnrrennenrnsnrernen nen rr nanna sanktioner mot KOMMUNEINA smnmsessessresrererrnnerrennnrnnnnn ann</p>
-          <p>särskolan</p>
-          <p>Skolmåltider basstandard.........ssssssrerrrrrrronnnnnrnr nan lagfäst rätt till kostnadsfria SKOIPIAN oossesreesreseesrersrrrenresrennerrennenesr narr nenern ennen rrn renen nen ennen annan nn SKOIPliKt oooonssssesesreresesesrererereererrrrerenerrerrererrsnenenennenenenenen ene n annan i SärSkOlAN susoosossessrresrerererererererererrrrrrerrrererrerrrrrrnrrrrnnns nanna nn Skolskjuts elever i fristående SKOIOL s...smmnmssssssrsresererrseresrrnrennennnnnn nan Skolverket</p>
-          <p>Socialt behandlingsarbete, Fortbildning i nedläggning av påbyggnadslinje .............sesessesssensnnnnnn nn Specialpedagogisk utbildning .........ssssssssrsessesenrenennnnnnnnrnennn nan Specialresurser till toppresterande elever .................ss.ss0s00n Specialskolor m.m. anslag till...........s..sss20000-- Ekeskolan i Örebro FeSUTSCENtlA sssossseerererenenrenesenrerererennnnr ense renen renen nen rn enn n en enn Specialutformade prOgfäll summmmmsssssessreserrsrsreenernrsrernrrernnnnr nn Språkundervisning i grundskolan ...........esssssessssssrsrsrsssanann nn Språkutbildning........ssssssseseorereseseneerennenenennenenennenennn annan nnn annan</p>
-          <p>1991/92:UbUReg.</p>
-          <p>17</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199192/reg_199192_UbU/reg_199192_UbU-017.pdf"/>
-          <p>Statens institut för handikappfrågor i skolan (se även</p>
-          <p>Statens skolor för vuxna ansökningsavgifter INOM . smmmmsssssessessrrssesresernnennennnnn annan Statens skolor för vuxna: Undervisningsmaterial m.m. anslag till.ssonsssssssssssessrresrsrsrrreserersrnrrrrrnnrsrrrrrnernnrrrnrrern nr nn nn nn nan Statens skolor för vuxna: Utbildningskostnader aNSläg till.soosoosssssssseressrerrerrrrererrresrrrrernrsrrrrrrrerrrrrnrernrrnn nn rn nen vissa medel till SSV i Härnösand ..ssssssseseessensennennennnnnr Statens skolverk (se även Skolverket) anslag tillossossssssssssssesreresresrerrnerennenrrrnesrrrnenennrr ennen annen ennen anna funktion och arbetsuppgifter M.M....msmmsssssssssssesesnnnnnnnn Statsbidrag till kommuner, generellt ........ssssssssssssennnnnnnennn nn Stenkonservering påbyggnadslinje I.msmsnsssssesesreneseneenenrerenerrenensnerenenenenen nn nanna Stimulansbidrag till förbättringar av den fysiska miljön i skolorna anslag tillossossssssseesresrsereressrrrnnanrrrnnnrnnrenrnrnnen nens n ennen nen nr nen nan fristående skolors rätt att få del aV............esssssssnsonnnnnnnn riktlinjer för prövning av ansökningar s........eeeeeeecn avskaffande av anslaget ... Studerande hälsOVård s...nssssssrsesesrsrsenenenenenerenennrnrnenennnnnnnn enn nna Studie- och yrkesorienteriNg ......ss.ssssssseesersenenreneenennenernnn anar Studieplaner INdividUella ossssssssrereesrreeesrrrrsrrrreerrrrerrrrrrnnrnnr rr enn n ennen annan an Stöd för utveckling av skolväsendet ANSlag till.ssosnssssssesssesessressresrrnsrrennernnrrnrrrsnernern nn nr ne nnr nn nn n nn Stöd till kollektiv forskning anslag till.ssosnnssssessssssessrsesserarnnnnennnrerrnrrr rer nne nn aren nen nn enn nn n nn Svensk undervisning i utlandet m.m. bidrag tillissssosssssssssseresrernrresrrnnnenrrrrrrrnnrernnrnnennrnnnennen nn nen nnn Svenska för invandrare (sfi) kompetens SOM lärar€ I smussmmmsssseseeseeseeseeseneenenrrnnnnennnn eran nan Svenska språket intyg på kvalificerade kunskaper i............ss.sssssssnsonsnnnnna Svenska språket, undervisning för invandrare i anslag till.snssmsssssssssssserersnrsnnnnnr avveckling av särskilt bidrag Sveriges lantbruksuniversitet anslag till.soosssssssssssssssesessesnrerrerennern ennen ennen ennen renen enar n enn nana förstärkning av forskningsresurserna Vid .....................- inredning och utrustning av lokaler vid ............s.sssnnnn lokalkostnader M.M. VIA summnmmssssessessersesernsennenennennenennnnnnnna Särskilda insatser på skolområdet anslag till.ssonnssssssssssssssresssererrsnnennnnrrrsrnr rss rer rrrrnn nr nn nn nn nanna Särskolan avveckling av särskilt bidrag till. .....nnmnnmssssssesresrsorrrnnn nn beslut om elevs mottagande i.....nnssssssserssessrssrennennernnnnnnnr bidrag till.sssssmsssssssssressresererrerererrnrrrrrrrnnrnrrrnnrnnrrnnennenn nen n rn rann PersOnalfrågOr ..sssnssssesreresesrernesenrenesrrnenennenenenennnnnnenennn eran rna</p>
-          <p>9:2 26 12</p>
-          <p>7, 11:6 11:6, 4y</p>
-          <p>21, 28 11:1, 5y 21,28</p>
-          <p>1991/92:UbUReg.</p>
-          <p>18</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199192/reg_199192_UbU/reg_199192_UbU-018.pdf"/>
-          <p>utbildnings- och utvecklingsplan ...ssssesssssisersenrsrnnn nn ändrat huvudmannaskap fÖr susssmsssersserssrrersrssrernrrnnn nana Särskolan, den frivilliga rätt till utbildning i Särskolor, fristående s..smmmmnsssessessrssesrseeeerrerenerrrrrnnrreronn ere rnn nanna a</p>
-          <p>avveckling av särskilt bidrag till.mmssmsmmmsssssssresennnsnnnnnnnn bidrag tillosmmnossssssssssseneneenesrenennrnernrrnnernennerrrrnnenern renen nn nn nen ändrat huvudmannaskap fÖr s..snmmmssessressrressresnrssrrnnrnrrnnnn Södertörn, högskoleutbildning På............sssssssssssssesesessrnnnna</p>
-          <p>TandhygienistliNjen .mmmmsnsssresresreseessrrrrsrennnansrrrenrerrrernrrsnn nn nan Tandvård</p>
-          <p>Tekniska fakulteterna aNSlag tillossosssssssesssresesreereseneenernernrrrnrrnrnn een nennrnn ennen nens n nanna nn Temaorienterad forskning anslag tillossssssssssssesresresrassrereennennesrn nere rann nn nen enn nerna rena nanna Teologiska fakulteterna anslag tillossonsssssssesrerrsenrrrsrerrennesrrrnnrrennennnrnnn nn ennen ns aren nanna Teologiska högskolan i Stockholm bidrag tillisnmmnssssssssssesrssrersreserrrsrrnnnrerenenr nns nnrnnnsnnrrn nn enn nanna nn Textila utbildningarna i Borås fÖrläNgNiNgG.sooseeseesrerreserenseserneenersnrrreneenr ren rrer ner rs n rr nn nn rn nn Tillgodoräknandereglers.msmmmsrssrssresesersresnnnssnnnesnrernererrrrnnnnrnnn Tilläggsbudget I för budgetåret 1991/92 =mss.sssseereserrsrsesenenrrinenenennnnan annan Tilläggsbudget II för budgetåret 1991/92 =mnssmsessesresesenneneennenenennsnrnnennnnennn TimplanefrågOr s.omsmnmamensoereesrsrsesrseseererneerenernenernrrnenennrnennnn enn nn ann garanterad undervisningstid s.snmmmsesessesressresrereenrsrnnsnnnnnena Stad i€iNAelNiNg.oseesesresrererenesrennennerrnennerrnnennnrnrnnrrn ren ren nrn nn [540 NET Un timme till förfogande (TTF) ......s.sssssesesesesorrenenerenernnnnnnnn Toppresterande elever specialresurser till smosomsssssssssesresresnrsrsennrnnrennnenenner enn n ennen nan Trafikantutbildning ...................- Trafiklärarutbildning TungmetallCentrUuDm.u..smmssmrsesessrsressrsserersrererrnnrnrernernnernn nen rn renas Turismlinjen fÖrläN gNiNG.soeeseseesesresesnenrrnerseserrrnrrsnrnerrernrernenren nen n rn nerna</p>
-          <p>Ungdomspraktik villkOren fÖr sssssssesreseesrenrenrennesnernrrrenernr nen nrrrnnennnsnn nerna r rn nn Universitets- och högskoleämbetet (UHÄ) Ned läggNiNlg sossssseseereserrernersesenniserresnnenernner ere nennrner rr åran nn nn Uppföljning och utvärdering inom skolväsendet ...........ssssseseessessesserssrennnnr Urval till högskoleutbildning</p>
-          <p>21,28 1991/92:UbUReg.</p>
-          <p>21,28</p>
-          <p>21, 28 21, 28 11:2 5y Sy 21, 28 20</p>
-          <p>14</p>
-          <p>26 20</p>
-          <p>5y 13</p>
-          <p>19</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199192/reg_199192_UbU/reg_199192_UbU-019.pdf"/>
-          <p>Utbildning för administrativa, ekonomiska och sociala yrken anslag fill.snosssssssesseesressrrrnsrrerrernenrrrrrrnnersnnerrsnn enn nr enn nn nn PlaneringSraMar.ssssssssessessresresssesernnnernnrernesnnnnnnen nr ennen nn n nan Utbildning för kultur- och informationsyrken anslag till.soosssssssssssssrerersernnrsnernrenenernrnrrnrrnnrnn nens nr nn nn nanna nn PlaneringSraMar .sssssssseesresresrerseesereserrnrrrrenrnernrrn nns enn n nn nan Utbildning för tekniska yrken ANSlag tillosooossssssssssseserseseererneseeresnesnrrnrrnnenen renar enn nen nen annen an PlaneringSrälMar su osssssssssseseseseresrerenerreneerenenenesn ene ennen en annen an Utbildning för undervisningsyrken anslag till.......nnnn.&gt;....- planeringsramar Utbildning för vårdyrken ANSlag tillossosssssssessssreseseeseerenrerenrenern een n enn ennen enn rn ner n nare nan annan PlaneriNgSraMaL .ssssssssessreseeseessrreresnrrnnennenn ren nenn nen nnn nana Utbildningsdepartementet ANSlag tillossoosssssssssesesresenresrnrenrerernrnserrnennenennrn nen nsn ennen ennen nan Utlandsskolor Utlandsstudier för €l€VCl mossssseseeserseeresesrenrenernersenn een rrn nen enenn arne n ennen nen enn anna Utredningar m.m. ANSläag tillossooossssssssressserrsrsrrerrerrrersrrnrrrrrrrrrrnrnrennrannrrnn renarna ann Utrustning för gymnasier avskaffande av anslag till smomssssssssesserrereserrrrsrrnnrnnnnnsnnn Utrustning för specialskolor m.m. anslag till.sossossssssessreseesersresrrenrerrrnnrrsnrrrnnrnnrnn nns nr rn anna annan Utrustningsnämnden för universitet och högskolor (UUH)</p>
-          <p>NEC läggNiNg sosssssesseseesesreresreseerenrererrerrrnnennrren rann nn nerna nan nanna Utveckling och produktion av läromedel anslag till.soomsssssssessessesrsrrenrrsrerrrenrrnrn rer nen nen rrnn ner n nen n rn nana Utvärdering och kvalitetskontroll i högskolan anslag till.smsmnsssssssssreseesessrenrrnrerrressrersrrernnennnnn nns nen nr nen nan</p>
-          <p>riktlinjer för</p>
-          <p>Vertikal skOolorganiSsatiOnN........s.sssesseseressrrersersresrrerrrrrnnrnnnrn nana Vetenskapens HUS smmssssmnssresseesresserseesrssrnrrnrnrnnsnnnrsnnrrnn ann nn nana Vetenskapsbutiker smsmmmsnssessrsresesreseennesersnesnennenernnrnnnn nen nnn annan Vissa bidrag till forskningsverksamhet anslag till.smosssssssssssrsssesrssrerrresrerresrrerrn rer nenn enn nn nnn enn n enn nanna Vissa ersättningar för klinisk utbildning och forskning m.m. anslag tillosmnssssssssssssesrsresrsnennerernenerrrrrrrnnennen enn nen nr nn n enn n ennen Vissa särskilda utgifter för forskningsändamål anslag till. omossssssssesssessenreneerenrersnrsrrerrrrnrsnrsrernennrnr rr ennen nn enn Vissa särskilda utgifter inom högskolan m.m. anslag till.sosmssssssssssessesresersnensrrnrrsrnrrrsreresnernnrnnrrrn nen n nr nr sn rna Vissa tandvårdskostnader anslag till.nosmmssssssessreseeresrrerrrnnrrrrannrsnnn rer nrnnesn rer ns ennen nn nn nn</p>
-          <p>14 14</p>
-          <p>14 14</p>
-          <p>14, 20 14, 20</p>
-          <p>15</p>
-          <p>15 15 13, 25, 4y</p>
-          <p>13</p>
-          <p>1991/92:UbUReg.</p>
-          <p>20</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199192/reg_199192_UbU/reg_199192_UbU-020.pdf"/>
-          <p>VårdlärarutbildniNg.......oesssssssrsesesenenernenenenenenrnsnnrnrnenrnrnnnnnn 20 1991/92:UbUReg.</p>
-          <p>Yrkesteknisk högskoleutbildning (YTH)</p>
-          <p>inom livsmedelsområdet...........ssssssssssesseseseornenenerenenrnnenn 14 Ämneslärarlinjen om 40 p, avveckling aV............... 20 Överföringar mellan anslag för högskOlan................-.--- 13 Överklagandenämnden för högskolan anslag till.sssssssssssssrssresrenresnnrnennennnsnnesnnrnrrnes renen ennen enn nn nn ann 18</p>
-          <p>21</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199192/reg_199192_UbU/reg_199192_UbU-021.pdf"/>
-          <p>gotab 41606, Stockholm 1992</p>
+          <p>
+            Utbildningsutskottets register vid
+          </p>
+          <p>
+            riksmötet 1991/92
+          </p>
+          <p>
+            dr
+          </p>
+          <p>
+            PY Es Ey
+          </p>
+          <p>
+            1991/92 UbUReg.
+          </p>
+          <p>
+            Betänkanden
+          </p>
+          <p>
+            Nr UbU1 Jämställdhetsfrågor i utbildningen Utskottets justering
+            Riksdagens beslut: Bifall till utskottets hemställan Protokollshummer
+            Riksdagsskrivelse
+          </p>
+          <p>
+            Nr UbU2 Vissa högskolefrågor Utskottets justering Riksdagens
+            beslut: Bifall till utskottets hemställan Protokollshummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr UbU3 Miljöfrågor i utbildningen Utskottets justering Riksdagens
+            beslut: Bifall till utskottets hemställan Protokollsnhummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr UbU4 Vissa skolfrågor Utskottets justering Riksdagens beslut:
+            Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr UbUS Bostäder för gäststuderande m.fl. Utskottets justering
+            Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till
+            utskottets hemställan Protokollshummer Riksdagsskrivelse
+          </p>
+          <p>
+            1 Riksdagen 1991192. 14 saml. Register
+          </p>
+          <p>
+            1991-10-24 1991-11-06 1991/92:19
+          </p>
+          <p>
+            1991-10-24 1991-11-06 1991/92:19
+          </p>
+          <p>
+            1991-10-24 1991-11-06 1991/92:19
+          </p>
+          <p>
+            1991-11-12 1991-11-27 1991/92:33
+          </p>
+          <p>
+            1991-11-12 1991-11-27 1991/92:33 1991-11-27 1991/92:33
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199192/reg_199192_UbU/reg_199192_UbU_0001"/>
+          <p>
+            Nr UbU6 Statsbidrag till miljöförbättringar i skolan (prop. 1991/92:10)
+          </p>
+          <p>
+            Utskottets justering 1991-11-05 Riksdagens beslut: Bifall till
+            utskottets hemställan 1991-11-27 Protokollsnummer 1991/92:33 Riksdagsskrivelse
+            1991/92:26 Nr UbU7 Tilläggsbudget I (prop. 1991/92:25 bil. 7)
+            Utskottets justering 1991-12-05 Debatt i kammaren 1991-12-17 Protokollshummer
+            1991/92:47 Riksdagens beslut: Bifall till utskottets hemställan
+            1991-12-17 Protokollsnhummer 1991/92:47 Riksdagsskrivelse 1991/92:87
+            Nr UbU8
+          </p>
+          <p>
+            Anslag till utbildningsdepartementet, m.m. (prop. 1991/92:100
+            bil. 9)
+          </p>
+          <p>
+            Utskottets justering 1992-03-12 Riksdagens beslut: Bifall till
+            utskottets hemställan 1992-04-08 Protokollsnummer 1991/92:94 Riksdagsskrivelse
+            1991/92:191 Nr UbU9
+          </p>
+          <p>
+            Anslag till utveckling av skolväsendet, m.m. (prop. 1991/92:100
+            bil. 9)
+          </p>
+          <p>
+            Utskottets justering 1992-03-12 Debatt i kammaren 1992-04-08
+            Protokollsnhummer 1991/92:94 Riksdagens beslut: Bifall till utskottets
+            hemställan 1992-04-08 Protokollsnummer 1991/92:94 Riksdagsskrivelse
+            1991/92:192 Nr UbU10
+          </p>
+          <p>
+            Bidrag till det kommunala skolväsendet (prop. 1991/92:100 bil.
+            9)
+          </p>
+          <p>
+            Utskottets justering 1992-03-26 Debatt i kammaren 1992-04-08
+            Protokollsnummer 1991/92:94 Riksdagens beslut: Bifall till utskottets
+            hemställan 1992-04-08 Protokollsnummer 1991/92:94 Riksdagsskrivelse
+            1991/92:190
+          </p>
+          <p>
+            1991/92:UbUReg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199192/reg_199192_UbU/reg_199192_UbU_0002"/>
+          <p>
+            Nr UbU1ll Anslag till särskolor, specialskolor, m.m. (prop. 1991/92:100
+            bil. 9)
+          </p>
+          <p>
+            Utskottets justering 1992-03-19 Debatt i kammaren 1992-04-08
+            Protokollsnummer 1991/92:94 Riksdagens beslut: Bifall till utskottets
+            hemställan 1992-04-08 Protokollsnrummer 1991/92:94 Riksdagsskrivelse
+            1991/92:193 Nr UbU12 Utrustning m.m. inom skolan (prop. 1991/92:100
+            bil. 9) Utskottets justering 1992-03-19 Debatt i kammaren 1992-04-08
+            Protokollsnhummer 1991/92:94 Riksdagens beslut: Bifall till utskottets
+            hemställan 1992-04-08 Protokollsnhummer 1991/92:04 Riksdagsskrivelse
+            1991/92:194 Nr UbU13
+          </p>
+          <p>
+            Vissa för högskolan gemensamma frågor och anslag (prop. 1991/92:100
+            bil. 9)
+          </p>
+          <p>
+            Utskottets justering 1992-04-09 Debatt i kammaren 1992-05-06
+            Protokollsnummer 1991/92:106 Riksdagens beslut: Bifall till utskottets
+            hemställan 1992-05-06 Protokollsnhummer 1991/92:106 Riksdagsskrivelse
+            1991/92:241 Nr UbU14
+          </p>
+          <p>
+            Grundläggande högskoleutbildning m.m. (prop. 1991/92:100 bil.
+            9)
+          </p>
+          <p>
+            Utskottets justering 1992-04-09 Debatt i kammaren 1992-05-06
+            Protokollshummer 1991/92:106 Riksdagens beslut: Bifall till utskottets
+            hemställan 1992-05-06 Protokollsnhummer 1991/92:106 Riksdagsskrivelse
+            1991/92:242 Nr UbU1S Anslag till forskning, m.m. (prop. 1991/92:100
+            bil. 9) Utskottets justering 1992-04-02 Debatt i kammaren 1992-05-06
+            Protokollsnhummer 1991/92:106 Riksdagens beslut: Bifall till utskottets
+            hemställan 1992-05-06 Protokollsnummer 1991/92:106 Riksdagsskrivelse
+            1991/92:243
+          </p>
+          <p>
+            1991/92:UbUReg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199192/reg_199192_UbU/reg_199192_UbU_0003"/>
+          <p>
+            Nr UbU16 Lokalförsörjning m.m. för högre utbildning och forskning
+            (prop. 1991/92:100 bil. 9)
+          </p>
+          <p>
+            Utskottets justering 1992-04-02 Debatt i kammaren 1992-05-06
+            Protokollsnummer 1991/92:106 Riksdagens beslut: Bifall till utskottets
+            hemställan 1992-05-06 Protokollsnhummer 1991/92:106 Riksdagsskrivelse
+            1991/92:240 Nr UbU17
+          </p>
+          <p>
+            Anslag till lantbruksuniversitetet, m.m. (prop. 1991/92:100 bil.
+            10)
+          </p>
+          <p>
+            Utskottets justering 1992-04-23 Debatt i kammaren 1992-05-06
+            Protokollsnhummer 1991/92:106 Riksdagens beslut: Bifall till utskottets
+            hemställan 1992-05-06 Protokollshummer 1991/92:106 Riksdagsskrivelse
+            1991/92:244 Nr UbU18
+          </p>
+          <p>
+            Central myndighetsorganisation för högskolan, m.m. (prop. 1991/92:76,
+            prop. 1991/92:100 bil. 9)
+          </p>
+          <p>
+            Utskottets justering 1992-03-19 Debatt i kammaren 1991-04-08
+            Protokollsnummer 1991/92:94 Riksdagens beslut: Bifall till utskottets
+            hemställan 1992-04-08 Protokollsnhummer 1991/92:94 Riksdagsskrivelse
+            1991/92:195 Nr UbU19 Läroplansfrågor och betygsfrågor Utskottets
+            justering 1992-05-12 Debatt i kammaren 1992-05-26 Protokollsnhummer
+            1991/92:120 Riksdagens beslut: Bifall till utskottets hemställan
+            1992-05-26 Protokollsnhummer 1991/92:120
+          </p>
+          <p>
+            Riksdagsskrivelse -
+          </p>
+          <p>
+            Nr UbU20 Lärarutbildningen m.m. (prop. 1991/92:75, prop. 1991/92:100
+            bil. 9)
+          </p>
+          <p>
+            Utskottets justering 1992-05-14 Debatt i kammaren 1992-05-26
+            Protokollshummer 1991/92:120
+          </p>
+          <p>
+            1991/92:121 Riksdagens beslut: Res. 14 mom. 32 bifall. I övrigt
+            bifall till utskottets hemställan 1992-05-27 Protokollsnummer
+            1991/92:121 Riksdagsskrivelse 1991/92:282
+          </p>
+          <p>
+            1991/92:UbUReg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199192/reg_199192_UbU/reg_199192_UbU_0004"/>
+          <p>
+            Nr UbU21 Andrat huvudmannaskap för särskolan och särvux m.m.
+            (prop. 1991/92:94)
+          </p>
+          <p>
+            Utskottets justering 1992-04-23 Debatt i kammaren 1992-05-06
+            Protokollsnhummer 1991/92:106 Riksdagens beslut: Återförvisat
+            1992-05-06 Protokollsnummer | 1991/92:107 Riksdagsskrivelse -
+            Nr UbU22 Fristående skolor (prop. 1991/92:95) Utskottets justering
+            1992-05-26 Debatt i kammaren 1992-06-09 Protokollsnummer 1991/92:127
+            Riksdagens beslut: Bifall till utskottets hemställan 1992-06-09
+            Protokollsnummer 1991/92:127 Riksdagsskrivelse 1991/92:346 Nr
+            UbU23
+          </p>
+          <p>
+            Riksbankens jubileumsfonds verksamhet under år 1991 (redog. 1991/92:6,
+            redog. 1991/92:7)
+          </p>
+          <p>
+            Utskottets justering 1992-05-12 Riksdagens beslut: Bifall till
+            utskottets hemställan 1992-05-27 Protokollsnhummer 1991/92:121
+            Riksdagsskrivelse 1991/92:283 1991/92:284 Nr UbU24 Uppskov med
+            behandlingen av vissa ärenden Utskottets justering 1992-05-21
+            Riksdagens beslut: Bifall till utskottets hemställan 1992-06-02
+            Protokollsnummer 1991/92:124 Riksdagsskrivelse - Nr UbU25 Tilläggsbudget
+            II (prop. 1991/92:125 bil. 6) Utskottets justering 1992-05-05
+            Riksdagens beslut: Bifall till utskottets hemställan 1992-05-14
+            Protokollsnhummer 1991/92:112 Riksdagsskrivelse 1991/92:263 Nr
+            UbU26
+          </p>
+          <p>
+            Vissa gymnasie- och vuxenutbildningsfrågor m.m. (prop. 1991/92:157)
+          </p>
+          <p>
+            Utskottets justering 1992-05-19 Debatt i kammaren 1992-06-01
+            Protokollsnummer 1991/92:123 Riksdagens beslut: Bifall till utskottets
+            hemställan 1992-06-02 Protokollsnummer 1991/92:124 Riksdagsskrivelse
+            1991/92:311
+          </p>
+          <p>
+            1" Riksdagen 1991/92. 14 saml. Register
+          </p>
+          <p>
+            1991/92:UbUReg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199192/reg_199192_UbU/reg_199192_UbU_0005"/>
+          <p>
+            Nr UbU27 Viss förstärkning av forskningsresurserna vid Sveriges
+            lantbruksuniversitet (prop. 1991/92:150 bil. 1:7)
+          </p>
+          <p>
+            Utskottets justering 1992-05-19 Riksdagens beslut: Bifall till
+            utskottets hemställan 1992-06-02 Protokollsnummer 1991/92:124
+            Riksdagsskrivelse 1991/92:332 Nr UbU28
+          </p>
+          <p>
+            Andrat huvudmannaskap för särskolan och särvux m.m. (förnyad
+            behandling) (prop. 1991/92:94)
+          </p>
+          <p>
+            Utskottets justering 1992-05-12 Debatt i kammaren 1992-05-27
+            Protokollshummer 1991/92:121 Riksdagens beslut: Bifall till utskottets
+            hemställan 1992-05-27 Protokollsnhummer 1991/92:121 Riksdagsskrivelse
+            1991/92:285 Yttranden
+          </p>
+          <p>
+            Nr UbUly till FiU (bet. 1991/92:FiU10) Inriktningen av den ekonomiska
+            politiken (prop. 1991/92:38) Utskottets justering 1991-11-28
+          </p>
+          <p>
+            Nr UbU2y till FiU (bet. 1991/92:FiU8) Riktlinjer för den statliga
+            fastighetsförvaltningen och ombildningen av byggnadsstyrelsen,
+            m.m. (prop. 1991/92:44) Utskottets justering 1991-11-28
+          </p>
+          <p>
+            Nr UbU3y till AU (bet. 1991/92:AU11) Arbetsmarknadspolitiska
+            åtgärder för ungdomar under 25 år (prop. 1991/92:124) Utskottets
+            justering 1992-04-02
+          </p>
+          <p>
+            Nr UbU4y till FiU (bet. 1991/92:FiU30) Kompletteringspropositionen
+            (prop. 1991/92:150 bil. 1:6) Utskottets justering 1992-05-19
+          </p>
+          <p>
+            Nr UbUS5y till FiU (bet. 1991/92:FiU29) Kommunal ekonomi (prop.
+            1991/92:150 bil. II:5) Utskottets justering 1992-05-19
+          </p>
+          <p>
+            1991/92:UbUReg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199192/reg_199192_UbU/reg_199192_UbU_0006"/>
+          <p>
+            Sakregister
+          </p>
+          <p>
+            Alkohol, narkotika och tobak (ANT).........sssssssesesseseonesnnsnr
+            Alternativ odling fOrSKNiNg Iossoessresereseesrersrerrensernrrrnr
+            nen nrrnn nns enn ernnsn een n enn n rn nns AlternativkUrSCi..smommmsssssreseersersneneennarnnn
+            ass nnnnnnnennennernrrn nen nn nan Anpassad StudiegåNg...........seseeseesreoresesenernenenennnnnennnsnnnnnnnennnn
+            Ansökningsavgifter iNOM KOMVUX sossososeseresersrerernnrrnrnnnnan
+            vid statens skolor för vuxna Antagningssystemet till högre utbildning..............e-e-se----
+            Apotekarlinjen fÖrläN gigas oosseeseesseesrerrrersrernersrennrnnnn
+            nerna rann erernrnn renen nerna nens Arbetsformer [RS CO EV VR
+            Arbetslivserfarenhet SOM UTrValSgrUNA ssssssssserserresrsenrrrsrnernnnennnnrrrnnernes
+            aren renen nn n nn Arbetsmiljön i SKOlQN.....ssssssesresressersnrrensnrsnnnnennnsnnennren
+            nen nn ann ATrbetSPlån sossnssssesessreseereneereenenrrnenrnnernnern
+            nen ren ere nernnsnennr nr n rann a Arkitektlinjen lokalisering
+            till universitetet i UMeå...............essnssnn0n planeringsramar
+            ÖVEerSyn av ....osnnnnns Arktisk forskning Center fÖl....sssssssersrerrrrrrnen
+            ant Arvika, musiklärarutbildning i Asylsökande elever bidragsgivning
+            till KOMMUNEINA sunmmmnsseeerrerererernnrnnnnrn rna Autism resurscentrum
+            för elever Med ..smmmmssssssrssssrrresrrnrrennrrnnnnn Avgifter
+            i gymnasieskolan och KOMVUX s....seeeessererreresrernnnnn Avskiljande
+            från högskoleutbildning...........seeseseseesreerernen
+          </p>
+          <p>
+            Baltiska språk BarnkUunSkapP....sssmsssesesresesresssrenseensresnnnnnrresrnnnn
+            rer ernrrrrrnrnn ann nn nn Barnmorskeutbildning fÖrläNgNiNg.sosesseeseereseeresneneneerenrernnenn
+            ren esnnernr nere nen renen enn n annan Bebyggelseantikvarisk
+            utbildning...........ssssesssersseseesresernennnn Bergslagens
+            samverkande högskolOr.........sssssesreseseererersnrenen Bergsskolan
+            i FilipStaCl....smssssseseserenneneosnsnnnrnnrrnrrnennrnnnnnnnnnnnn
+            Besparingar inom komvux Besvärsnämnden för högskolan
+          </p>
+          <p>
+            Betygsberedningen direktiv tilloossssssssssseosseressersnnennrrnnnnnrer
+            enar nnnerrnrrerr rr rn nn nn nn Betygssystem principer för ett
+            Nytt ssmmsmmmsssseressssererrennrrrrrrrrnnrnnnnrrnnn nn nn
+          </p>
+          <p>
+            4, 20
+          </p>
+          <p>
+            1991/92:UbUReg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199192/reg_199192_UbU/reg_199192_UbU_0007"/>
+          <p>
+            Betygsättning av doktorsavhandlingar. ..sseessessersreserenressrrernrerrnnennrnrn
+            nan Bidrag till driften av det kommunala offentliga skolväsendet
+            anslag fill.ssosssssesssssresresrerrerrersrnrrsrrssresrnreresnnrrrrnnrrnrn
+            ren r enn nn a avveckling QV..smmmssssssessreesrreessrersnnerssnrrennnerrrnnnn
+            rna nanna mereennns Bidrag till driften av fristående skolor anslag
+            tillossoossssssesssesseseeseenseennrrnernnnrnernn eran nn n nn
+            ner n nr n anno a Bidrag till driften av särskolor m.m. anslag
+            till
+          </p>
+          <p>
+            avveckling av Bidrag till driften av vuxenutbildning för psykiskt
+            utvecklingsstörda (särvux) ANSläg tilloosoososssssessesseseesnenrennrrnrennnrnnrrnn
+            nere nere nee nn n nen nan Avveckling QV.sssnssseesesreserreneenesreneesnerneerernernernrsrnrrnnernenn
+            rann nn Bidrag till kommunal högskoleutbildning m.m. aNSlag fillosssssosssssssssreseeseenrernrennesnrrerrernrnnnesn
+            nns n ren nr renen nn nen nytt statsbidragSsSyStemM .mmmssesssssseserersesnnennnnannnrsnnnnnnn
+            rna nan Bidrag till Skogs- och lantbruksakademien aNSläg tillossoososssesssesrsrresrenrernrrsresnnesrrrsnn
+            ennen ann n eran n nerna nanna Bidrag till svensk undervisning
+            i utlandet m.m. ANSlag tillossosoosssesssesresersrrsransresrrernrrrrrrnrrrrrennrrrnnn
+            nanna nerna rann nan Bidrag till undervisning av invandrare i
+            svenska språket ANSlag fillosooossssssssesessereseseenneresnennrnnereen
+            een ernenn nen nen n enn nen nn nn avveCklilg QV.smmmsssssressesreneenseeseesrasnernnernnenn
+            narr nen n nro n nerna nn Bidrag till utrustning för gymnasier
+            m.m. avskaffande av anslaget m.smmnmmssssssssssssssssrrssnrnnrrrsnnnnnrnnn
+            nanna Bidrag till viss central kursverksamhet, m.m. avskaffande
+            av anslaget m.ssmnsmsesssersssrrerrsreensnsrrrrrrnnnnrnnrn rann
+            Bostäder för gäststuderande M.fl..ssmmmmmsesresssrrrrerererrsrrrnrnerrrrrrrnrnnnr
+            nn Bräcke Östergård [40070 (2 70 Central kursverksamhet bidrag
+            tillosssmsnsssesssesrrsrrsresrnrerrerrenrrenrrnrnr ennen nrnnn
+            rn n rna n nana Centrum för miljövetenskaplig forskning i Umeå
+          </p>
+          <p>
+            Centrum för rehabiliteringsteknik (CERTEC) vid universitetet
+            i LUNG .mmmmmmsssressresreserensesnrensrenrrrnnnnnernnnrnn nn
+            enn nn nn Civilingenjörsutbildning
+          </p>
+          <p>
+            IOKaliSeriNg AV.ssmmssseesseeseeneernrssreesrrerrrssrrenrssrrerrernrrrnn
+            ner nnn nr planeringsramar Cyklotronanläggning i LinkÖPINg.......ss.sssssesersseeseensrennannnn
+            nan DalälvsdelegatiOnN€nN....ssssssssssreseeneenennenreneennenesnnrnnnrnn
+            enn nrnn nn nn nn
+          </p>
+          <p>
+            Dammsdalskolan i Vingåker Dans i skolan
+          </p>
+          <p>
+            15
+          </p>
+          <p>
+            5, 16:1
+          </p>
+          <p>
+            16:2
+          </p>
+          <p>
+            21, 28
+          </p>
+          <p>
+            1991/92:UbUReg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199192/reg_199192_UbU/reg_199192_UbU_0008"/>
+          <p>
+            Dansundervisning i Göteborgs KOMMUN s.issnseseesessrenrennennenesnenrnenennnn
+            ene nn nanna Dimensionering av grundläggande högskoleutbildning
+            .... Djurhuset vid Sahlgrenska sjukhuset s..s.mmsmsssssseenenrennsnnnnr
+            DoktorandtjänSter.............sssesssrsserssrsersnesnnrnnnsnesnernsnennennrn
+            nn nn nn Doktorsexamen, krav för lärartjänst i högskolan ...............
+          </p>
+          <p>
+            Dramatikerutbildning...
+          </p>
+          <p>
+            IDE [256
+          </p>
+          <p>
+            Ekeskolan i Örebro, ökat stöd till .....................ssssssssoesr0no
+          </p>
+          <p>
+            Ekonomlinjen
+          </p>
+          <p>
+            alternativ eKONOMI ussssssssesssersrsrrrrerernrresrrrerrerrrrnnerrrennrrnnnn
+            vid högskolan i JÖNKÖPING s.sssmresssessrneseerenenenenenennennnnnnnn
+          </p>
+          <p>
+            Ekvivalering
+          </p>
+          <p>
+            av utländska betyg ..........sessesssoressressrsnerenesennenenenennrnrn
+            erna nn
+          </p>
+          <p>
+            Elever med handikapp
+          </p>
+          <p>
+            utbildningssituationen fÖr sm emmeerserrerererneererserrnenernnnnn
+            Elevinflytande i SKOIan smmnmsssssssesrennenrenesrsnensenenrnenenennnensnnnnn
+            Estetiska ÄMNEN ussssserereseerereneserrenenrennenrrnenennsnrenenenen
+            enn nn nn nan Etiska frågOr os.ssssosososesesesesoerererernrsenennenennnrnnsenensnnensrnennnne
+            nan nonan
+          </p>
+          <p>
+            Etnologi
+          </p>
+          <p>
+            institution vid universitetet i Linköping (Vadstena)....
+          </p>
+          <p>
+            Europeisk forskningssamverkan
+          </p>
+          <p>
+            anslag till..ssssssssesssesrenreserrnrnnerrerrrernrrnnernrrernrner
+            ennen ene rn rn ennen
+          </p>
+          <p>
+            Europeisk utbildningssamverkan
+          </p>
+          <p>
+            anslag till. sssssssssssessessnesnnrererenrsrrnnrrrrresrrrrrnerrenrnrernrrnnnnrn
+            nan
+          </p>
+          <p>
+            Examen
+          </p>
+          <p>
+            i SKOIlANDN oosoosseserersserreerrsrsrrrrerrerrrrrrrrrrrerrorrer
+            rer rr rr rr rr r rn rn rr nn rn rann
+          </p>
+          <p>
+            Farmaceutiska fakulteten
+          </p>
+          <p>
+            anslag till.ssonsssssssssseesrrnrenrenrerrrnrrernrrsnnrrnen en
+            rsnsnerrnnrnrn rr rn rn ann
+          </p>
+          <p>
+            Fasta forskningsresurser
+          </p>
+          <p>
+            Utbyggnad QV sssneseesseseesesrenrenrererrnnerrerernerernenenenernrnnn
+            nn nn nn
+          </p>
+          <p>
+            Fastighetsekonomi
+          </p>
+          <p>
+            Utbildning imsmmsnsssssrsrreneeneerenrrrresnnnenrernernrrsnsrrnrnnnnrn
+            enn n nns Fastighetsförvaltningen på högskolans område ..................
+          </p>
+          <p>
+            Filipstad
+          </p>
+          <p>
+            Bergsskolan idsssnnnssssesrasenesnerneresrerrnerenerrenenrrsrrnrrnrn
+            een nn en en enn
+          </p>
+          <p>
+            Flygteknik
+          </p>
+          <p>
+            FlyktingkunSkap s..smmnsssssesenrerenenesneneeresrserrerenerrrrrrnrrrereren
+            ennen enn
+          </p>
+          <p>
+            Folkhögskoleutbildning
+          </p>
+          <p>
+            vid Mo Gård oosssnsnsreresenesenerrnrnrnenrenenenenenensnsrnsnnrnnnn
+            enn nen nn enn Folkhögskollärarutbildning......esseessessreresresesrsrnnenrnnnnnnnnnnnnnnn
+          </p>
+          <p>
+            Fordonsteknik
+          </p>
+          <p>
+            Forskning inom skolväsendet
+          </p>
+          <p>
+            anslag till..ssssssssssssssresersrenrrrenrerrresnnnrn nen renen
+            rrnrnrnennenr ner rn rann
+          </p>
+          <p>
+            Forskningsarkiv
+          </p>
+          <p>
+            vid universitetet i UMEÅ s.smmnnssssssssssssssssrersersrsrrernrrsnnern
+            ann
+          </p>
+          <p>
+            10 14 16:1 15 20 14 4, 9:4, 10, 19
+          </p>
+          <p>
+            11:5
+          </p>
+          <p>
+            14 14
+          </p>
+          <p>
+            9:5
+          </p>
+          <p>
+            15
+          </p>
+          <p>
+            1991/92:UbUReg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199192/reg_199192_UbU/reg_199192_UbU_0009"/>
+          <p>
+            Forskningsråden utvärdering av OrganisatiON€D........sssssssesssrsssssrsrssrrnnnnn
+            ann Forskningsrådsnämnden ANSlag tillossosssssssssseressrressnnrensrnernnnnrerernnnerenrrnnnnern
+            ennen annan NEd läggNiNg ooossseesreeesssresssrrenserrrenssrrrrrnnernnnernnnsssr
+            enn rerna nanna FOTrtbild NiNgsssnmsssesererreessrensenerensrrernnrnnrrnrenernnnrnnen
+            aren nn nr en anna nan i engelska..... i miljökunskap..................
+            i religionskunskap SYSt€M fÖL sssseeeersrerrrrsrerrrrrrrrrrnrrrrnrrerrrrrnrrrnrrnrrrnnrrnnrrrnrrn
+            nn enn nn Fortbildning i socialt behandlingsarbete Fortbildning
+            m.m. ANSlag tillossosssssssssssrrrsrereresrrenrresrrrnrnrrnrrerrrsrrrnn
+            sera n nn rna nn nanna FredSfrågOr sisnnnmaserrererreneererenerrererrenererneneenenennrnrnen
+            senere nana n nanna Fristående skolor avgifter I ......ns.n....-
+            för särskoleelever hemkommuns skyldighet att ersätta lägeskommun
+            ..... internationella SKOIOI.....sssssesseessesssrensresersnnannnennnnrnnnnnn
+            nanna kommuns skyldighet att lämna bidrag ...........sssesseennn&gt;
+            rätt till SKOISKjUtS ....nsnsssssoreneneenenenneseenenenesennenesnenennenen
+            nanna skyldighet att medverka i uppföljning och UtVÄrdl€rilG.ssssssesseseeseesrerernenrrsrerrrsnrrrrnnerrennen
+            nen enn ennen nana nen nn statsbidrag till särskilt bidrag till
+            ViSSQ...ssssssssessesssrensernnrrnnrennrrnnnrrnnnnn nanna Fritidssektorn
+            forskningSreSUrSCr ossesseessessressresrenerersesnerrnnernnrernrrnn
+            nn n nn högskoleutbildning fÖr........ssssesssersressresressrarsrrrnnnennnnnnnnnnn
+            Fysiska miljön i skolan avskaffande av anslaget till ossmmsmsmssssssesrsrrsnennrnnenn
+            rna annan Förskollärare och fritidspedagoger förlängd utbildning
+            av s.smmmmmmssesrresrenenennn nn vidareutbildning till grundskollärare
+            Första hjälpen m.m. obligatorisk Undervisning Il..mmmmmsssssseseesennneneennernrnnnnn
+            nn nn Föräldrainflytande i skolan lagfäst rätt till.smmsssssssssssressresresnersrrnnnernnnnennnnern
+            nn nn nn nn nn nn Målen fÖrl oossnsesresererrerrereerererererrennrrrerrrerernrnernnerrrn
+            nan rann nana
+          </p>
+          <p>
+            Garanterad undervisningStidl s.smmmmmssssseessesresesnesessnrsnrnnrnnnnnnr
+            Garpenberg oossesresreseenrenereeneneeneneerenererreneereresrenereenrrrr
+            nen ne nen nen Generellt statsbidrag till KOMMUNEI smnsmresseseeseenernrsnennnennnnnn
+            Gjuteriteknik smossssmsesrresseseesnennenrrnrerrrrrrerrennernesrrrnneresrrernrnrrnn
+            nr nen [61 ETS T6 65 OR 6: Grundskollärarutbildning 40 poängs
+            praktisk-pedagogisk utbildning för åk
+          </p>
+          <p>
+            ENgelSKka Iosssmsssssessseesseesernneennrernnrrnnnrnnnnnn examensbeskrivningar
+            förlängning av (för åk 1— 7). smnsmnmssesrereresreneseenennenennnn
+            annan
+          </p>
+          <p>
+            21
+          </p>
+          <p>
+            11:8
+          </p>
+          <p>
+            1991/92:UbUReg.
+          </p>
+          <p>
+            10
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199192/reg_199192_UbU/reg_199192_UbU_0010"/>
+          <p>
+            IOKaliseriNng AV.smmmmsseessesseeseeneesesrennnennrsrrnnssernnsrrernrrnrern
+            nr rn nen lärare i slöjd, barnkunskap och hemkunskap .............-
+            PlaneringSsraMarl ssssssssssssesrsreseseorerreresnsnsnerren ennen
+            nrnrn nen n rn nen praktisk-estetiska äMnNEN..smesssssesseesrerenserrenenennnnnnnn
+            nn enn skolpolitiska utgångspunkter för s....m.sss.sssesssrssrrsrsnrnnn
+            vidareutbildning av hemspråkslärare till .............s.s...-o-
+            Grundvux lär ALC Åoooessseserererererrrrrerrrrnrenrrrrrnerrnenn
+            erna narr enn n ennen nen renarna Grythyttan, högre restaurangutbildning
+            i Gymnasielärarutbildning 40 poängs praktisk-pedagogisk utbildning
+            ...................- distansutbild Ning s...smsmsssssrsesereenerrenenreneserrenernenern
+            ennen nn nen jordbruk, skogsbruk och trädgårdsskötsel....................-
+            PlaneringSraMal ssssssssrererererererersrerenrrenenrrrnenenrn
+            ennen enn n nn nn Vård lärare oosssssssessesreseererrererrerenerrenennenen
+            ennen annen erna ennen nera n nn nn
+          </p>
+          <p>
+            Gymnasiereformens finansiering... Gymnasieskolan individuella
+            PrOgfälM sosmmmssssssssseseesernesnernrsnrrnrsrnesnnrn rna nr
+            LA-KUTSET oosoonorereesererssrrreneeserernersrnerserernrrrsnrrrnn
+            ner nrrrn nr ann n nn påbyggnadsutbildning s..mseseesssssessessronsrsrnsrnernrnnrnnnnnn
+            en utbyggnaden QV smnmmnsssssessssrereresesreserrerernsrerernernennrn
+            enn rar rn nn Gäststuderande bostäder fÖTr .smssssesresrerrereserrerernenrenarrerernrnerernernsner
+            renen nrn nn rn nen
+          </p>
+          <p>
+            Handikappade elever utbildningssituationen fÖr sm:?s.eeeesssrrrrerrrrrererrrrrrrrnrn
+            nn Handikappkonsulenter för SärskOleeleVverl...smmmssessersorereennrsnrereerrsrnrrnsrrreresnn
+            rn nn er n nn HantverksutbildniNg.......sseossessesssesseressenssrernerennrrernrersnnnrrrnnnnnn
+            Helsingborg högskoleutbildning i smo smmmmnssrsrsrerssesenererrreneresnrrenennrnnnnn
+            nn Hemkunskap utökad tid Hemspråksundervisning
+          </p>
+          <p>
+            SIOPANAE AVosoooeereseeseererreresrerenesesnreneresnenerernerrennrnrner
+            ennen nn enn "slopande av medel fÖr sssmsnssrsrssreseererserersnrsrennrnerrrnrnnrrnnnnn
+            UtvärderiNg QV..smmssseseesesesersesrernsnnenernreserrernrenernrnrrnrn
+            ann n nn rna Humanistisk-sam hällsvetenskapliga forskningsrådet
+            anslag till.snnosssssssssssssessrsseserneresnennenerenrrnrn ennen
+            rrnen ennen nn n nanna Humanistiska fakulteterna anslag till.sonmossssssessssserenesosrsrerrerennrnenrrnenrnnrn
+            ennen renen renen annan
+          </p>
+          <p>
+            förstärkning vid universitetet i Linköping Hälso- och sjukvårdslinjen
+            nedläggning AV smmmmsesereseseserererenrrrnenrnerenernerenennrnenen
+            renen nn rena HälSOfOSträf sosnsnnsessreseerrrerrernrrserrenrrarnnernerrrsnnenn
+            rann nn nenn nr nn nn nn nan Högskolan för lärarutbildning i Stockholm,
+            lokalisering
+          </p>
+          <p>
+            20 20 20 20 20 20 20 20
+          </p>
+          <p>
+            20 2,14
+          </p>
+          <p>
+            20
+          </p>
+          <p>
+            20 20
+          </p>
+          <p>
+            21
+          </p>
+          <p>
+            , 28
+          </p>
+          <p>
+            5, 16:1
+          </p>
+          <p>
+            1991/92:UbUReg.
+          </p>
+          <p>
+            11
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199192/reg_199192_UbU/reg_199192_UbU_0011"/>
+          <p>
+            Högskolelagen komplettering av 2 $ (Miljö) m..snssmssssseseosesrerreseenerrennrnenan
+            Högspänningsutrustning i UPpSalåa m.ssmmmmmnssssssessesensrnnennennnnnn
+            Högstadiets organisation HörselkOnSulenter sssmmmssssssessesssrensersnnnsnerrerenrenrnrrnrennern
+            nn nrsn nana
+          </p>
+          <p>
+            Idrottshögskolan i Stockholm su nmmmsssssessrersesrrresrsnrernnnrn
+            anna nna Idrottslärarutbildning PlaneriNgSraMar ossssessessrererrersreesrressrrnnernrrnnnrrnnrn
+            rna enn nn nn Inackorderingsstöd det kommunala ansvaret fÖr s.smmmmsssesrsrssrsrserernrsnrrnernen
+            ana Individuella program ssssmmssssssserersssrrrrrnnnn nn trsrererererrnnnrernnnnn
+            nn Ingenjörsutbildning fÖrläNgNiNgG.ssoeesresreereesrreserrsrrenrrnnnnnresnn
+            renen n ren nnn nen nrn nn nana INgESUNA sosseeseeseeseeesreseesrerrenr
+            reser esnnernnnrnsrrrrrnnernr rr nr rn rrrner nr erna nn Inredning
+            och utrustning av lokaler vid högskoleenheterna m.m. anslag tillossoonsssssssssesresssrreresrrrrrrsnrnerrrrrrrnnrenr
+            rna enn rerna nerna anna Inredning och utrustning av lokaler vid
+            Sveriges lantbruksuniversitet m.m. ANSläag tillosssnssssssssesessesrennesrrsr
+            ren rennrnnnrsn ren nsnen renen nen ennen enar en bemyndigande
+            om anskaffning av smmmmmmnesessssenennsnennn Institutet för rymdfysik
+            ANSlag tillosooosssssssssssressesressrrrsrnernrrernnrrrnnnrnrrnnnrrnn
+            enn nn nr rna nan Institutet för skogsförbättriNg......sssssessesreseesersranernennennen
+            annan Internationalisering utbildningssamarbete utanför EG-länderna..................
+            Internationalisering i undervisningen s...ssmeesessssssssrssesnnnnn
+            nn Internationaliseringsåtgärder inom högskolan Internationellt
+            studenthus
+          </p>
+          <p>
+            Journalistutbildning Ny UtbildNilgmoommssssssseereerrrerreesrrensrneerrrrerrenrnrerrrernrrrnr
+            enn nn nn Juridiska fakulteterna ANSlag tillosssossssssssersesresesresrereerrersernrernrerrsr
+            nere nrnn renen ennen nerna forskning vid universitetet i Umeå
+            Juristlinjen PlanNeriNngSraMarLoossssseseesresrereererrerseerrerrerrererrernnsnrrnnenr
+            rena na vid universitetet i UMCå mmmmsmsrsssersrsrsrsesersnenenenenenenenen
+            rna JÄCLAÅS ooooseserersrsrnererenererereranererenenerenerenrsrrrnrenseren
+            ennen en en en en nn ennen JägmästarutbildnNinNg ...smmmmessrersrrrsrrensnrerrrnernesrrsrrnrrrnrrnrnnn
+            rna rna Jämställdhetsfrågor inom skolan
+          </p>
+          <p>
+            Klädformgivning UtbildNiNg Iossmmsssssesresesrreseersessesrrarnnerrnrnnsnrerenn
+            enes nnn ennen ennen Kommunal vuxenutbildning ansökningsavgifter
+            INOM ..mmmmsesssresssressresernssrennernn nr nn nnnn besparingar
+            INOM. ossssssesseessresrersssrersrersrernnrnnn rann nnn aren nan
+            nan
+          </p>
+          <p>
+            16:2
+          </p>
+          <p>
+            2, 20
+          </p>
+          <p>
+            10 21, 26, 28
+          </p>
+          <p>
+            14
+          </p>
+          <p>
+            20
+          </p>
+          <p>
+            7, 16:2, 20
+          </p>
+          <p>
+            17
+          </p>
+          <p>
+            17
+          </p>
+          <p>
+            15 17
+          </p>
+          <p>
+            14 19 14
+          </p>
+          <p>
+            16:1
+          </p>
+          <p>
+            26 10
+          </p>
+          <p>
+            1991/92:UbUReg.
+          </p>
+          <p>
+            12
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199192/reg_199192_UbU/reg_199192_UbU_0012"/>
+          <p>
+            medel fÖT sussssmeseesrrerseenrrnrenrernrrnrnarrr ann nen nsnrernn
+            renen renen rr nn nn tillfällig UtökNiNg QV..nmessesssesseneesenenrererenrerensnenennnnrnen
+            nere nn UtNyttjäNnde QV somnessessesreeseerrrrnrnerenenrreserererenerrrsnn
+            enn rr n nn n rna Kompletteringskurser i gymnasieskolan s..smmmmmmseesesesnsnnnnnnn
+            Konsthögskola i södra SVErige m.ssssessessresseenseesererernerrnrnnnnennen
+            Konstnärligt utvecklingsarbete anslag till. oomnsssssssrssesreresrerennennrnrern
+            renen ennen ere nenr nen n ennen nen nn KonsumentkunSkapP.........ssssesssresessersrennenernesnesneresnsnnenrnnesnnnnnnn
+            Kontaktsekretariat m.smmmnmssssssesresesnnrsssresseornernrrerneennennernnrnnnrrnrnn
+            KooperationsforskNing.....eeesesserersoresenesernerenrsrsrnrrnrrrnennennnen
+            Kostnadsramar för inredning och utrustning ....................-
+            Kristen etik skolans förankrilg immmmmserssresrrereersenrrsrannererrrr
+            ennen ann nn nera Kultur i SKOlaN.ssssmsssessrenresrernersrersrersnnerrennrennnrnn
+            ennen nr rn nen nn enn nn Kultur och historia i undervisningen
+            ökade bidrag tillossmsmmnsssssssresessersresrenernnenennennrrenrennen
+            nerna nn nen Kulturvård aLMÄDt oooeeeoseeererrerererrerrenrererrnrennrrrrr
+            renare rrnnn ennen narr ne nero nerna Kungl. biblioteket anslag
+            till.smnsssssssssssesreseeesrrrrernesneererreresrnrnerr ennen
+            ennen nr nen enn Kursplan för varje ämne KursplanefrågOr s...snnsssessesrsrssesenerensnnenensenensrnenennrnsrnrnnrnrnnnnrnnnn
+            SYMNASIK oooseeseeressererreresrererrerrrnrernererrerren ennen
+            nere nen nrn ennen nn Kristen COM oooossseesesreerererserersnrrrnrsrrernerrrnr
+            reser rrrn renen rr rnnn nr erna KårobligatOriet...........sssssssenennonenenesnesnsnerenesnsnenenrersrenenenernenenenn
+          </p>
+          <p>
+            LA-KUTSECIL oososesresrerrrreerenernrennennennene narr reser
+            renen ee rrrn ere n rn nr enn n nn Laboratorieassistentlinjen
+            fÖr län gNiNG.seeseeresrerererresrenenerrrsnrsnrenennrnerrrnernenernrr
+            rn rerna nn Lantbruksskolor lärOtiden ViClssmonssssssenesrenerernrernrennennerernrrnernenrrn
+            ennen renen nnn nen rnn Lanthushållsskolor huvudmannaskap fÖr
+            sssssmnssssrsssrresersnranrarnnsnrennernrrnnernnrn nen i HaMMEN
+            HÖR oossereseeresesreserrrresernrenesnaneenesrrensnennernnn ennen
+            nn statsbidrag till.ssssmmssssssssssrenrennrnrasnennenreresnrnnrnrnnenesnr
+            nen nnn enn utbildningar ViCl....mssmssssrerenrenresreenenrennenennenrenennenesn
+            er er nen rna utbildningens meritvärde Lantmäterilinjen lokalisering
+            till LUNG smmmmsssssrsssrsnereennsnennenrenennnnesnrn renen nnnn
+            LektOrstjänSter sosmmmsssssssreseeresernesrenrnsresnesrrrneresnerrrrrnnannrnrnn
+            enn nen LektorsutbildnNinNg .....ssssesssseessessernnnennresrnnesnnrenrsrrenererrenn
+            nn nn nn LjusforskningsCentrUmM .mmmsssssssssesessssrerrerrerernererrrnrnnrnernn
+            nerna Logopedlinjen planeringSralMal.ssmssssesssessoreenseserrsereenrerrrnrrrnennrnnn
+            ennen nn nnnn Lokala och individuella linjer samt fristående kurser
+            anslag till.............. planeringsramar
+          </p>
+          <p>
+            4y 7 10 26 14
+          </p>
+          <p>
+            15 4 15 18 16:2
+          </p>
+          <p>
+            19 9:4
+          </p>
+          <p>
+            10
+          </p>
+          <p>
+            15
+          </p>
+          <p>
+            14
+          </p>
+          <p>
+            7, 14, 3y, 4y 7, 14, 3y, 4y
+          </p>
+          <p>
+            1991/92:UbUReg.
+          </p>
+          <p>
+            13
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199192/reg_199192_UbU/reg_199192_UbU_0013"/>
+          <p>
+            Lokaler, högskolornas underhåll och upprustning översyn av behov
+            Lokalförsörjning för högre utbildning och forskning........ Lokalkostnader
+            m.m. vid högskoleenheterna ANSIag tillossooossssseesereresrerrnersrersnnersrrernennernnrnnern
+            enn nrn ann rna nanna Lokalkostnader m.m. vid Sveriges lantbruksuniversitet
+            ANSlag tillosooosssessssrrreerrersrrrererrrrenrrrsrnrrrrrrrrnn
+            enn nr nen nen n erna non Läkarlinjen PlanNeringSraMarl.ssssssessrerreerrersrrrenrerrrerrerrernenrnenrrnnrnn
+            rna noen LärarCertifikalt oonsmsssssseesrrerrrrerrrerrrrsrrrrrrrnrrenerrrrrnrrn
+            ren nrrnn rn anna nana Lärarfortbild Ning. ..ssmmmmssssessrerereneresrrrnrsrenrrenrersrenrrrrennrnn
+            ann nan nen na Lärartillgången, särskilda medel för att förbättra
+            ............... Lärarutbildning alkoholfrågor, sex- och samlevnadsfrågor
+            ..................... grundutbildning i religionskunskap ............ssessesensn0n
+            innehållet I.osmmsmssssesrssesrerreseesersresrennernenrenenrenerrenennenr
+            rn nanna a integration av ämnesteori och praktik... KOStkUNSKAP
+            osmooneeeserrrssrernrenrensrassnrennennnrsernnennnrnnrnnenn enn
+            nanna
+          </p>
+          <p>
+            StFUKLULooooosssssesssseeerrereerrnreserrenererrrrrererrrrrnrrrerrrrrrrrnrsrer
+            rn nn anna
+          </p>
+          <p>
+            Läraryrket, krav för utövandet av Lärlingar utbildning fÖrl.....sssssesesrrrsrerrreserersrrrrrerrerrnrnerrrrrnrnnnenn
+            renarna nn Lärlingsutbildning
+          </p>
+          <p>
+            Läromedel granskNiNg AVossooseeeeessererereeeresesrerensrrrssnrennrnennnern
+            nn serna anna lagfäst rätt till KOStnadSfria s.smmmmmmsssssrerssrererrensennenern
+            asarna nan OM SAMÅL oosoeesreseseesrernerreneererenrenenren ennen
+            enenenenenennsnnnenenen ronne a specialpedagogiska hjälpmedel
+            för handikappade........ utveckling och produktion aV....sssesssssesresresessrenrrnnn
+            annan LärOplanSfrågOr o.smsnssserasresreresrereneneenenrenenennereren
+            enar anen aan n enn nanna nn Läspedagogiskt iNnStitUt ..snmmmnssssssesresnennesnrnesnenesnennrnennen
+            ann nanna | 15:50 AR Löntagarorganisationerna medel för verksamhet
+            i skolans arbetslivsorientering..
+          </p>
+          <p>
+            Manne Siegbahninstitutet för fysik
+          </p>
+          <p>
+            ANSlag tillosooosssssssssseesserssneenrenrrrenrnrnr nen rrn ren
+            nen ren ennen nen nn ennen nn Mark- och vattenmiljöer, forskning
+            OM s...mmmsssssesesrennnnnnnnn MASkinSkriVDiNg ...ssmmsmsssserresssrererrrrrrrrrsrrrnrsrerrrrenrrnrrr
+            rann nrnnn nn nn nn MassmediekunSkapPa..smsseeseesessersesnrenrerrenesnennenenernesennrrnrnnennnnen
+            Matematisk-naturvetenskapliga fakulteterna anslag till.mssosssssssesssressrrrsrernnrnnnnenn
+            ner rrn enn n anno nn nan
+          </p>
+          <p>
+            förstärkning vid universitetet i Linköping Medellånga vårdutbildningar
+            [6 65 4 Medicinska fakulteterna anslag till.sssnsssssssssrereresrenrenrenrenr
+            enn renern ennen enn nr nere ennen enn n nan
+          </p>
+          <p>
+            16:2 16:1 16:1
+          </p>
+          <p>
+            14
+          </p>
+          <p>
+            15
+          </p>
+          <p>
+            1991/92:UbUReg.
+          </p>
+          <p>
+            14
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199192/reg_199192_UbU/reg_199192_UbU_0014"/>
+          <p>
+            Medicinska forskningsrådet anslag till.nossssssssssssssnennenesrersorrerennrrererrnrnen
+            er rnnr rn renen nn n nen enn Medicinska handikapp [2 (AC of &amp;
+            4376 Medieprogrammet grendelning i.......nnsseesesrnr Mikrofilmning
+            av affischer MiljöfOrsknNinNg s.somssssssssessranesnenrennsnennerrenrrnernernennenennnnen
+            nen nn rna Miljöfrågorna i läroplansarbetet ....n.nsmsseeseeesrenesennnnnnnnnnnnnnnn
+            Miljöinslag i utbildningen AlMÄDt oosooseserereereresrrrerenranerenenenrnnereererenenernenenenenenenen
+            nerna nn nn i högskoleutbildningen sm. ..meeesesererersrsrnrsrnrnernnnnnnnnnnnnnnn
+            nn i lärarutbildning och -fortbildning .........seeesseeenrensennr
+            Miljövetenskapligt utbildningSsråd..............e-emmmenn Mindre
+            studiekurs Musikhögskolan i Malmö grundutbildningsmedlen.....eeeeeeeeesesrsrnenrnrnrrnnnnnnnnnnn
+            IN UTEST SS 0 ET a Vr Måldokument för barnomsorg och skola gZEMENSAMA
+            oosseseeesesesrersrsrsrsenrnensrnnerererernrnenrnen ene rnen nn
+            r renen en nan Målrelaterade betyg som urvalsinstrumMent smmsssesseresesrererresrererrenernrn
+            nn enn nnn nen
+          </p>
+          <p>
+            Naturvetenskap och teknik information OM smsmmessssssessrasrasseenseesrrenereresnnrnrernrnr
+            enn nn n rr nan Naturvetenskapliga forskningsrådet anslag till.
+            oosonssssssessessenesnesnesrenesnennernenerr ennen rrn ennen ene
+            rn enn rna nn Nedrustningsforskning CENtrUum fÖrL sosse aesserrererrrsreneenerrerreneen
+            nens renen ennen ennen ennen renarna Nordisk designskola i Borås
+            bidrag tillssnssssssssssesreseenenenenennsnnneneenenererrrnenrnenenenenen
+            nn nnnn nen
+          </p>
+          <p>
+            Odontologiska fakulteterna anslag till.sssnsssssssssesseseesrssseenrnnennrrnrnrn
+            nr r renen ennen ennen nn nn Optikerutbildning ...msssssssnsesesesenenenennnrenrnrnrnnnennnnnnnnenennnrnenenn
+          </p>
+          <p>
+            Planeringsramar lokala och individuella linjer samt fristående
+            kurser .. utbildning för administrativa, ekonomiska och sociala
+            YTKCnN susmmesesesserenenrererenenenerrererenrrrenenrnerer enn
+            renen nn nan utbildning för kultur- och informationsyrken .............
+            utbildning för tekniska yrken m.smesesseerersesrrsenrnnnnnnnennnn
+            utbildning för undervisningsyrken ss... utbildning för vårdyrken
+            s.....ssssessesssessreresenensnnennnnnnnnnn Plötslig spädbarnsdöd
+            Polarforskning anslag till...nsssssssssesssssereernnnnnnnnr enn
+            nn nn Praktikplatser Praktikår i grundskolan ........sssessssssosserrerererrennrnnrnrennrrnrrnnn
+            rann ProfessOrS NalMssssssesssrerersrrerrernrrrrnrrrrrrrsrrrnernr
+            ren nr ennen nn rr nan
+          </p>
+          <p>
+            15,
+          </p>
+          <p>
+            19
+          </p>
+          <p>
+            19
+          </p>
+          <p>
+            1991/92:UbUReg.
+          </p>
+          <p>
+            15
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199192/reg_199192_UbU/reg_199192_UbU_0015"/>
+          <p>
+            Professur i brackvattensekologi
+          </p>
+          <p>
+            idrottsmedicin internationell migration och etniska relationer
+            ........... FE 07: OS marin MikrobiOlOgi......s.essesssessresrerresrennernerrrennesrernrrnrerrn
+            nen a NatUrfätt ooosssssseeseesrerrenrerrrrrrerererrnrrrnrrrrrrrnnersn
+            er rnnenn rna rna n rann oceanografi med särskild inriktning mot
+            Östersjön..... småföretagens ekonomi och utveckling ........................
+            Profilering av SKOIOI..ssssssssseessessrersransrenrerensersrnrrsrerrrrsnn
+            enn n nen Psykologlinjen PlaneringSraMal.ssssssssssseerererseesrernerrennerernrsnnernernennenn
+            ennen an
+          </p>
+          <p>
+            resursförstärkning Psykoterapiutbildning för PSYKOlOgEL sissnssreresresesreseenresernnrsrernenrenennennr
+            ennen ennen rn nana Påbyggnadsutbildning i gymnasieskOlan ssmnnesssssreerrrnrrenrrrnrrrnnrrnrersenernnnnn
+            rna nanna nn
+          </p>
+          <p>
+            Regiutbildning vid teaterhögskolan i Malmö. ....ssssssssrsesesresnrenennenenennnnnn
+            Rehabiliteringslinjen fÖrläNgNIiNG.oeeesssessrereereresrrersrrrrsesrrrrnnrrrenrrr
+            ra rrnne rer n nn r erna nn PlaneriNngSraMaL .sosssessseessreassereenssserrensrrerrrrrrrnnnrrrnnnn
+            rn nn nana påbyggnadsSlinjer ...ssssrsrsesenrsrnenenrerererersrsrnnrrenerenenen
+            ennen ann RektorsutbildnNing....ssssssesserosessressrennrersrsrensresrrsrrererrrrnrnn
+            arr rn rna nn Religionskunskap smssmmmrssrsresresernrenesrerresresnnenesrsrresrrenernrernrnrnnnn
+            Religionsvetenskaplig utbildning
+          </p>
+          <p>
+            Restaurangutbildning, högre vid högskolan i ÖrebrO..........ssssssssssresssssensrsnnsnnnnnan
+            ann nn Resurscentra med utåtriktad verksamhet..............s.ossosooono0n
+            Resurscentrum för elever Med auUtiSM smmmmssssssseeresrrssenersernnarrenern
+            nen n rna nan Reumatologi fOrSKNiNg Iossesesresresrererrerseeresrernesrennrnrerrenrenenrrr
+            sann nen nn nen anna Riksbankens jubileumsfond, stiftelsen verksam
+            he€t.ssssssesressrerrrssresrrenrrrnrrersererrrrrerrrrrrnrenrr
+            rann nn rn nen RiksskOgStaxXeriNgeCh smsmmmssssssesreresresrennsesrenrensesersrrnnennennennen
+            ann rna Rymdforskning ANSIag fillossoosssssssssssssessesreneererrenreen
+            nen nen nen renen renas ennen nana n ann Rör inte min kompis kampanj
+            fÖrl ssssessesresrseseesrersresrrresrrrerrrrrrsrrernrrerrrrnrnrrnr
+            en nana
+          </p>
+          <p>
+            Salbohedskolan i Säla......sssssssesseessrsserrnsrrnnrenrennnrerrrennrnnn
+            nr nn nan Samer UNdEerVisNiNg OM snussmemsssesssrresserarsrssrrrensrrrnrerrrrnrnernnn
+            nr rann enn Sameskolor = anslag till.smnonosssssssssesresrresnesrsrenrrnnnrsnrrnnnnnsernnn
+            renen ren nn n nan Samhällsvetenskapliga fakulteterna anslag till.snsomosssssssseesrsrssrssssrnrersrrrrrnnrrrsrnrerrr
+            nr nere rn enar enn nan
+          </p>
+          <p>
+            1991/92:UbUReg.
+          </p>
+          <p>
+            16
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199192/reg_199192_UbU/reg_199192_UbU_0016"/>
+          <p>
+            Sanktioner statliga, mot KOMMUNEINA susmeseseeresresernreesrenrennernnennnrnnnn
+            Sektorsbidraget till skolan anslagsbelopp avveckling av principen
+            om ett generellt....mmmsmssssssssennsnenrsrsennenenrnnnnnn nns
+            UpPpfÖljNniNg QV.-ssmnnsssssesseserrsesneerennnarrenrenesr renar
+            nenren ennen enn nen nan Servicemyndigheten anslag tillosssssssssssesessererrrrerrrerrrnrerrrrerrrrrrnrrrrrrnrnrnrrr
+            nr n rann rann Sex- och samlevnadsundervViSniNg.......ssssessssserssrsrsersnsnnnnnnnnn
+            Signaltekniker, utbildning av .s.smmnmenssesersrorenrenernesnenernennen
+            annan a SIH (Statens institut för handikappfrågor i skolan)...........
+            Sjuksköterskelinjen INLättläNde ooooossesseerrerserrsrrerrernrrrrrrnrnn
+            renen rrn nen nenr ennen rn annan an Skara, lantbruksuniversitetet
+            I ....nmmmmss.sssssossesssoserssersssosrnnnnnnn Skogs- och jordbrukets
+            forskningsråd ANSlag tillossossossssssssssressrsssrrrsrrnnrernrrerrrerrnrn
+            rann r ennen enn rann n nanna SkOgsfOrsknNinNg....sssseseenennesrennennerresrennernrerernernesnsnnrnernenennen
+            nen nan Skogsmästarutbild Ning ....ssssssssensenreerrrsernesnrsrennenennenernen
+            annans Skogsteknikerutbildning......... Skolans värdemässiga grund
+            Skollagen, ändriNg I .ssmmmssrsssersreseerennrenrenresernerrernerennen
+            ennen nana nn fristående SKOIOT s..ssssssrerererererrrenenerrsrsenenenenensrsnnerenenen
+            ennen gymnasieskOlan..sssssssssrressensrensersnnrennesnrrennenrnsnrernen
+            nen rr nanna sanktioner mot KOMMUNEINA smnmsessessresrererrnnerrennnrnnnnn
+            ann
+          </p>
+          <p>
+            särskolan
+          </p>
+          <p>
+            Skolmåltider basstandard.........ssssssrerrrrrrronnnnnrnr nan
+            lagfäst rätt till kostnadsfria SKOIPIAN oossesreesreseesrersrrrenresrennerrennenesr
+            narr nenern ennen rrn renen nen ennen annan nn SKOIPliKt oooonssssesesreresesesrererereererrrrerenerrerrererrsnenenennenenenenen
+            ene n annan i SärSkOlAN susoosossessrresrerererererererererrrrrrerrrererrerrrrrrnrrrrnnns
+            nanna nn Skolskjuts elever i fristående SKOIOL s...smmnmssssssrsresererrseresrrnrennennnnnn
+            nan Skolverket
+          </p>
+          <p>
+            Socialt behandlingsarbete, Fortbildning i nedläggning av påbyggnadslinje
+            .............sesessesssensnnnnnn nn Specialpedagogisk utbildning
+            .........ssssssssrsessesenrenennnnnnnnrnennn nan Specialresurser
+            till toppresterande elever .................ss.ss0s00n Specialskolor
+            m.m. anslag till...........s..sss20000-- Ekeskolan i Örebro FeSUTSCENtlA
+            sssossseerererenenrenesenrerererennnnr ense renen renen nen rn
+            enn n en enn Specialutformade prOgfäll summmmmsssssessreserrsrsreenernrsrernrrernnnnr
+            nn Språkundervisning i grundskolan ...........esssssessssssrsrsrsssanann
+            nn Språkutbildning........ssssssseseorereseseneerennenenennenenennenennn
+            annan nnn annan
+          </p>
+          <p>
+            1991/92:UbUReg.
+          </p>
+          <p>
+            17
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199192/reg_199192_UbU/reg_199192_UbU_0017"/>
+          <p>
+            Statens institut för handikappfrågor i skolan (se även
+          </p>
+          <p>
+            Statens skolor för vuxna ansökningsavgifter INOM . smmmmsssssessessrrssesresernnennennnnn
+            annan Statens skolor för vuxna: Undervisningsmaterial m.m. anslag
+            till.ssonsssssssssssessrresrsrsrrreserersrnrrrrrnnrsrrrrrnernnrrrnrrern
+            nr nn nn nn nan Statens skolor för vuxna: Utbildningskostnader
+            aNSläg till.soosoosssssssseressrerrerrrrererrresrrrrernrsrrrrrrrerrrrrnrernrrnn
+            nn rn nen vissa medel till SSV i Härnösand ..ssssssseseessensennennennnnnr
+            Statens skolverk (se även Skolverket) anslag tillossossssssssssssesreresresrerrnerennenrrrnesrrrnenennrr
+            ennen annen ennen anna funktion och arbetsuppgifter M.M....msmmsssssssssssesesnnnnnnnn
+            Statsbidrag till kommuner, generellt ........ssssssssssssennnnnnnennn
+            nn Stenkonservering påbyggnadslinje I.msmsnsssssesesreneseneenenrerenerrenensnerenenenenen
+            nn nanna Stimulansbidrag till förbättringar av den fysiska miljön
+            i skolorna anslag tillossossssssseesresrsereressrrrnnanrrrnnnrnnrenrnrnnen
+            nens n ennen nen nr nen nan fristående skolors rätt att få del
+            aV............esssssssnsonnnnnnnn riktlinjer för prövning av ansökningar
+            s........eeeeeeecn avskaffande av anslaget ... Studerande hälsOVård
+            s...nssssssrsesesrsrsenenenenenerenennrnrnenennnnnnnn enn nna
+            Studie- och yrkesorienteriNg ......ss.ssssssseesersenenreneenennenernnn
+            anar Studieplaner INdividUella ossssssssrereesrreeesrrrrsrrrreerrrrerrrrrrnnrnnr
+            rr enn n ennen annan an Stöd för utveckling av skolväsendet ANSlag
+            till.ssosnssssssesssesessressresrrnsrrennernnrrnrrrsnernern nn
+            nr ne nnr nn nn n nn Stöd till kollektiv forskning anslag till.ssosnnssssessssssessrsesserarnnnnennnrerrnrrr
+            rer nne nn aren nen nn enn nn n nn Svensk undervisning i utlandet
+            m.m. bidrag tillissssosssssssssseresrernrresrrnnnenrrrrrrrnnrernnrnnennrnnnennen
+            nn nen nnn Svenska för invandrare (sfi) kompetens SOM lärar€ I
+            smussmmmsssseseeseeseeseeseneenenrrnnnnennnn eran nan Svenska
+            språket intyg på kvalificerade kunskaper i............ss.sssssssnsonsnnnnna
+            Svenska språket, undervisning för invandrare i anslag till.snssmsssssssssssserersnrsnnnnnr
+            avveckling av särskilt bidrag Sveriges lantbruksuniversitet anslag
+            till.soosssssssssssssssesessesnrerrerennern ennen ennen ennen
+            renen enar n enn nana förstärkning av forskningsresurserna Vid
+            .....................- inredning och utrustning av lokaler vid
+            ............s.sssnnnn lokalkostnader M.M. VIA summnmmssssessessersesernsennenennennenennnnnnnna
+            Särskilda insatser på skolområdet anslag till.ssonnssssssssssssssresssererrsnnennnnrrrsrnr
+            rss rer rrrrnn nr nn nn nn nanna Särskolan avveckling av särskilt
+            bidrag till. .....nnmnnmssssssesresrsorrrnnn nn beslut om elevs
+            mottagande i.....nnssssssserssessrssrennennernnnnnnnr bidrag till.sssssmsssssssssressresererrerererrnrrrrrrrnnrnrrrnnrnnrrnnennenn
+            nen n rn rann PersOnalfrågOr ..sssnssssesreresesrernesenrenesrrnenennenenenennnnnnenennn
+            eran rna
+          </p>
+          <p>
+            9:2 26 12
+          </p>
+          <p>
+            7, 11:6 11:6, 4y
+          </p>
+          <p>
+            21, 28 11:1, 5y 21,28
+          </p>
+          <p>
+            1991/92:UbUReg.
+          </p>
+          <p>
+            18
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199192/reg_199192_UbU/reg_199192_UbU_0018"/>
+          <p>
+            utbildnings- och utvecklingsplan ...ssssesssssisersenrsrnnn nn
+            ändrat huvudmannaskap fÖr susssmsssersserssrrersrssrernrrnnn nana
+            Särskolan, den frivilliga rätt till utbildning i Särskolor, fristående
+            s..smmmmnsssessessrssesrseeeerrerenerrrrrnnrreronn ere rnn nanna
+            a
+          </p>
+          <p>
+            avveckling av särskilt bidrag till.mmssmsmmmsssssssresennnsnnnnnnnn
+            bidrag tillosmmnossssssssssseneneenesrenennrnernrrnnernennerrrrnnenern
+            renen nn nn nen ändrat huvudmannaskap fÖr s..snmmmssessressrressresnrssrrnnrnrrnnnn
+            Södertörn, högskoleutbildning På............sssssssssssssesesessrnnnna
+          </p>
+          <p>
+            TandhygienistliNjen .mmmmsnsssresresreseessrrrrsrennnansrrrenrerrrernrrsnn
+            nn nan Tandvård
+          </p>
+          <p>
+            Tekniska fakulteterna aNSlag tillossosssssssesssresesreereseneenernernrrrnrrnrnn
+            een nennrnn ennen nens n nanna nn Temaorienterad forskning anslag
+            tillossssssssssssesresresrassrereennennesrn nere rann nn nen enn
+            nerna rena nanna Teologiska fakulteterna anslag tillossonsssssssesrerrsenrrrsrerrennesrrrnnrrennennnrnnn
+            nn ennen ns aren nanna Teologiska högskolan i Stockholm bidrag
+            tillisnmmnssssssssssesrssrersreserrrsrrnnnrerenenr nns nnrnnnsnnrrn
+            nn enn nanna nn Textila utbildningarna i Borås fÖrläNgNiNgG.sooseeseesrerreserenseserneenersnrrreneenr
+            ren rrer ner rs n rr nn nn rn nn Tillgodoräknandereglers.msmmmsrssrssresesersresnnnssnnnesnrernererrrrnnnnrnnn
+            Tilläggsbudget I för budgetåret 1991/92 =mss.sssseereserrsrsesenenrrinenenennnnan
+            annan Tilläggsbudget II för budgetåret 1991/92 =mnssmsessesresesenneneennenenennsnrnnennnnennn
+            TimplanefrågOr s.omsmnmamensoereesrsrsesrseseererneerenernenernrrnenennrnennnn
+            enn nn ann garanterad undervisningstid s.snmmmsesessesressresrereenrsrnnsnnnnnena
+            Stad i€iNAelNiNg.oseesesresrererenesrennennerrnennerrnnennnrnrnnrrn
+            ren ren nrn nn [540 NET Un timme till förfogande (TTF) ......s.sssssesesesesorrenenerenernnnnnnnn
+            Toppresterande elever specialresurser till smosomsssssssssesresresnrsrsennrnnrennnenenner
+            enn n ennen nan Trafikantutbildning ...................- Trafiklärarutbildning
+            TungmetallCentrUuDm.u..smmssmrsesessrsressrsserersrererrnnrnrernernnernn
+            nen rn renas Turismlinjen fÖrläN gNiNG.soeeseseesesresesnenrrnerseserrrnrrsnrnerrernrernenren
+            nen n rn nerna
+          </p>
+          <p>
+            Ungdomspraktik villkOren fÖr sssssssesreseesrenrenrennesnernrrrenernr
+            nen nrrrnnennnsnn nerna r rn nn Universitets- och högskoleämbetet
+            (UHÄ) Ned läggNiNlg sossssseseereserrernersesenniserresnnenernner
+            ere nennrner rr åran nn nn Uppföljning och utvärdering inom skolväsendet
+            ...........ssssseseessessesserssrennnnr Urval till högskoleutbildning
+          </p>
+          <p>
+            21,28 1991/92:UbUReg.
+          </p>
+          <p>
+            21,28
+          </p>
+          <p>
+            21, 28 21, 28 11:2 5y Sy 21, 28 20
+          </p>
+          <p>
+            14
+          </p>
+          <p>
+            26 20
+          </p>
+          <p>
+            5y 13
+          </p>
+          <p>
+            19
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199192/reg_199192_UbU/reg_199192_UbU_0019"/>
+          <p>
+            Utbildning för administrativa, ekonomiska och sociala yrken anslag
+            fill.snosssssssesseesressrrrnsrrerrernenrrrrrrnnersnnerrsnn enn
+            nr enn nn nn PlaneringSraMar.ssssssssessessresresssesernnnernnrernesnnnnnnen
+            nr ennen nn n nan Utbildning för kultur- och informationsyrken
+            anslag till.soosssssssssssssrerersernnrsnernrenenernrnrrnrrnnrnn
+            nens nr nn nn nanna nn PlaneringSraMar .sssssssseesresresrerseesereserrnrrrrenrnernrrn
+            nns enn n nn nan Utbildning för tekniska yrken ANSlag tillosooossssssssssseserseseererneseeresnesnrrnrrnnenen
+            renar enn nen nen annen an PlaneringSrälMar su osssssssssseseseseresrerenerreneerenenenesn
+            ene ennen en annen an Utbildning för undervisningsyrken anslag
+            till.......nnnn.&gt;....- planeringsramar Utbildning för vårdyrken
+            ANSlag tillossosssssssessssreseseeseerenrerenrenern een n enn
+            ennen enn rn ner n nare nan annan PlaneriNgSraMaL .ssssssssessreseeseessrreresnrrnnennenn
+            ren nenn nen nnn nana Utbildningsdepartementet ANSlag tillossoosssssssssesesresenresrnrenrerernrnserrnennenennrn
+            nen nsn ennen ennen nan Utlandsskolor Utlandsstudier för €l€VCl
+            mossssseseeserseeresesrenrenernersenn een rrn nen enenn arne n
+            ennen nen enn anna Utredningar m.m. ANSläag tillossooossssssssressserrsrsrrerrerrrersrrnrrrrrrrrrrnrnrennrannrrnn
+            renarna ann Utrustning för gymnasier avskaffande av anslag till
+            smomssssssssesserrereserrrrsrrnnrnnnnnsnnn Utrustning för specialskolor
+            m.m. anslag till.sossossssssessreseesersresrrenrerrrnnrrsnrrrnnrnnrnn
+            nns nr rn anna annan Utrustningsnämnden för universitet och högskolor
+            (UUH)
+          </p>
+          <p>
+            NEC läggNiNg sosssssesseseesesreresreseerenrererrerrrnnennrren
+            rann nn nerna nan nanna Utveckling och produktion av läromedel
+            anslag till.soomsssssssessessesrsrrenrrsrerrrenrrnrn rer nen nen
+            rrnn ner n nen n rn nana Utvärdering och kvalitetskontroll i högskolan
+            anslag till.smsmnsssssssssreseesessrenrrnrerrressrersrrernnennnnn
+            nns nen nr nen nan
+          </p>
+          <p>
+            riktlinjer för
+          </p>
+          <p>
+            Vertikal skOolorganiSsatiOnN........s.sssesseseressrrersersresrrerrrrrnnrnnnrn
+            nana Vetenskapens HUS smmssssmnssresseesresserseesrssrnrrnrnrnnsnnnrsnnrrnn
+            ann nn nana Vetenskapsbutiker smsmmmsnssessrsresesreseennesersnesnennenernnrnnnn
+            nen nnn annan Vissa bidrag till forskningsverksamhet anslag till.smosssssssssssrsssesrssrerrresrerresrrerrn
+            rer nenn enn nn nnn enn n enn nanna Vissa ersättningar för klinisk
+            utbildning och forskning m.m. anslag tillosmnssssssssssssesrsresrsnennerernenerrrrrrrnnennen
+            enn nen nr nn n enn n ennen Vissa särskilda utgifter för forskningsändamål
+            anslag till. omossssssssesssessenreneerenrersnrsrrerrrrnrsnrsrernennrnr
+            rr ennen nn enn Vissa särskilda utgifter inom högskolan m.m. anslag
+            till.sosmssssssssssessesresersnensrrnrrsrnrrrsreresnernnrnnrrrn
+            nen n nr nr sn rna Vissa tandvårdskostnader anslag till.nosmmssssssessreseeresrrerrrnnrrrrannrsnnn
+            rer nrnnesn rer ns ennen nn nn nn
+          </p>
+          <p>
+            14 14
+          </p>
+          <p>
+            14 14
+          </p>
+          <p>
+            14, 20 14, 20
+          </p>
+          <p>
+            15
+          </p>
+          <p>
+            15 15 13, 25, 4y
+          </p>
+          <p>
+            13
+          </p>
+          <p>
+            1991/92:UbUReg.
+          </p>
+          <p>
+            20
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199192/reg_199192_UbU/reg_199192_UbU_0020"/>
+          <p>
+            VårdlärarutbildniNg.......oesssssssrsesesenenernenenenenenrnsnnrnrnenrnrnnnnnn
+            20 1991/92:UbUReg.
+          </p>
+          <p>
+            Yrkesteknisk högskoleutbildning (YTH)
+          </p>
+          <p>
+            inom livsmedelsområdet...........ssssssssssesseseseornenenerenenrnnenn
+            14 Ämneslärarlinjen om 40 p, avveckling aV............... 20 Överföringar
+            mellan anslag för högskOlan................-.--- 13 Överklagandenämnden
+            för högskolan anslag till.sssssssssssssrssresrenresnnrnennennnsnnesnnrnrrnes
+            renen ennen enn nn nn ann 18
+          </p>
+          <p>
+            21
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199192/reg_199192_UbU/reg_199192_UbU_0021"/>
+          <p>
+            gotab 41606, Stockholm 1992
+          </p>
         </div>
       </div>
     </body>

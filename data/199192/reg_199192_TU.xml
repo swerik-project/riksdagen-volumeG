@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="reg_199192_TU">
   <teiHeader>
     <fileDesc>
       <titleStmt/>
@@ -19,185 +19,1037 @@
   </teiHeader>
   <text>
     <body>
-      <pb facs="riksdagen-volumeG-pdf/data/199192/reg_199192_TU/reg_199192_TU-000.pdf"/>
+      <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199192/reg_199192_TU/reg_199192_TU_0000"/>
       <div type="gBody">
         <div>
-          <p>Trafikutskottets register vid riksmötet 1991/92</p>
-          <p>Betänkanden</p>
-          <p>Nr TU1 Vissa frågor om bilismen m.m. Utskottets justering: Riksdagens beslut: Bifall till utskottets hemställan Protokollshummer</p>
-          <p>Nr TU2 Trafiksäkerhet och trafikföreskrifter m.m. Utskottets justering: Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnrhummer Riksdagsskrivelse</p>
-          <p>Nr TU3</p>
-          <p>Yrkestrafikfrågor och riksfärdtjänst (prop. 1991/92:12)</p>
-          <p>Utskottets justering: Debatt i kammaren Protokollsnhummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnhummer Riksdagsskrivelse</p>
-          <p>Nr TU4</p>
-          <p>1991-11-07 1991-11-20 1991/92:28</p>
-          <p>1991-11-12 1991-11-27 1991/92:33 1991-11-27 1991/92:33 1991/92:27</p>
-          <p>1991-11-19 1991-12-04 1991/92:38 1991-12-04 1991/92:38 1991/92:46</p>
-          <p>Godkännande av ett avtal mellan Sverige, Norge och EEG om</p>
-          <p>civil luftfart, m.m. (prop. 1991/92:29) Utskottets justering: Debatt i kammaren Protokollsnhummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnhummer Riksdagsskrivelse</p>
-          <p>1 Riksdagen 19911/92. 15 saml. Register</p>
-          <p>1991-12-03 1991-12-19 1991/92:49 1991-12-19 1991/92:49</p>
-          <p>1991/92:111</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199192/reg_199192_TU/reg_199192_TU-001.pdf"/>
-          <p>Nr TUS Tilläggsbudget I inom kommunikationsdepartementets område (prop. 1991/92:25 bil. 5)</p>
-          <p>Utskottets justering: 1991-12-05 Debatt i kammaren 1991-12-17 Protokoltsnummer 1991/92:47 Riksdagens beslut: Bifall till utskottets hemställan 1991-12-17 Protokollsnummer 1991/92:47 Riksdagsskrivelse 1991/92:88 Nr TU6</p>
-          <p>Upphävande av lagen (1989:990) om tillstånd till överlåtelse av skepp (prop. 1991/92:64)</p>
-          <p>Utskottets justering: 1991-12-05 Debatt i kammaren 1991-12-17 Protokollsnummer 1991/92:47 Riksdagens beslut: Bifall till utskottets hemställan 1991-12-17 Protokollshummer 1991/92:47 Riksdagsskrivelse 1991/92:89 Nr TU7</p>
-          <p>Kommunikationsdepartementet m.m. (prop. 1991/92:100 bil. 7)</p>
-          <p>Utskottets justering: 1992-02-18 Riksdagens beslut: Bifall till utskottets hemställan 1992-03-18 Protokollsnummer 1991/92:79 Riksdagsskrivelse 1991/92:141 Nr TU8</p>
-          <p>SMHI, SGI och statens haverikommission (prop. 1991/92:100 bil. 7)</p>
-          <p>Utskottets justering: 1992-02-18 Riksdagens beslut: Bifall till utskottets hemställan 1992-03-18 Protokollsnummer 1991/92:79 Riksdagsskrivelse 1991/92:142 Nr TU9 Transportforskning (prop. 1991/92:100 bil. 7) Utskottets justering: 1992-02-18 Riksdagens beslut: Bifall till utskottets hemställan 1992-03-18 Protokollsnummer 1991/92:79 Riksdagsskrivelse 1991/92:143 Nr TU10 Anslag till Trafiksäkerhet m.m. (prop. 1991/92:100 bil. 7) Utskottets justering: 1992-02-25 Riksdagens beslut: Bifall till utskottets hemställan 1992-03-18 Protokollsnhummer 1991/92:79 Riksdagsskrivelse 1991/92:140</p>
-          <p>1991/92:TUReg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199192/reg_199192_TU/reg_199192_TU-002.pdf"/>
-          <p>Nr TU1l1 Sjöfart m.m. (prop. 1991/92:100 bil. 7) Utskottets justering: Debatt i kammaren Protokollsnummer Riksdagens beslut: Återförvisning Protokollsnummer</p>
-          <p>Nr TU12 Köp av persontrafik (prop. 1991/92:100 bil. 7) Utskottets justering: Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnhummer Riksdagsskrivelse</p>
-          <p>Nr TU13 Luftfart (prop. 1991/92:100 bil. 7) Utskottets justering: Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnhummer Riksdagsskrivelse</p>
-          <p>Nr TU14 Riksfärdtjänst (prop. 1991/92:100 bil. 7) Utskottets justering: Debatt i kammaren Protokollsnhummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsrhummer Riksdagsskrivelse</p>
-          <p>Nr TU1S Vägväsende m.m. (prop. 1991/92:100 bil. 7) Utskottets justering: Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse</p>
-          <p>1" Riksdagen 1991192. 15 saml. Register</p>
-          <p>1992-02-25 1992-03-18 1991/92:79 1992-03-18 1991/92:79</p>
-          <p>1992-03-10 1992-03-25 1991/92:84 1992-03-25 1991/92:84 1991/92:173</p>
-          <p>1992-03-17 1992-04-09 1991/92:95 1992-04-09 1991/92:95 1991/92:208</p>
-          <p>1992-03-24 1992-04-09 1991/92:95 1992-04-09 1991/92:95 1991/92:209</p>
-          <p>1992-04-07 1992-05-07 1991/92:107 1992-05-07 1991/92:107 1991/92:248</p>
-          <p>1991/92:TUReg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199192/reg_199192_TU/reg_199192_TU-003.pdf"/>
-          <p>Nr TU16 - Fast förbindelse över Oresund</p>
-          <p>Utskottets justering: 1992-04-07 Debatt i kammaren 1992-05-07 Protokollsnummer 1991/92:107 Riksdagens beslut: Bifall till utskottets hemställan 1992-05-07 Protokollsnummer 1991/92:107 Nr TU17</p>
-          <p>Vissa normgivningsbemyndiganden på vägtransportområdet, m.m. (prop. 1991/92:131)</p>
-          <p>Utskottets justering: 1992-04-28 Debatt i kammaren 1992-05-13 Protokollsnhummer 1991/92:111 Riksdagens beslut: Bifall till utskottets hemställan 1992-05-14 Protokollsnhummer 1991/92:112 Riksdagsskrivelse 1991/92:264 Nr TU18 Postväsende (prop. 1991/92:100 bil. 7) Utskottets justering: 1992-04-28 Debatt i kammaren 1992-05-20 Protokollsnummer 1991/92:116 Riksdagens beslut: Bifall till utskottets hemställan 1992-05-20 Protokollsnummer 1991/92:116 Riksdagsskrivelse 1991/92:276 Nr TU19 Järnvägar (prop. 1991/92:100 bil. 7) Utskottets justering: 1992-04-28 Debatt i kammaren 1992-05-20 Protokollsnhummer 1991/92:116 Riksdagens beslut: Bifall till utskottets hemställan 1992-05-20 Protokollsnummer 1991/92:116 Riksdagsskrivelse 1991/92:277 Nr TU20</p>
-          <p>Telekommunikationer (förs. 1990/91:20, prop. 1991/92:100 bil. 7, prop. 1991/92:163)</p>
-          <p>Utskottets justering: 1992-05-14 Debatt i kammaren 1992-06-01 Protollshnummer 1991/92:123 Riksdagens beslut: Bifall till utskottets hemställan 1992-06-02 Protokollsnummer 1991/92:124 Riksdagsskrivelse till regeringen 1991/92:312 Riksdagsskrivelse till riksdagens revisorer 1991/92:313</p>
-          <p>1991/92:TUReg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199192/reg_199192_TU/reg_199192_TU-004.pdf"/>
-          <p>Nr TU21 Ökad konkurrens inom den kollektiva persontrafiken (prop. 1991/92:130)</p>
-          <p>Utskottets justering: 1992-05-14 Debatt i kammaren 1992-06-01 Protokollsnhummer 1991/92:123 Riksdagens beslut: Bifall till utskottets hemställan 1992-06-02 Protokollsnummer 1991/92:124 Riksdagsskrivelse 1991/92:314 Nr TU22</p>
-          <p>Trafikpolitikens inriktning (prop. 1991/92:100 bil. 7, förs. 1991/92:17, förs. 1991/92:18)</p>
-          <p>Offentlig utfrågning: 1992-05-12 Utskottets justering: 1992-05-19 Debatt i kammaren 1992-06-02 Protokollsnummer 1991/92:124 Riksdagens beslut: Bifall till utskottets hemställan 1992-06-02 Protokollsnummer 1991/92:124 Riksdagsskrivelse till regeringen 1991/92:333 Riksdagsskrivelse till riksdagens revisorer 1991/92:334 Nr TU23</p>
-          <p>Teletaxorna samt bidrag till VHVJ-järnvägen (prop. 1991/92:150 bil. 1:4)</p>
-          <p>Utskottets justering: 1992-05-26 Debatt i kammaren 1992-06-09 Protokollshnummer 1991/92:127 Riksdagens beslut: Bifall till utskottets hemställan 1992-06-09 Protokollsnummer 1991/92:127 Riksdagsskrivelse 1991/92:349 Nr TU24 Sjöfart m.m. (förnyad behandling) (prop. 1991/92:100 bil. 7) Utskottets justering: 1992-03-23 Debatt i kammaren 1992-04-02 Protokollsnhummer 1991/92:90 Riksdagens beslut: Bifall till utskottets hemställan 1992-04-02 Protokollsnhummer 1991/92:90 Riksdagsskrivelse 1991/92:186 Nr TU2S</p>
-          <p>Tilläggsbudget II inom kommunikationsdepartementets område (prop. 1991/92:125 bil. 4)</p>
-          <p>Utskottets justering: 1992-05-19 Debatt i kammaren 1992-06-09 Protokollsnhummer 1991/92:127 Riksdagens beslut: Bifall till utskottets hemställan 1992-06-09 Protokollsnhummer 1991/92:127</p>
-          <p>Riksdagsskrivelse 1991/92:348</p>
-          <p>1991/92:TUReg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199192/reg_199192_TU/reg_199192_TU-005.pdf"/>
-          <p>Nr TU26 Uppskov med behandlingen av vissa ärenden (prop. 1991/92:100 bil. 7 och motioner)</p>
-          <p>Utskottets justering: 1992-05-26 Riksdagens beslut: Bifall till utskottets hemställan 1992-06-09 Protokollshnhummer 1991/92:127</p>
-          <p>Yttranden till andra utskott</p>
-          <p>Nr TUl1y till finansutskottet . Inriktningen av den ekonomiska politiken (prop. 1991/92:38)</p>
-          <p>Trafikutskottets justering: 1991-11-28 Finansutskottets (nr FiUl0) justering: 1991-12-05 Debatt i kammaren 1991-12-19 Protokollsnummer 1991/92:49 Riksdagens beslut: Bifall till finansutskottets hemställan 1991-12-19 Protokollsnummer 1991/92:49 Riksdagsskrivelse 1991/92:108</p>
-          <p>Nr TU2y till näringsutskottet Privatisering av statligt ägda företag, m.m. (prop. 1991/92:69)</p>
-          <p>Trafikutskottets justering: 1991-12-03 Näringsutskottets (nr NU10) justering: 1991-12-10 Debatt i kammaren 1991-12-18 Protokollsnummer 1991/92:48 Riksdagens beslut: Bifall till näringsutskottets hemställan 1991-12-18 Protokollsnhummer 1991/92:48 Riksdagsskrivelse 1991/92:92</p>
-          <p>Nr TU3y till finansutskottet Infrastrukturåtgärder för sysselsättning och tillväxt (prop. 1991/92:150 bil. 1:4)</p>
-          <p>Trafikutskottets justering: 1992-05-19 Finansutskottets (nr FiU30) justering: 1992-05-27 Debatt i kammaren 1992-06-10 Protokollsnummer 1991/92:128 Riksdagens beslut: Bifall till finansutskottets hemställan 1992-06-10 Protokollsnhummer 1991/92:128 Riksdagsskrivelse 1991/92:350</p>
-          <p>Nr TU4y till finansutskottet Kommunal ekonomi (prop. 1991/92:150 bil. 2:3)</p>
-          <p>Trafikutskottets justering: 1992-05-19 Finansutskottets (nr FiU29) justering: 1992-05-27 Debatt i kammaren 1992-06-09 Protokollsnummer 1991/92:127 Riksdagens beslut: Bifall till finansutskottets hemställan 1992-06-09 Protokollsnummer 1991/92:127</p>
-          <p>Riksdagsskrivelse 1991/92:345</p>
-          <p>1991/92:TUReg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199192/reg_199192_TU/reg_199192_TU-006.pdf"/>
-          <p>Sakregister 071-NUMIMEL oossoseeeereerererrereerrrererrerernrnne nr rerrrennr ennen nr n enn rean n nn nn 20 AXE-SyStemet..soonsenssessorssseneseensrernnannrsrnarnrsrnrrrnnsnesnesnrnnrnn annen rna nn 20 Abonnemangsavgift, hushållens (teletaxorna) .................... 23 Aerotransport (ABA) susmmnmsesresesresresrenerreresenenenerersrnnensnrn enar ann 2y (NU10) Affärsverkskoncernerna (granskning av statliga)................ 22 Aktieförsäljnilg s....ssssssssesennenernesenrenrerrerenenenenrnrnen anser ennen nn nn nn 2y (NU10) Amatörbyggda bilar s.........sssessssssreserererrensrrsrrnrrrnrnennrenrnn nerna nn 2 Arlanda (utbyggnad, miljö, tredje landningsbana) ............. 13 Arlandabana..ssssssessessrersenrarernnrsrnrrsrrsnrenrnrenerrenen ennen enn renen nn nn 19, 3y (FiU30) Avgaskraven (direktimporterade bilar) ...............sososs0s0s00n0nn 2 Avgasutsläpp (trafikrytf) s..mmnmmssssssessenernsnenennnnnsennnnsnnnnnenn nn 2 Avgiftsfinansierade Vägprojekt...........ssossessssessosennsrenensnenennnnnr 15, 22 Avreglering (flygmarknaden) s.mnmmmnsssssssesesennensnsrnnnrnnnnnnnnn nn 13 Avreglering (långväga busstrafik)..................s.ssssssesssssoronnnnn 21 Avreglering och avmonopolisering..........sssessssssessosorsenennonnn 15, 22 Avtal mellan Sverige, Norge och EEG om civil luftfart.... 4 BaltiC LiNnK ooossssssesrssssrernrrrrerrrrensresnrrrnnrrrrnrerrrnnrnr en rnnen nn nr n rn nana 15 Baltiska länderna (pOostavgifter)..................ssssssssessssessorennsnnna 18 Baltiska länderna (teletaxOrna) ................ssssssssesesronenrnsennnnnna 20 Bannätets indelning....smssessssessssrersrsnrnrenrererrenernernenesnernenenen nn nn 19 BastelefONer .osssssssesssererrersrrrnrrnrrnrnrnnrnrsnrrrrrrerr ner nenrr ennen ennen nr nanna 20 Bemyndigandelag (föreskrifter om trafik, transporter och kommunikatiONer)..........sssesssserssrarserssnsnesersensennnnnnnnnrnnn nn 17 Bemyndigandelag (utjämning av taxor för vissa lastbilstranSpOrter)...........sssssssssssronrennernnrnenrernennsrsrernenennrnennnnn nn 11, 24 Bensinskatten (differentiering)...............ssssssssssesesesesennnnnnnnna 22 Beredskapsbank inom trafikverken ...smsssesossrornrorsrsrnrsnnnnnnn 3y (FiU30) Bergslagen (persontrafik).........sssssssssesseseneorsrnrnrnrnrnrnnsrnrennnnnnn 12 BergslagsdiagOnale....sssmsssssesensrenserernrerrnnerrrrrerrrrrenner rr nennrn rn nn 15 Bergslagspendeln 19 Beställningstrafik 3 Betalnings- och kassaservice (POSten)................sssssssesnensnnnn 18 Bil- och körkortsregistret 5, 10 Bilandelsförening........ssessessesesresnrrnrrennesnanrernesnenrnnnnsn rn nn nn 1 Bilavgasförordningen (dispensavgifter) Bilavgifter till Göteborgs Centrum ..smeeessemrsssssrnsnnnnnn 15 Bilfamiljer ssssmnmnsssssesnsesnesrnearseernrernesrrenrrsnnerrrsnerrsnnsrensn nens n er renen nn nn 1 BilffågOr osssnosnsseresenrenerrenrerenennerenranenn ennen renenenrnrnnenenen ennen nn nn nn 1 Bilismens KkOStnader s..smssessessresserernnrrernrerernrsnreneennennnn enn nrnnn nn 22 Bilprovning (ASB) s.smmmnsssssesesesrenreneenernesrsrersrersrrrrrrnsrsrsrsnennen 2y (NU10) Bilsocial Utredning ......ssssessesesnernranrresrrernnerernsrernernrnennnsnerrnnrn enn nn 1 Bilstölder (åtgärder MOLt) sommmmmssssssesesrenensorsrrrrerernernrnerenrnnrrnn nn 2 BiltelefOn o.ossssssssresoeereerrerneneannennsrnrennesrnrrnerrrrrennrnereresrenne renen nn nn 2 Biltrafiken i Stockholms innerstad............ 22 Blekinge län (infrastruktursatsningar) 22</p>
-          <p>1991/92:TUReg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199192/reg_199192_TU/reg_199192_TU-007.pdf"/>
-          <p>BOhuUSbDANAN sissesessreesserssrersreseresressrrenrrrrrrrrrssnrer ren rrennnrrrn nn rn rna nan 19 Bolagisering av affärsverken summmsssssssesseseeresresrererreserrnsnerrrn nn 22 Borlänge flygplats s..mmnnsssssssresrsreenresernesrnerrsennernerrnrnennerernnnnnn rn nan 13 BOttniabanNaNusssssssssesssersrersersrrrsrrsnrersnerrrrerrrnrrrrnrrrrerrsrssnn nen n sn nan 19 Brev (monopol OCh pOrtON).......ssssssessserreesersrrerersrnssrsnnennenn nn 18 137 80705 4 U6 (3 15 Bromma flygplatS sssmnnmssssssrsrsressesereereresnrrrrrerrrrrrnrrerrerrrranrrn nn nn 13 Brukaravgifter s..ssmmmmsssssresrsrseseenrenresrrsrernrrnrerennernsrnenennener nen nnn en nn 15 Bråvalla flygflottilj (F13) smssmmmmmsssrsrsrsesesrerresererenerersrsrnnnrnnn nn 13 Bräcke (AXE-StatiOn).....s.nsmmnnsssesessesseesoreronennersrernrnnrrnrrennrnnrnn 20 Busshållplats (StoppförbUd)............ssssssesessorseesesesesesrsnenerrnrnn 2 Busslinjetrafiken sssmmsssssrseersrreserreerererrererererrerrrrrrerrnerererrrnnrrn nn nn 21 BUSStraflkosoooesseeseesserersnerrennerrersneneernesnenerrerresnernerren arr an annans ena n nn 3 CitytUNNeld ooooseseseeseesrerrerrerrrnernnerrrnrereen renarna nere arne nen nn renen anna 22 Civil luftfart (avtal, EEG) ossnnnnsssssesseesesseseenersenrerreserrersernnnnen ren 4 Cykel-CityfOrdlOn ssssossssreserseenesrenrerersrenrenrrsnerernrenernenernen nn nn erna 9 Cykelhjälm ossoosasesesresasnenernenesesrenesesreresnenesnrnenerennrnenen een ennenrn nan 2 Cykelleder oossnnsresresrenersernreneeneenrenesrreneenerrrrnennsnren arne renen renen ennen 15, 4y (FiU29) Cyklister (vägtrafikregler) m..nmmsssssesreseereenesernnenernennsnennnnnnn rna 2 DaCKelede€hosoosssesresreeereresrrrseersrrnnrennrrrnerrrrrnrer nens nennennrrnn rann nn nan 15 Dala AifPOTLtossssssssrersreeerrererersrensresrrrsrresrrrrrrernrnrnrrnnrrn renen nanna nan 13 DatatjänNSter sissssssssessessrererrerrrrnrrrsrersrrrrrrsrrrrnnrrnennnrnnrnn ner n nanna nana 20 DennisSUppgÖrelS€N...smmssssssesessressressreseresrrnrerrrrnnennrerrrnn nn rna na 22 Diabetiker (förarbehörighet) .............s.ssssssssesresesresresennernnnnn na 2 Dispensavgifter (bilavgaslageN)............s.ssssssossseonoeeneonnnnnnnnnnnn 2 Drivaxel- och bOggitrlyCk.....sssssssessesersersesnennenesresnenennennennnnnn nn 15 Dubbdäcksförbud för tunga fordon 15 Dubbelskrov för tankfartyg ........ss.ssesreseesesresreneesenrersennennnnan nr 11, 24 EG (avtal om civil luftfart) 4</p>
-          <p>EG:s luftfartspolitik................. 4 Ekonomiska politiken ly (FiU10)</p>
-          <p>Elektronisk hemtjänst 20 Enskilda Vägar. nssmsssesrssseeeserserneeneesernrererrerrernrsrrrnernernrnernnnnrn rna 15 FKP-gruppen (portoavgifter) m.........sssssssssssseoseonennenenrannennnn ana 18 Farligt gods (lag) ..smmmsssssenrsresesrnrerenernenenenrenenenennen ene enn nnn anar ana 17 Farligt gods (vägar fÖr)........ssssssssssssesesesrerneseeseeresnenernennen enn ana 2 Fartygsregister, internationellt =. smmmmmssssosssressesesnenenesennnnsnsnnnn 11, 24 Felparkering (lag) .......sesssssssroenenenenenenenesenenenenernenenensnsnnenenrnenenn 2 Flagglage.ssssssssseseerenenrerrenenerernenenrenenerrenennenenen ennen enen een nenenen nan 6 Flaskhalsar (trafiken) usmnmmmssssesessesresseseeseeseernernesnennnnennrnnrnnn nan 15 Flerårs- och fördelningsplaner (Väg)............ssssssessssssorosrnnnnns 15 Flygplatsernas rullbanor smosmsssssessersnesenesnenenrsnsnenennsnensnnnnnnn nen 3y (FiU30) Flygtrafik (inrikes, avreglering) smssmmmmmssssessesnensenennenennennennn nn 13 Fortkörning (bÖLter) ........s.ssssseeseseesreseeseeserseesernernenernenennnnnnn anna 2 Fotö— Hönö (DOIOJ.....ssssssesesesreseneseeserrerenesnenenenennenenenennnn nn aren ann 15</p>
-          <p>Fraktstöd (Gotlandstrafiken) m...ssssssssrsreseesernensennesennennrnnnnnna 11, 24</p>
-          <p>1991/92:TUReg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199192/reg_199192_TU/reg_199192_TU-008.pdf"/>
-          <p>Färjetrafik ...s.ssssssossenenesesenrnsnrnsrerssrsrnerrrnerererenerenennrrnenrnrnn rn n rn enn 11, 24 Förarutbild ning ...ssssesssesrenrennraseeneenrsnnrrnennererennrrrnnrrsrsnnn nere nan nt 2 Förbifarter (avgiftsfinanSsieriNg) ssmmmmmnnsssssresessnesrsnesnnrennnnnn nn 22 Föreningsbrev (pOStavgifter) ...........s.sssssoeoeseornornrsnenennennrnn nens 18 Första hjälpen (utbildning) smsmmmssessssesesroreseenrnrsrsnennennernnn nr 2 Försvarsuppgifter (vägverket, banverket)...................s.ssss0- FöU12 Gamla Uppsala (järnvägssträCkning) .......................- borserenns 19 Genom fartsVägar s.sssssssessresersrrsserrsenresrransnerrernrnserr reser n ren n nn nn nn 15 Glesbygdsbilismen ssssssnssssrsrsesresosrssnrnesnenererrnerenenrnererennrnrnnn nen 22 Gods- och persontranSspOrters.....s.ssssssssreserersnrenrenrsnrennsrnnnnn nn 22 Godstrafiken (järN Väg) s.snmmmerssrereseorenereresesersnesnrrnernennernnrnn nn nn 19 Gothia AirPpOTltosssssssssresreseorerrereseerenenrannrnererrernennernrrnrrnenn nr nn nan 13 Gotlands VägNät s.snnsnsssssrseerererrrrsererenrnnernenen annan renen renen enar annan 15 Gotlandstillägget s.smsnmssssssssesenesnsrsnsrorsnernrrnenenrsnennrnen renen ennen nnn 11, 24 Gotlandstrafiken ss ssmmssseesrssesssrserrerrererrrrerrerrrrresrrrrennnnrn nn rann rna nn 11, 24 Gunnarn fältet s....s.nnmsssssrereererrrneserrenennennrrsrerrern narr ernernerrnnn nr nan rna a 13 Gångbaneren hållniNg......sosssseosnsrsenenssrnsrernsnsnsnsnesrnrernrrennn nen 2 Gångbanor/cykelbanor (Separering) s..msmmmsssosnsrssosensnnnnnnnnen 2 Gävleborgs län (infrastrukturinvesteringar) ...................... 22 Götalandsbanan sssessnsessrerererrerrrreserssrnennndernrrrnrrnnnsrrnnnn rr n nn rna 19 Göteborgs närtrafik sosmmssssssssesrerseseoreneenrsenesresrenesrerernernernernnenn 19 Hagfors— Stockholm (flyg) = nssmmnssssseresseresrenesrenerrerenrnnernrnnn nar 13 Hamnarnas och sjöfartens rOll ssmoomesssssssssessrsresneressrennnrnrnrnnr 22 HamnfrågOr sssnmsnerenenrenenersrnrnrnansrnsnsnnrsnenesrerrnrrnrnenensnnrrn ene nennna 11, 24 Hamnområdet i Stockholm s....smnssressssreroeereresnrrerrnrrerernnrr rn nns 11, 24 Handelsflottan (pensionsanstalt, kultur- och fritidsråd) .... 11, 24 Handikappade (MmOpeder)...smmmmmnsrsresreseerenenreneenererrenennrnernnrn en 2 Handikappade (telekommunikatiOn) s...mmmmemseesessnssennennnnnn 20 Handikappanpassning 14 Haparandabanan............... ons 19 HAargShaMl ssssssosereseesraresenenenenrenerersesrenrereererenren renen er err enn n ennen nn 11, 24 HastighetsgränSs€er s.mmmmmsnsssseenenesrnrenssnern nn 2 Hastighetsövervakning 15 HaverikOommiSSiONCN .usmmsnsssesesesresenrrasresrnenrennesr renen nennenn rann nn nn 8 Hemavan (flygplatsutbyggnad) ...mmmmmmnnsnssssreneneenenrsnsnnennnnnrnnn 5 HerrljungabanaD...mssnsssesssroseeereserersrennsrsrnnnnrrrrrnrrrnnnnrenennnn enn 19 Hultsfreds flygplåtS sm..ssnmmsssssasseseserorenrennsnerresnrrrnnnrenederenrrrnnnnnn 13 Human telefOnNi...ssssmmssssreresreneresrernesrenrnsnrenrenrarnernnnnrn nr rs nn nr annan 20 Huvudmannalagen smsmmanssrsrsasesnenernenrennresrrnnsnernrennrrerrernrer nn ennen 3 HuvudvägssyStemet....mmssessesrsresessersrsrererererenererenrnrnernernnnenennent 3y (FiU30) HyrbilsSyStem msmsnssesresosesesrensrsenrenrnnnnrnesenenen ene renen ennen rn nnn ent 1 Hälsokontroll (körkOrt) ..ssssessesreseeossrerenesrererrerenenrennnnnnn nen 2 Höga kusten-brOn s.ssmsesesesesrsreseresenenrenenenenenenrnenenenennnrnnen enn enn 15 Högersväng mot rött ljUS..........sessssesssresseoessenssrnnennensnnnsnnnnnnnd 2 HöghastighetStåg ..........ssesssssosonsossesesenesnsrnrenenrnensrnrnrrnenenennnnnsn 19 HÖgpriSsregleriNgen m.msmmssrsroesrsrseseererernrereresrrnenrerenenren ennen nen en 11, 24</p>
-          <p>Information till riksdagen (tel€).........sssssssssoseosessesnrnnsnnsenn nar 20</p>
-          <p>1991/92:TUReg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199192/reg_199192_TU/reg_199192_TU-009.pdf"/>
-          <p>Infrastrukturåtgärder för sysselsättning och tillväxt ........... Inlandsbanan INlaNCSVägssooesseeseeessrresrenrersernrerrerorerrrenrerarrrrrenrrnnrrrnerrnrrnn nr nn rna Interregional persontrafik.... Interregional tågtrafik .......nnnnsssssssesseresesrenerennenenennanenennennnnnn nan Investeringar i trafikens infrastruktur s........s..sssssssssssorrnnnr Investeringsplanering (samordnad investerings- [05 ETT 8117: Isbrytarnas lOkalisering........ssssssseseneeneennesnsnreresnernrnnennnrnennnn nn</p>
-          <p>Järnvägsforskning (VTI. .ossmmssssessssssressrsenseonernnernnrnrnnrnnnnennnnnn Järn vägSindUStliflassssssssseseseseerersesesnrrnrennrsrerrernerrrnrrrnnnnrn nn nn nn nr Järnvägsinspektionen Järnvägslinjer (vissa): Boden — Haparanda s...ssmsseseseeseesensrenresrenennernernrnnennennen nan Borås — GÖtebOTrg s.nsnsnsseresesesrsrenererrenernerenenrrnenen renen ennen nn nana Eskilstuna— VäSteråS ..........essossssssanesennessenenenenenenenennnnnnnnnn Falköping— JÖNKÖPING. ...ssseseseseereseseneereeneneenstennenerennennnn Halmstad — Hässleholm sssmnmssssssrssssressessrannnsnnnrnnnernnernnnnn Helsingborg— Landskrona Härnösand — Stockholm ....sssssessersessersrsnernrnnernesnesnrnnennnnnr Karlskoga— ÖFEbrO.......ssssssosoosssssroossersreronnessssrennnnsnrnnn Karlstad — GÖtebOTrg a..msmneeseseesneneenesnnenrereernernesnennernnrnrrnen nen Kil— GÖtebOrQ.sssssneenrerennrennennennnenrernnnnerresrnennnernennnrrnnnnnn nan Linköping— Kalmar susmmsssesesersrssesssoererereernrerrnernrrernrrrnnnnn Mjölby — Hallsberg...smsssessssseseresseseneerrnsrrerererrrssnrrrnrrrnrnn nr Nässjö— Jönköping..... Simrishamn — Malmö Stockholm — Oslo Uddevalla— Borås Uppsala — GäVIe sissmasseseseeserreseenernrnresenernrsrernerrenrennrrnrnnrnnrnnr Ystad — SimrishanmiO...mmmmsssssssrerersrersesrnrnsrrernrnrsnnnrn rna nr anna Örebro— Kristinehamn s..mmsmssusssrossrosssroossronsrronsrrnnnnnnnnn Östersund — Storlien ........ssssessosssossronssseorrnnsrrnsrnnnrnnnnn</p>
-          <p>Kalmar flygplåatS ....snnmnnnnssssennennenesnennnnnennrnnn Kalmar län (väg- och järnvägsnätet) Kapellskär ossssssssesrenoesesrereoerererenesnererererrererrerederrerenernenennrnen ennen Kattegatt SOm inNnanNhaV....mmssesesseseesersersrsenenenrennesnsnnrnnrnnennnn nn Klarälvsdalen (Väg OÖ2).smmmnsnsssssessesnenesnrernesnrsesrnesnernernernrnnennnn nr Kollektivtrafik (KONKUTIeNS) ....ssoseeseoresseeseneneeseesernenrrnrnnn anat Kollektivtrafikens handikappanpassning ..............sssseseernn&gt; Kollektivtrafiknämnden (lag) Kollektivtrafikområdet (miljöteknisk utveckling) Kombitrafiken......sssessssoseeseorersrensennnansrannnrnnnrernennrrannernnennnnnn nn nn a Kommunal ekonomi inom kommunikations-</p>
-          <p>departementets OMråde .....ssssssessssrsrssnsnsrsensenensnnrnensnnnnenenn ann Kommunala flygplatser (bidrag) s...s.mssssssssesesennenenennenennnnnn ann Kommunala Vägar sommnmssresesrersressrennesnrensnrennesnnennernnesnnrnnnnnn annan Kommunikationsdepartementet (anslag) ...................s.s00n-</p>
-          <p>3y (FiU30) 5, 19 15 21 12 22</p>
-          <p>22 11, 24</p>
-          <p>9 3y (FiU30) 19</p>
-          <p>19 19 19 19 12 19 19 19 19 19 19 12 19 19 19 19 19 19 19 19</p>
-          <p>11, 11, 24</p>
-          <p>4y (FiU29) 13 15 -</p>
-          <p>1991/92:TUReg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199192/reg_199192_TU/reg_199192_TU-010.pdf"/>
-          <p>Konstfibermaterial (SJÖKOFL) ..........ssssssssssosesosnnernenenennnnnnnnnnnn 11,24 1991/92:TUReg.</p>
-          <p>Konstruktionskrav (sjöfart, miljö) s.....ss.ssssssssssrrssrsssnernnennnnn 11, 24 Kringfartsleder sssmmmsssssrsseesesneseenennesnnererernsnnrrernnernnrnrrnernrrnnn nn en 15 Kust-till-kust-DaNaN ssnnssssessresersrensnrsernnerrrennnerneserr rer rennen nen nr 19 Kustsjöfartens utveckling ......ssssssseseesnessensesrnernerensnrernrnrrnennnnr 11, 24 Kvinnoperspektivet på trafiksystemet................sssssssssonnnnnnnn 1,9 Kör- och VilOtiders......ssssssessreserseresennennnesrnrnnnernnernnnern nns rnnnnn nn 17 Körkort (omhändertagande, förnyelse) ...............s.ss.sss0sssnnnn 2 Kör kOrtSregiStret......ssssssseseseorssessesnnersnereenesnesnesresnnernrrnnnnsnnn nn 5, 10 Körkortsåterkallelse 2 LTA-anSlaget oossnssnesreseerenresneneeneneenrernnrrnnenrernrrnnennen nen rnn renen nen n nan 15 Landvetters flygplåatS s...snmmssssssessesserensnrnnnersnensnesnnrnnn nen nnnn nr nan 13 Landvetters flygplats (järnvägsförbindelse) ...............s.ss00n0nn 19 Landvetters flygplats (vägförbindelse).................... mrossesansnnn nl 15 Lastbilstransporter (lag om utjämning av taxOr) ................ 11, 24 Linjeflyg AB omosnnssssssssseesesnenrenenrennrernsnrnsnnnrnrn nn - 13 Linjesjötrafik på Gotland (koncessioner) 11, 24 Linjetrafik..oossssssssseseneneneerenenesrsnenenernnannrnnensnrnnenenerner renen enn n rn nen 3 LOtSNÅNG ooosesseserresrernerrernerrrrrernersern ennen rrnn rn ernn ene er ner n ennen nen nrn nn nen 11, 24 Luftfartsverkets organisation och verksamhet ...................- 13 Länshuvudmännen (statligt StÖd)............s.sesssessesrsersersesnsnnn 12 Länstrafikan läggningar ..ssmmssseseerenrenrenenennrrenernanenn enar n enar en anna 15, 4y (FiU29) Länstrafikmonopolet 3 Marknadsdomstol m.m. (lag) smsnmmnsseresrerersnsrrnnnannnnennnnn nerna nn 4 MellanselsSpåret..........ssssssosesesenesnenennennenenrenennenernennenennsnnn enn nn nn 19 Miljöfarlig last (SJÖfArt) sosmmmmmsssssesnrseneenenennenennenennenennsnnnrnnnen 11, 24 Miljöpolitik (trafikens infrastruktur) sm... 22 Miljövänlig fordOnsdrift s.........ssssssssseseesesenennenerernrnnenennnnennnnn nn 9 Miljövänliga transporter (Sjöfart) .......s.sssssssssesssesnesennsnsnnnnnnn 22 MODbiltelefOn ..ssmssssseseeerererrerrerrrrrrersnrrrnrrerrrrnn ran nrr nr annen nen en nan 2 Mopeder för handikappade (motorstyrka).... 2 MotorfordOnsSstÖlder.........sssssessessresenreessrerrersrnrsnrnnrnerrrrnnnrn nn nn 2 Motorväg (E 6 genom BOhuslän).......ssssssssssesennenesnenennnnennnn 15 Motorväg (hastighet) ..nnnnsnssssssesrersrererranrererenrerenennenennrnen enn nn nn 2 Mälarsjöfärten s..smmmsmsesesrereresesenennenernenrererrenen renen ennen nnnrn enn nn nn nn 11, 24 Mörkerkörning (utbildning) s..nmmmmsnssesresesesrenenrenennenennnnnnennnn 2 NKIJ-banan 19 NTE ooo oerrerreseersesresresesrerrerrereenesnerrerrrrrrnrnrrrenrennenn enn nns nerna nanna nn 10 Nationella flyglinjer sosmmmmsssssssresrerssrasesnrenrensnensnernr rann nrnn nn nn nan 4 Nordkalotten (järnvägsinvesteringar) s........ssssssssossonesennnnnnn 19 NOFrdlänkel osssssessererreeserranserrenserasernnnnrerernrnrrnnnnrrrnnnnrrrnn rr nnrn nn 19 Nordström &amp; ThuUlif...ssssmsssnsssssersrererereresnernrnrerrrrrrrrrnnrrrr enn rna 11, 24 Norge— Väner-banalDu...smmnmsnesreseoneennesnresnsnrennernennsrnrsner nen nsnnn nn 19 Normgivningsbemyndiganden på vägtransportområdet .... 17 Norra Stambanan sosmnnssessrssrsrereresrereessnnneererrrernrnrrrnr nn ner nnrrn nn n a 19 Norrköping (spårväg) 15 Norrköpings hamnregion 11, 24</p>
-          <p>11</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199192/reg_199192_TU/reg_199192_TU-011.pdf"/>
-          <p>Norrlandskustens järnvägstrafik 19 Nynäshamn (SjÖtrafikJ........ssssssseseesesseseesesreresnesrnrersnnnnen 11, 24 NätutbyggnadsSfrågOr s.......sssssssessrseseresessrsrsrsrseserersenerenenernrn nn nn 20 Offentlig utfrågning om trafikens infrastruktur ................. 22 Offentlighetslagstiftningen s..mmmmmmssssssrstroseseereererrerresrernrsnnrnnnn ns 22 OljeutSläPppel ssssssssessersresraerseserresrerrernerrrrerrererrerrenrnnrerrerren nn n rn nr 11, 24 Omaxlingsterminal i Haparanda. ........sssssersessersesnesersrnssrrnnnnnn 19 Ostkustbanall sussssessssrersrersessrssrrserrerrerrnerrrrrrrrrrrrrrrrrrrrrrrr rr nn rna 19, 3y (FiU30) Parkeringsan märkning. ...seesssessrersrereesersrerrererrrsrnrerrerrnrrnrnrn nr 2 Parkeringsbolagens verksamhet s...sssnmessessessresrsersrrsrrnrsnrnennnnnn 2 Parkeringsplatser vid stationer 19 Pendeltågstrafik (utbyggnad) ............................. 19 Person- och godstransporter (utredning) 22 Persontrafik på järnväg 12 PilotutbildnNiNg.......sessssossosesrssenneserserrerrereenennernrn sen nrsnan ann rna n nn nan 13 Planeringsramen för anslaget Investeringar i trafikens in frastrUukKtUrosssssssesssesssreersrerreseresrernrrsrrernrenrrsnnsrsnntnrrern nen nnnnn nn nen 22 Planläggning och byggande för trafiksäkerhet .................... 2 Portoreglerna (Norden, Baltikum) s....ssssssssserseoseesersenrennnn nan 18 Postverket (bOlagiseriNg)..........ssssssssseneooesenesennrnennrnenennnn ann nn nn 18, 22 Postverkets verksamhet ...smmmssssssssersenseseerserersrernesnenrnnn enn nn rna nan 18 Psykologiska faktorer för trafiksäkerhet.........................s...- 2 Privatisering (statliga fÖretag).................sssseereosersesseorenrerrrennn 2y (NU10) Produktionsbolag GOtlanC.........sssssessreesererseeresssrressrerernrnnrrnnn 15 RederistÖdet s.osmnsnmssrerrsssererererrrsrsresesernererererrrerersnrrrnnrrrrrrrnrrnn ann 11, 24 Reflexer (oskyddade trafikanter och lastfordon) ................ 2 Regionala infrastrukturOrgan s.....s.sssesressreseesrersrensnrerrenrnrrn nan 22 Regionalpolitiska hänsyn (trafikens infrastruktur) ............ 22 Regionaltågstrafik s.....s.ssssssssossssrsesensesensensrsrnsesensenenenennennnnn anna 19 Registreringsskyltar (omhändertagande) .........................-s-- 2 Renar (järnvägsdÖdade)...........ssssssssssesesesesessesenesnesenenrennnnnnn nn 19 Resultatutjämningsbidrag (flygplatser) ...................ss.s.ss-s000&gt; 13 Riksfärdtjänsten 14, 4y (FiU29) RikSvägar ......sns.ssnn0nn 5,15 Rullskidåkare........... 2 Räta linje osssosssssesseeesesrrersrereesrnenrerrrrsrrennrnnernnnn rann ann 15 Rött ljus (högersväng/kOrSniNg) ......s.sssssessessresserssnnssnrsnnnnn nan 2 SÅS oooterrersrsrereresesnersreerrererrerersererrenenerererenenen reser ere eran en nen en near n ann 13 S GT ooo oerrreseseereresesosrenrererrrerenerenrerenennerenenenennen eran ennen en renen en nanna enn 8 SJ:s [13 521 65 0) CV a VR 19 biljettSySte sossssssseseesresesrrsresresesrsernerernennenrennen nere rn nen nerna nn 19 [970] É F:a (SN: be FR 19 kombi- och kontinenttrafik ..............ssssssssssrossrsrsrsrsrennnnn 19 KONCEIN ooooersresrsesrserereserersersrsrrsnserersrrernrrrrnersnnensnenn enar en rn rna 19</p>
-          <p>StatiON EL oooosseseerererersrerrereererrrererrrrreresnerrrnenrenn anar n ennen rna nn nan 19, 3y (FiU30)</p>
-          <p>1991/92:TUReg.</p>
-          <p>12</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199192/reg_199192_TU/reg_199192_TU-012.pdf"/>
-          <p>trafikeringSrätt msmmmsssessesssnessrrsresnrsnerrrerrenrsnererenennerennennrn nn upplåning</p>
-          <p>Samordnings- och samverkansfrågor (järnväg)................... Signaltekniker (utbildning) ...........ssssseseessesersesesesenrenenseronnnnn SimulatOrkÖrnNilg .....sesesssesrrerresrresrsrrrerrrrsrrerrrnrerrrrenrrrnrrnrrnn nen Sjuhäradsbygdens Vägar. ....s.sssessesesssrssesrreneerserresrsenernenrsrenrnn nen Sjöfart m.m. (förnyad behandling) s.......sssssssessesesseserrerrsosrnnr Sjöfartsverkets verksam het........ssssesssosseoresrrererresrersrrerrrrernrr nr Sjöförseelser (OrdningsbOt) ...........sssesssesssrsrserrsreserernenernnnnnn en Sjökort (konstfibermaterial) Sjötrafik (regler) ................ss00000 Sjövärdighetskontroll Skagerrak som innanhävV ssmmsnsssesseserrsesenrerseresrsrserserernenennnn nen nn Skogslänen</p>
-          <p>VägVäSENde ooooseesreererersrererensrerererrrnnrerrnrrerrrsnernennenr enn nn n nanna Skolbussar (barn Stående) .......sssssesesrsesenrsrnrnenrsrenenrnnnnennnnnnnnn SKkOISKjUtSNilg.ssosseseesreseerreseesnerrerrsnnrsnrerrennen nare err snar enn enar en nan SkyCab-projektet .smsmmsnssserssesrernesenrseenenrenenrenenrerersnn ene nnnnnen eran nn Skånelänens trafik huVUAManD .smmmssssserersrererersrrsrnrrsrrrnrnnn ennen nn SMåDIlAL oosoossessererereererrerererrererrererrerrererrereererenrrrsrsen een senere nan nn Snabbtåg Stockholm — Sundsvall. ....ssssssssssssssrssenerenersesennrn rna Snabbtågstrafiken .........sssssssososesenersenenenersnnenerersrrsrnnnnnen nns nn nerna en Sovvagnsbeställnilg....mssssssssseseeseernesrennsrenesrsrersrn enes nrnensnnn nn nn Sport- och fritidsfordon (buller- och utsläppskrav)...........</p>
-          <p>StatsKOMMUNVÄgATL sissoeeresssereereersererenrerresrreresrenrrnerernn nen rn rensa nn Stockholm — Dalarna (snabbtågsförbindelse) ...................... Stockholms kungsådra Stockholms län (vägar) Stockholms Skärgård s.ssmmmsersresesoesrseererrererrsrerererensererenener ennen nn Stockholmsregionens flygplats s..mmmmmmssssssesessessenenennennnnennnnnn nn Stockholmsregionens kollektivtrafik ......nnssmssssssesesesennnnnnnna StOMJjärNVÄgAL oossussesesrsrrersesernerersrnenenenenrner ersten rensar san sn nan sn nen er nan StorstadsöverenskommelSerNa.....s.ssseessersesrenernenenernennsnennrnn ann Storstädernas trafiksystem... .mmsssssessreseensenrenernerennsnernnnennrnn enn Strömsund (AXE-StatiOn) s.smmmsnesressesesenrenennsenrnenenennsnsnrnennnn StångådalsbananD.mmmmssssesesrerererrereeresrerrererrererrrrnenenener rann n nn ana StänklappPaår sossssssssreorsererererersrrrerennrranesrsrarnrrrrrrrnrrnnrn ns rr ann nn rna Svealandsbanal..ssmmssssesserrerrenrrnrrsrrsnnesnern ennen nen enar een ennen enn nn</p>
-          <p>12 19 5,8 19</p>
-          <p>19, 3y (FiU30)</p>
-          <p>19 5 2 9 9,22 15</p>
-          <p>15, 3y (FiU30)</p>
-          <p>15</p>
-          <p>15, 4y (FiU29)</p>
-          <p>19 15 15 11, 24 13</p>
-          <p>1991/92:TUReg.</p>
-          <p>13</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199192/reg_199192_TU/reg_199192_TU-013.pdf"/>
-          <p>Svegs flygplats msmnmmsssssrsrsssnsrsesesrnenenenrsrsrerernenrnrnrnenenen ene en nn nn rna 13 1991/92:TUReg.</p>
-          <p>SVinesSUNdSDFON..ssssessesseeserrsrsrrannerrsrrnrrrrsrnrennrrrrnnns nns renar nn eran nn 15 NIVA [67:16 (3 19 Söderköping (riksväg E 60) ......s.ssssssesseoresenresenenresenrenennnnernn nn 15 Södertälje Kanal ms smmssssrsesssernenereernennerennennnnennerenennrn ene nen ennen en an 11, 24 Södertälje (MOtorvägsbrOn) ..........s.ssssessrrsssrerresserssrennnennnnnnnnn 15 Södertälje SYC smnsmmmnsnsrsesreresenenernenennenennennenenreneren renen ennen enn nn annan 15 Södertörn (trafikflygplatS)...........s.sssssssssssssoseeseesesnnnnennennrnnnn nn 13 SÖdertörnS Vägar smmomsnessssseseererreresnenrersernnennrnnnenrnnenr essensen n nn annan 15 TSV — vägverket (sammanslagning). .........sssssoeessesersreneesnesnnnr 10 Talma sameby (vägförbindelSse) .........s.sssesesesrneseesesnesennnnnnnnn 15 Tankfartyg omnmsnsrsrersreresenernarsereseresrernenrenernarnerrennener ennen en nrn ennen en nnn 11, 24 TaxameterkrävV onmmmmmmasssssressreseasrrssrersorersrrrrrrrrnnrnnrrnnn rn nen nn rn anna 3 Taxefrågor (tel€)...........sssosoroesoereneseesesrereerenrernenesrrrerrerernrnerrnnnn 20 Taxibilar och icke-taxibilar........ssssssssssessensensesnnnennernnnnnnn rna 3 Taxor (utjämning) för vissa lastbilstransporter................... 11, 24 TelefOnitjänSter ..sssmmnssssssessesrenesnennennrnnnennennennernernennnenern renar nn nn 20 Telefonkatalogens Upplaga. .....seseessesernsreneesreneennenernnernrnnrnnn nr 20 TelefONtaXOL oosooseseasreserenrsessrrrrsrrsrrsnrernnnnrnnrrrnnrrnnrnn enn nrnn nen nn rn nan 23, 1y(FiU10) TeleNnämnNdÅEenN sossesseesereeersrsssrerrenrrrnrrrrnnrrrnrarnn ren rrnnr ennen renar n rn anna 20 Teletaxa till länsmyndigheter s..mmmmmmsssssersresrnersrrrnnrnnnnnnnnrnnn nn 20 Teletaxor (Baltikum) 20 TeletaxXOrNa........sssssssosennannn 23, 1y (FiU10) Televerkets bOlagiseriNg.....sesssesssoneeserserennenernreneenernnsrnennrnnn nr 20 Televerkets verkSamhet.....ssssssssssreeeeererererererrererererrrrrrrnnnnnn nn 20, 22 TeleverkskOnCerNenN smossssssssessserssserersserrerernrrerenrrerernrnrnnnnr ren nar 20 Tillstånd till överlåtelse av skepp (lag) .............sssssssssssosnsnnnt 6 Tilläggsbudget I..... 5 Tilläggsbudget II 25 Torsö (broförbindelse) s.msnmsmssessasrensrerrrnrsrnneeneenenrennennnrnnnn nanna 15 Trafik, transporter och kommunikationer (lag)................. 17 Trafikens infrastruktur (anslag, investeringar) ................... 5,22,1y(FiU10) Trafikens mellanfOrmer s..ssmmsssrssresssrersrsenrsrrnsrennnennrenn renar nnn anna 1 Trafikeringsrätt på järnvägsnätet............es.ssssessssssssennonnnnnnnnnn 19 Trafikeringsrätt på Stomnätet .......sssssssssssssresesesrenennerennennnnnnnn 21 TrafikflygarutbildNing ......ssssssssseoseesneneennsensrenesrnernnnnnnr nr nr nnn ann 13 Trafikförsäkring (kontrollmärke) m..mmmmmmssrsseseseeresennrsennenennnn 2 Trafikhuvudmännen (köp av viss kollektivtrafik) ............. 12 Trafikleder i StockholmsregiOnen sm.smmssssssssrsrsersnenernennenenen 25 Trafikplatser (förbifärter).............ssssssssosssseosrsernennnenernnennnnnnnn 22 Trafikpolitikens inriktning.....eemeeessseeseseesesrerenenernsnnsnrnnenennn 22 TrafikSeparering....ssssssseseseneneneereneenererreneenennenenesnenennenennennn nns 2 Trafiksäkerhet och trafikföreskrifter s.....nnsn.ssoseseenesnnnnnnnnnn 2 TrafiksäkerhetsinformatiOnN s....mssssessesesessesrenenesrenenreresnennnnn nan 10 TrafiksäkerhetsinspektiOn........sssssessssrssesenrenesnerseresrernennennrnnn nn 10 Trafiksäkerhetsråd .......s.sssoseoreneseresneneeneereneerenesrernernnsrenrsrennrnnn nn 10 Trafiktillstånd — luftfart (KONCeSSiONer)................s..ssss.00&gt;&gt; 4 Trafikupphandlingen (handläggningsordning)................... 12 14</p>
-          <p>Trafikupphandlingen (rullande materiel)........ss.ssosoosoonnnnnnn 21</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199192/reg_199192_TU/reg_199192_TU-014.pdf"/>
-          <p>Transport av farligt gods (lag) s.smnmmmmnssssenrenreneerenennennnnnnnrnnnnn Transportforskningsberedningen s..mmsmseessessresssneenernnnennnnnnn Transportrådets avveCkling.........ssssssssesssesnensenennenennennenesnnnnn nn Transportstöd (GOtland) .......sssssessesseesesrrseennennernrnnnennennnnnnnn nan Transportverk, gemensamt ssmmesssesssrrsreserenerernnrennnnrrnnrrnnrnn nn Trelleborg— Sassnitz (tågfärjeförbindelse) ........................... Trollhätte kanal somoossssssesesrsessesrerrsrnrrsrernnernrrnnrrennrennnernn nr ann nn nn Tunga dieseldrivna fOrdOn s....ssesseeseeseeresrenereressrsnnennrnnrsnnsnnnn Tågresandet (mervärdesskatt) ...........sssssssonosnsosnenenennnnnnnnnnnn Tågstationer (in- och utfartsparkering) .............sssossnsnsnsnnn Tåguppehåll i snabbtågstrafiken .............sssossosoeoeoennnnnnnnronnnnn</p>
-          <p>Umeå sjukvårdsregion (flygförbindelser) ..............ssssosssnnnnn UnNgdOmSbil:snnnsseseeseesersrrneesnenrrresrennerrerernnenerrrrrrernrrnn rn enn nn nn nen Uppskov till 1992/93 års riksmÖt€ s...smsesesesessrorornrnsnnnnnnnnsr Utländskt kÖrkOrts...ssssseserseseaseenrrennnrernrsnnennnrernnrerresnnnernnrrnn nen Utsläpp från bilar smssmmsssssssessseseneenerrnerrsrenenrnnrnnenenrerennrnernrn nn nan</p>
-          <p>Varningslyktor (stillastående lastfordOn).........................---- Vinga lOtsutkik smommsssseseseersesesenrsreneenerrrnenrerenrerererrernerernener ren ent Vårgårda matar/pendeltågssyStem...........s.ssosssnsnsnonnenennnnnnnnnnn Väg- och gatutrafik (avgiftsfinansiering) .....m.....s.s.s.ssesnsnsnn VägansSlagena.sosssessesreseesrerrennesrererresnrrrrrrnennsrer nerna nren enn nnr nr n nn nen Vägarbetares säkerhet Vägavfarter (numrering) Vägförbindelser (vissa): Gislaved — Smålandsstenar Göteborg— Nordkap ................- Köping— Arboga ............ssseese0n Köping— ÖFrEebrO ......nnssssssssssooerenonononnnnn Ljungskile—Sunningesund—Torp Norrköping— GäVIl€.......sssssessessesreeneernnnnnnnnnnernnnnn Stenungsund — Ljungskile s.......sssssessssssssrsnrnrnnsn Söderhamn — HudikSvall.ssmnnnsssesssssessransnensnernnernrn arr rna nn Örebro— Arboga Urseerereereerersrrerrrrrennerern nr rena nn srnnnnrerrnn annen nan VäghållningsanSvar€t.....sssssssssssseeenreneenenenennennenenrrnenennsnnnnrnnn nn VägiNVESt oossssnseeeresenrereserseneenernenesesrernerrenenenenrennenenrrnsn rr nennrn ennen nn VäginveSteriNgår s.ssmmssssesesrsrsrnrserenennsnsrnrserernsnsnensnenenrnennnnnn nns Vägkapitalet.......s.s.osososorsesenennnrnsnenenennsrsnnrnrrrnnenenrnrnenenrnrnnnnnnn nns</p>
-          <p>VägskyltniNg.....ssssssssnensnenenenesenresrerererrersrrrsesrersrrnrrerenenenrrnnnn rann Vägtrafikens KOStnader...smssessssrorereeneererereseeresrerrrnrrennsrennenenenn VägtrafikkungÖrelSen smsmmmnssssssesenrenreneererenenneneerernenrerernrnennnnrn nn Vägtransportområdet (normgivningsbemyndigande)......... Vägverkets aktiebOlag.........sssssssssnoneseneenrernrrernrerrrrnrrrnnnrrnnrn rn VänerSjÖfarten s.ssmmssessreerrsrsnasserseennrnererrrnrerrrserrrernrrrrnsrr nn nr nn nen VärmlandSsbananD ..ssnnssssssersrsrsreesrersrrerrrrrsrrrrnrrnnnrennnrnn nr nn n nn nn Västerbottens län (infrastrukturen) s..smnmmmmsssssesesssennennennnnnnn</p>
-          <p>11</p>
-          <p>,</p>
-          <p>11</p>
-          <p>,</p>
-          <p>11</p>
-          <p>11,</p>
-          <p>17</p>
-          <p>1991/92:TUReg.</p>
-          <p>15</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199192/reg_199192_TU/reg_199192_TU-015.pdf"/>
-          <p>Västerdalsbanan susnssssssssessesssrrererererererrerrrrrrerrrrrrrrrrrrnrrnrrnnnn nan 19</p>
-          <p>Västernorrlands län (infrastrukturen) ..........s.sssssssserseronsnsns 22 Västernorrlands län (vägpaket) .......s.sssssseossosessessensrenrerenrnnnn 15 Västerås-Hässlö flygplat$ sm...msmmmssssreresreneseesrenrsnrnrsnsrernenrerrnnnnn nn 13 Västmanland (AXE-SyStemet)............ssssossssrrserssersssrnnressrsnnnns 20 Växjö-Hultsfred-Västervik Järnvägsaktiebolag .................... 23 YrkestrafikfrågOr........ssssossosesesesererrenenerrenrerresernererserrernrenerrnrn rna 3 Yrkestrafiklagen ss smssssessessessersrersersnnerrnrnssrersrerrrrrrerrsrrrrennrrnn nn nn 3, 17, 21 YsStadS hamn ooossseessresersrrresrresrrresrrerrrrrrrererrgrrrerrrrrrrrrrr rese rn rerna a 11, 24 Ådalsbanan ossuusssssassssranssrsrranssrrrnnsrrrnnsrrnnn enn srrnnn rerna sn rann nen anna 19 Ångermanälven (broförbindelse) m....smsssssesresersesernsenrennennnn ana 15 Äldre bilförare (vidareutbildning) ................sssssssssosssoossnnnn 2 Älvsborgsbanan s..nnnnsssssssrsrssssrrnnesrrnnsrrnn sr rnnernnnn rr nnn renarna rena 19 Örebro län (Vägar) ......messsssssonsrenossrrosrrnnsrrnssrrnnnnsrronsrnnrnnnnnnn 15 ÖFESUNdSDHIO...ussssenennsrransrsssenonsrennnrrnnnernnnsrnn sr rnnnnernnn error annen 16 ÖresundsförbindelsernNa ............sssssssssoonsrossssrnnnssennnrrnnnnnnnnnn 16 Östergötland (ny flygplatS).................sssssosssesssssrosossronoernnnnnnnn 13 Östergötlands län (trafikinvesteringar)................................ 5,22 [015754 (276 554 Vr 15 Österlens region (hamnutbyggnad).................s.sssssoosnnnn 11, 24 Österlens Vägar .....nnnssssssossssssosssenssrennrrnssensrnnsnns rens nns non nro nn nnn 15 Östersjön (säkrare trafik) .................sssssssssoosseroossrnoonnrnnnnnnnnn 11, 24 Östersund (utlokalisering av transportforskning) .............. 9 Överlastavgift Urterrrererererersersersrrrrrrrsnnerrnnrererrrrnsererenn snar snaran sanna 2 Övningskörning (lägsta ålder) ...............s.ssessssssssoooensnonnnnnn 2</p>
-          <p>1991/92:TUReg.</p>
-          <p>16</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199192/reg_199192_TU/reg_199192_TU-016.pdf"/>
-          <p>Anslag m.m. SJÄTTE HUVUDTITELN</p>
-          <p>A. Kommunikationsdepartementet m.m. 1 Kommunikationsdepartementet .........s.ssssossosesseensrssnennnnnnn 2 Utredningar Mulb.sssmosssesseseessersererrsrrnrersrrrrrnnernrnnnrnnnnn nn nn nen 3 Viss internationell verksamhet............ssssssossseorssessennsnnnnnnnn 4 Särskilda avvecklingskostnader ..........sesssssssesseserserserrsennnnn</p>
-          <p>B. Vägväsende m.m. 1 Vägverket: Ämbetsverksuppgifter M.M. ..................o 2 Drift och underhåll av statliga Vägar .............sssssesesensnsnnnn 3 Byggande av rikSVägar s......s.sssssessrosseserseesrnrenenrennennrnernrnnnent 4 Byggande av länstrafikanläggningar s...mmmmmsssesersrsrsnsnsnsnnnn 5 Bidrag till drift och underhåll av statskommunvägar..... 6 Bidrag till drift och byggande av enskilda vägar ............. 7 Vägverket: Särskilda bärighetshöjande åtgärder .............. 8 Vägverket: Försvarsuppgifter...........ss.sssssssessssserssossesnensrnnnn</p>
-          <p>C. Trafiksäkerhet Trafiksäkerhetsverket 1 Trafiksäkerhetsverket: Samordning, Trafikmiljö, Fordon och Trafikant.....ssmssssssessesssrssessersresennenernennrnnrnnrnsnrnnnn 2 Trafiksäkerhetsverket: Bil- och körkortsregister m.m.... 3 Kostnader för visst värderingsförfarande.......................---</p>
-          <p>D. Järnvägar 1 Drift och vidmakthållande av statliga järnvägar.............. 2 Nyinvesteringar i Stomjärnvägar s.....mssssssesssnsesnennnnsnrnrnnnnnn 3 Ersättning till banverket för vissa kapitalkostnader........ 4 JärnvägsinspektiOnen s..smmmmssssssseseessresessesresernesrernnrnennnnnrnennnnn 5 Banverket: Försvarsuppgifter 6 Ersättning till statens järnvägar i samband med utdelning från AB Swedcarrierf s....ssssssesssseseseserrsnenenenennnnnnnen 7 Bidrag till Växjö-Hultsfred-Västervik JärnvägsaktiebOlag .......sssssssssseseeseennessnssrenesnrsrnnnsrnernsrnrrnnrnrnnnnn nn</p>
-          <p>E. Sjöfart Sjöfartsverket 1 Ersättning till sjöfartsverket för vissa tjänster.................. Övriga sjöfartsändamål 2 Transportstöd för GOtland .............ssessssssrsesesesesernsnsornnnrnrnn 3 Handelsflottans pensionsanstalt s....msmmsssesessersrsersssrsnssnnnennr 4 Handelsflottans kultur- och fritidSråd ............eseseesssescs 5 Ersättning till viss kanaltrafik m.m. musossesesesserernesrennnnnnn 6 Bidrag till svenska rederier ......ssssssseosessesesnerernnernnsnnnnrnnnnnt</p>
-          <p>15 15 15 15, 4y(FiU29) 15, 4y(FiU29) 15 15 FöU1l2</p>
-          <p>5, 10</p>
-          <p>11, 24</p>
-          <p>11, 24 11, 24 11, 24 11, 24 11, 24</p>
-          <p>1991/92:TUReg.</p>
-          <p>17</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199192/reg_199192_TU/reg_199192_TU-017.pdf"/>
-          <p>F. Luftfart 1 Beredskap för civil luftfart s...smmsssssssssrersrersresnnennnsrnrnnnrnnnnnr 2 Bidrag till kommunala flygplatser M.M. .mmmmmsmserseersnnnnnt 3 Civil trafikflygarutbildning.....ossessessessesessrsnrrrrnernrrnnrnnnennen</p>
-          <p>G. Kollektivtrafik m.m. 1 Riksfärdtjänst .sssnnmsssssesssrssransnnnsnannnenresrrrenrernnrrrnnrrnrrrresn rr nns n 2 Köp av interregional persontrafik på järnväg.................. 3 Ersättning till trafikhuvudmännen för köp av viss kollektivtrafik oosssssssesssssesresrsersrersrersrrrrrrnrrannernennrrrnrnrn eran ennen rann 4 Åtgärder inom den civila delen av totalförsvaret ............ 7 Åtgärder inom den civila delen av totalförsvaret ............</p>
-          <p>H. Transportforskning 1 Statens väg- och trafikinstitUut..............eeeseseeeerrsrnsnnnnnnnnnn 2 Bidrag till statens väg- och trafikinstitut .................--------- 3 Transportforskningsberedningen s.....ssseseeseseesesesennsnenennnnnn</p>
-          <p>I. Övriga ändamål 1 Sveriges meteorologiska och hydrologiska institut ......... 2 Bidrag till Sveriges meteorologiska och hydrologiska INStilUtooooossssereneesrenerrresr renen rerernernennesnerrrnn ennen nere nere r nen e ner n ennen nn 3 Statens geotekniska institut ... 4 Bidrag till statens geotekniska institUut........................-.--- 5 Statens haverikommission</p>
-          <p>J. Telekommunikationer 1 Statens teleNnämnNdÅ s.sssnssssssssssssssssessesesererrererrrrrrr rr rr rr rnrn rr nn rna 1 Telemyndigheten (ny myndighet]............ssssessesesererseennnnnn</p>
-          <p>K. Postväsende 1 Ersättning till postverket för rikstäckande betalnings- och KaSSaSErViCe .ssssssssesseessesseenneenerrnrrnrrsnnnerrnrnnnern rann rnnnrn nr nn nen</p>
-          <p>K. Övriga infrastrukturinvesteringar 1 Ersättning till postverket för rikstäckande betalnings- och KaSSaSErViCe sssssssssreseeersresressrensrerrernrrennesrrernn ner rr ren nr n rna nn 2 Vissa produktivitets- och sysselsättningsfrämjande åtgärder inom kommunikationsdepartementets område...</p>
-          <p>L. Övriga infrastrukturinvesteringar 1 Investeringar i trafikens infrastruktur .............e.e-----c 2 Vissa produktivitets- och sysselsättningsfrämjande åtgärder inom kommunikationsdepartementets område för underhållsåtgärder ..........sssssessssesensorerenesnenennnrenennnrnnnnnnnn nn 3 Underhållsåtgärder för sysselsättning OCh tillVäxXtsssossssseesressrnersrrerernnrsrnernresrrrrrrern nen rr renen nr nn ennen renen</p>
-          <p>FöU12</p>
-          <p>20 20</p>
-          <p>18</p>
-          <p>18</p>
-          <p>22</p>
-          <p>22</p>
-          <p>3y(FiU30)</p>
-          <p>1991/92:TUReg.</p>
-          <p>18</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199192/reg_199192_TU/reg_199192_TU-018.pdf"/>
-          <p>gotab 41587, Stockholm 1992</p>
+          <p>
+            Trafikutskottets register vid riksmötet 1991/92
+          </p>
+          <p>
+            Betänkanden
+          </p>
+          <p>
+            Nr TU1 Vissa frågor om bilismen m.m. Utskottets justering: Riksdagens
+            beslut: Bifall till utskottets hemställan Protokollshummer
+          </p>
+          <p>
+            Nr TU2 Trafiksäkerhet och trafikföreskrifter m.m. Utskottets
+            justering: Debatt i kammaren Protokollsnummer Riksdagens beslut:
+            Bifall till utskottets hemställan Protokollsnrhummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr TU3
+          </p>
+          <p>
+            Yrkestrafikfrågor och riksfärdtjänst (prop. 1991/92:12)
+          </p>
+          <p>
+            Utskottets justering: Debatt i kammaren Protokollsnhummer Riksdagens
+            beslut: Bifall till utskottets hemställan Protokollsnhummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr TU4
+          </p>
+          <p>
+            1991-11-07 1991-11-20 1991/92:28
+          </p>
+          <p>
+            1991-11-12 1991-11-27 1991/92:33 1991-11-27 1991/92:33 1991/92:27
+          </p>
+          <p>
+            1991-11-19 1991-12-04 1991/92:38 1991-12-04 1991/92:38 1991/92:46
+          </p>
+          <p>
+            Godkännande av ett avtal mellan Sverige, Norge och EEG om
+          </p>
+          <p>
+            civil luftfart, m.m. (prop. 1991/92:29) Utskottets justering:
+            Debatt i kammaren Protokollsnhummer Riksdagens beslut: Bifall
+            till utskottets hemställan Protokollsnhummer Riksdagsskrivelse
+          </p>
+          <p>
+            1 Riksdagen 19911/92. 15 saml. Register
+          </p>
+          <p>
+            1991-12-03 1991-12-19 1991/92:49 1991-12-19 1991/92:49
+          </p>
+          <p>
+            1991/92:111
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199192/reg_199192_TU/reg_199192_TU_0001"/>
+          <p>
+            Nr TUS Tilläggsbudget I inom kommunikationsdepartementets område
+            (prop. 1991/92:25 bil. 5)
+          </p>
+          <p>
+            Utskottets justering: 1991-12-05 Debatt i kammaren 1991-12-17
+            Protokoltsnummer 1991/92:47 Riksdagens beslut: Bifall till utskottets
+            hemställan 1991-12-17 Protokollsnummer 1991/92:47 Riksdagsskrivelse
+            1991/92:88 Nr TU6
+          </p>
+          <p>
+            Upphävande av lagen (1989:990) om tillstånd till överlåtelse
+            av skepp (prop. 1991/92:64)
+          </p>
+          <p>
+            Utskottets justering: 1991-12-05 Debatt i kammaren 1991-12-17
+            Protokollsnummer 1991/92:47 Riksdagens beslut: Bifall till utskottets
+            hemställan 1991-12-17 Protokollshummer 1991/92:47 Riksdagsskrivelse
+            1991/92:89 Nr TU7
+          </p>
+          <p>
+            Kommunikationsdepartementet m.m. (prop. 1991/92:100 bil. 7)
+          </p>
+          <p>
+            Utskottets justering: 1992-02-18 Riksdagens beslut: Bifall till
+            utskottets hemställan 1992-03-18 Protokollsnummer 1991/92:79 Riksdagsskrivelse
+            1991/92:141 Nr TU8
+          </p>
+          <p>
+            SMHI, SGI och statens haverikommission (prop. 1991/92:100 bil.
+            7)
+          </p>
+          <p>
+            Utskottets justering: 1992-02-18 Riksdagens beslut: Bifall till
+            utskottets hemställan 1992-03-18 Protokollsnummer 1991/92:79 Riksdagsskrivelse
+            1991/92:142 Nr TU9 Transportforskning (prop. 1991/92:100 bil.
+            7) Utskottets justering: 1992-02-18 Riksdagens beslut: Bifall
+            till utskottets hemställan 1992-03-18 Protokollsnummer 1991/92:79
+            Riksdagsskrivelse 1991/92:143 Nr TU10 Anslag till Trafiksäkerhet
+            m.m. (prop. 1991/92:100 bil. 7) Utskottets justering: 1992-02-25
+            Riksdagens beslut: Bifall till utskottets hemställan 1992-03-18
+            Protokollsnhummer 1991/92:79 Riksdagsskrivelse 1991/92:140
+          </p>
+          <p>
+            1991/92:TUReg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199192/reg_199192_TU/reg_199192_TU_0002"/>
+          <p>
+            Nr TU1l1 Sjöfart m.m. (prop. 1991/92:100 bil. 7) Utskottets justering:
+            Debatt i kammaren Protokollsnummer Riksdagens beslut: Återförvisning
+            Protokollsnummer
+          </p>
+          <p>
+            Nr TU12 Köp av persontrafik (prop. 1991/92:100 bil. 7) Utskottets
+            justering: Debatt i kammaren Protokollsnummer Riksdagens beslut:
+            Bifall till utskottets hemställan Protokollsnhummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr TU13 Luftfart (prop. 1991/92:100 bil. 7) Utskottets justering:
+            Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till
+            utskottets hemställan Protokollsnhummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr TU14 Riksfärdtjänst (prop. 1991/92:100 bil. 7) Utskottets
+            justering: Debatt i kammaren Protokollsnhummer Riksdagens beslut:
+            Bifall till utskottets hemställan Protokollsrhummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr TU1S Vägväsende m.m. (prop. 1991/92:100 bil. 7) Utskottets
+            justering: Debatt i kammaren Protokollsnummer Riksdagens beslut:
+            Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse
+          </p>
+          <p>
+            1" Riksdagen 1991192. 15 saml. Register
+          </p>
+          <p>
+            1992-02-25 1992-03-18 1991/92:79 1992-03-18 1991/92:79
+          </p>
+          <p>
+            1992-03-10 1992-03-25 1991/92:84 1992-03-25 1991/92:84 1991/92:173
+          </p>
+          <p>
+            1992-03-17 1992-04-09 1991/92:95 1992-04-09 1991/92:95 1991/92:208
+          </p>
+          <p>
+            1992-03-24 1992-04-09 1991/92:95 1992-04-09 1991/92:95 1991/92:209
+          </p>
+          <p>
+            1992-04-07 1992-05-07 1991/92:107 1992-05-07 1991/92:107 1991/92:248
+          </p>
+          <p>
+            1991/92:TUReg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199192/reg_199192_TU/reg_199192_TU_0003"/>
+          <p>
+            Nr TU16 - Fast förbindelse över Oresund
+          </p>
+          <p>
+            Utskottets justering: 1992-04-07 Debatt i kammaren 1992-05-07
+            Protokollsnummer 1991/92:107 Riksdagens beslut: Bifall till utskottets
+            hemställan 1992-05-07 Protokollsnummer 1991/92:107 Nr TU17
+          </p>
+          <p>
+            Vissa normgivningsbemyndiganden på vägtransportområdet, m.m.
+            (prop. 1991/92:131)
+          </p>
+          <p>
+            Utskottets justering: 1992-04-28 Debatt i kammaren 1992-05-13
+            Protokollsnhummer 1991/92:111 Riksdagens beslut: Bifall till utskottets
+            hemställan 1992-05-14 Protokollsnhummer 1991/92:112 Riksdagsskrivelse
+            1991/92:264 Nr TU18 Postväsende (prop. 1991/92:100 bil. 7) Utskottets
+            justering: 1992-04-28 Debatt i kammaren 1992-05-20 Protokollsnummer
+            1991/92:116 Riksdagens beslut: Bifall till utskottets hemställan
+            1992-05-20 Protokollsnummer 1991/92:116 Riksdagsskrivelse 1991/92:276
+            Nr TU19 Järnvägar (prop. 1991/92:100 bil. 7) Utskottets justering:
+            1992-04-28 Debatt i kammaren 1992-05-20 Protokollsnhummer 1991/92:116
+            Riksdagens beslut: Bifall till utskottets hemställan 1992-05-20
+            Protokollsnummer 1991/92:116 Riksdagsskrivelse 1991/92:277 Nr
+            TU20
+          </p>
+          <p>
+            Telekommunikationer (förs. 1990/91:20, prop. 1991/92:100 bil.
+            7, prop. 1991/92:163)
+          </p>
+          <p>
+            Utskottets justering: 1992-05-14 Debatt i kammaren 1992-06-01
+            Protollshnummer 1991/92:123 Riksdagens beslut: Bifall till utskottets
+            hemställan 1992-06-02 Protokollsnummer 1991/92:124 Riksdagsskrivelse
+            till regeringen 1991/92:312 Riksdagsskrivelse till riksdagens
+            revisorer 1991/92:313
+          </p>
+          <p>
+            1991/92:TUReg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199192/reg_199192_TU/reg_199192_TU_0004"/>
+          <p>
+            Nr TU21 Ökad konkurrens inom den kollektiva persontrafiken (prop.
+            1991/92:130)
+          </p>
+          <p>
+            Utskottets justering: 1992-05-14 Debatt i kammaren 1992-06-01
+            Protokollsnhummer 1991/92:123 Riksdagens beslut: Bifall till utskottets
+            hemställan 1992-06-02 Protokollsnummer 1991/92:124 Riksdagsskrivelse
+            1991/92:314 Nr TU22
+          </p>
+          <p>
+            Trafikpolitikens inriktning (prop. 1991/92:100 bil. 7, förs.
+            1991/92:17, förs. 1991/92:18)
+          </p>
+          <p>
+            Offentlig utfrågning: 1992-05-12 Utskottets justering: 1992-05-19
+            Debatt i kammaren 1992-06-02 Protokollsnummer 1991/92:124 Riksdagens
+            beslut: Bifall till utskottets hemställan 1992-06-02 Protokollsnummer
+            1991/92:124 Riksdagsskrivelse till regeringen 1991/92:333 Riksdagsskrivelse
+            till riksdagens revisorer 1991/92:334 Nr TU23
+          </p>
+          <p>
+            Teletaxorna samt bidrag till VHVJ-järnvägen (prop. 1991/92:150
+            bil. 1:4)
+          </p>
+          <p>
+            Utskottets justering: 1992-05-26 Debatt i kammaren 1992-06-09
+            Protokollshnummer 1991/92:127 Riksdagens beslut: Bifall till utskottets
+            hemställan 1992-06-09 Protokollsnummer 1991/92:127 Riksdagsskrivelse
+            1991/92:349 Nr TU24 Sjöfart m.m. (förnyad behandling) (prop. 1991/92:100
+            bil. 7) Utskottets justering: 1992-03-23 Debatt i kammaren 1992-04-02
+            Protokollsnhummer 1991/92:90 Riksdagens beslut: Bifall till utskottets
+            hemställan 1992-04-02 Protokollsnhummer 1991/92:90 Riksdagsskrivelse
+            1991/92:186 Nr TU2S
+          </p>
+          <p>
+            Tilläggsbudget II inom kommunikationsdepartementets område (prop.
+            1991/92:125 bil. 4)
+          </p>
+          <p>
+            Utskottets justering: 1992-05-19 Debatt i kammaren 1992-06-09
+            Protokollsnhummer 1991/92:127 Riksdagens beslut: Bifall till utskottets
+            hemställan 1992-06-09 Protokollsnhummer 1991/92:127
+          </p>
+          <p>
+            Riksdagsskrivelse 1991/92:348
+          </p>
+          <p>
+            1991/92:TUReg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199192/reg_199192_TU/reg_199192_TU_0005"/>
+          <p>
+            Nr TU26 Uppskov med behandlingen av vissa ärenden (prop. 1991/92:100
+            bil. 7 och motioner)
+          </p>
+          <p>
+            Utskottets justering: 1992-05-26 Riksdagens beslut: Bifall till
+            utskottets hemställan 1992-06-09 Protokollshnhummer 1991/92:127
+          </p>
+          <p>
+            Yttranden till andra utskott
+          </p>
+          <p>
+            Nr TUl1y till finansutskottet . Inriktningen av den ekonomiska
+            politiken (prop. 1991/92:38)
+          </p>
+          <p>
+            Trafikutskottets justering: 1991-11-28 Finansutskottets (nr FiUl0)
+            justering: 1991-12-05 Debatt i kammaren 1991-12-19 Protokollsnummer
+            1991/92:49 Riksdagens beslut: Bifall till finansutskottets hemställan
+            1991-12-19 Protokollsnummer 1991/92:49 Riksdagsskrivelse 1991/92:108
+          </p>
+          <p>
+            Nr TU2y till näringsutskottet Privatisering av statligt ägda
+            företag, m.m. (prop. 1991/92:69)
+          </p>
+          <p>
+            Trafikutskottets justering: 1991-12-03 Näringsutskottets (nr
+            NU10) justering: 1991-12-10 Debatt i kammaren 1991-12-18 Protokollsnummer
+            1991/92:48 Riksdagens beslut: Bifall till näringsutskottets hemställan
+            1991-12-18 Protokollsnhummer 1991/92:48 Riksdagsskrivelse 1991/92:92
+          </p>
+          <p>
+            Nr TU3y till finansutskottet Infrastrukturåtgärder för sysselsättning
+            och tillväxt (prop. 1991/92:150 bil. 1:4)
+          </p>
+          <p>
+            Trafikutskottets justering: 1992-05-19 Finansutskottets (nr FiU30)
+            justering: 1992-05-27 Debatt i kammaren 1992-06-10 Protokollsnummer
+            1991/92:128 Riksdagens beslut: Bifall till finansutskottets hemställan
+            1992-06-10 Protokollsnhummer 1991/92:128 Riksdagsskrivelse 1991/92:350
+          </p>
+          <p>
+            Nr TU4y till finansutskottet Kommunal ekonomi (prop. 1991/92:150
+            bil. 2:3)
+          </p>
+          <p>
+            Trafikutskottets justering: 1992-05-19 Finansutskottets (nr FiU29)
+            justering: 1992-05-27 Debatt i kammaren 1992-06-09 Protokollsnummer
+            1991/92:127 Riksdagens beslut: Bifall till finansutskottets hemställan
+            1992-06-09 Protokollsnummer 1991/92:127
+          </p>
+          <p>
+            Riksdagsskrivelse 1991/92:345
+          </p>
+          <p>
+            1991/92:TUReg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199192/reg_199192_TU/reg_199192_TU_0006"/>
+          <p>
+            Sakregister 071-NUMIMEL oossoseeeereerererrereerrrererrerernrnne
+            nr rerrrennr ennen nr n enn rean n nn nn 20 AXE-SyStemet..soonsenssessorssseneseensrernnannrsrnarnrsrnrrrnnsnesnesnrnnrnn
+            annen rna nn 20 Abonnemangsavgift, hushållens (teletaxorna) ....................
+            23 Aerotransport (ABA) susmmnmsesresesresresrenerreresenenenerersrnnensnrn
+            enar ann 2y (NU10) Affärsverkskoncernerna (granskning av statliga)................
+            22 Aktieförsäljnilg s....ssssssssesennenernesenrenrerrerenenenenrnrnen
+            anser ennen nn nn nn 2y (NU10) Amatörbyggda bilar s.........sssessssssreserererrensrrsrrnrrrnrnennrenrnn
+            nerna nn 2 Arlanda (utbyggnad, miljö, tredje landningsbana) .............
+            13 Arlandabana..ssssssessessrersenrarernnrsrnrrsrrsnrenrnrenerrenen
+            ennen enn renen nn nn 19, 3y (FiU30) Avgaskraven (direktimporterade
+            bilar) ...............sososs0s0s00n0nn 2 Avgasutsläpp (trafikrytf)
+            s..mmnmmssssssessenernsnenennnnnsennnnsnnnnnenn nn 2 Avgiftsfinansierade
+            Vägprojekt...........ssossessssessosennsrenensnenennnnnr 15, 22
+            Avreglering (flygmarknaden) s.mnmmmnsssssssesesennensnsrnnnrnnnnnnnnn
+            nn 13 Avreglering (långväga busstrafik)..................s.ssssssesssssoronnnnn
+            21 Avreglering och avmonopolisering..........sssessssssessosorsenennonnn
+            15, 22 Avtal mellan Sverige, Norge och EEG om civil luftfart....
+            4 BaltiC LiNnK ooossssssesrssssrernrrrrerrrrensresnrrrnnrrrrnrerrrnnrnr
+            en rnnen nn nr n rn nana 15 Baltiska länderna (pOostavgifter)..................ssssssssessssessorennsnnna
+            18 Baltiska länderna (teletaxOrna) ................ssssssssesesronenrnsennnnnna
+            20 Bannätets indelning....smssessssessssrersrsnrnrenrererrenernernenesnernenenen
+            nn nn 19 BastelefONer .osssssssesssererrersrrrnrrnrrnrnrnnrnrsnrrrrrrerr
+            ner nenrr ennen ennen nr nanna 20 Bemyndigandelag (föreskrifter
+            om trafik, transporter och kommunikatiONer)..........sssesssserssrarserssnsnesersensennnnnnnnnrnnn
+            nn 17 Bemyndigandelag (utjämning av taxor för vissa lastbilstranSpOrter)...........sssssssssssronrennernnrnenrernennsrsrernenennrnennnnn
+            nn 11, 24 Bensinskatten (differentiering)...............ssssssssssesesesesennnnnnnnna
+            22 Beredskapsbank inom trafikverken ...smsssesossrornrorsrsrnrsnnnnnnn
+            3y (FiU30) Bergslagen (persontrafik).........sssssssssesseseneorsrnrnrnrnrnrnnsrnrennnnnnn
+            12 BergslagsdiagOnale....sssmsssssesensrenserernrerrnnerrrrrerrrrrenner
+            rr nennrn rn nn 15 Bergslagspendeln 19 Beställningstrafik 3 Betalnings-
+            och kassaservice (POSten)................sssssssesnensnnnn 18
+            Bil- och körkortsregistret 5, 10 Bilandelsförening........ssessessesesresnrrnrrennesnanrernesnenrnnnnsn
+            rn nn nn 1 Bilavgasförordningen (dispensavgifter) Bilavgifter
+            till Göteborgs Centrum ..smeeessemrsssssrnsnnnnnn 15 Bilfamiljer
+            ssssmnmnsssssesnsesnesrnearseernrernesrrenrrsnnerrrsnerrsnnsrensn
+            nens n er renen nn nn 1 BilffågOr osssnosnsseresenrenerrenrerenennerenranenn
+            ennen renenenrnrnnenenen ennen nn nn nn 1 Bilismens KkOStnader
+            s..smssessessresserernnrrernrerernrsnreneennennnn enn nrnnn nn
+            22 Bilprovning (ASB) s.smmmnsssssesesesrenreneenernesrsrersrersrrrrrrnsrsrsrsnennen
+            2y (NU10) Bilsocial Utredning ......ssssessesesnernranrresrrernnerernsrernernrnennnsnerrnnrn
+            enn nn 1 Bilstölder (åtgärder MOLt) sommmmmssssssesesrenensorsrrrrerernernrnerenrnnrrnn
+            nn 2 BiltelefOn o.ossssssssresoeereerrerneneannennsrnrennesrnrrnerrrrrennrnereresrenne
+            renen nn nn 2 Biltrafiken i Stockholms innerstad............ 22
+            Blekinge län (infrastruktursatsningar) 22
+          </p>
+          <p>
+            1991/92:TUReg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199192/reg_199192_TU/reg_199192_TU_0007"/>
+          <p>
+            BOhuUSbDANAN sissesessreesserssrersreseresressrrenrrrrrrrrrssnrer
+            ren rrennnrrrn nn rn rna nan 19 Bolagisering av affärsverken summmsssssssesseseeresresrererreserrnsnerrrn
+            nn 22 Borlänge flygplats s..mmnnsssssssresrsreenresernesrnerrsennernerrnrnennerernnnnnn
+            rn nan 13 BOttniabanNaNusssssssssesssersrersersrrrsrrsnrersnerrrrerrrnrrrrnrrrrerrsrssnn
+            nen n sn nan 19 Brev (monopol OCh pOrtON).......ssssssessserreesersrrerersrnssrsnnennenn
+            nn 18 137 80705 4 U6 (3 15 Bromma flygplatS sssmnnmssssssrsrsressesereereresnrrrrrerrrrrrnrrerrerrrranrrn
+            nn nn 13 Brukaravgifter s..ssmmmmsssssresrsrseseenrenresrrsrernrrnrerennernsrnenennener
+            nen nnn en nn 15 Bråvalla flygflottilj (F13) smssmmmmmsssrsrsrsesesrerresererenerersrsrnnnrnnn
+            nn 13 Bräcke (AXE-StatiOn).....s.nsmmnnsssesessesseesoreronennersrernrnnrrnrrennrnnrnn
+            20 Busshållplats (StoppförbUd)............ssssssesessorseesesesesesrsnenerrnrnn
+            2 Busslinjetrafiken sssmmsssssrseersrreserreerererrererererrerrrrrrerrnerererrrnnrrn
+            nn nn 21 BUSStraflkosoooesseeseesserersnerrennerrersneneernesnenerrerresnernerren
+            arr an annans ena n nn 3 CitytUNNeld ooooseseseeseesrerrerrerrrnernnerrrnrereen
+            renarna nere arne nen nn renen anna 22 Civil luftfart (avtal,
+            EEG) ossnnnnsssssesseesesseseenersenrerreserrersernnnnen ren 4
+            Cykel-CityfOrdlOn ssssossssreserseenesrenrerersrenrenrrsnerernrenernenernen
+            nn nn erna 9 Cykelhjälm ossoosasesesresasnenernenesesrenesesreresnenesnrnenerennrnenen
+            een ennenrn nan 2 Cykelleder oossnnsresresrenersernreneeneenrenesrreneenerrrrnennsnren
+            arne renen renen ennen 15, 4y (FiU29) Cyklister (vägtrafikregler)
+            m..nmmsssssesreseereenesernnenernennsnennnnnnn rna 2 DaCKelede€hosoosssesresreeereresrrrseersrrnnrennrrrnerrrrrnrer
+            nens nennennrrnn rann nn nan 15 Dala AifPOTLtossssssssrersreeerrererersrensresrrrsrresrrrrrrernrnrnrrnnrrn
+            renen nanna nan 13 DatatjänNSter sissssssssessessrererrerrrrnrrrsrersrrrrrrsrrrrnnrrnennnrnnrnn
+            ner n nanna nana 20 DennisSUppgÖrelS€N...smmssssssesessressressreseresrrnrerrrrnnennrerrrnn
+            nn rna na 22 Diabetiker (förarbehörighet) .............s.ssssssssesresesresresennernnnnn
+            na 2 Dispensavgifter (bilavgaslageN)............s.ssssssossseonoeeneonnnnnnnnnnnn
+            2 Drivaxel- och bOggitrlyCk.....sssssssessesersersesnennenesresnenennennennnnnn
+            nn 15 Dubbdäcksförbud för tunga fordon 15 Dubbelskrov för tankfartyg
+            ........ss.ssesreseesesresreneesenrersennennnnan nr 11, 24 EG
+            (avtal om civil luftfart) 4
+          </p>
+          <p>
+            EG:s luftfartspolitik................. 4 Ekonomiska politiken
+            ly (FiU10)
+          </p>
+          <p>
+            Elektronisk hemtjänst 20 Enskilda Vägar. nssmsssesrssseeeserserneeneesernrererrerrernrsrrrnernernrnernnnnrn
+            rna 15 FKP-gruppen (portoavgifter) m.........sssssssssssseoseonennenenrannennnn
+            ana 18 Farligt gods (lag) ..smmmsssssenrsresesrnrerenernenenenrenenenennen
+            ene enn nnn anar ana 17 Farligt gods (vägar fÖr)........ssssssssssssesesesrerneseeseeresnenernennen
+            enn ana 2 Fartygsregister, internationellt =. smmmmmssssosssressesesnenenesennnnsnsnnnn
+            11, 24 Felparkering (lag) .......sesssssssroenenenenenenenesenenenenernenenensnsnnenenrnenenn
+            2 Flagglage.ssssssssseseerenenrerrenenerernenenrenenerrenennenenen
+            ennen enen een nenenen nan 6 Flaskhalsar (trafiken) usmnmmmssssesessesresseseeseeseernernesnennnnennrnnrnnn
+            nan 15 Flerårs- och fördelningsplaner (Väg)............ssssssessssssorosrnnnnns
+            15 Flygplatsernas rullbanor smosmsssssessersnesenesnenenrsnsnenennsnensnnnnnnn
+            nen 3y (FiU30) Flygtrafik (inrikes, avreglering) smssmmmmmssssessesnensenennenennennennn
+            nn 13 Fortkörning (bÖLter) ........s.ssssseeseseesreseeseeserseesernernenernenennnnnnn
+            anna 2 Fotö— Hönö (DOIOJ.....ssssssesesesreseneseeserrerenesnenenenennenenenennnn
+            nn aren ann 15
+          </p>
+          <p>
+            Fraktstöd (Gotlandstrafiken) m...ssssssssrsreseesernensennesennennrnnnnnna
+            11, 24
+          </p>
+          <p>
+            1991/92:TUReg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199192/reg_199192_TU/reg_199192_TU_0008"/>
+          <p>
+            Färjetrafik ...s.ssssssossenenesesenrnsnrnsrerssrsrnerrrnerererenerenennrrnenrnrnn
+            rn n rn enn 11, 24 Förarutbild ning ...ssssesssesrenrennraseeneenrsnnrrnennererennrrrnnrrsrsnnn
+            nere nan nt 2 Förbifarter (avgiftsfinanSsieriNg) ssmmmmmnnsssssresessnesrsnesnnrennnnnn
+            nn 22 Föreningsbrev (pOStavgifter) ...........s.sssssoeoeseornornrsnenennennrnn
+            nens 18 Första hjälpen (utbildning) smsmmmssessssesesroreseenrnrsrsnennennernnn
+            nr 2 Försvarsuppgifter (vägverket, banverket)...................s.ssss0-
+            FöU12 Gamla Uppsala (järnvägssträCkning) .......................-
+            borserenns 19 Genom fartsVägar s.sssssssessresersrrsserrsenresrransnerrernrnserr
+            reser n ren n nn nn nn 15 Glesbygdsbilismen ssssssnssssrsrsesresosrssnrnesnenererrnerenenrnererennrnrnnn
+            nen 22 Gods- och persontranSspOrters.....s.ssssssssreserersnrenrenrsnrennsrnnnnn
+            nn 22 Godstrafiken (järN Väg) s.snmmmerssrereseorenereresesersnesnrrnernennernnrnn
+            nn nn 19 Gothia AirPpOTltosssssssssresreseorerrereseerenenrannrnererrernennernrrnrrnenn
+            nr nn nan 13 Gotlands VägNät s.snnsnsssssrseerererrrrsererenrnnernenen
+            annan renen renen enar annan 15 Gotlandstillägget s.smsnmssssssssesenesnsrsnsrorsnernrrnenenrsnennrnen
+            renen ennen nnn 11, 24 Gotlandstrafiken ss ssmmssseesrssesssrserrerrererrrrerrerrrrresrrrrennnnrn
+            nn rann rna nn 11, 24 Gunnarn fältet s....s.nnmsssssrereererrrneserrenennennrrsrerrern
+            narr ernernerrnnn nr nan rna a 13 Gångbaneren hållniNg......sosssseosnsrsenenssrnsrernsnsnsnsnesrnrernrrennn
+            nen 2 Gångbanor/cykelbanor (Separering) s..msmmmsssosnsrssosensnnnnnnnnen
+            2 Gävleborgs län (infrastrukturinvesteringar) ......................
+            22 Götalandsbanan sssessnsessrerererrerrrreserssrnennndernrrrnrrnnnsrrnnnn
+            rr n nn rna 19 Göteborgs närtrafik sosmmssssssssesrerseseoreneenrsenesresrenesrerernernernernnenn
+            19 Hagfors— Stockholm (flyg) = nssmmnssssseresseresrenesrenerrerenrnnernrnnn
+            nar 13 Hamnarnas och sjöfartens rOll ssmoomesssssssssessrsresneressrennnrnrnrnnr
+            22 HamnfrågOr sssnmsnerenenrenenersrnrnrnansrnsnsnnrsnenesrerrnrrnrnenensnnrrn
+            ene nennna 11, 24 Hamnområdet i Stockholm s....smnssressssreroeereresnrrerrnrrerernnrr
+            rn nns 11, 24 Handelsflottan (pensionsanstalt, kultur- och fritidsråd)
+            .... 11, 24 Handikappade (MmOpeder)...smmmmmnsrsresreseerenenreneenererrenennrnernnrn
+            en 2 Handikappade (telekommunikatiOn) s...mmmmemseesessnssennennnnnn
+            20 Handikappanpassning 14 Haparandabanan............... ons 19
+            HAargShaMl ssssssosereseesraresenenenenrenerersesrenrereererenren
+            renen er err enn n ennen nn 11, 24 HastighetsgränSs€er s.mmmmmsnsssseenenesrnrenssnern
+            nn 2 Hastighetsövervakning 15 HaverikOommiSSiONCN .usmmsnsssesesesresenrrasresrnenrennesr
+            renen nennenn rann nn nn 8 Hemavan (flygplatsutbyggnad) ...mmmmmmnnsnssssreneneenenrsnsnnennnnnrnnn
+            5 HerrljungabanaD...mssnsssesssroseeereserersrennsrsrnnnnrrrrrnrrrnnnnrenennnn
+            enn 19 Hultsfreds flygplåtS sm..ssnmmsssssasseseserorenrennsnerresnrrrnnnrenederenrrrnnnnnn
+            13 Human telefOnNi...ssssmmssssreresreneresrernesrenrnsnrenrenrarnernnnnrn
+            nr rs nn nr annan 20 Huvudmannalagen smsmmanssrsrsasesnenernenrennresrrnnsnernrennrrerrernrer
+            nn ennen 3 HuvudvägssyStemet....mmssessesrsresessersrsrererererenererenrnrnernernnnenennent
+            3y (FiU30) HyrbilsSyStem msmsnssesresosesesrensrsenrenrnnnnrnesenenen
+            ene renen ennen rn nnn ent 1 Hälsokontroll (körkOrt) ..ssssessesreseeossrerenesrererrerenenrennnnnnn
+            nen 2 Höga kusten-brOn s.ssmsesesesesrsreseresenenrenenenenenenrnenenenennnrnnen
+            enn enn 15 Högersväng mot rött ljUS..........sessssesssresseoessenssrnnennensnnnsnnnnnnnd
+            2 HöghastighetStåg ..........ssesssssosonsossesesenesnsrnrenenrnensrnrnrrnenenennnnnsn
+            19 HÖgpriSsregleriNgen m.msmmssrsroesrsrseseererernrereresrrnenrerenenren
+            ennen nen en 11, 24
+          </p>
+          <p>
+            Information till riksdagen (tel€).........sssssssssoseosessesnrnnsnnsenn
+            nar 20
+          </p>
+          <p>
+            1991/92:TUReg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199192/reg_199192_TU/reg_199192_TU_0009"/>
+          <p>
+            Infrastrukturåtgärder för sysselsättning och tillväxt ...........
+            Inlandsbanan INlaNCSVägssooesseeseeessrresrenrersernrerrerorerrrenrerarrrrrenrrnnrrrnerrnrrnn
+            nr nn rna Interregional persontrafik.... Interregional tågtrafik
+            .......nnnnsssssssesseresesrenerennenenennanenennennnnnn nan Investeringar
+            i trafikens infrastruktur s........s..sssssssssssorrnnnr Investeringsplanering
+            (samordnad investerings- [05 ETT 8117: Isbrytarnas lOkalisering........ssssssseseneeneennesnsnreresnernrnnennnrnennnn
+            nn
+          </p>
+          <p>
+            Järnvägsforskning (VTI. .ossmmssssessssssressrsenseonernnernnrnrnnrnnnnennnnnn
+            Järn vägSindUStliflassssssssseseseseerersesesnrrnrennrsrerrernerrrnrrrnnnnrn
+            nn nn nn nr Järnvägsinspektionen Järnvägslinjer (vissa): Boden
+            — Haparanda s...ssmsseseseeseesensrenresrenennernernrnnennennen
+            nan Borås — GÖtebOTrg s.nsnsnsseresesesrsrenererrenernerenenrrnenen
+            renen ennen nn nana Eskilstuna— VäSteråS ..........essossssssanesennessenenenenenenenennnnnnnnnn
+            Falköping— JÖNKÖPING. ...ssseseseseereseseneereeneneenstennenerennennnn
+            Halmstad — Hässleholm sssmnmssssssrssssressessrannnsnnnrnnnernnernnnnn
+            Helsingborg— Landskrona Härnösand — Stockholm ....sssssessersessersrsnernrnnernesnesnrnnennnnnr
+            Karlskoga— ÖFEbrO.......ssssssosoosssssroossersreronnessssrennnnsnrnnn
+            Karlstad — GÖtebOTrg a..msmneeseseesneneenesnnenrereernernesnennernnrnrrnen
+            nen Kil— GÖtebOrQ.sssssneenrerennrennennennnenrernnnnerresrnennnernennnrrnnnnnn
+            nan Linköping— Kalmar susmmsssesesersrssesssoererereernrerrnernrrernrrrnnnnn
+            Mjölby — Hallsberg...smsssessssseseresseseneerrnsrrerererrrssnrrrnrrrnrnn
+            nr Nässjö— Jönköping..... Simrishamn — Malmö Stockholm — Oslo
+            Uddevalla— Borås Uppsala — GäVIe sissmasseseseeserreseenernrnresenernrsrernerrenrennrrnrnnrnnrnnr
+            Ystad — SimrishanmiO...mmmmsssssssrerersrersesrnrnsrrernrnrsnnnrn
+            rna nr anna Örebro— Kristinehamn s..mmsmssusssrossrosssroossronsrronsrrnnnnnnnnn
+            Östersund — Storlien ........ssssessosssossronssseorrnnsrrnsrnnnrnnnnn
+          </p>
+          <p>
+            Kalmar flygplåatS ....snnmnnnnssssennennenesnennnnnennrnnn Kalmar
+            län (väg- och järnvägsnätet) Kapellskär ossssssssesrenoesesrereoerererenesnererererrererrerederrerenernenennrnen
+            ennen Kattegatt SOm inNnanNhaV....mmssesesseseesersersrsenenenrennesnsnnrnnrnnennnn
+            nn Klarälvsdalen (Väg OÖ2).smmmnsnsssssessesnenesnrernesnrsesrnesnernernernrnnennnn
+            nr Kollektivtrafik (KONKUTIeNS) ....ssoseeseoresseeseneneeseesernenrrnrnnn
+            anat Kollektivtrafikens handikappanpassning ..............sssseseernn&gt;
+            Kollektivtrafiknämnden (lag) Kollektivtrafikområdet (miljöteknisk
+            utveckling) Kombitrafiken......sssessssoseeseorersrensennnansrannnrnnnrernennrrannernnennnnnn
+            nn nn a Kommunal ekonomi inom kommunikations-
+          </p>
+          <p>
+            departementets OMråde .....ssssssessssrsrssnsnsrsensenensnnrnensnnnnenenn
+            ann Kommunala flygplatser (bidrag) s...s.mssssssssesesennenenennenennnnnn
+            ann Kommunala Vägar sommnmssresesrersressrennesnrensnrennesnnennernnesnnrnnnnnn
+            annan Kommunikationsdepartementet (anslag) ...................s.s00n-
+          </p>
+          <p>
+            3y (FiU30) 5, 19 15 21 12 22
+          </p>
+          <p>
+            22 11, 24
+          </p>
+          <p>
+            9 3y (FiU30) 19
+          </p>
+          <p>
+            19 19 19 19 12 19 19 19 19 19 19 12 19 19 19 19 19 19 19 19
+          </p>
+          <p>
+            11, 11, 24
+          </p>
+          <p>
+            4y (FiU29) 13 15 -
+          </p>
+          <p>
+            1991/92:TUReg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199192/reg_199192_TU/reg_199192_TU_0010"/>
+          <p>
+            Konstfibermaterial (SJÖKOFL) ..........ssssssssssosesosnnernenenennnnnnnnnnnn
+            11,24 1991/92:TUReg.
+          </p>
+          <p>
+            Konstruktionskrav (sjöfart, miljö) s.....ss.ssssssssssrrssrsssnernnennnnn
+            11, 24 Kringfartsleder sssmmmsssssrsseesesneseenennesnnererernsnnrrernnernnrnrrnernrrnnn
+            nn en 15 Kust-till-kust-DaNaN ssnnssssessresersrensnrsernnerrrennnerneserr
+            rer rennen nen nr 19 Kustsjöfartens utveckling ......ssssssseseesnessensesrnernerensnrernrnrrnennnnr
+            11, 24 Kvinnoperspektivet på trafiksystemet................sssssssssonnnnnnnn
+            1,9 Kör- och VilOtiders......ssssssessreserseresennennnesrnrnnnernnernnnern
+            nns rnnnnn nn 17 Körkort (omhändertagande, förnyelse) ...............s.ss.sss0sssnnnn
+            2 Kör kOrtSregiStret......ssssssseseseorssessesnnersnereenesnesnesresnnernrrnnnnsnnn
+            nn 5, 10 Körkortsåterkallelse 2 LTA-anSlaget oossnssnesreseerenresneneeneneenrernnrrnnenrernrrnnennen
+            nen rnn renen nen n nan 15 Landvetters flygplåatS s...snmmssssssessesserensnrnnnersnensnesnnrnnn
+            nen nnnn nr nan 13 Landvetters flygplats (järnvägsförbindelse)
+            ...............s.ss00n0nn 19 Landvetters flygplats (vägförbindelse)....................
+            mrossesansnnn nl 15 Lastbilstransporter (lag om utjämning av taxOr)
+            ................ 11, 24 Linjeflyg AB omosnnssssssssseesesnenrenenrennrernsnrnsnnnrnrn
+            nn - 13 Linjesjötrafik på Gotland (koncessioner) 11, 24 Linjetrafik..oossssssssseseneneneerenenesrsnenenernnannrnnensnrnnenenerner
+            renen enn n rn nen 3 LOtSNÅNG ooosesseserresrernerrernerrrrrernersern
+            ennen rrnn rn ernn ene er ner n ennen nen nrn nn nen 11, 24 Luftfartsverkets
+            organisation och verksamhet ...................- 13 Länshuvudmännen
+            (statligt StÖd)............s.sesssessesrsersersesnsnnn 12 Länstrafikan
+            läggningar ..ssmmssseseerenrenrenenennrrenernanenn enar n enar
+            en anna 15, 4y (FiU29) Länstrafikmonopolet 3 Marknadsdomstol m.m.
+            (lag) smsnmmnsseresrerersnsrrnnnannnnennnnn nerna nn 4 MellanselsSpåret..........ssssssosesesenesnenennennenenrenennenernennenennsnnn
+            enn nn nn 19 Miljöfarlig last (SJÖfArt) sosmmmmmsssssesnrseneenenennenennenennenennsnnnrnnnen
+            11, 24 Miljöpolitik (trafikens infrastruktur) sm... 22 Miljövänlig
+            fordOnsdrift s.........ssssssssseseesesenennenerernrnnenennnnennnnn
+            nn 9 Miljövänliga transporter (Sjöfart) .......s.sssssssssesssesnesennsnsnnnnnnn
+            22 MODbiltelefOn ..ssmssssseseeerererrerrerrrrrrersnrrrnrrerrrrnn
+            ran nrr nr annen nen en nan 2 Mopeder för handikappade (motorstyrka)....
+            2 MotorfordOnsSstÖlder.........sssssessessresenreessrerrersrnrsnrnnrnerrrrnnnrn
+            nn nn 2 Motorväg (E 6 genom BOhuslän).......ssssssssssesennenesnenennnnennnn
+            15 Motorväg (hastighet) ..nnnnsnssssssesrersrererranrererenrerenennenennrnen
+            enn nn nn 2 Mälarsjöfärten s..smmmsmsesesrereresesenennenernenrererrenen
+            renen ennen nnnrn enn nn nn nn 11, 24 Mörkerkörning (utbildning)
+            s..nmmmmsnssesresesesrenenrenennenennnnnnennnn 2 NKIJ-banan 19
+            NTE ooo oerrerreseersesresresesrerrerrereenesnerrerrrrrrnrnrrrenrennenn
+            enn nns nerna nanna nn 10 Nationella flyglinjer sosmmmmsssssssresrerssrasesnrenrensnensnernr
+            rann nrnn nn nn nan 4 Nordkalotten (järnvägsinvesteringar) s........ssssssssossonesennnnnnn
+            19 NOFrdlänkel osssssessererreeserranserrenserasernnnnrerernrnrrnnnnrrrnnnnrrrnn
+            rr nnrn nn 19 Nordström &amp; ThuUlif...ssssmsssnsssssersrererereresnernrnrerrrrrrrrrnnrrrr
+            enn rna 11, 24 Norge— Väner-banalDu...smmnmsnesreseoneennesnresnsnrennernennsrnrsner
+            nen nsnnn nn 19 Normgivningsbemyndiganden på vägtransportområdet
+            .... 17 Norra Stambanan sosmnnssessrssrsrereresrereessnnneererrrernrnrrrnr
+            nn ner nnrrn nn n a 19 Norrköping (spårväg) 15 Norrköpings hamnregion
+            11, 24
+          </p>
+          <p>
+            11
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199192/reg_199192_TU/reg_199192_TU_0011"/>
+          <p>
+            Norrlandskustens järnvägstrafik 19 Nynäshamn (SjÖtrafikJ........ssssssseseesesseseesesreresnesrnrersnnnnen
+            11, 24 NätutbyggnadsSfrågOr s.......sssssssessrseseresessrsrsrsrseserersenerenenernrn
+            nn nn 20 Offentlig utfrågning om trafikens infrastruktur .................
+            22 Offentlighetslagstiftningen s..mmmmmmssssssrstroseseereererrerresrernrsnnrnnnn
+            ns 22 OljeutSläPppel ssssssssessersresraerseserresrerrernerrrrerrererrerrenrnnrerrerren
+            nn n rn nr 11, 24 Omaxlingsterminal i Haparanda. ........sssssersessersesnesersrnssrrnnnnnn
+            19 Ostkustbanall sussssessssrersrersessrssrrserrerrerrnerrrrrrrrrrrrrrrrrrrrrrrr
+            rr nn rna 19, 3y (FiU30) Parkeringsan märkning. ...seesssessrersrereesersrerrererrrsrnrerrerrnrrnrnrn
+            nr 2 Parkeringsbolagens verksamhet s...sssnmessessessresrsersrrsrrnrsnrnennnnnn
+            2 Parkeringsplatser vid stationer 19 Pendeltågstrafik (utbyggnad)
+            ............................. 19 Person- och godstransporter (utredning)
+            22 Persontrafik på järnväg 12 PilotutbildnNiNg.......sessssossosesrssenneserserrerrereenennernrn
+            sen nrsnan ann rna n nn nan 13 Planeringsramen för anslaget Investeringar
+            i trafikens in frastrUukKtUrosssssssesssesssreersrerreseresrernrrsrrernrenrrsnnsrsnntnrrern
+            nen nnnnn nn nen 22 Planläggning och byggande för trafiksäkerhet
+            .................... 2 Portoreglerna (Norden, Baltikum) s....ssssssssserseoseesersenrennnn
+            nan 18 Postverket (bOlagiseriNg)..........ssssssssseneooesenesennrnennrnenennnn
+            ann nn nn 18, 22 Postverkets verksamhet ...smmmssssssssersenseseerserersrernesnenrnnn
+            enn nn rna nan 18 Psykologiska faktorer för trafiksäkerhet.........................s...-
+            2 Privatisering (statliga fÖretag).................sssseereosersesseorenrerrrennn
+            2y (NU10) Produktionsbolag GOtlanC.........sssssessreesererseeresssrressrerernrnnrrnnn
+            15 RederistÖdet s.osmnsnmssrerrsssererererrrsrsresesernererererrrerersnrrrnnrrrrrrrnrrnn
+            ann 11, 24 Reflexer (oskyddade trafikanter och lastfordon) ................
+            2 Regionala infrastrukturOrgan s.....s.sssesressreseesrersrensnrerrenrnrrn
+            nan 22 Regionalpolitiska hänsyn (trafikens infrastruktur) ............
+            22 Regionaltågstrafik s.....s.ssssssssossssrsesensesensensrsrnsesensenenenennennnnn
+            anna 19 Registreringsskyltar (omhändertagande) .........................-s--
+            2 Renar (järnvägsdÖdade)...........ssssssssssesesesesessesenesnesenenrennnnnnn
+            nn 19 Resultatutjämningsbidrag (flygplatser) ...................ss.s.ss-s000&gt;
+            13 Riksfärdtjänsten 14, 4y (FiU29) RikSvägar ......sns.ssnn0nn
+            5,15 Rullskidåkare........... 2 Räta linje osssosssssesseeesesrrersrereesrnenrerrrrsrrennrnnernnnn
+            rann ann 15 Rött ljus (högersväng/kOrSniNg) ......s.sssssessessresserssnnssnrsnnnnn
+            nan 2 SÅS oooterrersrsrereresesnersreerrererrerersererrenenerererenenen
+            reser ere eran en nen en near n ann 13 S GT ooo oerrreseseereresesosrenrererrrerenerenrerenennerenenenennen
+            eran ennen en renen en nanna enn 8 SJ:s [13 521 65 0) CV a VR
+            19 biljettSySte sossssssseseesresesrrsresresesrsernerernennenrennen
+            nere rn nen nerna nn 19 [970] É F:a (SN: be FR 19 kombi- och kontinenttrafik
+            ..............ssssssssssrossrsrsrsrsrennnnn 19 KONCEIN ooooersresrsesrserereserersersrsrrsnserersrrernrrrrnersnnensnenn
+            enar en rn rna 19
+          </p>
+          <p>
+            StatiON EL oooosseseerererersrerrereererrrererrrrreresnerrrnenrenn
+            anar n ennen rna nn nan 19, 3y (FiU30)
+          </p>
+          <p>
+            1991/92:TUReg.
+          </p>
+          <p>
+            12
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199192/reg_199192_TU/reg_199192_TU_0012"/>
+          <p>
+            trafikeringSrätt msmmmsssessesssnessrrsresnrsnerrrerrenrsnererenennerennennrn
+            nn upplåning
+          </p>
+          <p>
+            Samordnings- och samverkansfrågor (järnväg)...................
+            Signaltekniker (utbildning) ...........ssssseseessesersesesesenrenenseronnnnn
+            SimulatOrkÖrnNilg .....sesesssesrrerresrresrsrrrerrrrsrrerrrnrerrrrenrrrnrrnrrnn
+            nen Sjuhäradsbygdens Vägar. ....s.sssessesesssrssesrreneerserresrsenernenrsrenrnn
+            nen Sjöfart m.m. (förnyad behandling) s.......sssssssessesesseserrerrsosrnnr
+            Sjöfartsverkets verksam het........ssssesssosseoresrrererresrersrrerrrrernrr
+            nr Sjöförseelser (OrdningsbOt) ...........sssesssesssrsrserrsreserernenernnnnnn
+            en Sjökort (konstfibermaterial) Sjötrafik (regler) ................ss00000
+            Sjövärdighetskontroll Skagerrak som innanhävV ssmmsnsssesseserrsesenrerseresrsrserserernenennnn
+            nen nn Skogslänen
+          </p>
+          <p>
+            VägVäSENde ooooseesreererersrererensrerererrrnnrerrnrrerrrsnernennenr
+            enn nn n nanna Skolbussar (barn Stående) .......sssssesesrsesenrsrnrnenrsrenenrnnnnennnnnnnnn
+            SKkOISKjUtSNilg.ssosseseesreseerreseesnerrerrsnnrsnrerrennen nare
+            err snar enn enar en nan SkyCab-projektet .smsmmsnssserssesrernesenrseenenrenenrenenrerersnn
+            ene nnnnnen eran nn Skånelänens trafik huVUAManD .smmmssssserersrererersrrsrnrrsrrrnrnnn
+            ennen nn SMåDIlAL oosoossessererereererrerererrererrererrerrererrereererenrrrsrsen
+            een senere nan nn Snabbtåg Stockholm — Sundsvall. ....ssssssssssssssrssenerenersesennrn
+            rna Snabbtågstrafiken .........sssssssososesenersenenenersnnenerersrrsrnnnnnen
+            nns nn nerna en Sovvagnsbeställnilg....mssssssssseseeseernesrennsrenesrsrersrn
+            enes nrnensnnn nn nn Sport- och fritidsfordon (buller- och utsläppskrav)...........
+          </p>
+          <p>
+            StatsKOMMUNVÄgATL sissoeeresssereereersererenrerresrreresrenrrnerernn
+            nen rn rensa nn Stockholm — Dalarna (snabbtågsförbindelse) ......................
+            Stockholms kungsådra Stockholms län (vägar) Stockholms Skärgård
+            s.ssmmmsersresesoesrseererrererrsrerererensererenener ennen nn
+            Stockholmsregionens flygplats s..mmmmmmssssssesessessenenennennnnennnnnn
+            nn Stockholmsregionens kollektivtrafik ......nnssmssssssesesesennnnnnnna
+            StOMJjärNVÄgAL oossussesesrsrrersesernerersrnenenenenrner ersten
+            rensar san sn nan sn nen er nan StorstadsöverenskommelSerNa.....s.ssseessersesrenernenenernennsnennrnn
+            ann Storstädernas trafiksystem... .mmsssssessreseensenrenernerennsnernnnennrnn
+            enn Strömsund (AXE-StatiOn) s.smmmsnesressesesenrenennsenrnenenennsnsnrnennnn
+            StångådalsbananD.mmmmssssesesrerererrereeresrerrererrererrrrnenenener
+            rann n nn ana StänklappPaår sossssssssreorsererererersrrrerennrranesrsrarnrrrrrrrnrrnnrn
+            ns rr ann nn rna Svealandsbanal..ssmmssssesserrerrenrrnrrsrrsnnesnern
+            ennen nen enar een ennen enn nn
+          </p>
+          <p>
+            12 19 5,8 19
+          </p>
+          <p>
+            19, 3y (FiU30)
+          </p>
+          <p>
+            19 5 2 9 9,22 15
+          </p>
+          <p>
+            15, 3y (FiU30)
+          </p>
+          <p>
+            15
+          </p>
+          <p>
+            15, 4y (FiU29)
+          </p>
+          <p>
+            19 15 15 11, 24 13
+          </p>
+          <p>
+            1991/92:TUReg.
+          </p>
+          <p>
+            13
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199192/reg_199192_TU/reg_199192_TU_0013"/>
+          <p>
+            Svegs flygplats msmnmmsssssrsrsssnsrsesesrnenenenrsrsrerernenrnrnrnenenen
+            ene en nn nn rna 13 1991/92:TUReg.
+          </p>
+          <p>
+            SVinesSUNdSDFON..ssssessesseeserrsrsrrannerrsrrnrrrrsrnrennrrrrnnns
+            nns renar nn eran nn 15 NIVA [67:16 (3 19 Söderköping (riksväg
+            E 60) ......s.ssssssesseoresenresenenresenrenennnnernn nn 15 Södertälje
+            Kanal ms smmssssrsesssernenereernennerennennnnennerenennrn ene
+            nen ennen en an 11, 24 Södertälje (MOtorvägsbrOn) ..........s.ssssessrrsssrerresserssrennnennnnnnnnn
+            15 Södertälje SYC smnsmmmnsnsrsesreresenenernenennenennennenenreneren
+            renen ennen enn nn annan 15 Södertörn (trafikflygplatS)...........s.sssssssssssssoseeseesesnnnnennennrnnnn
+            nn 13 SÖdertörnS Vägar smmomsnessssseseererreresnenrersernnennrnnnenrnnenr
+            essensen n nn annan 15 TSV — vägverket (sammanslagning). .........sssssoeessesersreneesnesnnnr
+            10 Talma sameby (vägförbindelSse) .........s.sssesesesrneseesesnesennnnnnnnn
+            15 Tankfartyg omnmsnsrsrersreresenernarsereseresrernenrenernarnerrennener
+            ennen en nrn ennen en nnn 11, 24 TaxameterkrävV onmmmmmmasssssressreseasrrssrersorersrrrrrrrrnnrnnrrnnn
+            rn nen nn rn anna 3 Taxefrågor (tel€)...........sssosoroesoereneseesesrereerenrernenesrrrerrerernrnerrnnnn
+            20 Taxibilar och icke-taxibilar........ssssssssssessensensesnnnennernnnnnnn
+            rna 3 Taxor (utjämning) för vissa lastbilstransporter...................
+            11, 24 TelefOnitjänSter ..sssmmnssssssessesrenesnennennrnnnennennennernernennnenern
+            renar nn nn 20 Telefonkatalogens Upplaga. .....seseessesernsreneesreneennenernnernrnnrnnn
+            nr 20 TelefONtaXOL oosooseseasreserenrsessrrrrsrrsrrsnrernnnnrnnrrrnnrrnnrnn
+            enn nrnn nen nn rn nan 23, 1y(FiU10) TeleNnämnNdÅEenN sossesseesereeersrsssrerrenrrrnrrrrnnrrrnrarnn
+            ren rrnnr ennen renar n rn anna 20 Teletaxa till länsmyndigheter
+            s..mmmmmmsssssersresrnersrrrnnrnnnnnnnnrnnn nn 20 Teletaxor (Baltikum)
+            20 TeletaxXOrNa........sssssssosennannn 23, 1y (FiU10) Televerkets
+            bOlagiseriNg.....sesssesssoneeserserennenernreneenernnsrnennrnnn
+            nr 20 Televerkets verkSamhet.....ssssssssssreeeeererererererrererererrrrrrrnnnnnn
+            nn 20, 22 TeleverkskOnCerNenN smossssssssessserssserersserrerernrrerenrrerernrnrnnnnr
+            ren nar 20 Tillstånd till överlåtelse av skepp (lag) .............sssssssssssosnsnnnt
+            6 Tilläggsbudget I..... 5 Tilläggsbudget II 25 Torsö (broförbindelse)
+            s.msnmsmssessasrensrerrrnrsrnneeneenenrennennnrnnnn nanna 15 Trafik,
+            transporter och kommunikationer (lag)................. 17 Trafikens
+            infrastruktur (anslag, investeringar) ................... 5,22,1y(FiU10)
+            Trafikens mellanfOrmer s..ssmmsssrssresssrersrsenrsrrnsrennnennrenn
+            renar nnn anna 1 Trafikeringsrätt på järnvägsnätet............es.ssssessssssssennonnnnnnnnnn
+            19 Trafikeringsrätt på Stomnätet .......sssssssssssssresesesrenennerennennnnnnnn
+            21 TrafikflygarutbildNing ......ssssssssseoseesneneennsensrenesrnernnnnnnr
+            nr nr nnn ann 13 Trafikförsäkring (kontrollmärke) m..mmmmmmssrsseseseeresennrsennenennnn
+            2 Trafikhuvudmännen (köp av viss kollektivtrafik) .............
+            12 Trafikleder i StockholmsregiOnen sm.smmssssssssrsrsersnenernennenenen
+            25 Trafikplatser (förbifärter).............ssssssssosssseosrsernennnenernnennnnnnnn
+            22 Trafikpolitikens inriktning.....eemeeessseeseseesesrerenenernsnnsnrnnenennn
+            22 TrafikSeparering....ssssssseseseneneneereneenererreneenennenenesnenennenennennn
+            nns 2 Trafiksäkerhet och trafikföreskrifter s.....nnsn.ssoseseenesnnnnnnnnnn
+            2 TrafiksäkerhetsinformatiOnN s....mssssessesesessesrenenesrenenreresnennnnn
+            nan 10 TrafiksäkerhetsinspektiOn........sssssessssrssesenrenesnerseresrernennennrnnn
+            nn 10 Trafiksäkerhetsråd .......s.sssoseoreneseresneneeneereneerenesrernernnsrenrsrennrnnn
+            nn 10 Trafiktillstånd — luftfart (KONCeSSiONer)................s..ssss.00&gt;&gt;
+            4 Trafikupphandlingen (handläggningsordning)...................
+            12 14
+          </p>
+          <p>
+            Trafikupphandlingen (rullande materiel)........ss.ssosoosoonnnnnnn
+            21
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199192/reg_199192_TU/reg_199192_TU_0014"/>
+          <p>
+            Transport av farligt gods (lag) s.smnmmmmnssssenrenreneerenennennnnnnnrnnnnn
+            Transportforskningsberedningen s..mmsmseessessresssneenernnnennnnnnn
+            Transportrådets avveCkling.........ssssssssesssesnensenennenennennenesnnnnn
+            nn Transportstöd (GOtland) .......sssssessesseesesrrseennennernrnnnennennnnnnnn
+            nan Transportverk, gemensamt ssmmesssesssrrsreserenerernnrennnnrrnnrrnnrnn
+            nn Trelleborg— Sassnitz (tågfärjeförbindelse) ...........................
+            Trollhätte kanal somoossssssesesrsessesrerrsrnrrsrernnernrrnnrrennrennnernn
+            nr ann nn nn Tunga dieseldrivna fOrdOn s....ssesseeseeseeresrenereressrsnnennrnnrsnnsnnnn
+            Tågresandet (mervärdesskatt) ...........sssssssonosnsosnenenennnnnnnnnnnn
+            Tågstationer (in- och utfartsparkering) .............sssossnsnsnsnnn
+            Tåguppehåll i snabbtågstrafiken .............sssossosoeoeoennnnnnnnronnnnn
+          </p>
+          <p>
+            Umeå sjukvårdsregion (flygförbindelser) ..............ssssosssnnnnn
+            UnNgdOmSbil:snnnsseseeseesersrrneesnenrrresrennerrerernnenerrrrrrernrrnn
+            rn enn nn nn nen Uppskov till 1992/93 års riksmÖt€ s...smsesesesessrorornrnsnnnnnnnnsr
+            Utländskt kÖrkOrts...ssssseserseseaseenrrennnrernrsnnennnrernnrerresnnnernnrrnn
+            nen Utsläpp från bilar smssmmsssssssessseseneenerrnerrsrenenrnnrnnenenrerennrnernrn
+            nn nan
+          </p>
+          <p>
+            Varningslyktor (stillastående lastfordOn).........................----
+            Vinga lOtsutkik smommsssseseseersesesenrsreneenerrrnenrerenrerererrernerernener
+            ren ent Vårgårda matar/pendeltågssyStem...........s.ssosssnsnsnonnenennnnnnnnnnn
+            Väg- och gatutrafik (avgiftsfinansiering) .....m.....s.s.s.ssesnsnsnn
+            VägansSlagena.sosssessesreseesrerrennesrererresnrrrrrrnennsrer
+            nerna nren enn nnr nr n nn nen Vägarbetares säkerhet Vägavfarter
+            (numrering) Vägförbindelser (vissa): Gislaved — Smålandsstenar
+            Göteborg— Nordkap ................- Köping— Arboga ............ssseese0n
+            Köping— ÖFrEebrO ......nnssssssssssooerenonononnnnn Ljungskile—Sunningesund—Torp
+            Norrköping— GäVIl€.......sssssessessesreeneernnnnnnnnnnernnnnn
+            Stenungsund — Ljungskile s.......sssssessssssssrsnrnrnnsn Söderhamn
+            — HudikSvall.ssmnnnsssesssssessransnensnernnernrn arr rna nn Örebro—
+            Arboga Urseerereereerersrrerrrrrennerern nr rena nn srnnnnrerrnn
+            annen nan VäghållningsanSvar€t.....sssssssssssseeenreneenenenennennenenrrnenennsnnnnrnnn
+            nn VägiNVESt oossssnseeeresenrereserseneenernenesesrernerrenenenenrennenenrrnsn
+            rr nennrn ennen nn VäginveSteriNgår s.ssmmssssesesrsrsrnrserenennsnsrnrserernsnsnensnenenrnennnnnn
+            nns Vägkapitalet.......s.s.osososorsesenennnrnsnenenennsrsnnrnrrrnnenenrnrnenenrnrnnnnnnn
+            nns
+          </p>
+          <p>
+            VägskyltniNg.....ssssssssnensnenenenesenresrerererrersrrrsesrersrrnrrerenenenrrnnnn
+            rann Vägtrafikens KOStnader...smssessssrorereeneererereseeresrerrrnrrennsrennenenenn
+            VägtrafikkungÖrelSen smsmmmnssssssesenrenreneererenenneneerernenrerernrnennnnrn
+            nn Vägtransportområdet (normgivningsbemyndigande)......... Vägverkets
+            aktiebOlag.........sssssssssnoneseneenrernrrernrerrrrnrrrnnnrrnnrn
+            rn VänerSjÖfarten s.ssmmssessreerrsrsnasserseennrnererrrnrerrrserrrernrrrrnsrr
+            nn nr nn nen VärmlandSsbananD ..ssnnssssssersrsrsreesrersrrerrrrrsrrrrnrrnnnrennnrnn
+            nr nn n nn nn Västerbottens län (infrastrukturen) s..smnmmmmsssssesesssennennennnnnnn
+          </p>
+          <p>
+            11
+          </p>
+          <p>
+            ,
+          </p>
+          <p>
+            11
+          </p>
+          <p>
+            ,
+          </p>
+          <p>
+            11
+          </p>
+          <p>
+            11,
+          </p>
+          <p>
+            17
+          </p>
+          <p>
+            1991/92:TUReg.
+          </p>
+          <p>
+            15
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199192/reg_199192_TU/reg_199192_TU_0015"/>
+          <p>
+            Västerdalsbanan susnssssssssessesssrrererererererrerrrrrrerrrrrrrrrrrrnrrnrrnnnn
+            nan 19
+          </p>
+          <p>
+            Västernorrlands län (infrastrukturen) ..........s.sssssssserseronsnsns
+            22 Västernorrlands län (vägpaket) .......s.sssssseossosessessensrenrerenrnnnn
+            15 Västerås-Hässlö flygplat$ sm...msmmmssssreresreneseesrenrsnrnrsnsrernenrerrnnnnn
+            nn 13 Västmanland (AXE-SyStemet)............ssssossssrrserssersssrnnressrsnnnns
+            20 Växjö-Hultsfred-Västervik Järnvägsaktiebolag ....................
+            23 YrkestrafikfrågOr........ssssossosesesesererrenenerrenrerresernererserrernrenerrnrn
+            rna 3 Yrkestrafiklagen ss smssssessessessersrersersnnerrnrnssrersrerrrrrrerrsrrrrennrrnn
+            nn nn 3, 17, 21 YsStadS hamn ooossseessresersrrresrresrrresrrerrrrrrrererrgrrrerrrrrrrrrrr
+            rese rn rerna a 11, 24 Ådalsbanan ossuusssssassssranssrsrranssrrrnnsrrrnnsrrnnn
+            enn srrnnn rerna sn rann nen anna 19 Ångermanälven (broförbindelse)
+            m....smsssssesresersesernsenrennennnn ana 15 Äldre bilförare (vidareutbildning)
+            ................sssssssssosssoossnnnn 2 Älvsborgsbanan s..nnnnsssssssrsrssssrrnnesrrnnsrrnn
+            sr rnnernnnn rr nnn renarna rena 19 Örebro län (Vägar) ......messsssssonsrenossrrosrrnnsrrnssrrnnnnsrronsrnnrnnnnnnn
+            15 ÖFESUNdSDHIO...ussssenennsrransrsssenonsrennnrrnnnernnnsrnn
+            sr rnnnnernnn error annen 16 ÖresundsförbindelsernNa ............sssssssssoonsrossssrnnnssennnrrnnnnnnnnnn
+            16 Östergötland (ny flygplatS).................sssssosssesssssrosossronoernnnnnnnn
+            13 Östergötlands län (trafikinvesteringar)................................
+            5,22 [015754 (276 554 Vr 15 Österlens region (hamnutbyggnad).................s.sssssoosnnnn
+            11, 24 Österlens Vägar .....nnnssssssossssssosssenssrennrrnssensrnnsnns
+            rens nns non nro nn nnn 15 Östersjön (säkrare trafik) .................sssssssssoosseroossrnoonnrnnnnnnnnn
+            11, 24 Östersund (utlokalisering av transportforskning) ..............
+            9 Överlastavgift Urterrrererererersersersrrrrrrrsnnerrnnrererrrrnsererenn
+            snar snaran sanna 2 Övningskörning (lägsta ålder) ...............s.ssessssssssoooensnonnnnnn
+            2
+          </p>
+          <p>
+            1991/92:TUReg.
+          </p>
+          <p>
+            16
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199192/reg_199192_TU/reg_199192_TU_0016"/>
+          <p>
+            Anslag m.m. SJÄTTE HUVUDTITELN
+          </p>
+          <p>
+            A. Kommunikationsdepartementet m.m. 1 Kommunikationsdepartementet
+            .........s.ssssossosesseensrssnennnnnnn 2 Utredningar Mulb.sssmosssesseseessersererrsrrnrersrrrrrnnernrnnnrnnnnn
+            nn nn nen 3 Viss internationell verksamhet............ssssssossseorssessennsnnnnnnnn
+            4 Särskilda avvecklingskostnader ..........sesssssssesseserserserrsennnnn
+          </p>
+          <p>
+            B. Vägväsende m.m. 1 Vägverket: Ämbetsverksuppgifter M.M. ..................o
+            2 Drift och underhåll av statliga Vägar .............sssssesesensnsnnnn
+            3 Byggande av rikSVägar s......s.sssssessrosseserseesrnrenenrennennrnernrnnnent
+            4 Byggande av länstrafikanläggningar s...mmmmmsssesersrsrsnsnsnsnnnn
+            5 Bidrag till drift och underhåll av statskommunvägar..... 6 Bidrag
+            till drift och byggande av enskilda vägar ............. 7 Vägverket:
+            Särskilda bärighetshöjande åtgärder .............. 8 Vägverket:
+            Försvarsuppgifter...........ss.sssssssessssserssossesnensrnnnn
+          </p>
+          <p>
+            C. Trafiksäkerhet Trafiksäkerhetsverket 1 Trafiksäkerhetsverket:
+            Samordning, Trafikmiljö, Fordon och Trafikant.....ssmssssssessesssrssessersresennenernennrnnrnnrnsnrnnnn
+            2 Trafiksäkerhetsverket: Bil- och körkortsregister m.m.... 3 Kostnader
+            för visst värderingsförfarande.......................---
+          </p>
+          <p>
+            D. Järnvägar 1 Drift och vidmakthållande av statliga järnvägar..............
+            2 Nyinvesteringar i Stomjärnvägar s.....mssssssesssnsesnennnnsnrnrnnnnnn
+            3 Ersättning till banverket för vissa kapitalkostnader........
+            4 JärnvägsinspektiOnen s..smmmmssssssseseessresessesresernesrernnrnennnnnrnennnnn
+            5 Banverket: Försvarsuppgifter 6 Ersättning till statens järnvägar
+            i samband med utdelning från AB Swedcarrierf s....ssssssesssseseseserrsnenenenennnnnnnen
+            7 Bidrag till Växjö-Hultsfred-Västervik JärnvägsaktiebOlag .......sssssssssseseeseennessnssrenesnrsrnnnsrnernsrnrrnnrnrnnnnn
+            nn
+          </p>
+          <p>
+            E. Sjöfart Sjöfartsverket 1 Ersättning till sjöfartsverket för
+            vissa tjänster.................. Övriga sjöfartsändamål 2 Transportstöd
+            för GOtland .............ssessssssrsesesesesernsnsornnnrnrnn 3
+            Handelsflottans pensionsanstalt s....msmmsssesessersrsersssrsnssnnnennr
+            4 Handelsflottans kultur- och fritidSråd ............eseseesssescs
+            5 Ersättning till viss kanaltrafik m.m. musossesesesserernesrennnnnnn
+            6 Bidrag till svenska rederier ......ssssssseosessesesnerernnernnsnnnnrnnnnnt
+          </p>
+          <p>
+            15 15 15 15, 4y(FiU29) 15, 4y(FiU29) 15 15 FöU1l2
+          </p>
+          <p>
+            5, 10
+          </p>
+          <p>
+            11, 24
+          </p>
+          <p>
+            11, 24 11, 24 11, 24 11, 24 11, 24
+          </p>
+          <p>
+            1991/92:TUReg.
+          </p>
+          <p>
+            17
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199192/reg_199192_TU/reg_199192_TU_0017"/>
+          <p>
+            F. Luftfart 1 Beredskap för civil luftfart s...smmsssssssssrersrersresnnennnsrnrnnnrnnnnnr
+            2 Bidrag till kommunala flygplatser M.M. .mmmmmsmserseersnnnnnt
+            3 Civil trafikflygarutbildning.....ossessessessesessrsnrrrrnernrrnnrnnnennen
+          </p>
+          <p>
+            G. Kollektivtrafik m.m. 1 Riksfärdtjänst .sssnnmsssssesssrssransnnnsnannnenresrrrenrernnrrrnnrrnrrrresn
+            rr nns n 2 Köp av interregional persontrafik på järnväg..................
+            3 Ersättning till trafikhuvudmännen för köp av viss kollektivtrafik
+            oosssssssesssssesresrsersrersrersrrrrrrnrrannernennrrrnrnrn eran
+            ennen rann 4 Åtgärder inom den civila delen av totalförsvaret
+            ............ 7 Åtgärder inom den civila delen av totalförsvaret
+            ............
+          </p>
+          <p>
+            H. Transportforskning 1 Statens väg- och trafikinstitUut..............eeeseseeeerrsrnsnnnnnnnnnn
+            2 Bidrag till statens väg- och trafikinstitut .................---------
+            3 Transportforskningsberedningen s.....ssseseeseseesesesennsnenennnnnn
+          </p>
+          <p>
+            I. Övriga ändamål 1 Sveriges meteorologiska och hydrologiska
+            institut ......... 2 Bidrag till Sveriges meteorologiska och hydrologiska
+            INStilUtooooossssereneesrenerrresr renen rerernernennesnerrrnn
+            ennen nere nere r nen e ner n ennen nn 3 Statens geotekniska institut
+            ... 4 Bidrag till statens geotekniska institUut........................-.---
+            5 Statens haverikommission
+          </p>
+          <p>
+            J. Telekommunikationer 1 Statens teleNnämnNdÅ s.sssnssssssssssssssssessesesererrererrrrrrr
+            rr rr rr rnrn rr nn rna 1 Telemyndigheten (ny myndighet]............ssssessesesererseennnnnn
+          </p>
+          <p>
+            K. Postväsende 1 Ersättning till postverket för rikstäckande
+            betalnings- och KaSSaSErViCe .ssssssssesseessesseenneenerrnrrnrrsnnnerrnrnnnern
+            rann rnnnrn nr nn nen
+          </p>
+          <p>
+            K. Övriga infrastrukturinvesteringar 1 Ersättning till postverket
+            för rikstäckande betalnings- och KaSSaSErViCe sssssssssreseeersresressrensrerrernrrennesrrernn
+            ner rr ren nr n rna nn 2 Vissa produktivitets- och sysselsättningsfrämjande
+            åtgärder inom kommunikationsdepartementets område...
+          </p>
+          <p>
+            L. Övriga infrastrukturinvesteringar 1 Investeringar i trafikens
+            infrastruktur .............e.e-----c 2 Vissa produktivitets- och
+            sysselsättningsfrämjande åtgärder inom kommunikationsdepartementets
+            område för underhållsåtgärder ..........sssssessssesensorerenesnenennnrenennnrnnnnnnnn
+            nn 3 Underhållsåtgärder för sysselsättning OCh tillVäxXtsssossssseesressrnersrrerernnrsrnernresrrrrrrern
+            nen rr renen nr nn ennen renen
+          </p>
+          <p>
+            FöU12
+          </p>
+          <p>
+            20 20
+          </p>
+          <p>
+            18
+          </p>
+          <p>
+            18
+          </p>
+          <p>
+            22
+          </p>
+          <p>
+            22
+          </p>
+          <p>
+            3y(FiU30)
+          </p>
+          <p>
+            1991/92:TUReg.
+          </p>
+          <p>
+            18
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199192/reg_199192_TU/reg_199192_TU_0018"/>
+          <p>
+            gotab 41587, Stockholm 1992
+          </p>
         </div>
       </div>
     </body>

@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="reg_199091_KU">
   <teiHeader>
     <fileDesc>
       <titleStmt/>
@@ -19,229 +19,1076 @@
   </teiHeader>
   <text>
     <body>
-      <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_KU/reg_199091_KU-000.pdf"/>
+      <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_KU/reg_199091_KU_0000"/>
       <div type="gBody">
         <div>
-          <p>Konstitutionsutskottets register vid AN</p>
-          <p>riksmötet 1990/91</p>
-          <p>22</p>
-          <p>1990/91 KU Reg. Betänkanden Nr KU1 Vissa grundlagsfrågor Utskottets justering: 1990-10-09 Debatt i kammaren 1990-11-07 Protokollsnummer 1990/91:19 Riksdagens beslut: Återförvisad 1990-11-07 Protokollsnummer 1990/91:19 Riksdagsskrivelse - Nr KU2 Statlig förvaltning m.m. (prop. 1989/90:100 bil. 2 delvis) Utskottets justering: 1990-10-09 Debatt i kammaren 1990-10-24 Protokollsnummer 1990/91:14 Riksdagens beslut: Bifall till utskottets hemställan 1990-11-07 Protokollsnhummer 1990/91:19 Riksdagsskrivelse 1990/91:12 Nr KU3 Kommunala frågor m.m. (prop. 1989/90:100 bil. 2 delvis) Utskottets justering: 1990-10-09 Debatt i kammaren 1990-11-07 Protokollsnhummer 1990/91:19 Riksdagens beslut: Bifall till utskottets hemställan 1990-11-07 Protokollsnhummer 1990/91:19 Riksdagsskrivelse 1990/91:17 Nr KU4 Vallagsfrågor Utskottets justering: 1990-10-23 Debatt i kammaren 1990-11-14 Protokollsnhummer 1990/91:24 Riksdagens beslut: Bifall till utskottets hemställan 1990-11-14 Protokollsnummer 1990/91:24 Riksdagsskrivelse 1990/91:22</p>
-          <p>1 Riksdagen 1990/91. 4 saml. Register</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_KU/reg_199091_KU-001.pdf"/>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_KU/reg_199091_KU-002.pdf"/>
-          <p>Nr KUS Nationaldagen som helgdag, m.m. Utskottets justering: Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse</p>
-          <p>Nr KU6</p>
-          <p>Negativ föreningsrätt samt kollektivanslutning m.m.</p>
-          <p>Utskottets justering: Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnhummer Riksdagsskrivelse</p>
-          <p>Nr KU7 Normgivning m.m. (prop. 1989/90:100 bil. 2 delvis) Utskottets justering: Debatt i kammaren Protokollsnhummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnhummer Riksdagsskrivelse</p>
-          <p>Nr KU8 Riksdagsfrågor Utskottets justering: Debatt i kammaren Protokollsnhummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnhummer Riksdagsskrivelse</p>
-          <p>Nr KU9 Vissa kyrkliga frågor Utskottets justering: Debatt i kammaren Protokollshnhummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnhummer Riksdagsskrivelse</p>
-          <p>1990-10-09 1990-10-24 1990/91:14 1990-11-07 1990/91:19</p>
-          <p>1990-10-09 1990-10-24 1990/91:14 1990-11-07 1990/91:19</p>
-          <p>1990-10-25 1990-11-14 1990/91:24 1990-11-14 1990/91:24 1990/91:23</p>
-          <p>1990-11-08 1990-11-21 1990/91:29 1990-11-21 1990/91:29 1990/91:29</p>
-          <p>1990-11-15 1990-11-28 1990/91:34 1990-11-28 1990/91:34</p>
-          <p>1990/91:KU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_KU/reg_199091_KU-003.pdf"/>
-          <p>Nr KU10 Tryckfrihets- och sekretessfrågor Utskottets justering: Debatt i kammaren Protokollsnhummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse</p>
-          <p>Nr KU11</p>
-          <p>Offentlighet, integritet och ADB (prop. 1990/91:60)</p>
-          <p>Utskottets justering:</p>
-          <p>Förslag till beslut: Bifall till propositionen, i viss del vilande</p>
-          <p>förslag, avslag på motionerna Debatt i kammaren Protokollsnhummer Riksdagens beslut: Bifall till utskottets hemställan Protokollshummer Riksdagsskrivelse</p>
-          <p>Nr KU12 Radio- och TV-frågor Utskottets justering: Debatt i kammaren Protokollsnhummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnhummer Riksdagsskrivelse</p>
-          <p>Nr KU13 Vissa fri- och rättigheter m.m. Utskottets justering: Debatt i kammaren Protokollsnhummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnhummer Riksdagsskrivelse</p>
-          <p>Nr KU14 Begravningslag (prop. 1990/91:10) Utskottets justering: Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsrhummer Riksdagsskrivelse</p>
-          <p>1" Riksdagen 1990/91. 4 saml. Register</p>
-          <p>1990-11-06 1990-11-21 1990/91:29 1990-11-21 1990/91:29 1990/91:30</p>
-          <p>1991-03-12</p>
-          <p>1991-03-21 1990/91:83 1991-03-27 1990/91:87 1990/91:160</p>
-          <p>1990-10-25 1990-11-14 1990/91:24 1990-11-14 1990/91:24</p>
-          <p>1990-10-25 1990-11-14 1990/91:24 1990-11-14 1990/91:24</p>
-          <p>1990-11-13 1990-11-28 1990/91:34 1990-11-28 1990/91:34 1990/91:39</p>
-          <p>1990/91:KU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_KU/reg_199091_KU-004.pdf"/>
-          <p>Nr KU1S Riksdagens förvaltningskontors verksamhet (redog. 1990/91:5)</p>
-          <p>Utskottets justering: 1990-11-29 Riksdagens beslut: Bifall till utskottets hemställan 1990-12-13 Protokollsnummer 1990/91:45</p>
-          <p>Riksdagsskrivelse -</p>
-          <p>Nr KU16 Justitieombudsmännens redovisning av sin verksamhet till 1990/91 års riksmöte m.m. (redog. 1990/91:1)</p>
-          <p>Utskottets justering: 1990-11-27 Riksdagens beslut: Bifall till utskottets hemställan 1990-12-06 Protokollsnummer 1990/91:40 Riksdagsskrivelse 1990/91:72 Nr KU17</p>
-          <p>Ytterligare försöksverksamhet för förnyelse av den offentliga sektorn (prop. 1990/91:44)</p>
-          <p>Utskottets justering: 1990-11-20 Debatt i kammaren 1990-11-29 Protokollsnhummer 1990/91:35 Riksdagens beslut: Bifall till utskottets hemställan 1990-11-29 Protokollsnhummer 1990/91:35 Riksdagsskrivelse 1990/91:52 Nr KU18</p>
-          <p>Oförändrade arvoden till riksdagens ledamöter m.m. (förs. 1990/91:11)</p>
-          <p>Utskottets justering: 1990-12-06 Riksdagens beslut: Bifall till utskottets hemställan 1990-12-12 Protokollsnhummer 1990/91:44 Riksdagsskrivelse 1990/91:87, 88 Nr KU19</p>
-          <p>Riksdagens förvaltningskontors förslag om anslag på tilläggsbudget till statsbudgeten för budgetåret 1990/91 (förs. 1990/91:10)</p>
-          <p>Utskottets justering: 1990-12-04 Debatt i kammaren 1990-12-13 Protokollshnummer 1990/91:45 Riksdagens beslut: Bifall till utskottets hemställan 1990-12-13 Protokollsnummer 1990/91:45 Riksdagsskrivelse 1990/91:100 Nr KU20 Vissa normgivningsfrågor rörande riksbanken m.m. Utskottets justering: 1990-12-04 Riksdagens beslut: Bifall till utskottets hemställan 1990-12-13 Protokollsnhummer 1990/91:45</p>
-          <p>Riksdagsskrivelse 1990/91:101</p>
-          <p>1990/91:KU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_KU/reg_199091_KU-005.pdf"/>
-          <p>Nr KU21 Yttrandefrihetsgrundlag m.m. (prop. 1990/91:64)</p>
-          <p>Utskottets justering: 1991-04-25 Debatt i kammaren 1991-05-08 Protokollsnummer 1990/91:109 Riksdagens beslut: Bifall till utskottets hemställan 1991-05-08 Protokollsnummer 1990/91:109 Riksdagsskrivelse 1990/91:254 Nr KU22</p>
-          <p>Andring i regeringsformen med anledning av ett europeiskt samarbetsområde (prop. 1990/91:65) Utskottets justering: 1991-03-21 Förslag till beslut: Bifall till propositionen samt ändringsförslag i regeringsformen föreslås bli vilande. Avslag på motionerna K33—K3S5. Motion K32 besvaras. Visst tillkännagivande med anledning av motion K236.</p>
-          <p>Debatt i kammaren 1991-04-10 Protokollsnummer 1990/91:91 Riksdagens beslut: Bifall till utskottets hemställan 1991-04-10 Protokollshnummer 1990/91:91 Riksdagsskrivelse 1990/91:180 Nr KU23 Ersättare för justitieråd och regeringsråd (prop. 1990/91:66) Utskottets justering: 1991-03-12 Förslag till beslut: Bifall till propositionen, avslag på motionsyrkandet Debatt i kammaren 1991-03-28 Protokollsnummer 1990/91:88 Riksdagens beslut: Bifall till utskottets hemställan 1991-04-10 Protokollsnhummer 1990/91:91 Riksdagsskrivelse 1990/91:178 Nr KU24</p>
-          <p>Andring i övergångsbestämmelserna till regeringsformen (prop. 1990/91:67)</p>
-          <p>Utskottets justering: 1991-02-12 Förslag till beslut: Bifall Riksdagens beslut: Bifall till utskottets hemställan 1991-03-06 Protokollsnhummer 1990/91:72 Riksdagsskrivelse 1990/91:117</p>
-          <p>1990/91:KU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_KU/reg_199091_KU-006.pdf"/>
-          <p>Nr KU2S Kungliga hov- och slottsstaterna (prop. 1990/91:100 bil. 3)</p>
-          <p>Utskottets justering: 1991-02-12 Förslag till beslut: Bifall till propositionen, avslag på motionen Riksdagens beslut: Bifall till utskottets hemställan 1991-03-06 Protokollsnummer 1990/91:72 Riksdagsskrivelse 1990/91:118 Nr KU26 Anslag till datainspektionen (prop. 1990/91:100 bil. 4) Utskottets justering: 1991-02-05 Förslag till beslut: Bifall Riksdagens beslut: Bifall till utskottets hemställan 1991-03-06 Protokollsnummer 1990/91:72 Riksdagsskrivelse 1990/91:119 Nr KU27 Stöd till politiska partier (prop. 1990/91:100 bil. 4) Utskottets justering: 1991-02-05 Förslag till beslut: Bifall Riksdagens beslut: Bifall till utskottets hemställan 1991-03-06 Protokollsnhummer 1990/91:72 Riksdagsskrivelse 1990/91:120 Nr KU28 Anslag till allmänna val (prop. 1990/91:100 bil. 4) Utskottets justering: 1991-02-05 Förslag till beslut: Bifall Riksdagens beslut: Bifall till utskottets hemställan 1991-03-06 Protokollsnhummer 1990/91:72 Riksdagsskrivelse 1990/91:121 Nr KU29 Presstöd (prop. 1990/91:100 bil. 10) Utskottets justering: 1991-03-12</p>
-          <p>Förslag till beslut: Delvis bifall till propositionen, bifall till vissa motioner — i Övrigt avslag</p>
-          <p>Debatt i kammaren 1991-03-21 Protokollsnummer 1990/91:83 Riksdagens beslut: Bifall till utskottets hemställan 1991-03-27 Protokollsnummer 1990/91:87 Riksdagsskrivelse 1990/91:161</p>
-          <p>1990/91:KU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_KU/reg_199091_KU-007.pdf"/>
-          <p>Nr KU30 Granskning av statsrådens tjänsteutövning och regeringsärendenas handläggning</p>
-          <p>Utskottets justering: 1991-05-21 Debatt i kammaren 1991-06-04 Protokollshnummer 1990/91:125 Riksdagens beslut: Bifall till utskottets hemställan 1991-06-04 Protokollsnummer 1990/91:125 Riksdagsskrivelse 1990/91:340 Nr KU31 Riksdagen och dess myndigheter (prop. 1990/91:100 bil. 17) Utskottets justering: 1991-03-05 Förslag till beslut: Bifall till propositionen, avslag på motionerna Debatt i kammaren 1991-03-13 Protokollsnhummer 1990/91:77 Riksdagens beslut: Bifall till utskottets hemställan 1991-03-13 Protokollsnummer 1990/91:77 Riksdagsskrivelse 1990/91:133 Nr KU32 Grundlagsfrågor (skr. 1990/91:148) Utskottets justering: 1991-04-25 Debatt i kammaren 1991-05-15 Protokollsnummer 1990/91:112 Riksdagens beslut: Bifall till utskottets hemställan 1991-05-15 Protokollsnhummer 1990/91:112 Riksdagsskrivelse 1990/91:270 Nr KU33</p>
-          <p>Andring i radioansvarighetslagen (1966:756) m.m. (prop. 1990/91:94)</p>
-          <p>Utskottets justering: 1991-03-14 Förslag till beslut: Bifall Riksdagens beslut: Bifall till utskottets hemställan 1991-03-27 Protokollsnhummer 1990/91:87 Riksdagsskrivelse 1990/91:169 Nr KU34</p>
-          <p>Sekretess inom och mellan myndigheter på vårdområdet m.m. (prop. 1990/91:111)</p>
-          <p>Utskottets justering: 1991-04-23 Debatt i kammaren 1991-05-08 Protokollsnummer 1990/91:109 Riksdagens beslut: Bifall till utskottets hemställan 1991-05-08 Protokollsnummer 1990/91:109 Riksdagsskrivelse 1990/91:257</p>
-          <p>1990/91:KU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_KU/reg_199091_KU-008.pdf"/>
-          <p>Nr KU35 Biskoparna i kyrkomötet, m.m. (prop. 1990/91:122)</p>
-          <p>Utskottets justering: 1991-04-11 Förslag till beslut: Bifall till propositionen, avslag på motionerna Debatt i kammaren 1991-04-25 Protokollsnummer 1990/91:102 Riksdagens beslut: Bifall till utskottets hemställan 1991-05-02 Protokollsnhummer 1990/91:105 Riksdagsskrivelse 1990/91:238 Nr KU36 .</p>
-          <p>Andring i instruktionen för riksdagens förvaltningskontor (förs. 1990/91:15)</p>
-          <p>Utskottets justering: 1991-04-09 Riksdagens beslut: Bifall till utskottets hemställan 1991-05-08 Protokollsnummer 1990/91:109 Riksdagsskrivelse 1990/91:255 Nr KU37 Kommunala dispensavgifter i trafikärenden (prop. 1990/91:157) Utskottets justering: 1991-04-23 Riksdagens beslut: Bifall till utskottets hemställan 1991-05-08 Protokollsnhummer 1990/91:109 Riksdagsskrivelse 1990/91:258 Nr KU38 Ny kommunallag (prop. 1990/91:117) Utskottets justering: 1991-05-23 Debatt i kammaren 1991-06-10 Protokollsnhummer 1990/91:128 Riksdagens beslut: Bifall till utskottets hemställan 1991-06-11 Protokollsnhummer 1990/91:129 Riksdagsskrivelse 1990/91:360 Nr KU39 Radio- och TV-frågor (prop. 1990/91:149) Utskottets justering: 1991-05-28 Debatt i kammaren 1991-06-11 Protokollsnhummer 1990/91:129 Riksdagens beslut: Bifall till utskottets hemställan 1991-06-11 Protokollsnhummer 1990/91:129 Riksdagsskrivelse 1990/91:370</p>
-          <p>1990/91:KU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_KU/reg_199091_KU-009.pdf"/>
-          <p>Nr KU40 Kollektivanslutning och organisationsanslutning</p>
-          <p>Utskottets justering: 1991-04-19 Förslag till beslut: Avslag på samtliga motioner Debatt i kammaren 1991-05-15 Protokollsnhummer 1990/91:112 Riksdagens beslut: Bifall till utskottets hemställan 1991-05-15 Protokollsnummer 1990/91:112 Riksdagsskrivelse - Nr KU41</p>
-          <p>Brevröstning i Förbundsrepubliken Tyskland och Schweiz (prop. 1990/91:112)</p>
-          <p>Utskottets justering: 1991-03-26 Förslag till beslut: Bifall till propositionen, avslag på motionen Debatt i kammaren 1991-04-10 Protokollsnummer 1990/91:91 Riksdagens beslut: Bifall till utskottets hemställan 1991-04-10 Protokollsnummer 1990/91:91 Riksdagsskrivelse 1990/91:181 Nr KU42 Riksdagens arbetsformer Utskottets justering: 1991-04-23 Debatt i kammaren 1991-05-08 Protokollsnummer 1990/91:109 Riksdagens beslut: Bifall till utskottets hemställan 1991-05-08 Protokollsnummer 1990/91:109 Riksdagsskrivelse 1990/91:256 Nr KU43</p>
-          <p>Regeringens skrivelse 1990/91:15 med redogörelse för behandlingen av riksdagens skrivelser till regeringen (skr. 1990/91:15)</p>
-          <p>Utskottets justering: 1991-05-21 Riksdagens beslut: Bifall till utskottets hemställan 1991-06-04 Protokollsnummer 1990/91:125 Riksdagsskrivelse 1990/91:341 Nr KU44</p>
-          <p>Sjukavdrag för riksdagens ledamöter samt statsråd, m.m. (förs. 1990/91:16) (prop. 1990/91:170)</p>
-          <p>Utskottets justering: 1991-05-02 Riksdagens beslut: Bifall till utskottets hemställan 1991-05-17 Protokollsnhummer 1990/91:114 Riksdagsskrivelse 1990/91:284</p>
-          <p>1990/91:KU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_KU/reg_199091_KU-010.pdf"/>
-          <p>Nr KU4S5 | 1990/91:KU Reg. Riksdagens byggnader (förs. 1990/91:18)</p>
-          <p>Utskottets justering: 1991-04-23 Debatt i kammaren 1991-05-08 Protokollsnhummer 1990/91:109 Riksdagens beslut: Bifall till utskottets hemställan 1991-05-08 Protokollsnummer 1990/91:109 Riksdagsskrivelse 1990/91:259 Nr KU46 Uppskov till 1991/92 års riksmöte med behandlingen av vissa ärenden Utskottets justering: 1991-05-28 Riksdagens beslut: Bifall till utskottets hemställan 1991-06-05 Protokollsnhummer 1990/91:126 Riksdagsskrivelse - Nr KU47 Ärendefördelningen mellan riksdagens utskott m.m. Utskottets justering: 1991-05-30 Riksdagens beslut: Bifall till utskottets hemställan 1991-06-11 Protokollshnhummer 1990/91:129 Riksdagsskrivelse 1990/91:371 Nr KU48 Arvoden till statsråden m.m. Utskottets justering: 1991-05-16 Riksdagens beslut: Bifall till utskottets hemställan 1991-06-11 Protokollsnhummer 1990/91:129 Riksdagsskrivelse 1990/91:361 Nr KU49 Viss fråga om traktamente till riksdagens ledamöter Utskottets justering: 1991-06-10 Riksdagens beslut: Bifall till utskottets hemställan 1991-06-12 Protokollsnhummer 1990/91:130 Riksdagsskrivelse 1990/91:378</p>
-          <p>10</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_KU/reg_199091_KU-011.pdf"/>
-          <p>Yttranden till andra utskott</p>
-          <p>Nr KUl1y till FiU Förnyelse av offentlig sektor (prop. 1989/90:100 bil. 2) Utskottets justering: 1990-10-09 1990/91:FiU2</p>
-          <p>Nr KU2y till SkU Vissa taxerings- och kontrollfrågor i anslutning till skattereformen (prop. 1990/91:5) jämte motioner Utskottets justering: 1990-11-08 1990/91:SkU3</p>
-          <p>Nr KU3y till SoU Ansvaret för service och vård till äldre och handikappade m.m. (prop. 1990/91:14) Utskottets justering: 1990-11-15 1990/91:So0oU9</p>
-          <p>Nr KU4y till SKU Lag om folkbokföringsregister, m.m. Utskottets justering: 1990-11-29 1990/91:SkU9</p>
-          <p>Nr KUSy till SKU Ny folkbokföringslag (prop. 1990/91:153) Utskottets justering: 1991-05-03 1990/91:SkU28</p>
-          <p>1990/91:KU Reg.</p>
-          <p>11</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_KU/reg_199091_KU-012.pdf"/>
-          <p>Sakregister Allmänna val, anslag till Anslag - allmänna val, anslag till..nnmmmmssssssssssssessesesenrernsnnrrn nn nr - datainspektionen, anslag till...........sesssssosssessessnennnnnnnnn - distributionsstöd till dagspressen .....ssesesssssssesrsrsnnnnn - driftsstöd till dagspressen.................. - Kungliga hov- och slottsstaterna... - - politiska partier, stöd till...........ssssssessesssesssrsrsnnsnnnnnn anar - presstödsnämnden och taltidningsnämnden, förvaltningsanslag till... nsmmsmsssessssssssrersrrrrrnnnrnnrsnnrnnsnn nn nan - radio- och kassettidningar, stöd till... .......ss...ss.--sss22&gt; &gt;&gt; - riksdagens byggnader s...ssssessessessrererernrsnrrernnnrernrrnnnr nn nana - Stiftelsen för lättläst nyhetsinformation och litteratur, bidrag till =msomsssssssssssssssessersrererrennnrnnnrrnrrnrrnn rerna - taltidningar, stöd till on - tryCKEeriStÖG sssssssessessersreserrrrsrrerrnerrrrrrrernrrrrrrnrnrnernn rr nn nn nan - utvecklingsstöd till dagspressen ......ss.sssssssssresersennnnnn nn Begravningslag - begravningslag, förslag till........ss.ssssessessrrresrrrssnrnnnnnnn nan - begravningsplatser för dem som inte tillhör något kristet trossamfund - dÖdsbevis................ oense - folkbokföringslagen, ändring i 2 €3 NV 51 - konflikter rörande begravning.........sessssssesessensnnsnnennnnn - kulturminnnen, lag OM sssmmssesessrrrsrrrrarersnrnrrrrrsn nn annan nn Bostadsdepartementet, handläggningstider i.................--.--- Brevröstning i Förbundsrepubliken Tyskland och SChWE€IZsssossessessessrerresreserrerrerernenrerersernnrn ennen ns nn nerna nen n nn ann Datainspektionen, anslag till...s..smossssssesseeserssrenssnnrrnrnrnnnnrnn nan Datalagen, lag om ändring i ........... Den militära underrättelsetjänsten EES-avtal, beredningsgrupp för konstitutionella aspekter På s.smmmmnsssssrsrerenrnrorenenrnrnrsrenrrnsrererrernernenerrrnrnn nanna EES-avtal, lag om ändring i regeringsformen ....................- EG-frågOr, iNSYN dosnnssssssssesesesesrerssenesreresesrererenrersrernerernen nn nn nn EG-medlemskap, parlamentarisk utredning om grundlagsmässiga frågor M.M. ...nnnsssososos Europasamarbetet och parlamentets roll Folkbokföringslag, NY smsmmssesrersereereseesernrenenrrnrnnarnrrrnernnnnn nanna Folkbokföringsregister, m.m. lag OM....sssssssssessessenesnennnnn enar Fri- och rättigheter - allemansrätt ssossssssssesersrsreseerserreresrerrerrernrrnrenn nn nrn renarna anna - beskattningsmaktens gränser M.M...msssssssssersessrssnnennnn - egeNdOMSTätt sssssssessesrerererrennernesrrnnnnn arna nn - fackliga stridsåtgärder .... - familjerätt ............. on - MinOritetsskYyCld......ssssssosesesrereerenrenresrernrernernernnerrnnnrrrn nn nar - närings- och yrkesfrihet.............sssssssossooresnernenrnrnsnnnnn nar</p>
-          <p>28</p>
-          <p>28 26 29 29 25 27</p>
-          <p>29 29 45</p>
-          <p>29 29 29 29</p>
-          <p>14</p>
-          <p>14 14 14 14 14 14 30</p>
-          <p>41 26 11 30</p>
-          <p>22 22 30</p>
-          <p>22 22 Sy 4y</p>
-          <p>13 13 13 13 13 13 13</p>
-          <p>1990/91:KU Reg.</p>
-          <p>12</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_KU/reg_199091_KU-013.pdf"/>
-          <p>- straffliknande administrativa påföljder - äganderätt m.m</p>
-          <p>Fören</p>
-          <p>Granskning - justitieombudsmännens verksamhet</p>
-          <p>1.7.1989—30.6.1990</p>
-          <p>-T</p>
-          <p>1.7.1989—30.6.1990</p>
-          <p>iksdagens förvaltningskontors verksamhet</p>
-          <p>- statsrådens tjänsteutövning och regeringsärendenas</p>
-          <p>handläggning</p>
-          <p>1.</p>
-          <p>Regeringens sammansättning och</p>
-          <p>regeringsarbetets organisation</p>
-          <p>2.</p>
-          <p>Regeringskansliet — statistik och andra</p>
-          <p>redovisningar</p>
-          <p>. Remisser till lagrådet . Författningsutgivningen . Propositioner . Normgivningsfrågor . Offentlighet och sekretess . Den militära underrättelsetjänsten . Riksdagens skrivelser m.m.</p>
-          <p>. Handläggningstider m.m. i bostadsdepartementet</p>
-          <p>. Olovlig avlyssning m.m. . Krigsmaterielexport</p>
-          <p>. Sverige och Gulfkriget . Utlänningsärenden m.m.</p>
-          <p>. Utnämningsärenden m.m. . Statlig personalpolitik . Polisingripanden i september 1989 . Hälso- och sjukvårdsfrågor . Ledningsfrågor i Nordbanken 20. 21.</p>
-          <p>Affären mellan AB Volvo och Procordia AB Fast förbindelse över Öresund</p>
-          <p>Grundlagsfrågor</p>
-          <p>- antalet ledamöter i riksdagen</p>
-          <p>-b -d</p>
-          <p>- etikregler för politiker - folkomröstningsinstitutet - fyraprocentsspärren - författningsdomstol - förstärkt lagprövningsrätt - mandatperiodens längd - mångsyssleriet i politiken - ny grundlagsutredning - pensionärernas medinflytande - personval</p>
-          <p>en gemensamma valdagen</p>
-          <p>ingsrätt, NCZALiV....ssssssssesseossesossrennresrerrennennennrnnnnnrn ann n anna</p>
-          <p>ehörighetskrav för Statsråd ..................essssssssssesersnn</p>
-          <p>- regler för opinionsundersökningar - rösträttsregler - val av statsminister</p>
-          <p>13</p>
-          <p>13</p>
-          <p>6</p>
-          <p>16</p>
-          <p>15</p>
-          <p>30</p>
-          <p>1990/91:KU Reg.</p>
-          <p>13</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_KU/reg_199091_KU-014.pdf"/>
-          <p>Hälso- och sjukvårdsfrågor JO-ämbetet, översyn av Justitieombudsmännens redovisning av sin verksamhet</p>
-          <p>- åtal MOt dOMATE oooseserererersrrserrsrererrnrrsesrrrnsnsnen ennen ennen nonan - Övergång till republik s..snsmmsssssssenenasensensonenenenennnnenrnn erna</p>
-          <p>den 1.7 1989—den 30.6 1990</p>
-          <p>Justitieråd och regeringsråd, ersättare fÖr .....................s---- Kollektivanslutning Kommunala frågor</p>
-          <p>- beslutanderätt vid fastställande av avgifter och</p>
-          <p>- delning av kommuner - den fackliga representationen i kommunala NÄMNdE oseesreesrreesrresrensrarerrrrrnnrnnnernnr rn nnens rr n sn n ennen nns nn ennen - den kommunala kompetensen i näringsverksamhet. - den kommunala organisationen — allmänt............... - direktvalda kommundelsOrgan .........sessssesssreserenennnnnn nan - dispensavgifter i trafikärenden..........sssssesersesnnennnnennnnnnn - ekonomisk ersättning till de förtroendevalda - fri nämndorganisation M.M. messmmsssssssserssseenrnrnennrnnn rna - fullmäktige, antalet ledamöter och ersättare i............ - förbud mot kommunalt engagemang i normala affärsdrivande fÖretåag............sessressrersrrsrresrensrnrnrnrnn nan nn anar - handlingsoffentligheten i kommunala företag ........... - insynen i kommunala bolag och stiftelser .................. - JOs talerätt på det oreglerade kommunala området . - kommunal vårdnadsersättning ...........ssesessssnnnnnnn - kommunala bojkottåtgärder mot Sydafrika................ - kommunala folkomröstningar ...........ss.sssrsrssersenrsnnennnnn - kommunala förtroendemäns personliga ansvar för [OS [TT Rn - kommunalt partistöd ...............s.sssessosssessersnssennennnnnrnnn nn - kommunalt vänortssamarbete M.M.....ssssssssssssnnnennnnnnn - kommuntillhörighetsfrågor — medlemskap ............. - minskad statlig StyrNiNg.........s.ssssssssseosensersnssennennnnnnnnnn - misstroendevotum i kommunfullmäktige- och landstingsförsamlingar s.ssmmmssssssesssesersesrarernnsnnennrnnrnnnnnnnnn - partssammansatta OrgaN ..snmmmnssssesesssseresennennsnennnnnn rn nn nn nn - rådgivande kommunala folkomröstningar ................. - självkostnadsprinCipen s.smmssssssssssesesenenrenesnernrnenrnrsnennn nn - snabbare valgenomslag i kommunala styrelser och NÄMNT osossssessereesrersrrennrennnnrnrnrnn nen nnernnn nn nnn nen - stad som benämning på vissa orter - stadsfullmäktige som benämning på kommunfull- mäktige</p>
-          <p>- statliga bidrag till KommUnerNA s..mnmmmsnsssssrsrensnrsnennrnnnn - styrelsen, minsta antalet ledamöter i................----------- - utredning om den kommunala beskattningsrätten.... - utvidgad beskattningsrätt för kommunerna ..............- - utvidgning av Sydafrikalagens tillämpningsområde ..</p>
-          <p>1,32 1,32 30 16</p>
-          <p>16 23 6, 40</p>
-          <p>38 3, 38</p>
-          <p>3, 38 38 38 3, 38 37 3, 38 3, 17, 38 38</p>
-          <p>1990/91:KU Reg.</p>
-          <p>14</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_KU/reg_199091_KU-015.pdf"/>
-          <p>- vidgning av den kommunala kompetensen 1990/91:KU Reg.</p>
-          <p>(u-landsbiståNnd) ..........sssseesesersresesreseseseserrsnnerennnnnnnnnnnnn nn nn 3 - vidgning av kommuners och landstings befogen- heter på det internationella området....................--s.s-. 38 - ökad länsdemoOkrati ssnmmnsssseesssrrrsssrrssrrerrnsnnnnnrrnnrnnnnn anna 3 - ökat brukarinflytande .......sssessssererseessressrernrnnrnrnnrnnnnn anna 38 - Öppna styrelse-, nämnd- och utskottssammanträden. 3, 38 - Översyn av sekretesslagen sm.mmmmmssssssesesseenrenesnnennnnennrnnnnen 38 Kommunallag, NY smmmsssssrseessressensserssrrernnrsressrenrnnernrernnrnrnenn nr rna nn 38 KrigsmaterieleXpOrt ......ssssssssesessesenneeneenenrenesnsnenrenennenrnnnnrnrnnnn 30 Kungliga hov- och slottsstaterna s...msmsmssesessssseserensnrnnennnnnnnnnnn 25 Kyrkliga frågor - behörighet till biskOpSstjänSter.................sssssssssssssennannn 35 - biskoparnas ställning i kyrkomötet ............s.ssssesssonnne 35 - kyrkofondens StyrelS€ su.snmsmssssssssesseesernnennennennennennennnnnn nn 9 - medlemskapsreglerna .... on 9 - stat — kyrka-frågan sssnnssssseseseneneerernenersernrnenrnnnnnnenennnn ennen 9 - titulärt bisKkOpPSSät€ s.sssssssseessesesrrrrssrrrnsrennnrrrnrnnnnrnn rn nn rann 35 - utnämning av biskOPar........sssesssessessersernrenernnrnnennennnnnn nn 35 - utredning om vissa kyrkofondsfrågor ....................-.-- 9 Nationaldagen som helgdag .........ssssssssresseessrensersnnernnnennernnnnnn 5 Nordbanken, ledningsfrågOr i s......s.osesesesesesenenenenennrnnnnnnnnnnen 30 Normgivning m.m. - Europadomstolens dOMAar sssnssessssesssersrrnrrennnrrrrnnnnrnn ann 7 - Europakonventionen och rätten till domstols- PLÖVDING oosessesreereresresrererresrernnerneenn ren rerr ennen nen nrn nen nr nen rn nn nnn 7 - funktionshindrades möjligheter till demokrati och INflytä de ooooosesreseereresresresesneerernernr nen rrnrrrn enn ennen nr nr n erna nn 17 - information om grundlagarna 7 - konsekvensanalyser..............ssssssnsn0n 7 - konventioners motsvarighet i svensk rätt 7 - lagrådetSs yttranden .....ssssssssssssenrensenennennenenennen nn ent 7 - med mänsklighetsombuUd ........ssessersseserssreresnsenrennennsnnnnnt 17 - originaltext i konventioner, M.M. m.essssssssressrsnsresnnnnnnn 7 - ra mlagstiftNiNg...sssssssesseosenrenrernrrrrrerresrnnrerrrnnnenn ennen nen nn n nn 7 - regelförenkling och delegering ............s.sssersssseseoesnsnsnnn 17 - remitteringen till lagrådet .......ss.sssssssesereerenenrnnnnnnnnnnn rna 7 - riksbanken, vissa normgivningsfrågor rörande 20 - Svensk författningssamling........ss.ssssssesseseseenesnsnrnnn 7 - särskild ersättningSsfONd s...sssssesssesseesersreseesennnennrnnrnnnn nn nn 7 - tidningen Från Riksdag &amp; Departement m.m. .......... 7 - Utred Ningsväsendet.........sssessserseressseresserenerrrnennrerrnrnrnnrnnen 7 Normgivningsfrågor, granskning aV...sm.sssesssssssssensnennsnnen 30 Offentliga sektorn - friare kommunal nämndorganisation, ändring i lagen om försöksverksamhet med en 17 - förnyelse QV-sinssssesssssrsrenesrsrerereernennnnrnnrnnna ly, 17 - förnyelseprojekt i Örebro län 17 - hälso- och sjukvårdens område, ändring i lagen om 15</p>
-          <p>försöksverksamhet iNnOM....sssssssosssseserrsrsssrererrseerrnnrnr nn rn ann 17</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_KU/reg_199091_KU-016.pdf"/>
-          <p>- pensionärs- och handikapporganisationer, inflytande fÖr sossmmssssrsrrsrsseseesrsrrrrresrereernrersrrnsnnn rara nr nen nn nen Offentlighet, integritet och ADB - anonymitetsskyddet för den som begär att få ta del av allmän handling. ....ssssssesssessressreresnsressrersnrr rens nn rann annen - avidentifiering av ett statistikregister på skolområdet .......ss.ssseserseesereresesresernennrnnennnns - datalagen, ändring i - elektroniska doOKkUmMmenNt....sssssssssressrerrrssersrrrsrrrnrrernnrrrnr ann - företagsdata, skydd fÖr susssssssssersrerrereresesererrerrererrererrn nan - handlingsbegreppet i ADB-sammanhang, fortsatt Utred NiNg QV-ssmoesereesreseereerrerreserrereererrnenenrerern rs ner n ennen eran n na - informationstjänster och EG s...ssssssssrsesresessrsesnenrsnsnnnn - instans för överklagande. ........ssssssssesssesensesnrsnnsnnennsnnsn nr - KLYPterilg oosssssessessessesrerrrerseserrerrennsnnerennen nen ner nen enn ne nerna - personnummer, användning av - TegiSterlagar mosssssssessreserersrersesrrnnrersrsnr rr rer er nr nr rn nen n rn nn - reglering av myndigheternas försäljning av personuppgifter =msssssseresesreresesesenrrrenerrensnenernnenernenennnnen ennen - sekretesslagen, äNdriNg I.smsmmmsesssserseneerenernnrnnnenrrn enn nerna - statliga dataregister, decentralisering aV...................... - tryckfrihetsförordningen, ändring I .s.......ss.essessrssrsennn Offentlighet och sekretess Olovlig avlyssning Mulsssossssesseseseesssnssnennesernenresnernnrnrnn ennen nen OrganisationsanSlutNinNg s..mmeesseresreseereersersrserrenrernrsnnrnnnn annan nn Pensionärernas medinflytande s....s..sssssessrsesessrssresnrrernnnnnnn ann Polisingripanden i september 1989.....sssssssssesserssrsersnnsnnnnnnn Politiska partier, Stöd till =msmmsssmsssssssssrsseesresesrrnersnsnnnrnennenn nn rna</p>
-          <p>Propositionsavlämnandet till riksdagen ....s.mssssssssssssnsnennsnnn Radio- och TV-frågor - den nya TV-kanalens ägarkretS...........sssssssesosesneosnnsnnnn - det reklamfinansierade TV-företagets sändning av SpOnNSrade PrOgfåallM smesssssssessesseseresrsnsessrrrrsnrrrnnn enn nr nn nn nn - en ny rikstäckande reklamfinansierad TV-kanal....... - frekvenser för kommunikationsradiO .............e------&gt; - kabellagstiftningen, ändringar I...nmmnmmmsssssesesrrsenrnnenennnna - koncessionstidens längd - KONCESSIONSavgifteh sossssssessssrsrenenrenenenenennen renen nenen nn nnr - konventionen om gränsöverskridande television ...... - lokala kabelsändningar, ändring i lagen Om .............. - lokala TV-statiOner smesssssesessesesseeseeseersesesrnresnrnrernennen nen nnn</p>
-          <p>- medelsberäkningar - närradiolagen, ändring i - programutbudets sammansättning i den nya TV-kanalen aosssssseeersseesrrerrerssrerernrssrnrrsrrrerrenrrrrnrrrrnrrnr ren n rn nana</p>
-          <p>17</p>
-          <p>11</p>
-          <p>11 11 11 11</p>
-          <p>11 11 11 11 11 11</p>
-          <p>11 11 11 11 30 30 40 32 30 27 29 30</p>
-          <p>39</p>
-          <p>39 39 12 12 39 39 12 39 12</p>
-          <p>39 39 39 39</p>
-          <p>39</p>
-          <p>1990/91:KU Reg.</p>
-          <p>16</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_KU/reg_199091_KU-017.pdf"/>
-          <p>- radio och TV i framtiden ssnmmsnssssssesrersrennernnnsnnennn ann nn an - radioansvarighetslagen, ändring i......sm.ssssssssererresrersernnr 33, - radiolagen, ändring i.......s.s..sssserersrrrn rna - radiotidningar, ändring i lagen om - reklamfinansierade markbundna svenska TV-SÄäNdNiNgar oosseoseessresereressererersrrerrrnrrrrsrrrrsrrrrrrrrrrerrn rna ner - rundradiosändningar från fartyg ...............s.ssssersr0s0n0nen - rätt att i efterhand ta del av program sända av Sveriges RACIO....ssssosreseossreseessressrersrrernrrerrrerrerrrnrrrrnnrrrn nr an - rätten att sända radio- och TV-program från sändare på Marken sm.mmmmrorsrsoesreresrorenrererrerenernererrersnrn nn nn - styrelser i Sveriges Radio-KkOonCernen ..............s..ssess000 - upphovsrätt till litterära och konstnärliga verk, ändring i lagen OM summmsnesssrsrssrsrenesesrenernenerrener nen ennen ennen anna - ytterligare utredning om TV-politiken, krav på ........ Regeringens SammansättNiNg .....mossessssesseesersresennernnnnennnnn anna Regeringens skrivelse med redogörelse för behandlingen av riksdagens skrivelser till regeringen ...............s..s00nn 30, Regeringsarbetets OrganiSatiOnN s......s.sssseoserssssesseensnrsnrnnnnrnn nan Regeringsformen, ändringar I...onsssssessessessressesesseannesersernnnn nan 20, 21, 22, 23, Regeringskansliet, statistik och andra redovisningar ......... Remisser till lagrådet..........ossoseoeoeneneenenenenenenrenensnnnnenennnn nen ann Riksbanken, vissa normgivningsfrågor rörande ................. Riksdagen - bekvämlighetsinrättning för fritidsfiskarna vid kajen intill leda mOtshusSet ....snmsssssssersssrennrsnrnnnnrnnnnnn nana - försäkringsskyddet för riksdagens ledamöter och ANStällddåsssssssssreserserresnrernrerrernrrnrrnn reser er nnrrrn ennen annen enn nn nanna - förvaltningskostnader, anslag till............. 19, - IPU, bidrag tillsmsnmmmsssssssssssresssnsnnsnnnnnnnnnnn nn - JO-delegationens sammansättning - leda mOtSarvVOdenN sessesssesressreresnsrernrrsrnrrsrnnesnr er rrsn er nn enn nn - ledamoOtSSErViCe .mmmmmseeseesrersereressrrsererrennernnerrnrrn er nr n rna nn - Nordiska rådets svenska delegation, anslag till .......... - partigrupper, bidrag till....nsmsmsssssssssesssrnesenrenennenenennnn nana - polisingripande i riksdagens lokaler m.m. s..nnnnnnnnsns - RIFO, bidrag till osssnnmnsssssessssennnsnnennnnnn annan - riksdagens byggnader, anslag till - riksdagens förvaltningskontor, uppdrag till ............... - riksdagens förvaltningskontor, ändrad instruktion 07 - riksdagens förvaltningskontors förslag om anslag på tilläggsbudget till statsbudgeten för budgetåret 1990/91 sisoseereraseerereerernenrarerenenrnrenernenennennennnnenen renen nnn erna nana - riksdagens förvaltningskontors verksamhet 1.7 1989 — 30.6 1990 osssnmnrarsseneereseenennerrersenenrenesnerenennen nen - riksdagens ledamöter, ersättningar till........................ 18, 31, 48, - riksdagens ledamöter, sjukavdrag fÖr ................s.-------- - riksdagens ombudsmän, anslag till. .nnsmssmsssssssssssnsnnnnn - riksdagens publika databaser s.smmmmmmsssssresrrsnnrsrnrennnrnnnn</p>
-          <p>31, 19,</p>
-          <p>39 39 39 39</p>
-          <p>12 12</p>
-          <p>12</p>
-          <p>12 39</p>
-          <p>39 12 30</p>
-          <p>1990/91:KU Reg.</p>
-          <p>17</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_KU/reg_199091_KU-018.pdf"/>
-          <p>- riksdagsledamöters deltagande i internationella konferenser, anslag till..sssnsssssesssrssseresrsnnrnsnnnennnrrnnrnnnnnn - riksdagstrycket, anslag till sm ssmmsssssssssssssereesrnesnrsnnnrennnnnn - samordning av arvoden för riksdagsledamöter och StatSFÅG ouosooseseeresrerererrsrererererserrererrrnerrenerrenerrrn ennen nenenenn enn nan - sjukavdrag för riksdagens ledamöter... - sjukavdrag för statsråden s...........ssssssssesssrnensnenenensnnrnnnen - språkvård och språkutbildning i riksdagen ................ - studieresor, anslag till...sssmmsssssssesseseererrrenrerersrrrnrrsrrnnnn nen - svenska flaggan i plenisalen sum:mmsssssesesessesnnnnesenenrennrnnnn - telefonsamtal till riksdagen s.mmmssssseersrerrreserorrrrrrrrrrnnn ran - tillhandahållande av riksdagstryck M.M. .......o.o.oososonnn - utgivande av otryckta ståndsprotokoll, anslag till...... - utskottens resor, anslag till....smmssss.ssssssessssesnesnesennnnnnn rna - utsmyckning i riksdagens lokaler - viss fråga om traktamente till riksdagens ledamöter . - återbetalning av uppburna arvoden och löner........... - ärendefördelningen mellan riksdagens utskott .......... Riksdagens arbetsformer - debattformer i rikSdagen ss.smmmmsssessrssreseesensnrnnnennenn rn rna nn - interpellationssvar och frågestund - riksdagens budgetprOCeSS..............ssssessssssesssrsssnrsrsnnnnnnnn - sanningsförsäkran vid utskottsutfrågning ................... - tidpunkten för val av talman smummmmsmsssssssesssrennennrnnnnnennn - utrikesnämndens sammansättning ............ss.ssesenennrnsnn - utskottens ledamotsantal s...smmsssssssssssrsssrasnnrnnnnnnnnnnnn nan - Utvärdering Mal. menssseseesessrerserssrrsrerrererrersnrennernrrnnrn narr Riksdagens Skrivelser sosssmsssssssessesseesesseeneenerrnrsnsnnernnrnnsnnennnnrr Sekretess inom och mellan myndigheter på vårdOmrådet s.....sssssseseererseseresenernenenrnrerererererererranenenenen nn nanna Sekretessbestämmelserna i utrikes- och försvarsdepar- tementen, tillämpningen AV....smmmmsssseesersessennnannnnnnsnnen nn nn Sekretesslagen, lag Om ändring iI....ssmssssssssssssssesnernnrnnnnnrnnan nn Service och vård till äldre och handikappade, ansvaret</p>
-          <p>Skattereformen — vissa taxerings- och kontrollfrågor....... Statlig förvaltning - ansvarsfördelningen mellan stat, kommuner och la NCStil GÖ oooeseeeeererrersrrrrerrsrererrrrsrrerrrrrrrrenrrrrnnnrn nn rr sn nn nn anna - deCENtraliS€riNg..sssesssoseererrererrrerrrerrrerrrrrrrrrrnrnnrrrnn rann nan - kommittéförordningen, ÖVErSyll QV.........ss.sseeserorssnenne - samordning mellan offentliga verksamheter .............. - verksamhetsformer och organisationssätt................... Statlig personalpOlitik = ossmmmmssssssssssersrererrerrrsrnrernnrnnrrnnrrnrrrn nn a Statsråden, sjukavdrag för Statsrådens arvOden s......sssesessesesenennrnnnn Statsrådslönenämnden, avveckling av Svensk författningssamling (SFS), utgivningen av ............. Sverige och Gulfkriget ..mmmmsssrsrersrnrererenenenesenenrnrennerenerennnnn nn Sveriges flagga, åtlydnaden av lagen OM ...........sssssssssonnnnnnnn</p>
-          <p>30,</p>
-          <p>11, 34,</p>
-          <p>1990/91:KU Reg.</p>
-          <p>18</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_KU/reg_199091_KU-019.pdf"/>
-          <p>Trafiknämnd, ändring i lagen OM. ummsmesrssssesersssssssnesersnnnnn 37 1990/91:KU Reg. Tryckfrihets- och sekretessfrågor</p>
-          <p>- anonymitet för sökande av offentlig anställning........ 10 - barnpornografibrOtt ......s..sssessrsresrrsrsrenasernenenernnn renen nn nn 10 - besvärsrätt för den som berörs av sekretesskyddade uppgifter som har lämnats ut oena 10 - förstärkt skattesekreteSS ....ssssssssssosssensesnennesnennennnnnrn rna nn 10 - förstärkt skydd för meddelares anonymitet vid beslag Mal oosessessessesrerresresrerrrrrrrerernrrnnrnnrnrner renen ernrn nn eran ann 10 - generell översyn av sekretesslaägen..............s.s.sss0so0nnn 34 - information mellan socialnämnder...........sssssssssesenennn 34 - införande av offentliga föreskrifter för registrering i SÄPOS FegiSter s.nm.nnmnnssssessrssensressrnssrnnserrnnn arr rnnn sn rnnnn rena 10 - minskad sekretess beträffande uppgifter om faderskap sosssnnssresreseernrerneneeneerrsrrrsrresnrsnrrrerernsrerernenennrnnrnn nen 10 - minskad sekretess vid rapportering av läkemedels- MiSSDrUKATCsooososeeessrereeessrssserresereeeerrrreronrrrnesnn er n er nn resorna nn 10, 34 - sekretess för uppgifter om forskning, statistik- framställning m.m. på hälso- och sjukvårdsområdet ... 10 - sekretess i asylärende€n....sssssssseesrenrenrseneereseneenesenrennnnen annan 10 - sekretess inom myndigheter på hälso- och sjuk- VårdSOMFrådet...ssssssrsreesrsrerererereneresnrrenenenernenenrenen nana nn rn enn nn 34 - sekretessbeläggning och utgallring av uppgifter i VISSA FCZIStCl oososossesseerrereerrereernsrrrrsrarrrrnerrenrrrenenerr ene n nn en nanna 10 - sekretesskydd för uppgifter i anmälan till hälso- och sjukvårdens ansvarsnämnNdÅ .mmssssssssssesssrsrsesrnnnnnnn rn 10 - skärpning av folkbokföringssekretessen m.m............. 10 - skärpt sekretess för uppgifter i vapenregistret............ 10 - Översyn av myndigheters tillämpning av sekre- tesSlagstiftNiNgeN osososssessseseseesessressrennernennenenesn eran nrnen nn nen annan 10 - Översyn av sekretessregler gällande utsatta barn ........ 34 - Översyn av sekretessregler rörande social- tjänsten/SKOIlaN sissssessssessresseessrrssssrarsnsesnernrnnrnnernrnnen arenan nana 34 Tryckfrihetsförordningen, lag om ändring i............s.s.--s--- 11, 21 Uppskov till 1991/92 års riksmöte med behandlingen av vissa ärenden 46 Utlänningsärenden M.M. smesssesesssersessressersrsessrsernrnsnernennnnen annan 30 Utnämningsärenden Mull smmsssessesessrserresesrnesrernenensnan ennen enn 30 Vallagsfrågor - DUCFÖStNiNGssooseeeeressrressreserersrrrnennrrnnnernern nr rnn ennen rna n erna nn 4 - kyrkliga val, Mulssmmssssssessressressrrnrsrserresesesnenrsnrn ennen en nn nn 4 - partibegreppet i vallagen, M.M. sm.essmsseeesssesesennnnsnnnnnn 4 - valkretsindelningen i Malmöhus län . 4 - vallängds offentlighet ......s.sssssssssesrsrresesrenenrnsrnrnrnnnn nn ann 4 - valsystemet vid kommun- och landstingsval .............. 4 Volvo AB och Procordia AB, affären mellan..................... 30 Yttrandefrihetsgrundlag - barnpornografibrOtt .........sssesssrrrsrrrssressersesrenrerrerrrnnrnnnn na 21 - censur/förhandsgranskning av filmer och video- 19</p>
-          <p>24 8316 &amp; VR 21</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_KU/reg_199091_KU-020.pdf"/>
-          <p>- meddelarfrihet i förhållandet mellan enskilda</p>
-          <p>- olaga våldsskildring - parallellinstruktion</p>
-          <p>- yttrandefrihetsgrundlag, NY sm..mmmesseseesersesrnrenennnnennnnennn Äldre och handikappade, ansvaret för service och vård</p>
-          <p>Ärendefördelningen mellan riksdagens utskott</p>
-          <p>Öresund, fast förbindelse över</p>
-          <p>gotab 98974, Stockholm 1991</p>
-          <p>21 21 21 21</p>
-          <p>3y 47 30</p>
-          <p>1990/91:KU Reg.</p>
-          <p>20</p>
+          <p>
+            Konstitutionsutskottets register vid AN
+          </p>
+          <p>
+            riksmötet 1990/91
+          </p>
+          <p>
+            22
+          </p>
+          <p>
+            1990/91 KU Reg. Betänkanden Nr KU1 Vissa grundlagsfrågor Utskottets
+            justering: 1990-10-09 Debatt i kammaren 1990-11-07 Protokollsnummer
+            1990/91:19 Riksdagens beslut: Återförvisad 1990-11-07 Protokollsnummer
+            1990/91:19 Riksdagsskrivelse - Nr KU2 Statlig förvaltning m.m.
+            (prop. 1989/90:100 bil. 2 delvis) Utskottets justering: 1990-10-09
+            Debatt i kammaren 1990-10-24 Protokollsnummer 1990/91:14 Riksdagens
+            beslut: Bifall till utskottets hemställan 1990-11-07 Protokollsnhummer
+            1990/91:19 Riksdagsskrivelse 1990/91:12 Nr KU3 Kommunala frågor
+            m.m. (prop. 1989/90:100 bil. 2 delvis) Utskottets justering: 1990-10-09
+            Debatt i kammaren 1990-11-07 Protokollsnhummer 1990/91:19 Riksdagens
+            beslut: Bifall till utskottets hemställan 1990-11-07 Protokollsnhummer
+            1990/91:19 Riksdagsskrivelse 1990/91:17 Nr KU4 Vallagsfrågor Utskottets
+            justering: 1990-10-23 Debatt i kammaren 1990-11-14 Protokollsnhummer
+            1990/91:24 Riksdagens beslut: Bifall till utskottets hemställan
+            1990-11-14 Protokollsnummer 1990/91:24 Riksdagsskrivelse 1990/91:22
+          </p>
+          <p>
+            1 Riksdagen 1990/91. 4 saml. Register
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_KU/reg_199091_KU_0001"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_KU/reg_199091_KU_0002"/>
+          <p>
+            Nr KUS Nationaldagen som helgdag, m.m. Utskottets justering:
+            Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till
+            utskottets hemställan Protokollsnummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr KU6
+          </p>
+          <p>
+            Negativ föreningsrätt samt kollektivanslutning m.m.
+          </p>
+          <p>
+            Utskottets justering: Debatt i kammaren Protokollsnummer Riksdagens
+            beslut: Bifall till utskottets hemställan Protokollsnhummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr KU7 Normgivning m.m. (prop. 1989/90:100 bil. 2 delvis) Utskottets
+            justering: Debatt i kammaren Protokollsnhummer Riksdagens beslut:
+            Bifall till utskottets hemställan Protokollsnhummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr KU8 Riksdagsfrågor Utskottets justering: Debatt i kammaren
+            Protokollsnhummer Riksdagens beslut: Bifall till utskottets hemställan
+            Protokollsnhummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr KU9 Vissa kyrkliga frågor Utskottets justering: Debatt i kammaren
+            Protokollshnhummer Riksdagens beslut: Bifall till utskottets hemställan
+            Protokollsnhummer Riksdagsskrivelse
+          </p>
+          <p>
+            1990-10-09 1990-10-24 1990/91:14 1990-11-07 1990/91:19
+          </p>
+          <p>
+            1990-10-09 1990-10-24 1990/91:14 1990-11-07 1990/91:19
+          </p>
+          <p>
+            1990-10-25 1990-11-14 1990/91:24 1990-11-14 1990/91:24 1990/91:23
+          </p>
+          <p>
+            1990-11-08 1990-11-21 1990/91:29 1990-11-21 1990/91:29 1990/91:29
+          </p>
+          <p>
+            1990-11-15 1990-11-28 1990/91:34 1990-11-28 1990/91:34
+          </p>
+          <p>
+            1990/91:KU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_KU/reg_199091_KU_0003"/>
+          <p>
+            Nr KU10 Tryckfrihets- och sekretessfrågor Utskottets justering:
+            Debatt i kammaren Protokollsnhummer Riksdagens beslut: Bifall
+            till utskottets hemställan Protokollsnummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr KU11
+          </p>
+          <p>
+            Offentlighet, integritet och ADB (prop. 1990/91:60)
+          </p>
+          <p>
+            Utskottets justering:
+          </p>
+          <p>
+            Förslag till beslut: Bifall till propositionen, i viss del vilande
+          </p>
+          <p>
+            förslag, avslag på motionerna Debatt i kammaren Protokollsnhummer
+            Riksdagens beslut: Bifall till utskottets hemställan Protokollshummer
+            Riksdagsskrivelse
+          </p>
+          <p>
+            Nr KU12 Radio- och TV-frågor Utskottets justering: Debatt i kammaren
+            Protokollsnhummer Riksdagens beslut: Bifall till utskottets hemställan
+            Protokollsnhummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr KU13 Vissa fri- och rättigheter m.m. Utskottets justering:
+            Debatt i kammaren Protokollsnhummer Riksdagens beslut: Bifall
+            till utskottets hemställan Protokollsnhummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr KU14 Begravningslag (prop. 1990/91:10) Utskottets justering:
+            Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till
+            utskottets hemställan Protokollsrhummer Riksdagsskrivelse
+          </p>
+          <p>
+            1" Riksdagen 1990/91. 4 saml. Register
+          </p>
+          <p>
+            1990-11-06 1990-11-21 1990/91:29 1990-11-21 1990/91:29 1990/91:30
+          </p>
+          <p>
+            1991-03-12
+          </p>
+          <p>
+            1991-03-21 1990/91:83 1991-03-27 1990/91:87 1990/91:160
+          </p>
+          <p>
+            1990-10-25 1990-11-14 1990/91:24 1990-11-14 1990/91:24
+          </p>
+          <p>
+            1990-10-25 1990-11-14 1990/91:24 1990-11-14 1990/91:24
+          </p>
+          <p>
+            1990-11-13 1990-11-28 1990/91:34 1990-11-28 1990/91:34 1990/91:39
+          </p>
+          <p>
+            1990/91:KU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_KU/reg_199091_KU_0004"/>
+          <p>
+            Nr KU1S Riksdagens förvaltningskontors verksamhet (redog. 1990/91:5)
+          </p>
+          <p>
+            Utskottets justering: 1990-11-29 Riksdagens beslut: Bifall till
+            utskottets hemställan 1990-12-13 Protokollsnummer 1990/91:45
+          </p>
+          <p>
+            Riksdagsskrivelse -
+          </p>
+          <p>
+            Nr KU16 Justitieombudsmännens redovisning av sin verksamhet till
+            1990/91 års riksmöte m.m. (redog. 1990/91:1)
+          </p>
+          <p>
+            Utskottets justering: 1990-11-27 Riksdagens beslut: Bifall till
+            utskottets hemställan 1990-12-06 Protokollsnummer 1990/91:40 Riksdagsskrivelse
+            1990/91:72 Nr KU17
+          </p>
+          <p>
+            Ytterligare försöksverksamhet för förnyelse av den offentliga
+            sektorn (prop. 1990/91:44)
+          </p>
+          <p>
+            Utskottets justering: 1990-11-20 Debatt i kammaren 1990-11-29
+            Protokollsnhummer 1990/91:35 Riksdagens beslut: Bifall till utskottets
+            hemställan 1990-11-29 Protokollsnhummer 1990/91:35 Riksdagsskrivelse
+            1990/91:52 Nr KU18
+          </p>
+          <p>
+            Oförändrade arvoden till riksdagens ledamöter m.m. (förs. 1990/91:11)
+          </p>
+          <p>
+            Utskottets justering: 1990-12-06 Riksdagens beslut: Bifall till
+            utskottets hemställan 1990-12-12 Protokollsnhummer 1990/91:44
+            Riksdagsskrivelse 1990/91:87, 88 Nr KU19
+          </p>
+          <p>
+            Riksdagens förvaltningskontors förslag om anslag på tilläggsbudget
+            till statsbudgeten för budgetåret 1990/91 (förs. 1990/91:10)
+          </p>
+          <p>
+            Utskottets justering: 1990-12-04 Debatt i kammaren 1990-12-13
+            Protokollshnummer 1990/91:45 Riksdagens beslut: Bifall till utskottets
+            hemställan 1990-12-13 Protokollsnummer 1990/91:45 Riksdagsskrivelse
+            1990/91:100 Nr KU20 Vissa normgivningsfrågor rörande riksbanken
+            m.m. Utskottets justering: 1990-12-04 Riksdagens beslut: Bifall
+            till utskottets hemställan 1990-12-13 Protokollsnhummer 1990/91:45
+          </p>
+          <p>
+            Riksdagsskrivelse 1990/91:101
+          </p>
+          <p>
+            1990/91:KU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_KU/reg_199091_KU_0005"/>
+          <p>
+            Nr KU21 Yttrandefrihetsgrundlag m.m. (prop. 1990/91:64)
+          </p>
+          <p>
+            Utskottets justering: 1991-04-25 Debatt i kammaren 1991-05-08
+            Protokollsnummer 1990/91:109 Riksdagens beslut: Bifall till utskottets
+            hemställan 1991-05-08 Protokollsnummer 1990/91:109 Riksdagsskrivelse
+            1990/91:254 Nr KU22
+          </p>
+          <p>
+            Andring i regeringsformen med anledning av ett europeiskt samarbetsområde
+            (prop. 1990/91:65) Utskottets justering: 1991-03-21 Förslag till
+            beslut: Bifall till propositionen samt ändringsförslag i regeringsformen
+            föreslås bli vilande. Avslag på motionerna K33—K3S5. Motion K32
+            besvaras. Visst tillkännagivande med anledning av motion K236.
+          </p>
+          <p>
+            Debatt i kammaren 1991-04-10 Protokollsnummer 1990/91:91 Riksdagens
+            beslut: Bifall till utskottets hemställan 1991-04-10 Protokollshnummer
+            1990/91:91 Riksdagsskrivelse 1990/91:180 Nr KU23 Ersättare för
+            justitieråd och regeringsråd (prop. 1990/91:66) Utskottets justering:
+            1991-03-12 Förslag till beslut: Bifall till propositionen, avslag
+            på motionsyrkandet Debatt i kammaren 1991-03-28 Protokollsnummer
+            1990/91:88 Riksdagens beslut: Bifall till utskottets hemställan
+            1991-04-10 Protokollsnhummer 1990/91:91 Riksdagsskrivelse 1990/91:178
+            Nr KU24
+          </p>
+          <p>
+            Andring i övergångsbestämmelserna till regeringsformen (prop.
+            1990/91:67)
+          </p>
+          <p>
+            Utskottets justering: 1991-02-12 Förslag till beslut: Bifall
+            Riksdagens beslut: Bifall till utskottets hemställan 1991-03-06
+            Protokollsnhummer 1990/91:72 Riksdagsskrivelse 1990/91:117
+          </p>
+          <p>
+            1990/91:KU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_KU/reg_199091_KU_0006"/>
+          <p>
+            Nr KU2S Kungliga hov- och slottsstaterna (prop. 1990/91:100 bil.
+            3)
+          </p>
+          <p>
+            Utskottets justering: 1991-02-12 Förslag till beslut: Bifall
+            till propositionen, avslag på motionen Riksdagens beslut: Bifall
+            till utskottets hemställan 1991-03-06 Protokollsnummer 1990/91:72
+            Riksdagsskrivelse 1990/91:118 Nr KU26 Anslag till datainspektionen
+            (prop. 1990/91:100 bil. 4) Utskottets justering: 1991-02-05 Förslag
+            till beslut: Bifall Riksdagens beslut: Bifall till utskottets
+            hemställan 1991-03-06 Protokollsnummer 1990/91:72 Riksdagsskrivelse
+            1990/91:119 Nr KU27 Stöd till politiska partier (prop. 1990/91:100
+            bil. 4) Utskottets justering: 1991-02-05 Förslag till beslut:
+            Bifall Riksdagens beslut: Bifall till utskottets hemställan 1991-03-06
+            Protokollsnhummer 1990/91:72 Riksdagsskrivelse 1990/91:120 Nr
+            KU28 Anslag till allmänna val (prop. 1990/91:100 bil. 4) Utskottets
+            justering: 1991-02-05 Förslag till beslut: Bifall Riksdagens beslut:
+            Bifall till utskottets hemställan 1991-03-06 Protokollsnhummer
+            1990/91:72 Riksdagsskrivelse 1990/91:121 Nr KU29 Presstöd (prop.
+            1990/91:100 bil. 10) Utskottets justering: 1991-03-12
+          </p>
+          <p>
+            Förslag till beslut: Delvis bifall till propositionen, bifall
+            till vissa motioner — i Övrigt avslag
+          </p>
+          <p>
+            Debatt i kammaren 1991-03-21 Protokollsnummer 1990/91:83 Riksdagens
+            beslut: Bifall till utskottets hemställan 1991-03-27 Protokollsnummer
+            1990/91:87 Riksdagsskrivelse 1990/91:161
+          </p>
+          <p>
+            1990/91:KU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_KU/reg_199091_KU_0007"/>
+          <p>
+            Nr KU30 Granskning av statsrådens tjänsteutövning och regeringsärendenas
+            handläggning
+          </p>
+          <p>
+            Utskottets justering: 1991-05-21 Debatt i kammaren 1991-06-04
+            Protokollshnummer 1990/91:125 Riksdagens beslut: Bifall till utskottets
+            hemställan 1991-06-04 Protokollsnummer 1990/91:125 Riksdagsskrivelse
+            1990/91:340 Nr KU31 Riksdagen och dess myndigheter (prop. 1990/91:100
+            bil. 17) Utskottets justering: 1991-03-05 Förslag till beslut:
+            Bifall till propositionen, avslag på motionerna Debatt i kammaren
+            1991-03-13 Protokollsnhummer 1990/91:77 Riksdagens beslut: Bifall
+            till utskottets hemställan 1991-03-13 Protokollsnummer 1990/91:77
+            Riksdagsskrivelse 1990/91:133 Nr KU32 Grundlagsfrågor (skr. 1990/91:148)
+            Utskottets justering: 1991-04-25 Debatt i kammaren 1991-05-15
+            Protokollsnummer 1990/91:112 Riksdagens beslut: Bifall till utskottets
+            hemställan 1991-05-15 Protokollsnhummer 1990/91:112 Riksdagsskrivelse
+            1990/91:270 Nr KU33
+          </p>
+          <p>
+            Andring i radioansvarighetslagen (1966:756) m.m. (prop. 1990/91:94)
+          </p>
+          <p>
+            Utskottets justering: 1991-03-14 Förslag till beslut: Bifall
+            Riksdagens beslut: Bifall till utskottets hemställan 1991-03-27
+            Protokollsnhummer 1990/91:87 Riksdagsskrivelse 1990/91:169 Nr
+            KU34
+          </p>
+          <p>
+            Sekretess inom och mellan myndigheter på vårdområdet m.m. (prop.
+            1990/91:111)
+          </p>
+          <p>
+            Utskottets justering: 1991-04-23 Debatt i kammaren 1991-05-08
+            Protokollsnummer 1990/91:109 Riksdagens beslut: Bifall till utskottets
+            hemställan 1991-05-08 Protokollsnummer 1990/91:109 Riksdagsskrivelse
+            1990/91:257
+          </p>
+          <p>
+            1990/91:KU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_KU/reg_199091_KU_0008"/>
+          <p>
+            Nr KU35 Biskoparna i kyrkomötet, m.m. (prop. 1990/91:122)
+          </p>
+          <p>
+            Utskottets justering: 1991-04-11 Förslag till beslut: Bifall
+            till propositionen, avslag på motionerna Debatt i kammaren 1991-04-25
+            Protokollsnummer 1990/91:102 Riksdagens beslut: Bifall till utskottets
+            hemställan 1991-05-02 Protokollsnhummer 1990/91:105 Riksdagsskrivelse
+            1990/91:238 Nr KU36 .
+          </p>
+          <p>
+            Andring i instruktionen för riksdagens förvaltningskontor (förs.
+            1990/91:15)
+          </p>
+          <p>
+            Utskottets justering: 1991-04-09 Riksdagens beslut: Bifall till
+            utskottets hemställan 1991-05-08 Protokollsnummer 1990/91:109
+            Riksdagsskrivelse 1990/91:255 Nr KU37 Kommunala dispensavgifter
+            i trafikärenden (prop. 1990/91:157) Utskottets justering: 1991-04-23
+            Riksdagens beslut: Bifall till utskottets hemställan 1991-05-08
+            Protokollsnhummer 1990/91:109 Riksdagsskrivelse 1990/91:258 Nr
+            KU38 Ny kommunallag (prop. 1990/91:117) Utskottets justering:
+            1991-05-23 Debatt i kammaren 1991-06-10 Protokollsnhummer 1990/91:128
+            Riksdagens beslut: Bifall till utskottets hemställan 1991-06-11
+            Protokollsnhummer 1990/91:129 Riksdagsskrivelse 1990/91:360 Nr
+            KU39 Radio- och TV-frågor (prop. 1990/91:149) Utskottets justering:
+            1991-05-28 Debatt i kammaren 1991-06-11 Protokollsnhummer 1990/91:129
+            Riksdagens beslut: Bifall till utskottets hemställan 1991-06-11
+            Protokollsnhummer 1990/91:129 Riksdagsskrivelse 1990/91:370
+          </p>
+          <p>
+            1990/91:KU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_KU/reg_199091_KU_0009"/>
+          <p>
+            Nr KU40 Kollektivanslutning och organisationsanslutning
+          </p>
+          <p>
+            Utskottets justering: 1991-04-19 Förslag till beslut: Avslag
+            på samtliga motioner Debatt i kammaren 1991-05-15 Protokollsnhummer
+            1990/91:112 Riksdagens beslut: Bifall till utskottets hemställan
+            1991-05-15 Protokollsnummer 1990/91:112 Riksdagsskrivelse - Nr
+            KU41
+          </p>
+          <p>
+            Brevröstning i Förbundsrepubliken Tyskland och Schweiz (prop.
+            1990/91:112)
+          </p>
+          <p>
+            Utskottets justering: 1991-03-26 Förslag till beslut: Bifall
+            till propositionen, avslag på motionen Debatt i kammaren 1991-04-10
+            Protokollsnummer 1990/91:91 Riksdagens beslut: Bifall till utskottets
+            hemställan 1991-04-10 Protokollsnummer 1990/91:91 Riksdagsskrivelse
+            1990/91:181 Nr KU42 Riksdagens arbetsformer Utskottets justering:
+            1991-04-23 Debatt i kammaren 1991-05-08 Protokollsnummer 1990/91:109
+            Riksdagens beslut: Bifall till utskottets hemställan 1991-05-08
+            Protokollsnummer 1990/91:109 Riksdagsskrivelse 1990/91:256 Nr
+            KU43
+          </p>
+          <p>
+            Regeringens skrivelse 1990/91:15 med redogörelse för behandlingen
+            av riksdagens skrivelser till regeringen (skr. 1990/91:15)
+          </p>
+          <p>
+            Utskottets justering: 1991-05-21 Riksdagens beslut: Bifall till
+            utskottets hemställan 1991-06-04 Protokollsnummer 1990/91:125
+            Riksdagsskrivelse 1990/91:341 Nr KU44
+          </p>
+          <p>
+            Sjukavdrag för riksdagens ledamöter samt statsråd, m.m. (förs.
+            1990/91:16) (prop. 1990/91:170)
+          </p>
+          <p>
+            Utskottets justering: 1991-05-02 Riksdagens beslut: Bifall till
+            utskottets hemställan 1991-05-17 Protokollsnhummer 1990/91:114
+            Riksdagsskrivelse 1990/91:284
+          </p>
+          <p>
+            1990/91:KU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_KU/reg_199091_KU_0010"/>
+          <p>
+            Nr KU4S5 | 1990/91:KU Reg. Riksdagens byggnader (förs. 1990/91:18)
+          </p>
+          <p>
+            Utskottets justering: 1991-04-23 Debatt i kammaren 1991-05-08
+            Protokollsnhummer 1990/91:109 Riksdagens beslut: Bifall till utskottets
+            hemställan 1991-05-08 Protokollsnummer 1990/91:109 Riksdagsskrivelse
+            1990/91:259 Nr KU46 Uppskov till 1991/92 års riksmöte med behandlingen
+            av vissa ärenden Utskottets justering: 1991-05-28 Riksdagens beslut:
+            Bifall till utskottets hemställan 1991-06-05 Protokollsnhummer
+            1990/91:126 Riksdagsskrivelse - Nr KU47 Ärendefördelningen mellan
+            riksdagens utskott m.m. Utskottets justering: 1991-05-30 Riksdagens
+            beslut: Bifall till utskottets hemställan 1991-06-11 Protokollshnhummer
+            1990/91:129 Riksdagsskrivelse 1990/91:371 Nr KU48 Arvoden till
+            statsråden m.m. Utskottets justering: 1991-05-16 Riksdagens beslut:
+            Bifall till utskottets hemställan 1991-06-11 Protokollsnhummer
+            1990/91:129 Riksdagsskrivelse 1990/91:361 Nr KU49 Viss fråga om
+            traktamente till riksdagens ledamöter Utskottets justering: 1991-06-10
+            Riksdagens beslut: Bifall till utskottets hemställan 1991-06-12
+            Protokollsnhummer 1990/91:130 Riksdagsskrivelse 1990/91:378
+          </p>
+          <p>
+            10
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_KU/reg_199091_KU_0011"/>
+          <p>
+            Yttranden till andra utskott
+          </p>
+          <p>
+            Nr KUl1y till FiU Förnyelse av offentlig sektor (prop. 1989/90:100
+            bil. 2) Utskottets justering: 1990-10-09 1990/91:FiU2
+          </p>
+          <p>
+            Nr KU2y till SkU Vissa taxerings- och kontrollfrågor i anslutning
+            till skattereformen (prop. 1990/91:5) jämte motioner Utskottets
+            justering: 1990-11-08 1990/91:SkU3
+          </p>
+          <p>
+            Nr KU3y till SoU Ansvaret för service och vård till äldre och
+            handikappade m.m. (prop. 1990/91:14) Utskottets justering: 1990-11-15
+            1990/91:So0oU9
+          </p>
+          <p>
+            Nr KU4y till SKU Lag om folkbokföringsregister, m.m. Utskottets
+            justering: 1990-11-29 1990/91:SkU9
+          </p>
+          <p>
+            Nr KUSy till SKU Ny folkbokföringslag (prop. 1990/91:153) Utskottets
+            justering: 1991-05-03 1990/91:SkU28
+          </p>
+          <p>
+            1990/91:KU Reg.
+          </p>
+          <p>
+            11
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_KU/reg_199091_KU_0012"/>
+          <p>
+            Sakregister Allmänna val, anslag till Anslag - allmänna val,
+            anslag till..nnmmmmssssssssssssessesesenrernsnnrrn nn nr - datainspektionen,
+            anslag till...........sesssssosssessessnennnnnnnnn - distributionsstöd
+            till dagspressen .....ssesesssssssesrsrsnnnnn - driftsstöd till
+            dagspressen.................. - Kungliga hov- och slottsstaterna...
+            - - politiska partier, stöd till...........ssssssessesssesssrsrsnnsnnnnnn
+            anar - presstödsnämnden och taltidningsnämnden, förvaltningsanslag
+            till... nsmmsmsssessssssssrersrrrrrnnnrnnrsnnrnnsnn nn nan - radio-
+            och kassettidningar, stöd till... .......ss...ss.--sss22&gt; &gt;&gt;
+            - riksdagens byggnader s...ssssessessessrererernrsnrrernnnrernrrnnnr
+            nn nana - Stiftelsen för lättläst nyhetsinformation och litteratur,
+            bidrag till =msomsssssssssssssssessersrererrennnrnnnrrnrrnrrnn
+            rerna - taltidningar, stöd till on - tryCKEeriStÖG sssssssessessersreserrrrsrrerrnerrrrrrrernrrrrrrnrnrnernn
+            rr nn nn nan - utvecklingsstöd till dagspressen ......ss.sssssssssresersennnnnn
+            nn Begravningslag - begravningslag, förslag till........ss.ssssessessrrresrrrssnrnnnnnnn
+            nan - begravningsplatser för dem som inte tillhör något kristet
+            trossamfund - dÖdsbevis................ oense - folkbokföringslagen,
+            ändring i 2 €3 NV 51 - konflikter rörande begravning.........sessssssesessensnnsnnennnnn
+            - kulturminnnen, lag OM sssmmssesessrrrsrrrrarersnrnrrrrrsn nn
+            annan nn Bostadsdepartementet, handläggningstider i.................--.---
+            Brevröstning i Förbundsrepubliken Tyskland och SChWE€IZsssossessessessrerresreserrerrerernenrerersernnrn
+            ennen ns nn nerna nen n nn ann Datainspektionen, anslag till...s..smossssssesseeserssrenssnnrrnrnrnnnnrnn
+            nan Datalagen, lag om ändring i ........... Den militära underrättelsetjänsten
+            EES-avtal, beredningsgrupp för konstitutionella aspekter På s.smmmmnsssssrsrerenrnrorenenrnrnrsrenrrnsrererrernernenerrrnrnn
+            nanna EES-avtal, lag om ändring i regeringsformen ....................-
+            EG-frågOr, iNSYN dosnnssssssssesesesesrerssenesreresesrererenrersrernerernen
+            nn nn nn EG-medlemskap, parlamentarisk utredning om grundlagsmässiga
+            frågor M.M. ...nnnsssososos Europasamarbetet och parlamentets
+            roll Folkbokföringslag, NY smsmmssesrersereereseesernrenenrrnrnnarnrrrnernnnnn
+            nanna Folkbokföringsregister, m.m. lag OM....sssssssssessessenesnennnnn
+            enar Fri- och rättigheter - allemansrätt ssossssssssesersrsreseerserreresrerrerrernrrnrenn
+            nn nrn renarna anna - beskattningsmaktens gränser M.M...msssssssssersessrssnnennnn
+            - egeNdOMSTätt sssssssessesrerererrennernesrrnnnnn arna nn - fackliga
+            stridsåtgärder .... - familjerätt ............. on - MinOritetsskYyCld......ssssssosesesrereerenrenresrernrernernernnerrnnnrrrn
+            nn nar - närings- och yrkesfrihet.............sssssssossooresnernenrnrnsnnnnn
+            nar
+          </p>
+          <p>
+            28
+          </p>
+          <p>
+            28 26 29 29 25 27
+          </p>
+          <p>
+            29 29 45
+          </p>
+          <p>
+            29 29 29 29
+          </p>
+          <p>
+            14
+          </p>
+          <p>
+            14 14 14 14 14 14 30
+          </p>
+          <p>
+            41 26 11 30
+          </p>
+          <p>
+            22 22 30
+          </p>
+          <p>
+            22 22 Sy 4y
+          </p>
+          <p>
+            13 13 13 13 13 13 13
+          </p>
+          <p>
+            1990/91:KU Reg.
+          </p>
+          <p>
+            12
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_KU/reg_199091_KU_0013"/>
+          <p>
+            - straffliknande administrativa påföljder - äganderätt m.m
+          </p>
+          <p>
+            Fören
+          </p>
+          <p>
+            Granskning - justitieombudsmännens verksamhet
+          </p>
+          <p>
+            1.7.1989—30.6.1990
+          </p>
+          <p>
+            -T
+          </p>
+          <p>
+            1.7.1989—30.6.1990
+          </p>
+          <p>
+            iksdagens förvaltningskontors verksamhet
+          </p>
+          <p>
+            - statsrådens tjänsteutövning och regeringsärendenas
+          </p>
+          <p>
+            handläggning
+          </p>
+          <p>
+            1.
+          </p>
+          <p>
+            Regeringens sammansättning och
+          </p>
+          <p>
+            regeringsarbetets organisation
+          </p>
+          <p>
+            2.
+          </p>
+          <p>
+            Regeringskansliet — statistik och andra
+          </p>
+          <p>
+            redovisningar
+          </p>
+          <p>
+            . Remisser till lagrådet . Författningsutgivningen . Propositioner
+            . Normgivningsfrågor . Offentlighet och sekretess . Den militära
+            underrättelsetjänsten . Riksdagens skrivelser m.m.
+          </p>
+          <p>
+            . Handläggningstider m.m. i bostadsdepartementet
+          </p>
+          <p>
+            . Olovlig avlyssning m.m. . Krigsmaterielexport
+          </p>
+          <p>
+            . Sverige och Gulfkriget . Utlänningsärenden m.m.
+          </p>
+          <p>
+            . Utnämningsärenden m.m. . Statlig personalpolitik . Polisingripanden
+            i september 1989 . Hälso- och sjukvårdsfrågor . Ledningsfrågor
+            i Nordbanken 20. 21.
+          </p>
+          <p>
+            Affären mellan AB Volvo och Procordia AB Fast förbindelse över
+            Öresund
+          </p>
+          <p>
+            Grundlagsfrågor
+          </p>
+          <p>
+            - antalet ledamöter i riksdagen
+          </p>
+          <p>
+            -b -d
+          </p>
+          <p>
+            - etikregler för politiker - folkomröstningsinstitutet - fyraprocentsspärren
+            - författningsdomstol - förstärkt lagprövningsrätt - mandatperiodens
+            längd - mångsyssleriet i politiken - ny grundlagsutredning - pensionärernas
+            medinflytande - personval
+          </p>
+          <p>
+            en gemensamma valdagen
+          </p>
+          <p>
+            ingsrätt, NCZALiV....ssssssssesseossesossrennresrerrennennennrnnnnnrn
+            ann n anna
+          </p>
+          <p>
+            ehörighetskrav för Statsråd ..................essssssssssesersnn
+          </p>
+          <p>
+            - regler för opinionsundersökningar - rösträttsregler - val av
+            statsminister
+          </p>
+          <p>
+            13
+          </p>
+          <p>
+            13
+          </p>
+          <p>
+            6
+          </p>
+          <p>
+            16
+          </p>
+          <p>
+            15
+          </p>
+          <p>
+            30
+          </p>
+          <p>
+            1990/91:KU Reg.
+          </p>
+          <p>
+            13
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_KU/reg_199091_KU_0014"/>
+          <p>
+            Hälso- och sjukvårdsfrågor JO-ämbetet, översyn av Justitieombudsmännens
+            redovisning av sin verksamhet
+          </p>
+          <p>
+            - åtal MOt dOMATE oooseserererersrrserrsrererrnrrsesrrrnsnsnen
+            ennen ennen nonan - Övergång till republik s..snsmmsssssssenenasensensonenenenennnnenrnn
+            erna
+          </p>
+          <p>
+            den 1.7 1989—den 30.6 1990
+          </p>
+          <p>
+            Justitieråd och regeringsråd, ersättare fÖr .....................s----
+            Kollektivanslutning Kommunala frågor
+          </p>
+          <p>
+            - beslutanderätt vid fastställande av avgifter och
+          </p>
+          <p>
+            - delning av kommuner - den fackliga representationen i kommunala
+            NÄMNdE oseesreesrreesrresrensrarerrrrrnnrnnnernnr rn nnens rr
+            n sn n ennen nns nn ennen - den kommunala kompetensen i näringsverksamhet.
+            - den kommunala organisationen — allmänt............... - direktvalda
+            kommundelsOrgan .........sessssesssreserenennnnnn nan - dispensavgifter
+            i trafikärenden..........sssssesersesnnennnnennnnnnn - ekonomisk
+            ersättning till de förtroendevalda - fri nämndorganisation M.M.
+            messmmsssssssserssseenrnrnennrnnn rna - fullmäktige, antalet ledamöter
+            och ersättare i............ - förbud mot kommunalt engagemang
+            i normala affärsdrivande fÖretåag............sessressrersrrsrresrensrnrnrnrnn
+            nan nn anar - handlingsoffentligheten i kommunala företag ...........
+            - insynen i kommunala bolag och stiftelser ..................
+            - JOs talerätt på det oreglerade kommunala området . - kommunal
+            vårdnadsersättning ...........ssesessssnnnnnnn - kommunala bojkottåtgärder
+            mot Sydafrika................ - kommunala folkomröstningar ...........ss.sssrsrssersenrsnnennnnn
+            - kommunala förtroendemäns personliga ansvar för [OS [TT Rn -
+            kommunalt partistöd ...............s.sssessosssessersnssennennnnnrnnn
+            nn - kommunalt vänortssamarbete M.M.....ssssssssssssnnnennnnnnn
+            - kommuntillhörighetsfrågor — medlemskap ............. - minskad
+            statlig StyrNiNg.........s.ssssssssseosensersnssennennnnnnnnnn
+            - misstroendevotum i kommunfullmäktige- och landstingsförsamlingar
+            s.ssmmmssssssesssesersesrarernnsnnennrnnrnnnnnnnnn - partssammansatta
+            OrgaN ..snmmmnssssesesssseresennennsnennnnnn rn nn nn nn - rådgivande
+            kommunala folkomröstningar ................. - självkostnadsprinCipen
+            s.smmssssssssssesesenenrenesnernrnenrnrsnennn nn - snabbare valgenomslag
+            i kommunala styrelser och NÄMNT osossssessereesrersrrennrennnnrnrnrnn
+            nen nnernnn nn nnn nen - stad som benämning på vissa orter - stadsfullmäktige
+            som benämning på kommunfull- mäktige
+          </p>
+          <p>
+            - statliga bidrag till KommUnerNA s..mnmmmsnsssssrsrensnrsnennrnnnn
+            - styrelsen, minsta antalet ledamöter i................-----------
+            - utredning om den kommunala beskattningsrätten.... - utvidgad
+            beskattningsrätt för kommunerna ..............- - utvidgning av
+            Sydafrikalagens tillämpningsområde ..
+          </p>
+          <p>
+            1,32 1,32 30 16
+          </p>
+          <p>
+            16 23 6, 40
+          </p>
+          <p>
+            38 3, 38
+          </p>
+          <p>
+            3, 38 38 38 3, 38 37 3, 38 3, 17, 38 38
+          </p>
+          <p>
+            1990/91:KU Reg.
+          </p>
+          <p>
+            14
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_KU/reg_199091_KU_0015"/>
+          <p>
+            - vidgning av den kommunala kompetensen 1990/91:KU Reg.
+          </p>
+          <p>
+            (u-landsbiståNnd) ..........sssseesesersresesreseseseserrsnnerennnnnnnnnnnnn
+            nn nn 3 - vidgning av kommuners och landstings befogen- heter
+            på det internationella området....................--s.s-. 38 -
+            ökad länsdemoOkrati ssnmmnsssseesssrrrsssrrssrrerrnsnnnnnrrnnrnnnnn
+            anna 3 - ökat brukarinflytande .......sssessssererseessressrernrnnrnrnnrnnnnn
+            anna 38 - Öppna styrelse-, nämnd- och utskottssammanträden. 3,
+            38 - Översyn av sekretesslagen sm.mmmmmssssssesesseenrenesnnennnnennrnnnnen
+            38 Kommunallag, NY smmmsssssrseessressensserssrrernnrsressrenrnnernrernnrnrnenn
+            nr rna nn 38 KrigsmaterieleXpOrt ......ssssssssesessesenneeneenenrenesnsnenrenennenrnnnnrnrnnnn
+            30 Kungliga hov- och slottsstaterna s...msmsmssesessssseserensnrnnennnnnnnnnnn
+            25 Kyrkliga frågor - behörighet till biskOpSstjänSter.................sssssssssssssennannn
+            35 - biskoparnas ställning i kyrkomötet ............s.ssssesssonnne
+            35 - kyrkofondens StyrelS€ su.snmsmssssssssesseesernnennennennennennennnnnn
+            nn 9 - medlemskapsreglerna .... on 9 - stat — kyrka-frågan sssnnssssseseseneneerernenersernrnenrnnnnnnenennnn
+            ennen 9 - titulärt bisKkOpPSSät€ s.sssssssseessesesrrrrssrrrnsrennnrrrnrnnnnrnn
+            rn nn rann 35 - utnämning av biskOPar........sssesssessessersernrenernnrnnennennnnnn
+            nn 35 - utredning om vissa kyrkofondsfrågor ....................-.--
+            9 Nationaldagen som helgdag .........ssssssssresseessrensersnnernnnennernnnnnn
+            5 Nordbanken, ledningsfrågOr i s......s.osesesesesesenenenenennrnnnnnnnnnnen
+            30 Normgivning m.m. - Europadomstolens dOMAar sssnssessssesssersrrnrrennnrrrrnnnnrnn
+            ann 7 - Europakonventionen och rätten till domstols- PLÖVDING
+            oosessesreereresresrererresrernnerneenn ren rerr ennen nen nrn
+            nen nr nen rn nn nnn 7 - funktionshindrades möjligheter till demokrati
+            och INflytä de ooooosesreseereresresresesneerernernr nen rrnrrrn
+            enn ennen nr nr n erna nn 17 - information om grundlagarna 7 -
+            konsekvensanalyser..............ssssssnsn0n 7 - konventioners
+            motsvarighet i svensk rätt 7 - lagrådetSs yttranden .....ssssssssssssenrensenennennenenennen
+            nn ent 7 - med mänsklighetsombuUd ........ssessersseserssreresnsenrennennsnnnnnt
+            17 - originaltext i konventioner, M.M. m.essssssssressrsnsresnnnnnnn
+            7 - ra mlagstiftNiNg...sssssssesseosenrenrernrrrrrerresrnnrerrrnnnenn
+            ennen nen nn n nn 7 - regelförenkling och delegering ............s.sssersssseseoesnsnsnnn
+            17 - remitteringen till lagrådet .......ss.sssssssesereerenenrnnnnnnnnnnn
+            rna 7 - riksbanken, vissa normgivningsfrågor rörande 20 - Svensk
+            författningssamling........ss.ssssssesseseseenesnsnrnnn 7 - särskild
+            ersättningSsfONd s...sssssesssesseesersreseesennnennrnnrnnnn nn
+            nn 7 - tidningen Från Riksdag &amp; Departement m.m. ..........
+            7 - Utred Ningsväsendet.........sssessserseressseresserenerrrnennrerrnrnrnnrnnen
+            7 Normgivningsfrågor, granskning aV...sm.sssesssssssssensnennsnnen
+            30 Offentliga sektorn - friare kommunal nämndorganisation, ändring
+            i lagen om försöksverksamhet med en 17 - förnyelse QV-sinssssesssssrsrenesrsrerereernennnnrnnrnnna
+            ly, 17 - förnyelseprojekt i Örebro län 17 - hälso- och sjukvårdens
+            område, ändring i lagen om 15
+          </p>
+          <p>
+            försöksverksamhet iNnOM....sssssssosssseserrsrsssrererrseerrnnrnr
+            nn rn ann 17
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_KU/reg_199091_KU_0016"/>
+          <p>
+            - pensionärs- och handikapporganisationer, inflytande fÖr sossmmssssrsrrsrsseseesrsrrrrresrereernrersrrnsnnn
+            rara nr nen nn nen Offentlighet, integritet och ADB - anonymitetsskyddet
+            för den som begär att få ta del av allmän handling. ....ssssssesssessressreresnsressrersnrr
+            rens nn rann annen - avidentifiering av ett statistikregister
+            på skolområdet .......ss.ssseserseesereresesresernennrnnennnns
+            - datalagen, ändring i - elektroniska doOKkUmMmenNt....sssssssssressrerrrssersrrrsrrrnrrernnrrrnr
+            ann - företagsdata, skydd fÖr susssssssssersrerrereresesererrerrererrererrn
+            nan - handlingsbegreppet i ADB-sammanhang, fortsatt Utred NiNg
+            QV-ssmoesereesreseereerrerreserrereererrnenenrerern rs ner n ennen
+            eran n na - informationstjänster och EG s...ssssssssrsesresessrsesnenrsnsnnnn
+            - instans för överklagande. ........ssssssssesssesensesnrsnnsnnennsnnsn
+            nr - KLYPterilg oosssssessessessesrerrrerseserrerrennsnnerennen
+            nen ner nen enn ne nerna - personnummer, användning av - TegiSterlagar
+            mosssssssessreserersrersesrrnnrersrsnr rr rer er nr nr rn nen
+            n rn nn - reglering av myndigheternas försäljning av personuppgifter
+            =msssssseresesreresesesenrrrenerrensnenernnenernenennnnen ennen
+            - sekretesslagen, äNdriNg I.smsmmmsesssserseneerenernnrnnnenrrn
+            enn nerna - statliga dataregister, decentralisering aV......................
+            - tryckfrihetsförordningen, ändring I .s.......ss.essessrssrsennn
+            Offentlighet och sekretess Olovlig avlyssning Mulsssossssesseseseesssnssnennesernenresnernnrnrnn
+            ennen nen OrganisationsanSlutNinNg s..mmeesseresreseereersersrserrenrernrsnnrnnnn
+            annan nn Pensionärernas medinflytande s....s..sssssessrsesessrssresnrrernnnnnnn
+            ann Polisingripanden i september 1989.....sssssssssesserssrsersnnsnnnnnnn
+            Politiska partier, Stöd till =msmmsssmsssssssssrsseesresesrrnersnsnnnrnennenn
+            nn rna
+          </p>
+          <p>
+            Propositionsavlämnandet till riksdagen ....s.mssssssssssssnsnennsnnn
+            Radio- och TV-frågor - den nya TV-kanalens ägarkretS...........sssssssesosesneosnnsnnnn
+            - det reklamfinansierade TV-företagets sändning av SpOnNSrade
+            PrOgfåallM smesssssssessesseseresrsnsessrrrrsnrrrnnn enn nr nn
+            nn nn - en ny rikstäckande reklamfinansierad TV-kanal....... -
+            frekvenser för kommunikationsradiO .............e------&gt; -
+            kabellagstiftningen, ändringar I...nmmnmmmsssssesesrrsenrnnenennnna
+            - koncessionstidens längd - KONCESSIONSavgifteh sossssssessssrsrenenrenenenenennen
+            renen nenen nn nnr - konventionen om gränsöverskridande television
+            ...... - lokala kabelsändningar, ändring i lagen Om ..............
+            - lokala TV-statiOner smesssssesessesesseeseeseersesesrnresnrnrernennen
+            nen nnn
+          </p>
+          <p>
+            - medelsberäkningar - närradiolagen, ändring i - programutbudets
+            sammansättning i den nya TV-kanalen aosssssseeersseesrrerrerssrerernrssrnrrsrrrerrenrrrrnrrrrnrrnr
+            ren n rn nana
+          </p>
+          <p>
+            17
+          </p>
+          <p>
+            11
+          </p>
+          <p>
+            11 11 11 11
+          </p>
+          <p>
+            11 11 11 11 11 11
+          </p>
+          <p>
+            11 11 11 11 30 30 40 32 30 27 29 30
+          </p>
+          <p>
+            39
+          </p>
+          <p>
+            39 39 12 12 39 39 12 39 12
+          </p>
+          <p>
+            39 39 39 39
+          </p>
+          <p>
+            39
+          </p>
+          <p>
+            1990/91:KU Reg.
+          </p>
+          <p>
+            16
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_KU/reg_199091_KU_0017"/>
+          <p>
+            - radio och TV i framtiden ssnmmsnssssssesrersrennernnnsnnennn
+            ann nn an - radioansvarighetslagen, ändring i......sm.ssssssssererresrersernnr
+            33, - radiolagen, ändring i.......s.s..sssserersrrrn rna - radiotidningar,
+            ändring i lagen om - reklamfinansierade markbundna svenska TV-SÄäNdNiNgar
+            oosseoseessresereressererersrrerrrnrrrrsrrrrsrrrrrrrrrrerrn rna
+            ner - rundradiosändningar från fartyg ...............s.ssssersr0s0n0nen
+            - rätt att i efterhand ta del av program sända av Sveriges RACIO....ssssosreseossreseessressrersrrernrrerrrerrerrrnrrrrnnrrrn
+            nr an - rätten att sända radio- och TV-program från sändare på
+            Marken sm.mmmmrorsrsoesreresrorenrererrerenernererrersnrn nn nn
+            - styrelser i Sveriges Radio-KkOonCernen ..............s..ssess000
+            - upphovsrätt till litterära och konstnärliga verk, ändring i
+            lagen OM summmsnesssrsrssrsrenesesrenernenerrener nen ennen ennen
+            anna - ytterligare utredning om TV-politiken, krav på ........
+            Regeringens SammansättNiNg .....mossessssesseesersresennernnnnennnnn
+            anna Regeringens skrivelse med redogörelse för behandlingen av
+            riksdagens skrivelser till regeringen ...............s..s00nn
+            30, Regeringsarbetets OrganiSatiOnN s......s.sssseoserssssesseensnrsnrnnnnrnn
+            nan Regeringsformen, ändringar I...onsssssessessessressesesseannesersernnnn
+            nan 20, 21, 22, 23, Regeringskansliet, statistik och andra redovisningar
+            ......... Remisser till lagrådet..........ossoseoeoeneneenenenenenenrenensnnnnenennnn
+            nen ann Riksbanken, vissa normgivningsfrågor rörande .................
+            Riksdagen - bekvämlighetsinrättning för fritidsfiskarna vid kajen
+            intill leda mOtshusSet ....snmsssssssersssrennrsnrnnnnrnnnnnn
+            nana - försäkringsskyddet för riksdagens ledamöter och ANStällddåsssssssssreserserresnrernrerrernrrnrrnn
+            reser er nnrrrn ennen annen enn nn nanna - förvaltningskostnader,
+            anslag till............. 19, - IPU, bidrag tillsmsnmmmsssssssssssresssnsnnsnnnnnnnnnnn
+            nn - JO-delegationens sammansättning - leda mOtSarvVOdenN sessesssesressreresnsrernrrsrnrrsrnnesnr
+            er rrsn er nn enn nn - ledamoOtSSErViCe .mmmmmseeseesrersereressrrsererrennernnerrnrrn
+            er nr n rna nn - Nordiska rådets svenska delegation, anslag till
+            .......... - partigrupper, bidrag till....nsmsmsssssssssesssrnesenrenennenenennnn
+            nana - polisingripande i riksdagens lokaler m.m. s..nnnnnnnnsns
+            - RIFO, bidrag till osssnnmnsssssessssennnsnnennnnnn annan - riksdagens
+            byggnader, anslag till - riksdagens förvaltningskontor, uppdrag
+            till ............... - riksdagens förvaltningskontor, ändrad instruktion
+            07 - riksdagens förvaltningskontors förslag om anslag på tilläggsbudget
+            till statsbudgeten för budgetåret 1990/91 sisoseereraseerereerernenrarerenenrnrenernenennennennnnenen
+            renen nnn erna nana - riksdagens förvaltningskontors verksamhet
+            1.7 1989 — 30.6 1990 osssnmnrarsseneereseenennerrersenenrenesnerenennen
+            nen - riksdagens ledamöter, ersättningar till........................
+            18, 31, 48, - riksdagens ledamöter, sjukavdrag fÖr ................s.--------
+            - riksdagens ombudsmän, anslag till. .nnsmssmsssssssssssnsnnnnn
+            - riksdagens publika databaser s.smmmmmmsssssresrrsnnrsrnrennnrnnnn
+          </p>
+          <p>
+            31, 19,
+          </p>
+          <p>
+            39 39 39 39
+          </p>
+          <p>
+            12 12
+          </p>
+          <p>
+            12
+          </p>
+          <p>
+            12 39
+          </p>
+          <p>
+            39 12 30
+          </p>
+          <p>
+            1990/91:KU Reg.
+          </p>
+          <p>
+            17
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_KU/reg_199091_KU_0018"/>
+          <p>
+            - riksdagsledamöters deltagande i internationella konferenser,
+            anslag till..sssnsssssesssrssseresrsnnrnsnnnennnrrnnrnnnnnn -
+            riksdagstrycket, anslag till sm ssmmsssssssssssssereesrnesnrsnnnrennnnnn
+            - samordning av arvoden för riksdagsledamöter och StatSFÅG ouosooseseeresrerererrsrererererserrererrrnerrenerrenerrrn
+            ennen nenenenn enn nan - sjukavdrag för riksdagens ledamöter...
+            - sjukavdrag för statsråden s...........ssssssssesssrnensnenenensnnrnnnen
+            - språkvård och språkutbildning i riksdagen ................ -
+            studieresor, anslag till...sssmmsssssssesseseererrrenrerersrrrnrrsrrnnnn
+            nen - svenska flaggan i plenisalen sum:mmsssssesesessesnnnnesenenrennrnnnn
+            - telefonsamtal till riksdagen s.mmmssssseersrerrreserorrrrrrrrrrnnn
+            ran - tillhandahållande av riksdagstryck M.M. .......o.o.oososonnn
+            - utgivande av otryckta ståndsprotokoll, anslag till...... - utskottens
+            resor, anslag till....smmssss.ssssssessssesnesnesennnnnnn rna
+            - utsmyckning i riksdagens lokaler - viss fråga om traktamente
+            till riksdagens ledamöter . - återbetalning av uppburna arvoden
+            och löner........... - ärendefördelningen mellan riksdagens utskott
+            .......... Riksdagens arbetsformer - debattformer i rikSdagen
+            ss.smmmmsssessrssreseesensnrnnnennenn rn rna nn - interpellationssvar
+            och frågestund - riksdagens budgetprOCeSS..............ssssessssssesssrsssnrsrsnnnnnnnn
+            - sanningsförsäkran vid utskottsutfrågning ...................
+            - tidpunkten för val av talman smummmmsmsssssssesssrennennrnnnnnennn
+            - utrikesnämndens sammansättning ............ss.ssesenennrnsnn
+            - utskottens ledamotsantal s...smmsssssssssssrsssrasnnrnnnnnnnnnnnn
+            nan - Utvärdering Mal. menssseseesessrerserssrrsrerrererrersnrennernrrnnrn
+            narr Riksdagens Skrivelser sosssmsssssssessesseesesseeneenerrnrsnsnnernnrnnsnnennnnrr
+            Sekretess inom och mellan myndigheter på vårdOmrådet s.....sssssseseererseseresenernenenrnrerererererererranenenenen
+            nn nanna Sekretessbestämmelserna i utrikes- och försvarsdepar-
+            tementen, tillämpningen AV....smmmmsssseesersessennnannnnnnsnnen
+            nn nn Sekretesslagen, lag Om ändring iI....ssmssssssssssssssesnernnrnnnnnrnnan
+            nn Service och vård till äldre och handikappade, ansvaret
+          </p>
+          <p>
+            Skattereformen — vissa taxerings- och kontrollfrågor....... Statlig
+            förvaltning - ansvarsfördelningen mellan stat, kommuner och la
+            NCStil GÖ oooeseeeeererrersrrrrerrsrererrrrsrrerrrrrrrrenrrrrnnnrn
+            nn rr sn nn nn anna - deCENtraliS€riNg..sssesssoseererrererrrerrrerrrerrrrrrrrrrnrnnrrrnn
+            rann nan - kommittéförordningen, ÖVErSyll QV.........ss.sseeserorssnenne
+            - samordning mellan offentliga verksamheter .............. - verksamhetsformer
+            och organisationssätt................... Statlig personalpOlitik
+            = ossmmmmssssssssssersrererrerrrsrnrernnrnnrrnnrrnrrrn nn a Statsråden,
+            sjukavdrag för Statsrådens arvOden s......sssesessesesenennrnnnn
+            Statsrådslönenämnden, avveckling av Svensk författningssamling
+            (SFS), utgivningen av ............. Sverige och Gulfkriget ..mmmmsssrsrersrnrererenenenesenenrnrennerenerennnnn
+            nn Sveriges flagga, åtlydnaden av lagen OM ...........sssssssssonnnnnnnn
+          </p>
+          <p>
+            30,
+          </p>
+          <p>
+            11, 34,
+          </p>
+          <p>
+            1990/91:KU Reg.
+          </p>
+          <p>
+            18
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_KU/reg_199091_KU_0019"/>
+          <p>
+            Trafiknämnd, ändring i lagen OM. ummsmesrssssesersssssssnesersnnnnn
+            37 1990/91:KU Reg. Tryckfrihets- och sekretessfrågor
+          </p>
+          <p>
+            - anonymitet för sökande av offentlig anställning........ 10
+            - barnpornografibrOtt ......s..sssessrsresrrsrsrenasernenenernnn
+            renen nn nn 10 - besvärsrätt för den som berörs av sekretesskyddade
+            uppgifter som har lämnats ut oena 10 - förstärkt skattesekreteSS
+            ....ssssssssssosssensesnennesnennennnnnrn rna nn 10 - förstärkt
+            skydd för meddelares anonymitet vid beslag Mal oosessessessesrerresresrerrrrrrrerernrrnnrnnrnrner
+            renen ernrn nn eran ann 10 - generell översyn av sekretesslaägen..............s.s.sss0so0nnn
+            34 - information mellan socialnämnder...........sssssssssesenennn
+            34 - införande av offentliga föreskrifter för registrering i SÄPOS
+            FegiSter s.nm.nnmnnssssessrssensressrnssrnnserrnnn arr rnnn sn
+            rnnnn rena 10 - minskad sekretess beträffande uppgifter om faderskap
+            sosssnnssresreseernrerneneeneerrsrrrsrresnrsnrrrerernsrerernenennrnnrnn
+            nen 10 - minskad sekretess vid rapportering av läkemedels- MiSSDrUKATCsooososeeessrereeessrssserresereeeerrrreronrrrnesnn
+            er n er nn resorna nn 10, 34 - sekretess för uppgifter om forskning,
+            statistik- framställning m.m. på hälso- och sjukvårdsområdet ...
+            10 - sekretess i asylärende€n....sssssssseesrenrenrseneereseneenesenrennnnen
+            annan 10 - sekretess inom myndigheter på hälso- och sjuk- VårdSOMFrådet...ssssssrsreesrsrerererereneresnrrenenenernenenrenen
+            nana nn rn enn nn 34 - sekretessbeläggning och utgallring av uppgifter
+            i VISSA FCZIStCl oososossesseerrereerrereernsrrrrsrarrrrnerrenrrrenenerr
+            ene n nn en nanna 10 - sekretesskydd för uppgifter i anmälan till
+            hälso- och sjukvårdens ansvarsnämnNdÅ .mmssssssssssesssrsrsesrnnnnnnn
+            rn 10 - skärpning av folkbokföringssekretessen m.m.............
+            10 - skärpt sekretess för uppgifter i vapenregistret............
+            10 - Översyn av myndigheters tillämpning av sekre- tesSlagstiftNiNgeN
+            osososssessseseseesessressrennernennenenesn eran nrnen nn nen
+            annan 10 - Översyn av sekretessregler gällande utsatta barn ........
+            34 - Översyn av sekretessregler rörande social- tjänsten/SKOIlaN
+            sissssessssessresseessrrssssrarsnsesnernrnnrnnernrnnen arenan
+            nana 34 Tryckfrihetsförordningen, lag om ändring i............s.s.--s---
+            11, 21 Uppskov till 1991/92 års riksmöte med behandlingen av vissa
+            ärenden 46 Utlänningsärenden M.M. smesssesesssersessressersrsessrsernrnsnernennnnen
+            annan 30 Utnämningsärenden Mull smmsssessesessrserresesrnesrernenensnan
+            ennen enn 30 Vallagsfrågor - DUCFÖStNiNGssooseeeeressrressreserersrrrnennrrnnnernern
+            nr rnn ennen rna n erna nn 4 - kyrkliga val, Mulssmmssssssessressressrrnrsrserresesesnenrsnrn
+            ennen en nn nn 4 - partibegreppet i vallagen, M.M. sm.essmsseeesssesesennnnsnnnnnn
+            4 - valkretsindelningen i Malmöhus län . 4 - vallängds offentlighet
+            ......s.sssssssssesrsrresesrenenrnsrnrnrnnnn nn ann 4 - valsystemet
+            vid kommun- och landstingsval .............. 4 Volvo AB och Procordia
+            AB, affären mellan..................... 30 Yttrandefrihetsgrundlag
+            - barnpornografibrOtt .........sssesssrrrsrrrssressersesrenrerrerrrnnrnnnn
+            na 21 - censur/förhandsgranskning av filmer och video- 19
+          </p>
+          <p>
+            24 8316 &amp; VR 21
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_KU/reg_199091_KU_0020"/>
+          <p>
+            - meddelarfrihet i förhållandet mellan enskilda
+          </p>
+          <p>
+            - olaga våldsskildring - parallellinstruktion
+          </p>
+          <p>
+            - yttrandefrihetsgrundlag, NY sm..mmmesseseesersesrnrenennnnennnnennn
+            Äldre och handikappade, ansvaret för service och vård
+          </p>
+          <p>
+            Ärendefördelningen mellan riksdagens utskott
+          </p>
+          <p>
+            Öresund, fast förbindelse över
+          </p>
+          <p>
+            gotab 98974, Stockholm 1991
+          </p>
+          <p>
+            21 21 21 21
+          </p>
+          <p>
+            3y 47 30
+          </p>
+          <p>
+            1990/91:KU Reg.
+          </p>
+          <p>
+            20
+          </p>
         </div>
       </div>
     </body>

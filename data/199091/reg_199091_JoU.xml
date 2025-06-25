@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="reg_199091_JoU">
   <teiHeader>
     <fileDesc>
       <titleStmt/>
@@ -19,203 +19,1105 @@
   </teiHeader>
   <text>
     <body>
-      <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_JoU/reg_199091_JoU-000.pdf"/>
+      <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_JoU/reg_199091_JoU_0000"/>
       <div type="gBody">
         <div>
-          <p>Jordbruksutskottets register vid</p>
-          <p>dr</p>
-          <p>riksmötet 1990/91 5 1990/91 JoU Reg. Betänkanden Nr JoU01 Jordförvärvslagen Utskottets justering: 1990-09-26 Debatt i kammaren 1990-10-17 Protokollsnhummer 1990/91:11 Riksdagens beslut: Bifall till utskottets hemställan 1990-10-24 Protokollsnummer 1990/91:14 Riksdagsskrivelse - Nr JoU02 Vattenlagen Utskottets justering: 1990-09-26 Debatt i kammaren 1990-10-17 Protokollsnummer 1990/91:11 Riksdagens beslut: Bifall till utskottets hemställan 1990-10-24 Protokollshnummer 1990/91:14 Riksdagsskrivelse - Nr JoU03 Kemikaliekontroll Utskottets justering: 1990-09-26 Debatt i kammaren 1990-10-17 Protokollsnummer 1990/91:11 Riksdagens beslut: Bifall till utskottets hemställan 1990-10-24 Protokollsnhummer 1990/91:14 Riksdagsskrivelse - Nr JoU04 Trädgårdsnäringen Utskottets justering: 1990-09-26 Debatt i kammaren 1990-10-24 Protokollsnhummer 1990/91:14 Riksdagens beslut: Bifall till utskottets hemställan 1990-11-07 Protokollshnummer 1990/91:19</p>
-          <p>Riksdagsskrivelse</p>
-          <p>1 Riksdagen 1990/91. 16 saml. Register</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_JoU/reg_199091_JoU-001.pdf"/>
-          <p>Nr JoU0S Livsmedelskontroll Utskottets justering: Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnhummer Riksdagsskrivelse</p>
-          <p>Nr JoU06 Vatten- och luftvård Utskottets justering: Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse</p>
-          <p>Nr JoU07 Miljöskyddslagstiftningen Utskottets justering: Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till utskottets hemställan Protokollshnummer Riksdagsskrivelse</p>
-          <p>Nr JoU08 Naturvård Utskottets justering: Debatt i kammaren Protokollsnhummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse</p>
-          <p>Nr JoU09 Strålskydd Utskottets justering: Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnhummer Riksdagsskrivelse</p>
-          <p>Nr JoU10 Jakt och viltvård Utskottets justering: Debatt i kammaren Protokollsnhummer</p>
-          <p>1990-10-09 1990-10-24 1990/91:14 1990-11-07 1990/91:19</p>
-          <p>1990-10-09 1990-10-24 1990/91:14 1990-11-07 1990/91:19</p>
-          <p>1990-10-23 1990-11-14 1990/91:24 1990-11-21 1990/91:29</p>
-          <p>1990-10-23 1990-11-14 1990/91:24 1990-11-21 1990/91:29</p>
-          <p>1990-11-06 1990-11-28 1990/91:34 1990-11-28 1990/91:34</p>
-          <p>1990-11-06 1990-11-21 1990/91:29</p>
-          <p>1990/91:JoU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_JoU/reg_199091_JoU-002.pdf"/>
-          <p>Riksdagens beslut: Bifall till utskottets hemställan 1990-11-21 Protokollsnhummer 1990/91:29 Riksdagsskrivelse -</p>
-          <p>Nr JoU11 Förlängd tid för registrering av licensområden för älgjakt (prop. 1990/91:28)</p>
-          <p>Utskottets justering: 1990-11-15 Debatt i kammaren 1990-11-28 Protokollsnummer 1990/91:34 Riksdagens beslut: Bifall till utskottets hemställan 1990-11-28 Protokollsnummer 1990/91:34 Riksdagsskrivelse 1990/91:45 Nr JoU12 Ändring i rennäringslagen, m.m. (prop. 1990/91:4) Utskottets justering: 1990-11-13 Debatt i kammaren 1990-11-28 Protokollsnummer 1990/91:34 Riksdagens beslut: Bifall till utskottets hemställan 1990-11-28 Protokollsnummer 1990/91:34 Riksdagsskrivelse 1990/91:46 Nr JoU13 Skogsbruket i fjällnära skogar (prop. 1990/91:3) Utskottets justering: 1990-11-22 Debatt i kammaren 1990-12-06 Protokollsnummer 1990/91:40 Riksdagens beslut: Bifall till utskottets hemställan 1990-12-06 Protokollsnummer 1990/91:40 Riksdagsskrivelse 1990/91:70 Nr JoU14 Björnlandets och Djurö nationalparker (prop. 1990/91:31) Utskottets justering: 1990-11-13 Riksdagens beslut: Bifall till utskottets hemställan 1990-12-06 Protokollsnhummer 1990/91:40 Riksdagsskrivelse 1990/91:71 Nr JoU1S5 Atgärder mot miljöfarliga blybatterier (prop. 1990/91:36) Utskottets justering: 1990-11-27 Debatt i kammaren 1990-12-12 Protokollsnummer 1990/91:44 Riksdagens beslut: Bifall till utskottets hemställan 1990-12-12 Protokollsnummer 1990/91:44 Riksdagsskrivelse 1990/91:77</p>
-          <p>1990/91:JoU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_JoU/reg_199091_JoU-003.pdf"/>
-          <p>Nr JoU16 Miljöprojekt Göteborg (skriv. 1990/91:6) Utskottets justering: Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse</p>
-          <p>Nr JoU17 Buller Utskottets justering: Debatt i kammaren Protokollsnhummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse</p>
-          <p>Nr JoU18 Djurskydd m.m. Utskottets justering: Debatt i kammaren Protokollsnhummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse</p>
-          <p>Nr JoU19</p>
-          <p>1990-11-27 1990-12-12 1990/91:44 1990-12-12 1990/91:44 1990/91:78</p>
-          <p>1990-10-25 1990-11-14 1990/91:24 1990-11-21 1990/91:29 1990/91:27</p>
-          <p>1991-02-19 1991-03-13 1990/91:77 1991-03-13 1990/91:77 1990/91:137</p>
-          <p>Tilläggsbudget I till statsbudgeten för budgetåret 1990/91</p>
-          <p>(jordbruksdepartementet) (prop. 1990/91:25 bil. 5) Utskottets justering: Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse</p>
-          <p>Nr JoU20 Djurförsök m.m. Utskottets justering: Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse</p>
-          <p>Nr JoU21 Lag om vissa dryckesförpackningar (prop. 1990/91:71) Utskottets justering: Debatt i kammaren</p>
-          <p>1990-11-29 1990-12-12 1990/91:44 1990-12-12 1990/91:44 1990/91:79</p>
-          <p>1991-02-19 1991-03-20 1990/91:82 1991-03-20 1990/91:82</p>
-          <p>1991-04-12 1991-05-03</p>
-          <p>1990/91:JoU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_JoU/reg_199091_JoU-004.pdf"/>
-          <p>Protokollsnummer 1990/91:106 Riksdagens beslut: Bifall till utskottets hemställan 1991-05-08 Protokollsnummer 1990/91:109 Riksdagsskrivelse 1990/91:251 Nr JoU22</p>
-          <p>Statsbudgeten för budgetåret 1991/92 (jordbruksdepartementet) (prop. 1990/91:100 bil. 11)</p>
-          <p>Utskottets justering: 1991-03-14 Debatt i kammaren 1991-04-17 Protokollsnhummer 1990/91:96 Riksdagens beslut: Bifall till utskottets hemställan 1991-04-18 Protokollsnhummer 1990/91:97 Riksdagsskrivelse 1990/91:202 Nr JoU23</p>
-          <p>Statsbudgeten för budgetåret 1991/92 (miljödepartementet) (prop. 1990/91:100 bil. 16)</p>
-          <p>Utskottets justering: 1991-02-21 Förslag till beslut: Bifall prop., avslag motioner Riksdagens beslut: Bifall till utskottets hemställan 1991-03-20 Protokollsnhummer 1990/91:82 Riksdagsskrivelse 1990/91:146 Nr JoU24 Gränsskydd för rågvete m.m. (prop. 1990/91:105) Utskottets justering: 1991-03-14 Förslag till beslut: Bifall prop., inga motioner Riksdagens beslut: Bifall till utskottets hemställan 1991-04-18 Protokollsnhummer 1990/91:97 Riksdagsskrivelse 1990/91:203 Nr JoU2S Näringspolitik för tillväxt (prop. 1990/91:87) Utskottets justering: 1991-04-25 Debatt i kammaren 1991-05-16 Protokollshummer 1990/91:113 Riksdagens beslut: Bifall till utskottets hemställan 1991-05-17 Protokollsnhummer 1990/91:114 Riksdagsskrivelse 1990/91:283 Nr JoU26 Ändring i jordförvärvslagen m.m. (prop. 1990/91:155) Utskottets justering: 1991-05-16 Debatt i kammaren 1991-06-04 Protokollshummer 1990/91:125 Riksdagens beslut: Bifall till utskottets hemställan 1991-06-05 Protokollshummer 1990/91:126 Riksdagsskrivelse 1990/91:346</p>
-          <p>1" Riksdagen 1990/91. 16 saml. Register</p>
-          <p>1990/91:JoU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_JoU/reg_199091_JoU-005.pdf"/>
-          <p>Nr JoU27 Stödet till jordbruket och livsmedelsindustrin i norra Sverige, m.m. (prop. 1990/91:99)</p>
-          <p>Utskottets justering: 1991-04-19 Debatt i kammaren 1991-05-15 Protokollsnummer 1990/91:112 Riksdagens beslut: Bifall till utskottets hemställan 1991-05-15 Protokollsnummer 1990/91:112 Riksdagsskrivelse 1990/91:276 Nr JoU28</p>
-          <p>Vissa tillsynsfrågor enligt vattenlagen m.m. (prop. 1990/91:114)</p>
-          <p>Utskottets justering: 1991-04-16 Riksdagens beslut: Bifall till utskottets hemställan 1991-05-08 Protokollsrhummer 1990/91:109 Riksdagsskrivelse 1990/91:252 Nr JoU29 Uppskov med behandlingen av vissa ärenden Utskottets justering: 1991-05-17 Nr JoU30 Miljöpolitiken (prop. 1990/91:90) Utskottets justering: 1991-05-15 Debatt i kammaren 1991-06-03 Protokollsnummer 1990/91:124 Riksdagens beslut: Bifall till utskottets hemställan 1991-06-04 Protokollsnrhummer 1990/91:125 Riksdagsskrivelse 1990/91:338 Nr JoU31 Vissa livsmedelspolitiska frågor (prop. 1990/91:191) Utskottets justering: 1991-05-29 Debatt i kammaren 1991-06-10 Protokollsnhummer 1990/91:128 Riksdagens beslut: Bifall till utskottets hemställan 1991-06-11 Protokollsnummer 1990/91:129 Riksdagsskrivelse 1990/91:365 Yttranden</p>
-          <p>Nr JoUly till BoU Fastighetsbildning för landsbygdens behov m.m. Utskottets justering: 1990-09-26</p>
-          <p>Nr JoU2y till UU Sverige och den västeuropeiska integrationen Utskottets justering: 1990-10-16</p>
-          <p>1990/91:JoU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_JoU/reg_199091_JoU-006.pdf"/>
-          <p>Nr JoU3y till SKU Vissa frågor inför allmän fastighetstaxering år 1992 (prop. 1990/91:47) Utskottets justering: 1990-11-22</p>
-          <p>Nr JoU4y till BoU Anslag till länsstyrelserna m.m. Utskottets justering: 1991-02-19</p>
-          <p>Nr JoUSy till KU Arendefördelningen mellan riksdagens utskott m.m. Utskottets justering: 1991-03-14</p>
-          <p>Nr JoU6y till SkU Skogsvårdsavgiften Utskottets justering: 1991-02-21</p>
-          <p>Nr JoU7y till FöU Totalförsvarets civila del: Funktionen Livsmedelsförsörjning m.m. (prop. 1990/91:102 bil. 4) Utskottets justering: 1991-03-28</p>
-          <p>Nr JoU8y till NU Förstärkt konkurrens på livsmedelsområdet (prop. 1990/91:147) Utskottets justering: 1991-05-02</p>
-          <p>Nr JoU9y till FiU Förslag till slutlig reglering av statsbudgeten för budgetåret 1991/92, m.m. (prop. 1990/91:150) Utskottets justering: 1991-05-16</p>
-          <p>1990/91:JoU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_JoU/reg_199091_JoU-007.pdf"/>
-          <p>Sakregister 1,1, 1,-triKklOretål oossmsssssssroseeseeaerrarsrererrrrerrerererrernrnr rer rnnnn nn rann nan</p>
-          <p>FN TR TOT ATS 0 EV a VR Aktionsplan mot buller susmmmssssssesssessreessrssresnrerenennernennnrn enn nnn Aktörsbaserade miljövårdsorgan .... AlemansSrätten...smmmsssssesrsseseesrereresresrernernenennsnnrrnner enn ennen er nnn nan Allmän fiskevårdsavgift .............ssssoseseosesesenennenreneseneronnennnnn rna Alternativa MetOder smssssssessreserserssrsnssersernrnesnnennnennesnnsnnnnnn nn AMaIgaM oosoeeseseeeesresresseseerneesnrrnrrrrnrrerrnrerernnrrnn ner nr ennen nen r rerna a Ambulerande gårdsslakteriet......sss.ssssssonsnsesenesesnnnnsnnnnnnrnnnn en AMMONIAK oosooosoeeerersreseerrenrersrernrnerrrnrernrrrnrer rr nr rr re rnrrner nr n nan Anläggningsstöd till blandbestånd av barrträd och ädellÖvSKOQ o.ssnnenrenaenesreresesnarnennesnnrenrenerrnesnennennernernrnnnn enn rn enn nan Anläggningsstödet</p>
-          <p>ArbetsbelaSstniNlg smsmmmmmssessrrseresnrenssrensnresnrrnnernnesnnnrrrnrrnen nr nrnnnnn Arbetsfordon .......... Arbetsmetoder Arbetsmiljölagen</p>
-          <p>ATealbidräag...sssnnsseseseseeeseeneennrnrnerersnrrrrrresnernnrnnrnnrnnrn er nrnrnnn nns ATealerSätt NiNg.....sssmmssseosrereonrrerrensserererernernrnrnrrnnn nere nrrnn nr n rna nn</p>
-          <p>Art- och biotopskydd Atmosfären och klimatet s...snmmmssnsessresssesneennerennrsennernrnnrnrnn ann AvbytarverkSam heti..ssnsnnsssssssreenerrensrrssrernnerenessrrrennrrnennnrnenn ann AVfall ooooeesseesrrsrersrreerererrrrserrrrersrnrarnrrrnnnrrnernnnenn nns nr enn nen rr nrn nn n nn Avfallshantering.....ssssssessessressrensnrennsrsnsersnnernerenrnnrnnrrnrnn nn rn n nns AvfallsreduktiOnD ssmsnnesressessressnressrensrrsnnrnnrnennrrrnnrennrrnrrnn rn nn nen Avfallstaxor Avgasdeklaration för motorfordon AVgASKIAV oosomeesreeresreresesreseesrenerenernrrnnennernennenn arne nere rrnrnen enn nera AVgZaSNOTMET oosoooerereeseesresrrrerrenrrererrrrsrrsrnrrnn nen nnrn rss err nen nen nn rna AVgASTCNINGosoeseeerreesesresesrerrennnresrrererrrsrnrsnerrrnnrrnn rr nrrn rn nen nr nn Avgift på gödselmedel m.ssmmmnmasesresresenrenennnnenesnennenenerernnnrnnnn rna AVgiffCr oossosssrereereereeresrererereennenrrennennrrnernnerern nen nernernrsn earn nn nn nanna Avloppsrening.............. Avsvavlingskapacitet</p>
-          <p>Baltiska StäterNa...ssnssssssessreesnsrsrrerenrrrerrnnreennn nr enn n nr renen renen BarmarkSkÖrnNilg....sssssssressressrensnreroneerorenrennersrnnnrrnnrnrrnnrn nn neat Barrskogsplanterilg.....ssssssssseseeseesnreneerernnernennernrennrnernrnnnnnnen nn BaselkOnventiON€Ch s.smmssseesessrrersesersrssennrrrrenn reser seen renen rann rna</p>
-          <p>1990/91:JoU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_JoU/reg_199091_JoU-008.pdf"/>
-          <p>Batteri€losssssssssseererrerrsreesrrrnrenrrnnnrrrrrnn reson nn rr rr rrn nen nr ner ner n renarna Bekämpnings- och gödslingsfria ZONEI sm. smmsmssseeeseseeresereenennn Bekämpningsmedel .nnsmnssssssssesresrrsrerrrnnrresrererrernrnennenrrnrennnnn Bekämpningsmedel vid flygplatser msmmmmsssssreseesrorsnrennennennnr</p>
-          <p>BeredningstvåNget........esessessssesesrsrnnrseneneresenrrnensrnensnnenrnrnnnnnnen BeredskapslagfiNg...ssmmmsnsssressennenerensrerereenernerrersererrenrrnrnnrrnn nen BeredSskapsSkäl.sssmmmmnnssessessesenersneseeneenesnrrernrsnrresnerernrrrnrnnrnnn nn BernkOnventiOnNe€h...smmssessesserssrererssseenresnrrnernnrnnesnnrerernnrrnn nerna Bevarandelag....smsmssseseresnerrrreneernrerrresressrerrrrrerreennnernesnrrrnnrnnr nn nn Bevattningsföretag s..mmemseesressersersneesnensnnennrnnnn Bidrag till fiskevård BilskrOtningSpremMie€h..ssmmmssssseeseeseesesrennersnnenerrennenenn ennen rn nan nen BiOClilQoonesnesrsrereerrennennernerseenenneerern enn ennen nr ernrnernener arr ne nen n rn ennen Biologisk bekämpning s.mmmmnmesaesesneesennennnnesnesernennrnrenern ennen annan Biologiska bekämpningsmedel. .nsmmsssssssssessrrsneseserrsnerennenennn Biologiska mångfalden Bioteknik......nsssssssensnnnnnn ana Biotopskydd BiStåNd oossssrsrsrsessreesererersesrsrnnenenrnrenenseenen ene en enn ennen ennen ennen ennen Björnprojektet....snsssssrsssrereessesoseererenrrrnrrernrrrrrrernererrrrrrrnn nen n nn nen BlodtryCkSmätar€.....sssssssssssnesesrsesenesnernennennernrnrnenernenenerernrnen anar</p>
-          <p>Blybatteri€r ooossmsssssssssesenresrenesrernrsresnesnenn ere nrrnenernener nen n rn rn nn nn Blyhagel Bo- och brukarprincipen BOmMtrålfiSke€ ossmnssesesrerererenerennenernerrnrnsrnnen ennen ense ene enar en enar eran nen BOtten havet ooosssssssseessresrerernseerenrerrrerersnnrrrrrrerrernernerrnrrnnrrn nns nn Bromerade flamskyddsmedel omnsssmnnsssssssesssssesnrenrsnnrsnnnsnnnrnnen Brukningsen het susmnmsssssssseessensrersrensernnrnsnnnnernesnnrnnernrern nen nnrn nen</p>
-          <p>Bruna DÖNOT sossmmsssssaessesssereeeeeeeeereerereerernerrrerrerrerrenern enn nn nn rn rn rna</p>
-          <p>CAP (EGs gemensamma jordbrukspolitik) s...mnmmm+m+===+2&gt; &gt;&gt;&gt; Centrala försöksdjursnämnden su smmmmsssrssersrsresnresresernnnennnnn nn Cesium</p>
-          <p>Dalälvsprojektet .......ssssssossoseoesnneseneeneennennrrsnnsnsrrnnennrnrnnennrnnnn nn Den Europeiska konventionen den 13 december 1968 om skydd av djur under internationella transporter ......... Dikning av SKOgSMarKker smssmnssssssssenssressesnssnrereresenesennnrnn nn nn nan Dikväveoxid (lUStgåaS) sesmmmnmsressessreseoreeersesessesnsnnenernrnnrnnrnnrnnnn DIOXIN ooo oeseeersesereseereoererrerrrrrererrrrrrrrnnrennrrrnnnnernesnnrnnenn nen n ren n nanna</p>
-          <p>3,5,</p>
-          <p>15</p>
-          <p>20,</p>
-          <p>30,</p>
-          <p>30 30</p>
-          <p>1990/91:JoU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_JoU/reg_199091_JoU-009.pdf"/>
-          <p>Djuretiska NÄäMmnNder smussmmssssssssrsresesreresenerrnnerennrnsnrnrnsnrnenrnn nana 20 -1990/91:JoU Reg.</p>
-          <p>DjurföÖrSÖK sssssosseserrrssrssrrresrrresrersnsrerrnnrrnrrrsnrrnnnrnnsrnrnnnrrnnr nn rn n nn 20 DjurförsöksforskNiNg s.mmmmerrerreresresersnrsnesnesnenrrenennernrn enn ne nn nn 27 Djur plågeris.ssssssessssererererenenenenenenenenenenenenenenen eran nn nen nnnnnn enn n nn nn 18 Djurskydd och djurhälsOvård ......ssssssssserererrrsrenernrnrnen annan 22 Djurskyddets OrganisatiOn smsmesesessseseeserrersernessrnrsnenennensnnn enn 18 Djurskyddslagen smssmmsssssrsrerereerrenesersrrrrrenrsresrrrnsrennnrnnrnernn nanna 18 DjurskyddstillSYyNn€f ss omssssssrsrssnesesesenrsrsrsesesennsnnennrnrnenen eran ana 18 DOMäÄänfONdenN sussoseeeseessersrerrsrresrenseenrerernrrnnrrnnsnr narr rnnn nens erna nanna 30 Dosföreskrifter sosmnnmssssssreesrensrrnseennrenenennnenrnsnnrennnernnnnnn annan rn nana 9 | DTETA SVE TATA 4 30 DFiVMedel ossnoseeeressresrerresresrrerenrrsrenrernennrnn ennen nen ner ennen renen anna ann 30 Dr iVvnätSfiSke smsssssseessreserenreresrrrerenrrrnnrrernrsnrrnn aren nen nen n enn n nero n nn 25 |D: Te 30 ECE (Economic Commission for Europe).................-.------ 2y EEA (European Environment AgenCy)J..........ssssssssesssnsn 2y | 2 2y EG ooooeereesesesesrererennernerenesnesennennrnenennenen erna renen en nsn annen ennen e nen ennen enn 4 EG-anpassningen 2y Ekologisk balanS msssmsnsssessosesesrenenrorenrenerenrenenennrrernanernenernrnnn nen 30 Ekologiska toalettsystem ................... 6 Ekonomisk fördel.........sssssssssesorennn nn 30 Ekonomiska styrmedel 30 ElproduktiOn s..sssnsssssesrsresnrnnn nn 30 EMÅND oosoesessesrererrerrererrerernerserrerennenennnnrnnnn enn nana 30 Epidemiologiska undersökningar ................. 6 ExpOortfinanSieriNngen...mmmssssessesessrensessennenernnnnnrnnnn enn nn 8y ExpOrtsamverkan..ssmsssesseesseseneerenenrernenrenesennnrernsnennnnenenn ennen enn 8y Exportstöd för KONSErvärter ssmssssssssssesersessesserrsnnnneresnnrnnnnn 22 Fabrikspotatisodlingen ....ssssssrssessrensrnresesnennenrnsrennnrnnerrennn annan 31 Fackliga befogenheter smmmmssssssessesressesreseeseenrernesnnnnnernernrnn nn nen 30 Farligt gOCS .ssmnsssssnesererresneenrenrenrennrnnernrsrrrnerrrrnnrnsn nr nnrnr nn annen 30 FastighetsbildniNg......msssssssesenrenenenneneenenesrnnenennenennanennnnen ann nn nn ly Fastighetsbildning för bostadsändamål ..............es.sssssss0nnnn ly Fastighetsbildning för jord- och skogsbruk................-.+-+--+- ly Fastighetstaxering istarrssrara rar rssessssssssssssssss nanna nn nonan nan sno nonan ann 3y Fauna- och floravården ......ssssesersersrsssssererererenerenenenenen ann nana 30 Fiberbankar.s...sssssssesenerneseenesrenenrerneneanenenrenenenner arenan annen renarna nen 30 FiISKOooooeosrerererererenrrsrenerrererrenerresrerenernenesnenenennsn enar nen ennen enas nerna nn 30 Fiskead ministratiOn ....sssssessrsrerseoererenernenerererererererenenennnen nn nanna 25 FiskefrågOr sssnsssrsrerernernernerereresrerererererenerenerererenenenenenenen ene nn ann nnn 25 FiskenämndernNa smmssssesssesessserrersenrrrsersrrnennerrernernennsnnnrnn nn ran nn 25 FiSkerilån oosssssseseoesesrereneererrererresesrererrenenerrerenen senere nen nrn enn nn nn 25 Fiskeriverket oossmmsssssessrersrsrerrsrnrrrerersrersrernrrnnersnnsnnrnnnnrrn nr n nen 25 LÄ VET 6 (Aa 12 FiskevårdsOmråden......sssssseosesesernenernesenesnenenennenennnnennrnen nn nonan 22,25 FiskOdliNgar sossmsoeseseeseseersenneserreneenenennenenesnenenen ere enn ennen rn enn n ann 30 10</p>
-          <p>Fjällhed arna smsssssssressreesrressrressrrtorernrrernannenrnrannnrr nere narr nr nn n rann 30</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_JoU/reg_199091_JoU-010.pdf"/>
-          <p>Flygkarterilg...snsssseseeseersesresesnreresnereeneeronesenernernnernnrrnernennnnenennn Fonder för miljöprojekt. ......ssssssssssssererrrerresrsonenererernnnernnrnnn rna FOrmaldehyd ssssnmsnaasseseneserererererersrrernrnrernnnerennrnrnner enn r rr nr rann FOSfatreNiNgSgradC sussmmsssesseresrenerereseseeresnnrresnesnernnrennrnnrnennrnrnnn nn Fosforfria tvättmedel... FOteVikeDoooossseeeeresrrresrerererrresrrsrnarnrerernnnnrr ren n enn renen n ran ne nen rn anna FFeEONEI oooeseeerererrererenserereerrerrerrennrennererssrnnnnnnerrnn renar enn nns n nn rann Fria handredskapsfisket, utredningar s....smsseeeeesessresernsnnnnnnn Frid lySNiNg sosssssresresreseeneeresesrnerrrereserrrernnrsernrrnrrrnernrrnnrnernrn ennen FritidSbåtar s..ssnnsnssssesesesesernerererererersrsrrrrrerneneren ennen ene nen annen rerna FruktOdliNngen msssmmssssssessresseresenrereresrerenanereerannnnne rer nnn rn nr rn rena FruktSOFrt€r sossnsssssssresrsseresnrrsssresrernressnrernsnnnnsn enes enn nere re ner nanna nen Ftalat€rlssssssssesrersreereeserrnnrererennrrrrerrernsrnrrsrnrnnrennr een rerrnnr nr n nn enat FångstmetOde€r.......ssseseosesessenesenennenrenenenenernnenenennnnnnnn Får- och lammkött, marknadsföringsinsatser FäbOdbrUuketsossnnnnsssersrereseresnrernnnrernnrrnnsnnnnnnrrrrennnnrernnnern nn rna nen Färjetrafiken...ssnmsssssseerenasesrerersenrenenerenesnennnrrernennennerernnrn rn en enenen nn Förbud mot blyhagel. smsmmsmssreseesesersrensenesenrernnrrnnrnnsnernrnnn nan Fördjupade verksam hetsplaner smmmmmssssssssresesesseenesnrnnsnnnnennnn Förenta nationernas miljöfONC smsmmmsssssssessrresenrsssrerrrnnnnnnnr</p>
-          <p>Förmalningsavgift FÖrpaCknNinNgar smsmsssssesasesrsessesesreserenenrenesnnesernernen nen ernrn enar en ennnnn FörpackningsutredniNngen..mmeseessssresresserereennennrnennrnenenenennnn FÖTSUTDNÅNQoooosserereserreseerenerenenrenennenenen arean een een arne nen nen en ennen annen FÖrSsurningSsåtgärder smmmsmsssesrssesenenesersrreneenerernnenennrnennsnnnrnn nen</p>
-          <p>GATT-avtalet GATT-runda GEeEnNbanNkelossoossssesesesererorrrserrerrrerersereesrrrrnrnrrrrrnrn nn rer nnn nn n rn nn nn a Genetiska arv GEtNärlNgeN oosseeseeereeesereseersrsnresnerrsnrrnnnrerernerrnn ner rnn ren n ene nnrn enn GIESDYgA ouososeeseerereneereseererenesrereneeneneneresnrnnnenernenern renen rrnrn enar en enn Global miljöfONC sissnnsssssserasresesnrenenresersnrresnernern rr nn nn enn nn enn nen</p>
-          <p>Granplantering, begränsning aV..smssssssssssssersresesrenensnenesnnnn Granskningskonferens om freonutsläpp GYTOCCJUT oosossreeerereeserenernesreseenesrreresnrnern ner nnennenerrnnenn ene nrn enn nan GFTUStäkter oossssseseerresresrereererrenresnesnsnennere ren nernrsnnrrnrrn enn ennen nr nen enn [ TAKEN FI GFYÄNSSKYCAG oososssreseeseesresresreneenernrersesnesesnnernnenesnnernrern enn ennen nn nat GF ÄNSVÄrdeN sosse esseseseeesressersrrenersnresrenersrrnnnnrnrrnn rer n nn ennen rn ennen Gränsvärden för formaldehyd och mögelsporer ................ Gränsvärden för radioaktivitet ....sssssssssessrssesereserrsnrnrsnrrnnnnn Gränsöverskridande luftföroreningar ....mssssseessesesessnrnnnnnnn Gränsöverskridande transporter GrÖnNOMFTåden sissssreseerererrereresesrenenennnnnn nn n an Gullspångslaxen</p>
-          <p>13,</p>
-          <p>30 30</p>
-          <p>1990/91:JoU Reg.</p>
-          <p>11</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_JoU/reg_199091_JoU-011.pdf"/>
-          <p>Göta Älv-dalsbäCkenet ...smmmmmsunsrsrssssssrsrssrsesrneneenennrnenen anno ann</p>
-          <p>Halogenerade organiska föreningar .............. HalOnN€rooossossoseesererereerrreoesesererrrrerernnrrrrrrnnnrr rr rna 3, Handelsgödsel sosssmmsnnssnnssennnnnna Handelspolitik...............-.-- Handikappanpassning Hanteringstillstånd ......mnsnsssssssseoesesenenennnnnnnnn na</p>
-          <p>HELCOM oosomursrreeressreseeseresresresesrerereernrernrernennrrrrrnrrrnnnrrrrernr annen nn HelikopterskidåkninNg.......s.sssesssrseoesesesenenenenennsnerenenenennnnnnnn nn 8, HOTNANlägosoooeeseerereeeesreersreeereersrennersrrerrrrrererererrernnnnrrrrnn nr rr rnn aren HOrnbOrgaSjÖN sssesseeseesesennesrersereerenrrnrrnernernrnnrennrrnrenrrn nen nr nn nan Hotade djur- och vVäxtäarter......sssssssssssessesrenrerersnrennenrernrnnnrnnnn Hushållningssällskapens Stadgar ......mssssssoseseonenennennnnenernnnnnnnn Hyggesstorleken smsssssesseseosesnsesrennenrensersserssrrnnrrernnnrrnnnrnnrrnnnnrnnn Hälso- och miljöskadliga ämnen ms mmmnssssseessersresesnrennrsnnennnnnn | TSE: VA</p>
-          <p>ILO-konventionen 169. ...sssssessessrenresssresensnernnnennnnsnn enn n rn rna Importen av SKIN susossmnsssssssessresrenrenesrsrsnnernnrrrnnrsrnnsnn nr nnnrn nn ImportförbUd s...sssseseereseereserreserresennennrnnrsnennennernnrnnrn nen nn nr nn nn nen 5, Industri OCh UtSläPP s.....sssessessrsresrenrrresrrssrennnrrnnnrnnnnnn nns nn nn nn nn Införselavgiff =msmmmmsssssresrrsrerrerrennennennnrrnrrennrnnnrrn ner nrrn ner nn nr rn nen Inre MiljöfrågOr s.smssssseseserereresenanesrenenerrerennenen renen nen nsn ene nn n rann INSEMiINCIiNQG oossoeeeeeseerrerrerrrrserseennersnensrennernnennn nen ner nns nr rna nen FOS TOT ES Internationell luftvårdsfond Internationella försurningssekretariatet .................ss..ssss0000s Internationellt miljösamarbete Intrång i enskild fiskerätt...........ssssssssnsssesrnnennanennenennenennnnnnnn</p>
-          <p>Jakt OCh ViltVårG osssnssssssrsrerererenrrnenesnenernerannanennenennenenn enn nn nanna Jakt på hanfågel av €jder........ss.ssssosesesenesnnenenenennnnnnnnenennnnn nan Jakt ur naturvårds- och djurskyddsaspekter ...............s....o- JAKtfridlagar ooosssessreressersresresrrrrrrresrrrrrennnrrnnannrrann nns rr ennen nr nr annan JAKtliClC1 ooooosesresrererreseerenerreneenesennenennenn renen enn r ene ernenner nns rrn nn nn nan Jakttider för älgjakt ssmmmnmmsssssresrsresenenenenenennnnrnrnrnrnrnennrnnnrnenn nn JaktvårdsOrganiSsatiOnN s....s.s.ssseseersrsesesesenesenrnnenenenenenen erna nn rn nn</p>
-          <p>Jordbruket i nOrra Sverige smmsmssessesssressresenennrsnnneserernnnrn nr nn 22, JordbruksutskOttet.............sssseseessrrersssrrrssrrrrnnnnnnennnnnrsrrnnn rna</p>
-          <p>KaCMiUDMas ooo oseeereerreeerereseresrrresersrrererrressonrnrr reser rrrer ennen nanna nanna nan 15, KalknNinlgoooosssessreeeseererrerseennereneresnrerornsnrennerrrrsnrnrennrrrn narr nr nn nens</p>
-          <p>8</p>
-          <p>1990/91:JoU Reg.</p>
-          <p>12</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_JoU/reg_199091_JoU-012.pdf"/>
-          <p>Kalkning av SjÖGr susmmmssesesnesernrsesnernenesnrnsreresnensnensrnrnrnenrnenennnn KAnNtZONEIL oosoosseereesserereeesenenrerresernesrsrnesrererenernnernnernrrr ner n nr nn nn a</p>
-          <p>Kattegalt......ossossoosseosonernoreennnerrnersnrreenressreerernernernsrnerernrrrn rn enn nn Kemikalielsssssmmnsssseesssnorararsssneenresssrrensrnsesrnerrrsrnnrnr ers rrrennr nn n rn nn Kemikalieinspektionen Kemikaliekontroll ........... Kemikalielagstiftningen KemikalietranspOrter s.smmnmssssssesssrsssersnesnennrnnnnnn Kemiska bekämpningsmedel Kemiska Sstridsmedel...ssmmmnssssssraneeseaneenenernenenesnenennsnsnnsnrnnnnennn KlimatförändriNgar.....sssssesseseessreseenerseeneresnenennsnenenennrnnsnnnnnnnn nn KlimatVvårCaossssssesseresrereerenreresnererrernerenenesesenenenenerenenen ennen nerna KloralkaliinCuStrfin osssmmssseseressresssrersennnersnsnennennernrrnnsnnrrrnrn nr nn nnan Klorblekt Papper osmmmsssesssseseseseenenesnensnsnsnrnsnsnrnsnnnrnenenrnrnen nns Klorerade lösningsmedel KlorföreniNgår smsmmmsosasresrsesseenresersseernesnnsnenernsnennrrenenesnnn nn enn nrn nn Klorparaffiner omsssnssssssrererereseserernsrsnerenenrnnnrnnrnrnnnnrrrnenr rn en rnnnenn KODIdL AG ooneenesesrerenrenreneeresrerereerernereenenernsernrrnrnenenennnen ennen renen enn KOICIOXIA oooonosresrerrerserereesrenrenrrrnnennenrennannsnerernenenennrnen renen n ennen nn Kollektiv ...... Uörsereeeererereeeeerrerenerersennnrrsnnernnesnnrsnner nns ner nera n nen Kollektivtrafik osmmsssssessrersnressnransrensrennneseennsnnennrnerrernrrrnrnnrrnnnn Koltetraklorid KOIVät€l oosoonseesereseerrnrrrenrrersnernnrrrnnresrernrernennernernsnnsr ner rrrn nn nn rna Kommunala kvävepOOIler.......sesseoseessrsseeseenennesnnsnesnnsnnrnnrnnnn nr Kommunala miljö- och hälsoskyddsnämnder ................---- Kommunala MONOPOIlet...ssnsmssssssserssrernresrernrsnnennnnrnnrenn rn ann Kompensation m.m. för åtgärder på grund av den nya djurskyddslagstiftningen KOmPpostering................-..-.- KONCeSSiONSNÄMNÅEN sosoeeoeeeeeseereeseseersresnrennesnenenerer nr n rn nan Koncessionsnämnden för miljöskydd Koncessionspliktiga sm..ssmmmsssssssseseeneennanesrenernsnsnernenennnnrnnrnnnnen nn Konkurrens inom livsmedelsområdet ............sssssssemsessnnn KonkurrensbegränShilg....smsmsesssssseroneeneenernrenesnenrennnernrnnern nn Konkurrenslagstiftningen smsmssssssssssseseeseneseresnsnernenrennrnrnnnnrn nn Konsulenttjänst i biodynamisk Odling........ssssesseserssrsssssssnnnr KontraktsprodUuktiOn......sssssssssesseesesrssesseresnsnnsnsrenennennrnnrnrnnn nn Kontroll av renräkning Kooperativ Samverkan smsmmsmsssssesresesesrsereresnsrenseserernenrnenennnnnnn KoscherSlakt ssssnnnnsssssssreensnserererrnreerereernesrnnennerrnnernrrrnnnrnn nn rn nnn KrematOri€!l..sssmmmsresererererrrrrerrrrrernrnnnrnrrernnnnerrrnnr ren rer rer nr rerna</p>
-          <p>Kulturmiljövårde€n i. ....ssmsssssssesreserersesrrsnrnenernsnenennenesnrnnrnrnnr nn nn Kulturminnen..... KUltUrVåldA ossssssnnnrsssssersreesreeeereeeereerrerrrrerrrennernnernnr ene r nonan nan nan</p>
-          <p>6 1990/91:JoU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_JoU/reg_199091_JoU-013.pdf"/>
-          <p>KvalitetsNOrMer oossoesesseseessesrerserrersererssrensrerersrrerernnrernnnnern rna rna SST STR ST Kvävegödsla skog Kväveläckage KVÄVEOXIA oosooeesresrereerrerreserersrenseererereonrerererrnenrrrrrrrerenrrrrnnrnnnrrrn na KväveOxidutSläPP.......ssssssesssrseoseosnennessresnernresnereerrennernenennen renen KvävereduktiOn....sssssssssserererrrrrrrrrerrrrrrrrrrrrrrrrrrrrrrrnrrrrrrnnrrnr rena a Kylar OCh frySär ssmmsmssressessrersreseeseensnererssnrsnnsrernennennrnnennen enn nn an Kälarne oosososesesresreerereeesenerrerenrrerrnrarrrrrrrrrrrrr rr rrrrrnnnnn nns nrrrnn nana nan Källsortering av avfall ....</p>
-          <p>Lagen om kärnteknisk verksamhet.........sssssssenosensennesennnnnnnnn LandskapSVårlC.....ssssssossesreseererreresrerrerrererrererrerernererrsrernerenen en nnn Landskapsvårdande åtgärder i jordbruket ..................s.s.s... Lantbruksenhet...sssssessesssrerssressnrensnrrrnrrrrnnrrrnennnrrnnnr narr nn anna nn LantbrukSråden...ssmssssresrererrenerreneererrerrerrerernererrrrenernenenen rn enn nn Lastbilar .............. Laxfiskeavgift Laxfond Vänern. omsmssseessresssrresrerrssererernrarnnrerrernnsnnnrrnnennnen rna nan LeukosbekämpninNgen summmssssesseseessersressrenrernennennennrnnennrn annan an LiCENSOMFTÅdEN ao ooseseereeserereserrrrerrsrrerrrerrrerererernernrrrrrnrrnernrn nn nn an Licensområden för älgjakt s......s.sssseosesreneesesrenesennernnnrnnnennn rann LiIVSMEedCL ooooseesesrereererereresrrrrnrrerrrerrrrrrrnrsnnnrrrrenn rensar nn earn n nan nen LivsmedelsberedSkap s....ssssssssssessrennersresrssrerrnresnesnennerern ennen nn Livsmedelsekonomiska samarbetsnämnden..............ssen00n Livsmedelsförsörjning LivsmedelskOntrOll....sssssssssssssressrernsnnersnneresnernnernernnnrnnsn nen nn nn LuftförOreNiNgaår sm.msmmsssssrersreseesrerrrssrrsrrrnnresnererr nen en nens rn ennen anna Luftföroreningarna i södra Sverige m..sssssssesessessersrnnennennnnnn nn Luft vVårdSplaner o.mmmsnssrsrssrsresrenessrsreneererrssrerrererrereresrenenen nn nn nn</p>
-          <p>Länsstyrelserna... LÖVSKOgSANdEL oooessessresseressrrresrersnrrnsnnersnnrrnnrnrsnrnrnrrsnnrnn erna nanna Lövskogsplantering i SlättDygC...........ssssosssesseosseenonensnennnnnnnnnn</p>
-          <p>MalakitgfÖDlta..sssssssseressrrrerrsrerrersrerrnrrrrrrrrrenrrrrrrrrnernn nen sen nen nanna Marina reSerVal.ssmmmmsssssreeserersrresererrsrersrererenrrrsrrrnrrrnnnennnn nn n nana MarkanvändningsinventeriNngen.....ssssssssssssesesessenrrnsnrnennnnnn Markavvattning......... Marknadsdelning MarknadsSregleriNng.....sesssesssressrersnrenssrerssreresnnrrnrnrnrrsnnrnnrnnnrn rna MaterialbalanSer mssnnsssssssesereesrersrsrrrenrrrrsrrrnsnnrsnrrrnrrrnnrenrrn nn rna MatpotatiskOntrOllen . ...sssssssesereeserreresessrrrrrrrsnrrrernnrrrrnnrrnnrrn nar ING (76 [3 For: Te [RR MEIC-prOjektet.....sssssssressessenrresrernsrerenrrensnrrrsrrnnnesnnnernrnn nen nn nen Merasjoki och KinnerpuSka s....ssssssesssrossssrerssnrserosenersnernnnnnnr MerkOStNad oosssssssererresrererrererrerrrsnrennrennernnrnrrrnern nn ennen nr nen nen nn Metanutsläppen .... MetylenklOrid sssmmnnsssersseressrersreessrrrnnnrrrnrrersrnernrnnsnennnnrnnnn nera nan</p>
-          <p>6, 15,</p>
-          <p>30 30</p>
-          <p>1990/91:JoU Reg.</p>
-          <p>14</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_JoU/reg_199091_JoU-014.pdf"/>
-          <p>Militärt flyg oosmnmsssesossessrannnnsnrereennennnerrnrrererennernernnrrnrrnn rn nnnn near Miljö- och djurskyddskostnader MiljöanSVvarig.....ssmssssseessneenernnnnnrnnrnnn nn nen Miljöavgifter ..mmmmsssssssesserensrennrnrrnnrnn nn n Miljöbalk o....sssssssooornrrrrnrenennnnrnressssssnsserrrererereresssnnnnnnnnnnnnnnn nn nan Miljödepartementet ...mmmsmssessererssesnnnernrernenernennrrnsrennrnnrn nn nn nenn MiljöfOrSknNing ....ssssssseseoresrsesrsrsesnesnerneresrenenerrerenenerennrnen en rnnn Miljöförbättrande åtgärder i jordbruket ..............essessess00nn0 MIiljöklaSSer smnnssaesssrerereeeereerererenenenernnrrrrnenenrrnrnenenernrn ene nrnennnn MiljökonsekvensanalyS€r smimsmmeseessereerseseerenenrersrenenrnrnnenennnnrnnn MiljökonsekvensbeskrivNingar ...sessessssssesesesossnnenrnnnennnnnnnnt Miljökonsekvensutredningaår m......seeeeeeeerersersrsesesenrnenennnennnnn Miljökrav för fartyg MiljömärkninDg....ssssssssosenesenrsrsesesesnenernrnenennnnrnennnnnrnenrnrnrnnnnnnt Miljön i StockholmsregiOn€iD.......essessseessrsrsesesesenrnnnnnnnnnnnnnnnn Miljönämnder s.sssnsnesesresesnereersnsrsrenernnererrenennenenenenennen ene nen en nn nnn MiljöombudSman susmsesesereeesersrernerrernerrrrerenersnnenenrnen ennen en rnnnnnn MiljöorganisatiON€r sssmmmmsrssesssrersrernnenenenrnennnrnenrnrnrrn rn nrnnnnnnn Miljöprojekt GÖtebOrg ...........sessssessrsrsrnennnnnnrnenensnnennnsnnnnrnnen Miljörelaterad förmånsbeskattning MIljöreViSOr.......sssssesssenenensneresenrnsnnenenenrnrnernnnern ennen ennen enn rnnenn MiljÖråÅG o.s.osossseseseseosensnsenenerosrnsrnsrnenenrrnrnrnrrnnrnn rese rnn ennen nanna MIiljöskatter .....sssssssssssnsnsnsnerersernnrnrnenrnrnrnnnnrnnrnrnnenrnnrnennnnnnnnnen Miljöskyddsavgift .....ssssssesseesseresnensrsnnnnenrnrnnnrenrnnnnrnrnnrnrnnnnnnnnn Miljöskyddslagen s..ssssesersrssessnersrennenrnrrrenennrnensenensnnrnrnnnnnnrnnnn Miljöskyddslagstiftningen........s..e.esesesrsesrsrsrsrsesnsnsesnnnnnnnnnnnnen Miljöskyddsområde .... Miljötraktat o..sosnsmssreresesranaenenerennrrenrnnnnnrnrenenn een enen ennen ene nrnnnnn enn Miljöövervakning .....ssssssesesssseseenennnnennnennnnnnnnnn Montrealprotokollet MySkOXStammMEen sussonsessesrenreeneseenesnsnnnnsnn enn ennen ennen nere nen nr renen nen MÄälar€h sosssnsseeseereesrerrenenersrenenrenennr enn nrrner renen nr enn r rr nen enn rn rna Mänsklig rättighet......nmnnsssssossorsesnesnnernnennnnnennnnrnesnnrnnnnn nn nnnn nn Maätstationer Mätstationer för radioaktiv strålniNg............sessesscrsrernsnnn</p>
-          <p>Nationalpark sosssssssssesseseresesnesnssesnsnnnsennrrnrnnennrnennrn renen nee ennen nen Nationalparker: Björnlandet s......ssseseseesesesresenseseresernennnnnnnnr Nationalparker: Djurö Nationalparksplanen ssmmmmssssssssssssnrsnensrrernennennenernnnrrn enn ennen renen Naturkunskap NE TATT CT VC Ur Naturresurslagen NE TANT TE TA6 rr</p>
-          <p>Naturvårdsgräns för SKOgSDrUK.....sssssssresesrsrersrssenerrsnrnernsnennne NaturvårdSshänSYynD .omssssssesrersrsrseenesneenennrnenernrnenenernrnsnennrnenen ent NaturvårdSlagen sssmmmmnsssoresrerenererenennennereenenrenenenenernsnerernenen rn nn nan Naturvårdsverkets aktionsplan mot havsföroreningar ....... Naturvårdsåtgärder i odlingslandskapet .....nmmmmsssseeseesssnsnnnen</p>
-          <p>16,</p>
-          <p>23,</p>
-          <p>25,</p>
-          <p>9, 16,</p>
-          <p>30 31 30 30 30 30 30 30</p>
-          <p>1990/91:JoU Reg.</p>
-          <p>15</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_JoU/reg_199091_JoU-015.pdf"/>
-          <p>Naturvårdsverkets luftkontrollprogram s..mmmsrnssessesrsesnnn 6 1990/91:JoU Reg.</p>
-          <p>NaturvärdesinventeriNgår sm. ssmmmssssesrersrrrrsrrreseennrnrrnrnrnrnnnnnn nan 13 ÅRES &lt;A 6 NOLA-anSlageltossosnnnsssesreseeseseenrersnenerneeresrersnnrnernerernennernen nerna an 30 NonylfenoletOXylater ssmmmssssssssseseeneenessersnsnsnenenresernnrnerrennennnn nn 30 Nordiska Investeringsbanken smsmmssssssesseeseesrersesesnesnennennennnn an 6 Nordiskt program för miljöförbättringar s..................s..00- 6 NordsjökOmmiSSiOD sismeseseseeseesresreseennereenerrrnerernenennennenrennen nan 6, 30 Nordsjökonventionen om förbud mot dumpning av FMV VU RR 6 Näringsläckaget från SKOgSMarker su.mmmmsmsressssrsesenesenerenenenenna 6 Näringspolitik sssmnsssssseseensseneseserseenesesrenernesrrerenrsrsrsnenernenenen nn nn 25 Olje- och kemikalieSpill mnssmnssssssssssssssessressresesernesnennennrnnnn annan 6, 30 OljeUtViNNilGasssosserseresreseseseererenneseenenerern enn ennenen eran ennen en annen en anna 30 Oljeutvinning i SKagerrak smmnssmmsssessesressesseeserersesnennernennnn annan 6 Omhändertagande av CjUr s.smmmmmssesreseesresereseersereenernrerrnnen nn rna 18 Områdesavgifter s....mmmmnnsersorereeresnrereerseererrnrrnrrrrrrrerrenrrnnererrrnnnn ann 16 OmställningSStÖd smssmmnsssssessseereneernenrenerenrenesnnrnrnsrerenennrnenennnn enn 22 Omställningsåtgärder i jordbruket...........sssssesssseseesenesennennnnn 22 Omvänd bevisbÖrda....ssssessserserssresennrnreserssreserrsernennrnnrn annan annan a 30 Osorterat avfall 30 Ozonbildningen 6 OZONSKIKLet ooooonessresersrereseenresrersnarrrnennenrnnsrnrnsrnennerrnnnnnrnn anno nn nan 30 PanNtSySteM ooosssseereerersrrrsreseereenerrrenresnrnern er r rn annen nen annans annans annan 15, 30 PCB oossnssenenenenenn ana 30 Perkloretylen 30 Personbilar sssmmmssssssressnnereenennenn annan 30 PET-flaSKkan oosossssesreserrererseerresrsrresnrrsrernrernrrrranrerrerrrrnnrrrnrnn annan nn 21 Plan- och bygglagen...ssmssesssssssseresrenernenrenrrsnnesnerrenernrnnernen nen nn nn 30 PlAStosoosseserereesereorerorererrrrrrrrrrrrrsrernnnerrrennerrrrrrrnnrrnrrn rr nn rnn rean n nn anna 30 PIUtONiUIM oooeeesresreseeereresreserresnese renen ennen enn ren ennerren arr rnn ennen enn nn 9,23 POICI oosssrererereneseerenerrrnnrerenerenreren nen erneren enar ser sen nen enes en ennen annen an ana 30 Prisregleringsavgiftell smssmmeessssssesssssesrenesesnnnneresesernenennenenen nanna 19 PFrISStÖG oooosessresererrrrererererrerrreserrenrrrrnrenrrrrrrrrrnnrerrenn annen enn rna nens rann 27 Prisstöd till rennäringen smummmmmsssssssrereseseerrerrerenenenenn enar en annen ann 22 Prisstödet för Mjölk sssssnsssssssresrreseererersresrssnennenernernernennnnn rn nana 27 PrisÖvervakninNg s.ssssseseseenennerrrenesnennernesrrrnnesnerren ennen nn ennen anna 31 PrOCESSVaLlelN sussosseereesrresreseesernesrrernenenn ennen nr nnn arne enn nnn annan annan 6 ProduktregiStret .....ssssssssssresessresreseeserrnrsrnernrnenernereennrnnrn nen n nn eran 3 Produktövervakning.....sssesessessresesrerrereenesrrrerrererrernernrrrenner enar 30 Projekt VästerbOottenSlaX ........se.ssseseesseeessreserseesessernrenrerernnn rna 25 PunktkällOr sssssnssssreserrsrrrsrereererrerrrrnresreresrrrrnrnnrrrern rena nern nn nnnn nana 16 PO ooooerrererserersereneneneneerrrrrrensenenenernensnnnnnner ennen ena een en arenan enar en en enn 30 PälsdjursNäriNgeN smussmssessresssrerseersrreeeresesrrererarsrrernrr eran nne enn n enn nan 18, 22 PälsdjursuppfÖGd NiNg.....sssessesssessrerrresrersrrrnsnnernrererrnnerrnren eran nn nn 18 Radikala fiskemetOder s..mmmnsssneseereneneseeserrrrnenenerennenernrnennnnnnnn 30 16</p>
-          <p>RAPSOCHliN Goose oeseeesereseerrerereenersesrernersrsnnersnrrrnnnnrnrrsnrrnnrrrnrernrrn nn 22</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_JoU/reg_199091_JoU-016.pdf"/>
-          <p>Regionalpolitik Ren produktion Renhållningslagen .... Reningsutrustning på flygplan sm..mmmmsnsssssseseseessensrernrrnrnnnnnnn Reningsverk siosssssssssssesssesssreeseresnreessennererennernnernrrnrrrnrnennen ennen nen REN NäriNgeNasssseeseesereesresrrersreeserrenrnererrnrnrrr nes rrnrrrnrrnrn ennen enn nnn Rennäringens intreSS€i s.smmsssssserserersesererenernnsnnenrrrnnrnrnrnrnenennn Rennäringslagen smmssssssessesseeseeseeserrererernrernerersnenernrnnrnennnnn ennen nnnn RetUrSySt€lMossssssssresrereereeseresreserrresnrnrnrnnrrrrrrnrnennennrnenen een enn nan Ridö/Sundbyholmsarkipelagen summmmmmnssrssreseseerererssrsrernrnrnnnns RiksskOgStaXEriNg sossmmmssssereseeseseeneeneesresneseenerernsnererenrnrnrnnnnen nan Riskline sssmmmmmmsssnnsnnnnnr Rolfstaån Rotenonbehandling "ROtSNUrf" ooooesesesrererrersnrrnnnrnrn Rovdjursförekomst Rådgivningen till trädgårdsSnäringen.....mmseseessssn RÅgVELC oooosssessessrerensenersrrnenenrnnrnnenennrnnrenensnnenernsrnrnnrrnrernnrrnn nan Råvarukostnadsutjämning s...ssessesessesesrssenesenrnrnrnsrsrnrsnrnnnnnnnr RÖKgaSreNilg sosmososrenesreneererresernenreorereerrnerereenenernenenenrrnenenrnrnn nen RÖtSlamM Met oooooeseesresresreseesersnnesesnrrsnerernneernernrrnnsnsnnrnenen nn rn nn nan</p>
-          <p>SAKäÄägarCooooeeererererenernesernerenrernerneseenernerrnrerernrn renen en rn ene en ennen nanna SaltvatteninträNngnNilg ...smssssessesseseressnernrennernennrnrnnerennnnrnrnr nn n nn Samepolitik s..ssnssmsresesreseseenernennenennernrernrnnenernerernersnenrnrenenen enn nan SamerättsutredNiNgeN....ssseeessssseesreesseeseerrrsernernrrerernenener nn nan</p>
-          <p>SANCL ÅN Gas oeoeererenesreneerenererneerennenererrerrnnenernrrernenenerer nen en en rn n nan Sanering av miljöskadade Områden s...mseeesessresseresnnnnnnnnnn</p>
-          <p>SJQUNjQ ooooseererseererrenernrererrrenrrernerrern rr n esse es nernesner en ernrnrn rn en enn n nan Skogliga Stödområdet s....s.sssrsrsrsresennenerneneneneserenrnrnsrnsnnrnsrnrn nn SKOgSbilVägalooooosoesesrerseseerereeseernesrenrererrerneresrerrererenerrnrnrrren ennen enn SKOgSDIUK oosoeererereresrenesrenennerrerenreneenrerreerernerernrnenererenrnrn renen nn ent Skogsbruket i fjällnära skogar ......... Skogsmarkskalkning.........ssesssessrerennnnn Skogspolitiska kommittén .................. SkogsskadOr .s.snssseessresesreseerernnesnnrenn nr nn r Skogsskadorna i Gävleborg................. Skogsvårdsavgiften .............sssemesnsnnnn SkOgsvårdslagen s.snnmmnussressersrenersnennnrrrrnrrnnrnnrnnn nn Skogsvårdslagstiftningen s....mmmmmmsesseserennenrsnenen nan</p>
-          <p>Skånska kronhjortsstammen SkördeskadefOnden....ssssssssssreserensnnerrerserernnnerrersernnrrnenernrr renen nn</p>
-          <p>22,</p>
-          <p>12,</p>
-          <p>13,</p>
-          <p>27 30</p>
-          <p>1990/91:JoU Reg.</p>
-          <p>17</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_JoU/reg_199091_JoU-017.pdf"/>
-          <p>Skördeskadeskydd.....ssssossssorereererererreenrerrrsrrsrersnrnrrrrnrrrnrrer ann nnn Skötsellagen Slaktavfall........</p>
-          <p>Slutlig reglering av statsbudgeten ..............sssssssossoososssosorsnn nn Slutna odlingssystem inom trädgårdsnäringen SIÄKtKkÖP osssoseerresrenerererrerrrenrersresrnrrrerrernnererrrrrrererrrrrnr enn n nan Småhus med tomtmark.............. Småskalig slakteriverksamhet.... Småskogsbruket Småviltjakt sssnnsnssssssesrerenreresrnnenrerrerreenennerrrrnerennrnrnn rann rna Småviltjakt på statens Mark. .......sssssssoeseonsnsnesenenrsnnnnnnn SnöskoterkÖrnNiNg susmmsssssrsssrererrereersrrersrerersererrrrnrrnrrrnnrnnr nn rn nan SnÖSKkOLterträafik..ssssossssssssserreserresserersrerrrerrrrrnerrrrnernrrrrrrrnen nr rn nan SockerbOlaget .ssmmnsssssrressrensrreesrrrrrrnrsrrnrrrrnnrererrenn rn nrnn nen nrn nn rann Sockerbruken på Öland och Gotland... SOCKET När lNgeN ooooeeeesrerersrersrrrrsrrrerrserererrrrrrrererrenrnrrnnannnnn rann nr ann SOCKkEerregleriNngeD...sssmssesseesserrerrrersrerrrrrreernrerrrrrsnnrrrnarrrnnnnn nr n na</p>
-          <p>StallgödselhanteriNg sossmmmsssssessessrssenesnnenrrnnsnenernennnnern ennen nerna nan Statens naturvårdsverk s.smmmmsssssssrsrerenrereresrsrsrsrerererernrrrrrnrnn rna Statens strålskyddSinStitUt ............e.sesessssesessersneneserererrererrrn rna Statliga administrätiON€N s.msmmmssssssessressressersrrrrnnrrnnnnn nens nnn nanna Stiftelsen Bohus AvelsCentrUMm s..mmmmmssssseseosesnesnnnnnennenn rna nn Stockholms internationella miljöinSstitUut ...................s.------- Stora Alväaret ossssssssssresseseeseesnrseresrrsernenrnnrernererern enn nns ennen erna rann Strandskydd....... Strandstädning .. Stridsåtgärder .... Str OM til oosoeesreseereeresrrrrrsrererrresrrrrrererrernern enn enennrn arne n ennen enn n anna StrukturfrågOr s..sssssesesrersenrorrerersesesrnsrnensnnrnensrnsnn rn een nn enar nn nn an StråförkOrtningSsmede€l......sssssssssssssseserrereosrsrsrsnsnrnsrsnsnsen nr nn nn StrålsSKkYCd sssssssssseseerreresrererererenrsrenenrnenerererensrnenenrnrnnnnnnnnnn annan ann StrålskyddSslägen...s.sssosesosesesesesrenerenererenerenenersenenenenenannnnnn annen ann StäNgSClososeeeeereseerrersrrrrnrerresrernernrerrenenrern erna arne en sanne nens nerna nn nn StödområdesindelNiNg......ssssssssssrsrsenenenesesesrsenerenenenenen enn n nan SubstitutionsprinCiPp€DN ..msssssssssessessrassressensernrennrnnrenn nen nnrn rna Suggstödet.......... Uöttereeraeesereerrerersrsseeesrressrernesr ers nn enn annen n nn erna nn SUMPSKOQAT oosossesserersreereeresrresrenrrsrernernersnennenerrsnernrn nn nr r rn rn nns SvanSskUpErilG...sssseseosssresserssreererrersrernrrrerernnrsnrrersnrern renen nr rn nen Svavelavgiften sssmmsssssrreesrensrerserrrrrerrsnrenrennnensen enn er nen nr n rr nn nan SvaveldiOXIidA sososssssessseeesrsrrererrererrrersrrrssrrrrnrnrsrrrrn nns nn rr rann rna nan</p>
-          <p>19</p>
-          <p>4 30</p>
-          <p>1990/91:JoU Reg.</p>
-          <p>18</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_JoU/reg_199091_JoU-018.pdf"/>
-          <p>Svavelhalten mosssnssresererrersrernenrrsnreserrennnnsrernernrrr nen n enn rrnnrn rerna rna Svenska naturskyddsföreningen sm..mmsseseeseseresersreseerrsresnnsnnenn SäljbOlag sossoneseseererrererrnrenrenrerrrannererrernr renen nrn reser nn nere enn n nn nn Särskild statsåklagar€........ssssssenesesrsennenenesenenenenenerennsnnnsnnn ennen en SötvattenslabOratOriUm s..mmmssssssssesresssrrernrernrrenrernrrrrnnrrnnr rn nrn a</p>
-          <p>TaaVaVUOMA sossoreererreerrerrereersrrerersrrersrennrrrernen ere er rn n rer nn nr rna Tandvården sosmnssussserererrererrererrrsrererenrenrenerrenennrn ennen ennen en annen annan Tankmuffar oosnnnsssssreserssreressrrrrererseresnrrnnreresrrrernnnerennn nns ernne rr rn ann Teknikupphandling Tennorganiska föreningar TerrängkÖrningslagen smsemeeessessssessesssessesnennrennenernrrerennennnnnnnn Tillverkares och försäljares aNSVår .....smsssessessessensnenennennnnn nan TillåtlighetSregler ssssmmmsssrsrareresesesesensresnerenenenenenenennnennrnnnnen nanna Tilläggsbudget I.nsismsnsssssssesresersesresesenennnenesrenenrenesnrnennenennrnen nera TOrontokOnferenNsS smossssssessressessesserersrsnsnesrenrrnnerrern ren nrrernenn nr nen Torvtäkter.................. Totalförsvaret Trafikanläggningar omsmmmsseesressessesnerernnrrsnesnenrrnrsnnsnrrrnsnnrn nr nnnn Transnationella fÖretåg ......sssessresressrasensresnernsrennrennnrernnsnn nro nn TransportkungÖrelSen sunsmessssssssessessresersesserernesrnrernnnerrenrrrrnnen TFreStiCklalsssssssreesrensrrenrensrrresrnenrerrrrernnnrsrneserrrrnnrrrn ns nrnn nr n nen TriklOretylen omsssmssssssssesesesserererrserrrsnrnnnnererrerererrrrrrernnn nere nanna TrädgårdSnäriNgen ..smmmnsrsresresenrsrerennrnnernennenennenennenernenenn norr nan TrädgårdsutrednNinNg s..ssmmmsreresesrsesersreneerensnnnenenenenenener ennen annan Träskyddsmedel Tungmetaller s..smmmnsssssssseesressnresnnreneerrrrersersereeererrrrrrrnrrrnrrn nr rn nen TVåpriSsSySteMet oisesesresesrenenreneerenesesrennerneneneenenennenrerennrnrnen nen enn TåKELN oooosesreeseresesreseereresreresrernesrererrrrenrrnnenenranenern ennen ennen eran nen nan TÄtOrter NA ssssssseeesesererersresnsrrnr re snnrersrrn ner nrrrrrrernnn ere nn nr rn r rer n nan</p>
-          <p>Urskogar Utbildning och forskning smmessmsssrssserrrssesnesnrenreresnnsrrernsnnrnn rna Uthålligt enskilt SKOgSDIUK ms ssmnsssssreserenssrrnnnrnrnenenenenen annan nn Utländska trädslag ss.smmmnssssererrrrssrersrennrrrersrrnnrrenrrrner enn rnn nr nanna Utrotningshotade arter s.mmmmnsssessssererernnrsrrnrrrrrrersnrrnnrrnnnr nn nen Utsläpp från kommunala avloppsreningsverk................. Utsläppsbegränsningar nya flygplan Utsläppsskatter</p>
-          <p>ValltorkföÖretåg.........sssesssssresnsennrennernnnerrnrernrrerrererrernnrrrrrnn rr rn nn VallväxtfröOdliNg ..ssmsssresrreserernrenrrrnnrrrrnrerreresrrernrrnnnrrrer nn rr rann</p>
-          <p>VargStängSClisssssssssssserrersrerrrrennrrenrrsnernnnnnrenerrnnrrnrrsrrrrrnnrrn rn nn rann Vatten OCH HaV.sssnmmnsssssssssssseerereoeererererenerrnerrrrrrrne rer r rr rer rr nanna na</p>
-          <p>6 30</p>
-          <p>1990/91:JoU Reg.</p>
-          <p>19</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_JoU/reg_199091_JoU-019.pdf"/>
-          <p>Vattenföretag.........ssseesesserrrensrresrerrrrrennerrrrrrerrnrnrnnrnrnnnrnn nen nns nan Vattenförorening från fartyg............sssssressesssresrerererrerernnnnnn nn Vattenlagen...ssssssssessressrereennrensnrrsnesrrrnnnernnrennenr reser nrenn enn n rn nanna Vatten mål ososssssssesesresreresesesesrenerrsesrererrererrererererrrerrsrenrnnnnen nn nn</p>
-          <p>Vegetabiliska oljor... VillkOrSlånf.......sssseesesnnsennnnnnn Vilthägh s.nnnnnsssnseonennnssssnnnnnnn ViltskadeutredninNgen sm smmmeessesersresesnresrenrseserressressrerrernrnren nn nn VitaliseringsgÖdSliNg........ssssseseesseseeneesrrsrerrererrrsrrrersrrrnrrrennrnnn nn Vitesföreläggande m.msssesesreneeneeneenrerenrnnerrennerrrrrnnnrrnnrnnenn enar annan Vård av naturreServVåts...sssmessesssesesresrersenrenesesenrrnnerrrnennanennnnn nn Vårjakt på råDOCK s.ssssnsnsssesenenesrsrosrsrersrnerersrrsrsrsrsnsnnenerrrnrnr nns Vårjakt på SjÖfågel =mssmmnnmsssreresrerssesrerenreresrererernennrrrrrnrrennanenn nana Våtmarker NET ST 6 &amp; RA VänerSjÖöfartell....sssssssssseseesresersreseenerrnsrrrnrennerenr renare nen n ennen renarna VärdefaktOr ossmmessssressreserresersnennenresersnennennenserenn nr nen nen nr nen nan ann Värderingsen heter smusmmmssssssresssressrrsrrersrererenrsenrnnrrnnnnnnnnn nanna VärldsklimatkOnferensS sm ssmmmmmssssssrssrerssrrnsrresrssrerrnnrrennrnnn nn annan Värphönshållning.....sssesssseresesesesessrenenenenrneseserennrnenenenen nn nn nn nns Västerhavet</p>
-          <p>VäxtnäringsläCkage smmsmmssssresersseserreseresrerrrerrnernnrrsnrnnernesn nn en nn VÄxtSkYCd oososseeseesersreeserrenrereesnesrennerneernnerrerrrsnerernnnrrnernernrrn nn nen nn</p>
-          <p>Yttre MiljÖDp..ssosseessesssreseersrensrrrsrerrsrsnrrrrrrrrrererrrrnnrnnrrnnr rn nnn anna nan</p>
-          <p>ÅkermarksdikniDg............ssssssssssoooooossssssrsssssernnnsssernrrrnnnnnn ÅLNjUStfiD oosssasnnssanossssesssssssesnnnnnnnnnsnnsrrrnnennnnnnnnnnn renen nnnnnnnn nanna ÅrSMånSvariatiONEr ....mmmmnnsssssssssnesssssrsssssssrernnnsrrsn nn enn ennen nn Återbetalning av omställningsersättning ............................. Återställning av miljöskadade områden .................nnnn Återställning av skadad miljö ................ Återtagningsmålet för retursystem Återvinningspremie Uöreseeseresrerenersrernr enn nrrnnnrnnener nns arr nen arenan nan Åtgärdsprogram för Mälaren och Hjälmaren .............s..o000s Åtgärdsprogram för Vätterf s..........ssssssssrnensrrnnn</p>
-          <p>ÄdellövskOgsSlagen....snmmssssssssssronasenssenesennsrnnnernnrnnsrnnnrnn snor non Ädellövskogsplanteringar . ÄggkoOntrOllen s.sssssssssssrsrossrrnssrrrnnnsrrnnerrnnnnnr enn ennnerrnneer nn nanna ÄggproOdUuktiOn.......sssssssssossresressronerensronsrenssrens en snar ernn ennen rn nan Älgjaktstillstånd inom renskötselområdet ........................... Älgskadad SKOP........ssseesosssroossranssssrnonsrnonersnnnnnnrnnsrnnnernnnnnnnnnnnn Älgskötselområde.........sssossrossrsssronerosrsonerernnrnernnernneronernnnn nn</p>
-          <p>2,25, 28,</p>
-          <p>10,</p>
-          <p>6, 8,</p>
-          <p>28</p>
-          <p>1990/91:JoU Reg.</p>
-          <p>20</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_JoU/reg_199091_JoU-020.pdf"/>
-          <p>Ängs- och hagmarker s......ssssssssseesennensnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn</p>
-          <p>Öresund .................</p>
-          <p>ÖstersjökonventiON s....msssessesssessssessrennnerrsrnrennnnnnnnrnnnnnnnnn nn</p>
-          <p>Östersjölaxen.........</p>
-          <p>Östfold och Osloområdet..............ssssssnssssosennerossrnnnrnrnnnn Överlåtelsebara utsläppsrättigheter .....................s.sossssssns00nnn</p>
-          <p>Överstatliga beslut</p>
-          <p>30</p>
-          <p>30 30 25 30 30 30</p>
-          <p>1990/91:JoU Reg.</p>
-          <p>21</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199091/reg_199091_JoU/reg_199091_JoU-021.pdf"/>
-          <p>gotab 98934, Stockholm 1991</p>
+          <p>
+            Jordbruksutskottets register vid
+          </p>
+          <p>
+            dr
+          </p>
+          <p>
+            riksmötet 1990/91 5 1990/91 JoU Reg. Betänkanden Nr JoU01 Jordförvärvslagen
+            Utskottets justering: 1990-09-26 Debatt i kammaren 1990-10-17
+            Protokollsnhummer 1990/91:11 Riksdagens beslut: Bifall till utskottets
+            hemställan 1990-10-24 Protokollsnummer 1990/91:14 Riksdagsskrivelse
+            - Nr JoU02 Vattenlagen Utskottets justering: 1990-09-26 Debatt
+            i kammaren 1990-10-17 Protokollsnummer 1990/91:11 Riksdagens beslut:
+            Bifall till utskottets hemställan 1990-10-24 Protokollshnummer
+            1990/91:14 Riksdagsskrivelse - Nr JoU03 Kemikaliekontroll Utskottets
+            justering: 1990-09-26 Debatt i kammaren 1990-10-17 Protokollsnummer
+            1990/91:11 Riksdagens beslut: Bifall till utskottets hemställan
+            1990-10-24 Protokollsnhummer 1990/91:14 Riksdagsskrivelse - Nr
+            JoU04 Trädgårdsnäringen Utskottets justering: 1990-09-26 Debatt
+            i kammaren 1990-10-24 Protokollsnhummer 1990/91:14 Riksdagens
+            beslut: Bifall till utskottets hemställan 1990-11-07 Protokollshnummer
+            1990/91:19
+          </p>
+          <p>
+            Riksdagsskrivelse
+          </p>
+          <p>
+            1 Riksdagen 1990/91. 16 saml. Register
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_JoU/reg_199091_JoU_0001"/>
+          <p>
+            Nr JoU0S Livsmedelskontroll Utskottets justering: Debatt i kammaren
+            Protokollsnummer Riksdagens beslut: Bifall till utskottets hemställan
+            Protokollsnhummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr JoU06 Vatten- och luftvård Utskottets justering: Debatt i
+            kammaren Protokollsnummer Riksdagens beslut: Bifall till utskottets
+            hemställan Protokollsnummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr JoU07 Miljöskyddslagstiftningen Utskottets justering: Debatt
+            i kammaren Protokollsnummer Riksdagens beslut: Bifall till utskottets
+            hemställan Protokollshnummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr JoU08 Naturvård Utskottets justering: Debatt i kammaren Protokollsnhummer
+            Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer
+            Riksdagsskrivelse
+          </p>
+          <p>
+            Nr JoU09 Strålskydd Utskottets justering: Debatt i kammaren Protokollsnummer
+            Riksdagens beslut: Bifall till utskottets hemställan Protokollsnhummer
+            Riksdagsskrivelse
+          </p>
+          <p>
+            Nr JoU10 Jakt och viltvård Utskottets justering: Debatt i kammaren
+            Protokollsnhummer
+          </p>
+          <p>
+            1990-10-09 1990-10-24 1990/91:14 1990-11-07 1990/91:19
+          </p>
+          <p>
+            1990-10-09 1990-10-24 1990/91:14 1990-11-07 1990/91:19
+          </p>
+          <p>
+            1990-10-23 1990-11-14 1990/91:24 1990-11-21 1990/91:29
+          </p>
+          <p>
+            1990-10-23 1990-11-14 1990/91:24 1990-11-21 1990/91:29
+          </p>
+          <p>
+            1990-11-06 1990-11-28 1990/91:34 1990-11-28 1990/91:34
+          </p>
+          <p>
+            1990-11-06 1990-11-21 1990/91:29
+          </p>
+          <p>
+            1990/91:JoU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_JoU/reg_199091_JoU_0002"/>
+          <p>
+            Riksdagens beslut: Bifall till utskottets hemställan 1990-11-21
+            Protokollsnhummer 1990/91:29 Riksdagsskrivelse -
+          </p>
+          <p>
+            Nr JoU11 Förlängd tid för registrering av licensområden för älgjakt
+            (prop. 1990/91:28)
+          </p>
+          <p>
+            Utskottets justering: 1990-11-15 Debatt i kammaren 1990-11-28
+            Protokollsnummer 1990/91:34 Riksdagens beslut: Bifall till utskottets
+            hemställan 1990-11-28 Protokollsnummer 1990/91:34 Riksdagsskrivelse
+            1990/91:45 Nr JoU12 Ändring i rennäringslagen, m.m. (prop. 1990/91:4)
+            Utskottets justering: 1990-11-13 Debatt i kammaren 1990-11-28
+            Protokollsnummer 1990/91:34 Riksdagens beslut: Bifall till utskottets
+            hemställan 1990-11-28 Protokollsnummer 1990/91:34 Riksdagsskrivelse
+            1990/91:46 Nr JoU13 Skogsbruket i fjällnära skogar (prop. 1990/91:3)
+            Utskottets justering: 1990-11-22 Debatt i kammaren 1990-12-06
+            Protokollsnummer 1990/91:40 Riksdagens beslut: Bifall till utskottets
+            hemställan 1990-12-06 Protokollsnummer 1990/91:40 Riksdagsskrivelse
+            1990/91:70 Nr JoU14 Björnlandets och Djurö nationalparker (prop.
+            1990/91:31) Utskottets justering: 1990-11-13 Riksdagens beslut:
+            Bifall till utskottets hemställan 1990-12-06 Protokollsnhummer
+            1990/91:40 Riksdagsskrivelse 1990/91:71 Nr JoU1S5 Atgärder mot
+            miljöfarliga blybatterier (prop. 1990/91:36) Utskottets justering:
+            1990-11-27 Debatt i kammaren 1990-12-12 Protokollsnummer 1990/91:44
+            Riksdagens beslut: Bifall till utskottets hemställan 1990-12-12
+            Protokollsnummer 1990/91:44 Riksdagsskrivelse 1990/91:77
+          </p>
+          <p>
+            1990/91:JoU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_JoU/reg_199091_JoU_0003"/>
+          <p>
+            Nr JoU16 Miljöprojekt Göteborg (skriv. 1990/91:6) Utskottets
+            justering: Debatt i kammaren Protokollsnummer Riksdagens beslut:
+            Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr JoU17 Buller Utskottets justering: Debatt i kammaren Protokollsnhummer
+            Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer
+            Riksdagsskrivelse
+          </p>
+          <p>
+            Nr JoU18 Djurskydd m.m. Utskottets justering: Debatt i kammaren
+            Protokollsnhummer Riksdagens beslut: Bifall till utskottets hemställan
+            Protokollsnummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr JoU19
+          </p>
+          <p>
+            1990-11-27 1990-12-12 1990/91:44 1990-12-12 1990/91:44 1990/91:78
+          </p>
+          <p>
+            1990-10-25 1990-11-14 1990/91:24 1990-11-21 1990/91:29 1990/91:27
+          </p>
+          <p>
+            1991-02-19 1991-03-13 1990/91:77 1991-03-13 1990/91:77 1990/91:137
+          </p>
+          <p>
+            Tilläggsbudget I till statsbudgeten för budgetåret 1990/91
+          </p>
+          <p>
+            (jordbruksdepartementet) (prop. 1990/91:25 bil. 5) Utskottets
+            justering: Debatt i kammaren Protokollsnummer Riksdagens beslut:
+            Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr JoU20 Djurförsök m.m. Utskottets justering: Debatt i kammaren
+            Protokollsnummer Riksdagens beslut: Bifall till utskottets hemställan
+            Protokollsnummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr JoU21 Lag om vissa dryckesförpackningar (prop. 1990/91:71)
+            Utskottets justering: Debatt i kammaren
+          </p>
+          <p>
+            1990-11-29 1990-12-12 1990/91:44 1990-12-12 1990/91:44 1990/91:79
+          </p>
+          <p>
+            1991-02-19 1991-03-20 1990/91:82 1991-03-20 1990/91:82
+          </p>
+          <p>
+            1991-04-12 1991-05-03
+          </p>
+          <p>
+            1990/91:JoU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_JoU/reg_199091_JoU_0004"/>
+          <p>
+            Protokollsnummer 1990/91:106 Riksdagens beslut: Bifall till utskottets
+            hemställan 1991-05-08 Protokollsnummer 1990/91:109 Riksdagsskrivelse
+            1990/91:251 Nr JoU22
+          </p>
+          <p>
+            Statsbudgeten för budgetåret 1991/92 (jordbruksdepartementet)
+            (prop. 1990/91:100 bil. 11)
+          </p>
+          <p>
+            Utskottets justering: 1991-03-14 Debatt i kammaren 1991-04-17
+            Protokollsnhummer 1990/91:96 Riksdagens beslut: Bifall till utskottets
+            hemställan 1991-04-18 Protokollsnhummer 1990/91:97 Riksdagsskrivelse
+            1990/91:202 Nr JoU23
+          </p>
+          <p>
+            Statsbudgeten för budgetåret 1991/92 (miljödepartementet) (prop.
+            1990/91:100 bil. 16)
+          </p>
+          <p>
+            Utskottets justering: 1991-02-21 Förslag till beslut: Bifall
+            prop., avslag motioner Riksdagens beslut: Bifall till utskottets
+            hemställan 1991-03-20 Protokollsnhummer 1990/91:82 Riksdagsskrivelse
+            1990/91:146 Nr JoU24 Gränsskydd för rågvete m.m. (prop. 1990/91:105)
+            Utskottets justering: 1991-03-14 Förslag till beslut: Bifall prop.,
+            inga motioner Riksdagens beslut: Bifall till utskottets hemställan
+            1991-04-18 Protokollsnhummer 1990/91:97 Riksdagsskrivelse 1990/91:203
+            Nr JoU2S Näringspolitik för tillväxt (prop. 1990/91:87) Utskottets
+            justering: 1991-04-25 Debatt i kammaren 1991-05-16 Protokollshummer
+            1990/91:113 Riksdagens beslut: Bifall till utskottets hemställan
+            1991-05-17 Protokollsnhummer 1990/91:114 Riksdagsskrivelse 1990/91:283
+            Nr JoU26 Ändring i jordförvärvslagen m.m. (prop. 1990/91:155)
+            Utskottets justering: 1991-05-16 Debatt i kammaren 1991-06-04
+            Protokollshummer 1990/91:125 Riksdagens beslut: Bifall till utskottets
+            hemställan 1991-06-05 Protokollshummer 1990/91:126 Riksdagsskrivelse
+            1990/91:346
+          </p>
+          <p>
+            1" Riksdagen 1990/91. 16 saml. Register
+          </p>
+          <p>
+            1990/91:JoU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_JoU/reg_199091_JoU_0005"/>
+          <p>
+            Nr JoU27 Stödet till jordbruket och livsmedelsindustrin i norra
+            Sverige, m.m. (prop. 1990/91:99)
+          </p>
+          <p>
+            Utskottets justering: 1991-04-19 Debatt i kammaren 1991-05-15
+            Protokollsnummer 1990/91:112 Riksdagens beslut: Bifall till utskottets
+            hemställan 1991-05-15 Protokollsnummer 1990/91:112 Riksdagsskrivelse
+            1990/91:276 Nr JoU28
+          </p>
+          <p>
+            Vissa tillsynsfrågor enligt vattenlagen m.m. (prop. 1990/91:114)
+          </p>
+          <p>
+            Utskottets justering: 1991-04-16 Riksdagens beslut: Bifall till
+            utskottets hemställan 1991-05-08 Protokollsrhummer 1990/91:109
+            Riksdagsskrivelse 1990/91:252 Nr JoU29 Uppskov med behandlingen
+            av vissa ärenden Utskottets justering: 1991-05-17 Nr JoU30 Miljöpolitiken
+            (prop. 1990/91:90) Utskottets justering: 1991-05-15 Debatt i kammaren
+            1991-06-03 Protokollsnummer 1990/91:124 Riksdagens beslut: Bifall
+            till utskottets hemställan 1991-06-04 Protokollsnrhummer 1990/91:125
+            Riksdagsskrivelse 1990/91:338 Nr JoU31 Vissa livsmedelspolitiska
+            frågor (prop. 1990/91:191) Utskottets justering: 1991-05-29 Debatt
+            i kammaren 1991-06-10 Protokollsnhummer 1990/91:128 Riksdagens
+            beslut: Bifall till utskottets hemställan 1991-06-11 Protokollsnummer
+            1990/91:129 Riksdagsskrivelse 1990/91:365 Yttranden
+          </p>
+          <p>
+            Nr JoUly till BoU Fastighetsbildning för landsbygdens behov m.m.
+            Utskottets justering: 1990-09-26
+          </p>
+          <p>
+            Nr JoU2y till UU Sverige och den västeuropeiska integrationen
+            Utskottets justering: 1990-10-16
+          </p>
+          <p>
+            1990/91:JoU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_JoU/reg_199091_JoU_0006"/>
+          <p>
+            Nr JoU3y till SKU Vissa frågor inför allmän fastighetstaxering
+            år 1992 (prop. 1990/91:47) Utskottets justering: 1990-11-22
+          </p>
+          <p>
+            Nr JoU4y till BoU Anslag till länsstyrelserna m.m. Utskottets
+            justering: 1991-02-19
+          </p>
+          <p>
+            Nr JoUSy till KU Arendefördelningen mellan riksdagens utskott
+            m.m. Utskottets justering: 1991-03-14
+          </p>
+          <p>
+            Nr JoU6y till SkU Skogsvårdsavgiften Utskottets justering: 1991-02-21
+          </p>
+          <p>
+            Nr JoU7y till FöU Totalförsvarets civila del: Funktionen Livsmedelsförsörjning
+            m.m. (prop. 1990/91:102 bil. 4) Utskottets justering: 1991-03-28
+          </p>
+          <p>
+            Nr JoU8y till NU Förstärkt konkurrens på livsmedelsområdet (prop.
+            1990/91:147) Utskottets justering: 1991-05-02
+          </p>
+          <p>
+            Nr JoU9y till FiU Förslag till slutlig reglering av statsbudgeten
+            för budgetåret 1991/92, m.m. (prop. 1990/91:150) Utskottets justering:
+            1991-05-16
+          </p>
+          <p>
+            1990/91:JoU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_JoU/reg_199091_JoU_0007"/>
+          <p>
+            Sakregister 1,1, 1,-triKklOretål oossmsssssssroseeseeaerrarsrererrrrerrerererrernrnr
+            rer rnnnn nn rann nan
+          </p>
+          <p>
+            FN TR TOT ATS 0 EV a VR Aktionsplan mot buller susmmmssssssesssessreessrssresnrerenennernennnrn
+            enn nnn Aktörsbaserade miljövårdsorgan .... AlemansSrätten...smmmsssssesrsseseesrereresresrernernenennsnnrrnner
+            enn ennen er nnn nan Allmän fiskevårdsavgift .............ssssoseseosesesenennenreneseneronnennnnn
+            rna Alternativa MetOder smssssssessreserserssrsnssersernrnesnnennnennesnnsnnnnnn
+            nn AMaIgaM oosoeeseseeeesresresseseerneesnrrnrrrrnrrerrnrerernnrrnn
+            ner nr ennen nen r rerna a Ambulerande gårdsslakteriet......sss.ssssssonsnsesenesesnnnnsnnnnnnrnnnn
+            en AMMONIAK oosooosoeeerersreseerrenrersrernrnerrrnrernrrrnrer
+            rr nr rr re rnrrner nr n nan Anläggningsstöd till blandbestånd
+            av barrträd och ädellÖvSKOQ o.ssnnenrenaenesreresesnarnennesnnrenrenerrnesnennennernernrnnnn
+            enn rn enn nan Anläggningsstödet
+          </p>
+          <p>
+            ArbetsbelaSstniNlg smsmmmmmssessrrseresnrenssrensnresnrrnnernnesnnnrrrnrrnen
+            nr nrnnnnn Arbetsfordon .......... Arbetsmetoder Arbetsmiljölagen
+          </p>
+          <p>
+            ATealbidräag...sssnnsseseseseeeseeneennrnrnerersnrrrrrresnernnrnnrnnrnnrn
+            er nrnrnnn nns ATealerSätt NiNg.....sssmmssseosrereonrrerrensserererernernrnrnrrnnn
+            nere nrrnn nr n rna nn
+          </p>
+          <p>
+            Art- och biotopskydd Atmosfären och klimatet s...snmmmssnsessresssesneennerennrsennernrnnrnrnn
+            ann AvbytarverkSam heti..ssnsnnsssssssreenerrensrrssrernnerenessrrrennrrnennnrnenn
+            ann AVfall ooooeesseesrrsrersrreerererrrrserrrrersrnrarnrrrnnnrrnernnnenn
+            nns nr enn nen rr nrn nn n nn Avfallshantering.....ssssssessessressrensnrennsrsnsersnnernerenrnnrnnrrnrnn
+            nn rn n nns AvfallsreduktiOnD ssmsnnesressessressnressrensrrsnnrnnrnennrrrnnrennrrnrrnn
+            rn nn nen Avfallstaxor Avgasdeklaration för motorfordon AVgASKIAV
+            oosomeesreeresreresesreseesrenerenernrrnnennernennenn arne nere
+            rrnrnen enn nera AVgZaSNOTMET oosoooerereeseesresrrrerrenrrererrrrsrrsrnrrnn
+            nen nnrn rss err nen nen nn rna AVgASTCNINGosoeseeerreesesresesrerrennnresrrererrrsrnrsnerrrnnrrnn
+            rr nrrn rn nen nr nn Avgift på gödselmedel m.ssmmmnmasesresresenrenennnnenesnennenenerernnnrnnnn
+            rna AVgiffCr oossosssrereereereeresrererereennenrrennennrrnernnerern
+            nen nernernrsn earn nn nn nanna Avloppsrening.............. Avsvavlingskapacitet
+          </p>
+          <p>
+            Baltiska StäterNa...ssnssssssessreesnsrsrrerenrrrerrnnreennn
+            nr enn n nr renen renen BarmarkSkÖrnNilg....sssssssressressrensnreroneerorenrennersrnnnrrnnrnrrnnrn
+            nn neat Barrskogsplanterilg.....ssssssssseseeseesnreneerernnernennernrennrnernrnnnnnnen
+            nn BaselkOnventiON€Ch s.smmssseesessrrersesersrssennrrrrenn reser
+            seen renen rann rna
+          </p>
+          <p>
+            1990/91:JoU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_JoU/reg_199091_JoU_0008"/>
+          <p>
+            Batteri€losssssssssseererrerrsreesrrrnrenrrnnnrrrrrnn reson nn
+            rr rr rrn nen nr ner ner n renarna Bekämpnings- och gödslingsfria
+            ZONEI sm. smmsmssseeeseseeresereenennn Bekämpningsmedel .nnsmnssssssssesresrrsrerrrnnrresrererrernrnennenrrnrennnnn
+            Bekämpningsmedel vid flygplatser msmmmmsssssreseesrorsnrennennennnr
+          </p>
+          <p>
+            BeredningstvåNget........esessessssesesrsrnnrseneneresenrrnensrnensnnenrnrnnnnnnen
+            BeredskapslagfiNg...ssmmmsnsssressennenerensrerereenernerrersererrenrrnrnnrrnn
+            nen BeredSskapsSkäl.sssmmmmnnssessessesenersneseeneenesnrrernrsnrresnerernrrrnrnnrnnn
+            nn BernkOnventiOnNe€h...smmssessesserssrererssseenresnrrnernnrnnesnnrerernnrrnn
+            nerna Bevarandelag....smsmssseseresnerrrreneernrerrresressrerrrrrerreennnernesnrrrnnrnnr
+            nn nn Bevattningsföretag s..mmemseesressersersneesnensnnennrnnnn
+            Bidrag till fiskevård BilskrOtningSpremMie€h..ssmmmssssseeseeseesesrennersnnenerrennenenn
+            ennen rn nan nen BiOClilQoonesnesrsrereerrennennernerseenenneerern
+            enn ennen nr ernrnernener arr ne nen n rn ennen Biologisk bekämpning
+            s.mmmmnmesaesesneesennennnnesnesernennrnrenern ennen annan Biologiska
+            bekämpningsmedel. .nsmmsssssssssessrrsneseserrsnerennenennn Biologiska
+            mångfalden Bioteknik......nsssssssensnnnnnn ana Biotopskydd BiStåNd
+            oossssrsrsrsessreesererersesrsrnnenenrnrenenseenen ene en enn
+            ennen ennen ennen ennen Björnprojektet....snsssssrsssrereessesoseererenrrrnrrernrrrrrrernererrrrrrrnn
+            nen n nn nen BlodtryCkSmätar€.....sssssssssssnesesrsesenesnernennennernrnrnenernenenerernrnen
+            anar
+          </p>
+          <p>
+            Blybatteri€r ooossmsssssssssesenresrenesrernrsresnesnenn ere
+            nrrnenernener nen n rn rn nn nn Blyhagel Bo- och brukarprincipen
+            BOmMtrålfiSke€ ossmnssesesrerererenerennenernerrnrnsrnnen ennen
+            ense ene enar en enar eran nen BOtten havet ooosssssssseessresrerernseerenrerrrerersnnrrrrrrerrernernerrnrrnnrrn
+            nns nn Bromerade flamskyddsmedel omnsssmnnsssssssesssssesnrenrsnnrsnnnsnnnrnnen
+            Brukningsen het susmnmsssssssseessensrersrensernnrnsnnnnernesnnrnnernrern
+            nen nnrn nen
+          </p>
+          <p>
+            Bruna DÖNOT sossmmsssssaessesssereeeeeeeeereerereerernerrrerrerrerrenern
+            enn nn nn rn rn rna
+          </p>
+          <p>
+            CAP (EGs gemensamma jordbrukspolitik) s...mnmmm+m+===+2&gt; &gt;&gt;&gt;
+            Centrala försöksdjursnämnden su smmmmsssrssersrsresnresresernnnennnnn
+            nn Cesium
+          </p>
+          <p>
+            Dalälvsprojektet .......ssssssossoseoesnneseneeneennennrrsnnsnsrrnnennrnrnnennrnnnn
+            nn Den Europeiska konventionen den 13 december 1968 om skydd av
+            djur under internationella transporter ......... Dikning av SKOgSMarKker
+            smssmnssssssssenssressesnssnrereresenesennnrnn nn nn nan Dikväveoxid
+            (lUStgåaS) sesmmmnmsressessreseoreeersesessesnsnnenernrnnrnnrnnrnnnn
+            DIOXIN ooo oeseeersesereseereoererrerrrrrererrrrrrrrnnrennrrrnnnnernesnnrnnenn
+            nen n ren n nanna
+          </p>
+          <p>
+            3,5,
+          </p>
+          <p>
+            15
+          </p>
+          <p>
+            20,
+          </p>
+          <p>
+            30,
+          </p>
+          <p>
+            30 30
+          </p>
+          <p>
+            1990/91:JoU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_JoU/reg_199091_JoU_0009"/>
+          <p>
+            Djuretiska NÄäMmnNder smussmmssssssssrsresesreresenerrnnerennrnsnrnrnsnrnenrnn
+            nana 20 -1990/91:JoU Reg.
+          </p>
+          <p>
+            DjurföÖrSÖK sssssosseserrrssrssrrresrrresrersnsrerrnnrrnrrrsnrrnnnrnnsrnrnnnrrnnr
+            nn rn n nn 20 DjurförsöksforskNiNg s.mmmmerrerreresresersnrsnesnesnenrrenennernrn
+            enn ne nn nn 27 Djur plågeris.ssssssessssererererenenenenenenenenenenenenenenen
+            eran nn nen nnnnnn enn n nn nn 18 Djurskydd och djurhälsOvård
+            ......ssssssssserererrrsrenernrnrnen annan 22 Djurskyddets OrganisatiOn
+            smsmesesessseseeserrersernessrnrsnenennensnnn enn 18 Djurskyddslagen
+            smssmmsssssrsrerereerrenesersrrrrrenrsresrrrnsrennnrnnrnernn nanna
+            18 DjurskyddstillSYyNn€f ss omssssssrsrssnesesesenrsrsrsesesennsnnennrnrnenen
+            eran ana 18 DOMäÄänfONdenN sussoseeeseessersrerrsrresrenseenrerernrrnnrrnnsnr
+            narr rnnn nens erna nanna 30 Dosföreskrifter sosmnnmssssssreesrensrrnseennrenenennnenrnsnnrennnernnnnnn
+            annan rn nana 9 | DTETA SVE TATA 4 30 DFiVMedel ossnoseeeressresrerresresrrerenrrsrenrernennrnn
+            ennen nen ner ennen renen anna ann 30 Dr iVvnätSfiSke smsssssseessreserenreresrrrerenrrrnnrrernrsnrrnn
+            aren nen nen n enn n nero n nn 25 |D: Te 30 ECE (Economic Commission
+            for Europe).................-.------ 2y EEA (European Environment
+            AgenCy)J..........ssssssssesssnsn 2y | 2 2y EG ooooeereesesesesrererennernerenesnesennennrnenennenen
+            erna renen en nsn annen ennen e nen ennen enn 4 EG-anpassningen
+            2y Ekologisk balanS msssmsnsssessosesesrenenrorenrenerenrenenennrrernanernenernrnnn
+            nen 30 Ekologiska toalettsystem ................... 6 Ekonomisk
+            fördel.........sssssssssesorennn nn 30 Ekonomiska styrmedel 30
+            ElproduktiOn s..sssnsssssesrsresnrnnn nn 30 EMÅND oosoesessesrererrerrererrerernerserrerennenennnnrnnnn
+            enn nana 30 Epidemiologiska undersökningar ................. 6
+            ExpOortfinanSieriNngen...mmmssssessesessrensessennenernnnnnrnnnn
+            enn nn 8y ExpOrtsamverkan..ssmsssesseesseseneerenenrernenrenesennnrernsnennnnenenn
+            ennen enn 8y Exportstöd för KONSErvärter ssmssssssssssesersessesserrsnnnneresnnrnnnnn
+            22 Fabrikspotatisodlingen ....ssssssrssessrensrnresesnennenrnsrennnrnnerrennn
+            annan 31 Fackliga befogenheter smmmmssssssessesressesreseeseenrernesnnnnnernernrnn
+            nn nen 30 Farligt gOCS .ssmnsssssnesererresneenrenrenrennrnnernrsrrrnerrrrnnrnsn
+            nr nnrnr nn annen 30 FastighetsbildniNg......msssssssesenrenenenneneenenesrnnenennenennanennnnen
+            ann nn nn ly Fastighetsbildning för bostadsändamål ..............es.sssssss0nnnn
+            ly Fastighetsbildning för jord- och skogsbruk................-.+-+--+-
+            ly Fastighetstaxering istarrssrara rar rssessssssssssssssss nanna
+            nn nonan nan sno nonan ann 3y Fauna- och floravården ......ssssesersersrsssssererererenerenenenenen
+            ann nana 30 Fiberbankar.s...sssssssesenerneseenesrenenrerneneanenenrenenenner
+            arenan annen renarna nen 30 FiISKOooooeosrerererererenrrsrenerrererrenerresrerenernenesnenenennsn
+            enar nen ennen enas nerna nn 30 Fiskead ministratiOn ....sssssessrsrerseoererenernenerererererererenenennnen
+            nn nanna 25 FiskefrågOr sssnsssrsrerernernernerereresrerererererenerenerererenenenenenenen
+            ene nn ann nnn 25 FiskenämndernNa smmssssesssesessserrersenrrrsersrrnennerrernernennsnnnrnn
+            nn ran nn 25 FiSkerilån oosssssseseoesesrereneererrererresesrererrenenerrerenen
+            senere nen nrn enn nn nn 25 Fiskeriverket oossmmsssssessrersrsrerrsrnrrrerersrersrernrrnnersnnsnnrnnnnrrn
+            nr n nen 25 LÄ VET 6 (Aa 12 FiskevårdsOmråden......sssssseosesesernenernesenesnenenennenennnnennrnen
+            nn nonan 22,25 FiskOdliNgar sossmsoeseseeseseersenneserreneenenennenenesnenenen
+            ere enn ennen rn enn n ann 30 10
+          </p>
+          <p>
+            Fjällhed arna smsssssssressreesrressrressrrtorernrrernannenrnrannnrr
+            nere narr nr nn n rann 30
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_JoU/reg_199091_JoU_0010"/>
+          <p>
+            Flygkarterilg...snsssseseeseersesresesnreresnereeneeronesenernernnernnrrnernennnnenennn
+            Fonder för miljöprojekt. ......ssssssssssssererrrerresrsonenererernnnernnrnnn
+            rna FOrmaldehyd ssssnmsnaasseseneserererererersrrernrnrernnnerennrnrnner
+            enn r rr nr rann FOSfatreNiNgSgradC sussmmsssesseresrenerereseseeresnnrresnesnernnrennrnnrnennrnrnnn
+            nn Fosforfria tvättmedel... FOteVikeDoooossseeeeresrrresrerererrresrrsrnarnrerernnnnrr
+            ren n enn renen n ran ne nen rn anna FFeEONEI oooeseeerererrererenserereerrerrerrennrennererssrnnnnnnerrnn
+            renar enn nns n nn rann Fria handredskapsfisket, utredningar s....smsseeeeesessresernsnnnnnnn
+            Frid lySNiNg sosssssresresreseeneeresesrnerrrereserrrernnrsernrrnrrrnernrrnnrnernrn
+            ennen FritidSbåtar s..ssnnsnssssesesesesernerererererersrsrrrrrerneneren
+            ennen ene nen annen rerna FruktOdliNngen msssmmssssssessresseresenrereresrerenanereerannnnne
+            rer nnn rn nr rn rena FruktSOFrt€r sossnsssssssresrsseresnrrsssresrernressnrernsnnnnsn
+            enes enn nere re ner nanna nen Ftalat€rlssssssssesrersreereeserrnnrererennrrrrerrernsrnrrsrnrnnrennr
+            een rerrnnr nr n nn enat FångstmetOde€r.......ssseseosesessenesenennenrenenenenernnenenennnnnnnn
+            Får- och lammkött, marknadsföringsinsatser FäbOdbrUuketsossnnnnsssersrereseresnrernnnrernnrrnnsnnnnnnrrrrennnnrernnnern
+            nn rna nen Färjetrafiken...ssnmsssssseerenasesrerersenrenenerenesnennnrrernennennerernnrn
+            rn en enenen nn Förbud mot blyhagel. smsmmsmssreseesesersrensenesenrernnrrnnrnnsnernrnnn
+            nan Fördjupade verksam hetsplaner smmmmmssssssssresesesseenesnrnnsnnnnennnn
+            Förenta nationernas miljöfONC smsmmmsssssssessrresenrsssrerrrnnnnnnnr
+          </p>
+          <p>
+            Förmalningsavgift FÖrpaCknNinNgar smsmsssssesasesrsessesesreserenenrenesnnesernernen
+            nen ernrn enar en ennnnn FörpackningsutredniNngen..mmeseessssresresserereennennrnennrnenenenennnn
+            FÖTSUTDNÅNQoooosserereserreseerenerenenrenennenenen arean een
+            een arne nen nen en ennen annen FÖrSsurningSsåtgärder smmmsmsssesrssesenenesersrreneenerernnenennrnennsnnnrnn
+            nen
+          </p>
+          <p>
+            GATT-avtalet GATT-runda GEeEnNbanNkelossoossssesesesererorrrserrerrrerersereesrrrrnrnrrrrrnrn
+            nn rer nnn nn n rn nn nn a Genetiska arv GEtNärlNgeN oosseeseeereeesereseersrsnresnerrsnrrnnnrerernerrnn
+            ner rnn ren n ene nnrn enn GIESDYgA ouososeeseerereneereseererenesrereneeneneneresnrnnnenernenern
+            renen rrnrn enar en enn Global miljöfONC sissnnsssssserasresesnrenenresersnrresnernern
+            rr nn nn enn nn enn nen
+          </p>
+          <p>
+            Granplantering, begränsning aV..smssssssssssssersresesrenensnenesnnnn
+            Granskningskonferens om freonutsläpp GYTOCCJUT oosossreeerereeserenernesreseenesrreresnrnern
+            ner nnennenerrnnenn ene nrn enn nan GFTUStäkter oossssseseerresresrereererrenresnesnsnennere
+            ren nernrsnnrrnrrn enn ennen nr nen enn [ TAKEN FI GFYÄNSSKYCAG
+            oososssreseeseesresresreneenernrersesnesesnnernnenesnnernrern
+            enn ennen nn nat GF ÄNSVÄrdeN sosse esseseseeesressersrrenersnresrenersrrnnnnrnrrnn
+            rer n nn ennen rn ennen Gränsvärden för formaldehyd och mögelsporer
+            ................ Gränsvärden för radioaktivitet ....sssssssssessrssesereserrsnrnrsnrrnnnnn
+            Gränsöverskridande luftföroreningar ....mssssseessesesessnrnnnnnnn
+            Gränsöverskridande transporter GrÖnNOMFTåden sissssreseerererrereresesrenenennnnnn
+            nn n an Gullspångslaxen
+          </p>
+          <p>
+            13,
+          </p>
+          <p>
+            30 30
+          </p>
+          <p>
+            1990/91:JoU Reg.
+          </p>
+          <p>
+            11
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_JoU/reg_199091_JoU_0011"/>
+          <p>
+            Göta Älv-dalsbäCkenet ...smmmmmsunsrsrssssssrsrssrsesrneneenennrnenen
+            anno ann
+          </p>
+          <p>
+            Halogenerade organiska föreningar .............. HalOnN€rooossossoseesererereerrreoesesererrrrerernnrrrrrrnnnrr
+            rr rna 3, Handelsgödsel sosssmmsnnssnnssennnnnna Handelspolitik...............-.--
+            Handikappanpassning Hanteringstillstånd ......mnsnsssssssseoesesenenennnnnnnnn
+            na
+          </p>
+          <p>
+            HELCOM oosomursrreeressreseeseresresresesrerereernrernrernennrrrrrnrrrnnnrrrrernr
+            annen nn HelikopterskidåkninNg.......s.sssesssrseoesesesenenenenennsnerenenenennnnnnnn
+            nn 8, HOTNANlägosoooeeseerereeeesreersreeereersrennersrrerrrrrererererrernnnnrrrrnn
+            nr rr rnn aren HOrnbOrgaSjÖN sssesseeseesesennesrersereerenrrnrrnernernrnnrennrrnrenrrn
+            nen nr nn nan Hotade djur- och vVäxtäarter......sssssssssssessesrenrerersnrennenrernrnnnrnnnn
+            Hushållningssällskapens Stadgar ......mssssssoseseonenennennnnenernnnnnnnn
+            Hyggesstorleken smsssssesseseosesnsesrennenrensersserssrrnnrrernnnrrnnnrnnrrnnnnrnnn
+            Hälso- och miljöskadliga ämnen ms mmmnssssseessersresesnrennrsnnennnnnn
+            | TSE: VA
+          </p>
+          <p>
+            ILO-konventionen 169. ...sssssessessrenresssresensnernnnennnnsnn
+            enn n rn rna Importen av SKIN susossmnsssssssessresrenrenesrsrsnnernnrrrnnrsrnnsnn
+            nr nnnrn nn ImportförbUd s...sssseseereseereserreserresennennrnnrsnennennernnrnnrn
+            nen nn nr nn nn nen 5, Industri OCh UtSläPP s.....sssessessrsresrenrrresrrssrennnrrnnnrnnnnnn
+            nns nn nn nn nn Införselavgiff =msmmmmsssssresrrsrerrerrennennennnrrnrrennrnnnrrn
+            ner nrrn ner nn nr rn nen Inre MiljöfrågOr s.smssssseseserereresenanesrenenerrerennenen
+            renen nen nsn ene nn n rann INSEMiINCIiNQG oossoeeeeeseerrerrerrrrserseennersnensrennernnennn
+            nen ner nns nr rna nen FOS TOT ES Internationell luftvårdsfond
+            Internationella försurningssekretariatet .................ss..ssss0000s
+            Internationellt miljösamarbete Intrång i enskild fiskerätt...........ssssssssnsssesrnnennanennenennenennnnnnnn
+          </p>
+          <p>
+            Jakt OCh ViltVårG osssnssssssrsrerererenrrnenesnenernerannanennenennenenn
+            enn nn nanna Jakt på hanfågel av €jder........ss.ssssosesesenesnnenenenennnnnnnnenennnnn
+            nan Jakt ur naturvårds- och djurskyddsaspekter ...............s....o-
+            JAKtfridlagar ooosssessreressersresresrrrrrrresrrrrrennnrrnnannrrann
+            nns rr ennen nr nr annan JAKtliClC1 ooooosesresrererreseerenerreneenesennenennenn
+            renen enn r ene ernenner nns rrn nn nn nan Jakttider för älgjakt
+            ssmmmnmmsssssresrsresenenenenenennnnrnrnrnrnrnennrnnnrnenn nn
+            JaktvårdsOrganiSsatiOnN s....s.s.ssseseersrsesesesenesenrnnenenenenenen
+            erna nn rn nn
+          </p>
+          <p>
+            Jordbruket i nOrra Sverige smmsmssessesssressresenennrsnnneserernnnrn
+            nr nn 22, JordbruksutskOttet.............sssseseessrrersssrrrssrrrrnnnnnnennnnnrsrrnnn
+            rna
+          </p>
+          <p>
+            KaCMiUDMas ooo oseeereerreeerereseresrrresersrrererrressonrnrr
+            reser rrrer ennen nanna nanna nan 15, KalknNinlgoooosssessreeeseererrerseennereneresnrerornsnrennerrrrsnrnrennrrrn
+            narr nr nn nens
+          </p>
+          <p>
+            8
+          </p>
+          <p>
+            1990/91:JoU Reg.
+          </p>
+          <p>
+            12
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_JoU/reg_199091_JoU_0012"/>
+          <p>
+            Kalkning av SjÖGr susmmmssesesnesernrsesnernenesnrnsreresnensnensrnrnrnenrnenennnn
+            KAnNtZONEIL oosoosseereesserereeesenenrerresernesrsrnesrererenernnernnernrrr
+            ner n nr nn nn a
+          </p>
+          <p>
+            Kattegalt......ossossoosseosonernoreennnerrnersnrreenressreerernernernsrnerernrrrn
+            rn enn nn Kemikalielsssssmmnsssseesssnorararsssneenresssrrensrnsesrnerrrsrnnrnr
+            ers rrrennr nn n rn nn Kemikalieinspektionen Kemikaliekontroll
+            ........... Kemikalielagstiftningen KemikalietranspOrter s.smmnmssssssesssrsssersnesnennrnnnnnn
+            Kemiska bekämpningsmedel Kemiska Sstridsmedel...ssmmmnssssssraneeseaneenenernenenesnenennsnsnnsnrnnnnennn
+            KlimatförändriNgar.....sssssesseseessreseenerseeneresnenennsnenenennrnnsnnnnnnnn
+            nn KlimatVvårCaossssssesseresrereerenreresnererrernerenenesesenenenenerenenen
+            ennen nerna KloralkaliinCuStrfin osssmmssseseressresssrersennnersnsnennennernrrnnsnnrrrnrn
+            nr nn nnan Klorblekt Papper osmmmsssesssseseseseenenesnensnsnsnrnsnsnrnsnnnrnenenrnrnen
+            nns Klorerade lösningsmedel KlorföreniNgår smsmmmsosasresrsesseenresersseernesnnsnenernsnennrrenenesnnn
+            nn enn nrn nn Klorparaffiner omsssnssssssrererereseserernsrsnerenenrnnnrnnrnrnnnnrrrnenr
+            rn en rnnnenn KODIdL AG ooneenesesrerenrenreneeresrerereerernereenenernsernrrnrnenenennnen
+            ennen renen enn KOICIOXIA oooonosresrerrerserereesrenrenrrrnnennenrennannsnerernenenennrnen
+            renen n ennen nn Kollektiv ...... Uörsereeeererereeeeerrerenerersennnrrsnnernnesnnrsnner
+            nns ner nera n nen Kollektivtrafik osmmsssssessrersnressnransrensrennneseennsnnennrnerrernrrrnrnnrrnnnn
+            Koltetraklorid KOIVät€l oosoonseesereseerrnrrrenrrersnernnrrrnnresrernrernennernernsnnsr
+            ner rrrn nn nn rna Kommunala kvävepOOIler.......sesseoseessrsseeseenennesnnsnesnnsnnrnnrnnnn
+            nr Kommunala miljö- och hälsoskyddsnämnder ................----
+            Kommunala MONOPOIlet...ssnsmssssssserssrernresrernrsnnennnnrnnrenn
+            rn ann Kompensation m.m. för åtgärder på grund av den nya djurskyddslagstiftningen
+            KOmPpostering................-..-.- KONCeSSiONSNÄMNÅEN sosoeeoeeeeeseereeseseersresnrennesnenenerer
+            nr n rn nan Koncessionsnämnden för miljöskydd Koncessionspliktiga
+            sm..ssmmmsssssssseseeneennanesrenernsnsnernenennnnrnnrnnnnen nn
+            Konkurrens inom livsmedelsområdet ............sssssssemsessnnn
+            KonkurrensbegränShilg....smsmsesssssseroneeneenernrenesnenrennnernrnnern
+            nn Konkurrenslagstiftningen smsmssssssssssseseeseneseresnsnernenrennrnrnnnnrn
+            nn Konsulenttjänst i biodynamisk Odling........ssssesseserssrsssssssnnnr
+            KontraktsprodUuktiOn......sssssssssesseesesrssesseresnsnnsnsrenennennrnnrnrnnn
+            nn Kontroll av renräkning Kooperativ Samverkan smsmmsmsssssesresesesrsereresnsrenseserernenrnenennnnnnn
+            KoscherSlakt ssssnnnnsssssssreensnserererrnreerereernesrnnennerrnnernrrrnnnrnn
+            nn rn nnn KrematOri€!l..sssmmmsresererererrrrrerrrrrernrnnnrnrrernnnnerrrnnr
+            ren rer rer nr rerna
+          </p>
+          <p>
+            Kulturmiljövårde€n i. ....ssmsssssssesreserersesrrsnrnenernsnenennenesnrnnrnrnnr
+            nn nn Kulturminnen..... KUltUrVåldA ossssssnnnrsssssersreesreeeereeeereerrerrrrerrrennernnernnr
+            ene r nonan nan nan
+          </p>
+          <p>
+            6 1990/91:JoU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_JoU/reg_199091_JoU_0013"/>
+          <p>
+            KvalitetsNOrMer oossoesesseseessesrerserrersererssrensrerersrrerernnrernnnnern
+            rna rna SST STR ST Kvävegödsla skog Kväveläckage KVÄVEOXIA oosooeesresrereerrerreserersrenseererereonrerererrnenrrrrrrrerenrrrrnnrnnnrrrn
+            na KväveOxidutSläPP.......ssssssesssrseoseosnennessresnernresnereerrennernenennen
+            renen KvävereduktiOn....sssssssssserererrrrrrrrrerrrrrrrrrrrrrrrrrrrrrrrnrrrrrrnnrrnr
+            rena a Kylar OCh frySär ssmmsmssressessrersreseeseensnererssnrsnnsrernennennrnnennen
+            enn nn an Kälarne oosososesesresreerereeesenerrerenrrerrnrarrrrrrrrrrrrr
+            rr rrrrrnnnnn nns nrrrnn nana nan Källsortering av avfall ....
+          </p>
+          <p>
+            Lagen om kärnteknisk verksamhet.........sssssssenosensennesennnnnnnnn
+            LandskapSVårlC.....ssssssossesreseererreresrerrerrererrererrerernererrsrernerenen
+            en nnn Landskapsvårdande åtgärder i jordbruket ..................s.s.s...
+            Lantbruksenhet...sssssessesssrerssressnrensnrrrnrrrrnnrrrnennnrrnnnr
+            narr nn anna nn LantbrukSråden...ssmssssresrererrenerreneererrerrerrerernererrrrenernenenen
+            rn enn nn Lastbilar .............. Laxfiskeavgift Laxfond Vänern.
+            omsmssseessresssrresrerrssererernrarnnrerrernnsnnnrrnnennnen rna
+            nan LeukosbekämpninNgen summmssssesseseessersressrenrernennennennrnnennrn
+            annan an LiCENSOMFTÅdEN ao ooseseereeserereserrrrerrsrrerrrerrrerererernernrrrrrnrrnernrn
+            nn nn an Licensområden för älgjakt s......s.sssseosesreneesesrenesennernnnrnnnennn
+            rann LiIVSMEedCL ooooseesesrereererereresrrrrnrrerrrerrrrrrrnrsnnnrrrrenn
+            rensar nn earn n nan nen LivsmedelsberedSkap s....ssssssssssessrennersresrssrerrnresnesnennerern
+            ennen nn Livsmedelsekonomiska samarbetsnämnden..............ssen00n
+            Livsmedelsförsörjning LivsmedelskOntrOll....sssssssssssssressrernsnnersnneresnernnernernnnrnnsn
+            nen nn nn LuftförOreNiNgaår sm.msmmsssssrersreseesrerrrssrrsrrrnnresnererr
+            nen en nens rn ennen anna Luftföroreningarna i södra Sverige m..sssssssesessessersrnnennennnnnn
+            nn Luft vVårdSplaner o.mmmsnssrsrssrsresrenessrsreneererrssrerrererrereresrenenen
+            nn nn nn
+          </p>
+          <p>
+            Länsstyrelserna... LÖVSKOgSANdEL oooessessresseressrrresrersnrrnsnnersnnrrnnrnrsnrnrnrrsnnrnn
+            erna nanna Lövskogsplantering i SlättDygC...........ssssosssesseosseenonensnennnnnnnnnn
+          </p>
+          <p>
+            MalakitgfÖDlta..sssssssseressrrrerrsrerrersrerrnrrrrrrrrrenrrrrrrrrnernn
+            nen sen nen nanna Marina reSerVal.ssmmmmsssssreeserersrresererrsrersrererenrrrsrrrnrrrnnnennnn
+            nn n nana MarkanvändningsinventeriNngen.....ssssssssssssesesessenrrnsnrnennnnnn
+            Markavvattning......... Marknadsdelning MarknadsSregleriNng.....sesssesssressrersnrenssrerssreresnnrrnrnrnrrsnnrnnrnnnrn
+            rna MaterialbalanSer mssnnsssssssesereesrersrsrrrenrrrrsrrrnsnnrsnrrrnrrrnnrenrrn
+            nn rna MatpotatiskOntrOllen . ...sssssssesereeserreresessrrrrrrrsnrrrernnrrrrnnrrnnrrn
+            nar ING (76 [3 For: Te [RR MEIC-prOjektet.....sssssssressessenrresrernsrerenrrensnrrrsrrnnnesnnnernrnn
+            nen nn nen Merasjoki och KinnerpuSka s....ssssssesssrossssrerssnrserosenersnernnnnnnr
+            MerkOStNad oosssssssererresrererrererrerrrsnrennrennernnrnrrrnern
+            nn ennen nr nen nen nn Metanutsläppen .... MetylenklOrid sssmmnnsssersseressrersreessrrrnnnrrrnrrersrnernrnnsnennnnrnnnn
+            nera nan
+          </p>
+          <p>
+            6, 15,
+          </p>
+          <p>
+            30 30
+          </p>
+          <p>
+            1990/91:JoU Reg.
+          </p>
+          <p>
+            14
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_JoU/reg_199091_JoU_0014"/>
+          <p>
+            Militärt flyg oosmnmsssesossessrannnnsnrereennennnerrnrrererennernernnrrnrrnn
+            rn nnnn near Miljö- och djurskyddskostnader MiljöanSVvarig.....ssmssssseessneenernnnnnrnnrnnn
+            nn nen Miljöavgifter ..mmmmsssssssesserensrennrnrrnnrnn nn n Miljöbalk
+            o....sssssssooornrrrrnrenennnnrnressssssnsserrrererereresssnnnnnnnnnnnnnnn
+            nn nan Miljödepartementet ...mmmsmssessererssesnnnernrernenernennrrnsrennrnnrn
+            nn nn nenn MiljöfOrSknNing ....ssssssseseoresrsesrsrsesnesnerneresrenenerrerenenerennrnen
+            en rnnn Miljöförbättrande åtgärder i jordbruket ..............essessess00nn0
+            MIiljöklaSSer smnnssaesssrerereeeereerererenenenernnrrrrnenenrrnrnenenernrn
+            ene nrnennnn MiljökonsekvensanalyS€r smimsmmeseessereerseseerenenrersrenenrnrnnenennnnrnnn
+            MiljökonsekvensbeskrivNingar ...sessessssssesesesossnnenrnnnennnnnnnnt
+            Miljökonsekvensutredningaår m......seeeeeeeerersersrsesesenrnenennnennnnn
+            Miljökrav för fartyg MiljömärkninDg....ssssssssosenesenrsrsesesesnenernrnenennnnrnennnnnrnenrnrnrnnnnnnt
+            Miljön i StockholmsregiOn€iD.......essessseessrsrsesesesenrnnnnnnnnnnnnnnnn
+            Miljönämnder s.sssnsnesesresesnereersnsrsrenernnererrenennenenenenennen
+            ene nen en nn nnn MiljöombudSman susmsesesereeesersrernerrernerrrrerenersnnenenrnen
+            ennen en rnnnnnn MiljöorganisatiON€r sssmmmmsrssesssrersrernnenenenrnennnrnenrnrnrrn
+            rn nrnnnnnnn Miljöprojekt GÖtebOrg ...........sessssessrsrsrnennnnnnrnenensnnennnsnnnnrnnen
+            Miljörelaterad förmånsbeskattning MIljöreViSOr.......sssssesssenenensneresenrnsnnenenenrnrnernnnern
+            ennen ennen enn rnnenn MiljÖråÅG o.s.osossseseseseosensnsenenerosrnsrnsrnenenrrnrnrnrrnnrnn
+            rese rnn ennen nanna MIiljöskatter .....sssssssssssnsnsnsnerersernnrnrnenrnrnrnnnnrnnrnrnnenrnnrnennnnnnnnnen
+            Miljöskyddsavgift .....ssssssesseesseresnensrsnnnnenrnrnnnrenrnnnnrnrnnrnrnnnnnnnnn
+            Miljöskyddslagen s..ssssesersrssessnersrennenrnrrrenennrnensenensnnrnrnnnnnnrnnnn
+            Miljöskyddslagstiftningen........s..e.esesesrsesrsrsrsrsesnsnsesnnnnnnnnnnnnen
+            Miljöskyddsområde .... Miljötraktat o..sosnsmssreresesranaenenerennrrenrnnnnnrnrenenn
+            een enen ennen ene nrnnnnn enn Miljöövervakning .....ssssssesesssseseenennnnennnennnnnnnnnn
+            Montrealprotokollet MySkOXStammMEen sussonsessesrenreeneseenesnsnnnnsnn
+            enn ennen ennen nere nen nr renen nen MÄälar€h sosssnsseeseereesrerrenenersrenenrenennr
+            enn nrrner renen nr enn r rr nen enn rn rna Mänsklig rättighet......nmnnsssssossorsesnesnnernnennnnnennnnrnesnnrnnnnn
+            nn nnnn nn Maätstationer Mätstationer för radioaktiv strålniNg............sessesscrsrernsnnn
+          </p>
+          <p>
+            Nationalpark sosssssssssesseseresesnesnssesnsnnnsennrrnrnnennrnennrn
+            renen nee ennen nen Nationalparker: Björnlandet s......ssseseseesesesresenseseresernennnnnnnnr
+            Nationalparker: Djurö Nationalparksplanen ssmmmmssssssssssssnrsnensrrernennennenernnnrrn
+            enn ennen renen Naturkunskap NE TATT CT VC Ur Naturresurslagen
+            NE TANT TE TA6 rr
+          </p>
+          <p>
+            Naturvårdsgräns för SKOgSDrUK.....sssssssresesrsrersrssenerrsnrnernsnennne
+            NaturvårdSshänSYynD .omssssssesrersrsrseenesneenennrnenernrnenenernrnsnennrnenen
+            ent NaturvårdSlagen sssmmmmnsssoresrerenererenennennereenenrenenenenernsnerernenen
+            rn nn nan Naturvårdsverkets aktionsplan mot havsföroreningar .......
+            Naturvårdsåtgärder i odlingslandskapet .....nmmmmsssseeseesssnsnnnen
+          </p>
+          <p>
+            16,
+          </p>
+          <p>
+            23,
+          </p>
+          <p>
+            25,
+          </p>
+          <p>
+            9, 16,
+          </p>
+          <p>
+            30 31 30 30 30 30 30 30
+          </p>
+          <p>
+            1990/91:JoU Reg.
+          </p>
+          <p>
+            15
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_JoU/reg_199091_JoU_0015"/>
+          <p>
+            Naturvårdsverkets luftkontrollprogram s..mmmsrnssessesrsesnnn
+            6 1990/91:JoU Reg.
+          </p>
+          <p>
+            NaturvärdesinventeriNgår sm. ssmmmssssesrersrrrrsrrreseennrnrrnrnrnrnnnnnn
+            nan 13 ÅRES &lt;A 6 NOLA-anSlageltossosnnnsssesreseeseseenrersnenerneeresrersnnrnernerernennernen
+            nerna an 30 NonylfenoletOXylater ssmmmssssssssseseeneenessersnsnsnenenresernnrnerrennennnn
+            nn 30 Nordiska Investeringsbanken smsmmssssssesseeseesrersesesnesnennennennnn
+            an 6 Nordiskt program för miljöförbättringar s..................s..00-
+            6 NordsjökOmmiSSiOD sismeseseseeseesresreseennereenerrrnerernenennennenrennen
+            nan 6, 30 Nordsjökonventionen om förbud mot dumpning av FMV VU
+            RR 6 Näringsläckaget från SKOgSMarker su.mmmmsmsressssrsesenesenerenenenenna
+            6 Näringspolitik sssmnsssssseseensseneseserseenesesrenernesrrerenrsrsrsnenernenenen
+            nn nn 25 Olje- och kemikalieSpill mnssmnssssssssssssssessressresesernesnennennrnnnn
+            annan 6, 30 OljeUtViNNilGasssosserseresreseseseererenneseenenerern
+            enn ennenen eran ennen en annen en anna 30 Oljeutvinning i SKagerrak
+            smmnssmmsssessesressesseeserersesnennernennnn annan 6 Omhändertagande
+            av CjUr s.smmmmmssesreseesresereseersereenernrerrnnen nn rna 18
+            Områdesavgifter s....mmmmnnsersorereeresnrereerseererrnrrnrrrrrrrerrenrrnnererrrnnnn
+            ann 16 OmställningSStÖd smssmmnsssssessseereneernenrenerenrenesnnrnrnsrerenennrnenennnn
+            enn 22 Omställningsåtgärder i jordbruket...........sssssesssseseesenesennennnnn
+            22 Omvänd bevisbÖrda....ssssessserserssresennrnreserssreserrsernennrnnrn
+            annan annan a 30 Osorterat avfall 30 Ozonbildningen 6 OZONSKIKLet
+            ooooonessresersrereseenresrersnarrrnennenrnnsrnrnsrnennerrnnnnnrnn
+            anno nn nan 30 PanNtSySteM ooosssseereerersrrrsreseereenerrrenresnrnern
+            er r rn annen nen annans annans annan 15, 30 PCB oossnssenenenenenn
+            ana 30 Perkloretylen 30 Personbilar sssmmmssssssressnnereenennenn
+            annan 30 PET-flaSKkan oosossssesreserrererseerresrsrresnrrsrernrernrrrranrerrerrrrnnrrrnrnn
+            annan nn 21 Plan- och bygglagen...ssmssesssssssseresrenernenrenrrsnnesnerrenernrnnernen
+            nen nn nn 30 PlAStosoosseserereesereorerorererrrrrrrrrrrrrsrernnnerrrennerrrrrrrnnrrnrrn
+            rr nn rnn rean n nn anna 30 PIUtONiUIM oooeeesresreseeereresreserresnese
+            renen ennen enn ren ennerren arr rnn ennen enn nn 9,23 POICI oosssrererereneseerenerrrnnrerenerenreren
+            nen erneren enar ser sen nen enes en ennen annen an ana 30 Prisregleringsavgiftell
+            smssmmeessssssesssssesrenesesnnnneresesernenennenenen nanna 19
+            PFrISStÖG oooosessresererrrrererererrerrreserrenrrrrnrenrrrrrrrrrnnrerrenn
+            annen enn rna nens rann 27 Prisstöd till rennäringen smummmmmsssssssrereseseerrerrerenenenenn
+            enar en annen ann 22 Prisstödet för Mjölk sssssnsssssssresrreseererersresrssnennenernernernennnnn
+            rn nana 27 PrisÖvervakninNg s.ssssseseseenennerrrenesnennernesrrrnnesnerren
+            ennen nn ennen anna 31 PrOCESSVaLlelN sussosseereesrresreseesernesrrernenenn
+            ennen nr nnn arne enn nnn annan annan 6 ProduktregiStret .....ssssssssssresessresreseeserrnrsrnernrnenernereennrnnrn
+            nen n nn eran 3 Produktövervakning.....sssesessessresesrerrereenesrrrerrererrernernrrrenner
+            enar 30 Projekt VästerbOottenSlaX ........se.ssseseesseeessreserseesessernrenrerernnn
+            rna 25 PunktkällOr sssssnssssreserrsrrrsrereererrerrrrnresreresrrrrnrnnrrrern
+            rena nern nn nnnn nana 16 PO ooooerrererserersereneneneneerrrrrrensenenenernensnnnnnner
+            ennen ena een en arenan enar en en enn 30 PälsdjursNäriNgeN smussmssessresssrerseersrreeeresesrrererarsrrernrr
+            eran nne enn n enn nan 18, 22 PälsdjursuppfÖGd NiNg.....sssessesssessrerrresrersrrrnsnnernrererrnnerrnren
+            eran nn nn 18 Radikala fiskemetOder s..mmmnsssneseereneneseeserrrrnenenerennenernrnennnnnnnn
+            30 16
+          </p>
+          <p>
+            RAPSOCHliN Goose oeseeesereseerrerereenersesrernersrsnnersnrrrnnnnrnrrsnrrnnrrrnrernrrn
+            nn 22
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_JoU/reg_199091_JoU_0016"/>
+          <p>
+            Regionalpolitik Ren produktion Renhållningslagen .... Reningsutrustning
+            på flygplan sm..mmmmsnsssssseseseessensrernrrnrnnnnnnn Reningsverk
+            siosssssssssssesssesssreeseresnreessennererennernnernrrnrrrnrnennen
+            ennen nen REN NäriNgeNasssseeseesereesresrrersreeserrenrnererrnrnrrr
+            nes rrnrrrnrrnrn ennen enn nnn Rennäringens intreSS€i s.smmsssssserserersesererenernnsnnenrrrnnrnrnrnrnenennn
+            Rennäringslagen smmssssssessesseeseeseeserrererernrernerersnenernrnnrnennnnn
+            ennen nnnn RetUrSySt€lMossssssssresrereereeseresreserrresnrnrnrnnrrrrrrnrnennennrnenen
+            een enn nan Ridö/Sundbyholmsarkipelagen summmmmmnssrssreseseerererssrsrernrnrnnnns
+            RiksskOgStaXEriNg sossmmmssssereseeseseeneeneesresneseenerernsnererenrnrnrnnnnen
+            nan Riskline sssmmmmmmsssnnsnnnnnr Rolfstaån Rotenonbehandling
+            "ROtSNUrf" ooooesesesrererrersnrrnnnrnrn Rovdjursförekomst Rådgivningen
+            till trädgårdsSnäringen.....mmseseessssn RÅgVELC oooosssessessrerensenersrrnenenrnnrnnenennrnnrenensnnenernsrnrnnrrnrernnrrnn
+            nan Råvarukostnadsutjämning s...ssessesessesesrssenesenrnrnrnsrsrnrsnrnnnnnnnr
+            RÖKgaSreNilg sosmososrenesreneererresernenreorereerrnerereenenernenenenrrnenenrnrnn
+            nen RÖtSlamM Met oooooeseesresresreseesersnnesesnrrsnerernneernernrrnnsnsnnrnenen
+            nn rn nn nan
+          </p>
+          <p>
+            SAKäÄägarCooooeeererererenernesernerenrernerneseenernerrnrerernrn
+            renen en rn ene en ennen nanna SaltvatteninträNngnNilg ...smssssessesseseressnernrennernennrnrnnerennnnrnrnr
+            nn n nn Samepolitik s..ssnssmsresesreseseenernennenennernrernrnnenernerernersnenrnrenenen
+            enn nan SamerättsutredNiNgeN....ssseeessssseesreesseeseerrrsernernrrerernenener
+            nn nan
+          </p>
+          <p>
+            SANCL ÅN Gas oeoeererenesreneerenererneerennenererrerrnnenernrrernenenerer
+            nen en en rn n nan Sanering av miljöskadade Områden s...mseeesessresseresnnnnnnnnnn
+          </p>
+          <p>
+            SJQUNjQ ooooseererseererrenernrererrrenrrernerrern rr n esse
+            es nernesner en ernrnrn rn en enn n nan Skogliga Stödområdet s....s.sssrsrsrsresennenerneneneneserenrnrnsrnsnnrnsrnrn
+            nn SKOgSbilVägalooooosoesesrerseseerereeseernesrenrererrerneresrerrererenerrnrnrrren
+            ennen enn SKOgSDIUK oosoeererereresrenesrenennerrerenreneenrerreerernerernrnenererenrnrn
+            renen nn ent Skogsbruket i fjällnära skogar ......... Skogsmarkskalkning.........ssesssessrerennnnn
+            Skogspolitiska kommittén .................. SkogsskadOr .s.snssseessresesreseerernnesnnrenn
+            nr nn r Skogsskadorna i Gävleborg................. Skogsvårdsavgiften
+            .............sssemesnsnnnn SkOgsvårdslagen s.snnmmnussressersrenersnennnrrrrnrrnnrnnrnnn
+            nn Skogsvårdslagstiftningen s....mmmmmmsesseserennenrsnenen nan
+          </p>
+          <p>
+            Skånska kronhjortsstammen SkördeskadefOnden....ssssssssssreserensnnerrerserernnnerrersernnrrnenernrr
+            renen nn
+          </p>
+          <p>
+            22,
+          </p>
+          <p>
+            12,
+          </p>
+          <p>
+            13,
+          </p>
+          <p>
+            27 30
+          </p>
+          <p>
+            1990/91:JoU Reg.
+          </p>
+          <p>
+            17
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_JoU/reg_199091_JoU_0017"/>
+          <p>
+            Skördeskadeskydd.....ssssossssorereererererreenrerrrsrrsrersnrnrrrrnrrrnrrer
+            ann nnn Skötsellagen Slaktavfall........
+          </p>
+          <p>
+            Slutlig reglering av statsbudgeten ..............sssssssossoososssosorsnn
+            nn Slutna odlingssystem inom trädgårdsnäringen SIÄKtKkÖP osssoseerresrenerererrerrrenrersresrnrrrerrernnererrrrrrererrrrrnr
+            enn n nan Småhus med tomtmark.............. Småskalig slakteriverksamhet....
+            Småskogsbruket Småviltjakt sssnnsnssssssesrerenreresrnnenrerrerreenennerrrrnerennrnrnn
+            rann rna Småviltjakt på statens Mark. .......sssssssoeseonsnsnesenenrsnnnnnnn
+            SnöskoterkÖrnNiNg susmmsssssrsssrererrereersrrersrerersererrrrnrrnrrrnnrnnr
+            nn rn nan SnÖSKkOLterträafik..ssssossssssssserreserresserersrerrrerrrrrnerrrrnernrrrrrrrnen
+            nr rn nan SockerbOlaget .ssmmnsssssrressrensrreesrrrrrrnrsrrnrrrrnnrererrenn
+            rn nrnn nen nrn nn rann Sockerbruken på Öland och Gotland... SOCKET
+            När lNgeN ooooeeeesrerersrersrrrrsrrrerrserererrrrrrrererrenrnrrnnannnnn
+            rann nr ann SOCKkEerregleriNngeD...sssmssesseesserrerrrersrerrrrrreernrerrrrrsnnrrrnarrrnnnnn
+            nr n na
+          </p>
+          <p>
+            StallgödselhanteriNg sossmmmsssssessessrssenesnnenrrnnsnenernennnnern
+            ennen nerna nan Statens naturvårdsverk s.smmmmsssssssrsrerenrereresrsrsrsrerererernrrrrrnrnn
+            rna Statens strålskyddSinStitUt ............e.sesessssesessersneneserererrererrrn
+            rna Statliga administrätiON€N s.msmmmssssssessressressersrrrrnnrrnnnnn
+            nens nnn nanna Stiftelsen Bohus AvelsCentrUMm s..mmmmmssssseseosesnesnnnnnennenn
+            rna nn Stockholms internationella miljöinSstitUut ...................s.-------
+            Stora Alväaret ossssssssssresseseeseesnrseresrrsernenrnnrernererern
+            enn nns ennen erna rann Strandskydd....... Strandstädning .. Stridsåtgärder
+            .... Str OM til oosoeesreseereeresrrrrrsrererrresrrrrrererrernern
+            enn enennrn arne n ennen enn n anna StrukturfrågOr s..sssssesesrersenrorrerersesesrnsrnensnnrnensrnsnn
+            rn een nn enar nn nn an StråförkOrtningSsmede€l......sssssssssssssseserrereosrsrsrsnsnrnsrsnsnsen
+            nr nn nn StrålsSKkYCd sssssssssseseerreresrererererenrsrenenrnenerererensrnenenrnrnnnnnnnnnn
+            annan ann StrålskyddSslägen...s.sssosesosesesesesrenerenererenerenenersenenenenenannnnnn
+            annen ann StäNgSClososeeeeereseerrersrrrrnrerresrernernrerrenenrern
+            erna arne en sanne nens nerna nn nn StödområdesindelNiNg......ssssssssssrsrsenenenesesesrsenerenenenenen
+            enn n nan SubstitutionsprinCiPp€DN ..msssssssssessessrassressensernrennrnnrenn
+            nen nnrn rna Suggstödet.......... Uöttereeraeesereerrerersrsseeesrressrernesr
+            ers nn enn annen n nn erna nn SUMPSKOQAT oosossesserersreereeresrresrenrrsrernernersnennenerrsnernrn
+            nn nr r rn rn nns SvanSskUpErilG...sssseseosssresserssreererrersrernrrrerernnrsnrrersnrern
+            renen nr rn nen Svavelavgiften sssmmsssssrreesrensrerserrrrrerrsnrenrennnensen
+            enn er nen nr n rr nn nan SvaveldiOXIidA sososssssessseeesrsrrererrererrrersrrrssrrrrnrnrsrrrrn
+            nns nn rr rann rna nan
+          </p>
+          <p>
+            19
+          </p>
+          <p>
+            4 30
+          </p>
+          <p>
+            1990/91:JoU Reg.
+          </p>
+          <p>
+            18
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_JoU/reg_199091_JoU_0018"/>
+          <p>
+            Svavelhalten mosssnssresererrersrernenrrsnreserrennnnsrernernrrr
+            nen n enn rrnnrn rerna rna Svenska naturskyddsföreningen sm..mmsseseeseseresersreseerrsresnnsnnenn
+            SäljbOlag sossoneseseererrererrnrenrenrerrrannererrernr renen
+            nrn reser nn nere enn n nn nn Särskild statsåklagar€........ssssssenesesrsennenenesenenenenenerennsnnnsnnn
+            ennen en SötvattenslabOratOriUm s..mmmssssssssesresssrrernrernrrenrernrrrrnnrrnnr
+            rn nrn a
+          </p>
+          <p>
+            TaaVaVUOMA sossoreererreerrerrereersrrerersrrersrennrrrernen
+            ere er rn n rer nn nr rna Tandvården sosmnssussserererrererrererrrsrererenrenrenerrenennrn
+            ennen ennen en annen annan Tankmuffar oosnnnsssssreserssreressrrrrererseresnrrnnreresrrrernnnerennn
+            nns ernne rr rn ann Teknikupphandling Tennorganiska föreningar
+            TerrängkÖrningslagen smsemeeessessssessesssessesnennrennenernrrerennennnnnnnn
+            Tillverkares och försäljares aNSVår .....smsssessessessensnenennennnnn
+            nan TillåtlighetSregler ssssmmmsssrsrareresesesesensresnerenenenenenenennnennrnnnnen
+            nanna Tilläggsbudget I.nsismsnsssssssesresersesresesenennnenesrenenrenesnrnennenennrnen
+            nera TOrontokOnferenNsS smossssssessressessesserersrsnsnesrenrrnnerrern
+            ren nrrernenn nr nen Torvtäkter.................. Totalförsvaret
+            Trafikanläggningar omsmmmsseesressessesnerernnrrsnesnenrrnrsnnsnrrrnsnnrn
+            nr nnnn Transnationella fÖretåg ......sssessresressrasensresnernsrennrennnrernnsnn
+            nro nn TransportkungÖrelSen sunsmessssssssessessresersesserernesrnrernnnerrenrrrrnnen
+            TFreStiCklalsssssssreesrensrrenrensrrresrnenrerrrrernnnrsrneserrrrnnrrrn
+            ns nrnn nr n nen TriklOretylen omsssmssssssssesesesserererrserrrsnrnnnnererrerererrrrrrernnn
+            nere nanna TrädgårdSnäriNgen ..smmmnsrsresresenrsrerennrnnernennenennenennenernenenn
+            norr nan TrädgårdsutrednNinNg s..ssmmmsreresesrsesersreneerensnnnenenenenenener
+            ennen annan Träskyddsmedel Tungmetaller s..smmmnsssssssseesressnresnnreneerrrrersersereeererrrrrrrnrrrnrrn
+            nr rn nen TVåpriSsSySteMet oisesesresesrenenreneerenesesrennerneneneenenennenrerennrnrnen
+            nen enn TåKELN oooosesreeseresesreseereresreresrernesrererrrrenrrnnenenranenern
+            ennen ennen eran nen nan TÄtOrter NA ssssssseeesesererersresnsrrnr
+            re snnrersrrn ner nrrrrrrernnn ere nn nr rn r rer n nan
+          </p>
+          <p>
+            Urskogar Utbildning och forskning smmessmsssrssserrrssesnesnrenreresnnsrrernsnnrnn
+            rna Uthålligt enskilt SKOgSDIUK ms ssmnsssssreserenssrrnnnrnrnenenenenen
+            annan nn Utländska trädslag ss.smmmnssssererrrrssrersrennrrrersrrnnrrenrrrner
+            enn rnn nr nanna Utrotningshotade arter s.mmmmnsssessssererernnrsrrnrrrrrrersnrrnnrrnnnr
+            nn nen Utsläpp från kommunala avloppsreningsverk.................
+            Utsläppsbegränsningar nya flygplan Utsläppsskatter
+          </p>
+          <p>
+            ValltorkföÖretåg.........sssesssssresnsennrennernnnerrnrernrrerrererrernnrrrrrnn
+            rr rn nn VallväxtfröOdliNg ..ssmsssresrreserernrenrrrnnrrrrnrerreresrrernrrnnnrrrer
+            nn rr rann
+          </p>
+          <p>
+            VargStängSClisssssssssssserrersrerrrrennrrenrrsnernnnnnrenerrnnrrnrrsrrrrrnnrrn
+            rn nn rann Vatten OCH HaV.sssnmmnsssssssssssseerereoeererererenerrnerrrrrrrne
+            rer r rr rer rr nanna na
+          </p>
+          <p>
+            6 30
+          </p>
+          <p>
+            1990/91:JoU Reg.
+          </p>
+          <p>
+            19
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_JoU/reg_199091_JoU_0019"/>
+          <p>
+            Vattenföretag.........ssseesesserrrensrresrerrrrrennerrrrrrerrnrnrnnrnrnnnrnn
+            nen nns nan Vattenförorening från fartyg............sssssressesssresrerererrerernnnnnn
+            nn Vattenlagen...ssssssssessressrereennrensnrrsnesrrrnnnernnrennenr
+            reser nrenn enn n rn nanna Vatten mål ososssssssesesresreresesesesrenerrsesrererrererrererererrrerrsrenrnnnnen
+            nn nn
+          </p>
+          <p>
+            Vegetabiliska oljor... VillkOrSlånf.......sssseesesnnsennnnnnn
+            Vilthägh s.nnnnnsssnseonennnssssnnnnnnn ViltskadeutredninNgen
+            sm smmmeessesersresesnresrenrseserressressrerrernrnren nn nn VitaliseringsgÖdSliNg........ssssseseesseseeneesrrsrerrererrrsrrrersrrrnrrrennrnnn
+            nn Vitesföreläggande m.msssesesreneeneeneenrerenrnnerrennerrrrrnnnrrnnrnnenn
+            enar annan Vård av naturreServVåts...sssmessesssesesresrersenrenesesenrrnnerrrnennanennnnn
+            nn Vårjakt på råDOCK s.ssssnsnsssesenenesrsrosrsrersrnerersrrsrsrsrsnsnnenerrrnrnr
+            nns Vårjakt på SjÖfågel =mssmmnnmsssreresrerssesrerenreresrererernennrrrrrnrrennanenn
+            nana Våtmarker NET ST 6 &amp; RA VänerSjÖöfartell....sssssssssseseesresersreseenerrnsrrrnrennerenr
+            renare nen n ennen renarna VärdefaktOr ossmmessssressreserresersnennenresersnennennenserenn
+            nr nen nen nr nen nan ann Värderingsen heter smusmmmssssssresssressrrsrrersrererenrsenrnnrrnnnnnnnnn
+            nanna VärldsklimatkOnferensS sm ssmmmmmssssssrssrerssrrnsrresrssrerrnnrrennrnnn
+            nn annan Värphönshållning.....sssesssseresesesesessrenenenenrneseserennrnenenenen
+            nn nn nn nns Västerhavet
+          </p>
+          <p>
+            VäxtnäringsläCkage smmsmmssssresersseserreseresrerrrerrnernnrrsnrnnernesn
+            nn en nn VÄxtSkYCd oososseeseesersreeserrenrereesnesrennerneernnerrerrrsnerernnnrrnernernrrn
+            nn nen nn
+          </p>
+          <p>
+            Yttre MiljÖDp..ssosseessesssreseersrensrrrsrerrsrsnrrrrrrrrrererrrrnnrnnrrnnr
+            rn nnn anna nan
+          </p>
+          <p>
+            ÅkermarksdikniDg............ssssssssssoooooossssssrsssssernnnsssernrrrnnnnnn
+            ÅLNjUStfiD oosssasnnssanossssesssssssesnnnnnnnnnsnnsrrrnnennnnnnnnnnn
+            renen nnnnnnnn nanna ÅrSMånSvariatiONEr ....mmmmnnsssssssssnesssssrsssssssrernnnsrrsn
+            nn enn ennen nn Återbetalning av omställningsersättning .............................
+            Återställning av miljöskadade områden .................nnnn Återställning
+            av skadad miljö ................ Återtagningsmålet för retursystem
+            Återvinningspremie Uöreseeseresrerenersrernr enn nrrnnnrnnener
+            nns arr nen arenan nan Åtgärdsprogram för Mälaren och Hjälmaren
+            .............s..o000s Åtgärdsprogram för Vätterf s..........ssssssssrnensrrnnn
+          </p>
+          <p>
+            ÄdellövskOgsSlagen....snmmssssssssssronasenssenesennsrnnnernnrnnsrnnnrnn
+            snor non Ädellövskogsplanteringar . ÄggkoOntrOllen s.sssssssssssrsrossrrnssrrrnnnsrrnnerrnnnnnr
+            enn ennnerrnneer nn nanna ÄggproOdUuktiOn.......sssssssssossresressronerensronsrenssrens
+            en snar ernn ennen rn nan Älgjaktstillstånd inom renskötselområdet
+            ........................... Älgskadad SKOP........ssseesosssroossranssssrnonsrnonersnnnnnnrnnsrnnnernnnnnnnnnnnn
+            Älgskötselområde.........sssossrossrsssronerosrsonerernnrnernnernneronernnnn
+            nn
+          </p>
+          <p>
+            2,25, 28,
+          </p>
+          <p>
+            10,
+          </p>
+          <p>
+            6, 8,
+          </p>
+          <p>
+            28
+          </p>
+          <p>
+            1990/91:JoU Reg.
+          </p>
+          <p>
+            20
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_JoU/reg_199091_JoU_0020"/>
+          <p>
+            Ängs- och hagmarker s......ssssssssseesennensnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+          </p>
+          <p>
+            Öresund .................
+          </p>
+          <p>
+            ÖstersjökonventiON s....msssessesssessssessrennnerrsrnrennnnnnnnrnnnnnnnnn
+            nn
+          </p>
+          <p>
+            Östersjölaxen.........
+          </p>
+          <p>
+            Östfold och Osloområdet..............ssssssnssssosennerossrnnnrnrnnnn
+            Överlåtelsebara utsläppsrättigheter .....................s.sossssssns00nnn
+          </p>
+          <p>
+            Överstatliga beslut
+          </p>
+          <p>
+            30
+          </p>
+          <p>
+            30 30 25 30 30 30
+          </p>
+          <p>
+            1990/91:JoU Reg.
+          </p>
+          <p>
+            21
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091_JoU/reg_199091_JoU_0021"/>
+          <p>
+            gotab 98934, Stockholm 1991
+          </p>
         </div>
       </div>
     </body>

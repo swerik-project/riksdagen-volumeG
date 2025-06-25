@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="reg_199495_FöU">
   <teiHeader>
     <fileDesc>
       <titleStmt/>
@@ -19,64 +19,255 @@
   </teiHeader>
   <text>
     <body>
-      <pb facs="riksdagen-volumeG-pdf/data/199495/reg_199495_FöU/reg_199495_FöU-000.pdf"/>
+      <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199495/reg_199495_FöU/reg_199495_FöU_0000"/>
       <div type="gBody">
         <div>
-          <p>Försvarsutskottets register vid riksmötet 1994/95</p>
-          <p>1994/95 FöÖUReg. Betänkanden Nr FöU1l Totalförsvarsplikt (prop. 1994/95:6) Utskottets justering 1994-12-01 Förslag till beslut: Delvis bifall till vissa lagförslag i propositionen. I övrigt bifall till lagförslagen. Bifall till två från KU överflyttade lagförslag i prop. 1994/95:87. Delvis bifall resp. bifall till motioner om kvalitetsförstärkningar inom vissa delar av det civila försvaret. Avslag på övriga motioner. Debatt i kammaren 1994-12-12 Protokollsnummer 1994/95:40 Riksdagens beslut: Bifall till utskottets hemställan 1994-12-15 Protokollshummer 1994/95:43 Riksdagsskrivelser 1994/95:78 och 1994/95:79 Nr FöU2 Lag om civilt försvar (prop. 1994/95:7) Utskottets justering 1994-11-29 Förslag till beslut: Delvis bifall till propositionen med tillägg av viss Övergångsbestämmelse till regeringens förslag till lag om ändring i lagen (1981:691) om socialavgifter. Avslag på samtliga motioner. Debatt i kammaren 1994-12-12 Protokollsnhummer 1994/95:40 Riksdagens beslut: Bifall till utskottets hemställan 1994-12-15 Protokollsnummer 1994/95:43 Riksdagsskrivelse 1994/95:80</p>
-          <p>1 Riksdagen 1994/95. 10 saml. Register</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199495/reg_199495_FöU/reg_199495_FöU-001.pdf"/>
-          <pb facs="riksdagen-volumeG-pdf/data/199495/reg_199495_FöU/reg_199495_FöU-002.pdf"/>
-          <p>Nr FöU3 Strålskydd (prop. 1994/95:100 bil. 15) Utskottets justering Förslag till beslut: Bifall till propositionen. Avslag på samtliga motioner. Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse</p>
-          <p>Nr FöU4 Försvarspolitiken 1995/96 (prop. 1994/95:100 bil. 5) Utskottets justering Förslag till beslut: Bifall till propositionen. Avslag på samtliga motioner. Fem tillkännagivanden; om medelsberäkningen inom ramanslaget till Försvarsmakten, om godkännande av verksamhetens inriktning för Försvarsmaktens program, om besparingsinriktningen, om verksamheten för Försvarsmaktens program för budgetåret 1995/96 samt om Försvarsmaktens helikoptrar. Debatt i kammaren Protokollsnhummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse</p>
-          <p>Nr FöUS Beredskapsbudget (prop. 1994/95:100 bil. 19) Utskottets justering Förslag till beslut: Bifall till propositionen. Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse</p>
-          <p>Nr FöU6</p>
-          <p>Vissa organisationsfrågor, m.m. (prop. 1994/95:100 bil. 5)</p>
-          <p>Utskottets justering Förslag till beslut: Bifall till propositionen om nedläggning av Krigsarkivet och Försvarets personalvårdsnämnd. Avslag på motionen. Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse</p>
-          <p>1995-03-09</p>
-          <p>1995-03-29 1994/95:81 1995-03-30 1994/95:82 1994/95:238</p>
-          <p>1995-04-25</p>
-          <p>1995-05-11 1994/95:103 1995-05-11 1994/95:103 1994/95:338</p>
-          <p>1995-03-28</p>
-          <p>1995-05-11 1994/95:103 1994/95:339</p>
-          <p>1994-02-21</p>
-          <p>1995-03-08 1994/95:69 1995-03-15 1994/95:73 1994/95:200</p>
-          <p>1994/95:FöUReg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199495/reg_199495_FöU/reg_199495_FöU-003.pdf"/>
-          <p>Nr FöU7 Vissa forskningsresurser till Militärhögskolan (skr. 1994/95:223) Utskottets justering Förslag till beslut: Avslag på motionen. Skrivelsen läggs till handlingarna. Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse</p>
-          <p>Yttranden</p>
-          <p>Nr FöU1ly till UU Sveriges medlemskap i Europeiska unionen (prop. 1994/95:19) Utskottets justering</p>
-          <p>Nr FöU2y till FiU Vissa ekonomisk-politiska åtgärder m.m. (prop. 1994/95:25) Utskottets justering</p>
-          <p>1994/95:FöUReg.</p>
-          <p>1995-05-30</p>
-          <p>1995-06-13 1994/95:119 1994/95:419</p>
-          <p>1994-11-24</p>
-          <p>1994-12-01</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199495/reg_199495_FöU/reg_199495_FöU-004.pdf"/>
-          <p>Sakregister</p>
-          <p>Anslagsbehov 1995/96 =msmsssssssessrasesresnnrenesnessennererernerennnernnnnn ANStällGdQssssosoesreserrrenrerrenrerrernrrereennrrnnnrrrnrrrnren tern rnennr nr er nen n enn</p>
-          <p>Beredskapsbudget .....snmssesssesrersrersesserersorrsrerrrnrnrrrnnrrnnrrnrnnnnn nn na Beställningsbemyndiganden s...sssssesesseeseersesersrsnnesrrsennernnnrnn nns Brigad Centrum ssssssseereserreseeseeserrasernnrrrrrnerrenrrrar renen nenn ennen annan</p>
-          <p>Civila fÖrSVaret.sssssssssssesseseennerenresnrenrrnrrrnsnernerr nere nrnnrner renen nan Anslagen:111, befolkningsskydd och räddningstjänst:113, riskforskning:119, psykologiskt försvar:121, industrivaruförsörjning:122 Civila trafikflygarutbildningen a ..sssssesessssessrenesrerenenenennnnnnnnn Ci Vilplikt osoossssrsesrsrsenenrnenersenernrenenenen en enen narr nen ennen rn ennen nn nan</p>
-          <p>Efterforskningsbyrån s...sssssrsrsssesesesrsrenerresesrsennnrnnrenenrnnnrnn nn nn Ekonomisk-politiska åtgärder, M.M. m.smmmsesressssenenrnnnnnnnn nn EU, NATO, VEU, OSSE</p>
-          <p>Flygtekniska försöksanstalt€n ....sssssssssssssssesnrenrenesnesnrnnnnrnnnnr Fortifikationsverket...sssmsssssssseenssnererssenersnnesnerenernrerrrnnernrnnen ner Frivilliga försvarsorganisatiOn€r.....sessssssssssssenseorsrersnenennnnn nen FÖrbDAaNdA sossossreesrerseresrerserrsnenrenrnrsrennnnnnnnerrrannrsn rs n ner nnsn ner r rn enn r nn Fördelningsförband s...ssssssssessesresesessreseensenennernennnsnernrnrennnnnn nen Försvarets forskningsanstalt............ss.ssssessesserosssnsrssnennnnnnenn ann Försvarets materielverk...smmmmsmssesssessssannnennennerernennnennnrnnrnnnnn nen Försvarets personalnämnd.... Försvarets radioanstalt .mmmmsssssessesssrsssrrnsrsrrssnnnrnnernnennnrnnrnnnnn Försvarsbeslut 1992 =mossmessessesessesesseesersrennenennennnrnnsnennennen renen nen FörsvarsforskninNg s...smsmssssssseesesreneeneenneneenneneerernernnsnernrnrrnnrnn rna FörsvarshöÖgskOIlan ssssmsnsssesseserrsesreseennerrennennenerrnennenernernen ennen nan FÖrSVarSiNnClUStfisssnssseseseereseeseersesrenrrnnesrernesnenrernrnn ennen rn rann nn rna FÖrSsvarsmakten..ssmmmssssesrssrssresresseensnnennrrrrenrnrrnrnennn enn nrrnr nn nrn nen Ny myndighet:34, 39, verksamhet:35, planerings- och budgeteringssystem:37, övergripande mål:39, besparingar:41, ekonomiproblem, verksamhetsinriktning 1995/96:47, programmen:47—61, anslagsbehov:62, grundorganisationen:70 Försvarsområdesförband ........s.sesrsseserreresrsrersesennenennrnenennnnnn nan Försvarspolitiken 1995/96 FÖTSVAarSpriSiNC€X....sssssesseseessnesoensrenssrennerrnrsrennnnsnnernnennnnnn ennen</p>
-          <p>Hemresor (värnpliktiga) s..mmmmmmssassssssessrenennerernnnnnennernrnnennnnen nn</p>
-          <p>IEPG— WEAG—SERA siosresssessessensresserersreseesnrnesnnenrnsrrernen nen</p>
-          <p>1994/95:FöUReg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199495/reg_199495_FöU/reg_199495_FöU-005.pdf"/>
-          <p>JAS 39 Gripe oooossseessersrrerererrrrernsranersrerernrnrreennnrrnenn nn nnn nn nanna</p>
-          <p>KrOoppsskadOr s.sssssessrsrerseressrenrersnrenssrressnnnrnrnenrrrrrennernnnernnnn rna nn Kustbevakningen .......... Kärnvapenfrågorna</p>
-          <p>Lag om Civilt fÖrSVår sisssmsssssrssssrsnrenrensrrrrerrrrnrrernsnn enn ennen renen s nn Höjd beredskap:8, ersättningsskyldighet:10, hemskydd:12, skyddsrum:13, utrymning:15, säkerhetsskydd:15, överklagande av beslut:17, lagändringar:17, 19</p>
-          <p>Militärhögskolan Miljöfrågor ...................- Mindre nämnder Museimyndigheten s..smmmmsnsssnrsssrenseesrsenesrrensrnenrrrrnrrrnrnnnnnnnrn nana I EES ONE T</p>
-          <p>Norrlandskustens marinkommando s.....ssssssssrrsssssssrerersnsenn nan Pliktverket...oosmnmsssssssserorerereeennnrrerennsnnsnnenrrnrernrrrrrrrerennrnrnr nr nr rann ReservoffiCErar€ ...smmmsssssererrrererssorersrrreereernnrrrrrerrererrrrnnnrrr rr rr nn nn</p>
-          <p>SjuktransporthelikOpträr s..sssssssssessressarrrssrrrsrnnnrrnnnennnrsnnnnnnnn nn StrålSkYCd oossnsnseresrereseresrererererresrererernerneennererrererrrnnenerenenen enn nn nn Sveriges EU-medlemskap s..mmmmmnssesnensensrneseennennennennenennnnnnenennn VEU, GUSP Säkerhets- och försvarspolitiken s.......ssssssessersssrerresennnnennnnnnn</p>
-          <p>Totalförsvarets ChefsnämnNd smmeessersrsssssnsnesrerernenenrnrnrnrnrnennn Totalförsvarsplikt Ett system:12, totalförsvarspliktens innebörd:12, inskrivning:15, vapenfria:18, krigsplacering:19, kvinnor i totalförsvaret:20, värnplikt och civilplikt:22, skyldigheter för försvarspliktiga:24, förmåner vid tjänstgöring:26, Pliktverket:27, lagförslaget:4</p>
-          <p>Uppföljning, Utvärdering. ......sessesesessesnsrereensrssnsnerrenennnnennnnnnn UtlandsStyrkan ssmsnssesssssessennnnranneenearrennnrnresrrsernrrnrernrrnrnrrnrnn nen</p>
-          <p>Vapen, VapenstÖlder s....sssssesssesenenesrenesnernsnrernesnsnrnrrnsrnnnenrnennr Vissa organisationsfrågOr s..msmmsessessssessnnsnrsesenrenenrnrnsrsrnsnnnnennen Krigsarkivet, Försvarets personalnämnd, Totalförsvarets tjänstepliktsnämnd Väpnad styrka utomlands s.....ssseesesseesererresrsnrerrennnrsnrnrnnnnnnnr</p>
-          <p>ÖsStersjöOmrådet......ssssssessessoresrrerrerrsererenrrsrrerrnnnanrnrnnernnnnennnn nerna Overföring av forskningsresurser</p>
-          <p>4:63 1994/95:FöUReg. 4:105 4:135 4:25</p>
-          <p>2</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199495/reg_199495_FöU/reg_199495_FöU-006.pdf"/>
-          <p>gotab 48640, Stockholm 1995</p>
+          <p>
+            Försvarsutskottets register vid riksmötet 1994/95
+          </p>
+          <p>
+            1994/95 FöÖUReg. Betänkanden Nr FöU1l Totalförsvarsplikt (prop.
+            1994/95:6) Utskottets justering 1994-12-01 Förslag till beslut:
+            Delvis bifall till vissa lagförslag i propositionen. I övrigt
+            bifall till lagförslagen. Bifall till två från KU överflyttade
+            lagförslag i prop. 1994/95:87. Delvis bifall resp. bifall till
+            motioner om kvalitetsförstärkningar inom vissa delar av det civila
+            försvaret. Avslag på övriga motioner. Debatt i kammaren 1994-12-12
+            Protokollsnummer 1994/95:40 Riksdagens beslut: Bifall till utskottets
+            hemställan 1994-12-15 Protokollshummer 1994/95:43 Riksdagsskrivelser
+            1994/95:78 och 1994/95:79 Nr FöU2 Lag om civilt försvar (prop.
+            1994/95:7) Utskottets justering 1994-11-29 Förslag till beslut:
+            Delvis bifall till propositionen med tillägg av viss Övergångsbestämmelse
+            till regeringens förslag till lag om ändring i lagen (1981:691)
+            om socialavgifter. Avslag på samtliga motioner. Debatt i kammaren
+            1994-12-12 Protokollsnhummer 1994/95:40 Riksdagens beslut: Bifall
+            till utskottets hemställan 1994-12-15 Protokollsnummer 1994/95:43
+            Riksdagsskrivelse 1994/95:80
+          </p>
+          <p>
+            1 Riksdagen 1994/95. 10 saml. Register
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199495/reg_199495_FöU/reg_199495_FöU_0001"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199495/reg_199495_FöU/reg_199495_FöU_0002"/>
+          <p>
+            Nr FöU3 Strålskydd (prop. 1994/95:100 bil. 15) Utskottets justering
+            Förslag till beslut: Bifall till propositionen. Avslag på samtliga
+            motioner. Debatt i kammaren Protokollsnummer Riksdagens beslut:
+            Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr FöU4 Försvarspolitiken 1995/96 (prop. 1994/95:100 bil. 5)
+            Utskottets justering Förslag till beslut: Bifall till propositionen.
+            Avslag på samtliga motioner. Fem tillkännagivanden; om medelsberäkningen
+            inom ramanslaget till Försvarsmakten, om godkännande av verksamhetens
+            inriktning för Försvarsmaktens program, om besparingsinriktningen,
+            om verksamheten för Försvarsmaktens program för budgetåret 1995/96
+            samt om Försvarsmaktens helikoptrar. Debatt i kammaren Protokollsnhummer
+            Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer
+            Riksdagsskrivelse
+          </p>
+          <p>
+            Nr FöUS Beredskapsbudget (prop. 1994/95:100 bil. 19) Utskottets
+            justering Förslag till beslut: Bifall till propositionen. Riksdagens
+            beslut: Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr FöU6
+          </p>
+          <p>
+            Vissa organisationsfrågor, m.m. (prop. 1994/95:100 bil. 5)
+          </p>
+          <p>
+            Utskottets justering Förslag till beslut: Bifall till propositionen
+            om nedläggning av Krigsarkivet och Försvarets personalvårdsnämnd.
+            Avslag på motionen. Debatt i kammaren Protokollsnummer Riksdagens
+            beslut: Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse
+          </p>
+          <p>
+            1995-03-09
+          </p>
+          <p>
+            1995-03-29 1994/95:81 1995-03-30 1994/95:82 1994/95:238
+          </p>
+          <p>
+            1995-04-25
+          </p>
+          <p>
+            1995-05-11 1994/95:103 1995-05-11 1994/95:103 1994/95:338
+          </p>
+          <p>
+            1995-03-28
+          </p>
+          <p>
+            1995-05-11 1994/95:103 1994/95:339
+          </p>
+          <p>
+            1994-02-21
+          </p>
+          <p>
+            1995-03-08 1994/95:69 1995-03-15 1994/95:73 1994/95:200
+          </p>
+          <p>
+            1994/95:FöUReg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199495/reg_199495_FöU/reg_199495_FöU_0003"/>
+          <p>
+            Nr FöU7 Vissa forskningsresurser till Militärhögskolan (skr.
+            1994/95:223) Utskottets justering Förslag till beslut: Avslag
+            på motionen. Skrivelsen läggs till handlingarna. Riksdagens beslut:
+            Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse
+          </p>
+          <p>
+            Yttranden
+          </p>
+          <p>
+            Nr FöU1ly till UU Sveriges medlemskap i Europeiska unionen (prop.
+            1994/95:19) Utskottets justering
+          </p>
+          <p>
+            Nr FöU2y till FiU Vissa ekonomisk-politiska åtgärder m.m. (prop.
+            1994/95:25) Utskottets justering
+          </p>
+          <p>
+            1994/95:FöUReg.
+          </p>
+          <p>
+            1995-05-30
+          </p>
+          <p>
+            1995-06-13 1994/95:119 1994/95:419
+          </p>
+          <p>
+            1994-11-24
+          </p>
+          <p>
+            1994-12-01
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199495/reg_199495_FöU/reg_199495_FöU_0004"/>
+          <p>
+            Sakregister
+          </p>
+          <p>
+            Anslagsbehov 1995/96 =msmsssssssessrasesresnnrenesnessennererernerennnernnnnn
+            ANStällGdQssssosoesreserrrenrerrenrerrernrrereennrrnnnrrrnrrrnren
+            tern rnennr nr er nen n enn
+          </p>
+          <p>
+            Beredskapsbudget .....snmssesssesrersrersesserersorrsrerrrnrnrrrnnrrnnrrnrnnnnn
+            nn na Beställningsbemyndiganden s...sssssesesseeseersesersrsnnesrrsennernnnrnn
+            nns Brigad Centrum ssssssseereserreseeseeserrasernnrrrrrnerrenrrrar
+            renen nenn ennen annan
+          </p>
+          <p>
+            Civila fÖrSVaret.sssssssssssesseseennerenresnrenrrnrrrnsnernerr
+            nere nrnnrner renen nan Anslagen:111, befolkningsskydd och räddningstjänst:113,
+            riskforskning:119, psykologiskt försvar:121, industrivaruförsörjning:122
+            Civila trafikflygarutbildningen a ..sssssesessssessrenesrerenenenennnnnnnnn
+            Ci Vilplikt osoossssrsesrsrsenenrnenersenernrenenenen en enen
+            narr nen ennen rn ennen nn nan
+          </p>
+          <p>
+            Efterforskningsbyrån s...sssssrsrsssesesesrsrenerresesrsennnrnnrenenrnnnrnn
+            nn nn Ekonomisk-politiska åtgärder, M.M. m.smmmsesressssenenrnnnnnnnn
+            nn EU, NATO, VEU, OSSE
+          </p>
+          <p>
+            Flygtekniska försöksanstalt€n ....sssssssssssssssesnrenrenesnesnrnnnnrnnnnr
+            Fortifikationsverket...sssmsssssssseenssnererssenersnnesnerenernrerrrnnernrnnen
+            ner Frivilliga försvarsorganisatiOn€r.....sessssssssssssenseorsrersnenennnnn
+            nen FÖrbDAaNdA sossossreesrerseresrerserrsnenrenrnrsrennnnnnnnerrrannrsn
+            rs n ner nnsn ner r rn enn r nn Fördelningsförband s...ssssssssessesresesessreseensenennernennnsnernrnrennnnnn
+            nen Försvarets forskningsanstalt............ss.ssssessesserosssnsrssnennnnnnenn
+            ann Försvarets materielverk...smmmmsmssesssessssannnennennerernennnennnrnnrnnnnn
+            nen Försvarets personalnämnd.... Försvarets radioanstalt .mmmmsssssessesssrsssrrnsrsrrssnnnrnnernnennnrnnrnnnnn
+            Försvarsbeslut 1992 =mossmessessesessesesseesersrennenennennnrnnsnennennen
+            renen nen FörsvarsforskninNg s...smsmssssssseesesreneeneenneneenneneerernernnsnernrnrrnnrnn
+            rna FörsvarshöÖgskOIlan ssssmsnsssesseserrsesreseennerrennennenerrnennenernernen
+            ennen nan FÖrSVarSiNnClUStfisssnssseseseereseeseersesrenrrnnesrernesnenrernrnn
+            ennen rn rann nn rna FÖrSsvarsmakten..ssmmmssssesrssrssresresseensnnennrrrrenrnrrnrnennn
+            enn nrrnr nn nrn nen Ny myndighet:34, 39, verksamhet:35, planerings-
+            och budgeteringssystem:37, övergripande mål:39, besparingar:41,
+            ekonomiproblem, verksamhetsinriktning 1995/96:47, programmen:47—61,
+            anslagsbehov:62, grundorganisationen:70 Försvarsområdesförband
+            ........s.sesrsseserreresrsrersesennenennrnenennnnnn nan Försvarspolitiken
+            1995/96 FÖTSVAarSpriSiNC€X....sssssesseseessnesoensrenssrennerrnrsrennnnsnnernnennnnnn
+            ennen
+          </p>
+          <p>
+            Hemresor (värnpliktiga) s..mmmmmmssassssssessrenennerernnnnnennernrnnennnnen
+            nn
+          </p>
+          <p>
+            IEPG— WEAG—SERA siosresssessessensresserersreseesnrnesnnenrnsrrernen
+            nen
+          </p>
+          <p>
+            1994/95:FöUReg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199495/reg_199495_FöU/reg_199495_FöU_0005"/>
+          <p>
+            JAS 39 Gripe oooossseessersrrerererrrrernsranersrerernrnrreennnrrnenn
+            nn nnn nn nanna
+          </p>
+          <p>
+            KrOoppsskadOr s.sssssessrsrerseressrenrersnrenssrressnnnrnrnenrrrrrennernnnernnnn
+            rna nn Kustbevakningen .......... Kärnvapenfrågorna
+          </p>
+          <p>
+            Lag om Civilt fÖrSVår sisssmsssssrssssrsnrenrensrrrrerrrrnrrernsnn
+            enn ennen renen s nn Höjd beredskap:8, ersättningsskyldighet:10,
+            hemskydd:12, skyddsrum:13, utrymning:15, säkerhetsskydd:15, överklagande
+            av beslut:17, lagändringar:17, 19
+          </p>
+          <p>
+            Militärhögskolan Miljöfrågor ...................- Mindre nämnder
+            Museimyndigheten s..smmmmsnsssnrsssrenseesrsenesrrensrnenrrrrnrrrnrnnnnnnnrn
+            nana I EES ONE T
+          </p>
+          <p>
+            Norrlandskustens marinkommando s.....ssssssssrrsssssssrerersnsenn
+            nan Pliktverket...oosmnmsssssssserorerereeennnrrerennsnnsnnenrrnrernrrrrrrrerennrnrnr
+            nr nr rann ReservoffiCErar€ ...smmmsssssererrrererssorersrrreereernnrrrrrerrererrrrnnnrrr
+            rr rr nn nn
+          </p>
+          <p>
+            SjuktransporthelikOpträr s..sssssssssessressarrrssrrrsrnnnrrnnnennnrsnnnnnnnn
+            nn StrålSkYCd oossnsnseresrereseresrererererresrererernerneennererrererrrnnenerenenen
+            enn nn nn Sveriges EU-medlemskap s..mmmmmnssesnensensrneseennennennennenennnnnnenennn
+            VEU, GUSP Säkerhets- och försvarspolitiken s.......ssssssessersssrerresennnnennnnnnn
+          </p>
+          <p>
+            Totalförsvarets ChefsnämnNd smmeessersrsssssnsnesrerernenenrnrnrnrnrnennn
+            Totalförsvarsplikt Ett system:12, totalförsvarspliktens innebörd:12,
+            inskrivning:15, vapenfria:18, krigsplacering:19, kvinnor i totalförsvaret:20,
+            värnplikt och civilplikt:22, skyldigheter för försvarspliktiga:24,
+            förmåner vid tjänstgöring:26, Pliktverket:27, lagförslaget:4
+          </p>
+          <p>
+            Uppföljning, Utvärdering. ......sessesesessesnsrereensrssnsnerrenennnnennnnnnn
+            UtlandsStyrkan ssmsnssesssssessennnnranneenearrennnrnresrrsernrrnrernrrnrnrrnrnn
+            nen
+          </p>
+          <p>
+            Vapen, VapenstÖlder s....sssssesssesenenesrenesnernsnrernesnsnrnrrnsrnnnenrnennr
+            Vissa organisationsfrågOr s..msmmsessessssessnnsnrsesenrenenrnrnsrsrnsnnnnennen
+            Krigsarkivet, Försvarets personalnämnd, Totalförsvarets tjänstepliktsnämnd
+            Väpnad styrka utomlands s.....ssseesesseesererresrsnrerrennnrsnrnrnnnnnnnr
+          </p>
+          <p>
+            ÖsStersjöOmrådet......ssssssessessoresrrerrerrsererenrrsrrerrnnnanrnrnnernnnnennnn
+            nerna Overföring av forskningsresurser
+          </p>
+          <p>
+            4:63 1994/95:FöUReg. 4:105 4:135 4:25
+          </p>
+          <p>
+            2
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199495/reg_199495_FöU/reg_199495_FöU_0006"/>
+          <p>
+            gotab 48640, Stockholm 1995
+          </p>
         </div>
       </div>
     </body>

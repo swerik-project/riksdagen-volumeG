@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="reg_199394_SoU">
   <teiHeader>
     <fileDesc>
       <titleStmt/>
@@ -19,218 +19,1054 @@
   </teiHeader>
   <text>
     <body>
-      <pb facs="riksdagen-volumeG-pdf/data/199394/reg_199394_SoU/reg_199394_SoU-000.pdf"/>
+      <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199394/reg_199394_SoU/reg_199394_SoU_0000"/>
       <div type="gBody">
         <div>
-          <p>Socialutskottets register vid riksmötet 1993/94</p>
-          <p>Betänkanden</p>
-          <p>Nr SoU1 Barn och ungdom Utskottets justering Förslag till beslut: Avslag på mot. Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer</p>
-          <p>Nr SoU2 Vissa etiska frågor Utskottets justering Förslag till beslut: Avslag på mot. Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer</p>
-          <p>Nr SoU3 Vissa tandvårdsfrågor Utskottets justering Förslag till beslut: Avslag på mot. Debatt i kammaren Protokollsnhummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer</p>
-          <p>Nr SoU4 Ledningsansvaret och vissa behörighetsfrågor Utskottets justering</p>
-          <p>Förslag till beslut: Delvis bifall till mot. S0410, S0422, S0428,</p>
-          <p>S0439 yrk. 9 och S0474, avslag på övriga mot. Debatt i kammaren Protokollsnhummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnhummer Riksdagsskrivelse</p>
-          <p>1 Riksdagen 1993/94. 12 saml. Register</p>
-          <p>i |</p>
-          <p>fa</p>
-          <p>1993/94 SoU Reg.</p>
-          <p>1993-09-23</p>
-          <p>1993-10-27 1993/94:16 1993-10-27 1993/94:16</p>
-          <p>1993-10-12</p>
-          <p>1993-10-27 1993/94:16 1993-10-27 1993/94:16</p>
-          <p>1993-09-23</p>
-          <p>1993-10-27 1993/94:16 1993-10-27 1993/94:16</p>
-          <p>1993-09-23</p>
-          <p>1993-10-27 1993/94:16 1993-10-27 1993/94:16 1993/94:5</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199394/reg_199394_SoU/reg_199394_SoU-001.pdf"/>
-          <pb facs="riksdagen-volumeG-pdf/data/199394/reg_199394_SoU/reg_199394_SoU-002.pdf"/>
-          <pb facs="riksdagen-volumeG-pdf/data/199394/reg_199394_SoU/reg_199394_SoU-003.pdf"/>
-          <p>Nr SoUS</p>
-          <p>Ändring i lagen (1972:119) om fastställande av könstillhörighet</p>
-          <p>i vissa fall, m.m. (prop. 1992/93:197) Utskottets justering Förslag till beslut: Bifall till prop., avslag på mot. Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer Riksdagsskriveise</p>
-          <p>Nr SoU6 Allmänna arvsfonden (skr. 1992/93:201) Utskottets justering Förslag till beslut: Till handlingarna Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse</p>
-          <p>Nr SoU7 Vissa hälso- och sjukvårdsfrågor Utskottets justering Förslag till beslut: Avslag på mot. Debatt i kammaren Protokollshummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer</p>
-          <p>Nr SoU8 Socialtjänst Utskottets justering Förslag till beslut: Avslag på mot. Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer</p>
-          <p>Nr SoU9</p>
-          <p>1993-09-23</p>
-          <p>1993-10-27 1993/94:16 1993/94:6</p>
-          <p>1993-09-23</p>
-          <p>1993-10-27 1993/94:16 1993/94:7</p>
-          <p>1993-10-12</p>
-          <p>1993-11-10 1993/94:21 1993-11-10 1993/94:21</p>
-          <p>1993-10-12</p>
-          <p>1993-11-10 1993/94:21 1993-11-10 1993/94:21</p>
-          <p>Import av och partihandel med starköl (prop. 1992/93:253)</p>
-          <p>Utskottets justering Förslag till beslut: Bifall till prop., avslag på mot. Debatt i kammaren Protokollsnhummer</p>
-          <p>Riksdagens beslut: Bifall dels till reservationen, dels till</p>
-          <p>utskottets hemställan under moment 2 Protokollsnummer Riksdagsskrivelse</p>
-          <p>1993-11-09</p>
-          <p>1993-12-08 1993/94:39</p>
-          <p>1993-12-08 1993/94:39 1993/94:59</p>
-          <p>1993/94:SoU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199394/reg_199394_SoU/reg_199394_SoU-004.pdf"/>
-          <p>Nr SoU10 Familjerådgivning (prop. 1993/94:4) Utskottets justering 1993-11-25 Förslag till beslut: Delvis bifall till prop. och mot. So11 delvis, avslag på övr. mot.</p>
-          <p>Debatt i kammaren 1993-12-08 Protokollshummer 1993/94:39 Riksdagens beslut: Bifall till utskottets hemställan 1993-12-08 Protokollsnummer 1993/94:39 Riksdagsskrivelse 1993/94:58 Nr SoU1l1</p>
-          <p>Utvidgad lagreglering på barnomsorgsområdet, m.m. (prop. 1993/94:11) Utskottets justering 1993-12-07 Förslag till beslut: Delvis bifall till prop. och mot. So14 yrk. 2 delvis och yrk. 3, bifall till mot. So14 yrk. 1, avslag på övr. mot. Debatt i kammaren 1993-12-17 Protokollsnummer 1993/94:47 Riksdagens beslut: Bifall till res. 2 (mom. 2), res. 6 (mom. 13), samt yrkande under överläggningen (mom. 7). I övrigt</p>
-          <p>bifall till utskottets hemställan 1993-12-17 Protokollshummer 1993/94:47 Riksdagsskrivelse 1993/94:117 Nr SoU12</p>
-          <p>Medelstillskott till Sveriges Hundcenter AB — Statens Hundskola (prop. 1993/94:36)</p>
-          <p>Utskottets justering 1993-11-30 Förslag till beslut: Bifall till prop., avslag på mot. Riksdagens beslut: Bifall till utskottets hemställan 1993-12-08 Protokollsnhummer 1993/94:39 Riksdagsskrivelse 1993/94:60 Nr SoU13</p>
-          <p>Vissa frågor om beräkning av assistansersättning (prop. 1993/94:58)</p>
-          <p>Utskottets justering 1993-11-16 Förslag till beslut: Bifall till prop. Riksdagens beslut: Bifall till utskottets hemställan 1993-12-08 Protokollsnhummer 1993/94:39 Riksdagsskrivelse 1993/94:61</p>
-          <p>1" Riksdagen 1993/94. 12 saml. Register</p>
-          <p>1993/94:SoU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199394/reg_199394_SoU/reg_199394_SoU-005.pdf"/>
-          <p>Nr SoU14 1993/94:SoU Reg. Arvoden till privatpraktiserande läkare och sjukgymnaster samt vissa ersättningar till sjukvårdshuvudmännen m.m. (prop. 1993/94:75) Utskottets justering 1993-12-09 Förslag till beslut: Delvis bifall till prop. och mot. 1992/93:Sf201, 1993/94:S021, S022 yrk. 2 delvis, S0o23, So24 yrk. 1 och 4, S027 yrk. 1, S029, avslag på övr. mot.</p>
-          <p>Debatt i kammaren 1993-12-17 Protokollsnhummer 1993/94:47 Riksdagens beslut: Bifall till utskottets hemställan 1993-12-17 Protokollsnhummer 1993/94:47 Riksdagsskrivelse 1993/94:118 Nr SoU15 Vissa ändringar i läkemedelslagen (prop. 1993/94:92) Utskottets justering 1994-02-08 Förslag till beslut: Bifall till prop., avslag på mot. Riksdagens beslut: Bifall till utskottets hemställan 1994-03-02 Protokollsnhummer 1993/94:68 Riksdagsskrivelse 1993/94:138 Nr SoU16</p>
-          <p>Ansökningsförfarandet enligt lagen (1988:870) om vård av missbrukare i vissa fall (prop. 1993/94:97)</p>
-          <p>Utskottets justering 1994-02-08 Förslag till beslut: Bifall till prop., avslag på mot. Debatt i kammaren 1994-03-02 Protokollsnhummer 1993/94:68 Riksdagens beslut: Bifall till utskottets hemställan 1994-03-16 Protokollshummer 1993/94:73 Riksdagsskrivelse 1993/94:150 Nr SoU17 Vissa ändringar i tobakslagen (1993:581) (prop. 1993/94:98) Utskottets justering 1993-02-15</p>
-          <p>Förslag till beslut: Bifall till prop., delvis bifall till mot. S034 delvis, So35, S0o36, S038, S0491, avslag på övriga mot.</p>
-          <p>Debatt i kammaren 1994-03-02 Protokollsnhummer 1993/94:68 Riksdagens beslut: Bifall till utskottets hemställan 1994-03-16 Protokollsnummer 1993/94:73 Riksdagsskrivelse 1993/94:149 Nr SoU18 Sekretess m.m. hos Barnombudsmannen (prop. 1993/94:107) Utskottets justering 1994-02-08 Förslag till beslut: Bifall till prop. Riksdagens beslut: Bifall till utskottets hemställan 1994-03-02 Protokollsnummer 1993/94:68 Riksdagsskrivelse 1993/94:139</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199394/reg_199394_SoU/reg_199394_SoU-006.pdf"/>
-          <p>Nr SoU19</p>
-          <p>Kommunernas betalningsansvar för viss hälso- och sjukvård</p>
-          <p>m.m. (prop. 1993/94:121) Utskottets justering Förslag till beslut: Bifall till prop., avslag på mot. Riksdagens beslut: Bifall till utskottets hemställan Protokollshummer Riksdagsskrivelse</p>
-          <p>Nr SoU20 Socialpolitik — inriktning och anslag (prop. 1993/94:100 bil. 6) Utskottets justering Förslag till beslut: Delvis bifall till prop. och mot. S0205, S0421 yrk. 2, S0427, S0430 yrk. 3, 8 och 10 delvis, S0443 yrk. 1 och 3, S0454, S0462 yrk. 1 och 3, S0473 yrk. 3, S0476 yrk. 1, S0487 yrk. 2, avslag på övr. mot. Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till res. 13 (mom. 37), i övrigt bifall till utskottets hemställan Protokollshummer Riksdagsskrivelse</p>
-          <p>Nr SoU21 Amalgam m.m. Utskottets justering Förslag till beslut: Delvis bifall till mot. S0478 yrk. 5, S0486 yrk. 7, S0493 yrk. 10, S0502 yrk. 3, avslag på övr. mot. Debatt i kammaren Protokollsnhummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnhummer Riksdagsskrivelse</p>
-          <p>Nr SoU22</p>
-          <p>1994-02-15</p>
-          <p>1994-03-02 1993/94:68 1993/94:140</p>
-          <p>1994-03-24</p>
-          <p>1994-04-20 1993/94:92</p>
-          <p>1994-04-20 1993/94:92 1993/94:248</p>
-          <p>1994-04-21</p>
-          <p>1994-05-18 1993/94:106 1994-05-18 1993/94:106 1993/94:314</p>
-          <p>Riktlinjer för ett nytt tillståndssystem för import, export,</p>
-          <p>tillverkning och partihandel med alkoholdrycker, m.m. (prop. 1993/94:136) Utskottets justering Förslag till beslut: Bifall till prop., avslag på mot. Debatt i kammaren Protokollsnhummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnhummer Riksdagsskrivelse</p>
-          <p>1994-03-22</p>
-          <p>1994-04-20 1993/94:92 1994-04-20 1993/94:92 1993/94:249</p>
-          <p>1993/94:SoU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199394/reg_199394_SoU/reg_199394_SoU-007.pdf"/>
-          <p>Nr SoU23 Lag om Allmänna arvsfonden (prop. 1993/94:124)</p>
-          <p>Utskottets justering 1994-03-15 Förslag till beslut: Bifall till prop. Riksdagens beslut: Bifall till utskottets hemställan 1994-04-20 Protokollshummer 1993/94:92 Riksdagsskrivelse 1993/94:250 Nr SoU24</p>
-          <p>Legitimation för vissa naprapater och kiropraktorer m.m. (prop. 1993/94:145)</p>
-          <p>Utskottets justering 1994-05-19 Förslag till beslut: Delvis bifall till prop., avslag på mot. Debatt i kammaren 1994-06-03 Protokollsnhummer 1993/94:117 Riksdagens beslut: Bifall till utskottets hemställan 1994-06-03 Protokollsnhummer 1993/94:117 Riksdagsskrivelse 1993/94:409 Nr SoU2S Vårdnadsbidrag (prop. 1993/94:148) Utskottets justering 1994-05-03</p>
-          <p>Förslag till beslut: Avslag på prop., bifall till mot. S046 yrk. 1, $S047, S049, So51, So53, S0o605 yrk. 1, S0607 yrk. 5 och So610 yrk. 1, avslag på övriga mot.</p>
-          <p>Debatt i kammaren 1994-05-18 Protokollsnummer 1993/94:106 Riksdagens beslut: Återremiss 1994-05-18 Protokollsnummer 1993/94:106 Nr SoU26</p>
-          <p>Åligganden för personal inom hälso- och sjukvården m.m. (prop. 1993/94:149) (förs. 1993/94:7) Utskottets justering 1994-05-19 Förslag till beslut: Delvis bifall till prop., förs. och mot. So54 yrk. 3, 4, 5, 7 och 8, mot. So56 yrk. 2, mot. So59 yrk. 1, 2 och 4.</p>
-          <p>Debatt i kammaren 1994-06-03 Protokollsnhummer 1993/94:117 Riksdagens beslut: Bifall till utskottets hemställan 1994-06-03 Protokollsnummer 1993/94:117 Riksdagsskrivelse 1993/94:410 och 1993/94:411</p>
-          <p>1993/94:SoU Reg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199394/reg_199394_SoU/reg_199394_SoU-008.pdf"/>
-          <p>Nr SoU27 Handikappombudsman (prop. 1993/94:219) Utskottets justering Förslag till beslut: Bifall till prop., delvis bifall till mot. So57 yrk. 1 och 4 och So58 yrk. 1 och 3, avslag på övr. yrk. Debatt i kammaren Protokollsnhummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer Riksdagsskrivelse</p>
-          <p>Nr SoU28 Psykiskt stördas villkor (prop. 1993/94:218) Utskottets justering Förslag till beslut: Delvis bifall till prop. och mot. So61 yrk. 2, 4 och 8, So062 yrk. 2, 3, 5—8 och 10, S063 och S0479 yrk. 7, avslag på övr. mot. Debatt i kammaren Protokollsnhummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnhummer Riksdagsskrivelse</p>
-          <p>Nr SoU29 Barnomsorg m.m. Utskottets justering Förslag till beslut: Avslag på mot. Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer</p>
-          <p>Nr SoU30 Barn och ungdom Utskottets justering</p>
-          <p>Förslag till beslut: Delvis bifall till mot. S0230 och S0o273 yrk.</p>
-          <p>2—5 och 8—10, avslag på övr. mot. Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnhummer Riksdagsskrivelse</p>
-          <p>Nr SoU31 Vissa socialtjänstfrågor Utskottets justering Förslag till beslut: Avslag på mot. Debatt i kammaren Protokollsnhummer Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer</p>
-          <p>1993/94:SoU Reg.</p>
-          <p>1994-05-24</p>
-          <p>1994-06-02 1993/94:116 1994-06-02 1993/94:116 1993/94:397</p>
-          <p>1994-05-19</p>
-          <p>1994-06-02 1993/94:116 1994-06-02 1993/94:116 1993/94:396</p>
-          <p>1994-04-26</p>
-          <p>1994-05-18 1993/94:106 1994-05-18 1993/94:106</p>
-          <p>1994-03-24</p>
-          <p>1994-04-20 1993/94:92 1994-04-21 1993/94:93 1993/94:251</p>
-          <p>1994-05-03</p>
-          <p>1994-05-18 1993/94:106 1994-05-18 1993/94:106</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199394/reg_199394_SoU/reg_199394_SoU-009.pdf"/>
-          <p>Nr SoU32 1993/94:SoU Reg. Uppskov med behandlingen av vissa ärenden till riksmötet 1994/95 (62 ärenden)</p>
-          <p>Utskottets justering 1994-05-19 Förslag till beslut: uppskov Riksdagens beslut: Bifall till utskottets hemställan 1994-06-03 Protokollsnhummer 1993/94:117 Nr SoU33</p>
-          <p>Vissa frågor rörande bestämmelserna om arvoden till privat- praktiserande läkare och sjukgymnaster m.m. (del av prop. 1993/94:220)</p>
-          <p>Utskottets justering 1994-05-19 Förslag till beslut: Bifall till prop., avslag på mot. Debatt i kammaren 1994-06-03 Protokollsnummer 1993/94:117 Riksdagens beslut: Bifall till utskottets hemställan 1994-06-03 Protokollsnhummer 1993/94:117 Riksdagsskrivelse 1993/94:412 Nr SoU34 Vårdnadsbidrag (förnyad behandling) (prop. 1993/94:148) Utskottets justering 1994-05-19 Förslag till beslut: Bifall till prop., avslag på mot. Debatt i kammaren 1994-05-20 Protokollsnummer 1993/94:108 Riksdagens beslut: Bifall till utskottets hemställan 1994-05-20 Protokollsnhummer 1993/94:108 Riksdagsskrivelse 1993/94:343 Nr SoU35 Ändring i sekretesslagen (1980:100) (prop. 1993/94:219) Utskottets justering 1994-06-07</p>
-          <p>Förslag till beslut: Ändring av del av RD:s beslut med anledning av SoU27</p>
-          <p>Riksdagens beslut: Bifall till utskottets hemställan 1994-06-09 Protokollsnhummer 1993/94:121 Riksdagsskrivelse 1993/94:451</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199394/reg_199394_SoU/reg_199394_SoU-010.pdf"/>
-          <p>Yttranden 1993/94:SoU Reg.</p>
-          <p>Nr SoU1ly till KU Konsekvensanalyser i regeringens propositioner</p>
-          <p>Utskottets justering 1994-02-08 RD = 1993/94:KU30 1994-05-25 Riksdagsskrivelse 1993/94:344</p>
-          <p>Nr SoU2y till JoU Avveckling av amalgam (prop. 1993/94:163)</p>
-          <p>Utskottets justering 1994-04-12 RD = 1993/94:JoU23 1994-04-27 Riksdagsskrivelse 1993/94:273</p>
-          <p>Nr SoU3y till AU Jämställdhetsfrågor (prop. 1993/94:147)</p>
-          <p>Utskottets justering 1994-04-12 RD = 1993/94:AU17 1994-05-04 Riksdagsskrivelse 1993/94:290</p>
-          <p>Nr SoU4y till SfU Lokal försöksverksamhet med finansiell samordning mellan socialförsäkring, hälso- och sjukvård och socialtjänst (prop. 1993/94:205)</p>
-          <p>Utskottets justering 1994-05-03 RD = 1993/94:SfU19 1994-06-01 Riksdagsskrivelse 1993/94:369</p>
-          <p>Nr SoUSy till UU Andringar av avtalet om Europeiska ekonomiska samarbetsområdet (EES-avtalet) m.m. (prop. 1993/94:203)</p>
-          <p>Utskottets justering 1994-05-03 RD = 1993/94:UU23 1994-06-01 Riksdagsskrivelse 1993/94:367</p>
-          <p>Nr SoU6y till FiU Kompletteringspropositionen (prop. 1993/94:150)</p>
-          <p>Utskottets justering 1994-05-19 RD = 1993/94:FiU20 1994-06-10 Riksdagsskrivelse 1993/94:454</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199394/reg_199394_SoU/reg_199394_SoU-011.pdf"/>
-          <p>Sakregister</p>
-          <p>Abortförebyggande insatser .......s..ssssosssssensronsennsrnnnnnnrnnnnnnnn nn Adoptivbarn särskilt bidrag för vissa adoptivbarn, anslag till............ Adoptivbarnens situation m.m Adoptivföräldrar ................s.s---------- Adoptivföräldrars rätt till vårdnadsbidrag..........................- Aggressivitetsdämpande mediCinering..............ssssssssssssssnnnnn Akutsjukvården ssssssssossoseosrosensrosrssrsrrernsrsrnrrsrnrrerererernrnernrnrnnn Alkoholdrycker riktlinjer för ett nytt tillståndssystem för import, export, tillverkning och partihandel med alkoholdrycker, M.M. smsmesssssssrrerererrnrersrnrnrnnrnrersnnerernn nn nn Alkoholpolitik s...ssnssssrsssenssesesenennnrnennnenennnnnnrnren ennen ennen enn nn nn nn nn Alkoholreklanm.....sssssssssrsasesenrenenosnerenrersernrernenrerrernnsrnrrnsnnnn nn nn Allergiförebyggande åtgärder...................sssssssssosesssenenennnnnnnnn Allmänna arvsfonden</p>
-          <p>Anmälan till HSAN Anmälningsskyldighet enligt 71 $ socialtjänstlagen ........... Ansökningsförfarande s........sssssesessssesessessessenensnsnsensnnrnnnnnn annan Antroposofiska medel .smmmsssssssssesesrrnenrennennenrernernnnennrnnrnr enn rn nn Apotekarsocietetens stiftelse ..................s.ssssnosoonnanennenennannnnnnn Apoteksbolagets MONOpPOL....sssssssssssesenenennenennenennenrnnennnnsnnnnenn Arbete under arbetsledning ................sssssssserssrsesserssensennnnnnn nn Arbetsterapeuter .m.smmmsssseserseoresoesrenensennnrnnanrnnnrrnnnnnnnnrrnnn nn nn rann Arvoden till privatpraktiserande läkare och sjukgymnaster sumssssssssesesrnrerserenenenenenenenen renare renen en enn nn ennen nn ann Asocialitetslagstiftning..............e.s.ssssssensosnnnsrnnsnrnnnnrrnnnrernnnsnnnr ASSiStanSsersättNilg.....sssessssssssnensnsnensnnenenenesrsnerennrenennenenrnnennn nn Avdrag för barnomsorgskostnader s........sssssserseesseserssssnenrnrnr Avgifter för DarnOmSOrg s....sssssesresesenrerenenrsrenenrennsnennennnnnnnnnnn AVI DA oosooseesseeerrrrrserrerrnererrarersennnrerenenrrr er ernn en nr ren ren nen nns nen narr rann</p>
-          <p>B Barn i riskZON€D smossessesseseesenrsenerrrrnrarsennernrnnrnnennr rna nn nn renen rna nn nn Barn och UNgdOM....s.ossesessesersrrsenrerrenrenrrnrnrrnnnrnnnrrrnn nn nen nr rn nn Barn- och ungdomstandvård ..............sssssssrssssrsseresrsesssnsnnnnnnn Barn som far illä......ssssssssssssesesenenenensnesenennenennnnnn nn en nrn renen ann nn nn Barnbidrag allmänna barnbidrag, anslag till s.s...sm.0+.sss.sesssssserrrnnan nn se även SoU29, SoU6y</p>
-          <p>1993/94:SoU Reg.</p>
-          <p>10</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199394/reg_199394_SoU/reg_199394_SoU-012.pdf"/>
-          <p>Barnfamiljernas ekONOMi ......sesssssssrsrsnnnrnenesernnnnnnnnnnnnnnn nonan 25,34 1993/94:SoU Reg.</p>
-          <p>BarnkonventiOn€i.........sssesssesssessesssrrrssrnnssrerrrsnrnernnnnensnnn nn nan nn 20 Barnkunskap, utbildning i smommsmmsssessseessersensrenrererennenenrn rann nn 30 Barnmorskors förskrivningsrätt .................ssssssssssssssssesrsrrnnn 7 Barnombudsman Barnombudsmannen, anslag till....s.nocn.0ssossososorsrsrsnnnsnnn 20 sekretess m.m. hos Barnombudsmannen .................-.-.- 18 Barnomsorg barnOmSOrg Mu oosossessessssrseesessnresrersnrnnrsrrnrerennrnsn enn rn en nn 29 utvidgad lagreglering på barnomsorgsområdet, m.m... 11 BarnOmsOrgSpPlån ....s.ssssessesessrsserrenrerrrsnrrrerrnernerrerrererenrsren enn nn nn 11, 29 BarnprostitutiOn .........o.ossseosesesesresereesrrsrenerrenrernenenerernenerrnanen ann 1 BarnVvårdar€.....ssssssssessesseroerersrerensernensrnnsrserenrnsnssnse renen nerna o nn nn 11, 29 Behovsprövade barnbidrag ......s.ssssessessesensernrsennnnnnnrnenrnnnnn nn nn 20 BehörighetsfrågOr .............s.sseseosssorssesesesrsnsrnenernrrsrorernrnnrrnnnrrnen 4 Beroendeframkallande läkemedel s.snsnsnssssnrnsnsnsnnnnnnnnnnnnnnnn 20 Bidragsförskott bidragförskott, anslag till s...ssssss.ss.ssssssssssssesrnennnnrsnnnnn annan 20 se även SoU29 BidragSnOrmMelr s..ssmsssesessensereerrserrrnrererrsnnrrrrnrerrnenrer renen enn nen rn nn nan 8, 31 BiverkningsregiSter .........s.sssosssenonsaseannennansnnennenansnnnnnnnsnsn erna ann 21 Boendet för utvecklingsstörda och psykiskt funktionshindrade s....s.ss.sssessrsessersesrrsrsrrrrsrrsrarsennenennrnenrnnnn nn ann 27 BostadsSlÖSå s.usssnseseereresrrnernnernrnnrnrennarsnnnrnrrrrrnnnnrsnnnnenennnnen enn n anar nn 8, 31 Brottsförebyggande insatser s....sssoossossensensonenrenennnrnnnenennnnnrnnnn 1 Bryggeriernas rätt till partihandel...............ss.sssssss0s0ss000n000n nn 22 C Cancer, elektrokemisk behandling ............sssssessrsrssssrrersrnnn 7 D Dagh€M oooseeseseerrsrerererreerererrrerrerrerrerrrerrrsrrrerrrrnennrsrrrer enn nen nn nn nn 20 Daghemsavgifter .mm.sssssesssssrsesesrrrrrennerrsrenrrnnnenenrnrrnnnnnnnn enn nanna 11 Disciplinpåföljd på hälso- och sjukvårdens område .......... 26 DistriktsskÖterskOr .........se.sssosesnesoesorssorerrrrnensrsnnnnnrerenenenrrnrn nn nn 20 DOPNING oo ooeeesesesrerenrsresrerrenrerrerrerrerrernerrrrrrnreerrernrrnenrreren ene r en rann nn 20 Droger och tobak... ....ssmsssesssesssrenrersrreressrnrrrnrnnsnnrnsenrsennenrannnn nn nn 20 DrOgmisSsbrUuk sssnsssssssseseaseasnesrenrrnerseresrrenrrsrnannrnnennn renen en nnn nn ana 8 E EES-avtalet ....ssnnsnnsssssnenennnresnarenernenenrannennennernenernenenenenrnnnnnnn nana Sy Epidemiologiskt CentrUmM s..ssmsesessossesssrssensnesnennensnnenenrnnnnrnnnn 20 EPpilepPSlsssssssssssesenesseseeserrsennrnnarsenrenrennrarrerrrennrrnnen renen ennen enn nen nn 7 Etiska frågOr o....ssssoosososnennnennnronnnnnnnnrnnnnenensrnnnnnnnensrnnnnsnnn nn rna nn 2 F FamiljehemsSvård smsmnnmmsssesresesrenerenrerrrnrrnnernnernnerernennnrnnnsnenen eran an 31 FamiljepOlitik o...s.nsossssesroenrnennsenenenennererrrnenrnnsnenennnnnnnnn rn enn nn ann 11, 25, 34 11</p>
-          <p>FamiljerådgiVNinlg....essosessssesesesrenensarrenrerrerneererrersrnrersrnrnnnnn nns 10, 31</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199394/reg_199394_SoU/reg_199394_SoU-013.pdf"/>
-          <p>Familjestabilitet ................sessosoosneneononennnnnnnnnnnnnnnnnen 29 1993/94:SoU Reg.</p>
-          <p>Filmvåld oosnnsssoreseesrsrrenresrennrnrnnennnrnnrnnrnrennenn enes nnnn nana 30 FlerbarnsfödSel.........ssssssssseserssnnnannennernnssesnnnnennennnnnn nr 31 Flyttning av barn 30 Flyttningsförbud 1 FN:s barnkonventiOn s..ssmmmssssseseenrenrrnrennesrenrsnesnrernernnrnnnrn nn nnn 1 Folkhälsoarbetets inriktning ........s.sssssssssesesrsennennenennnnnannnnnnen 20 Folkhälsoinstitutet Folkhälsoinstitutet, anslag till..........s.sssssssssssessensennennnnnnn 20 FosterdiagnOStik..........o.ssssssssrsrerenennenennenenreneneonenennernenennennrnenen 2 Frivilligcentraler i KOmmuUnEerINA m.smmsssssesrseserenernenrennennnnnnn 8 Funktionshindrade personers resemöjligheter ................... 27 Fusk med bidragsförskott 20 Företagshälsovård 14, 33 310) 00) EV 11 Förskrivningsrätt, begränsning aV.......oseeesesesnsn0n 26 Försäkringskassans uppgifter s.......sesseseeserersesnerenesnnnnnrnnnnnnnen 14 Förtroendenämndsverksamhet.......ssssssssnesnenennennenennennenennnnnn 26 FÖräldraanSVår ssssmsssssseesresrerrrrrrnanrsrnsrrernrerrnesnrennn ere aren rr nn nn nn 1 Föräldraförsäkringen.........e.ssssssssssssenrenennanenrsernnenennennrnnnannn nn 25, 34 FöräldrautbildnNinNg . ....msssseseesseseeseesnasrenneneenerrrennnnrenn nn nnn nn nn 1,29 G Garantidagar sosmmsnsesressersesresernnenrannrnrrrnsnnesnsn renen nn n nn ann n rn nn n enn 25, 34 [€£:T411 07:76 6 VR 1 Genteknik omsssnssssseseesresreserrsenresnenrennenrernnesrsrnsnernrrnnnrnnr nen nrn rann 7 GlutenintOleranfS.......sssssssessennrnrennennennanresnernsnnennennnrr nen er nn rn nn nn 27 GruppbOstäder s....snmnssenenssnsesnerenensnenenenennnnnenenennnnenenen ennen nn nn ennen 20, 28 H Handikappade bidrag till handikapporganisationer, anslag till............ 20 bidrag till viss verksamhet för personer med funktionshinder, anslag till .........s..s.ssssss00s0 000 20 bilstöd till handikappade, anslag till 20 ersättning för texttelefoner, anslag till.................---------- 20 EU-kontor i BrySS€l...smmmmsssssesesennenennenenesrenesneenenrernrnnrnennnn 20 handikappombudSsman s.nenesresrseseerrrrreresnresnnrnnrrnrrnnnnnnn nn 27 kostnader för statlig assistansersättning, anslag till....... 20 statsbidrag till vårdartjänst m.m., anslag till ................. 20 Sveriges Hundcenter AB — Statens Hundskola, anslag till..ssnnssssssssssesrsnesensnennennernnsnnrnnnnnsn renen nn nrn ner nn enn nn nn 20 vissa frågor om beräkning av assistansersättning.......... 13 vissa statsbidrag inom handikappområdet, anslag till.. 20 HandikappombudSsman .nnseseeseersesresrresesnennesnnnnnnnnennnernnnnnn nan 27 Handikappombudsmannens råd ...snnnsnsensssrosrerersennnrnnnnnnn nn 27 Handikappomsorgen, avgifterna iNnOM s...smeesseseesessennnnnnnent 27 Hembränninlg....smsssesreresesenennenennanenenrrnennenennenener renen renen nn ennen nn 22 12</p>
-          <p>HemspråksunderVisnifg s...msmmsssssesssrersrorsesesenenenererenenenrnrnnen 29</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199394/reg_199394_SoU/reg_199394_SoU-014.pdf"/>
-          <p>HemtjänStenD smsmmnsssessrsrssesrserreneseserernsrerensrnenensnnenernrnernrnen ennen nn 20 1993/94:SoU Reg.</p>
-          <p>Hjälpmedel för funktionshindrade personer .....................- 27 HOMEOPatika..sossossessesseersessnarsnerrrrrennnrrnenenrrrenerrsnenener enn nrnen renen 15 Homosexualitet ...ssmnnsssssorssnensnesresrenresnrsrenerrenenennenenen enn nn rna nen nn 8 HSU 2000 onnnnssseseanarnennenennennan nan oeseersrsen ense ensrnsrnnnennrnnnnnn nn enn 20 12 14, 20 Hälso- och sjukvård arvoden till privatpraktiserande läkare och sjukgymnaster samt vissa ersättningar till sjukvårdshuvudmännen Mum .ommsesesssesersssrsreersnenenrnnsnnn 14 bidrag till husläkarsystem, anslag till ........ossm.s.s.s--2- sr 20 bidrag till hälso- och sjukvård, anslag till..................... 20 funktionen hälso- och sjukvård m.m. i krig, anslag 20 insatser mot aids, anslag till................. 20 kommunernas betalningsansvar för viss s hälso- och SJUKVåÅLA ooosessrsrerenesrererereneererererererrenererrnnsenersrnenrrnrnnnnen ennen nn nnn 19 ledningsansvaret och vissa behörighetsfrågor ............... 4 legitimation för vissa naprapater och kiropraktorer 1 $.685 € 6 24 Statens beredning för utvärdering av medicinsk metodik, anslag till..ssssssssssssessesssresrsesersnesrnsnrnrnnrnnnnn nn annan 20 vissa frågor rörande bestämmelserna om arvoden till privatpraktiserande läkare och sjukgymnaster m.m.... 33 vissa hälso- och sjukvårdsfrågOr .................sssssssssssssssrrnr 7 åligganden för personal inom hälso- och sjukvården 74005 4 4 VR 26 ändring i lagen (1972:119) om fastställande av könstillhörighet i vissa fall ssmmsmmsssssesssrsrerenesrsrrrernennnnen nr 5 Hälso- och sjukvårdens ansvarsnämnd, HSAN anmälan till.ssnsssssssssesssssrsssesrerrrsnrsnrrreresnenersnrnrn erna rn nnn nanna 26 handläggningstider hos HSAN sm sssssnsesesssseresensenernnnennnnnnn 26 Hälso- och sjukvårdens ansvarsnämnd, anslag till ....... 20 I Ideellt socialt arbet€ ...smnsmmsssssessessesrssnasrrnerennrrennrnenen nn nn nerna ana 31 Information och förebyggande insatser inom alkOholistvården s....ss.ssssesserernersrrerernererersnrsrnrrnrrnensrnnernnnenn nn nn an 22 Information till allmänheten om förtroendenämndsverksamheten ........mnsmssssesessnnenenrnnnnnnnennnnnn 26 InkÖpSregiStrefilg.....meesssseseeneeneserreneernenrererersrsnsnsnsrnnenenenennn rn nn 22 Intagna i kriminalvården ...smssssssoseseenesenrsrsenenenernerererennnnnnnnn 28 Interimistisk delegitimering ..ommsmmmsssssssesennenennenenenennennnnenn rn nan 26</p>
-          <p>Internationella adoptioner bidrag till kostnader för internationella adoptioner, anslag till.snnssssssssesssessesansrnnrrsnnrrnnnnennenn ennen ennen ann nn nn nn nn nan 20 Invandrarspråk, kunskaper i 7 13</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199394/reg_199394_SoU/reg_199394_SoU-015.pdf"/>
-          <p>J</p>
-          <p>Jourhavande kuratOr..........ssossssssesrrrrsrsrerrrsrrrrerrrrrrrrrrnnnrnnn rr nn JämställdhetsfrågOr ..........osooesseseeseenenrennannnrenennenenenennnrnen snar nn ann</p>
-          <p>K Kamratstöd och anhörigSstÖd...........eessessssssssssessssesesensnrnrnnnrnnn KastreringSslageD......ssssossessnsnensessnersrennesrnnernennennerernennsnrnenenn rn nnn KiropraktOrer.....ssssssssesneenesnnensresrenrnesnanrnnernernsnnersnerrnnsnrnennnnnn rna Kommunernas kostnadsansvar för OMSOIg ...........esssssrennr Kompletterande utbildning .........sssssssrossossesresenrsnnnernnsnsnnnnnnnn Kompletteringspropositionen Konsekvensanalyser.......ssosssesssnssnenensnnnnnnnnnnnnn Konstruktionen av taxebestämmelserna Kvacksalverilagen ssssmssssssesseonernesreneerenrnerrenenenrrnenrnnerernnnenennn nn Kvicksilver i produkter s......ssssssossosressrnsnennsnnennsnnsrsnnnnnrnnnnnnnnn Kvicksilver i VaCCiNeI....smmmsssssoesennennennaneerenesrerenrrnenerenenennnnnn nn Kvicksilver som konserveringsmedel i läkemedel.............. Kvinnlig kÖnsstympnNinNg......sssssssessesessrssenennenenesrenenenenenenenennnn Kvinnliga missbrukare osm sssssssensresererrenrennsnnererrrnnnnenennrnrn nns Kvinnor med funktionshinder s....sssssessssesesrrsrsrsrenersrenrnsnsnrnn Kvinnors hälsa smssnsmasseeoesesreneenresenrenesneennerennnrenennsrsnsrerenrrn nen nn Könstillhörighet i vissa fall, fastställande av s...mmmmmsssososn0nene</p>
-          <p>L</p>
-          <p>Lagen om stöd och service till vissa funktionshindrade</p>
-          <p>Legitimation för naprapater .mmmmmssssseseessssessnenrernsnnrnennnnnnnnnn Legitimation för tandläkare Legitimation för vissa kiropraktorer LegitimationsfrågOr .................-.-.-------- Lewi Pethrus stiftelse LiVvSteStament€.....ss.sssssssornsenennerresnenennennennenennenennnnenennnrnnnnnnnnnnnn</p>
-          <p>Läkar- och tandläkarutbildning ............sssserseesrsessesesrsrnsnnnnnn Läkarvårdsersättning LäkarvårdStäXa s...ssnsssossesesesenrernerrnnerernnrnnsnsnersrenrnrne nera nnenn nn nn en Läkemedel, beroendeframkallande .........sssossserseerersennannnnn nan Läkemedel, överutskrivning åaV s..smmmsssssesessesreenrerarerrnnrnnnnnn nn LäkemedelsepidemiOlOgi.........ssesssssssssessenesesnrnrsornrnrnennnnnnnnn nns LäkemedelSfrågOr............sessoeoeoeoeneneornnnnrnnenrnnnnnnrnrnnnnnrnrrnnnnnnnn Läkemedelsförpackningar ........sssssesesseeesnesnnnnenrnnnnnnrnnnennrnnn nat LäkemedelSlagen....ssssesesseeneensensoresennrennnrrrennennennnsnrnr sne renen nn nan Läkemedelsverket Läkemedelsverket, anslag till smmosmmsmsssssseresennnennsnnsnn annan Lämplighetsprövning för patientrelaterade yrken..............</p>
-          <p>8 3y</p>
-          <p>20 26</p>
-          <p>1993/94:SoU Reg.</p>
-          <p>14</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199394/reg_199394_SoU/reg_199394_SoU-016.pdf"/>
-          <p>M Marknadsföring av tobaksprodukter.................-sssssssss2=&gt;s2&gt;0&gt; Medicinalpersonal med utländsk examen ..........s.sssssonennnnnnn Medicinalstyrelse s.ssmmssssssenesnenenenenrnnennnernesrernennnanennnnnnnnnnennnnn nan Medicinsk-etisk utveckling, behovet av lagstiftning ........... Medicinteknisk utrustning, tillsyn ÖVEr s.....ss.sssssssssesrensrnnn IN CAR: Te [0 a RA Metadonbehandling........sesssessesseessrrsrrrsrrsrsrsnrerrrrerrernrnrrernnnen nn ING FEST 67 Missbruk av dopningsmedel.........ssssssssssssssesssasenenennnnnnnnnnnnn nn Missbrukare med svåra psykiska störningar MissbrukarVård ........sssososoooseseosenesenerenenerersrrsrenenersrnrrnnnnnnrnnnrnnn</p>
-          <p>N Naprapaterusssssssssseresssessrersnresnnesnenrrnnnnnnnrrnnennnrrnnnnennrrnnsnn rn nn nen nn Narkotika, klassificering av s..mmmmmnsssssnasseseenennennernenenennnnnnnnnnnnn NarkotikafrågOr ........s.ssssssesesrosesensrsrennnnennnsnnennnnnenrnnrnrnnnnn nan nnnn Nationell hivpOliCY........ssssssssesessesenseansnessennnrnnnennenennernnnennnnnn nn Naturläkemedel omsnmnnsssesssssnesrnrnnersenennanranrenennennrnnenenenennnnn nn nn an Nordisk samverkan i sociala frågor Närstående..........sssosossseoosesesnonennnnnrsnnnnnnna</p>
-          <p>O Obligatoriskt kommunalt betalningsansvar för psykiskt FÅ £07 €6 EV</p>
-          <p>P</p>
-          <p>| sd STEN CE Palliativ Vård oossssssssssesensenersrsrrnrrenrnenenenenenenenenenernnrnrnnnn rna rna nn Pappor på BB efter förlossning ..............sssssssssesssosssrsrrornrnnnn Patientjournaler .ssmmsssesseessrerrsresrerrerrrrrrrnrerrnnrrnnnenrennnnn nr n en nana Patientombudsman Personligt OMDbUd suosssresreeserrerrerrrrrrrsernnrrnrenrrrnrnnrrerensrrenn rn eran nn Plötslig spädbarnSdÖd s...ssssssesssssssreresrenrenrsnenrernenerrnrnnrnnnenen nan PreskriptiOD s.sssossssssssesesreereernerresrerrerrrrrrnrrrsrernnnrrneren sen nnn ennen nn nn PrestationsersättNiNg.............ssssssssssrorasesorsenrensennansrnnenennnnn annan Preventivmedel omsssssssesssrenrenresesrenrrnnerrrnsnrsrnrrrnernrrrnnen ennen nr nn nn PrimärvårdsSfrågOr ...........ssssseossssrssesenenerosenenenennnernrrnnnnnnnnnnn nn Privat barnomsorg, utvärdering av snmmmmsssssssessssnrnenennnnnnn rna Privata Vårdgivare o...smsssssesessreersrsenennenenerrerarrnnererrrnenennnn nn nn nan Privata vårdgivares anslutning till försäkringen ................. Privatläkares röntgen- och laboratorieundersökningar ..... Privatpraktiserande läkare Produktregister .......n.n..sss0ssnnnnnnn Prostataundersökning...... Prostitution ................-..--- Psykiatri.........sssooosononnnn annan Psykiatrisk tvångsvård s....snssssssssseseenennanenesennanenennnennnnnnnnnnnnn nn</p>
-          <p>28</p>
-          <p>1993/94:SoU Reg.</p>
-          <p>15</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199394/reg_199394_SoU/reg_199394_SoU-017.pdf"/>
-          <p>Socialpolitik inriktning OCh anSläg m...ssssssssssesseosesesneneenenrsnnrnnnnnnnsn nn nan Socialstyrelsen Socialstyrelsen, anslag till... smossssssssssssseosessnrnsnnsnannsnnnnnn nana Socialtjänst ansökningsförfarandet enligt lagen (1988:870) om vård av missbrukare i vissa fall ossmommnmmsssssorssosoonnsrsnnnsnnnn bidrag till Centralförbundet för alkohol- och narkotikaupplysning, CAN, anslag till........................-- bidrag till missbrukarvård, anslag till................s..s.sssos0- bidrag till organisationer, anslag till...............ssssssessssn sn SOCIaltjäNStossoossoessereserrrnresrernenrerrrnrnrnrnnenrnnenernernen nr nns renen nn nn vissa soCialtjänstfrågOr ....................--.s..--.- Socialtjänstens barnkompetens Socialtjänstens personal, skydd fÖr s.....sssssssssesssrrsrrsrsrsrnnnnn Socialtjänstlaägen .usssmmssssesseserseesenresrersrrnrenerenner nen nere nen renen nnn nan Socialutredningar på entreprenad .............es.seseseessssssesnnrnnns</p>
-          <p>Socialvetenskapliga forskningsrådet Socialvetenskapliga forskningsrådet: Forskningsmedel, anslag till......ssnsnsssssssssssesnnnsnennnnnnnnnn nns Socialvetenskapliga forskningsrådet: Förvaltning, anslag till Spelberoende Spri bidrag till Spri, anslag till.ssmssssssssssssssseseenesenesnsnsnnnnnnnnnn Sprututbytesprogrammen s...smmmsssssrsssnssrsnnsrnrnnnnnnnnenennnnnennnnnnnn StamMnNiNg oossseeseesresreseseereerennesnennernennennern ennen ennen ennen ennen nen n rn nan Starköl import och partihandel med starköl s.......mssssssssesrsnsnr Statens bakteriologiska laboratorium Statens bakteriologiska laboratorium, anslag till.......... Statens handikappråd ...........sesssesessesseererenesesenennnrenenernenen enn nan Statens institut för psykosocial miljömedicin Statens institut för psykosocial miljömedicin, anslag</p>
-          <p>Statens institutionsstyrelse Statens institutionsstyrelse: Central förvaltning, anslag till.sssmssssssssssssssesrrsresernnenesrrnnnrn renen ennen nere ennen ennen ennen Statens institutionsstyrelse: Vårdverksamhet, anslag</p>
-          <p>Statens medicinsk-etiska råd Statens nämnd för internationella adoptionsfrågor Statens nämnd för internationella adoptionsfrågor, anslag till.snmossssssesssrssesrensennenernenrnsnnrnnenennenen nens enn rn rn nn nn nn Stimulansbidrag till specifika utvecklingsinsatser inom habiliterings- och rehabiliteringsområdet ................s.s....s--- Sveriges Hundcenter AB — Statens Hundskola medelstillskott till Sveriges Hundcenter AB — Sveriges HundSskOla s...ssmmsssseserseesnerneseenenennennennennennrnennnn nan</p>
-          <p>20</p>
-          <p>20</p>
-          <p>20 20</p>
-          <p>27</p>
-          <p>20</p>
-          <p>20</p>
-          <p>12</p>
-          <p>1993/94:SoU Reg.</p>
-          <p>17</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199394/reg_199394_SoU/reg_199394_SoU-018.pdf"/>
-          <p>Psykiatrisk VårG.......o.osososooesresenrenennenennrrrrrnenennernnnnnenrnerennnnn ene nn Psykiatriskt utvecklingsarbete i ÖSteUrOPAa ......ssssossooannnnnn ann Psykiskt störda barn och ungdOmar s..ssssmsssseseserrssenenennsnnnnn nn Psykiskt störda lagöverträdare s.......s..sssosesssssnsrnesennsnnnnnnnnnnnna Psykiskt stördas villkOr ssmmnnsssssessaensrnessrnsernennnnrnersennsnrnen enn nana Psykiskt utvecklingsstördas rätt till särskilda omsorger ..... PsykOterapeuter ssssmmmsssssesssrssnnesrnenneressrrrrrnrrsnnenrennsnernennen nen n nn nn PSyYykOterapi...ssnssssessennenreneernnenreseennennrnnnnrsnerrennenennrnrnsn ene n rn en nn nn</p>
-          <p>R Rehabilitering av tortyrskadade flyktingar.........................- Rehabilitering för psykiskt störda ..............sssssssssssssesnsnnnn Re miSStVåNg...ossssesesesesenesenrsrersennenesesennersernnennnnnnnnensnn ennen enn nana ReumatikerVård ...sssssssesesesrensonoenesesrenenenenenrnennnnennrnrnnnnennnnnnnn</p>
-          <p>Riksövergripande register 138595: 0 TA [ Rätt till ledighet för vård av bart s....ssssssssssssersrsersesnnnnnnnn anna Rättighetslagstiftning för psykiskt Störda............eeeesssnsnr Rättsmedicinalverket Rättsmedicinalverket, anslag till... ....mmnmmmsmsssssosesennnnenennnn</p>
-          <p>S</p>
-          <p>SamverkanSaVvtal omssssssessrrrssssrsresrensnnnrrssnennrerennrnnernrnen nn n enn nn a Sanktioner mot kommuner SanktiOnSSyStemM susssseseereressesesrerenernrnnnannrnenennensennnnnenenen enar en anna Sekretess inom familjerådgivning ......sssssssesssesrsennnnnnnnnnnnnn Sekretesslagen sossnmnaeseseneerennenerennenernenn ren nenenennansnn ennen enen sn nn nn anna SektSjuka sssnnnnnsereesrererenennesnererrenenrenenn nen nrnenennrnnen annen en ennen arenan Servering av alkoholdrycker s...sssssssssssssesssresenennesesenennnnen nanna Sexuella övergrepp mot Dar ssmmmmmssssssssessrerernrerenrenenn renarna nn Sjukgymnaster .....ssssssrsessenenrenerrerennenennrennrnenennensnnnrnenenenenen en anna SJUKHEM ooseoeseeseeresesrerenenrerernenaseenennan een nrnnen ennen ensnrns nen enrnen en rn enn Sjukvårdens OrganiSsatiOnN ...........ssssesssoseorsenrseseonnensenesenenennnnnnn Självmordsprevention SKkOIbarnSOMSOTLg sosssoeeerseeserrrsrersrrasrrannrnnrenrernnnnnennenennennnn nerna ana Skolpsykologernas Ställning..........sssssseseosssenenesenessnennnnnennnnnnn Smittskyddsinstitutet Smittskyddsinstitutet, anslag till...nnmssmmmmssssssssssssrsrnrnnnnnn nn Smittskyddslagen s.ssmmmssessassesesnennenrnnansnnsnnernennenrnneneren er nrn enn n enn SmåbarnsskolOr s..nsmsusesrsrererenenersernenenrerrrrerenenennrnennnnrnnennnn aren nonan Smärtbehandling......ssssssesssesersrsnrersennrrenrenernrenenrnrrnenenrnrr nen nnnnn Social verksamhet i kooperativ fOrfm..........sssssesesesnssnnnnnnnnnn SOCialbidlrag........ssooesreneenennnennerrennenrennnnrerrnrnenrnnsnen eran nen ene nn nen ann Socialbidrag, återkrav QV-...msssssssssennenesenesenennnnennnnen ennen annan ann</p>
-          <p>20,</p>
-          <p>25,</p>
-          <p>28 28</p>
-          <p>1993/94:SoU Reg.</p>
-          <p>16</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199394/reg_199394_SoU/reg_199394_SoU-019.pdf"/>
-          <p>Synskadade, rehabilitering för................ 27 1993/94:SoU Reg. Systembolagets detaljhandelsmonopol... 22 Systemförändringar s..smmmmsssesesreserrenernesrerrnenernernennennnn ann nn n nn nera 7 T Tandhygienister som fria företagare s...........s.sssosooseoeoreonsnennn 3 TandläkarVval omosssossssessssessesresneneesenrenennerrerersenrnnenrenserenrennnnnnnn nen 3 Tandvård vissa tandvårdSfrågOr s.........ssessosorssossrorenesrsrsrsenenrnnnnsnnn enn 3 Teknisk Sprit sssmonssssessenessenesenrenenenesenenrenernersnnernenennsnnnenen rna nanna 22 Tillståndsmyndighet inom alkoholområdet ...................-.-.- 22 Tillståndsprövning för vissa hem för vård eller boende .... 11 Tillsyn över hälso- och sjukvårdspersonal 26 Tilläggsdirektiv till HSU 2000............s--------- 20 Tobak vissa ändringar i tobakslagen (1993:581) 17 Tobakens skadeverkningar s.....sssssosssesesesesnenrenennnnnnenennnnnnn anna 17 Tolkar inom sjukvården s......sssoseseresrsrsrorssserrsrsrsnsrsennsrsneren ennen 7 TOIKtjälSt.....ssssssosnnesenrnnennenennnrnenennnnenenenenrrnrnnrnnnnnnnen ennen nan nn nn an 20 TransplantationSsfrågOr s...........ssssssesesrssrsrsssesssnenennennnrnnnnnnnn rann 7 U Umgänge i samband med vård enligt LVU ..............ssesssssn- 1, 30 Underhållsbidrag s.....ss.ssssosesrsrnrerarerenenenernererernenenneneren nn ennen anna 8 Underrättelse till målsäganden 1 Ungdomsmottagningar ......s.ssessesesssressesesesenennennnanennennrnn nn annan 1 Ungdomspolitiskt förslag .....sssssssesenenesenessnenennensnenenrnn renen nan 1 Upphävande av lagen om husläkare, läkarvårdsersättning och sjukgymnastikersättning ............. 20 Uppskov uppskov med behandlingen av vissa ärenden till riksmötet 1994/95 (62 ärenden) ....n.s.ssssssensesesnnnnnnnnnnnnn 32 Utbildning av PersOnal..sssmsssessesesseessrnrenenrrnrnrnnnennnnnnn nn n nn 29 Utsatta barn och uUNgdOMmar s..smssssssesenenenenesrsenennenenrnennenn nn en nana 30 Vv Varningstexter — tobakSvarOr........ssssssssesesnenennenennnrnnsnnnrnnnn 17 VikariQtossssssssessrersenenrserererrrrserrsnrrenrererennarnnrrenenennenn ennen ennen nerna ann 14 Vikariatsregler för privatpraktiserande läkare och Sjukgymnaster sisesssesesesrsesesrnrnensnnsrnsrr ns enensnsenensnsnensnnnrnsn rann nn nan 33 Vistelsebegreppet s...sssmsssssssesseseeneneerernrrerennsrnrernenn ennen nanna anna nan 8, 31 Vård av missbrukare s..msmsssssrsrsesrsrrsrsenernersenrennsnnrnrnenenennnn rn an ann 16 Vård i familjehem smmsnmssseseseresrsrsrersrererererersrnrererenrerenernnn nn nanna 1 Vård i livets slutskede s..smmmmssssossrsnsrennerenrernrrerrnrernrrrrrrrrnrrn nn 7,19 Vårdartjänst Nämnden för vårdartjänst, anslag till..................-..------- 20</p>
-          <p>18</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199394/reg_199394_SoU/reg_199394_SoU-020.pdf"/>
-          <p>Vård garäanti.....sonnssssesseosrosrensrnrrosrronerrrnrrnsrrnnrnnernrrnsrnnrnnernnen nerna 7 1993/94:SoU Reg.</p>
-          <p>Vårdnadsbidrag .......sssseseseosrsrerssrssrssreresnrrsrerrennerenerrrnenrnnnnnnnn nn 25, 34 Vårdnadsöverflyttningar...........ssseseosssosssesesesrerererenenererenerennn nn 30 Välfärdspolitiken smssossssesssssssesrrnenrnreresersesnennennernernennernnnnrn nan nan 20 WwW NA 2850 ETS «VR 7 WHO bidrag till WHO, anslag till..sssmnmssnsssssssenensrnnenennnnnnnnn nanna 20 bidrag till WHO-enheten för rapportering av läkemedelsbiverkningar, anslag till. ...smnsmsmsssssssssonnnn nn 20 Y Ytterligare påföljdSnivåer..............s.ssssssssseseresesesenenenenennnnn nana 26 Yttranden till andra utskott avveckling av amalgam ..snsnmsssressesesrenrensennnnrnnnnnnnnnnnn nana 2y ändringar av avtalet om Europeiska ekonomiska samarbetsområdet (EES-avtalet) .................ssssssoososeononns Sy jämställdhetsfrågOr ....nsmsssososessosssrsrsrnrnrnenennn nns ons 3y kompletteringspropositionen ............ss-sssssssssssnsnnnnn on 6y konsekvensanalyser i regeringens propositioner .......... ly</p>
-          <p>lokal försöksverksamhet med finansiell samordning mellan socialförsäkring, hälso- och sjukvård och</p>
-          <p>SOCIaltjäNsStossossssssesssessrerererrerrerrernerrerrrrrrerrnerrnnrnnnnrnnrnnnnn nanna 4y Å Ågrenska hälsocentret för barn AB s......ossssssssooooosoosssnnn non 20 Åldersgräns för läkarvårdsersättning .......................sssssssssno 14 Åldersgräns vid inköp av tobaksvaror ................ 17 Åldersgränser för inköp och servering av alkohol............. 22 Åligganden för personal inom hälso- och sjukvården ....... 26 Återkallelse av legitimatiOn ..................s..sssssssooooooosoonnsnnnn non 26 ÅLgärdStaXa .........ooossssoooossssssssssssssssseseossseoenssrrnnnnnnnnnnnnnnnn nan 14 A Ädelreformen 20 3 [03 st L8 00 RR 2 Äldre kvinnor 3y Äldreomsorg bidrag till pensionärsorganisationer, anslag till............ 20 stimulansbidrag inom äldreomsorgen, anslag till......... 20 se även SoU20 ÄldFreVåÅLA.....nnnnsessnanennnsrarnnnnnrsssssssnnnnnnnnnnsssnn nanna ss nnnnn annan neon anna 14</p>
-          <p>19</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199394/reg_199394_SoU/reg_199394_SoU-021.pdf"/>
-          <p>gotab 46933, Stockholm 1994</p>
+          <p>
+            Socialutskottets register vid riksmötet 1993/94
+          </p>
+          <p>
+            Betänkanden
+          </p>
+          <p>
+            Nr SoU1 Barn och ungdom Utskottets justering Förslag till beslut:
+            Avslag på mot. Debatt i kammaren Protokollsnummer Riksdagens beslut:
+            Bifall till utskottets hemställan Protokollsnummer
+          </p>
+          <p>
+            Nr SoU2 Vissa etiska frågor Utskottets justering Förslag till
+            beslut: Avslag på mot. Debatt i kammaren Protokollsnummer Riksdagens
+            beslut: Bifall till utskottets hemställan Protokollsnummer
+          </p>
+          <p>
+            Nr SoU3 Vissa tandvårdsfrågor Utskottets justering Förslag till
+            beslut: Avslag på mot. Debatt i kammaren Protokollsnhummer Riksdagens
+            beslut: Bifall till utskottets hemställan Protokollsnummer
+          </p>
+          <p>
+            Nr SoU4 Ledningsansvaret och vissa behörighetsfrågor Utskottets
+            justering
+          </p>
+          <p>
+            Förslag till beslut: Delvis bifall till mot. S0410, S0422, S0428,
+          </p>
+          <p>
+            S0439 yrk. 9 och S0474, avslag på övriga mot. Debatt i kammaren
+            Protokollsnhummer Riksdagens beslut: Bifall till utskottets hemställan
+            Protokollsnhummer Riksdagsskrivelse
+          </p>
+          <p>
+            1 Riksdagen 1993/94. 12 saml. Register
+          </p>
+          <p>
+            i |
+          </p>
+          <p>
+            fa
+          </p>
+          <p>
+            1993/94 SoU Reg.
+          </p>
+          <p>
+            1993-09-23
+          </p>
+          <p>
+            1993-10-27 1993/94:16 1993-10-27 1993/94:16
+          </p>
+          <p>
+            1993-10-12
+          </p>
+          <p>
+            1993-10-27 1993/94:16 1993-10-27 1993/94:16
+          </p>
+          <p>
+            1993-09-23
+          </p>
+          <p>
+            1993-10-27 1993/94:16 1993-10-27 1993/94:16
+          </p>
+          <p>
+            1993-09-23
+          </p>
+          <p>
+            1993-10-27 1993/94:16 1993-10-27 1993/94:16 1993/94:5
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199394/reg_199394_SoU/reg_199394_SoU_0001"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199394/reg_199394_SoU/reg_199394_SoU_0002"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199394/reg_199394_SoU/reg_199394_SoU_0003"/>
+          <p>
+            Nr SoUS
+          </p>
+          <p>
+            Ändring i lagen (1972:119) om fastställande av könstillhörighet
+          </p>
+          <p>
+            i vissa fall, m.m. (prop. 1992/93:197) Utskottets justering Förslag
+            till beslut: Bifall till prop., avslag på mot. Riksdagens beslut:
+            Bifall till utskottets hemställan Protokollsnummer Riksdagsskriveise
+          </p>
+          <p>
+            Nr SoU6 Allmänna arvsfonden (skr. 1992/93:201) Utskottets justering
+            Förslag till beslut: Till handlingarna Riksdagens beslut: Bifall
+            till utskottets hemställan Protokollsnummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr SoU7 Vissa hälso- och sjukvårdsfrågor Utskottets justering
+            Förslag till beslut: Avslag på mot. Debatt i kammaren Protokollshummer
+            Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer
+          </p>
+          <p>
+            Nr SoU8 Socialtjänst Utskottets justering Förslag till beslut:
+            Avslag på mot. Debatt i kammaren Protokollsnummer Riksdagens beslut:
+            Bifall till utskottets hemställan Protokollsnummer
+          </p>
+          <p>
+            Nr SoU9
+          </p>
+          <p>
+            1993-09-23
+          </p>
+          <p>
+            1993-10-27 1993/94:16 1993/94:6
+          </p>
+          <p>
+            1993-09-23
+          </p>
+          <p>
+            1993-10-27 1993/94:16 1993/94:7
+          </p>
+          <p>
+            1993-10-12
+          </p>
+          <p>
+            1993-11-10 1993/94:21 1993-11-10 1993/94:21
+          </p>
+          <p>
+            1993-10-12
+          </p>
+          <p>
+            1993-11-10 1993/94:21 1993-11-10 1993/94:21
+          </p>
+          <p>
+            Import av och partihandel med starköl (prop. 1992/93:253)
+          </p>
+          <p>
+            Utskottets justering Förslag till beslut: Bifall till prop.,
+            avslag på mot. Debatt i kammaren Protokollsnhummer
+          </p>
+          <p>
+            Riksdagens beslut: Bifall dels till reservationen, dels till
+          </p>
+          <p>
+            utskottets hemställan under moment 2 Protokollsnummer Riksdagsskrivelse
+          </p>
+          <p>
+            1993-11-09
+          </p>
+          <p>
+            1993-12-08 1993/94:39
+          </p>
+          <p>
+            1993-12-08 1993/94:39 1993/94:59
+          </p>
+          <p>
+            1993/94:SoU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199394/reg_199394_SoU/reg_199394_SoU_0004"/>
+          <p>
+            Nr SoU10 Familjerådgivning (prop. 1993/94:4) Utskottets justering
+            1993-11-25 Förslag till beslut: Delvis bifall till prop. och mot.
+            So11 delvis, avslag på övr. mot.
+          </p>
+          <p>
+            Debatt i kammaren 1993-12-08 Protokollshummer 1993/94:39 Riksdagens
+            beslut: Bifall till utskottets hemställan 1993-12-08 Protokollsnummer
+            1993/94:39 Riksdagsskrivelse 1993/94:58 Nr SoU1l1
+          </p>
+          <p>
+            Utvidgad lagreglering på barnomsorgsområdet, m.m. (prop. 1993/94:11)
+            Utskottets justering 1993-12-07 Förslag till beslut: Delvis bifall
+            till prop. och mot. So14 yrk. 2 delvis och yrk. 3, bifall till
+            mot. So14 yrk. 1, avslag på övr. mot. Debatt i kammaren 1993-12-17
+            Protokollsnummer 1993/94:47 Riksdagens beslut: Bifall till res.
+            2 (mom. 2), res. 6 (mom. 13), samt yrkande under överläggningen
+            (mom. 7). I övrigt
+          </p>
+          <p>
+            bifall till utskottets hemställan 1993-12-17 Protokollshummer
+            1993/94:47 Riksdagsskrivelse 1993/94:117 Nr SoU12
+          </p>
+          <p>
+            Medelstillskott till Sveriges Hundcenter AB — Statens Hundskola
+            (prop. 1993/94:36)
+          </p>
+          <p>
+            Utskottets justering 1993-11-30 Förslag till beslut: Bifall till
+            prop., avslag på mot. Riksdagens beslut: Bifall till utskottets
+            hemställan 1993-12-08 Protokollsnhummer 1993/94:39 Riksdagsskrivelse
+            1993/94:60 Nr SoU13
+          </p>
+          <p>
+            Vissa frågor om beräkning av assistansersättning (prop. 1993/94:58)
+          </p>
+          <p>
+            Utskottets justering 1993-11-16 Förslag till beslut: Bifall till
+            prop. Riksdagens beslut: Bifall till utskottets hemställan 1993-12-08
+            Protokollsnhummer 1993/94:39 Riksdagsskrivelse 1993/94:61
+          </p>
+          <p>
+            1" Riksdagen 1993/94. 12 saml. Register
+          </p>
+          <p>
+            1993/94:SoU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199394/reg_199394_SoU/reg_199394_SoU_0005"/>
+          <p>
+            Nr SoU14 1993/94:SoU Reg. Arvoden till privatpraktiserande läkare
+            och sjukgymnaster samt vissa ersättningar till sjukvårdshuvudmännen
+            m.m. (prop. 1993/94:75) Utskottets justering 1993-12-09 Förslag
+            till beslut: Delvis bifall till prop. och mot. 1992/93:Sf201,
+            1993/94:S021, S022 yrk. 2 delvis, S0o23, So24 yrk. 1 och 4, S027
+            yrk. 1, S029, avslag på övr. mot.
+          </p>
+          <p>
+            Debatt i kammaren 1993-12-17 Protokollsnhummer 1993/94:47 Riksdagens
+            beslut: Bifall till utskottets hemställan 1993-12-17 Protokollsnhummer
+            1993/94:47 Riksdagsskrivelse 1993/94:118 Nr SoU15 Vissa ändringar
+            i läkemedelslagen (prop. 1993/94:92) Utskottets justering 1994-02-08
+            Förslag till beslut: Bifall till prop., avslag på mot. Riksdagens
+            beslut: Bifall till utskottets hemställan 1994-03-02 Protokollsnhummer
+            1993/94:68 Riksdagsskrivelse 1993/94:138 Nr SoU16
+          </p>
+          <p>
+            Ansökningsförfarandet enligt lagen (1988:870) om vård av missbrukare
+            i vissa fall (prop. 1993/94:97)
+          </p>
+          <p>
+            Utskottets justering 1994-02-08 Förslag till beslut: Bifall till
+            prop., avslag på mot. Debatt i kammaren 1994-03-02 Protokollsnhummer
+            1993/94:68 Riksdagens beslut: Bifall till utskottets hemställan
+            1994-03-16 Protokollshummer 1993/94:73 Riksdagsskrivelse 1993/94:150
+            Nr SoU17 Vissa ändringar i tobakslagen (1993:581) (prop. 1993/94:98)
+            Utskottets justering 1993-02-15
+          </p>
+          <p>
+            Förslag till beslut: Bifall till prop., delvis bifall till mot.
+            S034 delvis, So35, S0o36, S038, S0491, avslag på övriga mot.
+          </p>
+          <p>
+            Debatt i kammaren 1994-03-02 Protokollsnhummer 1993/94:68 Riksdagens
+            beslut: Bifall till utskottets hemställan 1994-03-16 Protokollsnummer
+            1993/94:73 Riksdagsskrivelse 1993/94:149 Nr SoU18 Sekretess m.m.
+            hos Barnombudsmannen (prop. 1993/94:107) Utskottets justering
+            1994-02-08 Förslag till beslut: Bifall till prop. Riksdagens beslut:
+            Bifall till utskottets hemställan 1994-03-02 Protokollsnummer
+            1993/94:68 Riksdagsskrivelse 1993/94:139
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199394/reg_199394_SoU/reg_199394_SoU_0006"/>
+          <p>
+            Nr SoU19
+          </p>
+          <p>
+            Kommunernas betalningsansvar för viss hälso- och sjukvård
+          </p>
+          <p>
+            m.m. (prop. 1993/94:121) Utskottets justering Förslag till beslut:
+            Bifall till prop., avslag på mot. Riksdagens beslut: Bifall till
+            utskottets hemställan Protokollshummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr SoU20 Socialpolitik — inriktning och anslag (prop. 1993/94:100
+            bil. 6) Utskottets justering Förslag till beslut: Delvis bifall
+            till prop. och mot. S0205, S0421 yrk. 2, S0427, S0430 yrk. 3,
+            8 och 10 delvis, S0443 yrk. 1 och 3, S0454, S0462 yrk. 1 och 3,
+            S0473 yrk. 3, S0476 yrk. 1, S0487 yrk. 2, avslag på övr. mot.
+            Debatt i kammaren Protokollsnummer Riksdagens beslut: Bifall till
+            res. 13 (mom. 37), i övrigt bifall till utskottets hemställan
+            Protokollshummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr SoU21 Amalgam m.m. Utskottets justering Förslag till beslut:
+            Delvis bifall till mot. S0478 yrk. 5, S0486 yrk. 7, S0493 yrk.
+            10, S0502 yrk. 3, avslag på övr. mot. Debatt i kammaren Protokollsnhummer
+            Riksdagens beslut: Bifall till utskottets hemställan Protokollsnhummer
+            Riksdagsskrivelse
+          </p>
+          <p>
+            Nr SoU22
+          </p>
+          <p>
+            1994-02-15
+          </p>
+          <p>
+            1994-03-02 1993/94:68 1993/94:140
+          </p>
+          <p>
+            1994-03-24
+          </p>
+          <p>
+            1994-04-20 1993/94:92
+          </p>
+          <p>
+            1994-04-20 1993/94:92 1993/94:248
+          </p>
+          <p>
+            1994-04-21
+          </p>
+          <p>
+            1994-05-18 1993/94:106 1994-05-18 1993/94:106 1993/94:314
+          </p>
+          <p>
+            Riktlinjer för ett nytt tillståndssystem för import, export,
+          </p>
+          <p>
+            tillverkning och partihandel med alkoholdrycker, m.m. (prop.
+            1993/94:136) Utskottets justering Förslag till beslut: Bifall
+            till prop., avslag på mot. Debatt i kammaren Protokollsnhummer
+            Riksdagens beslut: Bifall till utskottets hemställan Protokollsnhummer
+            Riksdagsskrivelse
+          </p>
+          <p>
+            1994-03-22
+          </p>
+          <p>
+            1994-04-20 1993/94:92 1994-04-20 1993/94:92 1993/94:249
+          </p>
+          <p>
+            1993/94:SoU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199394/reg_199394_SoU/reg_199394_SoU_0007"/>
+          <p>
+            Nr SoU23 Lag om Allmänna arvsfonden (prop. 1993/94:124)
+          </p>
+          <p>
+            Utskottets justering 1994-03-15 Förslag till beslut: Bifall till
+            prop. Riksdagens beslut: Bifall till utskottets hemställan 1994-04-20
+            Protokollshummer 1993/94:92 Riksdagsskrivelse 1993/94:250 Nr SoU24
+          </p>
+          <p>
+            Legitimation för vissa naprapater och kiropraktorer m.m. (prop.
+            1993/94:145)
+          </p>
+          <p>
+            Utskottets justering 1994-05-19 Förslag till beslut: Delvis bifall
+            till prop., avslag på mot. Debatt i kammaren 1994-06-03 Protokollsnhummer
+            1993/94:117 Riksdagens beslut: Bifall till utskottets hemställan
+            1994-06-03 Protokollsnhummer 1993/94:117 Riksdagsskrivelse 1993/94:409
+            Nr SoU2S Vårdnadsbidrag (prop. 1993/94:148) Utskottets justering
+            1994-05-03
+          </p>
+          <p>
+            Förslag till beslut: Avslag på prop., bifall till mot. S046 yrk.
+            1, $S047, S049, So51, So53, S0o605 yrk. 1, S0607 yrk. 5 och So610
+            yrk. 1, avslag på övriga mot.
+          </p>
+          <p>
+            Debatt i kammaren 1994-05-18 Protokollsnummer 1993/94:106 Riksdagens
+            beslut: Återremiss 1994-05-18 Protokollsnummer 1993/94:106 Nr
+            SoU26
+          </p>
+          <p>
+            Åligganden för personal inom hälso- och sjukvården m.m. (prop.
+            1993/94:149) (förs. 1993/94:7) Utskottets justering 1994-05-19
+            Förslag till beslut: Delvis bifall till prop., förs. och mot.
+            So54 yrk. 3, 4, 5, 7 och 8, mot. So56 yrk. 2, mot. So59 yrk. 1,
+            2 och 4.
+          </p>
+          <p>
+            Debatt i kammaren 1994-06-03 Protokollsnhummer 1993/94:117 Riksdagens
+            beslut: Bifall till utskottets hemställan 1994-06-03 Protokollsnummer
+            1993/94:117 Riksdagsskrivelse 1993/94:410 och 1993/94:411
+          </p>
+          <p>
+            1993/94:SoU Reg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199394/reg_199394_SoU/reg_199394_SoU_0008"/>
+          <p>
+            Nr SoU27 Handikappombudsman (prop. 1993/94:219) Utskottets justering
+            Förslag till beslut: Bifall till prop., delvis bifall till mot.
+            So57 yrk. 1 och 4 och So58 yrk. 1 och 3, avslag på övr. yrk. Debatt
+            i kammaren Protokollsnhummer Riksdagens beslut: Bifall till utskottets
+            hemställan Protokollsnummer Riksdagsskrivelse
+          </p>
+          <p>
+            Nr SoU28 Psykiskt stördas villkor (prop. 1993/94:218) Utskottets
+            justering Förslag till beslut: Delvis bifall till prop. och mot.
+            So61 yrk. 2, 4 och 8, So062 yrk. 2, 3, 5—8 och 10, S063 och S0479
+            yrk. 7, avslag på övr. mot. Debatt i kammaren Protokollsnhummer
+            Riksdagens beslut: Bifall till utskottets hemställan Protokollsnhummer
+            Riksdagsskrivelse
+          </p>
+          <p>
+            Nr SoU29 Barnomsorg m.m. Utskottets justering Förslag till beslut:
+            Avslag på mot. Debatt i kammaren Protokollsnummer Riksdagens beslut:
+            Bifall till utskottets hemställan Protokollsnummer
+          </p>
+          <p>
+            Nr SoU30 Barn och ungdom Utskottets justering
+          </p>
+          <p>
+            Förslag till beslut: Delvis bifall till mot. S0230 och S0o273
+            yrk.
+          </p>
+          <p>
+            2—5 och 8—10, avslag på övr. mot. Debatt i kammaren Protokollsnummer
+            Riksdagens beslut: Bifall till utskottets hemställan Protokollsnhummer
+            Riksdagsskrivelse
+          </p>
+          <p>
+            Nr SoU31 Vissa socialtjänstfrågor Utskottets justering Förslag
+            till beslut: Avslag på mot. Debatt i kammaren Protokollsnhummer
+            Riksdagens beslut: Bifall till utskottets hemställan Protokollsnummer
+          </p>
+          <p>
+            1993/94:SoU Reg.
+          </p>
+          <p>
+            1994-05-24
+          </p>
+          <p>
+            1994-06-02 1993/94:116 1994-06-02 1993/94:116 1993/94:397
+          </p>
+          <p>
+            1994-05-19
+          </p>
+          <p>
+            1994-06-02 1993/94:116 1994-06-02 1993/94:116 1993/94:396
+          </p>
+          <p>
+            1994-04-26
+          </p>
+          <p>
+            1994-05-18 1993/94:106 1994-05-18 1993/94:106
+          </p>
+          <p>
+            1994-03-24
+          </p>
+          <p>
+            1994-04-20 1993/94:92 1994-04-21 1993/94:93 1993/94:251
+          </p>
+          <p>
+            1994-05-03
+          </p>
+          <p>
+            1994-05-18 1993/94:106 1994-05-18 1993/94:106
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199394/reg_199394_SoU/reg_199394_SoU_0009"/>
+          <p>
+            Nr SoU32 1993/94:SoU Reg. Uppskov med behandlingen av vissa ärenden
+            till riksmötet 1994/95 (62 ärenden)
+          </p>
+          <p>
+            Utskottets justering 1994-05-19 Förslag till beslut: uppskov
+            Riksdagens beslut: Bifall till utskottets hemställan 1994-06-03
+            Protokollsnhummer 1993/94:117 Nr SoU33
+          </p>
+          <p>
+            Vissa frågor rörande bestämmelserna om arvoden till privat- praktiserande
+            läkare och sjukgymnaster m.m. (del av prop. 1993/94:220)
+          </p>
+          <p>
+            Utskottets justering 1994-05-19 Förslag till beslut: Bifall till
+            prop., avslag på mot. Debatt i kammaren 1994-06-03 Protokollsnummer
+            1993/94:117 Riksdagens beslut: Bifall till utskottets hemställan
+            1994-06-03 Protokollsnhummer 1993/94:117 Riksdagsskrivelse 1993/94:412
+            Nr SoU34 Vårdnadsbidrag (förnyad behandling) (prop. 1993/94:148)
+            Utskottets justering 1994-05-19 Förslag till beslut: Bifall till
+            prop., avslag på mot. Debatt i kammaren 1994-05-20 Protokollsnummer
+            1993/94:108 Riksdagens beslut: Bifall till utskottets hemställan
+            1994-05-20 Protokollsnhummer 1993/94:108 Riksdagsskrivelse 1993/94:343
+            Nr SoU35 Ändring i sekretesslagen (1980:100) (prop. 1993/94:219)
+            Utskottets justering 1994-06-07
+          </p>
+          <p>
+            Förslag till beslut: Ändring av del av RD:s beslut med anledning
+            av SoU27
+          </p>
+          <p>
+            Riksdagens beslut: Bifall till utskottets hemställan 1994-06-09
+            Protokollsnhummer 1993/94:121 Riksdagsskrivelse 1993/94:451
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199394/reg_199394_SoU/reg_199394_SoU_0010"/>
+          <p>
+            Yttranden 1993/94:SoU Reg.
+          </p>
+          <p>
+            Nr SoU1ly till KU Konsekvensanalyser i regeringens propositioner
+          </p>
+          <p>
+            Utskottets justering 1994-02-08 RD = 1993/94:KU30 1994-05-25
+            Riksdagsskrivelse 1993/94:344
+          </p>
+          <p>
+            Nr SoU2y till JoU Avveckling av amalgam (prop. 1993/94:163)
+          </p>
+          <p>
+            Utskottets justering 1994-04-12 RD = 1993/94:JoU23 1994-04-27
+            Riksdagsskrivelse 1993/94:273
+          </p>
+          <p>
+            Nr SoU3y till AU Jämställdhetsfrågor (prop. 1993/94:147)
+          </p>
+          <p>
+            Utskottets justering 1994-04-12 RD = 1993/94:AU17 1994-05-04
+            Riksdagsskrivelse 1993/94:290
+          </p>
+          <p>
+            Nr SoU4y till SfU Lokal försöksverksamhet med finansiell samordning
+            mellan socialförsäkring, hälso- och sjukvård och socialtjänst
+            (prop. 1993/94:205)
+          </p>
+          <p>
+            Utskottets justering 1994-05-03 RD = 1993/94:SfU19 1994-06-01
+            Riksdagsskrivelse 1993/94:369
+          </p>
+          <p>
+            Nr SoUSy till UU Andringar av avtalet om Europeiska ekonomiska
+            samarbetsområdet (EES-avtalet) m.m. (prop. 1993/94:203)
+          </p>
+          <p>
+            Utskottets justering 1994-05-03 RD = 1993/94:UU23 1994-06-01
+            Riksdagsskrivelse 1993/94:367
+          </p>
+          <p>
+            Nr SoU6y till FiU Kompletteringspropositionen (prop. 1993/94:150)
+          </p>
+          <p>
+            Utskottets justering 1994-05-19 RD = 1993/94:FiU20 1994-06-10
+            Riksdagsskrivelse 1993/94:454
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199394/reg_199394_SoU/reg_199394_SoU_0011"/>
+          <p>
+            Sakregister
+          </p>
+          <p>
+            Abortförebyggande insatser .......s..ssssosssssensronsennsrnnnnnnrnnnnnnnn
+            nn Adoptivbarn särskilt bidrag för vissa adoptivbarn, anslag till............
+            Adoptivbarnens situation m.m Adoptivföräldrar ................s.s----------
+            Adoptivföräldrars rätt till vårdnadsbidrag..........................-
+            Aggressivitetsdämpande mediCinering..............ssssssssssssssnnnnn
+            Akutsjukvården ssssssssossoseosrosensrosrssrsrrernsrsrnrrsrnrrerererernrnernrnrnnn
+            Alkoholdrycker riktlinjer för ett nytt tillståndssystem för import,
+            export, tillverkning och partihandel med alkoholdrycker, M.M.
+            smsmesssssssrrerererrnrersrnrnrnnrnrersnnerernn nn nn Alkoholpolitik
+            s...ssnssssrsssenssesesenennnrnennnenennnnnnrnren ennen ennen
+            enn nn nn nn nn Alkoholreklanm.....sssssssssrsasesenrenenosnerenrersernrernenrerrernnsrnrrnsnnnn
+            nn nn Allergiförebyggande åtgärder...................sssssssssosesssenenennnnnnnnn
+            Allmänna arvsfonden
+          </p>
+          <p>
+            Anmälan till HSAN Anmälningsskyldighet enligt 71 $ socialtjänstlagen
+            ........... Ansökningsförfarande s........sssssesessssesessessessenensnsnsensnnrnnnnnn
+            annan Antroposofiska medel .smmmsssssssssesesrrnenrennennenrernernnnennrnnrnr
+            enn rn nn Apotekarsocietetens stiftelse ..................s.ssssnosoonnanennenennannnnnnn
+            Apoteksbolagets MONOpPOL....sssssssssssesenenennenennenennenrnnennnnsnnnnenn
+            Arbete under arbetsledning ................sssssssserssrsesserssensennnnnnn
+            nn Arbetsterapeuter .m.smmmsssseserseoresoesrenensennnrnnanrnnnrrnnnnnnnnrrnnn
+            nn nn rann Arvoden till privatpraktiserande läkare och sjukgymnaster
+            sumssssssssesesrnrerserenenenenenenenen renare renen en enn nn
+            ennen nn ann Asocialitetslagstiftning..............e.s.ssssssensosnnnsrnnsnrnnnnrrnnnrernnnsnnnr
+            ASSiStanSsersättNilg.....sssessssssssnensnsnensnnenenenesrsnerennrenennenenrnnennn
+            nn Avdrag för barnomsorgskostnader s........sssssserseesseserssssnenrnrnr
+            Avgifter för DarnOmSOrg s....sssssesresesenrerenenrsrenenrennsnennennnnnnnnnnn
+            AVI DA oosooseesseeerrrrrserrerrnererrarersennnrerenenrrr er ernn
+            en nr ren ren nen nns nen narr rann
+          </p>
+          <p>
+            B Barn i riskZON€D smossessesseseesenrsenerrrrnrarsennernrnnrnnennr
+            rna nn nn renen rna nn nn Barn och UNgdOM....s.ossesessesersrrsenrerrenrenrrnrnrrnnnrnnnrrrnn
+            nn nen nr rn nn Barn- och ungdomstandvård ..............sssssssrssssrsseresrsesssnsnnnnnnn
+            Barn som far illä......ssssssssssssesesenenenensnesenennenennnnnn
+            nn en nrn renen ann nn nn Barnbidrag allmänna barnbidrag, anslag
+            till s.s...sm.0+.sss.sesssssserrrnnan nn se även SoU29, SoU6y
+          </p>
+          <p>
+            1993/94:SoU Reg.
+          </p>
+          <p>
+            10
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199394/reg_199394_SoU/reg_199394_SoU_0012"/>
+          <p>
+            Barnfamiljernas ekONOMi ......sesssssssrsrsnnnrnenesernnnnnnnnnnnnnnn
+            nonan 25,34 1993/94:SoU Reg.
+          </p>
+          <p>
+            BarnkonventiOn€i.........sssesssesssessesssrrrssrnnssrerrrsnrnernnnnensnnn
+            nn nan nn 20 Barnkunskap, utbildning i smommsmmsssessseessersensrenrererennenenrn
+            rann nn 30 Barnmorskors förskrivningsrätt .................ssssssssssssssssesrsrrnnn
+            7 Barnombudsman Barnombudsmannen, anslag till....s.nocn.0ssossososorsrsrsnnnsnnn
+            20 sekretess m.m. hos Barnombudsmannen .................-.-.-
+            18 Barnomsorg barnOmSOrg Mu oosossessessssrseesessnresrersnrnnrsrrnrerennrnsn
+            enn rn en nn 29 utvidgad lagreglering på barnomsorgsområdet, m.m...
+            11 BarnOmsOrgSpPlån ....s.ssssessesessrsserrenrerrrsnrrrerrnernerrerrererenrsren
+            enn nn nn 11, 29 BarnprostitutiOn .........o.ossseosesesesresereesrrsrenerrenrernenenerernenerrnanen
+            ann 1 BarnVvårdar€.....ssssssssessesseroerersrerensernensrnnsrserenrnsnssnse
+            renen nerna o nn nn 11, 29 Behovsprövade barnbidrag ......s.ssssessessesensernrsennnnnnnrnenrnnnnn
+            nn nn 20 BehörighetsfrågOr .............s.sseseosssorssesesesrsnsrnenernrrsrorernrnnrrnnnrrnen
+            4 Beroendeframkallande läkemedel s.snsnsnssssnrnsnsnsnnnnnnnnnnnnnnnn
+            20 Bidragsförskott bidragförskott, anslag till s...ssssss.ss.ssssssssssssesrnennnnrsnnnnn
+            annan 20 se även SoU29 BidragSnOrmMelr s..ssmsssesessensereerrserrrnrererrsnnrrrrnrerrnenrer
+            renen enn nen rn nn nan 8, 31 BiverkningsregiSter .........s.sssosssenonsaseannennansnnennenansnnnnnnnsnsn
+            erna ann 21 Boendet för utvecklingsstörda och psykiskt funktionshindrade
+            s....s.ss.sssessrsessersesrrsrsrrrrsrrsrarsennenennrnenrnnnn nn
+            ann 27 BostadsSlÖSå s.usssnseseereresrrnernnernrnnrnrennarsnnnrnrrrrrnnnnrsnnnnenennnnen
+            enn n anar nn 8, 31 Brottsförebyggande insatser s....sssoossossensensonenrenennnrnnnenennnnnrnnnn
+            1 Bryggeriernas rätt till partihandel...............ss.sssssss0s0ss000n000n
+            nn 22 C Cancer, elektrokemisk behandling ............sssssessrsrssssrrersrnnn
+            7 D Dagh€M oooseeseseerrsrerererreerererrrerrerrerrerrrerrrsrrrerrrrnennrsrrrer
+            enn nen nn nn nn 20 Daghemsavgifter .mm.sssssesssssrsesesrrrrrennerrsrenrrnnnenenrnrrnnnnnnnn
+            enn nanna 11 Disciplinpåföljd på hälso- och sjukvårdens område
+            .......... 26 DistriktsskÖterskOr .........se.sssosesnesoesorssorerrrrnensrsnnnnnrerenenenrrnrn
+            nn nn 20 DOPNING oo ooeeesesesrerenrsresrerrenrerrerrerrerrernerrrrrrnreerrernrrnenrreren
+            ene r en rann nn 20 Droger och tobak... ....ssmsssesssesssrenrersrreressrnrrrnrnnsnnrnsenrsennenrannnn
+            nn nn 20 DrOgmisSsbrUuk sssnsssssssseseaseasnesrenrrnerseresrrenrrsrnannrnnennn
+            renen en nnn nn ana 8 E EES-avtalet ....ssnnsnnsssssnenennnresnarenernenenrannennennernenernenenenenrnnnnnnn
+            nana Sy Epidemiologiskt CentrUmM s..ssmsesessossesssrssensnesnennensnnenenrnnnnrnnnn
+            20 EPpilepPSlsssssssssssesenesseseeserrsennrnnarsenrenrennrarrerrrennrrnnen
+            renen ennen enn nen nn 7 Etiska frågOr o....ssssoosososnennnennnronnnnnnnnrnnnnenensrnnnnnnnensrnnnnsnnn
+            nn rna nn 2 F FamiljehemsSvård smsmnnmmsssesresesrenerenrerrrnrrnnernnernnerernennnrnnnsnenen
+            eran an 31 FamiljepOlitik o...s.nsossssesroenrnennsenenenennererrrnenrnnsnenennnnnnnnn
+            rn enn nn ann 11, 25, 34 11
+          </p>
+          <p>
+            FamiljerådgiVNinlg....essosessssesesesrenensarrenrerrerneererrersrnrersrnrnnnnn
+            nns 10, 31
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199394/reg_199394_SoU/reg_199394_SoU_0013"/>
+          <p>
+            Familjestabilitet ................sessosoosneneononennnnnnnnnnnnnnnnnen
+            29 1993/94:SoU Reg.
+          </p>
+          <p>
+            Filmvåld oosnnsssoreseesrsrrenresrennrnrnnennnrnnrnnrnrennenn
+            enes nnnn nana 30 FlerbarnsfödSel.........ssssssssseserssnnnannennernnssesnnnnennennnnnn
+            nr 31 Flyttning av barn 30 Flyttningsförbud 1 FN:s barnkonventiOn
+            s..ssmmmssssseseenrenrrnrennesrenrsnesnrernernnrnnnrn nn nnn 1
+            Folkhälsoarbetets inriktning ........s.sssssssssesesrsennennenennnnnannnnnnen
+            20 Folkhälsoinstitutet Folkhälsoinstitutet, anslag till..........s.sssssssssssessensennennnnnnn
+            20 FosterdiagnOStik..........o.ssssssssrsrerenennenennenenreneneonenennernenennennrnenen
+            2 Frivilligcentraler i KOmmuUnEerINA m.smmsssssesrseserenernenrennennnnnnn
+            8 Funktionshindrade personers resemöjligheter ...................
+            27 Fusk med bidragsförskott 20 Företagshälsovård 14, 33 310) 00)
+            EV 11 Förskrivningsrätt, begränsning aV.......oseeesesesnsn0n
+            26 Försäkringskassans uppgifter s.......sesseseeserersesnerenesnnnnnrnnnnnnnen
+            14 Förtroendenämndsverksamhet.......ssssssssnesnenennennenennennenennnnnn
+            26 FÖräldraanSVår ssssmsssssseesresrerrrrrrnanrsrnsrrernrerrnesnrennn
+            ere aren rr nn nn nn 1 Föräldraförsäkringen.........e.ssssssssssssenrenennanenrsernnenennennrnnnannn
+            nn 25, 34 FöräldrautbildnNinNg . ....msssseseesseseeseesnasrenneneenerrrennnnrenn
+            nn nnn nn nn 1,29 G Garantidagar sosmmsnsesressersesresernnenrannrnrrrnsnnesnsn
+            renen nn n nn ann n rn nn n enn 25, 34 [€£:T411 07:76 6 VR 1 Genteknik
+            omsssnssssseseesresreserrsenresnenrennenrernnesrsrnsnernrrnnnrnnr
+            nen nrn rann 7 GlutenintOleranfS.......sssssssessennrnrennennennanresnernsnnennennnrr
+            nen er nn rn nn nn 27 GruppbOstäder s....snmnssenenssnsesnerenensnenenenennnnnenenennnnenenen
+            ennen nn nn ennen 20, 28 H Handikappade bidrag till handikapporganisationer,
+            anslag till............ 20 bidrag till viss verksamhet för personer
+            med funktionshinder, anslag till .........s..s.ssssss00s0 000
+            20 bilstöd till handikappade, anslag till 20 ersättning för texttelefoner,
+            anslag till.................---------- 20 EU-kontor i BrySS€l...smmmmsssssesesennenennenenesrenesneenenrernrnnrnennnn
+            20 handikappombudSsman s.nenesresrseseerrrrreresnresnnrnnrrnrrnnnnnnn
+            nn 27 kostnader för statlig assistansersättning, anslag till.......
+            20 statsbidrag till vårdartjänst m.m., anslag till .................
+            20 Sveriges Hundcenter AB — Statens Hundskola, anslag till..ssnnssssssssssesrsnesensnennennernnsnnrnnnnnsn
+            renen nn nrn ner nn enn nn nn 20 vissa frågor om beräkning av
+            assistansersättning.......... 13 vissa statsbidrag inom handikappområdet,
+            anslag till.. 20 HandikappombudSsman .nnseseeseersesresrresesnennesnnnnnnnnennnernnnnnn
+            nan 27 Handikappombudsmannens råd ...snnnsnsensssrosrerersennnrnnnnnnn
+            nn 27 Handikappomsorgen, avgifterna iNnOM s...smeesseseesessennnnnnnent
+            27 Hembränninlg....smsssesreresesenennenennanenenrrnennenennenener
+            renen renen nn ennen nn 22 12
+          </p>
+          <p>
+            HemspråksunderVisnifg s...msmmsssssesssrersrorsesesenenenererenenenrnrnnen
+            29
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199394/reg_199394_SoU/reg_199394_SoU_0014"/>
+          <p>
+            HemtjänStenD smsmmnsssessrsrssesrserreneseserernsrerensrnenensnnenernrnernrnen
+            ennen nn 20 1993/94:SoU Reg.
+          </p>
+          <p>
+            Hjälpmedel för funktionshindrade personer .....................-
+            27 HOMEOPatika..sossossessesseersessnarsnerrrrrennnrrnenenrrrenerrsnenener
+            enn nrnen renen 15 Homosexualitet ...ssmnnsssssorssnensnesresrenresnrsrenerrenenennenenen
+            enn nn rna nen nn 8 HSU 2000 onnnnssseseanarnennenennennan nan
+            oeseersrsen ense ensrnsrnnnennrnnnnnn nn enn 20 12 14, 20 Hälso-
+            och sjukvård arvoden till privatpraktiserande läkare och sjukgymnaster
+            samt vissa ersättningar till sjukvårdshuvudmännen Mum .ommsesesssesersssrsreersnenenrnnsnnn
+            14 bidrag till husläkarsystem, anslag till ........ossm.s.s.s--2-
+            sr 20 bidrag till hälso- och sjukvård, anslag till.....................
+            20 funktionen hälso- och sjukvård m.m. i krig, anslag 20 insatser
+            mot aids, anslag till................. 20 kommunernas betalningsansvar
+            för viss s hälso- och SJUKVåÅLA ooosessrsrerenesrererereneererererererrenererrnnsenersrnenrrnrnnnnen
+            ennen nn nnn 19 ledningsansvaret och vissa behörighetsfrågor ...............
+            4 legitimation för vissa naprapater och kiropraktorer 1 $.685
+            € 6 24 Statens beredning för utvärdering av medicinsk metodik,
+            anslag till..ssssssssssssessesssresrsesersnesrnsnrnrnnrnnnnn nn
+            annan 20 vissa frågor rörande bestämmelserna om arvoden till privatpraktiserande
+            läkare och sjukgymnaster m.m.... 33 vissa hälso- och sjukvårdsfrågOr
+            .................sssssssssssssssrrnr 7 åligganden för personal
+            inom hälso- och sjukvården 74005 4 4 VR 26 ändring i lagen (1972:119)
+            om fastställande av könstillhörighet i vissa fall ssmmsmmsssssesssrsrerenesrsrrrernennnnen
+            nr 5 Hälso- och sjukvårdens ansvarsnämnd, HSAN anmälan till.ssnsssssssssesssssrsssesrerrrsnrsnrrreresnenersnrnrn
+            erna rn nnn nanna 26 handläggningstider hos HSAN sm sssssnsesesssseresensenernnnennnnnnn
+            26 Hälso- och sjukvårdens ansvarsnämnd, anslag till ....... 20
+            I Ideellt socialt arbet€ ...smnsmmsssssessessesrssnasrrnerennrrennrnenen
+            nn nn nerna ana 31 Information och förebyggande insatser inom
+            alkOholistvården s....ss.ssssesserernersrrerernererersnrsrnrrnrrnensrnnernnnenn
+            nn nn an 22 Information till allmänheten om förtroendenämndsverksamheten
+            ........mnsmssssesessnnenenrnnnnnnnennnnnn 26 InkÖpSregiStrefilg.....meesssseseeneeneserreneernenrererersrsnsnsnsrnnenenenennn
+            rn nn 22 Intagna i kriminalvården ...smssssssoseseenesenrsrsenenenernerererennnnnnnnn
+            28 Interimistisk delegitimering ..ommsmmmsssssssesennenennenenenennennnnenn
+            rn nan 26
+          </p>
+          <p>
+            Internationella adoptioner bidrag till kostnader för internationella
+            adoptioner, anslag till.snnssssssssesssessesansrnnrrsnnrrnnnnennenn
+            ennen ennen ann nn nn nn nn nan 20 Invandrarspråk, kunskaper i
+            7 13
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199394/reg_199394_SoU/reg_199394_SoU_0015"/>
+          <p>
+            J
+          </p>
+          <p>
+            Jourhavande kuratOr..........ssossssssesrrrrsrsrerrrsrrrrerrrrrrrrrrnnnrnnn
+            rr nn JämställdhetsfrågOr ..........osooesseseeseenenrennannnrenennenenenennnrnen
+            snar nn ann
+          </p>
+          <p>
+            K Kamratstöd och anhörigSstÖd...........eessessssssssssessssesesensnrnrnnnrnnn
+            KastreringSslageD......ssssossessnsnensessnersrennesrnnernennennerernennsnrnenenn
+            rn nnn KiropraktOrer.....ssssssssesneenesnnensresrenrnesnanrnnernernsnnersnerrnnsnrnennnnnn
+            rna Kommunernas kostnadsansvar för OMSOIg ...........esssssrennr
+            Kompletterande utbildning .........sssssssrossossesresenrsnnnernnsnsnnnnnnnn
+            Kompletteringspropositionen Konsekvensanalyser.......ssosssesssnssnenensnnnnnnnnnnnnn
+            Konstruktionen av taxebestämmelserna Kvacksalverilagen ssssmssssssesseonernesreneerenrnerrenenenrrnenrnnerernnnenennn
+            nn Kvicksilver i produkter s......ssssssossosressrnsnennsnnennsnnsrsnnnnnrnnnnnnnnn
+            Kvicksilver i VaCCiNeI....smmmsssssoesennennennaneerenesrerenrrnenerenenennnnnn
+            nn Kvicksilver som konserveringsmedel i läkemedel..............
+            Kvinnlig kÖnsstympnNinNg......sssssssessesessrssenennenenesrenenenenenenenennnn
+            Kvinnliga missbrukare osm sssssssensresererrenrennsnnererrrnnnnenennrnrn
+            nns Kvinnor med funktionshinder s....sssssessssesesrrsrsrsrenersrenrnsnsnrnn
+            Kvinnors hälsa smssnsmasseeoesesreneenresenrenesneennerennnrenennsrsnsrerenrrn
+            nen nn Könstillhörighet i vissa fall, fastställande av s...mmmmmsssososn0nene
+          </p>
+          <p>
+            L
+          </p>
+          <p>
+            Lagen om stöd och service till vissa funktionshindrade
+          </p>
+          <p>
+            Legitimation för naprapater .mmmmmssssseseessssessnenrernsnnrnennnnnnnnnn
+            Legitimation för tandläkare Legitimation för vissa kiropraktorer
+            LegitimationsfrågOr .................-.-.-------- Lewi Pethrus
+            stiftelse LiVvSteStament€.....ss.sssssssornsenennerresnenennennennenennenennnnenennnrnnnnnnnnnnnn
+          </p>
+          <p>
+            Läkar- och tandläkarutbildning ............sssserseesrsessesesrsrnsnnnnnn
+            Läkarvårdsersättning LäkarvårdStäXa s...ssnsssossesesesenrernerrnnerernnrnnsnsnersrenrnrne
+            nera nnenn nn nn en Läkemedel, beroendeframkallande .........sssossserseerersennannnnn
+            nan Läkemedel, överutskrivning åaV s..smmmsssssesessesreenrerarerrnnrnnnnnn
+            nn LäkemedelsepidemiOlOgi.........ssesssssssssessenesesnrnrsornrnrnennnnnnnnn
+            nns LäkemedelSfrågOr............sessoeoeoeoeneneornnnnrnnenrnnnnnnrnrnnnnnrnrrnnnnnnnn
+            Läkemedelsförpackningar ........sssssesesseeesnesnnnnenrnnnnnnrnnnennrnnn
+            nat LäkemedelSlagen....ssssesesseeneensensoresennrennnrrrennennennnsnrnr
+            sne renen nn nan Läkemedelsverket Läkemedelsverket, anslag till
+            smmosmmsmsssssseresennnennsnnsnn annan Lämplighetsprövning för
+            patientrelaterade yrken..............
+          </p>
+          <p>
+            8 3y
+          </p>
+          <p>
+            20 26
+          </p>
+          <p>
+            1993/94:SoU Reg.
+          </p>
+          <p>
+            14
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199394/reg_199394_SoU/reg_199394_SoU_0016"/>
+          <p>
+            M Marknadsföring av tobaksprodukter.................-sssssssss2=&gt;s2&gt;0&gt;
+            Medicinalpersonal med utländsk examen ..........s.sssssonennnnnnn
+            Medicinalstyrelse s.ssmmssssssenesnenenenenrnnennnernesrernennnanennnnnnnnnnennnnn
+            nan Medicinsk-etisk utveckling, behovet av lagstiftning ...........
+            Medicinteknisk utrustning, tillsyn ÖVEr s.....ss.sssssssssesrensrnnn
+            IN CAR: Te [0 a RA Metadonbehandling........sesssessesseessrrsrrrsrrsrsrsnrerrrrerrernrnrrernnnen
+            nn ING FEST 67 Missbruk av dopningsmedel.........ssssssssssssssesssasenenennnnnnnnnnnnn
+            nn Missbrukare med svåra psykiska störningar MissbrukarVård ........sssososoooseseosenesenerenenerersrrsrenenersrnrrnnnnnnrnnnrnnn
+          </p>
+          <p>
+            N Naprapaterusssssssssseresssessrersnresnnesnenrrnnnnnnnrrnnennnrrnnnnennrrnnsnn
+            rn nn nen nn Narkotika, klassificering av s..mmmmmnsssssnasseseenennennernenenennnnnnnnnnnnn
+            NarkotikafrågOr ........s.ssssssesesrosesensrsrennnnennnsnnennnnnenrnnrnrnnnnn
+            nan nnnn Nationell hivpOliCY........ssssssssesessesenseansnessennnrnnnennenennernnnennnnnn
+            nn Naturläkemedel omsnmnnsssesssssnesrnrnnersenennanranrenennennrnnenenenennnnn
+            nn nn an Nordisk samverkan i sociala frågor Närstående..........sssosossseoosesesnonennnnnrsnnnnnnna
+          </p>
+          <p>
+            O Obligatoriskt kommunalt betalningsansvar för psykiskt FÅ £07
+            €6 EV
+          </p>
+          <p>
+            P
+          </p>
+          <p>
+            | sd STEN CE Palliativ Vård oossssssssssesensenersrsrrnrrenrnenenenenenenenenenernnrnrnnnn
+            rna rna nn Pappor på BB efter förlossning ..............sssssssssesssosssrsrrornrnnnn
+            Patientjournaler .ssmmsssesseessrerrsresrerrerrrrrrrnrerrnnrrnnnenrennnnn
+            nr n en nana Patientombudsman Personligt OMDbUd suosssresreeserrerrerrrrrrrsernnrrnrenrrrnrnnrrerensrrenn
+            rn eran nn Plötslig spädbarnSdÖd s...ssssssesssssssreresrenrenrsnenrernenerrnrnnrnnnenen
+            nan PreskriptiOD s.sssossssssssesesreereernerresrerrerrrrrrnrrrsrernnnrrneren
+            sen nnn ennen nn nn PrestationsersättNiNg.............ssssssssssrorasesorsenrensennansrnnenennnnn
+            annan Preventivmedel omsssssssesssrenrenresesrenrrnnerrrnsnrsrnrrrnernrrrnnen
+            ennen nr nn nn PrimärvårdsSfrågOr ...........ssssseossssrssesenenerosenenenennnernrrnnnnnnnnnnn
+            nn Privat barnomsorg, utvärdering av snmmmmsssssssessssnrnenennnnnnn
+            rna Privata Vårdgivare o...smsssssesessreersrsenennenenerrerarrnnererrrnenennnn
+            nn nn nan Privata vårdgivares anslutning till försäkringen .................
+            Privatläkares röntgen- och laboratorieundersökningar ..... Privatpraktiserande
+            läkare Produktregister .......n.n..sss0ssnnnnnnn Prostataundersökning......
+            Prostitution ................-..--- Psykiatri.........sssooosononnnn
+            annan Psykiatrisk tvångsvård s....snssssssssseseenennanenesennanenennnennnnnnnnnnnnn
+            nn
+          </p>
+          <p>
+            28
+          </p>
+          <p>
+            1993/94:SoU Reg.
+          </p>
+          <p>
+            15
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199394/reg_199394_SoU/reg_199394_SoU_0017"/>
+          <p>
+            Socialpolitik inriktning OCh anSläg m...ssssssssssesseosesesneneenenrsnnrnnnnnnnsn
+            nn nan Socialstyrelsen Socialstyrelsen, anslag till... smossssssssssssseosessnrnsnnsnannsnnnnnn
+            nana Socialtjänst ansökningsförfarandet enligt lagen (1988:870)
+            om vård av missbrukare i vissa fall ossmommnmmsssssorssosoonnsrsnnnsnnnn
+            bidrag till Centralförbundet för alkohol- och narkotikaupplysning,
+            CAN, anslag till........................-- bidrag till missbrukarvård,
+            anslag till................s..s.sssos0- bidrag till organisationer,
+            anslag till...............ssssssessssn sn SOCIaltjäNStossoossoessereserrrnresrernenrerrrnrnrnrnnenrnnenernernen
+            nr nns renen nn nn vissa soCialtjänstfrågOr ....................--.s..--.-
+            Socialtjänstens barnkompetens Socialtjänstens personal, skydd
+            fÖr s.....sssssssssesssrrsrrsrsrsrnnnnn Socialtjänstlaägen .usssmmssssesseserseesenresrersrrnrenerenner
+            nen nere nen renen nnn nan Socialutredningar på entreprenad .............es.seseseessssssesnnrnnns
+          </p>
+          <p>
+            Socialvetenskapliga forskningsrådet Socialvetenskapliga forskningsrådet:
+            Forskningsmedel, anslag till......ssnsnsssssssssssesnnnsnennnnnnnnnn
+            nns Socialvetenskapliga forskningsrådet: Förvaltning, anslag till
+            Spelberoende Spri bidrag till Spri, anslag till.ssmssssssssssssssseseenesenesnsnsnnnnnnnnnn
+            Sprututbytesprogrammen s...smmmsssssrsssnssrsnnsrnrnnnnnnnnenennnnnennnnnnnn
+            StamMnNiNg oossseeseesresreseseereerennesnennernennennern ennen
+            ennen ennen ennen nen n rn nan Starköl import och partihandel
+            med starköl s.......mssssssssesrsnsnr Statens bakteriologiska
+            laboratorium Statens bakteriologiska laboratorium, anslag till..........
+            Statens handikappråd ...........sesssesessesseererenesesenennnrenenernenen
+            enn nan Statens institut för psykosocial miljömedicin Statens
+            institut för psykosocial miljömedicin, anslag
+          </p>
+          <p>
+            Statens institutionsstyrelse Statens institutionsstyrelse: Central
+            förvaltning, anslag till.sssmssssssssssssssesrrsresernnenesrrnnnrn
+            renen ennen nere ennen ennen ennen Statens institutionsstyrelse:
+            Vårdverksamhet, anslag
+          </p>
+          <p>
+            Statens medicinsk-etiska råd Statens nämnd för internationella
+            adoptionsfrågor Statens nämnd för internationella adoptionsfrågor,
+            anslag till.snmossssssesssrssesrensennenernenrnsnnrnnenennenen
+            nens enn rn rn nn nn nn Stimulansbidrag till specifika utvecklingsinsatser
+            inom habiliterings- och rehabiliteringsområdet ................s.s....s---
+            Sveriges Hundcenter AB — Statens Hundskola medelstillskott till
+            Sveriges Hundcenter AB — Sveriges HundSskOla s...ssmmsssseserseesnerneseenenennennennennennrnennnn
+            nan
+          </p>
+          <p>
+            20
+          </p>
+          <p>
+            20
+          </p>
+          <p>
+            20 20
+          </p>
+          <p>
+            27
+          </p>
+          <p>
+            20
+          </p>
+          <p>
+            20
+          </p>
+          <p>
+            12
+          </p>
+          <p>
+            1993/94:SoU Reg.
+          </p>
+          <p>
+            17
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199394/reg_199394_SoU/reg_199394_SoU_0018"/>
+          <p>
+            Psykiatrisk VårG.......o.osososooesresenrenennenennrrrrrnenennernnnnnenrnerennnnn
+            ene nn Psykiatriskt utvecklingsarbete i ÖSteUrOPAa ......ssssossooannnnnn
+            ann Psykiskt störda barn och ungdOmar s..ssssmsssseseserrssenenennsnnnnn
+            nn Psykiskt störda lagöverträdare s.......s..sssosesssssnsrnesennsnnnnnnnnnnnna
+            Psykiskt stördas villkOr ssmmnnsssssessaensrnessrnsernennnnrnersennsnrnen
+            enn nana Psykiskt utvecklingsstördas rätt till särskilda omsorger
+            ..... PsykOterapeuter ssssmmmsssssesssrssnnesrnenneressrrrrrnrrsnnenrennsnernennen
+            nen n nn nn PSyYykOterapi...ssnssssessennenreneernnenreseennennrnnnnrsnerrennenennrnrnsn
+            ene n rn en nn nn
+          </p>
+          <p>
+            R Rehabilitering av tortyrskadade flyktingar.........................-
+            Rehabilitering för psykiskt störda ..............sssssssssssssesnsnnnn
+            Re miSStVåNg...ossssesesesesenesenrsrersennenesesennersernnennnnnnnnensnn
+            ennen enn nana ReumatikerVård ...sssssssesesesrensonoenesesrenenenenenrnennnnennrnrnnnnennnnnnnn
+          </p>
+          <p>
+            Riksövergripande register 138595: 0 TA [ Rätt till ledighet för
+            vård av bart s....ssssssssssssersrsersesnnnnnnnn anna Rättighetslagstiftning
+            för psykiskt Störda............eeeesssnsnr Rättsmedicinalverket
+            Rättsmedicinalverket, anslag till... ....mmnmmmsmsssssosesennnnenennnn
+          </p>
+          <p>
+            S
+          </p>
+          <p>
+            SamverkanSaVvtal omssssssessrrrssssrsresrensnnnrrssnennrerennrnnernrnen
+            nn n enn nn a Sanktioner mot kommuner SanktiOnSSyStemM susssseseereressesesrerenernrnnnannrnenennensennnnnenenen
+            enar en anna Sekretess inom familjerådgivning ......sssssssesssesrsennnnnnnnnnnnnn
+            Sekretesslagen sossnmnaeseseneerennenerennenernenn ren nenenennansnn
+            ennen enen sn nn nn anna SektSjuka sssnnnnnsereesrererenennesnererrenenrenenn
+            nen nrnenennrnnen annen en ennen arenan Servering av alkoholdrycker
+            s...sssssssssssssesssresenennesesenennnnen nanna Sexuella övergrepp
+            mot Dar ssmmmmmssssssssessrerernrerenrenenn renarna nn Sjukgymnaster
+            .....ssssssrsessenenrenerrerennenennrennrnenennensnnnrnenenenenen
+            en anna SJUKHEM ooseoeseeseeresesrerenenrerernenaseenennan een
+            nrnnen ennen ensnrns nen enrnen en rn enn Sjukvårdens OrganiSsatiOnN
+            ...........ssssesssoseorsenrseseonnensenesenenennnnnnn Självmordsprevention
+            SKkOIbarnSOMSOTLg sosssoeeerseeserrrsrersrrasrrannrnnrenrernnnnnennenennennnn
+            nerna ana Skolpsykologernas Ställning..........sssssseseosssenenesenessnennnnnennnnnnn
+            Smittskyddsinstitutet Smittskyddsinstitutet, anslag till...nnmssmmmmssssssssssssrsrnrnnnnnn
+            nn Smittskyddslagen s.ssmmmssessassesesnennenrnnansnnsnnernennenrnneneren
+            er nrn enn n enn SmåbarnsskolOr s..nsmsusesrsrererenenersernenenrerrrrerenenennrnennnnrnnennnn
+            aren nonan Smärtbehandling......ssssssesssesersrsnrersennrrenrenernrenenrnrrnenenrnrr
+            nen nnnnn Social verksamhet i kooperativ fOrfm..........sssssesesesnssnnnnnnnnnn
+            SOCialbidlrag........ssooesreneenennnennerrennenrennnnrerrnrnenrnnsnen
+            eran nen ene nn nen ann Socialbidrag, återkrav QV-...msssssssssennenesenesenennnnennnnen
+            ennen annan ann
+          </p>
+          <p>
+            20,
+          </p>
+          <p>
+            25,
+          </p>
+          <p>
+            28 28
+          </p>
+          <p>
+            1993/94:SoU Reg.
+          </p>
+          <p>
+            16
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199394/reg_199394_SoU/reg_199394_SoU_0019"/>
+          <p>
+            Synskadade, rehabilitering för................ 27 1993/94:SoU
+            Reg. Systembolagets detaljhandelsmonopol... 22 Systemförändringar
+            s..smmmmsssesesreserrenernesrerrnenernernennennnn ann nn n nn
+            nera 7 T Tandhygienister som fria företagare s...........s.sssosooseoeoreonsnennn
+            3 TandläkarVval omosssossssessssessesresneneesenrenennerrerersenrnnenrenserenrennnnnnnn
+            nen 3 Tandvård vissa tandvårdSfrågOr s.........ssessosorssossrorenesrsrsrsenenrnnnnsnnn
+            enn 3 Teknisk Sprit sssmonssssessenessenesenrenenenesenenrenernersnnernenennsnnnenen
+            rna nanna 22 Tillståndsmyndighet inom alkoholområdet ...................-.-.-
+            22 Tillståndsprövning för vissa hem för vård eller boende ....
+            11 Tillsyn över hälso- och sjukvårdspersonal 26 Tilläggsdirektiv
+            till HSU 2000............s--------- 20 Tobak vissa ändringar i
+            tobakslagen (1993:581) 17 Tobakens skadeverkningar s.....sssssosssesesesesnenrenennnnnnenennnnnnn
+            anna 17 Tolkar inom sjukvården s......sssoseseresrsrsrorssserrsrsrsnsrsennsrsneren
+            ennen 7 TOIKtjälSt.....ssssssosnnesenrnnennenennnrnenennnnenenenenrrnrnnrnnnnnnnen
+            ennen nan nn nn an 20 TransplantationSsfrågOr s...........ssssssesesrssrsrsssesssnenennennnrnnnnnnnn
+            rann 7 U Umgänge i samband med vård enligt LVU ..............ssesssssn-
+            1, 30 Underhållsbidrag s.....ss.ssssosesrsrnrerarerenenenernererernenenneneren
+            nn ennen anna 8 Underrättelse till målsäganden 1 Ungdomsmottagningar
+            ......s.ssessesesssressesesesenennennnanennennrnn nn annan 1 Ungdomspolitiskt
+            förslag .....sssssssesenenesenessnenennensnenenrnn renen nan 1
+            Upphävande av lagen om husläkare, läkarvårdsersättning och sjukgymnastikersättning
+            ............. 20 Uppskov uppskov med behandlingen av vissa ärenden
+            till riksmötet 1994/95 (62 ärenden) ....n.s.ssssssensesesnnnnnnnnnnnnn
+            32 Utbildning av PersOnal..sssmsssessesesseessrnrenenrrnrnrnnnennnnnnn
+            nn n nn 29 Utsatta barn och uUNgdOMmar s..smssssssesenenenenesrsenennenenrnennenn
+            nn en nana 30 Vv Varningstexter — tobakSvarOr........ssssssssesesnenennenennnrnnsnnnrnnnn
+            17 VikariQtossssssssessrersenenrserererrrrserrsnrrenrererennarnnrrenenennenn
+            ennen ennen nerna ann 14 Vikariatsregler för privatpraktiserande
+            läkare och Sjukgymnaster sisesssesesesrsesesrnrnensnnsrnsrr ns
+            enensnsenensnsnensnnnrnsn rann nn nan 33 Vistelsebegreppet s...sssmsssssssesseseeneneerernrrerennsrnrernenn
+            ennen nanna anna nan 8, 31 Vård av missbrukare s..msmsssssrsrsesrsrrsrsenernersenrennsnnrnrnenenennnn
+            rn an ann 16 Vård i familjehem smmsnmssseseseresrsrsrersrererererersrnrererenrerenernnn
+            nn nanna 1 Vård i livets slutskede s..smmmmssssossrsnsrennerenrernrrerrnrernrrrrrrrrnrrn
+            nn 7,19 Vårdartjänst Nämnden för vårdartjänst, anslag till..................-..-------
+            20
+          </p>
+          <p>
+            18
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199394/reg_199394_SoU/reg_199394_SoU_0020"/>
+          <p>
+            Vård garäanti.....sonnssssesseosrosrensrnrrosrronerrrnrrnsrrnnrnnernrrnsrnnrnnernnen
+            nerna 7 1993/94:SoU Reg.
+          </p>
+          <p>
+            Vårdnadsbidrag .......sssseseseosrsrerssrssrssreresnrrsrerrennerenerrrnenrnnnnnnnn
+            nn 25, 34 Vårdnadsöverflyttningar...........ssseseosssosssesesesrerererenenererenerennn
+            nn 30 Välfärdspolitiken smssossssesssssssesrrnenrnreresersesnennennernernennernnnnrn
+            nan nan 20 WwW NA 2850 ETS «VR 7 WHO bidrag till WHO, anslag till..sssmnmssnsssssssenensrnnenennnnnnnnn
+            nanna 20 bidrag till WHO-enheten för rapportering av läkemedelsbiverkningar,
+            anslag till. ...smnsmsmsssssssssonnnn nn 20 Y Ytterligare påföljdSnivåer..............s.ssssssssseseresesesenenenenennnnn
+            nana 26 Yttranden till andra utskott avveckling av amalgam ..snsnmsssressesesrenrensennnnrnnnnnnnnnnnn
+            nana 2y ändringar av avtalet om Europeiska ekonomiska samarbetsområdet
+            (EES-avtalet) .................ssssssoososeononns Sy jämställdhetsfrågOr
+            ....nsmsssososessosssrsrsrnrnrnenennn nns ons 3y kompletteringspropositionen
+            ............ss-sssssssssssnsnnnnn on 6y konsekvensanalyser i regeringens
+            propositioner .......... ly
+          </p>
+          <p>
+            lokal försöksverksamhet med finansiell samordning mellan socialförsäkring,
+            hälso- och sjukvård och
+          </p>
+          <p>
+            SOCIaltjäNsStossossssssesssessrerererrerrerrernerrerrrrrrerrnerrnnrnnnnrnnrnnnnn
+            nanna 4y Å Ågrenska hälsocentret för barn AB s......ossssssssooooosoosssnnn
+            non 20 Åldersgräns för läkarvårdsersättning .......................sssssssssno
+            14 Åldersgräns vid inköp av tobaksvaror ................ 17 Åldersgränser
+            för inköp och servering av alkohol............. 22 Åligganden
+            för personal inom hälso- och sjukvården ....... 26 Återkallelse
+            av legitimatiOn ..................s..sssssssooooooosoonnsnnnn
+            non 26 ÅLgärdStaXa .........ooossssoooossssssssssssssssseseossseoenssrrnnnnnnnnnnnnnnnn
+            nan 14 A Ädelreformen 20 3 [03 st L8 00 RR 2 Äldre kvinnor 3y
+            Äldreomsorg bidrag till pensionärsorganisationer, anslag till............
+            20 stimulansbidrag inom äldreomsorgen, anslag till......... 20
+            se även SoU20 ÄldFreVåÅLA.....nnnnsessnanennnsrarnnnnnrsssssssnnnnnnnnnnsssnn
+            nanna ss nnnnn annan neon anna 14
+          </p>
+          <p>
+            19
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199394/reg_199394_SoU/reg_199394_SoU_0021"/>
+          <p>
+            gotab 46933, Stockholm 1994
+          </p>
         </div>
       </div>
     </body>

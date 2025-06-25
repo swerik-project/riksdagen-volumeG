@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="reg_199293_BoU">
   <teiHeader>
     <fileDesc>
       <titleStmt/>
@@ -19,221 +19,1016 @@
   </teiHeader>
   <text>
     <body>
-      <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_BoU/reg_199293_BoU-000.pdf"/>
+      <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_BoU/reg_199293_BoU_0000"/>
       <div type="gBody">
         <div>
-          <p>Bostadsutskottets register vid AN</p>
-          <p>riksmötet 1992/93 7 1992/93 BoUReg. Betänkanden Nr BoU1 Ändringar i fastighetsbildningslagen (prop. 1991/92:127) Utskottets justering 1992-11-05 Debatt i kammaren 1992-11-25 Protokollsnhummer 1992/93:31 Riksdagens beslut: Bifall till utskottets hemställan 1992-12-02 Protokollsnhummer 1992/93:36 Riksdagsskrivelse 1992/93:36 Nr BoU2 Vissa renhållningsfrågor Utskottets justering 1992-11-05 Riksdagens beslut: Bifall till utskottets hemställan 1992-12-02 Protokollsnhummer 1992/93:36 Riksdagsskrivelse - Nr BoU3 Den regionala indelningen Utskottets justering 1992-11-05 Riksdagens beslut: Bifall till utskottets hemställan 1992-12-02 Protokollsnummer 1992/93:36 Riksdagsskrivelse - Nr BoU4 Bostadsanpassningsbidrag (prop. 1992/93:58) Utskottets justering 1992-12-01 Debatt i kammaren 1992-12-10 Protokollshummer 1992/93:42 Riksdagens beslut: Bifall till utskottets hemställan 1992-12-10 Protokollsnhummer 1992/93:42 Riksdagsskrivelse 1992/93:98 Nr BoUS</p>
-          <p>Ändrade bestämmelser i fråga om bostadsbidrag för år 1993, m.m. (prop. 1992/93:63) Utskottets justering 1992-12-01</p>
-          <p>1 Riksdagen 1992/93. 19 saml. Register</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_BoU/reg_199293_BoU-001.pdf"/>
-          <p>Debatt i kammaren 1992-12-10</p>
-          <p>Protokollsnummer 1992/93:42 Riksdagens beslut: Bifall till utskottets hemställan 1992-12-10 Protokollsnummer 1992/93:42 Riksdagsskrivelse 1992/93:99 Nr BoU6 En byggproduktlag (prop. 1992/93:55) Utskottets justering 1992-12-03 Riksdagens beslut: Bifall till utskottets hemställan 1992-12-17 Protokollsnhummer 1992/93:47 Riksdagsskrivelse 1992/93:154 Nr BoU7 Utökat älvskydd (prop. 1992/93:80) Utskottets justering 1993-03-11 Debatt i kammaren 1993-03-24 Protokollsnummer 1992/93:82 Riksdagens beslut: Bifall till dels res. 1 under mom. 2, dels i Övrigt vad utskottet hemställt 1993-03-24 Protokollsnummer 1992/93:82 Riksdagsskrivelse 1992/93:214 Nr BoU8 Samerna och samisk kultur m.m. (prop. 1992/93:32 bil. 2, 3) Utskottets justering 1992-12-03 Debatt i kammaren 1992-12-15 Protokollsnummer 1992/93:45 Riksdagens beslut: Bifall till utskottets hemställan 1992-12-15 Protokollsnummer 1992/93:45 Riksdagsskrivelse 1992/93:115 Nr BoU9 Vissa villkor för statens stöd till byggande av bostäder Utskottets justering 1992-12-03 Debatt i kammaren 1992-12-10 Protokollsnhummer 1992/93:42 Riksdagens beslut: Bifall till utskottets hemställan 1992-12-10 Protokollsnummer 1992/93:42 Riksdagsskrivelse 1992/93:76 Nr BoU10</p>
-          <p>Ett program för reparation, om- och tillbyggnad av bostäder m.m. (prop. 1992/93:100 bil. 8)</p>
-          <p>Utskottets justering 1993-03-11 Debatt i kammaren 1993-03-24 Protokollsnhummer 1992/93:82 Riksdagens beslut: Bifall till utskottets hemställan 1993-03-24 Protokollshrhummer 1992/93:82</p>
-          <p>Riksdagsskrivelse 1992/93:206</p>
-          <p>1992/93:BoUReg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_BoU/reg_199293_BoU-002.pdf"/>
-          <p>Nr BoU1l1l Vissa anslag till bostadsförsörjningen m.m. (prop. 1992/93:100 bil. 8)</p>
-          <p>Utskottets justering 1993-03-25 Debatt i kammaren 1993-04-15 Protokollsnummer 1992/93:92 Riksdagens beslut: Bifall till utskottets hemställan 1993-04-16 Protokollsnummer 1992/93:93 Riksdagsskrivelse 1992/93:280 Nr BoU12</p>
-          <p>Rennäringslagstiftningen, stöd till rennäringen m.m. (prop. 1992/93:100 bil. 10)</p>
-          <p>Utskottets justering 1993-03-11 Debatt i kammaren 1993-03-24 Protokollshnhummer 1992/93:82 Riksdagens beslut: Bifall till utskottets hemställan 1993-03-24 Protokollshnhummer 1992/93:82 Riksdagsskrivelse 1992/93:215 Nr BoU13</p>
-          <p>Bidrag till fonden för fukt- och mögelskador samt till åtgärder mot radon i bostäder (prop. 1992/93:100 bil. 13)</p>
-          <p>Utskottets justering 1993-03-11 Riksdagens beslut: Bifall till utskottets hemställan 1993-03-24 Protokollsnhummer 1992/93:82 Riksdagsskrivelse 1992/93:216 Nr BoU14</p>
-          <p>Anslag till Lantmäteriverket och Centralnämnden för fastighetsdata m.m. (prop. 1992/93:100 bil. 15)</p>
-          <p>Utskottets justering 1993-03-11 Riksdagens beslut: Bifall till utskottets hemställan 1993-03-24 Protokollshummer 1992/93:82 Riksdagsskrivelse 1992/93:217 Nr BoU15 Allmänna samlingslokaler (prop. 1992/93:100 bil. 14) Utskottets justering 1993-04-01 Debatt i kammaren 1993-04-15 Protokollshnhummer 1992/93:92 Riksdagens beslut: Bifall till utskottets hemställan 1993-04-16 Protokollsnhummer 1992/93:93 Riksdagsskrivelse 1992/93:281 Nr BoU16 Kulturstöd vid ombyggnad m.m. (prop. 1992/93:100 bil. 12) Utskottets justering 1993-04-01 Debatt i kammaren 1993-04-15 Protokollsnummer 1992/93:92</p>
-          <p>Riksdagens beslut: Bifall till utskottets hemställan 1993-04-16</p>
-          <p>1992/93:BoUReg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_BoU/reg_199293_BoU-003.pdf"/>
-          <p>Protokollsnhummer 1992/93:93 Riksdagsskrivelse 1992/93:282 Nr BoU17 Länsstyrelserna m.m. (prop. 1992/93:100 bil. 14) Utskottets justering | 1993-04-01 Debatt i kammaren 1993-04-15 Protokollsnummer 1992/93:92 Riksdagens beslut: Bifall till utskottets hemställan 1993-04-16 Protokollsnhummer 1992/93:93 Riksdagsskrivelse 1992/93:283 Nr BoU18 Plan- och bygglagen m.m. Utskottets justering 1993-04-01 Debatt i kammaren 1993-04-15 Protokollsnummer 1992/93:92 Riksdagens beslut: Bifall till utskottets hemställan 1993-04-16 Protokollsnhummer 1992/93:93 Nr BoU19</p>
-          <p>Minskad statlig reglering av kommunernas ansvar för boendefrågor (prop. 1992/93:242)</p>
-          <p>Utskottets justering 1993-05-13 Debatt i kammaren 1993-05-26 Protokollsnummer 1992/93:116 Riksdagens beslut: Bifall till utskottets hemställan 1993-05-27 Protokollsnummer 1992/93:117 Riksdagsskrivelse 1992/93:351 Nr BoU20</p>
-          <p>Boverket, den regionala bostadspolitiska administrationen samt reglering av vissa bostadslån (prop. 1992/93:172) (prop. 1992/93:167)</p>
-          <p>Utskottets justering 1993-04-15 Debatt i kammaren 1993-04-28 Protokollsnhummer 1992/93:101 Riksdagens beslut: Bifall till utskottets hemställan 1993-04-28 Protokollsnummer 1992/93:101 Riksdagsskrivelse 1992/93:301 Nr BoU21</p>
-          <p>Bostadsbidragens administration — bostadsanpassningsbidrag (prop. 1992/93:100 bil. 6) (prop. 1992/93:174)</p>
-          <p>Utskottets justering 1993-05-18 Debatt i kammaren 1993-06-02 Protokollsnhummer | 1992/93:120 Riksdagens beslut: Bifall till utskottets hemställan 1993-06-02 Protokollsnhummer 1992/93:120</p>
-          <p>Riksdagsskrivelse 1992/93:365</p>
-          <p>1992/93:BoUReg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_BoU/reg_199293_BoU-004.pdf"/>
-          <p>Nr BoU22 Byggfelsförsäkring (prop. 1992/93:121)</p>
-          <p>Utskottets justering 1993-04-15 Debatt i kammaren 1993-04-28 Protokollsnummer 1992/93:101 Riksdagens beslut: Bifall till utskottets hemställan 1993-04-28 Protokollsnummer 1992/93:101 Riksdagsskrivelse 1992/93:302 Nr BoU23 Byggnadsforskningen (prop. 1992/93:170 bil. 12) Utskottets justering 1993-05-25 Debatt i kammaren 1993-06-03 Protokollsnummer 1992/93:121 Riksdagens beslut: Bifall till utskottets hemställan 1993-06-04 Protokollsnummer 1992/93:122 Riksdagsskrivelse 1992/93:401 Nr BoU24 Ändringar i jordabalkens hyresregler (prop. 1992/93:115) Utskottets justering 1993-04-29 Debatt i kammaren 1993-05-26 Protokollsnummer 1992/93:116 Riksdagens beslut: Bifall till utskottets hemställan 1993-05-27 Protokollsnummer 1992/93:117 Riksdagsskrivelse 1992/93:350 Nr BoU2S Uppskov med behandlingen av vissa ärenden Utskottets justering 1993-05-27 Riksdagens beslut: Bifall till utskottets hemställan ' | 1993-06-08 Protokollsnhummer 1992/93:124</p>
-          <p>Yttranden till andra utskott</p>
-          <p>Nr BoUtly till LU (1992/93:LU10) Andrad handels- och föreningsregistrering (prop. 1992/93:27) Utskottets justering 1992-11-10</p>
-          <p>Nr BoU2y till FiU (1992/93:FiU1) Åtgärder för att stimulera den svenska ekonomin (prop. 1992/93:50 bil. 5) Utskottets justering 1992-11-24</p>
-          <p>Nr BoU3y till SkU (1992/93:SkU16) Vissa frågor inför 1994 års allmänna fastighetstaxering, m.m. (prop. 1992/93:122) Utskottets justering 1992-12-01</p>
-          <p>1992/93:BoUReg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_BoU/reg_199293_BoU-005.pdf"/>
-          <p>Nr BoU4y till JoU (1992/93:JoU10) Andring i plan- och bygglagen m.m. (prop. 1992/93:60) Utskottets justering 1992-12-01</p>
-          <p>Nr BoUsSy till LU (1992/93:LU27) Medlemsantalet i ekonomiska föreningar och bostadsrättsföreningar (prop. 1992/93:144) Utskottets justering 1993-02-18</p>
-          <p>Nr BoU6y till SkU (1992/93:SkU30) Vissa bostadsskattefrågor Utskottets justering 1993-03-11</p>
-          <p>Nr BoU7y till JoU (1992/93:JoU14) Riktlinjer för en kretsloppsanpassad samhällsutveckling (prop. 1992/93:180) Utskottets justering 1993-04-20</p>
-          <p>Nr BoU8y till SkU (1992/93:SkU30) Övergång till konventionell beskattning av allmännyttiga bostadsföretag (prop. 1992/93:241) Utskottets justering 1993-05-13</p>
-          <p>Nr BoU9y till FiU (1992/93:FiU30) Förslag i kompletteringspropositionen m.m. avseende bostadsutskottets beredningsområde (prop. 1992/93:150 bil. 1, 8, 10) Utskottets justering 1993-05-13</p>
-          <p>Nr BoU10y till SkU (1992/93:SkU36) Skattereduktion för reparationskostnader m.m. för bostadshus (prop. 1992/93:150 bil. 6) Utskottets justering 1993-05-13</p>
-          <p>1992/93:BoUReg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_BoU/reg_199293_BoU-006.pdf"/>
-          <p>Sakregister</p>
-          <p>Allmänna samlingslokaler aNSlag tillosooosssessessssssresrrrsrrerrrsnrrrnrnnn nr rennn ennen nns renar renen rna beslutsram tillonssossssssssssssssessesresrasnrnnrrrernnsrernerenn eran ene nn anna det kommunala aNSVar€tm.mmmsssssssesesseesrensnennerennsnsnrnrnnn nns handikappanpassning av folkparksteatrar..................... Allmännyttiga bostadsföretag allmännyttans rOllsnsssssssssesssrsrrsssessreresnrnrrnrrrrsenn en nrnnnnnn nn befrielse från stämpelskatt för</p>
-          <p>OMDbIildNiNg AV-ssossosessreseeerrrrrrerrerrrrrrrrrrererrrerrsrrrar narr rn srn nn n nd StÖd tillosssosssssesrereresesrerrerrerrereresrerernrrrnersrsrranenenen en en nen en en enn övergång till konventionell beskattning........................ Anläggningslagen, ändrilg I.ssmsnmsssssssssersrserseenesnesesnsnrnnnrnnnnnnn Anvisningsrättslagen, upphävande av s.mmsseessorersssesrnnnnnrnr Arrendenämnder och hyresnämnder, ändring i lagen</p>
-          <p>Boendekostnadsökningarna, analys av sms Bostadsanpassningsbidrag anslag fillosnossssssssssseesssrsersresenr renen eran reser r nee nn ner ner nen ren nrn nn förslag till läg OM MuMMLsmosessssssessrrrrrersrssnrsnresr ennen nen nn n nn inriktningen av lagregleringen av....msa.sssssseseesssesnssesnnnnn vid elöverkänslighet sssmmmnmssssssssssrsssssnssersrereennnrsnnesrrrnnrnn nn nn vid NYDYggNAd sssssssresessesssrresrensrennnr nen ernrrrernennrsr renen nrn nn n ent Bostadsan visningsrätt, lag om upphävande av lagen om KOMMUNALIsooooeseseressreesererrrrrsnrsresssrserrennnnn nen e reser er r nere ren re renarna Bostadsbidrag ADB-baserat bostadsbidragsregister ..................s.ss.ss-s-0 administrationen AV...osmsmessssssserererersnsrensrenresnnerrenernrn ennen ra aNSlag tillosnmossssssessssseerererrsrrenenrnrerennrnnrernrrnr enn nere nen nn rna nan bostadsadministrationen, ansvaret för på central</p>
-          <p>bostadsbidragsadministrationen, överföring till försäkringskaSSOrNa AV snusmmssssssssssessereressnrenenerrrneserererrrn enn bostadsbidragSlag s.....sssesrsssresersesrennrnsnresrrsnennsrnrnsrrnrnen erna en bostadskostnadSsgränSserf smsmmmmsssssessesersrrerssreerernnrrernersnrrnenn efter en SEparatiODN ....ssssssssosesesneesnassnnnsnnsnnsnnererernrnenrnrnrnnnt förmögenhetens inverkan på hemmavarande barn, det särskilda bidraget för ........... ikraftträdande och övergångsbestämmelser till bostadsbidragslagen sm.msmmmssssrrssrsessserennerrenernernrnnnnnnn nns nn nn inkomstgränser för hushåll utan barn............eeeeee kostnadsansvaret fÖr sesssesssressrerresnrrerrrsnnanennennrnnnnnnnen nn nn nn kretsen av bidragsberättigade................ssssssesssseneosonsennane lagförslag med särskilda bestämmelser för år 1993 ...... lagförslag om särskilt bidrag till ensamstående med [07 V 66 &amp; VR Ar måluppfyllels€.....sssssssossessoeseesrenrenennrannenn ens denn nenerenerennn nn</p>
-          <p>15:4, 9y 15:1 15:2 15:3</p>
-          <p>11:5 19:6 19:6 19:5 8y 1:5 19:8</p>
-          <p>19:8 2, 18:18, 7y</p>
-          <p>2y</p>
-          <p>21:23 4:3—5 4:1 21:24 4:2</p>
-          <p>19:8 21:5 21:3 21:20</p>
-          <p>5:3, 21:4</p>
-          <p>5:1 21:18</p>
-          <p>5:5, 21:9, 21:13</p>
-          <p>21:11 21:7 21:10</p>
-          <p>21:14, 21:15</p>
-          <p>21:12 21:2 5:6, 21:8 5:7</p>
-          <p>5:8 S:4, 21:16</p>
-          <p>1992/93:BoUReg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_BoU/reg_199293_BoU-007.pdf"/>
-          <p>räntefria lån, bostadsbidrag i samband med som bostadspolitiskt instrument ....smsssssessseresrersnnesennnnn utbetalning av sssmomossssesesserersereresrerrrernrrrrrnnn rna nenn nera en nen nn Bostadsbyggande, kreditförsörjning till... ..mmsmssssessssssresesnent Bostadsdomstol, ändring i lagen OM .smsmsrreererrssrererernnsnnsnr Bostadsfinansiering användning av 1992 års regler sm...sssesesersenrsesesesrsnenennnnnn förändringar i systemet fÖr s......sssssesseeserrrrreresrererennnennennn ombyggnad av Småhus ....nssssssesesrsrsessrsenenrrrrernnnrrnnenenen enn riktlinjerna för</p>
-          <p>Utred Ning OM oossosssssesessesrerssrerrrnsrsrersrerr renen rern senere n annen nana Bostadsförmedling principerna för lägenhetsfördelningen................sssseses-+ utformningen av verksamheten s...mmssssesesrssrsrsrennnnnnnnnnn Bostadsförsörjningslagen, upphävande av ...........essseesssensn Bostadsförvaltningslagen ÄNdLING dosoooeeeeeereerressrersrrerrsrrrnrenrnrnrrerrrrasr nanna an nes er none rna ÖVETSYN AV oosmeeosererseesseesssrerasrrrnrrsrrrsnrerrer arr n ennen nen er r eran rn n nn Bostadskooperationens garantifond . Bostadskreditnämnd, Stät€nNS.....sssssssseeesererssrrrsersrsrrenrsrnrnrnnr nn Bostadslån, lagförslag om förvaltningen av ViSSå................ BostadSplan€erilg....ssmssssssssssesssnesrenrennannernesernsrernerrrnen nns nn narr nn Bostadspolitiken Målen fÖro.ossnsesreseerererreresrerresrerererarrerenerer enes en enar en arr n nn nn nen nn regeringens arbete Med ..smmsssssresssesrrsrssensrenrrrrrnnnnnn nn nn nan utformningen av Bostadsproduktionen, mål för</p>
-          <p>Bostadsrätt antal lägenheter vid Ombildning. ........ssssssssesssesersrssnsnnn dubbelupplåtelse aV...mmmmmmnssssrerssosorsrenessresrerererenrsrnerrenen rna nan PantsättNiNg AV-ssoomsssessseseereeersesereserersresrsernsr rss rsr narr nn nns n ant TegiSter ÖVEL soossosesseererererrserrerarrrrrrrerrsrersrrr rer nen nen ennen rna nan rätt för lokalhyresgäst att delta vid ombildning till......</p>
-          <p>Bostadsrättsföreningar lägenhetsantalet i medlemsantal Insssmmssssssessersarrrrsrrrerrrsrenrnnnnnrrrnrrrrn nr nn nr nn rann StÖC tillossososesreeseererrerernrsrernrrrrenenrrrrnrrrenerenen arenan ennen rann nn nn en nn nn Bostadsrättslagen, ändring I.msmsssssssessesressssnersnsrenenrrnennrnnnnn nn nn BostadsskattefrågOr s..........sseseesersrsresesrsrenersrerererenrsenrsrrna ren nrn ena Bostadssubventionerna ANALYS AV ooooooerereeresserserserrerenrersrrrrrrrerrrrsrerrrsrrsarrrn nens nnnn nanna långsiktig utgiftsstrategi för reduktion av år 1993 smssmmsessesesrersrrorerseororererererererenenrerenr en reduktion av år 1994 -mmsssssssssresereerersrsrererererenenennrnerrnn nan Boverket anslag till.sosssssssssessesrssssrrrrrsrrsrnesnr ren rennenrernrnn nen nen nen n enn n nn ann ANSVarsOMFÅdE sossooseseesrerserereerrerrererrrsrersrnrsrerrerrnrener rann nn nn avskaffande av de rådgivande Organen ................s..ooo00ne avveckling av vissa arbetsgrupper. ..........ssssoseossosnnrnnnn nn godkännande- och certifieringsverksamheten inom</p>
-          <p>21:17 5:2, 21:1 21:6 I 19:8, 24:16</p>
-          <p>10:3 11:14 10:8 2y 11:13</p>
-          <p>19:4 19:3 19:7</p>
-          <p>19:8 24:22 11:24, 3y 20:16—17 20:12 11:10</p>
-          <p>11:1 11:3 11:2 11:4</p>
-          <p>5y 25 25</p>
-          <p>1992/93:BoUReg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_BoU/reg_199293_BoU-008.pdf"/>
-          <p>byggOMrådet.........ssssosesesenrenenenenennennennsnennenernennennnnrrennn rensa NettoaviseriNg................s-sss-00s0n&gt; Swedeplan, bolagisering av typgodkännandeverksamheten, lokalisering av ............ viss analysverksamhet Vid usssnmnsssseeressssnrrennnsnrrrnnnnnnsnn nan ärendegrupper avseende Socialdepartementets</p>
-          <p>övergripande målformulering för Boverkets ansvarsområde i Övrigt ............- BrandVvarnar€ snmsssssssesessrssennesneneenernrnnnrnnnnnn BruksvärdeSssystemet........s.sssoosseseseonnennnenennnanrennnennsrnennennnn ennen Byggda miljön, bidrag till internationellt samarbete</p>
-          <p>Byggfelsförsäkring gemensamt försäkringsbeloOpp .......s.ssssssessessenesresennsnnnnnnna ikraftträdande oosomsssssseesresrerenernenrnsnnnenennnesr nn nernnnnen ren n eran nn konkurrensSfrågOr s....m.ssssssesesesesresresneranranennenernennrnrnrn nn nn SJÄlVLISKo ooo esssseeseesresrenrasrenrerennenenr rer nernsnrennrener ennen nn n nn rna in Byggforskning anslag för stöd till... ssssssssssssessesssssesnesnrrnnrrernrrernnnrnnrnr nn nan anslag till SIB ssmnsssssssessseseresessennsnrernnnenrnnnnrnsernnernnrenn nen nrn nn BFR:s förvaltningskostnader s....sseessessesseseersesseesernernnnnnnr ramar för stöd till............ rssressesnssnssersennss nns erssr rer css res nen nr riktlinjer fÖr sssssssssssesrerrassrerreserrnnennn nen nennr aren nns renar nn n nan satsningar på projektområden ..........seessssesssrsesrosernsrnsnnnnt Byggnadsgaranti, se byggfelsförsäkring............s.ssssssersesrrnnnn Byggnadsidentiteter, komplettering av fastighetsdatasystemet Med .....nsnsssssssosssnsesrennesnnrnnennesnennennrnnnnn Byggnadsmaterial, hanteringen av vid rivning m.m. ......... Byggproduktlag........s.sssssesseseanenesnenernrennnrnsnnernnerrnrnrnnnnnern enn n nn</p>
-          <p>Centralnämnden för fastighetsdata ADB-baserade fastighetsregisterkartOr....................+...--- byggnadsidentiteter, komplettering av fastighetsdatasystemet mMed......................- förvaltningskostnader för CFD uppdragsverksamhet Vid ssnmnsnsnsssssrsenenrenennennernernsnenrrnenenennn övergripande målsättningen fÖr s.........sssssssssssrerssrsnnn Certifierings- och godkännandeverksamheten inom byggOmrådet .........sssosorseseseneneneneonenenennanennnenen annans nenen een rn rnrnn nr nn</p>
-          <p>Dagvatten, lokalt omhändertagande av s.smmmmemsersesrerernrnnnnnn Domstolarna m.m. anslag till..ssssssssssssssesesnenenesesrenerernerrenenrrn ennen ennen ere n en enn nan</p>
-          <p>Egenskapskrav på byggnader brand Vvarnar€.....ssssessesrresrresensrenreenr reses nnernn renen ennen nen eran nn DYggreglerha....ssssssoseoseersrennesnrerneennnernsensnrernn rer nn renen nen nn nn in ekologiska principer i byggandet m.m. m.....sssesssssnennnnne elöverkänslighet.......sssssossssresnessrnesnnnennennrnnsnrnernnrnernnrnnnnnn</p>
-          <p>20:7 20:9 20:6 20:8 20:2, 20:4</p>
-          <p>21:22</p>
-          <p>18:17 18:10, 11 18:12 18:14</p>
-          <p>1992/93:BoUReg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_BoU/reg_199293_BoU-009.pdf"/>
-          <p>en förbättrad energihushållning............sssssssssssssessessonsnnn ENErgiråd giVNilg.ossssersrseerersrresrsesesrsrnenerrrnrnnenenenenenenen ennen nn krav på tillgänglighet m........sssssosssesesersrenernnnnsennnrerennnnnn nana källsortering av SOPOT ssssssssssersressnnssessrsnrrenrrnssnnsnnnnnnn rann varudeklaration av bostäder s.........ssessesssssessesssserernsrrnnnnnn Ekokommunprojektet..............ssssssosesoesererserseresnnrssnnsnrsennnnnner Ekologiskt DyYyggande.............ssssossrsessesronssnesnersessssresnnsrnnsrnrnrnnn Ekoparken i StockhOlm......ssssesssseresssrersssernensnessnnessrsrnnernenn nar Elöverkänslighet .ssmnmmsssssssesnsensesesrenesrrsrrrsnerssnnernernnrnrnnennrnnnn nen Energihushållning......sssssssessesessesesrneseersesnsnsrnrnnersnerenrenennrsnrn annen Ener girådgiVNilg .ssmmmsssrssseseseresesesrresersenerserernrn enar nenenennn sn enn nn nn Ersättningsregler för ViltSkaCOL.......ssessorsserserrresreserresrrsnesnenersrrn nns nsn nn nr nnn nn nen i reN Näringslagel m.ssmsmssssssesesrsseressresrsnnsernerrnrnnrrrrrnnnrn nn nnn vid EeXPrOpriatiOn.....s.sssssssseseesssessrsnresrsnesrenesrnnrrnnennsnnnnnn nr vid fastighetsreglerilg........sessssssossssssersrenennernennrsnrnnenrsnnnnnr vid förrättningsförfarandet............ssssssesssssssssssessesessrsnnsrnr Exploateringssamverkan, ändring i lagen Expropriation erSättNiNgSsregler.....ssssssesererererrsersennrrrrrsnernrerrn nn nn uppskov med riksdagsbehandling</p>
-          <p>Fastighetsbeteckningsreformen s...smsssssesssrsenesrsnrsnrsnsrsnsnsnnnnenn Fastighetsbildning ersättningsregler vid fastighetsreglering......................... fastighetsbeteckningsrefOormen ........ssssssssssessssenssesnennnnnnnn genomförande av detaljplan genom fastighetsregleriNg.....sssosssessesnennnsrnrnsrnsnernrnsnnnnrnrsnn ns rr rn arr jordförvärvslagens tillämpning.........sssssessssisessseresnsnsnnnnen nybildning av fastigheter på landsbygden ..................... sockenbegreppet .....s.s.ssssossssessesersesrnrersernesrsrennnennrrnsr nn rn nn en sockenbegreppet i samhällsplaneringen....................... uppskov med riksdagsbehandling..............ssssssssssssssessr0n ändring i lagen OM umsssssseesssssessssrersrserserrerrrnrnrnern er rer nn nan Fastighetsdatasystemet byggnadsidentiteter, komplettering av</p>
-          <p>fastighetsdatasystemet Med..........ssssssesssorensennnsnnrnsnnsnnnnn nan Fastighetsmarknaden, krisen På. ........ssssossesesessesesenessnnnsnnnnnn Fastighetsregisterkartor, överföring av, till ADB-MEediUlmM oossosreeeeseesersrrsssrrarrrrrernsrrnerrerrernrnsrrr rer nrrn nr nr rn nen Fastighetsreglering ersättningsregler Vid sosmsmmmsssessssersersessersesesresnnernrnrsrrnnennnn nen genomförande av detaljplan genom Fastighetsskatt för bostäder och lokaler i hyreshus ............sssssssssssssosnnon vid tillbyggnad av flerbostadshus .............. Fiskesamernas rättigheter ...........s.ss.ssssosssnennenn</p>
-          <p>Folkparksteatrar, handikappanpassning av Fonden för fukt- och mögelskador anslag till.sssosssesssessssssssesernrsereernneerrenrnerrsnnsr nns ner rr rn n enn nerna</p>
-          <p>18:15 18:16 18:13 18:18 18:19 11:12 11:11, 18:12, 7y 25 18:14, 21:24 18:5, 7y 18:16</p>
-          <p>8:19 8:8 1:3 1:2 1:4 1:5</p>
-          <p>1:3 25</p>
-          <p>8:24 14:3</p>
-          <p>13:3</p>
-          <p>1992/93:BoUReg.</p>
-          <p>10</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_BoU/reg_199293_BoU-010.pdf"/>
-          <p>ramen för bidrag tillosnssmsssssssssesssesssrersrensenrrrennnernr ren nrrnnnn ändring i det statliga Stödet..............ssssssesserersersernsnennnrnnnn Fönster, stöd till utbyte av susssmmssssseeseeerrerserennnnrennennrenrrnnrnnsnent Förmånsrätt, ändring i lagen om förmånsrätt för fordran på grund av fastighetsbildning.............sesessessers00nnnn Förvärv av hyresfastigheter, översyn av lagen Om .............. Förvärvslån till barnfamiljer s.smmmmmssssssesesesrenernnennesnsrnrnnnrnnnnnt Gotland, fastighetsbeteckningsreformen på ........................</p>
-          <p>Handels- och föreningsregistren, huvudmannaskapet för . Hyreslagstiftning andrahandsupplåtelse.............sssssssossesessenesnenrsnenenenennnenenen besittningsskyYCCl........sssssseesessessesnnnensnnesrsnnsnnenrnnnerernnnnn nn nn bostadsdomstol, sammansättning ...........ss.essseessesesnesnnnnn bruksvärdessystemet .....ssssssseseranssnrnrernnnsnneesnrrennernennrn nen rnnn byte av bostadslägenhet - byte av bostadslägenhet, ansvaret för hyresskulder ...... deponering av Hyra sm.smnmesssssessrsssrsennrerrnesrernerrrnrerrrnnnnnnen ennen dröjsmål med hyresbetalning ........sssssssssseneseorsrosnsnsnnnnnen förverkandefriSt .......s.sssesreseeseenrransnerrrerresnnrnernnrnennenenenrnnnt</p>
-          <p>kooperativ hyresrätt, ändring i lagerl om... IOKAIer oosossesereresrresrrnrrerrnrsrrennerrenr nere renen ner ren rr nns rr ere n enn renen lokalhyresgäst och Ombildning s.....ssssssesersesserserensrrnnnnnnnn socialnämndens åtagande av betalningsansvar.............. störningar i bOendet ..ssssesseseressererersrreerrrrrrrrrrrrrrer enn ennn nen tidsfrist för SOCialNämnNdenN smommsssesessserseesnnerreserrsrennennrn ent återvinningSfliSt .........eoesssssesssssnsonsnnsnsnrnrnnorsrnenerrnensrnnn ennen</p>
-          <p>Icke-statliga kulturlokaler</p>
-          <p>anslag till.smssssmssssessesseresssnn0n nr beslutsram för stöd till handläggningen av statens stöd till =. mmmms.ssssrerrsnsnnnn Investeringsbidrag, anslag till sm. ommmmssssssessesserrerererererrnrsnnnnnnrnn</p>
-          <p>Jakt och fiske fiskesamernas rättigheter ..smmmmvssssssssssesessrssnrsrrnnnnnsnnn enn rann förbud mot nätfiske................... jakt- och fisketurismen jakt- och fiskevård s..ssnsssssssesrenrennenneneererenrerenernrnnnrern nn nnen rätt till småviltsjakt och fiske smmsmmsmsssssssossrsenenernnnnnnnnnnnnn Jakt- och fiskerättigheter vid avstyckning av fastighet ....... Jordabalken, ändring i hyresreglernNa ..........sssseseesenensnsnnnsnnt Jordförvärvslagen, upphävande av för skogsbruksfastigheter ........s.ssssesesensessnrrnrsrnsrrrnnnnenr enn nnnnnnnnr nan</p>
-          <p>Kommunal bostadsanvisningsrätt, upphävande av lagen</p>
-          <p>13:2 13:1 10:12</p>
-          <p>1:5 24:22 11:22</p>
-          <p>1:9, 1:10, 14:8</p>
-          <p>ly</p>
-          <p>24:14 24:13, 24:14 24:16 24:19 24:11 24:12 24:20 24:1—7 24:2 24:10 24:18 24:15 24:6, 24:21 25 24:4 24:9 24:8 24:3</p>
-          <p>16:4 16:3, 9y 20:10 11:26</p>
-          <p>8:24 8:17 8:36 8:16 8:15 25 19:8, 24</p>
-          <p>25</p>
-          <p>19:8</p>
-          <p>1992/93:BoUReg.</p>
-          <p>11</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_BoU/reg_199293_BoU-011.pdf"/>
-          <p>Kommunal vetorätt enligt NRÅ sossmmnsmmssssssssssresssnssnnernnnnnnnn nn Kommunala bostadsföretag, stöd till............ss--sss-ssssesss200 rn Kommunalt stöd till DOendet smmmmmesssssessrsrersrsrsnnernnernnnnnnn nan KoncessionsrenskÖtS€l....ssssssessssesessesrenesrnenernesnrennnnnerrrrnnrnnnnn Konstnärlig utsmyckning i bostadsområden anslag till bidrag till Kooperativ hyresrätt, ändring i lagen om KreditgarantigivNiNgeh....smmssessseseessessresreresrersrrennrnerrsnrnnnnrnnn nan Kretsloppsprincipen, vid sam hällsplanering..................-...- Kulturstöd vid ombyggnad bidrag till konstnärlig utsmyckning i</p>
-          <p>bostadsOmråden s.ssmssssssrrenersrsrsenenenenennensnnnrnenen nen nn nro e nen ann tillstyrkanderam och anslag tillimnnsmssssssssesssessrersnnrnnnnnnn Kvinnligt företagande m...mmmmmssoseesesesseneesersenerernernnrnnnrnnrnnennnnnnnn Källsorterat avfall, en marknad för Källsortering aV SOPOT smsssnsssseesseseresersnesnnerersresrnsennnnrnrernrnrrn ner Lantmäteritaxan, bidrag till LMV ssmomsmmssssessessrarnrsnnerernnnnnnnn Lantmäteriverket anslag till.sossosssssesseessessrsnerennernernrrrnenrnerernesnnennnnrrrr rr nn rn nen bolagisering av LMV:s uppdragsverksamhet UtOMIlaNdAS..oooeeseeeseesrerrerenresnenreneneenenrennnnen en ernn enn n ennen nen nn nn anat bolagiseringen av kartproduktionen vid LMV m.m.... förvaltningskostnader fÖr s......s.ssssssessrresesrereerernenernennnn nanna Gotland, fastighetsbeteckningsreformen på ..................</p>
-          <p>komplettering av fastighetsdatasystemet med byggnadsidentiteter............s.sssssssssessesersesennnsnnennnsrnrnrnennnnnnn LMV:s underprisSättNiNg......ssesssesesessssennennennnnnnnnrrnnnnn nn nn Östeuropa, fastighetsbildninggsinsatser i Lediga lägenheter, fond fÖr........ssssssessereseserrerrennennnernennennnrn nan Ledningsrättslagen, ändring I smosm..sssssssssssseserersnrennesnernenn nan nnnn Lägenhetsantalet vid Ombildning ......sesseresrenesrseresrsnsnnnnnnnnn Länsbostadsnämnderna anslag till.soossssssssssseserssresnansrennsrnrennrrnrnnernnenn nen nnrrnn rer n rn rna regionala bidragsadministrationen, ändrad länsmyndighet för den</p>
-          <p>Länsindelningen i SKåne......ssssssesssensesessnnnenennenenennnnnnnn anna Länsstyrelserna anslag till.sooosssesssessssrsesrenrernerresasrnrnenrsnenern enn rn nn rn renen nn rann fördelning av länsstyrelseanslaget .......mse.se.sssessensesnnnnnne inriktningen av verksamheten s...mmmnmsserssreserrsrsnrennrnnnnnen länsstyrelseanSlaget ...sssssssssssssseenenenesrenennrnnennnrnnennrnn rn nen nn regional indelning ....sssssssesesresersesernsnrsrennnnnnrnnrnrrnnnrnnn nn stöd till kvinnligt företagande =. .smsmmssssessessersrererrernnnrnnnnnn överföring av handels- och föreningsregistren från ..... Markvillkoret och den kommunala förmedlingsrätten .....</p>
-          <p>Medlemsantalet i bostadsrättsförening................=sss-ss--=---&gt;&gt;&gt;&gt;</p>
-          <p>25 19:5 19:5, 19:8 8:10, 12</p>
-          <p>16:7 16:6 24:15 11:19</p>
-          <p>Ty</p>
-          <p>1992/93:BoUReg.</p>
-          <p>12</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_BoU/reg_199293_BoU-012.pdf"/>
-          <p>Miljökonsekvensbeskrivningar.....mmmmsssssoseosenesnnennenennennnsn annan</p>
-          <p>NaturresursfrågOr s.ssmmensssessereeresrsrereernereresrerrerrennennernrn enn neon nanna Naturresurslagen den kommunala vetorätten ........s...ssesseosasnnennennnennnnnnnnnn ej inskränkning av riksintresse genom översiktsplan .. klassning av Ekoparken som riksintresse ....................- miljökonsekvensbeskrivningar.......ss.ssssosssssssesennennnnnnnn nn prövning av vägar och trafikanläggningar .................... väg till Talma Sameby sussmnsssssssessessresersrerennarnennenennnnn nan nan ändring i lägeN .mmsmmssesseessersersesnrssrererrersnrnr rann nrn rann rn nn nn nanna översyn av NET: FÖRS FOT är</p>
-          <p>OMarrONderiNG.ssseseeseesrerererrrrerserrrsrenrerersrrrrrrrrnrnnrrnnenrenn nr nanna Ombildning av hyresrätt till bostadsrätt antal lägenheter ..ssmmmsssssssrrsrerrrnrensrranrnrrnrsrennenrnenr rr nns annan ann antal medlemmar i bostadsrättsförening ......................- rätt för lokalhyresgäst att delta - Ostindiska hUSCt msmmnnsesssssrrssresnsessesrsnnnnnnrnrrernenr nen nennnnn nn nnnn nn nn</p>
-          <p>Plan- och bygglagen bygglovsbefrielse för tält .............ssssssssseseaseresnennennnnnn anar an byggnation i anslutning till flygfält ........s....s-ss-s-2ss2-2&gt;0 &gt;&gt;&gt; etablering av vindkraftverk smsmmmsssssssssersressrrsnennnennnnnn nn förhandlingsplanering Mb osmesmeessessesserseseresnrnnennenern nen klimatets och luftkvalitetens betydelse i planeringen .. kretsloppsprincipen vid planering.........sssssssssseseoseonesnnnn miljöaspekter vid rivning av byggnader . miljöfrågorna i PBL sssmmssssssessessssresersrnsnsenensennnnrnnnnnn rna nn ann sakägarebegreppet.........ssssssersssesnennerenennrnennerrnenesnrnrrnnnn nn nn skyddsrumsbesked vid bygglovsprövning ...................--- uppföljning av förändringar i PBL avseende kretsloppsprincipen ändring i lagen.................. -</p>
-          <p>Prisstödet till rennäringen till ViSSa F€NÄgare susoossseesrerrerserrrnsereensrrrrenrn enn nernnsnr enn nro rena UtfOrMNiNgeN AV.ouommmmesesseseereersrenenrennnesreenerrennernernn nen rn nen rna</p>
-          <p>Radonbidrag, anslag till sssmsssmssssssssrsererenrssnrnnenennsnsnenenenrn nens RBF-StÖd........s.ssses0sesnsnnan Regional indelning Regionala bidragsadministrationen, ändrad länsmyndighet fÖr s.........sssssessesesssrsrorsrrensnesesnennenerernnrnnnn ennen innn Ren hållningsfrågOr s.........sssssssssossosensnenenensnsnosnsenensnsnnsnnnnnnenn nn Rennäringen</p>
-          <p>anslag till ren NäriNgeN .smmmmsessesssssrrrerserernenerernnernnnrrnnn rna antalet SKÖteSTeNAr ....sssssssseessesssessesrrrrennnrennnerernnrrnn nen nn nr nn barmarkskörning i terrälg s..ssmssssessersennenrnnsnnnnnnnnnnnn nn</p>
-          <p>25, 4y 25</p>
-          <p>25 25 25 25</p>
-          <p>1992/93:BoUReg.</p>
-          <p>13</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_BoU/reg_199293_BoU-013.pdf"/>
-          <p>betesinventerilG.....mmssssessrressresesnsåersesennesnnnrer ere nr enn rrn nn nen</p>
-          <p>ersättning för</p>
-          <p>ViltSKACOTr oooossssssssssersernerernrenrrnrrrrrn nr nr nn nr nn nen</p>
-          <p>ersättningsbestämmelser i rennäringslagen ...................</p>
-          <p>fiskesamerna</p>
-          <p>fiskevårdSsinsatSer .......snssssssosesseserrrenennrnn</p>
-          <p>försäljning av</p>
-          <p>statens mark</p>
-          <p>hänsyn till naturvårdens intreSS€N so msseeersesrsssorernsnsnn</p>
-          <p>jakt och fiske</p>
-          <p>koncessionsrenskÖtsell .......ssssssssssererersrerrerrserrrererserernn rer nr mobila Slakteri€rf......ssnnmsssssereeerrrnnrrrsrererrererrrrrsrrr ner err enn rn rn rn</p>
-          <p>prisstödet till</p>
-          <p>radioaktivt nedfall</p>
-          <p>renägare</p>
-          <p>renforsknNiNgeN sosmesessseresssssssseseersnerrerserennnnnrrnreerer ennen renat rennäringens folkrättsliga skydd ................</p>
-          <p>renskötselrätten en kollektiv rätt samebyns verksamhetsområde</p>
-          <p>samisk turistNärfllg....sosssssseseesrsssrenserrsnesnrrrrrrnnesnernnennnen er</p>
-          <p>skogsrenskötseln småviltsjakt och fiske ............ .</p>
-          <p>statliga informationsinSsatSer s..mmmessssssesereseennnennnrnnnnnnnen ann</p>
-          <p>särskild rätt till fastighet Tjernobylolyckan, ersättningsfrågor</p>
-          <p>utformningen av prisstÖdet............ssssssesssseseseseenensennnnnnnnn</p>
-          <p>utveckling av</p>
-          <p>väg till Talma sameby</p>
-          <p>yttrande i ma</p>
-          <p>åtgärder vid för högt renantal äganderättsfrågor</p>
-          <p>rkanvändningsfrågOr............s.sss-sssesmsnnn</p>
-          <p>äNdrinNg i läg€N.smmmmmssresersssrenrenrrsnrrennrrerernnnrnernnnsnr ren rr nn nnn</p>
-          <p>ökat skydd fö Rennäringslagen</p>
-          <p>r renskötselrätten ...........sssssssosoosonrernnnnnn nan</p>
-          <p>Reparation, om- och tillbyggnad .......sssesssssssrsereesersrenennnnnnnnnn Rikets regionala indelning.....sssssessesressessesrsrnnnsnnennernrnnnnennen</p>
-          <p>Riksförsäkringsverket, anslag till</p>
-          <p>ROT-verksamhet</p>
-          <p>behovet av ett ROT-prOogräalmM....sssssssssssereesernnennennerernennrnr hyreshöjningar vid Ombyggnad s......ssssseseseseeserenernrnnnnnnnnn ikraftträdande av ett ROT-progräam....smsesseeseeseenenrennnnnn investeringsbidrag till äldrebostäder ...............sssssssss2&gt;&gt;&gt;</p>
-          <p>nybyggnadsstöd vid ombyggnad</p>
-          <p>ombyggnad av SMåhuUS s...nmnsssesrsrsrenesrnenennsrerennsnnnnnnnnnnnnn</p>
-          <p>ombyggnad med 1992 års regler</p>
-          <p>RBF-stöd</p>
-          <p>samordning av olika stödformer ..........ssssssesssesrersenennnnnn skattereduktion för reparationskostnader ..............------- stöd till ombyggnader efter år 1994 ..........sssesosoessennnnnnnt utbyte av fÖNSter snmmmmssssseesererrererrerrererrrernnn rr ren n ner n rn rent n nn</p>
-          <p>ROT-åtgärder Räntebidrag anslag till......</p>
-          <p>8:9, 12:3 8:19, 12:5 8:8 8:24, 12:6 12:2 12:11 8:13 12:7 8:10, 8:12 12:9 8:21 12:5 8:28 8:17 8:2 8:18, 12:7, 12:8 12:10 8:25 8:15 8:29 8:3 12:1 8:20 8:30 8:31, 25 8:6 8:9</p>
-          <p>. 84, 12:12, 12:13</p>
-          <p>8:26, 8:27 8:5 8 2y 3:1, 17:3 21:21</p>
-          <p>10:1, 2y 10:10 10:6 10:4, 7 10:11 10:8 10:3 10:2</p>
-          <p>1992/93:BoUReg.</p>
-          <p>14</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_BoU/reg_199293_BoU-014.pdf"/>
-          <p>nettoavisering av räntebidrag enligt äldre regler.......... ombyggnad av SMåhuUS s..s.sssesesessesresesesenrernenrrnsnrnensnsnen norr nn</p>
-          <p>Samfälligheter, ONYttigå sm.ssmmmsssssssssnrssnrsrernesrnnnrrernnnnsnnnrnnnn nn net Samisk kultur sameradio OCh —TV smmossesssesreseessorrerrerrernrrerrrrrennnnnen nr nn nen sameslöjd, biblioteksservice samt Gaaltie — samiskt konst- och kulturcentrum a. .....ss.sssesserssserssserersennsnrnnsnnnn nn</p>
-          <p>Samisk turistnäring oomssseesssssssrrossrrernrsresrrrrnrrrrrsnenrsnrr rn enn n nn Segregering inom bostadssektOrn ...............sssssssssessererssserrsnnn Sekretesslagen, lag om ändring i.......... Skattereduktion för reparationskostnader Slöjdvirke, rätt till sssm.sssssssssssesessesnernersrrrserrenerererrrrer renen enn nn nn nn Socialdepartementet, vissa ärendegrupper Vid.................... Sockenbegreppet i sam hällsplaneringen ............seesensnnnn Statens institut för byggnadsforskning ................ssssssssssssrs Statens råd för byggnadsforskning ...........essssssssssssssesssnsrsnen Statens stöd till byggande av bostäder ..........,.....ss-sssesssemsms0nn Stiftelsen Bostadskooperationens garantifond..................... Studentbostäder ........s.sssssssssesrorsenesrenerrnererrsnrenenrnnsnsnrnsrernren near Stämpelskatt, befrielse från ..............ssssseoeoesrosernenenennnnennnnnnnnen Stöd till icke-statliga kulturlokaler s...ss.ssssessrerersrannsnnannrnnnnn SubventionSräntän....esssssessssssssrrsrersesrenesnsrennerenernrnrr rr rrnr nn nn</p>
-          <p>Talma sameby, väg tillossssssssssssssssessonersrrerrennnernnsnnsnnrrrennrnnen nen Taxering av mark för SMåhuUS.........e.sssesesesesrsrsesesesrnrnrnnnsnnnnn Tillgänglighet, kräv På ..............ssssssssserssssssnnnnnnnr rena Tillståndslagen, ÖVErSYyN QV smmemesseesesenesrsesennenenrnennsnsnrnsnrnsnen Tilläggslån, anslag till..ssssmssssssssssesernesrenenrenennennnernrnrnrnrnrnnnnn nn Torvfyndigheter, ändring i lagen Om ViSSå ...........eesrenen Typgodkännandeverksamheten inom byggområdet, lokaliseringen av Organ fÖr ss .sessssressrrrerrrssrerernenrsnernrnrnnrnnn nn</p>
-          <p>Underhållsåtgärder i bostäder, avdrag mot fastighetsskatt Ungdomsbostäder ...</p>
-          <p>Uppskovsärenden ................- Utvecklingsstörda, bostäder för</p>
-          <p>VA-näten program för reparation av M.M. m.sssmsscersssesesssenenenennnnnnn VDN av bostäder .........essssesseressseserensennesnsnennnn Vindkraftverk, etablering av Vissa lån till bostadsbyggande, anslag till... Väglagen, ändring i......ss.ssssesssssesrrersererrrrerrrrnnnsnrennernnsn ns nrn rent</p>
-          <p>20:9 10:8</p>
-          <p>1:6</p>
-          <p>1992/93:BoUReg.</p>
-          <pb facs="riksdagen-volumeG-pdf/data/199293/reg_199293_BoU/reg_199293_BoU-015.pdf"/>
-          <p>Vättern, skydd QV sssmmnmmsnsessreeseensrnennrsnrernnnrnnennenbennnnerrer ne nnn en nn YsStadS teater smsssssseesesrereseresrernsrenrernrernrernnrnn enn ren nen nen nn ennen nn Ålderdomshem flexibla regler för stödet till.......s...sssssssssessenesosnsnnnnnnnnn nns information om stödet till =. smosssssssssrsessserrssrerrnrenrrsnrenn ran Åtgärder för att stimulera den svenska ekonomin ............. Äldreboende .......mssssssossessrnsenerennsronsrnnnsennnnrnnsrnns nn nerna enn ann Äldrebostäder, investeringsstöd till..........................s....s......</p>
-          <p>Östeuropa, fastighetsbildningsinsatser i Översiktsplan</p>
-          <p>gotab 43978, Stockholm 1993</p>
-          <p>25 16:5 11:8 11:9 2y</p>
-          <p>11:8 10:4, 7</p>
-          <p>14:6 25</p>
-          <p>1992/93:BoUReg.</p>
-          <p>16</p>
+          <p>
+            Bostadsutskottets register vid AN
+          </p>
+          <p>
+            riksmötet 1992/93 7 1992/93 BoUReg. Betänkanden Nr BoU1 Ändringar
+            i fastighetsbildningslagen (prop. 1991/92:127) Utskottets justering
+            1992-11-05 Debatt i kammaren 1992-11-25 Protokollsnhummer 1992/93:31
+            Riksdagens beslut: Bifall till utskottets hemställan 1992-12-02
+            Protokollsnhummer 1992/93:36 Riksdagsskrivelse 1992/93:36 Nr BoU2
+            Vissa renhållningsfrågor Utskottets justering 1992-11-05 Riksdagens
+            beslut: Bifall till utskottets hemställan 1992-12-02 Protokollsnhummer
+            1992/93:36 Riksdagsskrivelse - Nr BoU3 Den regionala indelningen
+            Utskottets justering 1992-11-05 Riksdagens beslut: Bifall till
+            utskottets hemställan 1992-12-02 Protokollsnummer 1992/93:36 Riksdagsskrivelse
+            - Nr BoU4 Bostadsanpassningsbidrag (prop. 1992/93:58) Utskottets
+            justering 1992-12-01 Debatt i kammaren 1992-12-10 Protokollshummer
+            1992/93:42 Riksdagens beslut: Bifall till utskottets hemställan
+            1992-12-10 Protokollsnhummer 1992/93:42 Riksdagsskrivelse 1992/93:98
+            Nr BoUS
+          </p>
+          <p>
+            Ändrade bestämmelser i fråga om bostadsbidrag för år 1993, m.m.
+            (prop. 1992/93:63) Utskottets justering 1992-12-01
+          </p>
+          <p>
+            1 Riksdagen 1992/93. 19 saml. Register
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_BoU/reg_199293_BoU_0001"/>
+          <p>
+            Debatt i kammaren 1992-12-10
+          </p>
+          <p>
+            Protokollsnummer 1992/93:42 Riksdagens beslut: Bifall till utskottets
+            hemställan 1992-12-10 Protokollsnummer 1992/93:42 Riksdagsskrivelse
+            1992/93:99 Nr BoU6 En byggproduktlag (prop. 1992/93:55) Utskottets
+            justering 1992-12-03 Riksdagens beslut: Bifall till utskottets
+            hemställan 1992-12-17 Protokollsnhummer 1992/93:47 Riksdagsskrivelse
+            1992/93:154 Nr BoU7 Utökat älvskydd (prop. 1992/93:80) Utskottets
+            justering 1993-03-11 Debatt i kammaren 1993-03-24 Protokollsnummer
+            1992/93:82 Riksdagens beslut: Bifall till dels res. 1 under mom.
+            2, dels i Övrigt vad utskottet hemställt 1993-03-24 Protokollsnummer
+            1992/93:82 Riksdagsskrivelse 1992/93:214 Nr BoU8 Samerna och samisk
+            kultur m.m. (prop. 1992/93:32 bil. 2, 3) Utskottets justering
+            1992-12-03 Debatt i kammaren 1992-12-15 Protokollsnummer 1992/93:45
+            Riksdagens beslut: Bifall till utskottets hemställan 1992-12-15
+            Protokollsnummer 1992/93:45 Riksdagsskrivelse 1992/93:115 Nr BoU9
+            Vissa villkor för statens stöd till byggande av bostäder Utskottets
+            justering 1992-12-03 Debatt i kammaren 1992-12-10 Protokollsnhummer
+            1992/93:42 Riksdagens beslut: Bifall till utskottets hemställan
+            1992-12-10 Protokollsnummer 1992/93:42 Riksdagsskrivelse 1992/93:76
+            Nr BoU10
+          </p>
+          <p>
+            Ett program för reparation, om- och tillbyggnad av bostäder m.m.
+            (prop. 1992/93:100 bil. 8)
+          </p>
+          <p>
+            Utskottets justering 1993-03-11 Debatt i kammaren 1993-03-24
+            Protokollsnhummer 1992/93:82 Riksdagens beslut: Bifall till utskottets
+            hemställan 1993-03-24 Protokollshrhummer 1992/93:82
+          </p>
+          <p>
+            Riksdagsskrivelse 1992/93:206
+          </p>
+          <p>
+            1992/93:BoUReg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_BoU/reg_199293_BoU_0002"/>
+          <p>
+            Nr BoU1l1l Vissa anslag till bostadsförsörjningen m.m. (prop.
+            1992/93:100 bil. 8)
+          </p>
+          <p>
+            Utskottets justering 1993-03-25 Debatt i kammaren 1993-04-15
+            Protokollsnummer 1992/93:92 Riksdagens beslut: Bifall till utskottets
+            hemställan 1993-04-16 Protokollsnummer 1992/93:93 Riksdagsskrivelse
+            1992/93:280 Nr BoU12
+          </p>
+          <p>
+            Rennäringslagstiftningen, stöd till rennäringen m.m. (prop. 1992/93:100
+            bil. 10)
+          </p>
+          <p>
+            Utskottets justering 1993-03-11 Debatt i kammaren 1993-03-24
+            Protokollshnhummer 1992/93:82 Riksdagens beslut: Bifall till utskottets
+            hemställan 1993-03-24 Protokollshnhummer 1992/93:82 Riksdagsskrivelse
+            1992/93:215 Nr BoU13
+          </p>
+          <p>
+            Bidrag till fonden för fukt- och mögelskador samt till åtgärder
+            mot radon i bostäder (prop. 1992/93:100 bil. 13)
+          </p>
+          <p>
+            Utskottets justering 1993-03-11 Riksdagens beslut: Bifall till
+            utskottets hemställan 1993-03-24 Protokollsnhummer 1992/93:82
+            Riksdagsskrivelse 1992/93:216 Nr BoU14
+          </p>
+          <p>
+            Anslag till Lantmäteriverket och Centralnämnden för fastighetsdata
+            m.m. (prop. 1992/93:100 bil. 15)
+          </p>
+          <p>
+            Utskottets justering 1993-03-11 Riksdagens beslut: Bifall till
+            utskottets hemställan 1993-03-24 Protokollshummer 1992/93:82 Riksdagsskrivelse
+            1992/93:217 Nr BoU15 Allmänna samlingslokaler (prop. 1992/93:100
+            bil. 14) Utskottets justering 1993-04-01 Debatt i kammaren 1993-04-15
+            Protokollshnhummer 1992/93:92 Riksdagens beslut: Bifall till utskottets
+            hemställan 1993-04-16 Protokollsnhummer 1992/93:93 Riksdagsskrivelse
+            1992/93:281 Nr BoU16 Kulturstöd vid ombyggnad m.m. (prop. 1992/93:100
+            bil. 12) Utskottets justering 1993-04-01 Debatt i kammaren 1993-04-15
+            Protokollsnummer 1992/93:92
+          </p>
+          <p>
+            Riksdagens beslut: Bifall till utskottets hemställan 1993-04-16
+          </p>
+          <p>
+            1992/93:BoUReg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_BoU/reg_199293_BoU_0003"/>
+          <p>
+            Protokollsnhummer 1992/93:93 Riksdagsskrivelse 1992/93:282 Nr
+            BoU17 Länsstyrelserna m.m. (prop. 1992/93:100 bil. 14) Utskottets
+            justering | 1993-04-01 Debatt i kammaren 1993-04-15 Protokollsnummer
+            1992/93:92 Riksdagens beslut: Bifall till utskottets hemställan
+            1993-04-16 Protokollsnhummer 1992/93:93 Riksdagsskrivelse 1992/93:283
+            Nr BoU18 Plan- och bygglagen m.m. Utskottets justering 1993-04-01
+            Debatt i kammaren 1993-04-15 Protokollsnummer 1992/93:92 Riksdagens
+            beslut: Bifall till utskottets hemställan 1993-04-16 Protokollsnhummer
+            1992/93:93 Nr BoU19
+          </p>
+          <p>
+            Minskad statlig reglering av kommunernas ansvar för boendefrågor
+            (prop. 1992/93:242)
+          </p>
+          <p>
+            Utskottets justering 1993-05-13 Debatt i kammaren 1993-05-26
+            Protokollsnummer 1992/93:116 Riksdagens beslut: Bifall till utskottets
+            hemställan 1993-05-27 Protokollsnummer 1992/93:117 Riksdagsskrivelse
+            1992/93:351 Nr BoU20
+          </p>
+          <p>
+            Boverket, den regionala bostadspolitiska administrationen samt
+            reglering av vissa bostadslån (prop. 1992/93:172) (prop. 1992/93:167)
+          </p>
+          <p>
+            Utskottets justering 1993-04-15 Debatt i kammaren 1993-04-28
+            Protokollsnhummer 1992/93:101 Riksdagens beslut: Bifall till utskottets
+            hemställan 1993-04-28 Protokollsnummer 1992/93:101 Riksdagsskrivelse
+            1992/93:301 Nr BoU21
+          </p>
+          <p>
+            Bostadsbidragens administration — bostadsanpassningsbidrag (prop.
+            1992/93:100 bil. 6) (prop. 1992/93:174)
+          </p>
+          <p>
+            Utskottets justering 1993-05-18 Debatt i kammaren 1993-06-02
+            Protokollsnhummer | 1992/93:120 Riksdagens beslut: Bifall till
+            utskottets hemställan 1993-06-02 Protokollsnhummer 1992/93:120
+          </p>
+          <p>
+            Riksdagsskrivelse 1992/93:365
+          </p>
+          <p>
+            1992/93:BoUReg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_BoU/reg_199293_BoU_0004"/>
+          <p>
+            Nr BoU22 Byggfelsförsäkring (prop. 1992/93:121)
+          </p>
+          <p>
+            Utskottets justering 1993-04-15 Debatt i kammaren 1993-04-28
+            Protokollsnummer 1992/93:101 Riksdagens beslut: Bifall till utskottets
+            hemställan 1993-04-28 Protokollsnummer 1992/93:101 Riksdagsskrivelse
+            1992/93:302 Nr BoU23 Byggnadsforskningen (prop. 1992/93:170 bil.
+            12) Utskottets justering 1993-05-25 Debatt i kammaren 1993-06-03
+            Protokollsnummer 1992/93:121 Riksdagens beslut: Bifall till utskottets
+            hemställan 1993-06-04 Protokollsnummer 1992/93:122 Riksdagsskrivelse
+            1992/93:401 Nr BoU24 Ändringar i jordabalkens hyresregler (prop.
+            1992/93:115) Utskottets justering 1993-04-29 Debatt i kammaren
+            1993-05-26 Protokollsnummer 1992/93:116 Riksdagens beslut: Bifall
+            till utskottets hemställan 1993-05-27 Protokollsnummer 1992/93:117
+            Riksdagsskrivelse 1992/93:350 Nr BoU2S Uppskov med behandlingen
+            av vissa ärenden Utskottets justering 1993-05-27 Riksdagens beslut:
+            Bifall till utskottets hemställan ' | 1993-06-08 Protokollsnhummer
+            1992/93:124
+          </p>
+          <p>
+            Yttranden till andra utskott
+          </p>
+          <p>
+            Nr BoUtly till LU (1992/93:LU10) Andrad handels- och föreningsregistrering
+            (prop. 1992/93:27) Utskottets justering 1992-11-10
+          </p>
+          <p>
+            Nr BoU2y till FiU (1992/93:FiU1) Åtgärder för att stimulera den
+            svenska ekonomin (prop. 1992/93:50 bil. 5) Utskottets justering
+            1992-11-24
+          </p>
+          <p>
+            Nr BoU3y till SkU (1992/93:SkU16) Vissa frågor inför 1994 års
+            allmänna fastighetstaxering, m.m. (prop. 1992/93:122) Utskottets
+            justering 1992-12-01
+          </p>
+          <p>
+            1992/93:BoUReg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_BoU/reg_199293_BoU_0005"/>
+          <p>
+            Nr BoU4y till JoU (1992/93:JoU10) Andring i plan- och bygglagen
+            m.m. (prop. 1992/93:60) Utskottets justering 1992-12-01
+          </p>
+          <p>
+            Nr BoUsSy till LU (1992/93:LU27) Medlemsantalet i ekonomiska
+            föreningar och bostadsrättsföreningar (prop. 1992/93:144) Utskottets
+            justering 1993-02-18
+          </p>
+          <p>
+            Nr BoU6y till SkU (1992/93:SkU30) Vissa bostadsskattefrågor Utskottets
+            justering 1993-03-11
+          </p>
+          <p>
+            Nr BoU7y till JoU (1992/93:JoU14) Riktlinjer för en kretsloppsanpassad
+            samhällsutveckling (prop. 1992/93:180) Utskottets justering 1993-04-20
+          </p>
+          <p>
+            Nr BoU8y till SkU (1992/93:SkU30) Övergång till konventionell
+            beskattning av allmännyttiga bostadsföretag (prop. 1992/93:241)
+            Utskottets justering 1993-05-13
+          </p>
+          <p>
+            Nr BoU9y till FiU (1992/93:FiU30) Förslag i kompletteringspropositionen
+            m.m. avseende bostadsutskottets beredningsområde (prop. 1992/93:150
+            bil. 1, 8, 10) Utskottets justering 1993-05-13
+          </p>
+          <p>
+            Nr BoU10y till SkU (1992/93:SkU36) Skattereduktion för reparationskostnader
+            m.m. för bostadshus (prop. 1992/93:150 bil. 6) Utskottets justering
+            1993-05-13
+          </p>
+          <p>
+            1992/93:BoUReg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_BoU/reg_199293_BoU_0006"/>
+          <p>
+            Sakregister
+          </p>
+          <p>
+            Allmänna samlingslokaler aNSlag tillosooosssessessssssresrrrsrrerrrsnrrrnrnnn
+            nr rennn ennen nns renar renen rna beslutsram tillonssossssssssssssssessesresrasnrnnrrrernnsrernerenn
+            eran ene nn anna det kommunala aNSVar€tm.mmmsssssssesesseesrensnennerennsnsnrnrnnn
+            nns handikappanpassning av folkparksteatrar.....................
+            Allmännyttiga bostadsföretag allmännyttans rOllsnsssssssssesssrsrrsssessreresnrnrrnrrrrsenn
+            en nrnnnnnn nn befrielse från stämpelskatt för
+          </p>
+          <p>
+            OMDbIildNiNg AV-ssossosessreseeerrrrrrerrerrrrrrrrrrererrrerrsrrrar
+            narr rn srn nn n nd StÖd tillosssosssssesrereresesrerrerrerrereresrerernrrrnersrsrranenenen
+            en en nen en en enn övergång till konventionell beskattning........................
+            Anläggningslagen, ändrilg I.ssmsnmsssssssssersrserseenesnesesnsnrnnnrnnnnnnn
+            Anvisningsrättslagen, upphävande av s.mmsseessorersssesrnnnnnrnr
+            Arrendenämnder och hyresnämnder, ändring i lagen
+          </p>
+          <p>
+            Boendekostnadsökningarna, analys av sms Bostadsanpassningsbidrag
+            anslag fillosnossssssssssseesssrsersresenr renen eran reser r
+            nee nn ner ner nen ren nrn nn förslag till läg OM MuMMLsmosessssssessrrrrrersrssnrsnresr
+            ennen nen nn n nn inriktningen av lagregleringen av....msa.sssssseseesssesnssesnnnnn
+            vid elöverkänslighet sssmmmnmssssssssssrsssssnssersrereennnrsnnesrrrnnrnn
+            nn nn vid NYDYggNAd sssssssresessesssrresrensrennnr nen ernrrrernennrsr
+            renen nrn nn n ent Bostadsan visningsrätt, lag om upphävande av
+            lagen om KOMMUNALIsooooeseseressreesererrrrrsnrsresssrserrennnnn
+            nen e reser er r nere ren re renarna Bostadsbidrag ADB-baserat
+            bostadsbidragsregister ..................s.ss.ss-s-0 administrationen
+            AV...osmsmessssssserererersnsrensrenresnnerrenernrn ennen ra aNSlag
+            tillosnmossssssessssseerererrsrrenenrnrerennrnnrernrrnr enn nere
+            nen nn rna nan bostadsadministrationen, ansvaret för på central
+          </p>
+          <p>
+            bostadsbidragsadministrationen, överföring till försäkringskaSSOrNa
+            AV snusmmssssssssssessereressnrenenerrrneserererrrn enn bostadsbidragSlag
+            s.....sssesrsssresersesrennrnsnresrrsnennsrnrnsrrnrnen erna en
+            bostadskostnadSsgränSserf smsmmmmsssssessesersrrerssreerernnrrernersnrrnenn
+            efter en SEparatiODN ....ssssssssosesesneesnassnnnsnnsnnsnnererernrnenrnrnrnnnt
+            förmögenhetens inverkan på hemmavarande barn, det särskilda bidraget
+            för ........... ikraftträdande och övergångsbestämmelser till
+            bostadsbidragslagen sm.msmmmssssrrssrsessserennerrenernernrnnnnnnn
+            nns nn nn inkomstgränser för hushåll utan barn............eeeeee
+            kostnadsansvaret fÖr sesssesssressrerresnrrerrrsnnanennennrnnnnnnnen
+            nn nn nn kretsen av bidragsberättigade................ssssssesssseneosonsennane
+            lagförslag med särskilda bestämmelser för år 1993 ...... lagförslag
+            om särskilt bidrag till ensamstående med [07 V 66 &amp; VR Ar
+            måluppfyllels€.....sssssssossessoeseesrenrenennrannenn ens denn
+            nenerenerennn nn
+          </p>
+          <p>
+            15:4, 9y 15:1 15:2 15:3
+          </p>
+          <p>
+            11:5 19:6 19:6 19:5 8y 1:5 19:8
+          </p>
+          <p>
+            19:8 2, 18:18, 7y
+          </p>
+          <p>
+            2y
+          </p>
+          <p>
+            21:23 4:3—5 4:1 21:24 4:2
+          </p>
+          <p>
+            19:8 21:5 21:3 21:20
+          </p>
+          <p>
+            5:3, 21:4
+          </p>
+          <p>
+            5:1 21:18
+          </p>
+          <p>
+            5:5, 21:9, 21:13
+          </p>
+          <p>
+            21:11 21:7 21:10
+          </p>
+          <p>
+            21:14, 21:15
+          </p>
+          <p>
+            21:12 21:2 5:6, 21:8 5:7
+          </p>
+          <p>
+            5:8 S:4, 21:16
+          </p>
+          <p>
+            1992/93:BoUReg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_BoU/reg_199293_BoU_0007"/>
+          <p>
+            räntefria lån, bostadsbidrag i samband med som bostadspolitiskt
+            instrument ....smsssssessseresrersnnesennnnn utbetalning av sssmomossssesesserersereresrerrrernrrrrrnnn
+            rna nenn nera en nen nn Bostadsbyggande, kreditförsörjning till...
+            ..mmsmssssessssssresesnent Bostadsdomstol, ändring i lagen OM
+            .smsmsrreererrssrererernnsnnsnr Bostadsfinansiering användning
+            av 1992 års regler sm...sssesesersenrsesesesrsnenennnnnn förändringar
+            i systemet fÖr s......sssssesseeserrrrreresrererennnennennn ombyggnad
+            av Småhus ....nssssssesesrsrsessrsenenrrrrernnnrrnnenenen enn
+            riktlinjerna för
+          </p>
+          <p>
+            Utred Ning OM oossosssssesessesrerssrerrrnsrsrersrerr renen rern
+            senere n annen nana Bostadsförmedling principerna för lägenhetsfördelningen................sssseses-+
+            utformningen av verksamheten s...mmssssesesrssrsrsrennnnnnnnnnn
+            Bostadsförsörjningslagen, upphävande av ...........essseesssensn
+            Bostadsförvaltningslagen ÄNdLING dosoooeeeeeereerressrersrrerrsrrrnrenrnrnrrerrrrasr
+            nanna an nes er none rna ÖVETSYN AV oosmeeosererseesseesssrerasrrrnrrsrrrsnrerrer
+            arr n ennen nen er r eran rn n nn Bostadskooperationens garantifond
+            . Bostadskreditnämnd, Stät€nNS.....sssssssseeesererssrrrsersrsrrenrsrnrnrnnr
+            nn Bostadslån, lagförslag om förvaltningen av ViSSå................
+            BostadSplan€erilg....ssmssssssssssesssnesrenrennannernesernsrernerrrnen
+            nns nn narr nn Bostadspolitiken Målen fÖro.ossnsesreseerererreresrerresrerererarrerenerer
+            enes en enar en arr n nn nn nen nn regeringens arbete Med ..smmsssssresssesrrsrssensrenrrrrrnnnnnn
+            nn nn nan utformningen av Bostadsproduktionen, mål för
+          </p>
+          <p>
+            Bostadsrätt antal lägenheter vid Ombildning. ........ssssssssesssesersrssnsnnn
+            dubbelupplåtelse aV...mmmmmmnssssrerssosorsrenessresrerererenrsrnerrenen
+            rna nan PantsättNiNg AV-ssoomsssessseseereeersesereserersresrsernsr
+            rss rsr narr nn nns n ant TegiSter ÖVEL soossosesseererererrserrerarrrrrrrerrsrersrrr
+            rer nen nen ennen rna nan rätt för lokalhyresgäst att delta vid
+            ombildning till......
+          </p>
+          <p>
+            Bostadsrättsföreningar lägenhetsantalet i medlemsantal Insssmmssssssessersarrrrsrrrerrrsrenrnnnnnrrrnrrrrn
+            nr nn nr nn rann StÖC tillossososesreeseererrerernrsrernrrrrenenrrrrnrrrenerenen
+            arenan ennen rann nn nn en nn nn Bostadsrättslagen, ändring I.msmsssssssessesressssnersnsrenenrrnennrnnnnn
+            nn nn BostadsskattefrågOr s..........sseseesersrsresesrsrenersrerererenrsenrsrrna
+            ren nrn ena Bostadssubventionerna ANALYS AV ooooooerereeresserserserrerenrersrrrrrrrerrrrsrerrrsrrsarrrn
+            nens nnnn nanna långsiktig utgiftsstrategi för reduktion av år
+            1993 smssmmsessesesrersrrorerseororererererererenenrerenr en reduktion
+            av år 1994 -mmsssssssssresereerersrsrererererenenennrnerrnn nan
+            Boverket anslag till.sosssssssssessesrssssrrrrrsrrsrnesnr ren
+            rennenrernrnn nen nen nen n enn n nn ann ANSVarsOMFÅdE sossooseseesrerserereerrerrererrrsrersrnrsrerrerrnrener
+            rann nn nn avskaffande av de rådgivande Organen ................s..ooo00ne
+            avveckling av vissa arbetsgrupper. ..........ssssoseossosnnrnnnn
+            nn godkännande- och certifieringsverksamheten inom
+          </p>
+          <p>
+            21:17 5:2, 21:1 21:6 I 19:8, 24:16
+          </p>
+          <p>
+            10:3 11:14 10:8 2y 11:13
+          </p>
+          <p>
+            19:4 19:3 19:7
+          </p>
+          <p>
+            19:8 24:22 11:24, 3y 20:16—17 20:12 11:10
+          </p>
+          <p>
+            11:1 11:3 11:2 11:4
+          </p>
+          <p>
+            5y 25 25
+          </p>
+          <p>
+            1992/93:BoUReg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_BoU/reg_199293_BoU_0008"/>
+          <p>
+            byggOMrådet.........ssssosesesenrenenenenennennennsnennenernennennnnrrennn
+            rensa NettoaviseriNg................s-sss-00s0n&gt; Swedeplan,
+            bolagisering av typgodkännandeverksamheten, lokalisering av ............
+            viss analysverksamhet Vid usssnmnsssseeressssnrrennnsnrrrnnnnnnsnn
+            nan ärendegrupper avseende Socialdepartementets
+          </p>
+          <p>
+            övergripande målformulering för Boverkets ansvarsområde i Övrigt
+            ............- BrandVvarnar€ snmsssssssesessrssennesneneenernrnnnrnnnnnn
+            BruksvärdeSssystemet........s.sssoosseseseonnennnenennnanrennnennsrnennennnn
+            ennen Byggda miljön, bidrag till internationellt samarbete
+          </p>
+          <p>
+            Byggfelsförsäkring gemensamt försäkringsbeloOpp .......s.ssssssessessenesresennsnnnnnnna
+            ikraftträdande oosomsssssseesresrerenernenrnsnnnenennnesr nn nernnnnen
+            ren n eran nn konkurrensSfrågOr s....m.ssssssesesesesresresneranranennenernennrnrnrn
+            nn nn SJÄlVLISKo ooo esssseeseesresrenrasrenrerennenenr rer nernsnrennrener
+            ennen nn n nn rna in Byggforskning anslag för stöd till... ssssssssssssessesssssesnesnrrnnrrernrrernnnrnnrnr
+            nn nan anslag till SIB ssmnsssssssessseseresessennsnrernnnenrnnnnrnsernnernnrenn
+            nen nrn nn BFR:s förvaltningskostnader s....sseessessesseseersesseesernernnnnnnr
+            ramar för stöd till............ rssressesnssnssersennss nns erssr
+            rer css res nen nr riktlinjer fÖr sssssssssssesrerrassrerreserrnnennn
+            nen nennr aren nns renar nn n nan satsningar på projektområden
+            ..........seessssesssrsesrosernsrnsnnnnt Byggnadsgaranti, se byggfelsförsäkring............s.ssssssersesrrnnnn
+            Byggnadsidentiteter, komplettering av fastighetsdatasystemet Med
+            .....nsnsssssssosssnsesrennesnnrnnennesnennennrnnnnn Byggnadsmaterial,
+            hanteringen av vid rivning m.m. ......... Byggproduktlag........s.sssssesseseanenesnenernrennnrnsnnernnerrnrnrnnnnnern
+            enn n nn
+          </p>
+          <p>
+            Centralnämnden för fastighetsdata ADB-baserade fastighetsregisterkartOr....................+...---
+            byggnadsidentiteter, komplettering av fastighetsdatasystemet mMed......................-
+            förvaltningskostnader för CFD uppdragsverksamhet Vid ssnmnsnsnsssssrsenenrenennennernernsnenrrnenenennn
+            övergripande målsättningen fÖr s.........sssssssssssrerssrsnnn
+            Certifierings- och godkännandeverksamheten inom byggOmrådet .........sssosorseseseneneneneonenenennanennnenen
+            annans nenen een rn rnrnn nr nn
+          </p>
+          <p>
+            Dagvatten, lokalt omhändertagande av s.smmmmemsersesrerernrnnnnnn
+            Domstolarna m.m. anslag till..ssssssssssssssesesnenenesesrenerernerrenenrrn
+            ennen ennen ere n en enn nan
+          </p>
+          <p>
+            Egenskapskrav på byggnader brand Vvarnar€.....ssssessesrresrresensrenreenr
+            reses nnernn renen ennen nen eran nn DYggreglerha....ssssssoseoseersrennesnrerneennnernsensnrernn
+            rer nn renen nen nn nn in ekologiska principer i byggandet m.m.
+            m.....sssesssssnennnnne elöverkänslighet.......sssssossssresnessrnesnnnennennrnnsnrnernnrnernnrnnnnnn
+          </p>
+          <p>
+            20:7 20:9 20:6 20:8 20:2, 20:4
+          </p>
+          <p>
+            21:22
+          </p>
+          <p>
+            18:17 18:10, 11 18:12 18:14
+          </p>
+          <p>
+            1992/93:BoUReg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_BoU/reg_199293_BoU_0009"/>
+          <p>
+            en förbättrad energihushållning............sssssssssssssessessonsnnn
+            ENErgiråd giVNilg.ossssersrseerersrresrsesesrsrnenerrrnrnnenenenenenenen
+            ennen nn krav på tillgänglighet m........sssssosssesesersrenernnnnsennnrerennnnnn
+            nana källsortering av SOPOT ssssssssssersressnnssessrsnrrenrrnssnnsnnnnnnn
+            rann varudeklaration av bostäder s.........ssessesssssessesssserernsrrnnnnnn
+            Ekokommunprojektet..............ssssssosesoesererserseresnnrssnnsnrsennnnnner
+            Ekologiskt DyYyggande.............ssssossrsessesronssnesnersessssresnnsrnnsrnrnrnnn
+            Ekoparken i StockhOlm......ssssesssseresssrersssernensnessnnessrsrnnernenn
+            nar Elöverkänslighet .ssmnmmsssssssesnsensesesrenesrrsrrrsnerssnnernernnrnrnnennrnnnn
+            nen Energihushållning......sssssssessesessesesrneseersesnsnsrnrnnersnerenrenennrsnrn
+            annen Ener girådgiVNilg .ssmmmsssrssseseseresesesrresersenerserernrn
+            enar nenenennn sn enn nn nn Ersättningsregler för ViltSkaCOL.......ssessorsserserrresreserresrrsnesnenersrrn
+            nns nsn nn nr nnn nn nen i reN Näringslagel m.ssmsmssssssesesrsseressresrsnnsernerrnrnnrrrrrnnnrn
+            nn nnn vid EeXPrOpriatiOn.....s.sssssssseseesssessrsnresrsnesrenesrnnrrnnennsnnnnnn
+            nr vid fastighetsreglerilg........sessssssossssssersrenennernennrsnrnnenrsnnnnnr
+            vid förrättningsförfarandet............ssssssesssssssssssessesessrsnnsrnr
+            Exploateringssamverkan, ändring i lagen Expropriation erSättNiNgSsregler.....ssssssesererererrsersennrrrrrsnernrerrn
+            nn nn uppskov med riksdagsbehandling
+          </p>
+          <p>
+            Fastighetsbeteckningsreformen s...smsssssesssrsenesrsnrsnrsnsrsnsnsnnnnenn
+            Fastighetsbildning ersättningsregler vid fastighetsreglering.........................
+            fastighetsbeteckningsrefOormen ........ssssssssssessssenssesnennnnnnnn
+            genomförande av detaljplan genom fastighetsregleriNg.....sssosssessesnennnsrnrnsrnsnernrnsnnnnrnrsnn
+            ns rr rn arr jordförvärvslagens tillämpning.........sssssessssisessseresnsnsnnnnen
+            nybildning av fastigheter på landsbygden .....................
+            sockenbegreppet .....s.s.ssssossssessesersesrnrersernesrsrennnennrrnsr
+            nn rn nn en sockenbegreppet i samhällsplaneringen.......................
+            uppskov med riksdagsbehandling..............ssssssssssssssessr0n
+            ändring i lagen OM umsssssseesssssessssrersrserserrerrrnrnrnern
+            er rer nn nan Fastighetsdatasystemet byggnadsidentiteter, komplettering
+            av
+          </p>
+          <p>
+            fastighetsdatasystemet Med..........ssssssesssorensennnsnnrnsnnsnnnnn
+            nan Fastighetsmarknaden, krisen På. ........ssssossesesessesesenessnnnsnnnnnn
+            Fastighetsregisterkartor, överföring av, till ADB-MEediUlmM oossosreeeeseesersrrsssrrarrrrrernsrrnerrerrernrnsrrr
+            rer nrrn nr nr rn nen Fastighetsreglering ersättningsregler Vid
+            sosmsmmmsssessssersersessersesesresnnernrnrsrrnnennnn nen genomförande
+            av detaljplan genom Fastighetsskatt för bostäder och lokaler i
+            hyreshus ............sssssssssssssosnnon vid tillbyggnad av flerbostadshus
+            .............. Fiskesamernas rättigheter ...........s.ss.ssssosssnennenn
+          </p>
+          <p>
+            Folkparksteatrar, handikappanpassning av Fonden för fukt- och
+            mögelskador anslag till.sssosssesssessssssssesernrsereernneerrenrnerrsnnsr
+            nns ner rr rn n enn nerna
+          </p>
+          <p>
+            18:15 18:16 18:13 18:18 18:19 11:12 11:11, 18:12, 7y 25 18:14,
+            21:24 18:5, 7y 18:16
+          </p>
+          <p>
+            8:19 8:8 1:3 1:2 1:4 1:5
+          </p>
+          <p>
+            1:3 25
+          </p>
+          <p>
+            8:24 14:3
+          </p>
+          <p>
+            13:3
+          </p>
+          <p>
+            1992/93:BoUReg.
+          </p>
+          <p>
+            10
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_BoU/reg_199293_BoU_0010"/>
+          <p>
+            ramen för bidrag tillosnssmsssssssssesssesssrersrensenrrrennnernr
+            ren nrrnnnn ändring i det statliga Stödet..............ssssssesserersersernsnennnrnnnn
+            Fönster, stöd till utbyte av susssmmssssseeseeerrerserennnnrennennrenrrnnrnnsnent
+            Förmånsrätt, ändring i lagen om förmånsrätt för fordran på grund
+            av fastighetsbildning.............sesessessers00nnnn Förvärv av
+            hyresfastigheter, översyn av lagen Om .............. Förvärvslån
+            till barnfamiljer s.smmmmmssssssesesesrenernnennesnsrnrnnnrnnnnnt
+            Gotland, fastighetsbeteckningsreformen på ........................
+          </p>
+          <p>
+            Handels- och föreningsregistren, huvudmannaskapet för . Hyreslagstiftning
+            andrahandsupplåtelse.............sssssssossesessenesnenrsnenenenennnenenen
+            besittningsskyYCCl........sssssseesessessesnnnensnnesrsnnsnnenrnnnerernnnnn
+            nn nn bostadsdomstol, sammansättning ...........ss.essseessesesnesnnnnn
+            bruksvärdessystemet .....ssssssseseranssnrnrernnnsnneesnrrennernennrn
+            nen rnnn byte av bostadslägenhet - byte av bostadslägenhet, ansvaret
+            för hyresskulder ...... deponering av Hyra sm.smnmesssssessrsssrsennrerrnesrernerrrnrerrrnnnnnnen
+            ennen dröjsmål med hyresbetalning ........sssssssssseneseorsrosnsnsnnnnnen
+            förverkandefriSt .......s.sssesreseeseenrransnerrrerresnnrnernnrnennenenenrnnnt
+          </p>
+          <p>
+            kooperativ hyresrätt, ändring i lagerl om... IOKAIer oosossesereresrresrrnrrerrnrsrrennerrenr
+            nere renen ner ren rr nns rr ere n enn renen lokalhyresgäst och
+            Ombildning s.....ssssssesersesserserensrrnnnnnnnn socialnämndens
+            åtagande av betalningsansvar.............. störningar i bOendet
+            ..ssssesseseressererersrreerrrrrrrrrrrrrrer enn ennn nen tidsfrist
+            för SOCialNämnNdenN smommsssesessserseesnnerreserrsrennennrn ent
+            återvinningSfliSt .........eoesssssesssssnsonsnnsnsnrnrnnorsrnenerrnensrnnn
+            ennen
+          </p>
+          <p>
+            Icke-statliga kulturlokaler
+          </p>
+          <p>
+            anslag till.smssssmssssessesseresssnn0n nr beslutsram för stöd
+            till handläggningen av statens stöd till =. mmmms.ssssrerrsnsnnnn
+            Investeringsbidrag, anslag till sm. ommmmssssssessesserrerererererrnrsnnnnnnrnn
+          </p>
+          <p>
+            Jakt och fiske fiskesamernas rättigheter ..smmmmvssssssssssesessrssnrsrrnnnnnsnnn
+            enn rann förbud mot nätfiske................... jakt- och fisketurismen
+            jakt- och fiskevård s..ssnsssssssesrenrennenneneererenrerenernrnnnrern
+            nn nnen rätt till småviltsjakt och fiske smmsmmsmsssssssossrsenenernnnnnnnnnnnnn
+            Jakt- och fiskerättigheter vid avstyckning av fastighet .......
+            Jordabalken, ändring i hyresreglernNa ..........sssseseesenensnsnnnsnnt
+            Jordförvärvslagen, upphävande av för skogsbruksfastigheter ........s.ssssesesensessnrrnrsrnsrrrnnnnenr
+            enn nnnnnnnnr nan
+          </p>
+          <p>
+            Kommunal bostadsanvisningsrätt, upphävande av lagen
+          </p>
+          <p>
+            13:2 13:1 10:12
+          </p>
+          <p>
+            1:5 24:22 11:22
+          </p>
+          <p>
+            1:9, 1:10, 14:8
+          </p>
+          <p>
+            ly
+          </p>
+          <p>
+            24:14 24:13, 24:14 24:16 24:19 24:11 24:12 24:20 24:1—7 24:2
+            24:10 24:18 24:15 24:6, 24:21 25 24:4 24:9 24:8 24:3
+          </p>
+          <p>
+            16:4 16:3, 9y 20:10 11:26
+          </p>
+          <p>
+            8:24 8:17 8:36 8:16 8:15 25 19:8, 24
+          </p>
+          <p>
+            25
+          </p>
+          <p>
+            19:8
+          </p>
+          <p>
+            1992/93:BoUReg.
+          </p>
+          <p>
+            11
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_BoU/reg_199293_BoU_0011"/>
+          <p>
+            Kommunal vetorätt enligt NRÅ sossmmnsmmssssssssssresssnssnnernnnnnnnn
+            nn Kommunala bostadsföretag, stöd till............ss--sss-ssssesss200
+            rn Kommunalt stöd till DOendet smmmmmesssssessrsrersrsrsnnernnernnnnnnn
+            nan KoncessionsrenskÖtS€l....ssssssessssesessesrenesrnenernesnrennnnnerrrrnnrnnnnn
+            Konstnärlig utsmyckning i bostadsområden anslag till bidrag till
+            Kooperativ hyresrätt, ändring i lagen om KreditgarantigivNiNgeh....smmssessseseessessresreresrersrrennrnerrsnrnnnnrnnn
+            nan Kretsloppsprincipen, vid sam hällsplanering..................-...-
+            Kulturstöd vid ombyggnad bidrag till konstnärlig utsmyckning i
+          </p>
+          <p>
+            bostadsOmråden s.ssmssssssrrenersrsrsenenenenennensnnnrnenen
+            nen nn nro e nen ann tillstyrkanderam och anslag tillimnnsmssssssssesssessrersnnrnnnnnnn
+            Kvinnligt företagande m...mmmmmssoseesesesseneesersenerernernnrnnnrnnrnnennnnnnnn
+            Källsorterat avfall, en marknad för Källsortering aV SOPOT smsssnsssseesseseresersnesnnerersresrnsennnnrnrernrnrrn
+            ner Lantmäteritaxan, bidrag till LMV ssmomsmmssssessessrarnrsnnerernnnnnnnn
+            Lantmäteriverket anslag till.sossosssssesseessessrsnerennernernrrrnenrnerernesnnennnnrrrr
+            rr nn rn nen bolagisering av LMV:s uppdragsverksamhet UtOMIlaNdAS..oooeeseeeseesrerrerenresnenreneneenenrennnnen
+            en ernn enn n ennen nen nn nn anat bolagiseringen av kartproduktionen
+            vid LMV m.m.... förvaltningskostnader fÖr s......s.ssssssessrresesrereerernenernennnn
+            nanna Gotland, fastighetsbeteckningsreformen på ..................
+          </p>
+          <p>
+            komplettering av fastighetsdatasystemet med byggnadsidentiteter............s.sssssssssessesersesennnsnnennnsrnrnrnennnnnnn
+            LMV:s underprisSättNiNg......ssesssesesessssennennennnnnnnnrrnnnnn
+            nn nn Östeuropa, fastighetsbildninggsinsatser i Lediga lägenheter,
+            fond fÖr........ssssssessereseserrerrennennnernennennnrn nan Ledningsrättslagen,
+            ändring I smosm..sssssssssssseserersnrennesnernenn nan nnnn Lägenhetsantalet
+            vid Ombildning ......sesseresrenesrseresrsnsnnnnnnnnn Länsbostadsnämnderna
+            anslag till.soossssssssssseserssresnansrennsrnrennrrnrnnernnenn
+            nen nnrrnn rer n rn rna regionala bidragsadministrationen, ändrad
+            länsmyndighet för den
+          </p>
+          <p>
+            Länsindelningen i SKåne......ssssssesssensesessnnnenennenenennnnnnnn
+            anna Länsstyrelserna anslag till.sooosssesssessssrsesrenrernerresasrnrnenrsnenern
+            enn rn nn rn renen nn rann fördelning av länsstyrelseanslaget
+            .......mse.se.sssessensesnnnnnne inriktningen av verksamheten
+            s...mmmnmsserssreserrsrsnrennrnnnnnen länsstyrelseanSlaget ...sssssssssssssseenenenesrenennrnnennnrnnennrnn
+            rn nen nn regional indelning ....sssssssesesresersesernsnrsrennnnnnrnnrnrrnnnrnnn
+            nn stöd till kvinnligt företagande =. .smsmmssssessessersrererrernnnrnnnnnn
+            överföring av handels- och föreningsregistren från ..... Markvillkoret
+            och den kommunala förmedlingsrätten .....
+          </p>
+          <p>
+            Medlemsantalet i bostadsrättsförening................=sss-ss--=---&gt;&gt;&gt;&gt;
+          </p>
+          <p>
+            25 19:5 19:5, 19:8 8:10, 12
+          </p>
+          <p>
+            16:7 16:6 24:15 11:19
+          </p>
+          <p>
+            Ty
+          </p>
+          <p>
+            1992/93:BoUReg.
+          </p>
+          <p>
+            12
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_BoU/reg_199293_BoU_0012"/>
+          <p>
+            Miljökonsekvensbeskrivningar.....mmmmsssssoseosenesnnennenennennnsn
+            annan
+          </p>
+          <p>
+            NaturresursfrågOr s.ssmmensssessereeresrsrereernereresrerrerrennennernrn
+            enn neon nanna Naturresurslagen den kommunala vetorätten ........s...ssesseosasnnennennnennnnnnnnnn
+            ej inskränkning av riksintresse genom översiktsplan .. klassning
+            av Ekoparken som riksintresse ....................- miljökonsekvensbeskrivningar.......ss.ssssosssssssesennennnnnnnn
+            nn prövning av vägar och trafikanläggningar ....................
+            väg till Talma Sameby sussmnsssssssessessresersrerennarnennenennnnn
+            nan nan ändring i lägeN .mmsmmssesseessersersesnrssrererrersnrnr
+            rann nrn rann rn nn nn nanna översyn av NET: FÖRS FOT är
+          </p>
+          <p>
+            OMarrONderiNG.ssseseeseesrerererrrrerserrrsrenrerersrrrrrrrrnrnnrrnnenrenn
+            nr nanna Ombildning av hyresrätt till bostadsrätt antal lägenheter
+            ..ssmmmsssssssrrsrerrrnrensrranrnrrnrsrennenrnenr rr nns annan
+            ann antal medlemmar i bostadsrättsförening ......................-
+            rätt för lokalhyresgäst att delta - Ostindiska hUSCt msmmnnsesssssrrssresnsessesrsnnnnnnrnrrernenr
+            nen nennnnn nn nnnn nn nn
+          </p>
+          <p>
+            Plan- och bygglagen bygglovsbefrielse för tält .............ssssssssseseaseresnennennnnnn
+            anar an byggnation i anslutning till flygfält ........s....s-ss-s-2ss2-2&gt;0
+            &gt;&gt;&gt; etablering av vindkraftverk smsmmmsssssssssersressrrsnennnennnnnn
+            nn förhandlingsplanering Mb osmesmeessessesserseseresnrnnennenern
+            nen klimatets och luftkvalitetens betydelse i planeringen .. kretsloppsprincipen
+            vid planering.........sssssssssseseoseonesnnnn miljöaspekter vid
+            rivning av byggnader . miljöfrågorna i PBL sssmmssssssessessssresersrnsnsenensennnnrnnnnnn
+            rna nn ann sakägarebegreppet.........ssssssersssesnennerenennrnennerrnenesnrnrrnnnn
+            nn nn skyddsrumsbesked vid bygglovsprövning ...................---
+            uppföljning av förändringar i PBL avseende kretsloppsprincipen
+            ändring i lagen.................. -
+          </p>
+          <p>
+            Prisstödet till rennäringen till ViSSa F€NÄgare susoossseesrerrerserrrnsereensrrrrenrn
+            enn nernnsnr enn nro rena UtfOrMNiNgeN AV.ouommmmesesseseereersrenenrennnesreenerrennernernn
+            nen rn nen rna
+          </p>
+          <p>
+            Radonbidrag, anslag till sssmsssmssssssssrsererenrssnrnnenennsnsnenenenrn
+            nens RBF-StÖd........s.ssses0sesnsnnan Regional indelning Regionala
+            bidragsadministrationen, ändrad länsmyndighet fÖr s.........sssssessesesssrsrorsrrensnesesnennenerernnrnnnn
+            ennen innn Ren hållningsfrågOr s.........sssssssssossosensnenenensnsnosnsenensnsnnsnnnnnnenn
+            nn Rennäringen
+          </p>
+          <p>
+            anslag till ren NäriNgeN .smmmmsessesssssrrrerserernenerernnernnnrrnnn
+            rna antalet SKÖteSTeNAr ....sssssssseessesssessesrrrrennnrennnerernnrrnn
+            nen nn nr nn barmarkskörning i terrälg s..ssmssssessersennenrnnsnnnnnnnnnnnn
+            nn
+          </p>
+          <p>
+            25, 4y 25
+          </p>
+          <p>
+            25 25 25 25
+          </p>
+          <p>
+            1992/93:BoUReg.
+          </p>
+          <p>
+            13
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_BoU/reg_199293_BoU_0013"/>
+          <p>
+            betesinventerilG.....mmssssessrressresesnsåersesennesnnnrer ere
+            nr enn rrn nn nen
+          </p>
+          <p>
+            ersättning för
+          </p>
+          <p>
+            ViltSKACOTr oooossssssssssersernerernrenrrnrrrrrn nr nr nn nr
+            nn nen
+          </p>
+          <p>
+            ersättningsbestämmelser i rennäringslagen ...................
+          </p>
+          <p>
+            fiskesamerna
+          </p>
+          <p>
+            fiskevårdSsinsatSer .......snssssssosesseserrrenennrnn
+          </p>
+          <p>
+            försäljning av
+          </p>
+          <p>
+            statens mark
+          </p>
+          <p>
+            hänsyn till naturvårdens intreSS€N so msseeersesrsssorernsnsnn
+          </p>
+          <p>
+            jakt och fiske
+          </p>
+          <p>
+            koncessionsrenskÖtsell .......ssssssssssererersrerrerrserrrererserernn
+            rer nr mobila Slakteri€rf......ssnnmsssssereeerrrnnrrrsrererrererrrrrsrrr
+            ner err enn rn rn rn
+          </p>
+          <p>
+            prisstödet till
+          </p>
+          <p>
+            radioaktivt nedfall
+          </p>
+          <p>
+            renägare
+          </p>
+          <p>
+            renforsknNiNgeN sosmesessseresssssssseseersnerrerserennnnnrrnreerer
+            ennen renat rennäringens folkrättsliga skydd ................
+          </p>
+          <p>
+            renskötselrätten en kollektiv rätt samebyns verksamhetsområde
+          </p>
+          <p>
+            samisk turistNärfllg....sosssssseseesrsssrenserrsnesnrrrrrrnnesnernnennnen
+            er
+          </p>
+          <p>
+            skogsrenskötseln småviltsjakt och fiske ............ .
+          </p>
+          <p>
+            statliga informationsinSsatSer s..mmmessssssesereseennnennnrnnnnnnnen
+            ann
+          </p>
+          <p>
+            särskild rätt till fastighet Tjernobylolyckan, ersättningsfrågor
+          </p>
+          <p>
+            utformningen av prisstÖdet............ssssssesssseseseseenensennnnnnnnn
+          </p>
+          <p>
+            utveckling av
+          </p>
+          <p>
+            väg till Talma sameby
+          </p>
+          <p>
+            yttrande i ma
+          </p>
+          <p>
+            åtgärder vid för högt renantal äganderättsfrågor
+          </p>
+          <p>
+            rkanvändningsfrågOr............s.sss-sssesmsnnn
+          </p>
+          <p>
+            äNdrinNg i läg€N.smmmmmssresersssrenrenrrsnrrennrrerernnnrnernnnsnr
+            ren rr nn nnn
+          </p>
+          <p>
+            ökat skydd fö Rennäringslagen
+          </p>
+          <p>
+            r renskötselrätten ...........sssssssosoosonrernnnnnn nan
+          </p>
+          <p>
+            Reparation, om- och tillbyggnad .......sssesssssssrsereesersrenennnnnnnnnn
+            Rikets regionala indelning.....sssssessesressessesrsrnnnsnnennernrnnnnennen
+          </p>
+          <p>
+            Riksförsäkringsverket, anslag till
+          </p>
+          <p>
+            ROT-verksamhet
+          </p>
+          <p>
+            behovet av ett ROT-prOogräalmM....sssssssssssereesernnennennerernennrnr
+            hyreshöjningar vid Ombyggnad s......ssssseseseseeserenernrnnnnnnnnn
+            ikraftträdande av ett ROT-progräam....smsesseeseeseenenrennnnnn
+            investeringsbidrag till äldrebostäder ...............sssssssss2&gt;&gt;&gt;
+          </p>
+          <p>
+            nybyggnadsstöd vid ombyggnad
+          </p>
+          <p>
+            ombyggnad av SMåhuUS s...nmnsssesrsrsrenesrnenennsrerennsnnnnnnnnnnnnn
+          </p>
+          <p>
+            ombyggnad med 1992 års regler
+          </p>
+          <p>
+            RBF-stöd
+          </p>
+          <p>
+            samordning av olika stödformer ..........ssssssesssesrersenennnnnn
+            skattereduktion för reparationskostnader ..............-------
+            stöd till ombyggnader efter år 1994 ..........sssesosoessennnnnnnt
+            utbyte av fÖNSter snmmmmssssseesererrererrerrererrrernnn rr ren
+            n ner n rn rent n nn
+          </p>
+          <p>
+            ROT-åtgärder Räntebidrag anslag till......
+          </p>
+          <p>
+            8:9, 12:3 8:19, 12:5 8:8 8:24, 12:6 12:2 12:11 8:13 12:7 8:10,
+            8:12 12:9 8:21 12:5 8:28 8:17 8:2 8:18, 12:7, 12:8 12:10 8:25
+            8:15 8:29 8:3 12:1 8:20 8:30 8:31, 25 8:6 8:9
+          </p>
+          <p>
+            . 84, 12:12, 12:13
+          </p>
+          <p>
+            8:26, 8:27 8:5 8 2y 3:1, 17:3 21:21
+          </p>
+          <p>
+            10:1, 2y 10:10 10:6 10:4, 7 10:11 10:8 10:3 10:2
+          </p>
+          <p>
+            1992/93:BoUReg.
+          </p>
+          <p>
+            14
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_BoU/reg_199293_BoU_0014"/>
+          <p>
+            nettoavisering av räntebidrag enligt äldre regler.......... ombyggnad
+            av SMåhuUS s..s.sssesesessesresesesenrernenrrnsnrnensnsnen norr
+            nn
+          </p>
+          <p>
+            Samfälligheter, ONYttigå sm.ssmmmsssssssssnrssnrsrernesrnnnrrernnnnsnnnrnnnn
+            nn net Samisk kultur sameradio OCh —TV smmossesssesreseessorrerrerrernrrerrrrrennnnnen
+            nr nn nen sameslöjd, biblioteksservice samt Gaaltie — samiskt
+            konst- och kulturcentrum a. .....ss.sssesserssserssserersennsnrnnsnnnn
+            nn
+          </p>
+          <p>
+            Samisk turistnäring oomssseesssssssrrossrrernrsresrrrrnrrrrrsnenrsnrr
+            rn enn n nn Segregering inom bostadssektOrn ...............sssssssssessererssserrsnnn
+            Sekretesslagen, lag om ändring i.......... Skattereduktion för
+            reparationskostnader Slöjdvirke, rätt till sssm.sssssssssssesessesnernersrrrserrenerererrrrer
+            renen enn nn nn nn Socialdepartementet, vissa ärendegrupper Vid....................
+            Sockenbegreppet i sam hällsplaneringen ............seesensnnnn
+            Statens institut för byggnadsforskning ................ssssssssssssrs
+            Statens råd för byggnadsforskning ...........essssssssssssssesssnsrsnen
+            Statens stöd till byggande av bostäder ..........,.....ss-sssesssemsms0nn
+            Stiftelsen Bostadskooperationens garantifond.....................
+            Studentbostäder ........s.sssssssssesrorsenesrenerrnererrsnrenenrnnsnsnrnsrernren
+            near Stämpelskatt, befrielse från ..............ssssseoeoesrosernenenennnnennnnnnnnen
+            Stöd till icke-statliga kulturlokaler s...ss.ssssessrerersrannsnnannrnnnnn
+            SubventionSräntän....esssssessssssssrrsrersesrenesnsrennerenernrnrr
+            rr rrnr nn nn
+          </p>
+          <p>
+            Talma sameby, väg tillossssssssssssssssessonersrrerrennnernnsnnsnnrrrennrnnen
+            nen Taxering av mark för SMåhuUS.........e.sssesesesesrsrsesesesrnrnrnnnsnnnnn
+            Tillgänglighet, kräv På ..............ssssssssserssssssnnnnnnnr
+            rena Tillståndslagen, ÖVErSYyN QV smmemesseesesenesrsesennenenrnennsnsnrnsnrnsnen
+            Tilläggslån, anslag till..ssssmssssssssssesernesrenenrenennennnernrnrnrnrnrnnnnn
+            nn Torvfyndigheter, ändring i lagen Om ViSSå ...........eesrenen
+            Typgodkännandeverksamheten inom byggområdet, lokaliseringen av
+            Organ fÖr ss .sessssressrrrerrrssrerernenrsnernrnrnnrnnn nn
+          </p>
+          <p>
+            Underhållsåtgärder i bostäder, avdrag mot fastighetsskatt Ungdomsbostäder
+            ...
+          </p>
+          <p>
+            Uppskovsärenden ................- Utvecklingsstörda, bostäder
+            för
+          </p>
+          <p>
+            VA-näten program för reparation av M.M. m.sssmsscersssesesssenenenennnnnnn
+            VDN av bostäder .........essssesseressseserensennesnsnennnn Vindkraftverk,
+            etablering av Vissa lån till bostadsbyggande, anslag till... Väglagen,
+            ändring i......ss.ssssesssssesrrersererrrrerrrrnnnsnrennernnsn
+            ns nrn rent
+          </p>
+          <p>
+            20:9 10:8
+          </p>
+          <p>
+            1:6
+          </p>
+          <p>
+            1992/93:BoUReg.
+          </p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293_BoU/reg_199293_BoU_0015"/>
+          <p>
+            Vättern, skydd QV sssmmnmmsnsessreeseensrnennrsnrernnnrnnennenbennnnerrer
+            ne nnn en nn YsStadS teater smsssssseesesrereseresrernsrenrernrernrernnrnn
+            enn ren nen nen nn ennen nn Ålderdomshem flexibla regler för stödet
+            till.......s...sssssssssessenesosnsnnnnnnnnn nns information om
+            stödet till =. smosssssssssrsessserrssrerrnrenrrsnrenn ran Åtgärder
+            för att stimulera den svenska ekonomin ............. Äldreboende
+            .......mssssssossessrnsenerennsronsrnnnsennnnrnnsrnns nn nerna
+            enn ann Äldrebostäder, investeringsstöd till..........................s....s......
+          </p>
+          <p>
+            Östeuropa, fastighetsbildningsinsatser i Översiktsplan
+          </p>
+          <p>
+            gotab 43978, Stockholm 1993
+          </p>
+          <p>
+            25 16:5 11:8 11:9 2y
+          </p>
+          <p>
+            11:8 10:4, 7
+          </p>
+          <p>
+            14:6 25
+          </p>
+          <p>
+            1992/93:BoUReg.
+          </p>
+          <p>
+            16
+          </p>
         </div>
       </div>
     </body>
