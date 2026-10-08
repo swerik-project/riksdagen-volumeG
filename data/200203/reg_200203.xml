@@ -19,7 +19,7 @@
   </teiHeader>
   <text>
     <body>
-      <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/200203/reg_200203/reg_200203_0000"/>
+      <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/200203/reg_200203/reg_200203_0001"/>
       <div type="gBody">
         <div>
           <p>
@@ -34,11 +34,10 @@
           <p>
             Band G
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/200203/reg_200203/reg_200203_0001"/>
           <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/200203/reg_200203/reg_200203_0002"/>
-          <p>
+          <head type="toc">
             Innehåll
-          </p>
+          </head>
           <p>
             Om den nya förteckningen över det bundna riksdagstrycket fr.o.m.
             riksmötet 2002/03........... 4 Riksdagstryckets indelning och
@@ -67,10 +66,10 @@
             RER ARKA A Re Rene enn nanna 185
           </p>
           <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/200203/reg_200203/reg_200203_0003"/>
-          <p>
+          <head>
             Om den nya förteckningen över det bundna riksdags- trycket fr.o.m.
             riksmötet 2002/03
-          </p>
+          </head>
           <p>
             Behovet av ett tryckt sak- och personregister har förändrats
             mycket på grund av att riksdagsdokumenten är sökbara i fritext

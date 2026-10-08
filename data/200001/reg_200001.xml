@@ -19,21 +19,20 @@
   </teiHeader>
   <text>
     <body>
-      <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/200001/reg_200001/reg_200001_0000"/>
+      <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/200001/reg_200001/reg_200001_0001"/>
       <div type="gBody">
         <div>
           <p>
             2000/01 års riksmöte
           </p>
           <p>
+            Register
+          </p>
+          <p>
             Utarbetat av Riksdagsbiblioteket
           </p>
           <p>
             Band G
-          </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/200001/reg_200001/reg_200001_0001"/>
-          <p>
-            Register
           </p>
           <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/200001/reg_200001/reg_200001_0002"/>
           <p>
@@ -184,9 +183,9 @@
             II
           </p>
           <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/200001/reg_200001/reg_200001_0004"/>
-          <p>
+          <head type="toc">
             Innehåll
-          </p>
+          </head>
           <p>
             Sakregister
           </p>
@@ -224,9 +223,9 @@
             Sakregister
           </p>
           <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/200001/reg_200001/reg_200001_0006"/>
-          <p>
+          <head>
             Förklaringar till sakregistret
-          </p>
+          </head>
           <p>
             Ärendena (propositioner och skrivelser, förslag och redogörelser,
             motioner samt ut- skottsinitiativ) anges i nummerordning. Först
