@@ -188,38 +188,218 @@
           <head type="toc">
             Innehåll
           </head>
-          <p>
-            Sakregister
-          </p>
-          <p>
-            FÖrklatingåt" ss sie: sss ss esse sig äs Se ere re ed f6 R$ fR
-            ös RR de RR FÖrkOrtningår osssoeseeereeeserrere ere rer rr ere
-            rr rr rs resa Ämnesindelning av Motioner .....sssesseserrrrrerrrrsr
-            rr er rea Propositioner och skrivelser ....ssseoseesersrsrrer
-            stress rr sr rss sa Förslag och redogörelser ..sssseeeseeerreerreres
-            rer rss rr sr r rss IV [018 0) 3153 Interpellätiönet . : sosse
-            see ask je SR SR NA RR SR a (Nee AR RR GR ER SKALA siste s mess
-            s spe sie sie his d 15 SE Bj ale ee 6 aj ARR Ga för äs KN a re
-            BötällkandeD ss iss jess secs a is ie 3 (5 «a Se Me Ne Sä a a
-            Ce 8 Reed de sne Utskottsinillätiv' em sms ses ss oe» i se Re
-            a a sa bed fN ve äs RER ee Utskottens och EU-nämndens yttranden
-            -..sssssesesesssrrre roses Utskottens och EU-nämndens offentliga
-            utfrågningar ............. Tillägg: Regeringsförklaring' :: sasse
-            as se masse spe Se sl sö ses es eek fee Större: debatler := ss
-            sis sms sms ae ae vo a EGR NE MG ve Re NR ÄG EE Sä Särskilda-debatler
-            3: sms: ss is bd 5 TE Ne MS Fe hn ke Sf es a Ga Ändringar av antalet
-            platser i utskott och EU-nämnden ........... Valinom riksdagen
-            : a: :sss ss sa ös e.d ang sm dess ej be es ke sa INdex söm små
-            sögs bee dä Sä NR de Ve ke AS Sc Nb MA ENS a fd MS GM
-          </p>
-          <p>
-            Personregister ; :,.s =: ss sc s:s: snö nå nås ske KG Ne NR ed
-            ce fd fe Tillägg: Ersättarnas tjänstgÖrllgis : a sax msec ss ss:
-            ss ah sans sf a Re Ändrad partitillhörighet. ...ssssssessrrrrrrrr
-            rer rr rr r rer rr ra Ledamöter somL:avgåll ; =: s «ss sm sees
-            ee Rea fe Et Os Nä ec He Ledamöter som tillkommit : =. s« se a:
-            ss ss ns ss 08 Ks SE Ef ähe 5 is Ge
-          </p>
+          <head>
+            Innehåll
+          </head>
+          <list>
+            <item>
+              <seg>
+                Sakregister
+              </seg>
+              <list>
+                <item>
+                  <seg>
+                    Förklaringar
+                  </seg>
+                  <ref type="page">
+                    IX
+                  </ref>
+                </item>
+                <item>
+                  <seg>
+                    Förkortningar
+                  </seg>
+                  <ref type="page">
+                    XI
+                  </ref>
+                </item>
+                <item>
+                  <seg>
+                    Ämnesindelning av motioner
+                  </seg>
+                  <ref type="page">
+                    XII
+                  </ref>
+                </item>
+                <item>
+                  <seg>
+                    Propositioner och skrivelser
+                  </seg>
+                  <ref type="page">
+                    1
+                  </ref>
+                </item>
+                <item>
+                  <seg>
+                    Förslag och redogörelser
+                  </seg>
+                  <ref type="page">
+                    47
+                  </ref>
+                </item>
+                <item>
+                  <seg>
+                    Motioner
+                  </seg>
+                  <ref type="page">
+                    52
+                  </ref>
+                </item>
+                <item>
+                  <seg>
+                    Interpellationer
+                  </seg>
+                  <ref type="page">
+                    184
+                  </ref>
+                </item>
+                <item>
+                  <seg>
+                    Skriftliga frågor
+                  </seg>
+                  <ref type="page">
+                    211
+                  </ref>
+                </item>
+                <item>
+                  <seg>
+                    Betänkanden
+                  </seg>
+                  <ref type="page">
+                    296
+                  </ref>
+                </item>
+                <item>
+                  <seg>
+                    Utskottsinitiativ
+                  </seg>
+                  <ref type="page">
+                    339
+                  </ref>
+                </item>
+                <item>
+                  <seg>
+                    Utskottens och EU-nämndens yttranden
+                  </seg>
+                  <ref type="page">
+                    343
+                  </ref>
+                </item>
+                <item>
+                  <seg>
+                    Utskotens och EU-nämndens offentliga utfrågningar
+                  </seg>
+                  <ref type="page">
+                    347
+                  </ref>
+                </item>
+                <item>
+                  <seg>
+                    Tillägg:
+                  </seg>
+                  <list>
+                    <item>
+                      <seg>
+                        Regeringsförklaring
+                      </seg>
+                      <ref type="page">
+                        351
+                      </ref>
+                    </item>
+                    <item>
+                      <seg>
+                        Större debatter
+                      </seg>
+                      <ref type="page">
+                        351
+                      </ref>
+                    </item>
+                    <item>
+                      <seg>
+                        Särskilda debatter
+                      </seg>
+                      <ref type="page">
+                        351
+                      </ref>
+                    </item>
+                    <item>
+                      <seg>
+                        Ändringar av antalet platser i utskott och EU-nämnden
+                      </seg>
+                      <ref type="page">
+                        351
+                      </ref>
+                    </item>
+                    <item>
+                      <seg>
+                        Val inom riksdagen
+                      </seg>
+                      <ref type="page">
+                        351
+                      </ref>
+                    </item>
+                  </list>
+                </item>
+                <item>
+                  <seg>
+                    Index
+                  </seg>
+                  <ref type="page">
+                    353
+                  </ref>
+                </item>
+              </list>
+            </item>
+            <item>
+              <seg>
+                Personregister
+              </seg>
+              <ref type="page">
+                443
+              </ref>
+              <list>
+                <item>
+                  <seg>
+                    Tillägg:
+                  </seg>
+                  <list>
+                    <item>
+                      <seg>
+                        Ersätternas tjänstgörning
+                      </seg>
+                      <ref type="page">
+                        569
+                      </ref>
+                    </item>
+                    <item>
+                      <seg>
+                        Ändrad partitillhörighet
+                      </seg>
+                      <ref type="page">
+                        569
+                      </ref>
+                    </item>
+                    <item>
+                      <seg>
+                        Ledamöter som avgått
+                      </seg>
+                      <ref type="page">
+                        569
+                      </ref>
+                    </item>
+                    <item>
+                      <seg>
+                        Ledamöter som tillkommit
+                      </seg>
+                      <ref type="page">
+                        569
+                      </ref>
+                    </item>
+                  </list>
+                </item>
+              </list>
+            </item>
+          </list>
         </div>
         <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/200001/reg_200001/reg_200001_0005"/>
         <div type="main">

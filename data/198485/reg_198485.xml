@@ -118,41 +118,319 @@
           <head type="toc">
             Innehåll
           </head>
-          <p>
-            1 Riksdagstryckets indelning och uppställning 2 Användå förkortningåt':
-            «&gt; =: .c.ocsewssere 3 Förklaringar till registret . . . . —
-            Propositioner &gt; MOORE svika Ive sl bee Fe be AR a KA SRS VINER
-            SÄG VVS —- Interpellationer och frågor. . . . - Betänkanden
-          </p>
-          <p>
-            Sakregister
-          </p>
-          <p>
-            &gt;
-          </p>
-          <p>
-            PrOppHUÖROT:3:6 + = 09 så sr BSR RSK RAS RN SÅ Förslag och redogörelser
-            MÖGONDE &gt; öv or SUR oe sil Vs le VERS DARRAR SAS SVETS NA Utskottsinitiativ
-            Interpellationer Frågor
-          </p>
-          <p>
-            -— SOV NAUN
-          </p>
-          <p>
-            TIS VÖLMIMT ös sön + sö mkr bi Ke SR RNE KN KKNATA 1 Entledigande
-            av statsråd
-          </p>
-          <p>
-            -—
-          </p>
-          <p>
-            2 Anmälan om nytt statsråll; 25, ; + sov. sbetves öe see 3 Avsägelser
-            av riksdagsmannaskap 4: Avlidna ledamöter .; .;. + «= dia seek
-            een 5 Avsägelser av särskilda uppdrag. .......ssssssscc cec a
-            6 Omröstning om misstroendeförklaring 7 Valinom riksdagen 8 Utskottsyttranden
-            9 Återremiss ........... 10 Uppskovsbeslut ....... 11 Allmänna
-            debatter
-          </p>
+          <head>
+            Innehåll
+          </head>
+          <list>
+            <item>
+              <list>
+                <item>
+                  <num>
+                    1
+                  </num>
+                  <seg>
+                    Riksdagstryckets indelning och uppställning
+                  </seg>
+                  <ref type="page">
+                    IV
+                  </ref>
+                </item>
+                <item>
+                  <num>
+                    2
+                  </num>
+                  <seg>
+                    Använda förkortningar
+                  </seg>
+                  <ref type="page">
+                    IV
+                  </ref>
+                </item>
+                <item>
+                  <num>
+                    3
+                  </num>
+                  <seg>
+                    Förklaringar till registret
+                  </seg>
+                  <ref type="page">
+                    V
+                  </ref>
+                  <list>
+                    <item>
+                      <seg>
+                        Propositioner
+                      </seg>
+                      <ref type="page">
+                        V
+                      </ref>
+                    </item>
+                    <item>
+                      <seg>
+                        Motioner
+                      </seg>
+                      <ref type="page">
+                        V
+                      </ref>
+                    </item>
+                    <item>
+                      <seg>
+                        Interpellationer och frågor
+                      </seg>
+                      <ref type="page">
+                        VII
+                      </ref>
+                    </item>
+                    <item>
+                      <seg>
+                        Betänkanden
+                      </seg>
+                      <ref type="page">
+                        VII
+                      </ref>
+                    </item>
+                    <item>
+                      <seg>
+                        Index
+                      </seg>
+                      <ref type="page">
+                        VIII
+                      </ref>
+                    </item>
+                  </list>
+                </item>
+              </list>
+            </item>
+            <item>
+              <seg>
+                Sakregister
+              </seg>
+              <list>
+                <item>
+                  <num>
+                    4
+                  </num>
+                  <seg>
+                    Propositioner
+                  </seg>
+                  <ref type="page">
+                    1
+                  </ref>
+                </item>
+                <item>
+                  <num>
+                    5
+                  </num>
+                  <seg>
+                    Förslag och redogörelser
+                  </seg>
+                  <ref type="page">
+                    95
+                  </ref>
+                </item>
+                <item>
+                  <num>
+                    6
+                  </num>
+                  <seg>
+                    Motioner
+                  </seg>
+                  <ref type="page">
+                    98
+                  </ref>
+                </item>
+                <item>
+                  <num>
+                    7
+                  </num>
+                  <seg>
+                    Utskottsinitiativ
+                  </seg>
+                  <ref type="page">
+                    529
+                  </ref>
+                </item>
+                <item>
+                  <num>
+                    8
+                  </num>
+                  <seg>
+                    Interpellationer
+                  </seg>
+                  <ref type="page">
+                    531
+                  </ref>
+                </item>
+                <item>
+                  <num>
+                    9
+                  </num>
+                  <seg>
+                    Frågor
+                  </seg>
+                  <ref type="page">
+                    539
+                  </ref>
+                </item>
+                <item>
+                  <num>
+                    10
+                  </num>
+                  <seg>
+                    Betänkanderegister
+                  </seg>
+                  <ref type="page">
+                    570
+                  </ref>
+                </item>
+                <item>
+                  <num>
+                    11
+                  </num>
+                  <seg>
+                    Tillägg: Val m.m.
+                  </seg>
+                  <ref type="page">
+                    627
+                  </ref>
+                  <list>
+                    <item>
+                      <num>
+                        1
+                      </num>
+                      <seg>
+                        Entledigande av statsråd
+                      </seg>
+                      <ref type="page">
+                        627
+                      </ref>
+                    </item>
+                    <item>
+                      <num>
+                        2
+                      </num>
+                      <seg>
+                        Anmälan om nytt statsråd
+                      </seg>
+                      <ref type="page">
+                        627
+                      </ref>
+                    </item>
+                    <item>
+                      <num>
+                        3
+                      </num>
+                      <seg>
+                        Avsägelser av riksdagsmannaskap
+                      </seg>
+                      <ref type="page">
+                        627
+                      </ref>
+                    </item>
+                    <item>
+                      <num>
+                        4
+                      </num>
+                      <seg>
+                        Avlidna ledamöter
+                      </seg>
+                      <ref type="page">
+                        627
+                      </ref>
+                    </item>
+                    <item>
+                      <num>
+                        5
+                      </num>
+                      <seg>
+                        Avsägelser av särskilda uppdrag
+                      </seg>
+                      <ref type="page">
+                        627
+                      </ref>
+                    </item>
+                    <item>
+                      <num>
+                        6
+                      </num>
+                      <seg>
+                        Omröstning om misstroendeförklaring
+                      </seg>
+                      <ref type="page">
+                        627
+                      </ref>
+                    </item>
+                    <item>
+                      <num>
+                        7
+                      </num>
+                      <seg>
+                        Val inom riksdagen
+                      </seg>
+                      <ref type="page">
+                        627
+                      </ref>
+                    </item>
+                    <item>
+                      <num>
+                        8
+                      </num>
+                      <seg>
+                        Utskottsyttranden
+                      </seg>
+                      <ref type="page">
+                        628
+                      </ref>
+                    </item>
+                    <item>
+                      <num>
+                        9
+                      </num>
+                      <seg>
+                        Återremiss
+                      </seg>
+                      <ref type="page">
+                        631
+                      </ref>
+                    </item>
+                    <item>
+                      <num>
+                        10
+                      </num>
+                      <seg>
+                        Uppskovsbeslut
+                      </seg>
+                      <ref type="page">
+                        631
+                      </ref>
+                    </item>
+                    <item>
+                      <num>
+                        11
+                      </num>
+                      <seg>
+                        Allmänna debatter
+                      </seg>
+                      <ref type="page">
+                        632
+                      </ref>
+                    </item>
+                    <item>
+                      <num>
+                        12
+                      </num>
+                      <seg>
+                        Index
+                      </seg>
+                      <ref type="page">
+                        633
+                      </ref>
+                    </item>
+                  </list>
+                </item>
+              </list>
+            </item>
+          </list>
         </div>
         <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/198485/reg_198485__reg_01/reg_198485__reg_01_0001"/>
         <note type="pagenumber">

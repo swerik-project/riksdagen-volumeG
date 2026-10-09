@@ -192,32 +192,210 @@
           <head type="toc">
             Innehåll
           </head>
-          <p>
-            Sakregister FÖrkläfilögål so: soc oss söm so: Mo: sor NE fs PR
-            sg sk FE gä soc IX FÖrkörtillligål os ss os ss sn 8 mos se os
-            AR sö oe NE ib 5: ae XI Ämnesindelning av motioner . sosse resrs
-            rss sena XII Propositioner 3 :ss mds: ns dd sik fö fn se RR GR
-            Rs 1 Förslag och redogörelser : : « s « : ss es sä oc sö Hå fö
-            sr 42 Motionsförteckning . ooo see ere rss rr rr rr rs rr rss
-            47 Interpellationer ooooseeeerme rer rr rr rr rr rr rr rr ks 81
-            FråÅgOr oo eeeer ere rr rr rr rr rr rr rr rr rs tr ss 97 Utskottsbetänkanden
-            ..someserseerers ere rs rss ss tr rs 139 UtskottsinitialiV « :
-            « : ss =e sis sar se ss Ro &amp; sb Kr SA FE in 172 Utskottens
-            yttranden :«:sses:s ss, se se ms ö 6 so b HA Ris 174 Utfrågningar
-            .. .. . = sie os ök b .6 6 bs fsk Br Fö OROAR OF RN do ROR RB
-            180 Tillägg: Regeringsförklaring so oooseseeerer rr rr rr rr rr
-            res 183 Större debatter oso rr rr rr rr rr rr ses 183 Särskilda
-            debatter oss rrrrrrrrrrrrrrrrr rss 183 Ändringar av antalet platser
-            i utskott . .......ss.ccccc cc. 183 Väl inönrriksSdägén ss ss
-            ce soo sor soc rr rr DRA AE 183 Index. « = s mos ms sf nr sc Me
-            Ao RM a M i be ca As 185 Personregister ..ososeseeeeerer reser
-            rts rs ss 245 Tillägg: Ersättärnäs tjänstgöflög: « : ss sms sf
-            sas ör MA sr 327 Avsägelse av riksdagsmannaskap —..sssssss sosse
-            cr et 328
-          </p>
-          <p>
-            Avlidna ledamöter! « « : = s «sc =: sm d:r ds Hindi 329
-          </p>
+          <head>
+            Innehåll
+          </head>
+          <list>
+            <item>
+              <seg>
+                Sakregister
+              </seg>
+              <list>
+                <item>
+                  <seg>
+                    Förklaringar
+                  </seg>
+                  <ref type="page">
+                    IX
+                  </ref>
+                </item>
+                <item>
+                  <seg>
+                    Förkortningar
+                  </seg>
+                  <ref type="page">
+                    XI
+                  </ref>
+                </item>
+                <item>
+                  <seg>
+                    Ämnesindelning av motioner
+                  </seg>
+                  <ref type="page">
+                    XII
+                  </ref>
+                </item>
+                <item>
+                  <seg>
+                    Propositioner
+                  </seg>
+                  <ref type="page">
+                    1
+                  </ref>
+                </item>
+                <item>
+                  <seg>
+                    Förslag och redogörelser
+                  </seg>
+                  <ref type="page">
+                    42
+                  </ref>
+                </item>
+                <item>
+                  <seg>
+                    Motionsförteckning
+                  </seg>
+                  <ref type="page">
+                    47
+                  </ref>
+                </item>
+                <item>
+                  <seg>
+                    Interpellationer
+                  </seg>
+                  <ref type="page">
+                    81
+                  </ref>
+                </item>
+                <item>
+                  <seg>
+                    Frågor
+                  </seg>
+                  <ref type="page">
+                    97
+                  </ref>
+                </item>
+                <item>
+                  <seg>
+                    Utskottsbetänkanden
+                  </seg>
+                  <ref type="page">
+                    139
+                  </ref>
+                </item>
+                <item>
+                  <seg>
+                    Utskottsinitiativ
+                  </seg>
+                  <ref type="page">
+                    172
+                  </ref>
+                </item>
+                <item>
+                  <seg>
+                    Utskottens yttranden
+                  </seg>
+                  <ref type="page">
+                    174
+                  </ref>
+                </item>
+                <item>
+                  <seg>
+                    Utfrågningar
+                  </seg>
+                  <ref type="page">
+                    180
+                  </ref>
+                </item>
+                <item>
+                  <seg>
+                    Tillägg:
+                  </seg>
+                  <list>
+                    <item>
+                      <seg>
+                        Regeringsförklaring
+                      </seg>
+                      <ref type="page">
+                        183
+                      </ref>
+                    </item>
+                    <item>
+                      <seg>
+                        Större debatter
+                      </seg>
+                      <ref type="page">
+                        183
+                      </ref>
+                    </item>
+                    <item>
+                      <seg>
+                        Särskilda debatter
+                      </seg>
+                      <ref type="page">
+                        183
+                      </ref>
+                    </item>
+                    <item>
+                      <seg>
+                        Ändringar av antalet platser i utskott
+                      </seg>
+                      <ref type="page">
+                        183
+                      </ref>
+                    </item>
+                    <item>
+                      <seg>
+                        Val inom riksdagen
+                      </seg>
+                      <ref type="page">
+                        183
+                      </ref>
+                    </item>
+                  </list>
+                </item>
+                <item>
+                  <seg>
+                    Index
+                  </seg>
+                  <ref type="page">
+                    185
+                  </ref>
+                </item>
+              </list>
+            </item>
+            <item>
+              <seg>
+                Personregister
+              </seg>
+              <ref type="page">
+                245
+              </ref>
+              <list>
+                <item>
+                  <seg>
+                    Tillägg:
+                  </seg>
+                  <list>
+                    <item>
+                      <seg>
+                        Ersätternas tjänstgörning
+                      </seg>
+                      <ref type="page">
+                        327
+                      </ref>
+                    </item>
+                    <item>
+                      <seg>
+                        Avsägelse av riksdagsmannaskap
+                      </seg>
+                      <ref type="page">
+                        328
+                      </ref>
+                    </item>
+                    <item>
+                      <seg>
+                        Avlidna ledamöter
+                      </seg>
+                      <ref type="page">
+                        329
+                      </ref>
+                    </item>
+                  </list>
+                </item>
+              </list>
+            </item>
+          </list>
         </div>
         <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199596/reg_199596/reg_199596_0005"/>
         <div type="main">

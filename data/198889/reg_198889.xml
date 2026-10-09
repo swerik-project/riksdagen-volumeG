@@ -81,32 +81,178 @@
           <head type="toc">
             Innehåll
           </head>
-          <p>
-            Riksdagstryckets indelning och uppställning Förklaringar till
-            sakregistret Använda förkortningar Ämnesindelning av motioner
-          </p>
-          <p>
-            Sakregister
-          </p>
-          <p>
-            Propositioner Förslag och redogörelser Motioner
-          </p>
-          <p>
-            Interpellationer Frågor Offentliga utskottsutfrågningar Tillägg:
-            Val m.m.
-          </p>
-          <p>
-            Anmälan om nya statsråd Entledigande av statsråd Avsägelser av
-            riksdagsmannaskap Ändring av antalet platser i utskott Avlidna
-            ledamöter Val inom riksdagen Utskottsyttranden Återremiss Uppskovsbeslut
-            1988/89 Allmänna debatter
-          </p>
-          <p>
-            Index
-          </p>
-          <p>
-            In
-          </p>
+          <head>
+            Innehåll
+          </head>
+          <list>
+            <item>
+              <list>
+                <item>
+                  <seg>
+                    Riksdagstryckets indelning och uppställning
+                  </seg>
+                  <ref type="page">
+                    IV
+                  </ref>
+                </item>
+                <item>
+                  <seg>
+                    Förklaringar till registret
+                  </seg>
+                  <ref type="page">
+                    V
+                  </ref>
+                </item>
+                <item>
+                  <seg>
+                    Använda förkortningar
+                  </seg>
+                  <ref type="page">
+                    IX
+                  </ref>
+                </item>
+                <item>
+                  <seg>
+                    Ämnesindelning av motioner
+                  </seg>
+                  <ref type="page">
+                    X
+                  </ref>
+                </item>
+              </list>
+            </item>
+            <item>
+              <seg>
+                Sakregister
+              </seg>
+              <list>
+                <item>
+                  <seg>
+                    Propositioner
+                  </seg>
+                  <ref type="page">
+                    1
+                  </ref>
+                </item>
+                <item>
+                  <seg>
+                    Förslag och redogörelser
+                  </seg>
+                  <ref type="page">
+                    114
+                  </ref>
+                </item>
+                <item>
+                  <seg>
+                    Motioner
+                  </seg>
+                  <ref type="page">
+                    118
+                  </ref>
+                </item>
+                <item>
+                  <seg>
+                    Utskottsinitiativ
+                  </seg>
+                  <ref type="page">
+                    796
+                  </ref>
+                </item>
+                <item>
+                  <seg>
+                    Interpellationer
+                  </seg>
+                  <ref type="page">
+                    798
+                  </ref>
+                </item>
+                <item>
+                  <seg>
+                    Frågor
+                  </seg>
+                  <ref type="page">
+                    811
+                  </ref>
+                </item>
+                <item>
+                  <seg>
+                    Tillägg: Val m.m.
+                  </seg>
+                  <ref type="page">
+                    850
+                  </ref>
+                  <list>
+                    <item>
+                      <seg>
+                        Anmälan om nya statsråd
+                      </seg>
+                    </item>
+                    <item>
+                      <seg>
+                        Entledigande av statsråd
+                      </seg>
+                    </item>
+                    <item>
+                      <seg>
+                        Avsägelser av riksdagsmannaskap
+                      </seg>
+                    </item>
+                    <item>
+                      <seg>
+                        Ändringar av antalet platser i utskott
+                      </seg>
+                    </item>
+                    <item>
+                      <seg>
+                        Avlinda ledemöter
+                      </seg>
+                    </item>
+                    <item>
+                      <seg>
+                        Val inom riksdagen
+                      </seg>
+                    </item>
+                    <item>
+                      <seg>
+                        Utskottsyttranden
+                      </seg>
+                    </item>
+                    <item>
+                      <seg>
+                        Återremiss
+                      </seg>
+                    </item>
+                    <item>
+                      <seg>
+                        Uppskovsbeslut 1988/89
+                      </seg>
+                    </item>
+                    <item>
+                      <seg>
+                        Allmänna debatter
+                      </seg>
+                    </item>
+                  </list>
+                </item>
+                <item>
+                  <seg>
+                    Index
+                  </seg>
+                  <ref type="page">
+                    857
+                  </ref>
+                </item>
+              </list>
+            </item>
+            <item>
+              <seg>
+                Personregister
+              </seg>
+              <ref type="page">
+                935
+              </ref>
+            </item>
+          </list>
         </div>
         <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/198889/reg_198889__reg_01/reg_198889__reg_01_0006"/>
         <div type="main">

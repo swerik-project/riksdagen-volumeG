@@ -76,26 +76,178 @@
           <head type="toc">
             Innehåll
           </head>
-          <p>
-            Riksdagstryckets indelning och uppställning IV
-          </p>
-          <p>
-            Förklaringar till sakregistret Vv Använda förkortningar . ...scc-
-            IX Ämnesindelning av motioner Xx Sakregister PYOSONGOR 5 ola re
-            ack WE Rane Gr VSRION SA re ale 1 Förslig Och redögörellet.s =,
-            + sat öv &gt; NER, KE RR SSR 118 BMIORORDE "Hol eta ärnne 8 KIA
-            SALA EN, NANNE KL Fö VRENA dk 121 UNEKORKRGNOV skon fö RÖR ÅA
-            SLIDE 6 Mepåe väst JK RN RS Re 1023 FINNAR EAA NONOR vu Jå gore
-            ge JARLA el BENNET SER MER 1025 rg a SINSEE E KS ata OR RA S-PORT
-            1034 Offentliga viskotsötfrälMnagar 73 := &gt; = «a ch ess Sok
-            RR 4 sg 1071 "Pigg: Väl nan PD ed a ds ARR a Bs oe IE SR RENA
-            sg 1074 Anmälan om nya statsråd Entledigande av statsråd Avsägelser
-            av riksdagsmannaskap Ändring av antalet platser i utskott Avlidna
-            ledamöter Val inom riksdagen Utskottsyttranden Återremiss Uppskovsbeslut
-            1989/90 Allmänna debatter [0 NSP [ENN fr AE RE AE ESD 15 SDS ra
-            är MSN SENS 1080 Farmarsgblte” MRI a le RR PDA BER drar ba sd
-            1175
-          </p>
+          <head>
+            Innehåll
+          </head>
+          <list>
+            <item>
+              <list>
+                <item>
+                  <seg>
+                    Riksdagstryckets indelning och uppställning
+                  </seg>
+                  <ref type="page">
+                    IV
+                  </ref>
+                </item>
+                <item>
+                  <seg>
+                    Förklaringar till registret
+                  </seg>
+                  <ref type="page">
+                    V
+                  </ref>
+                </item>
+                <item>
+                  <seg>
+                    Använda förkortningar
+                  </seg>
+                  <ref type="page">
+                    IX
+                  </ref>
+                </item>
+                <item>
+                  <seg>
+                    Ämnesindelning av motioner
+                  </seg>
+                  <ref type="page">
+                    X
+                  </ref>
+                </item>
+              </list>
+            </item>
+            <item>
+              <seg>
+                Sakregister
+              </seg>
+              <list>
+                <item>
+                  <seg>
+                    Propositioner
+                  </seg>
+                  <ref type="page">
+                    1
+                  </ref>
+                </item>
+                <item>
+                  <seg>
+                    Förslag och redogörelser
+                  </seg>
+                  <ref type="page">
+                    118
+                  </ref>
+                </item>
+                <item>
+                  <seg>
+                    Motioner
+                  </seg>
+                  <ref type="page">
+                    121
+                  </ref>
+                </item>
+                <item>
+                  <seg>
+                    Utskottsinitiativ
+                  </seg>
+                  <ref type="page">
+                    1023
+                  </ref>
+                </item>
+                <item>
+                  <seg>
+                    Interpellationer
+                  </seg>
+                  <ref type="page">
+                    1025
+                  </ref>
+                </item>
+                <item>
+                  <seg>
+                    Frågor
+                  </seg>
+                  <ref type="page">
+                    1034
+                  </ref>
+                </item>
+                <item>
+                  <seg>
+                    Tillägg: Val m.m.
+                  </seg>
+                  <ref type="page">
+                    1074
+                  </ref>
+                  <list>
+                    <item>
+                      <seg>
+                        Anmälan om nya statsråd
+                      </seg>
+                    </item>
+                    <item>
+                      <seg>
+                        Entledigande av statsråd
+                      </seg>
+                    </item>
+                    <item>
+                      <seg>
+                        Avsägelser av riksdagsmannaskap
+                      </seg>
+                    </item>
+                    <item>
+                      <seg>
+                        Ändringar av antalet platser i utskott
+                      </seg>
+                    </item>
+                    <item>
+                      <seg>
+                        Avlinda ledemöter
+                      </seg>
+                    </item>
+                    <item>
+                      <seg>
+                        Val inom riksdagen
+                      </seg>
+                    </item>
+                    <item>
+                      <seg>
+                        Utskottsyttranden
+                      </seg>
+                    </item>
+                    <item>
+                      <seg>
+                        Återremiss
+                      </seg>
+                    </item>
+                    <item>
+                      <seg>
+                        Uppskovsbeslut 1989/90
+                      </seg>
+                    </item>
+                    <item>
+                      <seg>
+                        Allmänna debatter
+                      </seg>
+                    </item>
+                  </list>
+                </item>
+                <item>
+                  <seg>
+                    Index
+                  </seg>
+                  <ref type="page">
+                    1080
+                  </ref>
+                </item>
+              </list>
+            </item>
+            <item>
+              <seg>
+                Personregister
+              </seg>
+              <ref type="page">
+                1175
+              </ref>
+            </item>
+          </list>
         </div>
         <note type="pagenumber">
           II

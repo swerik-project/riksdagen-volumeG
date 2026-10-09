@@ -268,14 +268,101 @@
           <head type="toc">
             Innehåll
           </head>
-          <p>
-            Tillägg: Val m. m. Förteckning över rättelser i riksdagstrycket
-            riksmötet 1976/77 ..
-          </p>
-          <p>
-            Propositioner Förslag och redogörelser . Motioner Utskottsskrivelser
-            Interpellationer ... Frågor .....oe00
-          </p>
+          <head>
+            Innehåll
+          </head>
+          <list>
+            <item>
+              <num>
+                1.
+              </num>
+              <seg>
+                Propositioner
+              </seg>
+              <ref type="page">
+                1
+              </ref>
+            </item>
+            <item>
+              <num>
+                2.
+              </num>
+              <seg>
+                Förslag och redogörelser
+              </seg>
+              <ref type="page">
+                116
+              </ref>
+            </item>
+            <item>
+              <num>
+                3.
+              </num>
+              <seg>
+                Motioner
+              </seg>
+              <ref type="page">
+                119
+              </ref>
+            </item>
+            <item>
+              <num>
+                4.
+              </num>
+              <seg>
+                Utskottsskrivelser
+              </seg>
+              <ref type="page">
+                368
+              </ref>
+            </item>
+            <item>
+              <num>
+                5.
+              </num>
+              <seg>
+                Interpellationer
+              </seg>
+              <ref type="page">
+                369
+              </ref>
+            </item>
+            <item>
+              <num>
+                6.
+              </num>
+              <seg>
+                Frågor
+              </seg>
+              <ref type="page">
+                378
+              </ref>
+            </item>
+            <item>
+              <seg>
+                Index
+              </seg>
+              <ref type="page">
+                405
+              </ref>
+            </item>
+            <item>
+              <seg>
+                Tillägg: Val m. m.
+              </seg>
+              <ref type="page">
+                492
+              </ref>
+            </item>
+            <item>
+              <seg>
+                Förteckning över rättelser i riksdagstrycket riksmötet 1976/77
+              </seg>
+              <ref type="page">
+                497
+              </ref>
+            </item>
+          </list>
         </div>
         <note type="pagenumber">
           VII

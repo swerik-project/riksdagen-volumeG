@@ -86,29 +86,289 @@
           <head type="toc">
             Innehåll
           </head>
-          <p>
-            1 Riksdagstryckets indelning och uppställning =... . ss. s-«c
-            IV 2 Använda förkonnibgal" (FINS JADE os oe så ert bv pl be Vv
-            3: Amnesindelning av mötlöner "1, Isa. JMGRIRON DL ne Vv 45. Förklaringar
-            till rÖgltyet "CN Ira &gt; 0 SV oRa RS ue ee lars tg VIII —PrODORNOREE
-            sla senare 3 egg, vg REN es 0 gå SS e VIII 5 SÖMDROE55aee C ORKAN
-            4 ENN ere re SINN v mp NOR VIII TROR One GC NINE IST So VOR TURE
-            sted « &lt; &amp; Xx ET RR SEN: er ve RR, SP me Le er XI Sakregister
-            EE UPORURNNS 4 skär e hn Nee drela SLÄNGS e HTS NÄRINGS RN 1 6:
-            Förslag och redogilelior: Al, :0s ks aERNISar VT SARIA &gt; vis
-            113 Sv MIORDNER "SE POMNNA SAR URE PITT Re e Sö: Clecn pv 116
-            8 UBS vn NAT rr ka RTR on 690 9” Intergbllatioder FN TLS od KS
-            Py SNR 692 10 - Frågot 5 Rea al a Rv DIR ANA EN 705 21: Tilllgg:
-            Väl rälikedat (PR 0Re0 IMa SN ae 736 1 Anmälan av utsedda statsråd
-            .......ssscscccc cc 736 2 -Balödine tr stalfråd:, &gt; ars. Ta
-            sög et er 736 3 Avsägelser av risdagsmannaskap ..........c..-
-            736 4 Anmälan av ett nytt departement . ............. 736 3 -
-            Valintm riksdögen 3:52? 210. 6 okel4 ITE DIN repa 736 5 - UCkottsytttänden
-            3. fee arts Vv al Re 738 7 "ÄLSITGlNIAS sr nro rs vs AR sill er
-            RARE 740 8 -Dppskovibenlnt 190N8] &gt; so: oc. ön oe ee VAN 741
-            ER TR 0 EN SE RE Nr ANGE ra sn 741 LR FEST REA NE NE MEINE "1
-            SPE 2 da NNE 742
-          </p>
+          <head>
+            Innehåll
+          </head>
+          <list>
+            <item>
+              <list>
+                <item>
+                  <num>
+                    1
+                  </num>
+                  <seg>
+                    Riksdagstryckets indelning och uppställning
+                  </seg>
+                  <ref type="page">
+                    IV
+                  </ref>
+                </item>
+                <item>
+                  <num>
+                    2
+                  </num>
+                  <seg>
+                    Använda förkortningar
+                  </seg>
+                  <ref type="page">
+                    V
+                  </ref>
+                </item>
+                <item>
+                  <num>
+                    3
+                  </num>
+                  <seg>
+                    Ämnesindelning av motioner
+                  </seg>
+                  <ref type="page">
+                    V
+                  </ref>
+                </item>
+                <item>
+                  <num>
+                    4
+                  </num>
+                  <seg>
+                    Förklaringar till registret
+                  </seg>
+                  <ref type="page">
+                    VIII
+                  </ref>
+                  <list>
+                    <item>
+                      <seg>
+                        Propositioner
+                      </seg>
+                      <ref type="page">
+                        VIII
+                      </ref>
+                    </item>
+                    <item>
+                      <seg>
+                        Motioner
+                      </seg>
+                      <ref type="page">
+                        VIII
+                      </ref>
+                    </item>
+                    <item>
+                      <seg>
+                        Interpellationer och frågor
+                      </seg>
+                      <ref type="page">
+                        X
+                      </ref>
+                    </item>
+                    <item>
+                      <seg>
+                        Index
+                      </seg>
+                      <ref type="page">
+                        XI
+                      </ref>
+                    </item>
+                  </list>
+                </item>
+              </list>
+            </item>
+            <item>
+              <seg>
+                Sakregister
+              </seg>
+              <list>
+                <item>
+                  <num>
+                    5
+                  </num>
+                  <seg>
+                    Propositioner
+                  </seg>
+                  <ref type="page">
+                    1
+                  </ref>
+                </item>
+                <item>
+                  <num>
+                    6
+                  </num>
+                  <seg>
+                    Förslag och redogörelser
+                  </seg>
+                  <ref type="page">
+                    113
+                  </ref>
+                </item>
+                <item>
+                  <num>
+                    7
+                  </num>
+                  <seg>
+                    Motioner
+                  </seg>
+                  <ref type="page">
+                    116
+                  </ref>
+                </item>
+                <item>
+                  <num>
+                    8
+                  </num>
+                  <seg>
+                    Utskottsinitiativ
+                  </seg>
+                  <ref type="page">
+                    690
+                  </ref>
+                </item>
+                <item>
+                  <num>
+                    9
+                  </num>
+                  <seg>
+                    Interpellationer
+                  </seg>
+                  <ref type="page">
+                    692
+                  </ref>
+                </item>
+                <item>
+                  <num>
+                    10
+                  </num>
+                  <seg>
+                    Frågor
+                  </seg>
+                  <ref type="page">
+                    705
+                  </ref>
+                </item>
+                <item>
+                  <num>
+                    11
+                  </num>
+                  <seg>
+                    Tillägg: Val m.m.
+                  </seg>
+                  <ref type="page">
+                    612
+                  </ref>
+                  <list>
+                    <item>
+                      <num>
+                        1
+                      </num>
+                      <seg>
+                        Anmälan av utsedda statsråd
+                      </seg>
+                      <ref type="page">
+                        736
+                      </ref>
+                    </item>
+                    <item>
+                      <num>
+                        2
+                      </num>
+                      <seg>
+                        Entledigande av statsråd
+                      </seg>
+                      <ref type="page">
+                        736
+                      </ref>
+                    </item>
+                    <item>
+                      <num>
+                        3
+                      </num>
+                      <seg>
+                        Avsägelser av riksdagsmannaskap
+                      </seg>
+                      <ref type="page">
+                        736
+                      </ref>
+                    </item>
+                    <item>
+                      <num>
+                        4
+                      </num>
+                      <seg>
+                        Anmälan av ett nytt dypartament
+                      </seg>
+                      <ref type="page">
+                        736
+                      </ref>
+                    </item>
+                    <item>
+                      <num>
+                        5
+                      </num>
+                      <seg>
+                        Val inom riksdagen
+                      </seg>
+                      <ref type="page">
+                        736
+                      </ref>
+                    </item>
+                    <item>
+                      <num>
+                        6
+                      </num>
+                      <seg>
+                        Utskottsyttranden
+                      </seg>
+                      <ref type="page">
+                        738
+                      </ref>
+                    </item>
+                    <item>
+                      <num>
+                        7
+                      </num>
+                      <seg>
+                        Återremiss
+                      </seg>
+                      <ref type="page">
+                        740
+                      </ref>
+                    </item>
+                    <item>
+                      <num>
+                        8
+                      </num>
+                      <seg>
+                        Uppskovsbeslut 1986/87
+                      </seg>
+                      <ref type="page">
+                        741
+                      </ref>
+                    </item>
+                    <item>
+                      <num>
+                        9
+                      </num>
+                      <seg>
+                        Allmänna debatter
+                      </seg>
+                      <ref type="page">
+                        741
+                      </ref>
+                    </item>
+                  </list>
+                </item>
+                <item>
+                  <num>
+                    12
+                  </num>
+                  <seg>
+                    Index
+                  </seg>
+                  <ref type="page">
+                    742
+                  </ref>
+                </item>
+              </list>
+            </item>
+          </list>
         </div>
         <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/198687/reg_198687__reg_01/reg_198687__reg_01_0006"/>
         <note type="pagenumber">

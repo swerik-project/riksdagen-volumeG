@@ -244,13 +244,93 @@
           <head type="toc">
             Innehåll
           </head>
-          <p>
-            sid. ER AS IRSK FEN IE TN KNAPP NN KRESTNA Kole 1 2. Framställningar
-            och berättelser ... 105 3 MOIKNOE: vr ba eken säs srt .. 108 4:
-            Utskoltsskiivolset: Srss vare ovn ss RTR RNA SUP TSE TI 355 5
-            ING OÄNHORE ANNARS Vagpe nig siare Såser ASEA RNE 357 6. Enkla
-            frågor ... «366 NÄR passera så - 386 Tillägg: Val m. m 441
-          </p>
+          <head>
+            Innehåll
+          </head>
+          <list>
+            <item>
+              <num>
+                1.
+              </num>
+              <seg>
+                Propositioner
+              </seg>
+              <ref type="page">
+                1
+              </ref>
+            </item>
+            <item>
+              <num>
+                2.
+              </num>
+              <seg>
+                Framställningar och berättelser
+              </seg>
+              <ref type="page">
+                105
+              </ref>
+            </item>
+            <item>
+              <num>
+                3.
+              </num>
+              <seg>
+                Motioner
+              </seg>
+              <ref type="page">
+                108
+              </ref>
+            </item>
+            <item>
+              <num>
+                4.
+              </num>
+              <seg>
+                Utskottsskrivelser
+              </seg>
+              <ref type="page">
+                355
+              </ref>
+            </item>
+            <item>
+              <num>
+                5.
+              </num>
+              <seg>
+                Interpellationer
+              </seg>
+              <ref type="page">
+                357
+              </ref>
+            </item>
+            <item>
+              <num>
+                6.
+              </num>
+              <seg>
+                Enkla frågor
+              </seg>
+              <ref type="page">
+                366
+              </ref>
+            </item>
+            <item>
+              <seg>
+                Index
+              </seg>
+              <ref type="page">
+                386
+              </ref>
+            </item>
+            <item>
+              <seg>
+                Tillägg: Val m. m.
+              </seg>
+              <ref type="page">
+                441
+              </ref>
+            </item>
+          </list>
         </div>
         <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/1974/reg_1974__reg_01/reg_1974__reg_01_0010"/>
         <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/1974/reg_1974__reg_01/reg_1974__reg_01_0011"/>
