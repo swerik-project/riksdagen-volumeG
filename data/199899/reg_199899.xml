@@ -21,7 +21,7 @@
     <body>
       <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0001"/>
       <div type="gBody">
-        <div>
+        <div type="frontmatter">
           <p>
             1998/99 års riksmöte
           </p>
@@ -189,10 +189,12 @@
           <p>
             Register
           </p>
-          <p>
-            III
-          </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0004"/>
+        </div>
+        <note type="pagenumber">
+          III
+        </note>
+        <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0004"/>
+        <div type="toc">
           <head type="toc">
             Innehåll
           </head>
@@ -227,7 +229,9 @@
             Avsägelse av riksdagsmannaskap ......sssesseeseessre reser rt
             423
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0005"/>
+        </div>
+        <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0005"/>
+        <div type="main">
           <p>
             Sakregister
           </p>

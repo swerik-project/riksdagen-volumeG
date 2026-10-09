@@ -21,7 +21,7 @@
     <body>
       <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199697/reg_199697/reg_199697_0001"/>
       <div type="gBody">
-        <div>
+        <div type="frontmatter">
           <p>
             1996/97 års riksmöte
           </p>
@@ -173,10 +173,12 @@
           <p>
             Register
           </p>
-          <p>
-            III
-          </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199697/reg_199697/reg_199697_0004"/>
+        </div>
+        <note type="pagenumber">
+          III
+        </note>
+        <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199697/reg_199697/reg_199697_0004"/>
+        <div type="toc">
           <head type="toc">
             Innehåll
           </head>
@@ -204,7 +206,9 @@
           <p>
             Avsägelse av riksdagsmannaskap —. ososossss ss sco cs 481
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199697/reg_199697/reg_199697_0005"/>
+        </div>
+        <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199697/reg_199697/reg_199697_0005"/>
+        <div type="main">
           <p>
             Sakregister
           </p>

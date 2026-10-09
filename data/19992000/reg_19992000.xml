@@ -21,7 +21,7 @@
     <body>
       <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/19992000/reg_19992000/reg_19992000_0001"/>
       <div type="gBody">
-        <div>
+        <div type="frontmatter">
           <p>
             1999/2000 års riksmöte
           </p>
@@ -187,10 +187,12 @@
           <p>
             Register
           </p>
-          <p>
-            III
-          </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/19992000/reg_19992000/reg_19992000_0004"/>
+        </div>
+        <note type="pagenumber">
+          III
+        </note>
+        <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/19992000/reg_19992000/reg_19992000_0004"/>
+        <div type="toc">
           <head type="toc">
             Innehåll
           </head>
@@ -226,7 +228,9 @@
             Ledamöter som tillkommit .....sssesseseserrerresrrr er rer sea
             547
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/19992000/reg_19992000/reg_19992000_0005"/>
+        </div>
+        <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/19992000/reg_19992000/reg_19992000_0005"/>
+        <div type="main">
           <p>
             Sakregister
           </p>

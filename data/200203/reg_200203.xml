@@ -21,7 +21,7 @@
     <body>
       <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/200203/reg_200203/reg_200203_0001"/>
       <div type="gBody">
-        <div>
+        <div type="frontmatter">
           <p>
             2002/03 års riksmöte
           </p>
@@ -34,7 +34,9 @@
           <p>
             Band G
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/200203/reg_200203/reg_200203_0002"/>
+        </div>
+        <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/200203/reg_200203/reg_200203_0002"/>
+        <div type="toc">
           <head type="toc">
             Innehåll
           </head>
@@ -65,7 +67,9 @@
             rese esr ers reser er er er RR AR ES ARR R ER ERE ASA K AR AREA
             RER ARKA A Re Rene enn nanna 185
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/200203/reg_200203/reg_200203_0003"/>
+        </div>
+        <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/200203/reg_200203/reg_200203_0003"/>
+        <div type="main">
           <head>
             Om den nya förteckningen över det bundna riksdags- trycket fr.o.m.
             riksmötet 2002/03

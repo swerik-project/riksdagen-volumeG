@@ -21,7 +21,7 @@
     <body>
       <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199596/reg_199596/reg_199596_0001"/>
       <div type="gBody">
-        <div>
+        <div type="frontmatter">
           <p>
             19957/96 års riksmöte
           </p>
@@ -186,7 +186,9 @@
           <p>
             I
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199596/reg_199596/reg_199596_0004"/>
+        </div>
+        <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199596/reg_199596/reg_199596_0004"/>
+        <div type="toc">
           <head type="toc">
             Innehåll
           </head>
@@ -216,7 +218,9 @@
           <p>
             Avlidna ledamöter! « « : = s «sc =: sm d:r ds Hindi 329
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199596/reg_199596/reg_199596_0005"/>
+        </div>
+        <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199596/reg_199596/reg_199596_0005"/>
+        <div type="main">
           <p>
             Sakregister
           </p>

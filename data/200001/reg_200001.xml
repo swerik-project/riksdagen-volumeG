@@ -21,7 +21,7 @@
     <body>
       <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/200001/reg_200001/reg_200001_0001"/>
       <div type="gBody">
-        <div>
+        <div type="frontmatter">
           <p>
             2000/01 års riksmöte
           </p>
@@ -179,10 +179,12 @@
           <p>
             Riksdagsskrivelser Register
           </p>
-          <p>
-            II
-          </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/200001/reg_200001/reg_200001_0004"/>
+        </div>
+        <note type="pagenumber">
+          II
+        </note>
+        <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/200001/reg_200001/reg_200001_0004"/>
+        <div type="toc">
           <head type="toc">
             Innehåll
           </head>
@@ -218,7 +220,9 @@
             ee Rea fe Et Os Nä ec He Ledamöter som tillkommit : =. s« se a:
             ss ss ns ss 08 Ks SE Ef ähe 5 is Ge
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/200001/reg_200001/reg_200001_0005"/>
+        </div>
+        <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/200001/reg_200001/reg_200001_0005"/>
+        <div type="main">
           <p>
             Sakregister
           </p>

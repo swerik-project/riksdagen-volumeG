@@ -21,7 +21,7 @@
     <body>
       <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199798/reg_199798/reg_199798_0001"/>
       <div type="gBody">
-        <div>
+        <div type="frontmatter">
           <p>
             HL 1997/98 års riksmöte 7”7--
           </p>
@@ -179,7 +179,9 @@
           <p>
             HI
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199798/reg_199798/reg_199798_0004"/>
+        </div>
+        <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199798/reg_199798/reg_199798_0004"/>
+        <div type="toc">
           <head type="toc">
             Innehåll
           </head>
@@ -207,7 +209,9 @@
           <p>
             Avsägelse av riksdagsmannaskap ....ossosssscss scr cv. 531
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199798/reg_199798/reg_199798_0005"/>
+        </div>
+        <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199798/reg_199798/reg_199798_0005"/>
+        <div type="main">
           <p>
             Sakregister
           </p>

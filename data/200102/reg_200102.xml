@@ -21,7 +21,7 @@
     <body>
       <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/200102/reg_200102/reg_200102_0001"/>
       <div type="gBody">
-        <div>
+        <div type="frontmatter">
           <p>
             2001/02 års riksmöte
           </p>
@@ -172,9 +172,9 @@
             verksamhet och betänkanden EU-nämndens verksamhet, yttranden och
             protokoll
           </p>
-          <p>
+          <note type="pagenumber">
             II
-          </p>
+          </note>
           <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/200102/reg_200102/reg_200102_0004"/>
           <p>
             IV
@@ -188,7 +188,9 @@
           <p>
             Riksdagsskrivelser Register
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/200102/reg_200102/reg_200102_0005"/>
+        </div>
+        <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/200102/reg_200102/reg_200102_0005"/>
+        <div type="toc">
           <head type="toc">
             Innehåll
           </head>
@@ -225,7 +227,9 @@
             Avlidna ledamöter . .....sssossrersesrrererererr ers rr rr rr
             ee resa 631
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/200102/reg_200102/reg_200102_0006"/>
+        </div>
+        <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/200102/reg_200102/reg_200102_0006"/>
+        <div type="main">
           <p>
             Sakregister
           </p>

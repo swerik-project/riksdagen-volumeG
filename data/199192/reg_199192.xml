@@ -21,7 +21,7 @@
     <body>
       <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199192/reg_199192/reg_199192_0001"/>
       <div type="gBody">
-        <div>
+        <div type="frontmatter">
           <p>
             1991/92 års riksmöte
           </p>
@@ -74,7 +74,9 @@
           <p>
             gotab 43507, Stockholm 1993
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199192/reg_199192/reg_199192_0005"/>
+        </div>
+        <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199192/reg_199192/reg_199192_0005"/>
+        <div type="toc">
           <head type="toc">
             Innehåll
           </head>
@@ -109,10 +111,12 @@
             Personregister soo rr rr rr rr rr rr rr re ess Tillägg: Ersättarnas
             tjänstgöring os some esse ss rss ss ss
           </p>
-          <p>
-            III
-          </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199192/reg_199192/reg_199192_0006"/>
+        </div>
+        <note type="pagenumber">
+          III
+        </note>
+        <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199192/reg_199192/reg_199192_0006"/>
+        <div type="main">
           <head>
             Riksdagstryckets indelning och uppställning
           </head>

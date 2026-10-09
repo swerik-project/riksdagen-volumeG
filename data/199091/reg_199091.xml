@@ -21,7 +21,7 @@
     <body>
       <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091/reg_199091_0001"/>
       <div type="gBody">
-        <div>
+        <div type="frontmatter">
           <p>
             1990/91 års riksmöte
           </p>
@@ -120,7 +120,9 @@
           <p>
             Register
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091/reg_199091_0003"/>
+        </div>
+        <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091/reg_199091_0003"/>
+        <div type="toc">
           <head type="toc">
             Innehåll
           </head>
@@ -149,10 +151,12 @@
             RE FR Gr 1165 Persönregistéf 3 «: ss a: ss ss ss hö so 4 MH sö
             ös Nm Re 1259
           </p>
-          <p>
-            III
-          </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091/reg_199091_0004"/>
+        </div>
+        <note type="pagenumber">
+          III
+        </note>
+        <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199091/reg_199091/reg_199091_0004"/>
+        <div type="main">
           <head>
             Riksdagstryckets indelning och uppställning
           </head>
