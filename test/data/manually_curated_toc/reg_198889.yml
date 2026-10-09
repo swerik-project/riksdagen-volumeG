@@ -1,0 +1,80 @@
+---
+Innehåll:
+  - i: ~
+    t: ~
+    p: ~
+    children:
+      - i: ~
+        t: "Riksdagstryckets indelning och uppställning"
+        p: "IV"
+      - i: ~
+        t: "Förklaringar till registret"
+        p: "V"
+      - i: ~
+        t: "Använda förkortningar"
+        p: "IX"
+      - i: ~
+        t: "Ämnesindelning av motioner"
+        p: "X"
+  - i: ~
+    t: "Sakregister"
+    p: ~
+    children:
+      - i: ~
+        t: "Propositioner"
+        p: "1"
+      - i: ~
+        t: "Förslag och redogörelser"
+        p: "114"
+      - i: ~
+        t: "Motioner"
+        p: "118"
+      - i: ~
+        t: "Utskottsinitiativ"
+        p: "796"
+      - i: ~
+        t: "Interpellationer"
+        p: "798"
+      - i: ~
+        t: "Frågor"
+        p: "811"
+      - i: ~
+        t: "Tillägg: Val m.m."
+        p: "850"
+        children:
+          - i: ~
+            t: "Anmälan om nya statsråd"
+            p: ~
+          - i: ~
+            t: "Entledigande av statsråd"
+            p: ~
+          - i: ~
+            t: "Avsägelser av riksdagsmannaskap"
+            p: ~
+          - i: ~
+            t: "Ändringar av antalet platser i utskott"
+            p: ~
+          - i: ~
+            t: "Avlinda ledemöter"
+            p: ~
+          - i: ~
+            t: "Val inom riksdagen"
+            p: ~
+          - i: ~
+            t: "Utskottsyttranden"
+            p: ~
+          - i: ~
+            t: "Återremiss"
+            p: ~
+          - i: ~
+            t: "Uppskovsbeslut 1988/89"
+            p: ~
+          - i: ~
+            t: "Allmänna debatter"
+            p: ~
+      - i: ~
+        t: "Index"
+        p: "857"
+  - i: ~
+    t: "Personregister"
+    p: "935"

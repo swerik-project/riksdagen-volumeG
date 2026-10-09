@@ -1,0 +1,83 @@
+---
+Innehåll:
+  - i: ~
+    t: "Del I"
+    p: ~
+    children:
+      - i: ~
+        t: "Riksdagstryckets indelning och uppställning"
+        p: "IV"
+      - i: ~
+        t: "Förklaringar till registret"
+        p: "V"
+      - i: ~
+        t: "Använda förkortningar"
+        p: "IX"
+      - i: ~
+        t: "Ämnesindelning av motioner"
+        p: "X"
+      - i: ~
+        t: "Propositioner"
+        p: "1"
+      - i: ~
+        t: "Förslag och redogörelser"
+        p: "137"
+      - i: ~
+        t: "Motioner"
+        p: "140"
+      - i: ~
+        t: "Utskottsinitiativ"
+        p: "1098"
+      - i: ~
+        t: "Interpellationer"
+        p: "1101"
+      - i: ~
+        t: "Frågor"
+        p: "1114"
+      - i: ~
+        t: "Offentliga utskottsutfrågningar"
+        p: "1155"
+      - i: ~
+        t: "Tillägg: Val m.m."
+        p: "1158"
+        children:
+          - i: ~
+            t: "Anmälan om nya statsråd"
+            p: ~
+          - i: ~
+            t: "Entledigande av statsråd"
+            p: ~
+          - i: ~
+            t: "Avsägelser av riksdagsmannaskap"
+            p: ~
+          - i: ~
+            t: "Ändringar av antalet platser i utskott"
+            p: ~
+          - i: ~
+            t: "Avlinda ledemöter"
+            p: ~
+          - i: ~
+            t: "Val inom riksdagen"
+            p: ~
+          - i: ~
+            t: "Utskottsyttranden"
+            p: ~
+          - i: ~
+            t: "Återremiss"
+            p: ~
+          - i: ~
+            t: "Uppskovsbeslut 1990/91"
+            p: ~
+          - i: ~
+            t: "Allmänna debatter"
+            p: ~
+  - i: ~
+    t: "Del II"
+    p: ~
+    children:
+      - i: ~
+        t: "Index"
+        p: "1165"
+      - i: ~
+        t: "Personregister"
+        p: "1259"
