@@ -19,9 +19,9 @@
   </teiHeader>
   <text>
     <body>
-      <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/200203/reg_200203/reg_200203_0000"/>
+      <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/200203/reg_200203/reg_200203_0001"/>
       <div type="gBody">
-        <div>
+        <div type="frontmatter">
           <p>
             2002/03 års riksmöte
           </p>
@@ -34,43 +34,113 @@
           <p>
             Band G
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/200203/reg_200203/reg_200203_0001"/>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/200203/reg_200203/reg_200203_0002"/>
-          <p>
+        </div>
+        <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/200203/reg_200203/reg_200203_0002"/>
+        <div type="toc">
+          <head type="toc">
             Innehåll
-          </p>
-          <p>
-            Om den nya förteckningen över det bundna riksdagstrycket fr.o.m.
-            riksmötet 2002/03........... 4 Riksdagstryckets indelning och
-            uppställning s......essssesesersesessssesesessssrsenesesesenrrsesrenerrrrrs
-            en nrr nn rn nn nn 3 Riksdagstryckets indelning vid 2002/03 :års
-            riksmöte" =s:szsss1ssssss:vs:vs1ssssssssssssssssuesssansnsasenssnssssssss
-            6 FÖTKOTUMNIN SOT -+5555555055 555500 259 500000 0 0TNVES SST
-            NNE SES TENN STNNSTENSES VING SNERSNNNNR NEON SN SESSESSTESSES
-            SNS SNEKNSNSEN EES NVS SENS NENEN 7 Propositioner och skrivelser
-            ..s..ssssesesssssssrsresresrrsrrsserrsrsrrsrsrssrsrsrrsrsrses
-            ers Ares es ARR AR RAR AR en RR ers renen enn nn 8 Förslag och
-            redogörelser .m.ssesssssrsrsrssorsrsrsrsrsrsrrrrsrsrsrrsrsesers
-            reser esse er ere ere KKR R ARK AR AR er ere renen rn enn a 14
-            MOTiODET osssserseseresonenrnersnarannnnrnnn NANO SRAANAARO RAN
-            AN ANNA RKNARA NANNA AR RA NNANAN ANNARS SAK NÄ RENSA ANKA NANNA
-            R OF NÄRKE A AR RAR KR 16 Betänkande sms ss SNS STEINER 157 VY
-            UEATIGÖN rxsssnensnnessnnrnnnnes sn dansör seas SNN NES RONNA
-            RNSNDNSTRNSSTNNNR UNSRNS FANS SANN SESASTRNGR SN KERUNENSNNNR
-            NAR ESS NR SENSE 166 INterpellätiöOnet ss: ««e-ssssemswiwsnevsessssvESö
-            NS KEOSUNOR AE ÖRESENSSNSSENSNSNORES SKSSEN SNES KSN SANNING VSK
-            NN NN ERE 168
-          </p>
-          <p>
-            Skriftliga frågOr ooesesssssesesrsrersersesrersersrsrsrsrssrer
-            rese esr ers reser er er er RR AR ES ARR R ER ERE ASA K AR AREA
-            RER ARKA A Re Rene enn nanna 185
-          </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/200203/reg_200203/reg_200203_0003"/>
-          <p>
+          </head>
+          <head>
+            Innehåll
+          </head>
+          <list>
+            <item>
+              <seg>
+                Om den nya förteckningen över det bundna riksdagstrycket fr.o.m.
+                riksmötet 2002/03
+              </seg>
+              <ref type="page">
+                4
+              </ref>
+            </item>
+            <item>
+              <seg>
+                Riksdagstryckets indelning och uppställning
+              </seg>
+              <ref type="page">
+                5
+              </ref>
+            </item>
+            <item>
+              <seg>
+                Riksdagstryckets indelning vid 2002/03 års riksmöte
+              </seg>
+              <ref type="page">
+                6
+              </ref>
+            </item>
+            <item>
+              <seg>
+                Förkortningar
+              </seg>
+              <ref type="page">
+                7
+              </ref>
+            </item>
+            <item>
+              <seg>
+                Propositioner och skrivelser
+              </seg>
+              <ref type="page">
+                8
+              </ref>
+            </item>
+            <item>
+              <seg>
+                Förslag och redogörelser
+              </seg>
+              <ref type="page">
+                14
+              </ref>
+            </item>
+            <item>
+              <seg>
+                Motioner
+              </seg>
+              <ref type="page">
+                16
+              </ref>
+            </item>
+            <item>
+              <seg>
+                Betänkanden
+              </seg>
+              <ref type="page">
+                157
+              </ref>
+            </item>
+            <item>
+              <seg>
+                Yttranden
+              </seg>
+              <ref type="page">
+                166
+              </ref>
+            </item>
+            <item>
+              <seg>
+                Interpellationer
+              </seg>
+              <ref type="page">
+                168
+              </ref>
+            </item>
+            <item>
+              <seg>
+                Skriftliga frågor
+              </seg>
+              <ref type="page">
+                185
+              </ref>
+            </item>
+          </list>
+        </div>
+        <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/200203/reg_200203/reg_200203_0003"/>
+        <div type="main">
+          <head>
             Om den nya förteckningen över det bundna riksdags- trycket fr.o.m.
             riksmötet 2002/03
-          </p>
+          </head>
           <p>
             Behovet av ett tryckt sak- och personregister har förändrats
             mycket på grund av att riksdagsdokumenten är sökbara i fritext

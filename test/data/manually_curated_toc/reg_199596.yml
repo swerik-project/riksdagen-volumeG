@@ -1,0 +1,81 @@
+---
+Innehåll:
+  - i: ~
+    t: "Sakregister"
+    p: ~
+    children:
+      - i: ~
+        t: "Förklaringar"
+        p: "IX"
+      - i: ~
+        t: "Förkortningar"
+        p: "XI"
+      - i: ~
+        t: "Ämnesindelning av motioner"
+        p: "XII"
+      - i: ~
+        t: "Propositioner"
+        p: "1"
+      - i: ~
+        t: "Förslag och redogörelser"
+        p: "42"
+      - i: ~
+        t: "Motionsförteckning"
+        p: "47"
+      - i: ~
+        t: "Interpellationer"
+        p: "81"
+      - i: ~
+        t: "Frågor"
+        p: "97"
+      - i: ~
+        t: "Utskottsbetänkanden"
+        p: "139"
+      - i: ~
+        t: "Utskottsinitiativ"
+        p: "172"
+      - i: ~
+        t: "Utskottens yttranden"
+        p: "174"
+      - i: ~
+        t: "Utfrågningar"
+        p: "180"
+      - i: ~
+        t: "Tillägg:"
+        p: ~
+        children:
+          - i: ~
+            t: "Regeringsförklaring"
+            p: "183"
+          - i: ~
+            t: "Större debatter"
+            p: "183"
+          - i: ~
+            t: "Särskilda debatter"
+            p: "183"
+          - i: ~
+            t: "Ändringar av antalet platser i utskott"
+            p: "183"
+          - i: ~
+            t: "Val inom riksdagen"
+            p: "183"
+      - i: ~
+        t: "Index"
+        p: "185"
+  - i: ~
+    t: "Personregister"
+    p: "245"
+    children:
+      - i: ~
+        t: "Tillägg:"
+        p: ~
+        children:
+          - i: ~
+            t: "Ersätternas tjänstgörning"
+            p: "327"
+          - i: ~
+            t: "Avsägelse av riksdagsmannaskap"
+            p: "328"
+          - i: ~
+            t: "Avlidna ledamöter"
+            p: "329"

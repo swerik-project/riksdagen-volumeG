@@ -19,9 +19,9 @@
   </teiHeader>
   <text>
     <body>
-      <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0000"/>
+      <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0001"/>
       <div type="gBody">
-        <div>
+        <div type="frontmatter">
           <p>
             1998/99 års riksmöte
           </p>
@@ -37,7 +37,7 @@
           <p>
             Band G
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0001"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0002"/>
           <p>
             Riksdagstryckets indelning och uppställning
           </p>
@@ -104,7 +104,7 @@
           <p>
             Sak- och personregister.
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0002"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0003"/>
           <p>
             Det bundna riksdagstryckets indelning vid 1998/99 års riksmöte
           </p>
@@ -189,52 +189,221 @@
           <p>
             Register
           </p>
-          <p>
-            III
-          </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0003"/>
-          <p>
+        </div>
+        <note type="pagenumber">
+          III
+        </note>
+        <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0004"/>
+        <div type="toc">
+          <head type="toc">
             Innehåll
-          </p>
-          <p>
-            Sakregister Förklaringar" ; ss: ss sc ss SNR SR «ös &amp; se
-            se Kö fs 6 ä fe &amp; eve GR SA NS ss RT IX FÖrkOrtililgål sa
-            «ss ss sv se ef 4 IR SNR Se ES 6 &amp; SR es Re ER sf a RR Rs
-            BN XI Ämnesindelning av motioner ......ssessesersrrrrrrrrrrrr
-            rer rea XI PröpöSitiOnet” 3: ss ses se es ne REN SR BS Ers ja
-            ia ä AR NR RR KE RN KR RR NER 1 Förslag Och redogörelser ss: se
-            sie ss se sö ss es: es ee Need Ne NN 47 MOtionsförteckDilig «s.
-            s sm se sm sie eve 5 6 «vä ein ee far ee äre SIR 50 Intörpellätiönlét's
-            ss: som se ae sie eR SIE Sa äs ae NR ee KN Ke NS NN SR 141 IFTÄDÖL
-            ss me äre Göm det 4 lå Ne Me Re FNS SN TR 6 kB a la äm aj Rea
-            Ne SR ä Gi DN Sm DN 163 Utskottsbetänkanden :: ss sms ue ss se
-            6 äss ee Esa ie a MaE NR DR FR 209 Utskotlsinifiätiv: 3.=s:s =
-            «ss ens em se se se 5 disse sl el a Ne SR föra NN 4 Ske SR 242
-            Utskottens yttranden : ss. os me ae ss 5 IN bs ce GR 6 NR GR KG
-            se Se LS 244 Utfrågningar' ; a.: sas «sö sme ms ka kg ket 1 RKA
-            ER GR Re IR ERS NN FR AR 247 Tillägg: : Regeringsförklaring «:.
-            ss es 88 nes esse: dr ed se ve se a 250 Större:debatter .... «..:
-            ss: s ms öns sd ina eb aa Re SR Re NN FE AR 250 Särskilda debatter;
-            ss sms es ks ös sed: RR NR KR TR 250 Ändringar av antalet platser
-            i utskott .........sssssesssssrrrra 250 Val inom riksdagen : .....
-            ses och is ss 666 6 ss sfär lb NA 250 INdeX oss ölen a års one
-            nh 16 fö Fd RAL IR RR 5 RR BN) BR BAR 6 GSR DAR AR BIN ARS 252
-            Personregister . ... ss sins ss avs md ee a Sa SG de sd Ke bed
-            Ke en ar 319 Tillägg: Ersättarnas tjänstgöring a: :«.s ss «ss
-            se sö sas Se eh eg rr 423
-          </p>
-          <p>
-            Avsägelse av riksdagsmannaskap ......sssesseeseessre reser rt
-            423
-          </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0004"/>
+          </head>
+          <head>
+            Innehåll
+          </head>
+          <list>
+            <item>
+              <seg>
+                Sakregister
+              </seg>
+              <list>
+                <item>
+                  <seg>
+                    Förklaringar
+                  </seg>
+                  <ref type="page">
+                    IX
+                  </ref>
+                </item>
+                <item>
+                  <seg>
+                    Förkortningar
+                  </seg>
+                  <ref type="page">
+                    XI
+                  </ref>
+                </item>
+                <item>
+                  <seg>
+                    Ämnesindelning av motioner
+                  </seg>
+                  <ref type="page">
+                    XII
+                  </ref>
+                </item>
+                <item>
+                  <seg>
+                    Propositioner
+                  </seg>
+                  <ref type="page">
+                    1
+                  </ref>
+                </item>
+                <item>
+                  <seg>
+                    Förslag och redogörelser
+                  </seg>
+                  <ref type="page">
+                    47
+                  </ref>
+                </item>
+                <item>
+                  <seg>
+                    Motionsförteckning
+                  </seg>
+                  <ref type="page">
+                    50
+                  </ref>
+                </item>
+                <item>
+                  <seg>
+                    Interpellationer
+                  </seg>
+                  <ref type="page">
+                    141
+                  </ref>
+                </item>
+                <item>
+                  <seg>
+                    Frågor
+                  </seg>
+                  <ref type="page">
+                    163
+                  </ref>
+                </item>
+                <item>
+                  <seg>
+                    Utskottsbetänkanden
+                  </seg>
+                  <ref type="page">
+                    209
+                  </ref>
+                </item>
+                <item>
+                  <seg>
+                    Utskottsinitiativ
+                  </seg>
+                  <ref type="page">
+                    242
+                  </ref>
+                </item>
+                <item>
+                  <seg>
+                    Utskottens yttranden
+                  </seg>
+                  <ref type="page">
+                    244
+                  </ref>
+                </item>
+                <item>
+                  <seg>
+                    Utfrågningar
+                  </seg>
+                  <ref type="page">
+                    247
+                  </ref>
+                </item>
+                <item>
+                  <seg>
+                    Tillägg:
+                  </seg>
+                  <list>
+                    <item>
+                      <seg>
+                        Regeringsförklaring
+                      </seg>
+                      <ref type="page">
+                        250
+                      </ref>
+                    </item>
+                    <item>
+                      <seg>
+                        Större debatter
+                      </seg>
+                      <ref type="page">
+                        250
+                      </ref>
+                    </item>
+                    <item>
+                      <seg>
+                        Särskilda debatter
+                      </seg>
+                      <ref type="page">
+                        250
+                      </ref>
+                    </item>
+                    <item>
+                      <seg>
+                        Ändringar av antalet platser i utskott
+                      </seg>
+                      <ref type="page">
+                        250
+                      </ref>
+                    </item>
+                    <item>
+                      <seg>
+                        Val inom riksdagen
+                      </seg>
+                      <ref type="page">
+                        250
+                      </ref>
+                    </item>
+                  </list>
+                </item>
+                <item>
+                  <seg>
+                    Index
+                  </seg>
+                  <ref type="page">
+                    252
+                  </ref>
+                </item>
+              </list>
+            </item>
+            <item>
+              <seg>
+                Personregister
+              </seg>
+              <ref type="page">
+                319
+              </ref>
+              <list>
+                <item>
+                  <seg>
+                    Tillägg:
+                  </seg>
+                  <list>
+                    <item>
+                      <seg>
+                        Ersätternas tjänstgörning
+                      </seg>
+                      <ref type="page">
+                        423
+                      </ref>
+                    </item>
+                    <item>
+                      <seg>
+                        Avsägelse av riksdagsmannaskap
+                      </seg>
+                      <ref type="page">
+                        423
+                      </ref>
+                    </item>
+                  </list>
+                </item>
+              </list>
+            </item>
+          </list>
+        </div>
+        <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0005"/>
+        <div type="main">
           <p>
             Sakregister
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0005"/>
-          <p>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0006"/>
+          <head>
             Förklaringar till sakregistret
-          </p>
+          </head>
           <p>
             Ärendena (propositioner, förslag och redogörelser, motioner samt
             utskottsinitiativ) an- ges i nummerordning. Först i sakregistret
@@ -268,7 +437,7 @@
             vid beslut som medför grundlagsändring skall yrkandet bifallas
             av två riksmöten, mellan vilka allmänt val hållits
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0006"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0007"/>
           <p>
             Interpellationer och frågor (Exempel)
           </p>
@@ -283,7 +452,7 @@
             anges endast i direkt anslutning till uppskov/överflytt- ning
             6 överflyttad till nästa riksmöte
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0007"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0008"/>
           <p>
             Förkortningar
           </p>
@@ -308,7 +477,7 @@
           <p>
             XI
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0008"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0009"/>
           <p>
             Amnesindelning av motioner
           </p>
@@ -412,7 +581,7 @@
             ung- domsverksamhet, idrott, lotterier och kyrkliga frågor Kr601—
             Folkbildning
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0009"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0010"/>
           <p>
             Utbildningsutskottet
           </p>
@@ -478,7 +647,7 @@
           <p>
             XII
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0010"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0011"/>
           <p>
             Propositioner
           </p>
@@ -583,7 +752,7 @@
           <p>
             1998-12-03
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0011"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0012"/>
           <p>
             PROPOSITIONER Uppskov
           </p>
@@ -688,7 +857,7 @@
           <p>
             1998-12-04
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0012"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0013"/>
           <p>
             1997/98:160 Kontoföring av finansiella instrument och kost- nadsinformation
             till fondandelsägare att riksdagen antar regeringens förslag till
@@ -779,7 +948,7 @@
             (1975:1385), 3. lag om ändring i lagen (1987:1245) om styrel-
             serepresentation för de privatanställda,
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0013"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0014"/>
           <p>
             PROPOSITIONER Uppskov
           </p>
@@ -896,7 +1065,7 @@
           <p>
             1998-11-25
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0014"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0015"/>
           <p>
             5. att riksdagen antar regeringens förslag till lag om ändring
             i lagen (1976:661) om immunitet och privilegier i vissa fall.
@@ -996,7 +1165,7 @@
           <p>
             1999-02-17
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0015"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0016"/>
           <p>
             PROPOSITIONER Uppskov
           </p>
@@ -1101,7 +1270,7 @@
             om ändring i lagen (1963:193) om samar- bete med Danmark, Finland,
             Island och Norge an- gående verkställighet av straff m.m.
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0016"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0017"/>
           <p>
             LU06 bifall RD 53 (d) RD 57 (b) = utskottet Rskr 125
           </p>
@@ -1198,7 +1367,7 @@
           <p>
             1998-12-02
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0017"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0018"/>
           <p>
             PROPOSITIONER
           </p>
@@ -1290,7 +1459,7 @@
             =: bostadsförsörjning och byggande, förändr. av ram +289 454 000,
             för- ändr. anslag A1l Boverket: Förvaltningskostnader,
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0018"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0019"/>
           <p>
             ramanslag —17 000 000, A2 Räntebidrag m.m., ramanslag -600 000
             000, A4 Statens bostadskre- ditnämnd: Förvaltningskostnader, ramanslag
@@ -1382,7 +1551,7 @@
             kapitaltäck- ning och stora exponeringar för kreditinstitut och
             värdepappersbolag, FiUO1 bifall RD 27 (d)
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0019"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0020"/>
           <p>
             PROPOSITIONER
           </p>
@@ -1474,7 +1643,7 @@
           <p>
             1998-12-02
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0020"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0021"/>
           <p>
             Bl. Åklagarorganisationen; ramanslag; 620 140 000, B2. Ekobrottsmyndigheten;
             ramanslag; 199 197 000, C1. Domstolsväsendet m.m.; ramanslag;
@@ -1567,7 +1736,7 @@
           <p>
             11
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0021"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0022"/>
           <p>
             PROPOSITIONER
           </p>
@@ -1672,7 +1841,7 @@
             491 020 000, B2. Funktionen Försörjning med industrivaror; ramanslag;
             108 795 000,
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0022"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0023"/>
           <p>
             B3. Funktionen Befolkningsskydd och rädd- ningstjänst; ramanslag;
             1.053 531 000, B4. Funktionen Psykologiskt försvar; raman- slag;
@@ -1756,7 +1925,7 @@
           <p>
             13
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0023"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0024"/>
           <p>
             PROPOSITIONER
           </p>
@@ -1837,7 +2006,7 @@
             nämnd för internationella adop- tionsfrågor; ramanslag; 6 745
             000,
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0024"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0025"/>
           <p>
             BI16. Statens institutionsstyrelse; 524 848 000, B17. Alkoholinspektionen;
             ramanslag; 11 013 000, B18. Alkoholsortimentsnämnden; ramanslag;
@@ -1938,7 +2107,7 @@
           <p>
             15
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0025"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0026"/>
           <p>
             PROPOSITIONER
           </p>
@@ -2035,7 +2204,7 @@
             ramanslaget B5 Fi- nansiering av forskning och utveckling inom
             ar- betslivsområdet, besluta om åtaganden, som inklu-
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0026"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0027"/>
           <p>
             sive tidigare åtaganden medför utgifter under peri- oden 2000-2004,
             som uppgår till högst 420 000 000 kr, 12. att riksdagen bemyndigar
@@ -2129,7 +2298,7 @@
           <p>
             17
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0027"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0028"/>
           <p>
             PROPOSITIONER
           </p>
@@ -2211,7 +2380,7 @@
           <p>
             Grundutbildning;
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0028"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0029"/>
           <p>
             B41. Högskolan i Trollhättan/Uddevalla: Grund- utbildning; ramanslag;
             115 526 000, B42. Idrottshögskolan i Stockholm: Grundut- bildning;
@@ -2306,7 +2475,7 @@
           <p>
             19
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0029"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0030"/>
           <p>
             PROPOSITIONER
           </p>
@@ -2383,7 +2552,7 @@
             G3. Restaureringsarbeten vid de kungliga slotten och landets fästningar;
             reservationsanslag; 50 000 000,
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0030"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0031"/>
           <p>
             H1. Centrala museer: Myndigheter; ramanslag; 601 087 000, H2.
             Centrala museer: Stiftelser; obetecknat an- slag; 172 897 000,
@@ -2464,7 +2633,7 @@
           <p>
             21
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0031"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0032"/>
           <p>
             PROPOSITIONER
           </p>
@@ -2554,7 +2723,7 @@
             raman- slag; 355 000 000, B2. Bidrag till investeringar i elproduktion
             från förnybara energikällor; ramanslag; 135 000 000,
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0032"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0033"/>
           <p>
             B3. Åtgärder för effektivare energianvändning; ramanslag; 65
             000 000, B4. Energiforskning; ramanslag; 398 056 000, BS. Energiteknikstöd;
@@ -2639,7 +2808,7 @@
           <p>
             23
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0033"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0034"/>
           <p>
             PROPOSITIONER
           </p>
@@ -2734,7 +2903,7 @@
             B4. Elsäkerhetsverket; ramanslag; 37 416 000, BS. Sprängämnesinspektionen;
             ramanslag; 15 207 000,
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0034"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0035"/>
           <p>
             B6. Bidrag till standardisering, provnings- och mätteknisk FoU
             m.m.; ramanslag; 77 000 000, B7. Patent- och registreringsverket:
@@ -2829,7 +2998,7 @@
           <p>
             25
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0035"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0036"/>
           <p>
             PROPOSITIONER
           </p>
@@ -2936,7 +3105,7 @@
           <p>
             1999-03-17
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0036"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0037"/>
           <p>
             9 Migration och asylpolitik att riksdagen tar del av skrivelsen.
             SfU02 till handlingarna RD 37 (d) RD 37 (b) = utskottet SfUOS
@@ -3034,7 +3203,7 @@
           <p>
             27
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0037"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0038"/>
           <p>
             PROPOSITIONER
           </p>
@@ -3140,7 +3309,7 @@
           <p>
             1999-02-17
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0038"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0039"/>
           <p>
             22 Sekretess för vissa uppgifter hos uppdragsmyndig- heter m.m.
             att riksdagen antar regeringens förslag till 1.lag om ändring
@@ -3249,7 +3418,7 @@
           <p>
             29
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0039"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0040"/>
           <p>
             PROPOSITIONER
           </p>
@@ -3347,7 +3516,7 @@
           <p>
             1999-03-03
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0040"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0041"/>
           <p>
             38 Staten och trossamfunden — begravningsverksam- heten, kulturminnena,
             personalen, avgiftsbetal- ningen m.m. 1. att riksdagen antar regeringens
@@ -3442,7 +3611,7 @@
           <p>
             31
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0041"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0042"/>
           <p>
             PROPOSITIONER
           </p>
@@ -3548,7 +3717,7 @@
             53 Lag om betalningsöverföringar inom Europeiska ekonomiska samarbetsområdet
             att riksdagen antar regeringens förslag till
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0042"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0043"/>
           <p>
             1. lag om betalningsöverföringar inom Europeis- ka ekonomiska
             samarbetsområdet, 2. lag om ändring i prisinformationslagen (1991:601).
@@ -3655,7 +3824,7 @@
           <p>
             33
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0043"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0044"/>
           <p>
             PROPOSITIONER
           </p>
@@ -3764,7 +3933,7 @@
             i propositionen framlagda förslagen till 1. lag om ändring i socialförsäkringsregisterla-
             gen (1997:934), SfU10 bifall RD 102 (d)
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0044"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0045"/>
           <p>
             RD 104 (b) = utskottet 1999-06-01
           </p>
@@ -3868,7 +4037,7 @@
           <p>
             35
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0045"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0046"/>
           <p>
             PROPOSITIONER
           </p>
@@ -3959,7 +4128,7 @@
           <p>
             1999-05-06
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0046"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0047"/>
           <p>
             84 Lag om skatt på avfall att riksdagen antar de i propositionen
             framlagda förslagen till 1. lag om skatt på avfall, 2. lag om
@@ -4054,7 +4223,7 @@
           <p>
             37
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0047"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0048"/>
           <p>
             PROPOSITIONER
           </p>
@@ -4158,7 +4327,7 @@
           <p>
             1999-06-03
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0048"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0049"/>
           <p>
             929
           </p>
@@ -4284,7 +4453,7 @@
           <p>
             39
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0049"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0050"/>
           <p>
             PROPOSITIONER
           </p>
@@ -4390,7 +4559,7 @@
             2. lag om ändring i lagen (1984:1052) om statlig fastighetsskatt,
             3. lag om ändring i kommunalskattelagen (1928:370),
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0050"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0051"/>
           <p>
             4. lag om ändring i lagen (1991:687) om särskild löneskatt på
             pensionskostnader, 5. lag om ändring i lagen (1999:300) om ändring
@@ -4482,7 +4651,7 @@
           <p>
             41
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0051"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0052"/>
           <p>
             PROPOSITIONER
           </p>
@@ -4573,7 +4742,7 @@
             4. lag om ändring i lagen (1972:435) om över- lastavgift. Överflyttad
             till nästa riksmöte
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0052"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0053"/>
           <p>
             124 Staten och trossamfunden — stöd, medverkan inom totalförsvaret
             m.m. att riksdagen antar regeringens förslag till 1. lag om stöd
@@ -4661,7 +4830,7 @@
           <p>
             43
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0053"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0054"/>
           <p>
             PROPOSITIONER
           </p>
@@ -4742,7 +4911,7 @@
             lag om ändring i lagen (1961:181) om försälj- ning av teknisk
             sprit m.m.,
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0054"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0055"/>
           <p>
             1.3 lag om ändring i lagen (1994:1564) om alko- holskatt, 1.5
             lag om ändring i lagen (1994:1776) om skatt på energi, 1.6 lag
@@ -4827,7 +4996,7 @@
           <p>
             45
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0055"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0056"/>
           <p>
             PROPOSITIONER
           </p>
@@ -4867,7 +5036,7 @@
             146 Tidsbegränsade uppehållstillstånd i vissa utlän- ningsärenden
             att riksdagen tar del av skrivelsen. Överflyttad till nästa riksmöte
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0056"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0057"/>
           <p>
             Förslag och redogörelser
           </p>
@@ -4979,7 +5148,7 @@
           <p>
             47
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0057"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0058"/>
           <p>
             FÖRSLAG OCH REDOGÖRELSER
           </p>
@@ -5083,7 +5252,7 @@
             vad revisorerna i avsnitt 2.6 anfört om . EU-frågor. Överflyttat
             till nästa riksmöte
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0058"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0059"/>
           <p>
             1998/99:RR10 Riksdagens revisorers förslag angående myndig- heternas
             lönekostnader 1. att riksdagen som sin mening ger regeringen till
@@ -5171,7 +5340,7 @@
           <p>
             49
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0059"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0060"/>
           <p>
             MOTIONER
           </p>
@@ -5276,7 +5445,7 @@
             K20 Lennart Hedquist (m) och Ola Rask (s) med anledning av prop.
             1998/99:66 En stärkt kom- munal revision
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0060"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0061"/>
           <p>
             K21 Per Unckel m.fl. (m) med anledning av prop. 1998/99:66 En
             stärkt kom- munal revision
@@ -5382,7 +5551,7 @@
           <p>
             51
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0061"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0062"/>
           <p>
             MOTIONER K
           </p>
@@ -5490,7 +5659,7 @@
           <p>
             K244 Sten Andersson (m) Kommunal rösträtt för utländska medborgare
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0062"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0063"/>
           <p>
             K245 Per Unckel m.fl. (m) Antalet ordinarie ledamöter i utskotten
           </p>
@@ -5592,7 +5761,7 @@
           <p>
             53
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0063"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0064"/>
           <p>
             MOTIONER K
           </p>
@@ -5699,7 +5868,7 @@
           <p>
             K304 Ingvar Svensson m.fl. (kd) Dröjsmålstalan
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0064"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0065"/>
           <p>
             K305 Lars Wegendal m.fl. (s) Medborgarkontor
           </p>
@@ -5804,7 +5973,7 @@
           <p>
             55
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0065"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0066"/>
           <p>
             MOTIONER Fi
           </p>
@@ -5909,7 +6078,7 @@
             Fi6 Lars Tobisson m.fl. (m) med anledning av skr. 1997/98:187
             Uppföljning av budgetåret 1997
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0066"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0067"/>
           <p>
             Fi7 Lars Tobisson m.fl. (m) med anledning av prop. 1998/99:30
             Investerarskydd
@@ -6015,7 +6184,7 @@
           <p>
             57
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0067"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0068"/>
           <p>
             MOTIONER Fi
           </p>
@@ -6117,7 +6286,7 @@
           <p>
             Fi210 Lennart Daléus m.fl. (c) Ekonomisk politik
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0068"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0069"/>
           <p>
             Fi211 Lars Leijonborg m.fl. (fp) Ekonomisk politik för jobb och
             tillväxt
@@ -6230,7 +6399,7 @@
           <p>
             59
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0069"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0070"/>
           <p>
             MOTIONER Fi
           </p>
@@ -6337,7 +6506,7 @@
           <p>
             Fi910 Mats Odell m.fl. (kd) Statsskuldräntor m.m.
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0070"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0071"/>
           <p>
             Fi911l Mats Odell m.fl. (kd) Avgiften till Europeiska gemenskapen
           </p>
@@ -6443,7 +6612,7 @@
           <p>
             61
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0071"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0072"/>
           <p>
             MOTIONER Sk
           </p>
@@ -6550,7 +6719,7 @@
           <p>
             Sk310 Carl Bildt m.fl. (m) Företagandet och jobben
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0072"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0073"/>
           <p>
             Sk311 Carl Bildt m.fl. (m) En social skattepolitik
           </p>
@@ -6657,7 +6826,7 @@
           <p>
             63
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0073"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0074"/>
           <p>
             MOTIONER Sk
           </p>
@@ -6766,7 +6935,7 @@
             Sk658 Nils Fredrik Aurelius och Ola Sundell (m) Reavinst vid
             aktieförsäljning
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0074"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0075"/>
           <p>
             Sk659 Berit Adolfsson och Inger René (m) Skatten och lönebeskedet
           </p>
@@ -6876,7 +7045,7 @@
           <p>
             65
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0075"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0076"/>
           <p>
             MOTIONER Sk
           </p>
@@ -6985,7 +7154,7 @@
           <p>
             Sk717 Kenth Högström (s) Upplösningsfonder
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0076"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0077"/>
           <p>
             Sk718 Kenth Högström m.fl. (s) Skogskonto och skyddsvärda skogs-
             och naturområ- den
@@ -7097,7 +7266,7 @@
           <p>
             67
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0077"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0078"/>
           <p>
             MOTIONER Ju
           </p>
@@ -7198,7 +7367,7 @@
             Jul? Siw Persson m.fl. (fp) med anledning av prop. 1998/99:72
             Rättspsykiatriskt forskningsregister
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0078"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0079"/>
           <p>
             Ju18 Karin Pilsäter (fp) med anledning av prop. 1998/99:72 Rättspsykiatriskt
             forskningsregister
@@ -7303,7 +7472,7 @@
           <p>
             69
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0079"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0080"/>
           <p>
             MOTIONER Ju
           </p>
@@ -7414,7 +7583,7 @@
           <p>
             Ju705 Ingvar Svensson m.fl. (kd) Handel med sexuella tjänster
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0080"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0081"/>
           <p>
             Ju706 Kerstin Kristiansson m.fl. (s) Smuggling
           </p>
@@ -7517,7 +7686,7 @@
           <p>
             71
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0081"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0082"/>
           <p>
             MOTIONER L
           </p>
@@ -7616,7 +7785,7 @@
           <p>
             L303 Marianne Andersson m.fl. (c, m, kd, fp) Skyddet för äganderättsförbehåll
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0082"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0083"/>
           <p>
             Familjerätt
           </p>
@@ -7722,7 +7891,7 @@
           <p>
             13
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0083"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0084"/>
           <p>
             MOTIONER L
           </p>
@@ -7831,7 +8000,7 @@
             L902 Agne Hansson och Viviann Gerdin (c) Myndighetsorganisationen
             för fastighetsmäklarverk- samheten
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0084"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0085"/>
           <p>
             L903 Barbro Johansson (mp) Marknadsföring av reklam till företag
           </p>
@@ -7935,7 +8104,7 @@
           <p>
             TS
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0085"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0086"/>
           <p>
             MOTIONER U
           </p>
@@ -8049,7 +8218,7 @@
           <p>
             U508 Birger Schlaug m.fl. (mp) Sveriges ordförandeskap i EU m.m.
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0086"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0087"/>
           <p>
             U509 Holger Gustafsson m.fl. (kd) Europapolitiken
           </p>
@@ -8151,7 +8320,7 @@
           <p>
             177
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0087"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0088"/>
           <p>
             MOTIONER Fö
           </p>
@@ -8260,7 +8429,7 @@
             Fö3 Åke Carnerö m.fl. (kd) med anledning av prop. 1998/99:64
             Säkrare kemika- liehantering
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0088"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0089"/>
           <p>
             Fö4 Stig Sandström och Berit Jöhannesson (v) med anledning av
             prop. 1998/99:64 Säkrare kemika- liehantering
@@ -8362,7 +8531,7 @@
           <p>
             29
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0089"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0090"/>
           <p>
             MOTIONER Fö
           </p>
@@ -8474,7 +8643,7 @@
             Fö601 Elizabeth Nyström och Kent Olsson (m) Kustbevakningens
             befogenheter
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0090"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0091"/>
           <p>
             Fö602 Bertil Persson (m) Kustbevakningen och marinen
           </p>
@@ -8579,7 +8748,7 @@
           <p>
             81
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0091"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0092"/>
           <p>
             MOTIONER Sf
           </p>
@@ -8680,7 +8849,7 @@
           <p>
             Sf223 Margit Gennser (m) Socialförsäkringsnämnderna
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0092"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0093"/>
           <p>
             Sf224 Marie Engström m.fl. (v) Allmän pensionsavgift
           </p>
@@ -8785,7 +8954,7 @@
           <p>
             83
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0093"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0094"/>
           <p>
             MOTIONER Sf
           </p>
@@ -8899,7 +9068,7 @@
             Sf283 Kerstin Heinemann m.fl. (fp) Anslag inom sociala sektorn
             m.m.
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0094"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0095"/>
           <p>
             Invandrarfrågor m.m.
           </p>
@@ -9008,7 +9177,7 @@
           <p>
             85
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0095"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0096"/>
           <p>
             MOTIONER So
           </p>
@@ -9112,7 +9281,7 @@
             So18 Thomas Julin m.fl. (mp) med anledning av förs. 1998/99:RR2
             Riksdagens re- visorers förslag angående primärvården
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0096"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0097"/>
           <p>
             So19 Karin Pilsäter (fp) med anledning av prop. 1998/99:70 Könsstympning
             — borttagande av kravet på dubbel straffbarhet
@@ -9223,7 +9392,7 @@
           <p>
             87
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0097"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0098"/>
           <p>
             MOTIONER So
           </p>
@@ -9329,7 +9498,7 @@
           <p>
             So251 Rigmor Ahlstedt (c) Likvärdig behandling vid infertilitet
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0098"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0099"/>
           <p>
             S0252 Barbro Westerholm (fp) Språkprov för utländska sjuksköterskor
           </p>
@@ -9431,7 +9600,7 @@
           <p>
             89
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0099"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0100"/>
           <p>
             MOTIONER So
           </p>
@@ -9539,7 +9708,7 @@
           <p>
             So311 Gudrun Schyman m.fl. (v) De äldre
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0100"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0101"/>
           <p>
             So312 Marianne Andersson och Birgitta Carlsson (c) Alternativmedicin
           </p>
@@ -9645,7 +9814,7 @@
           <p>
             91
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0101"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0102"/>
           <p>
             MOTIONER So
           </p>
@@ -9751,7 +9920,7 @@
           <p>
             S0o372 Thomas Julin m.fl. (mp) Droger
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0102"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0103"/>
           <p>
             S0373 Yvonne Ruwaida m.fl. (mp) Ungdomar
           </p>
@@ -9854,7 +10023,7 @@
           <p>
             93
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0103"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0104"/>
           <p>
             MOTIONER So
           </p>
@@ -9958,7 +10127,7 @@
           <p>
             S0433 Ingvar Eriksson (m) Aldreomsorgen
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0104"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0105"/>
           <p>
             S0o434 Camilla Dahlin-Andersson (fp) Barns och ungdomars situation
           </p>
@@ -10063,7 +10232,7 @@
           <p>
             95
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0105"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0106"/>
           <p>
             MOTIONER Kr
           </p>
@@ -10194,7 +10363,7 @@
             1998/99:107 En idrottspolitik för 2000-talet — folkhälsa, folkrörelse
             och underhåll- ning
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0106"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0107"/>
           <p>
             Kr21 Roy Hansson och Elizabeth Nyström (m) med anledning av prop.
             1998/99:107 En idrottspolitik för 2000-talet — folkhälsa, folkrörelse
@@ -10301,7 +10470,7 @@
           <p>
             97
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0107"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0108"/>
           <p>
             MOTIONER Kr
           </p>
@@ -10404,7 +10573,7 @@
           <p>
             Kr228 Inger Segelström och Ingemar Josefsson (s) Kultur och tillväxt
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0108"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0109"/>
           <p>
             Kr229 Charlotta L Bjälkebring (v) och Birger Schlaug (mp) Barnkulturcentrum
             i Eskilstuna
@@ -10513,7 +10682,7 @@
           <p>
             99
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0109"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0110"/>
           <p>
             MOTIONER Kr
           </p>
@@ -10620,7 +10789,7 @@
           <p>
             Kr511 Peter Pedersen m.fl. (v, s, kd) Proffsboxning i Sverige
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0110"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0111"/>
           <p>
             Kr512 Carina Moberg och Eva Johansson (s) Folkrörelsernas ställning
             på lotterimarknaden
@@ -10722,7 +10891,7 @@
           <p>
             101
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0111"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0112"/>
           <p>
             MOTIONER Ub
           </p>
@@ -10828,7 +10997,7 @@
             Ub208 Marianne Andersson m.fl. (c) Teckenspråkig grundskola i
             Vänersborg
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0112"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0113"/>
           <p>
             Ub209 Ingvar Eriksson och Lars Björkman (m) Natur- och miljökunskap
             i skolan
@@ -10940,7 +11109,7 @@
           <p>
             103
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0113"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0114"/>
           <p>
             MOTIONER Ub
           </p>
@@ -11048,7 +11217,7 @@
           <p>
             Ub268 Barbro Westerholm m.fl. (fp) Förskolan och skolan
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0114"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0115"/>
           <p>
             Ub269 Gudrun Schyman m.fl. (v) Skolan
           </p>
@@ -11153,7 +11322,7 @@
           <p>
             105
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0115"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0116"/>
           <p>
             MOTIONER Ub
           </p>
@@ -11262,7 +11431,7 @@
           <p>
             Ub451 Dan Kihlström (kd) Karlstads universitet
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0116"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0117"/>
           <p>
             Ub452 Eva Arvidsson och Cinnika Beiming (s) Lärarförsörjning
           </p>
@@ -11365,7 +11534,7 @@
           <p>
             107
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0117"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0118"/>
           <p>
             MOTIONER Ub
           </p>
@@ -11470,7 +11639,7 @@
           <p>
             Ub802 Beatrice Ask m.fl. (m) Utbildning och universitetsforskning
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0118"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0119"/>
           <p>
             Ub803 Lars Leijonborg m.fl. (fp) Den högre utbildningen
           </p>
@@ -11576,7 +11745,7 @@
           <p>
             109
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0119"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0120"/>
           <p>
             MOTIONER T
           </p>
@@ -11683,7 +11852,7 @@
           <p>
             T228 Ewa Larsson (mp) Miljöstyrande bilavgifter
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0120"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0121"/>
           <p>
             T229 Gudrun Schyman m.fl. (v) Kommunikationer
           </p>
@@ -11787,7 +11956,7 @@
           <p>
             111
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0121"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0122"/>
           <p>
             MOTIONER T
           </p>
@@ -11895,7 +12064,7 @@
           <p>
             T417 Yilmaz Kerimo m.fl. (s) Födelselandsuppgifter i körkort
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0122"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0123"/>
           <p>
             T418 Marie Granlund och Lars-Erik Lövdén (s) Felparkeringsavgifter
           </p>
@@ -11996,7 +12165,7 @@
           <p>
             113
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0123"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0124"/>
           <p>
             MOTIONER T
           </p>
@@ -12104,7 +12273,7 @@
             TS545 Hans Andersson m.fl. (v) Förbättrade utlandsförbindelser
             på järnväg
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0124"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0125"/>
           <p>
             T546 Torgny Danielsson och Ann-Kristine Johansson (s) Regionaltrafik
             på Värmlandsbanan
@@ -12209,7 +12378,7 @@
           <p>
             115
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0125"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0126"/>
           <p>
             MOTIONER T
           </p>
@@ -12319,7 +12488,7 @@
           <p>
             T817 Lena Ek (c) Postservice i hela landet
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0126"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0127"/>
           <p>
             T818 Carl Bildt m.fl. (m) Sverige vidare mot IT-toppen
           </p>
@@ -12425,7 +12594,7 @@
           <p>
             117
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0127"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0128"/>
           <p>
             MOTIONER MJ
           </p>
@@ -12533,7 +12702,7 @@
             MJ231 Holger Gustafsson (kd) Svenskt jordbruk i internationellt
             perspektiv
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0128"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0129"/>
           <p>
             MJ232 Marianne Samuelsson m.fl. (mp) Jordbruk utan gifter
           </p>
@@ -12638,7 +12807,7 @@
           <p>
             119
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0129"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0130"/>
           <p>
             MOTIONER MJ
           </p>
@@ -12748,7 +12917,7 @@
           <p>
             MJS511 Jonas Ringqvist m.fl. (v) Burhållning av pälsdjur
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0130"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0131"/>
           <p>
             MJ512 Jonas Ringqvist m.fl. (v) Genmanipulerade grödor
           </p>
@@ -12854,7 +13023,7 @@
           <p>
             121
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0131"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0132"/>
           <p>
             MOTIONER MJ
           </p>
@@ -12970,7 +13139,7 @@
           <p>
             MJ731 Per Lager m.fl. (mp) Västerhavet
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0132"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0133"/>
           <p>
             MJI732 Gudrun Lindvall (mp) Mykologisk mångfald
           </p>
@@ -13087,7 +13256,7 @@
           <p>
             123
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0133"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0134"/>
           <p>
             MOTIONER MJ
           </p>
@@ -13193,7 +13362,7 @@
           <p>
             MJ791 Barbro Johansson (mp) Läder
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0134"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0135"/>
           <p>
             MJI792 Göte Jonsson m.fl. (m) Svenska miljömål
           </p>
@@ -13303,7 +13472,7 @@
           <p>
             125
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0135"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0136"/>
           <p>
             MOTIONER N
           </p>
@@ -13409,7 +13578,7 @@
             N23 Inger Strömbom m.fl. (kd) med anledning av prop. 1998/99:137
             Införande av schablonberäkning på elmarknaden m.m.
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0136"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0137"/>
           <p>
             N24 Ingegerd Saarinen m.fl. (mp) med anledning av prop. 1998/99:137
             Införande av schablonberäkning på elmarknaden m.m.
@@ -13513,7 +13682,7 @@
           <p>
             127
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0137"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0138"/>
           <p>
             MOTIONER N
           </p>
@@ -13618,7 +13787,7 @@
           <p>
             N257 Kenth Skårvik m.fl. (fp, m, kd, c) Ensamföretagarens situation
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0138"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0139"/>
           <p>
             N258 Lilian Virgin (s) Europeiska unionens öregioner
           </p>
@@ -13723,7 +13892,7 @@
           <p>
             129
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0139"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0140"/>
           <p>
             MOTIONER N
           </p>
@@ -13827,7 +13996,7 @@
           <p>
             N317 Marianne Jönsson (s) Biobaserade drivmedel
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0140"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0141"/>
           <p>
             N318 Kaj Larsson m.fl. (s) Minerallagen
           </p>
@@ -13930,7 +14099,7 @@
           <p>
             131
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0141"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0142"/>
           <p>
             MOTIONER A
           </p>
@@ -14045,7 +14214,7 @@
           <p>
             A218 Sofia Jonsson (c) Lokala arbetsförmedlingsnämnder
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0142"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0143"/>
           <p>
             A219 sa Torstensson (c) Försöksområde med sänkt arbetsgivaravgift
           </p>
@@ -14147,7 +14316,7 @@
           <p>
             133
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0143"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0144"/>
           <p>
             MOTIONER A
           </p>
@@ -14252,7 +14421,7 @@
             A277 Elisabeth Fleetwood och Carl Erik Hedlund (m) Arbetsmarknaden
             för socialbidragstagare
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0144"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0145"/>
           <p>
             A278 Ronny Olander m.fl. (s) Frivilligarbete
           </p>
@@ -14358,7 +14527,7 @@
           <p>
             135
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0145"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0146"/>
           <p>
             MOTIONER Bo
           </p>
@@ -14464,7 +14633,7 @@
             Bo6 Ulf Björklund och Ulla-Britt Hagström (kd) med anledning
             av prop. 1998/99:62 Vissa byggfrågor m.m.
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0146"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0147"/>
           <p>
             Bo7 Lennart Klockare (s) med anledning av prop. 1998/99:77 Eftergift
             vid åter- betalning av bostadsbidragen m.m.
@@ -14574,7 +14743,7 @@
           <p>
             137
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0147"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0148"/>
           <p>
             MOTIONER Bo
           </p>
@@ -14686,7 +14855,7 @@
           <p>
             Bo301 Liselotte Wågö m.fl. (m) Anslagsfördelningen till länsstyrelserna
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0148"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0149"/>
           <p>
             Bo302 Per Bill m.fl. (m, c, fp) Länstillhörighet för Heby kommun
           </p>
@@ -14795,7 +14964,7 @@
           <p>
             139
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0149"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0150"/>
           <p>
             MOTIONER Bo
           </p>
@@ -14821,7 +14990,7 @@
           <p>
             140
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0150"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0151"/>
           <p>
             Interpellationer
           </p>
@@ -14925,7 +15094,7 @@
           <p>
             141
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0151"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0152"/>
           <p>
             INTERPELLATIONER
           </p>
@@ -15038,7 +15207,7 @@
           <p>
             34 Jordbrukssektorn Av Ulla-Britt Hagström (kd) RD volym A10
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0152"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0153"/>
           <p>
             RD 30 besvarad 1998-12-07 Besvarad av Margareta Winberg
           </p>
@@ -15165,7 +15334,7 @@
           <p>
             143
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0153"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0154"/>
           <p>
             INTERPELLATIONER
           </p>
@@ -15293,7 +15462,7 @@
             68 Svenska minröjningsinsatser Av Lars Ångström (mp) RD volym
             A10
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0154"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0155"/>
           <p>
             RD 41 Besvarad av Björn von Sydow
           </p>
@@ -15419,7 +15588,7 @@
           <p>
             145
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0155"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0156"/>
           <p>
             INTERPELLATIONER
           </p>
@@ -15539,7 +15708,7 @@
           <p>
             besvarad 1999-02-11
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0156"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0157"/>
           <p>
             103 Beskattning av fossilt avfall Av Gudrun Lindvall (mp) RD
             volym A10 Förfallen
@@ -15650,7 +15819,7 @@
           <p>
             147
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0157"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0158"/>
           <p>
             INTERPELLATIONER
           </p>
@@ -15769,7 +15938,7 @@
             137 Jämställdhet i regionalpolitiken Av Viviann Gerdin (c) RD
             volym A10
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0158"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0159"/>
           <p>
             RD 69 besvarad 1999-03-16
           </p>
@@ -15892,7 +16061,7 @@
           <p>
             149
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0159"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0160"/>
           <p>
             INTERPELLATIONER
           </p>
@@ -16011,7 +16180,7 @@
           <p>
             172 Hjälp till hemlösa Av Ulla-Britt Hagström (kd) RD volym A10
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0160"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0161"/>
           <p>
             RD 64 Besvarad av Lars Engqvist
           </p>
@@ -16125,7 +16294,7 @@
           <p>
             151
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0161"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0162"/>
           <p>
             INTERPELLATIONER
           </p>
@@ -16235,7 +16404,7 @@
           <p>
             207 Villkoren för företagande Av Kent Olsson (m) RD volym A10
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0162"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0163"/>
           <p>
             RD 82 Besvarad av Björn Rosengren
           </p>
@@ -16353,7 +16522,7 @@
           <p>
             153
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0163"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0164"/>
           <p>
             INTERPELLATIONER
           </p>
@@ -16481,7 +16650,7 @@
           <p>
             241 Folkomröstning på Östtimor Av Murad Artin (v) RD volym A10
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0164"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0165"/>
           <p>
             RD 86 Besvarad av Anna Lindh
           </p>
@@ -16603,7 +16772,7 @@
           <p>
             155
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0165"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0166"/>
           <p>
             INTERPELLATIONER
           </p>
@@ -16728,7 +16897,7 @@
           <p>
             besvarad 1999-05-31
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0166"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0167"/>
           <p>
             276 Gymnasieskolan Av Lars Hjertén (m) RD volym A10 RD 99 besvarad
             1999-05-25 Besvarad av Ingegerd Wärnersson
@@ -16844,7 +17013,7 @@
           <p>
             157
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0167"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0168"/>
           <p>
             INTERPELLATIONER
           </p>
@@ -16964,7 +17133,7 @@
             309 Förskoleverksamheten Av Gunilla Tjernberg (kd) RD volym A10
             RD 99 besvarad 1999-05-25 Besvarad av Ingegerd Wärnersson
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0168"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0169"/>
           <p>
             310 Barn med särskilda behov Av Inger Strömbom (kd) RD volym
             A10 RD 99 besvarad 1999-05-25 Besvarad av Ingegerd Wärnersson
@@ -17067,7 +17236,7 @@
           <p>
             159
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0169"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0170"/>
           <p>
             INTERPELLATIONER
           </p>
@@ -17186,7 +17355,7 @@
           <p>
             344 Ökad rättvisa i världen Av Elver Jonsson (fp) RD volym A10
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0170"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0171"/>
           <p>
             RD 95 Besvarad av Pierre Schori
           </p>
@@ -17298,7 +17467,7 @@
           <p>
             161
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0171"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0172"/>
           <p>
             INTERPELLATIONER
           </p>
@@ -17356,7 +17525,7 @@
             370 - Oljeutsläppen i Östersjön Av Dan Ericsson (kd) RD volym
             A10 tertagen
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0172"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0173"/>
           <p>
             Frågor
           </p>
@@ -17443,7 +17612,7 @@
           <p>
             163
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0173"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0174"/>
           <p>
             FRÅGOR
           </p>
@@ -17530,7 +17699,7 @@
             39 Nyårssmällare AV Anna Åkerhielm (m) RD volym A11 Besvarad
             av Björn von Sydow
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0174"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0175"/>
           <p>
             40 Katastroferna i Nicaragua Av andre vice talman Eva Zetterberg
             (v) RD volym All Besvarad av Pierre Schori
@@ -17629,7 +17798,7 @@
           <p>
             165
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0175"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0176"/>
           <p>
             FRÅGOR
           </p>
@@ -17716,7 +17885,7 @@
             79 Åtgärdsprogram angående människosynen Av Margareta Viklund
             (kd) RD volym A11 Besvarad av Margareta Winberg
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0176"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0177"/>
           <p>
             80 Partnerskapslagen Av Yvonne Ruwaida (mp) RD volym A11 Besvarad
             av Laila Freivalds
@@ -17803,7 +17972,7 @@
           <p>
             167
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0177"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0178"/>
           <p>
             FRÅGOR
           </p>
@@ -17890,7 +18059,7 @@
             119 Platsbristen inom kriminalvården Av Gunnel Wallin (c) RD
             volym A11 Besvarad av Laila Freivalds
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0178"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0179"/>
           <p>
             120 Föräldrainflytande Av Carina Adolfsson (s) RD volym All Besvarad
             av Ingegerd Wärnersson
@@ -17977,7 +18146,7 @@
           <p>
             169
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0179"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0180"/>
           <p>
             FRÅGOR
           </p>
@@ -18070,7 +18239,7 @@
             159 Energiskatter Av Stefan Attefall (kd) RD volym A11 Besvarad
             av Erik Åsbrink
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0180"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0181"/>
           <p>
             160 Hjälmkrav vid motorcykelfärd Av Johnny Gylling (kd) RD volym
             A11l Besvarad av Björn Rosengren
@@ -18157,7 +18326,7 @@
           <p>
             171
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0181"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0182"/>
           <p>
             FRÅGOR
           </p>
@@ -18241,7 +18410,7 @@
             199 Seniorboende Av Tullia von Sydow (s) RD volym A11 Besvarad
             av Lars Engqvist
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0182"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0183"/>
           <p>
             200 Hälsoundersökning för äldre Av Tullia von Sydow (s) RD volym
             A11 Besvarad av Lars Engqvist
@@ -18328,7 +18497,7 @@
           <p>
             173
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0183"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0184"/>
           <p>
             FRÅGOR
           </p>
@@ -18415,7 +18584,7 @@
             239 Snabbfärja mellan Gotland och fastlandet Av Roy Hansson (m)
             RD volym A11l Besvarad av Björn Rosengren
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0184"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0185"/>
           <p>
             FRÅGOR
           </p>
@@ -18468,7 +18637,7 @@
           <p>
             175
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0185"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0186"/>
           <p>
             FRÅGOR
           </p>
@@ -18552,7 +18721,7 @@
             278 Diskriminering Av Lars Hjertén (m) RD volym A11 Besvarad
             av Ulrica Messing
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0186"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0187"/>
           <p>
             279 Visum Av Yvonne Ruwaida (mp) RD volym A11 Besvarad av Pierre
             Schori
@@ -18639,7 +18808,7 @@
           <p>
             177
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0187"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0188"/>
           <p>
             FRÅGOR
           </p>
@@ -18731,7 +18900,7 @@
             318 Transeuropeiska vägnät Av Jan Backman (m) RD volym A11 Besvarad
             av Björn Rosengren
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0188"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0189"/>
           <p>
             319 Renbetesskador på åkermark Av Maggi Mikaelsson (v) RD volym
             All Besvarad av Margareta Winberg
@@ -18818,7 +18987,7 @@
           <p>
             179
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0189"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0190"/>
           <p>
             FRÅGOR
           </p>
@@ -18925,7 +19094,7 @@
           <p>
             Av Berit Jöhannesson (v) RD volym All Besvarad av Björn von Sydow
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0190"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0191"/>
           <p>
             359 Skydd för polisen Av Göte Jonsson (m) RD volym A11 Besvarad
             av Laila Freivalds
@@ -19012,7 +19181,7 @@
           <p>
             181
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0191"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0192"/>
           <p>
             FRÅGOR
           </p>
@@ -19099,7 +19268,7 @@
             398 Vägverket Produktions verksamhet Av Jan-Evert Rådhström (m)
             RD volym A11 Besvarad av Björn Rosengren
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0192"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0193"/>
           <p>
             399 Förbättringar av den psykiatriska vården för ung- domar Av
             Kerstin-Maria Stalin (mp) RD volym A11 Besvarad av Lars Engqvist
@@ -19186,7 +19355,7 @@
           <p>
             183
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0193"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0194"/>
           <p>
             FRÅGOR
           </p>
@@ -19284,7 +19453,7 @@
             438 Koloniträdgårdsrörelsen Av Ola Rask (s) RD volym A11 Besvarad
             av Kjell Larsson
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0194"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0195"/>
           <p>
             439 Kronofogdemyndigheternas processföring Av Johan Pehrson (fp)
             RD volym A11 Besvarad av Erik Åsbrink
@@ -19371,7 +19540,7 @@
           <p>
             185
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0195"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0196"/>
           <p>
             FRÅGOR
           </p>
@@ -19464,7 +19633,7 @@
             478 Föräldraledighet Av Yvonne Oscarsson (v) RD volym A11 Besvarad
             av Maj-Inger Klingvall
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0196"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0197"/>
           <p>
             479 Tätare betygssteg Av Tuve Skånberg (kd) RD volym A11 Besvarad
             av Ingegerd Wärnersson
@@ -19568,7 +19737,7 @@
           <p>
             187
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0197"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0198"/>
           <p>
             FRÅGOR
           </p>
@@ -19655,7 +19824,7 @@
             518 Tillväxtavtalen Av Rolf Gunnarsson (m) RD volym A11 Besvarad
             av Mona Sahlin
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0198"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0199"/>
           <p>
             519 Östersjöprojektet Baltic Watch Av Henrik S. Järrel (m) RD
             volym A11l Besvarad av Björn Rosengren
@@ -19742,7 +19911,7 @@
           <p>
             189
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0199"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0200"/>
           <p>
             FRÅGOR
           </p>
@@ -19829,7 +19998,7 @@
             558 Minskning av biståndsverksamheten 1999 Av Marianne Andersson
             (c) RD volym A11l Besvarad av Pierre Schori
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0200"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0201"/>
           <p>
             559 Försäkringskassornas situation Av Rolf Gunnarsson (m) RD
             volym A11l Besvarad av Maj-Inger Klingvall
@@ -19917,7 +20086,7 @@
           <p>
             191
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0201"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0202"/>
           <p>
             FRÅGOR
           </p>
@@ -20004,7 +20173,7 @@
             598 Föräldraförsäkringen Av Kenneth Lantz (kd) RD volym A11 Besvarad
             av Maj-Inger Klingvall
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0202"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0203"/>
           <p>
             599 Diskriminering av invandrare i arbetslivet Av Yvonne Ruwaida
             (mp) RD volym A11l Besvarad av Ulrica Messing
@@ -20090,7 +20259,7 @@
           <p>
             193
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0203"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0204"/>
           <p>
             FRÅGOR
           </p>
@@ -20177,7 +20346,7 @@
             638 EU-bidrag Av Erik Arthur Egervärn (c) RD volym A11 Besvarad
             av Björn Rosengren
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0204"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0205"/>
           <p>
             639 Situationen i Guatemala Av Maria Larsson (kd) RD volym A11l
             Besvarad av Anna Lindh
@@ -20265,7 +20434,7 @@
           <p>
             195
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0205"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0206"/>
           <p>
             FRÅGOR
           </p>
@@ -20362,7 +20531,7 @@
             678 EU-myndighet i Sverige Av Chris Heister (m) RD volym A11l
             Besvarad av Lena Hjelm-Wallén
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0206"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0207"/>
           <p>
             679 Läkemedelskostnader Av Roy Hansson (m) RD volym A11 Besvarad
             av Lars Engqvist
@@ -20449,7 +20618,7 @@
           <p>
             197
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0207"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0208"/>
           <p>
             FRÅGOR
           </p>
@@ -20542,7 +20711,7 @@
             718 Preventiv ekonomisk kontroll Av Kenneth Lantz (kd) RD volym
             A11l Besvarad av Bosse Ringholm
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0208"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0209"/>
           <p>
             719 Skattehöjning för våtsnus Av Tuve Skånberg (kd) RD volym
             A11 Besvarad av Lars Engqvist
@@ -20637,7 +20806,7 @@
           <p>
             199
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0209"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0210"/>
           <p>
             FRÅGOR
           </p>
@@ -20724,7 +20893,7 @@
             758 Studenters rätt till a-kassa under sommaren Av Maria Larsson
             (kd) RD volym All Besvarad av Björn Rosengren
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0210"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0211"/>
           <p>
             759 Barn med funktionshinder Av Sten Tolgfors (m) RD volym All
             Besvarad av Ingegerd Wärnersson
@@ -20811,7 +20980,7 @@
           <p>
             201
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0211"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0212"/>
           <p>
             FRÅGOR
           </p>
@@ -20899,7 +21068,7 @@
             798 Regelverket för små och medelstora företag Av Carin Lundberg
             (s) RD volym A11 Besvarad av Mona Sahlin
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0212"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0213"/>
           <p>
             799 Sälstammens tillväxt Av Ester Lindstedt-Staaf (kd) RD volym
             A11l Besvarad av Kjell Larsson
@@ -20986,7 +21155,7 @@
           <p>
             203
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0213"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0214"/>
           <p>
             FRÅGOR
           </p>
@@ -21079,7 +21248,7 @@
             838 Sametinget Av Ulf Björklund (kd) RD volym All Besvarad av
             Margareta Winberg
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0214"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0215"/>
           <p>
             839 Säljakt Av Birger Schlaug (mp) RD volym All Besvarad av Kjell
             Larsson
@@ -21166,7 +21335,7 @@
           <p>
             205
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0215"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0216"/>
           <p>
             FRÅGOR
           </p>
@@ -21259,7 +21428,7 @@
             878 Övervakningskameror i taxibilar Av Gunnel Wallin (c) RD volym
             A11 Besvarad av Laila Freivalds
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0216"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0217"/>
           <p>
             879 Europaväg 4 förbi Uppsala Av Harald Nordlund (fp) RD volym
             A11 Besvarad av Björn Rosengren
@@ -21346,7 +21515,7 @@
           <p>
             207
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0217"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0218"/>
           <p>
             FRÅGOR
           </p>
@@ -21405,7 +21574,7 @@
             911 Ett nytt riksförbund för spelberoende Av Kent Härstedt (s)
             RD volym A11l Besvarad av Lars Engqvist
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0218"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0219"/>
           <p>
             Betänkanden
           </p>
@@ -21514,7 +21683,7 @@
           <p>
             209
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0219"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0220"/>
           <p>
             BETÄNKANDEN
           </p>
@@ -21627,7 +21796,7 @@
           <p>
             M = motion UI = utskottsinitiativ
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0220"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0221"/>
           <p>
             Bifall till utskottets hemställan M:1998/99:K204, 1998/99:K211,
             1998/99:K212, 1998/99:K214, 1998/99:K232, 1998/99:K241, 1998/99:K244,
@@ -21734,7 +21903,7 @@
           <p>
             M = motion UI = utskottsinitiativ
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0221"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0222"/>
           <p>
             BETÄNKANDEN
           </p>
@@ -21841,7 +22010,7 @@
           <p>
             M = motion UI = utskottsinitiativ
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0222"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0223"/>
           <p>
             FiU04 Utgiftsområde 26 Statsskuldräntor m.m. Bifall till propositionen
             och avslag på motionen. RD 1998/99:36 (b) 1998-12-15 Bifall till
@@ -21953,7 +22122,7 @@
           <p>
             213
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0223"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0224"/>
           <p>
             BETÄNKANDEN
           </p>
@@ -22060,7 +22229,7 @@
           <p>
             M = motion UI = utskottsinitiativ
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0224"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0225"/>
           <p>
             FiU22 Riksdagens revisorers årsredovisning för 1998 Riksdagens
             revisorers redogörelse läggs till hand- lingarna. RD 1998/99:91
@@ -22168,7 +22337,7 @@
           <p>
             215
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0225"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0226"/>
           <p>
             BETÄNKANDEN
           </p>
@@ -22279,7 +22448,7 @@
           <p>
             M = motion UI = utskottsinitiativ
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0226"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0227"/>
           <p>
             1998/99:Sk648, 1998/99:Sk649, 1998/99:Sk650, 1998/99:Sk653, 1998/99:Sk655,
             1998/99:Sk656, 1998/99:Sk667, 1998/99:Sk670, 1998/99:Sk671, 1998/99:Sk672,
@@ -22381,7 +22550,7 @@
           <p>
             217
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0227"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0228"/>
           <p>
             BETÄNKANDEN
           </p>
@@ -22495,7 +22664,7 @@
           <p>
             M = motion UI = utskottsinitiativ
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0228"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0229"/>
           <p>
             JuU02 Fortsatt giltighet av 1952 års tvångsmedelslag och lagen
             om hemlig kameraövervakning Bifall till propositionen. RD 1998/99:22
@@ -22609,7 +22778,7 @@
           <p>
             219
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0229"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0230"/>
           <p>
             BETÄNKANDEN
           </p>
@@ -22719,7 +22888,7 @@
           <p>
             M = motion UI = utskottsinitiativ
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0230"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0231"/>
           <p>
             JuU23 Försöksverksamhet med videoteknik i rättegång Bifall till
             propositionen. Avslag på motionerna. RD 1998/99:96 (d) RD 1998/99:97
@@ -22834,7 +23003,7 @@
           <p>
             221
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0231"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0232"/>
           <p>
             BETÄNKANDEN
           </p>
@@ -22950,7 +23119,7 @@
           <p>
             M = motion UI = utskottsinitiativ
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0232"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0233"/>
           <p>
             LU18 Familjerättsliga frågor m.m. Bifall till en motion rörande
             juridiskt biträde för barn. Avslag på övriga motioner. RD 1998/99:87
@@ -23062,7 +23231,7 @@
           <p>
             223
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0233"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0234"/>
           <p>
             BETÄNKANDEN
           </p>
@@ -23178,7 +23347,7 @@
           <p>
             M = motion UI = utskottsinitiativ
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0234"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0235"/>
           <p>
             Bifall till utskottets hemställan Rskr 1998/99:74, 1998/99:75,
             1998/99:76, 1998/99:77, 1998/99:78 P:1998/99:1 M:1998/99:Ju223,
@@ -23290,7 +23459,7 @@
           <p>
             225
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0235"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0236"/>
           <p>
             BETÄNKANDEN
           </p>
@@ -23398,7 +23567,7 @@
           <p>
             M = motion UI = utskottsinitiativ
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0236"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0237"/>
           <p>
             RD 1998/99:74 (b) Bifall till utskottets hemställan M:1998/99:Sk306,
             1998/99:Sf231, 1998/99:MJ224, 1998/99:MJ241, 1998/99:MJ255, 1998/99:N238
@@ -23510,7 +23679,7 @@
           <p>
             227
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0237"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0238"/>
           <p>
             BETÄNKANDEN
           </p>
@@ -23616,7 +23785,7 @@
           <p>
             M = motion UI = utskottsinitiativ
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0238"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0239"/>
           <p>
             M:1998/99:S0212, 1998/99:5S0220, 1998/99:S0227, 1998/99:S0266,
             1998/99:S0270, 1998/99:S0271, 1998/99:S0283, 1998/99:S0301, 1998/99:S0305,
@@ -23723,7 +23892,7 @@
           <p>
             229
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0239"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0240"/>
           <p>
             BETÄNKANDEN
           </p>
@@ -23833,7 +24002,7 @@
           <p>
             M = motion UI = utskottsinitiativ
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0240"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0241"/>
           <p>
             RD 1998/99:74 (b) 1999-03-24 Bifall till utskottets hemställan
             M:1998/99:Kr228, 1998/99:Kr256, 1998/99:Kr272,
@@ -23944,7 +24113,7 @@
           <p>
             231
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0241"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0242"/>
           <p>
             BETÄNKANDEN
           </p>
@@ -24051,7 +24220,7 @@
           <p>
             M = motion UI = utskottsinitiativ
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0242"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0243"/>
           <p>
             RD 1998/99:92 (b) Bifall till utskottets hemställan M:1997/98:Ub42,
             1998/99:K285, 1998/99:Sk628, 1998/99:Ju901, 1998/99:Ju903, 1998/99:Ju904,
@@ -24162,7 +24331,7 @@
           <p>
             233
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0243"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0244"/>
           <p>
             BETÄNKANDEN
           </p>
@@ -24263,7 +24432,7 @@
           <p>
             S = skrivelse M = motion UI = utskottsinitiativ
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0244"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0245"/>
           <p>
             RD 1998/99:104 (d) RD 1998/99:105 (b) Bifall till utskottets
             hemställan Rskr 1998/99:237 P:1998/99:95 M:1998/99:Kr275, 1998/99:T13,
@@ -24375,7 +24544,7 @@
           <p>
             235
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0245"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0246"/>
           <p>
             BETÄNKANDEN
           </p>
@@ -24487,7 +24656,7 @@
           <p>
             M = motion UI = utskottsinitiativ
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0246"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0247"/>
           <p>
             1998/99:N233, 1998/99:N238, 1998/99:N252, 1998/99:N272, 1998/99:N277,
             1998/99:N299, 1998/99:N321, 1998/99:N330, 1998/99:N333
@@ -24590,7 +24759,7 @@
           <p>
             237
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0247"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0248"/>
           <p>
             BETÄNKANDEN
           </p>
@@ -24703,7 +24872,7 @@
           <p>
             M = motion UI = utskottsinitiativ
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0248"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0249"/>
           <p>
             1998/99:A257, 1998/99:A259, 1998/99:A261, 1998/99:A262, 1998/99:A263,
             1998/99:A264, 1998/99:A265, 1998/99:A267, 1998/99:A268, 1998/99:A269,
@@ -24813,7 +24982,7 @@
           <p>
             239
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0249"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0250"/>
           <p>
             BETÄNKANDEN
           </p>
@@ -24914,7 +25083,7 @@
           <p>
             M = motion UI = utskottsinitiativ
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0250"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0251"/>
           <p>
             BoU06 Naturresursfrågor och vattenrätt Avslag på motionerna.
             RD 1998/99:74 (d) RD 1998/99:75 (b) Bifall till utskottets hemställan
@@ -24995,7 +25164,7 @@
           <p>
             241
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0251"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0252"/>
           <p>
             UTSKOTTSINITIATIV
           </p>
@@ -25101,7 +25270,7 @@
           <p>
             1999-12-16
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0252"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0253"/>
           <p>
             Sf1 Bostadsbidrag att riksdagen antar av utskottet framlagt förslag
             till lag om ändring i lagen (1993:737) om bostadsbi- drag. SfUO1
@@ -25205,7 +25374,7 @@
             BoU07 bifall RD 74 (d) RD 75 (b) = utskottet 1999-03-25 Rskr
             165 243
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0253"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0254"/>
           <p>
             UTSKOTTENS YTTRANDEN
           </p>
@@ -25310,7 +25479,7 @@
             1998/99 FöU3y 1999 års ekonomiska vårproposition — utgiftsområde
             6 Totalförsvar FiU20
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0254"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0255"/>
           <p>
             1998/99 FöUV4y Tilläggsbudget för år 1999 — utgiftsområde 6 Total-
             försvar FiU27
@@ -25414,7 +25583,7 @@
           <p>
             245
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0255"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0256"/>
           <p>
             UTSKOTTENS YTTRANDEN
           </p>
@@ -25462,7 +25631,7 @@
             1998/99 BoU4y Tilläggsbudget för år 1999 — utgiftsområde 18 Sam-
             hällsplanering, bostadsförsörjning och byggande FiU27
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0256"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0257"/>
           <p>
             Utfrågningar
           </p>
@@ -25554,7 +25723,7 @@
           <p>
             247
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0257"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0258"/>
           <p>
             UTFRÅGNINGAR
           </p>
@@ -25643,7 +25812,7 @@
             Landstingsförbundet Sveriges läkarförbund Svenska läkaresällskapet
             Läkemedelsindustriföreningen
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0258"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0259"/>
           <p>
             Nätverk för läkemedelsepidemiologi 1998/99:URD6
           </p>
@@ -25715,7 +25884,7 @@
           <p>
             249
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0259"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0260"/>
           <p>
             TILLÄGG
           </p>
@@ -25778,7 +25947,7 @@
           <p>
             250
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0260"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0261"/>
           <p>
             Trafikutskottet: val av ledamöter s.ssseseeerererers rr reser
             rr rr ra Trafikutskottet: val av.suppleanter” «=. s : s ss: sms
@@ -25857,7 +26026,7 @@
           <p>
             251
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0261"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0262"/>
           <p>
             INDEX
           </p>
@@ -25939,7 +26108,7 @@
           <p>
             M = motion
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0262"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0263"/>
           <p>
             M K322 (KU20) Allmänna pensionsfonden se AP-fonden Allmänna samlingslokaler
             M Sk691 (SkU12), Jul (JuU07), Kr273, Kr503, Kr505 (KrUO01), Kr509
@@ -26018,7 +26187,7 @@
           <p>
             253
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0263"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0264"/>
           <p>
             INDEX
           </p>
@@ -26186,7 +26355,7 @@
           <p>
             M = motion
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0264"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0265"/>
           <p>
             585, 757, 761 Arbetsskadelivränta M Sf280 (SfU01) F 295, 315
             Arbetstagare P 90 (AU09) M Sk812 (SKkU09), A11 (AU09) I 321 F
@@ -26265,7 +26434,7 @@
           <p>
             255
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0265"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0266"/>
           <p>
             INDEX
           </p>
@@ -26352,7 +26521,7 @@
           <p>
             M = motion
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0266"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0267"/>
           <p>
             P 1:12 (SfU01) M Bo202 (BoU01) Barnpornografi 1997/98 P 43 (KU04)
             M K18, K19, K20, K21 (KU04) 1998/99 M S07 (SoU06) Barnpsykiatrikommittén
@@ -26430,7 +26599,7 @@
           <p>
             257
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0267"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0268"/>
           <p>
             INDEX
           </p>
@@ -26506,7 +26675,7 @@
             Biståndspersonal (SkU09), L905 (LU15) F 379, FR = förslag eller
             redogörelse S = skrivelse M = motion I = interpellation F = fråga
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0268"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0269"/>
           <p>
             387 Bokförlag M Sk693 (SkU12) Bokhandel M Sk628 (SKkU12) Bolag
             P 15 (SKkUO0S5), 108 (JuU24) M Fi503 (FiU16), SkI1, Sk3 (SkUO0S5)
@@ -26576,7 +26745,7 @@
           <p>
             259
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0269"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0270"/>
           <p>
             INDEX
           </p>
@@ -26658,7 +26827,7 @@
             MJ715 Cesium (MJU06), Bo509, Bo513 M Sk26 (SkU20) FR = förslag
             eller redogörelse S = skrivelse M = motion
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0270"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0271"/>
           <p>
             Chile 1997/98 M U65 (UU13) 1998/99 F 34, 45, 105, 268 Christiania
             I 300 Civil luftfart F 772 Civilbefolkning M U619 (UU03), U625
@@ -26738,7 +26907,7 @@
           <p>
             261
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0271"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0272"/>
           <p>
             INDEX
           </p>
@@ -26818,7 +26987,7 @@
           <p>
             M = motion
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0272"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0273"/>
           <p>
             (LU06), Ju804 (JuU26), U616 (UU03), U627 (ö) F 125, 126, 205,
             218, 506 Domstolsprövning P 41 (JuU20) M Ju713 (JuU22) Domstolsverket
@@ -26899,7 +27068,7 @@
           <p>
             263
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0273"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0274"/>
           <p>
             INDEX
           </p>
@@ -27039,7 +27208,7 @@
             Kr24, Kr26, Energiforskning FR = förslag eller redogörelse S =
             skrivelse M = motion
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0274"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0275"/>
           <p>
             P 1:21 (NU03) M MJ605 (MJU02), N228, N241 (NU08) Energiförbrukning
             1997/98 M N22 (NU04) Energiförsörjning 1997/98 P 159 (NU04) 1998/99
@@ -27183,7 +27352,7 @@
           <p>
             265
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0275"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0276"/>
           <p>
             INDEX
           </p>
@@ -27265,7 +27434,7 @@
           <p>
             M = motion
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0276"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0277"/>
           <p>
             (LU18) F 477, 478 Faktura M Fi705 (FiU19) F 143 Fallskärmsavtal
             M Sk670 (SKU11) F 455 Falsterbo M Kr201 (ö) Falun M T303 (TUOS)
@@ -27343,7 +27512,7 @@
           <p>
             267
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0277"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0278"/>
           <p>
             INDEX
           </p>
@@ -27433,7 +27602,7 @@
           <p>
             M = motion
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0278"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0279"/>
           <p>
             (BoU08), S0379, S0o388, S0392, S0399 (S0oU08), S0400 (S0U07),
             S0421 (SoU10), S0432, S0454, S0460 (S0oU08), Kr20, Kr21, Kr22,
@@ -27517,7 +27686,7 @@
           <p>
             269
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0279"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0280"/>
           <p>
             INDEX
           </p>
@@ -27600,7 +27769,7 @@
           <p>
             M = motion
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0280"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0281"/>
           <p>
             Fängelsestraff P 29 (KrU02) M Ju505 (JuU27), U616, U632 (UU03),
             Sf605, Sf622 (SfU05), MI755 (MJU06) F 11, 90, 754, 764 Färdtjänst
@@ -27681,7 +27850,7 @@
           <p>
             271
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0281"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0282"/>
           <p>
             INDEX
           </p>
@@ -27797,7 +27966,7 @@
           <p>
             212
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0282"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0283"/>
           <p>
             (UbUO01) F 120 Föräldraledighet M Sf261 (SfU01), A710 (AU08),
             A805, A811 (AU06) Föräldrapenning M Sf246, Sf247, Sf261, Sf274
@@ -27882,7 +28051,7 @@
           <p>
             213
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0283"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0284"/>
           <p>
             INDEX
           </p>
@@ -27962,7 +28131,7 @@
           <p>
             M = motion
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0284"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0285"/>
           <p>
             A266 (AU07), Bo208, Bo237 (BoUO01), Bo518 (BoU08) F 216, 310
             Handikappersättning P 1:10 (SfU01) M So0310 (SoU11) Handikappforskning
@@ -28041,7 +28210,7 @@
           <p>
             275
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0285"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0286"/>
           <p>
             INDEX
           </p>
@@ -28121,7 +28290,7 @@
             = förslag eller redogörelse S = skrivelse M = motion I = interpellation
             F = fråga
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0286"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0287"/>
           <p>
             P 47 (JuU18) Högskoleprov M Fö313 (FöU04) F 342, 490 Högskoleutbildning
             1997/98 M A63, A64 (AU02) 1998/99 M Ub404 (UbU07), Ub410, Ub418
@@ -28206,7 +28375,7 @@
           <p>
             2171
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0287"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0288"/>
           <p>
             INDEX
           </p>
@@ -28288,7 +28457,7 @@
             FR = förslag eller redogörelse S = skrivelse M = motion I = interpellation
             F = fråga
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0288"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0289"/>
           <p>
             P 174 (UU04) S 172 (SoU04) 1998/99 P 1:07 (UU02), 1:10 (BoUO1),
             57 (UU06), 58 (UU07) S 56 (UU09), 128 (ö) M Fi213 (FiU20), Ju709
@@ -28367,7 +28536,7 @@
           <p>
             279
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0289"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0290"/>
           <p>
             INDEX
           </p>
@@ -28449,7 +28618,7 @@
           <p>
             M = motion
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0290"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0291"/>
           <p>
             M N218, N247 (NU07) F 806 Kalmarsund M MJ912 (ö) Kambodja M U630
             (UU03) Kameraövervakning se Övervakningskamera Kammarkollegiet
@@ -28523,7 +28692,7 @@
           <p>
             281
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0291"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0292"/>
           <p>
             INDEX
           </p>
@@ -28614,7 +28783,7 @@
           <p>
             M = motion
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0292"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0293"/>
           <p>
             Ub712, Ub715 (UbU02), Ub716 (AU07), Ub717 (UbU02), Ub719 (UbU08),
             Ub801, MJ412 (ö), N277 (NU06), N280, N281 (NU07), A213 (AUO1),
@@ -28699,7 +28868,7 @@
           <p>
             283
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0293"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0294"/>
           <p>
             INDEX
           </p>
@@ -28772,7 +28941,7 @@
             Kriminalpolis Kr246 (ö), Kr254 (KrU05), FR = förslag eller redogörelse
             S = skrivelse M = motion I = interpellation F = fråga
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0294"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0295"/>
           <p>
             Kr265 (KU18), Kr268 (KrU06), Kr273 (KrUO01), A211, A286 (AUO01)
             UI A3 (AUO01) F 66 Kulturföremål P 114 (ö) M Kr37, Kr38, Kr39,
@@ -28898,7 +29067,7 @@
           <p>
             285
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0295"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0296"/>
           <p>
             INDEX
           </p>
@@ -28976,7 +29145,7 @@
           <p>
             M = motion
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0296"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0297"/>
           <p>
             Landshövding F 487 Landskapsvård M MJ746 (MJU06) Landskrona I
             266 Landsting 1997/98 P 182 (SoU06) 1998/99 P 1:25 (FiU03), 89
@@ -29045,7 +29214,7 @@
           <p>
             287
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0297"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0298"/>
           <p>
             INDEX
           </p>
@@ -29129,7 +29298,7 @@
             förslag eller redogörelse S = skrivelse M = motion I = interpellation
             F = fråga
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0298"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0299"/>
           <p>
             Mandat M K269 (ö), K345 (KU17), Kr502 (ö) Marginalskatt M Fi41,
             Fi42 (FiU25) F 690 Marinen M Fö9 (FöUO0S), Fö303 (FöU04), Fö602,
@@ -29208,7 +29377,7 @@
           <p>
             289
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0299"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0300"/>
           <p>
             INDEX
           </p>
@@ -29290,7 +29459,7 @@
           <p>
             M = motion
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0300"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0301"/>
           <p>
             Momsbasavgifter 1272 Monarki M K259 (ö) Mongoliet M U608 (UU02)
             Monopol P 106 (SoU14), 134 (ö) M So21, S024, S025 (SoU14), S0205
@@ -29370,7 +29539,7 @@
           <p>
             291
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0301"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0302"/>
           <p>
             INDEX
           </p>
@@ -29448,7 +29617,7 @@
           <p>
             M = motion
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0302"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0303"/>
           <p>
             Nynazism M Fö302 (FöU04) F 24, 728 Nynäshamn M Sf8, Sf9 (SfU08),
             T324 (TUOS) F 572 Nyttjanderätt M L508 (LU09) Nåd M Sf620 (SfU04)
@@ -29526,7 +29695,7 @@
           <p>
             293
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0303"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0304"/>
           <p>
             INDEX
           </p>
@@ -29605,7 +29774,7 @@
           <p>
             M = motion
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0304"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0305"/>
           <p>
             (KU18), 109 (SKkU22), 142 (ö) M K240 (KUO01), Fi15 (FiU20), Fi209,
             Fi211, Fi610 (FiUO1), Fi708 (FiU21), Sk4 (SKkU04), Sf222, Sf242,
@@ -29694,7 +29863,7 @@
           <p>
             295
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0305"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0306"/>
           <p>
             INDEX
           </p>
@@ -29774,7 +29943,7 @@
             (UbU03) M K323 (KU23), So318 1998/99 FR = förslag eller redogörelse
             S = skrivelse M = motion
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0306"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0307"/>
           <p>
             M Ub2 (UbU03), Ub268 (UbU11), Ub273 (UbU03) 1210 Provstoppsavtal
             1997/98 P 174 (UU04) PRV se Patent- och registreringsver- ket
@@ -29853,7 +30022,7 @@
           <p>
             297
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0307"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0308"/>
           <p>
             INDEX
           </p>
@@ -29937,7 +30106,7 @@
           <p>
             M = motion
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0308"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0309"/>
           <p>
             1997/98 P 118 (LUO01) 1998/99 P 66 (KU30), 129 (ö) FR RRS5S (FiU23)
             Revisionsrätten P 32 (JuU16) M U9 (UU10) Revisor P 129 (ö) M K20,
@@ -30016,7 +30185,7 @@
           <p>
             299
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0309"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0310"/>
           <p>
             INDEX
           </p>
@@ -30098,7 +30267,7 @@
           <p>
             M = motion
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0310"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0311"/>
           <p>
             (S0U06) F 504 Semester P 90 (AU09) M A221 (AU07) Serbien F 673,
             847 Serveringstillstånd P 134 (ö) M S0228 (ö), S0o306 (UbUl11),
@@ -30178,7 +30347,7 @@
           <p>
             301
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0311"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0312"/>
           <p>
             INDEX
           </p>
@@ -30288,7 +30457,7 @@
             I 336 F 30, 127, Skatteregister 644, 853, 894 FR = förslag eller
             redogörelse S = skrivelse M = motion I = interpellation F = fråga
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0312"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0313"/>
           <p>
             Skogsbruksfastighet 1997/98 M Jo078, Jo81 (MJU03) 1998/99 M MJ211
             (MJU06), MJ302 (MJU03), B0403 (BoU05) Skogsindustri 1997/98 P
@@ -30366,7 +30535,7 @@
           <p>
             303
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0313"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0314"/>
           <p>
             INDEX
           </p>
@@ -30449,7 +30618,7 @@
           <p>
             M = motion
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0314"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0315"/>
           <p>
             Sparande M Fi27 (FiU20), Sf15 (SfU12), Sf207 (SfUO1), S0245 (S0oU07),
             S0250 (SoU10) Sparbank P 129 (ö) Sparkvot P 100 (FiU20) Specialistvård
@@ -30530,7 +30699,7 @@
           <p>
             305
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0315"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0316"/>
           <p>
             INDEX
           </p>
@@ -30612,7 +30781,7 @@
           <p>
             M = motion
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0316"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0317"/>
           <p>
             Ub483 (UbU07), Bo211 (BoU01), Bo213 (BoU038), Bo220, Bo225 (BoU01),
             Bo235 (SkU10), Bo237 (BoU01) Studentkår F 848 Studentutbyte M
@@ -30687,7 +30856,7 @@
           <p>
             307
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0317"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0318"/>
           <p>
             INDEX
           </p>
@@ -30768,7 +30937,7 @@
           <p>
             M = motion
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0318"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0319"/>
           <p>
             74 (FöUO0S), 92 (TU12), 99 (NU14) S 33 (FöU03), 40 (TU04) M T9
             (TU04), T20 (TU12), T813, T814 (TU04), N14 (NU14), N233 (NUO1),
@@ -30845,7 +31014,7 @@
           <p>
             309
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0319"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0320"/>
           <p>
             INDEX
           </p>
@@ -30926,7 +31095,7 @@
           <p>
             M = motion
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0320"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0321"/>
           <p>
             P 1:17 (KrU01) M K243 (KU23), K252 (KU06), L805 (LU08), U703
             (ö), Kr205, Kr211 (KrU03), Kr217 (KrU06), Kr227 (UbU11), Kr251
@@ -31006,7 +31175,7 @@
           <p>
             311
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0321"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0322"/>
           <p>
             INDEX
           </p>
@@ -31087,7 +31256,7 @@
           <p>
             M = motion
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0322"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0323"/>
           <p>
             (KrU01) Utrikeshandel P 53 (FiU19) S 63 (MJU10) M U402 (UU13),
             U603 (UU03), U604 (UU10), U615 (UU03), T533 (TUO0S) I 55 Utrikespolitik
@@ -31168,7 +31337,7 @@
           <p>
             313
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0323"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0324"/>
           <p>
             INDEX
           </p>
@@ -31244,7 +31413,7 @@
           <p>
             M = motion
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0324"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0325"/>
           <p>
             P 182 (SoU06) 1998/99 M Ju810 (JuU06), S0308, S0435 (S0oU06)
             Vårdnads- och umgängestvister M Ju905 (JuU26), L419, L420 (LU18)
@@ -31320,7 +31489,7 @@
           <p>
             315
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0325"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0326"/>
           <p>
             INDEX
           </p>
@@ -31398,7 +31567,7 @@
           <p>
             M = motion
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0326"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0327"/>
           <p>
             1998/99 P 112 (UFöU02) M U12, U13 (UFöU02), Sf14 (SfU11), Sf610
             — (SfU02) Adelmetall P 69 (SkU18), 102 (ö) M N18 (ö) Ädelreformen
@@ -31478,7 +31647,7 @@
           <p>
             311
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0327"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0328"/>
           <p>
             INDEX
           </p>
@@ -31495,11 +31664,11 @@
           <p>
             318
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0328"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0329"/>
           <p>
             Personregister
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0329"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0330"/>
           <p>
             Förklaringar
           </p>
@@ -31566,7 +31735,7 @@
           <p>
             321
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0330"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0331"/>
           <p>
             Personregister
           </p>
@@ -31638,7 +31807,7 @@
           <p>
             323
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0331"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0332"/>
           <p>
             PERSONREGISTER A
           </p>
@@ -31705,7 +31874,7 @@
             skolekonvention) Skriftliga frågor 294: RD 48, 52 (sexuellt ofre-
             dande) Anföranden 58 (frågor om arbetstid), 66 (jäm- ställdhet)
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0332"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0333"/>
           <p>
             Andersson, Hans (v) Dalarnas 1., RD1 92/93-, f. 1945 sTK, 1 vAU
             Motioner K5, K19, K262, K285, K327, Fi216, Sk671, Ju907, U14,
@@ -31774,7 +31943,7 @@
           <p>
             325
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0333"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0334"/>
           <p>
             PERSONREGISTER A
           </p>
@@ -31860,7 +32029,7 @@
             71 (migration och asylpolitik), 78 (stöd till varvsnationer),
             79 (tryck- och yttrandefri-
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0334"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0335"/>
           <p>
             hetsfrågor), 80 (bostadsbyggande och bostadsförmedling), 82 (Norrlandsham-
             narna), 84 (olagliga hyreskontraktsöverlåtel- ser), 86 (Europaparlamentet),
@@ -31930,7 +32099,7 @@
           <p>
             327
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0335"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0336"/>
           <p>
             PERSONREGISTER A
           </p>
@@ -31999,7 +32168,7 @@
             (kooperativ hyresrätt), 70 (informationssam- hället inför 2000-talet),
             78 (hamnpolitik), 87 (museifrågor), 87 (bidrag till konstnärer)
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0336"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0337"/>
           <p>
             Ask, Beatrice (m) Stockholm, RDI 88/89, 94/95-, f. 1956 sTK,
             sVB, vUbU, KD Motioner K28, Fi14, Fi18, Fi25 (lärlingsut- bildning),
@@ -32066,7 +32235,7 @@
           <p>
             329
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0337"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0338"/>
           <p>
             PERSONREGISTER B
           </p>
@@ -32137,7 +32306,7 @@
             38 (ekonomisk trygghet vid arbetslöshet samt arbetsmarknad och
             arbetsliv), 42 (allmänpolitisk debatt), 43
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0338"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0339"/>
           <p>
             (rättspsykiatrisk vård), 49 (granskning av statsråden), 53 (sekretess
             hos uppdragsmyn- digheter), 53 (vallagsfrågor), 57 (riksdagens
@@ -32203,7 +32372,7 @@
           <p>
             331
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0339"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0340"/>
           <p>
             PERSONREGISTER B
           </p>
@@ -32272,7 +32441,7 @@
             (kärnkraft), N254 (exportkrediter och miljö), N262, N263, N264,
             N323 (regional samordning), Bo234
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0340"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0341"/>
           <p>
             Interpellationer 116: RD 48, 61 (vägnätet), 283: RD 90, 90 (djurskydd
             och livsmedels- kvalitet), 315: RD 90, 98 (livsmedelssäker- het)
@@ -32340,7 +32509,7 @@
           <p>
             333
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0341"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0342"/>
           <p>
             PERSONREGISTER B
           </p>
@@ -32411,7 +32580,7 @@
             vRBJ Motioner Fi605 (hemtjänsten), Sk705, Sf250, T219, T321 (förbindelserna
             Blekinge-Hal-
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0342"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0343"/>
           <p>
             land), T530, MJ409, MJ767 (marina reser- vat), NI, A249 (finansieringsavgift
             vid arbetspraktik), A250 (insatser inom arbets- marknadspolitiken),
@@ -32479,7 +32648,7 @@
           <p>
             335
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0343"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0344"/>
           <p>
             PERSONREGISTER B
           </p>
@@ -32561,7 +32730,7 @@
             ställ- ning), 24 (svensk varvsnäring), 27 (beräk- ning av statsinkomsterna),
             40 (statsbudget),
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0344"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0345"/>
           <p>
             43 (demokratifrågor), 46 (Volvo), 78 (stöd till varvsnationer),
             80 (miljöprövning vid provborrningar), 97 (skattefrågorna i EU),
@@ -32628,7 +32797,7 @@
           <p>
             337
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0345"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0346"/>
           <p>
             PERSONREGISTER C
           </p>
@@ -32700,7 +32869,7 @@
             i Wien), 39 (jord- och skogsbruk), 42 (allmänpolitisk debatt),
             43 (IT-säkerheten), 49 (debatt om åtgärder
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0346"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0347"/>
           <p>
             för ökad tillväxt), 50 (entreprenörskap i utbildningen), 58 (glesbygdsstödet),
             67 (naturgasledning genom Sverige), 75 (det svenska miljöarbetet),
@@ -32793,7 +32962,7 @@
           <p>
             339
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0347"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0348"/>
           <p>
             PERSONREGISTER E
           </p>
@@ -32861,7 +33030,7 @@
             (till- växtavtal och jämställdhet), N254, N275, N323 (regional
             samordning), Bo9, Bo17, Bo22,
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0348"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0349"/>
           <p>
             Interpellationer 140: RD 48, 69 (bredband) Skriftliga frågor
             574: RD 90, 95 (flyktingar från Kosovo), 605: RD 95, 95 (Posten
@@ -32932,7 +33101,7 @@
           <p>
             341
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0349"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0350"/>
           <p>
             PERSONREGISTER E
           </p>
@@ -33000,7 +33169,7 @@
             (schabloniserad assistansersättning), 58 (läkemedelskostnaderna),
             58 (läkarnas arbetssituation), 58 (socialtjänstlagen), 59
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0350"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0351"/>
           <p>
             (bostadslösheten), 59 (prostituerades livssi- tuation), 59 (tandvård),
             63 (pension till invandrare), 63 (handikappolitiken), 63 (anmälningsplikt),
@@ -33069,7 +33238,7 @@
           <p>
             343
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0351"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0352"/>
           <p>
             PERSONREGISTER E
           </p>
@@ -33136,7 +33305,7 @@
             MI731, MJ747, MJI778, MJ785, MJ910, N204, N224, N261, N265 (Norrlandslänen),
             N321, N325, N328, N334, A205, A801, A807, Bo236, Bo505
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0352"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0353"/>
           <p>
             Anföranden 5 (budgetpropositionen), 22 (All- männa pensionsfondens
             verksamhet år 1997), 27 (beräkning av statsinkomsterna)
@@ -33208,7 +33377,7 @@
           <p>
             345
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0353"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0354"/>
           <p>
             PERSONREGISTER F
           </p>
@@ -33291,7 +33460,7 @@
             (kvinnojoursverksam- het), S0307, Kr4 (kriminalisering av lotteri-
             verksamhet), Kr8 (kasinospel i Sverige),
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0354"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0355"/>
           <p>
             Kr22 (folkhälsa), Kr23 (idrottspolitik), Kr31 (ungdomspolitik),
             Kr37 (kulturarv), Kr208 (Svenskt visarkiv), Kr209 (Marionettea-
@@ -33360,7 +33529,7 @@
           <p>
             347
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0355"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0356"/>
           <p>
             PERSONREGISTER F
           </p>
@@ -33430,7 +33599,7 @@
             28 (försvarsindustrin), 57 (ändringar i rätts- hjälpslagen), 96
             (rättspsykiatriskt forsk- ningsregister)
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0356"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0357"/>
           <p>
             Furubjelke, Viola (s) Östergötl. 1., RD1 85/86-, f. 1946 TK,
             oUU, oUFöU, UN, KD, oIPU Motioner Kr261 (Vadstena-Akademien) Interpellationer
@@ -33501,7 +33670,7 @@
           <p>
             349
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0357"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0358"/>
           <p>
             PERSONREGISTER G
           </p>
@@ -33570,7 +33739,7 @@
             Granström, Per Erik (s) Dalarnas 1., eRD1 90/91, RD1 92/93 (02-10)-,
             f. 1942 SkU, sLU, NR
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0358"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0359"/>
           <p>
             Motioner Fi214, Fi301 (länsstyrelser), Fi601 (statsbidrag till
             kommunerna), Fi807 (offentlig upphandling), Ju21 (videoutrust-
@@ -33642,7 +33811,7 @@
           <p>
             351
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0359"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0360"/>
           <p>
             PERSONREGISTER G
           </p>
@@ -33710,7 +33879,7 @@
             (högskolan i Jönköping), N280 (sys- selsättning i Jönköping) Skriftliga
             frågor 613: RD 95, 95 (arkitektut- bildningen)
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0360"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0361"/>
           <p>
             Anföranden 14 (Förintelsen), 31 (kulturfrå- gor), 62 (radio-
             och TV-frågor), 71 (kultur- politiska frågor), 80 (filmpolitiken)
@@ -33780,7 +33949,7 @@
           <p>
             353
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0361"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0362"/>
           <p>
             PERSONREGISTER H
           </p>
@@ -33847,7 +34016,7 @@
             terna), N261, N293 (fossilgas), N301 (kärn- kraft och millennieskiftet),
             N321, N322 (statliga företag), N325, N328 (småföretag),
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0362"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0363"/>
           <p>
             N334 (näringspolitik), A205, A801, A807, Bo23, Bo236, Bo505,
             Bo515 Anföranden 22 (företag med statligt ägande), 28 (elmarknadsfrågor),
@@ -33915,7 +34084,7 @@
           <p>
             355
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0363"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0364"/>
           <p>
             PERSONREGISTER H
           </p>
@@ -33989,7 +34158,7 @@
             Bo214 (radonsanering) Interpellationer 65: RD 26, 45 (läkarbrist),
             148: RD 52, 59 (tandvård), 245: RD 78, 90 (patientens valfrihet)
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0364"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0365"/>
           <p>
             Anföranden 29 (stärkt patientinflytande m.m.), 37 (sjukvård,
             social omsorg), 42 (allmänpo- litisk debatt), 45 (illegal sprithantering),
@@ -34062,7 +34231,7 @@
           <p>
             357
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0365"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0366"/>
           <p>
             PERSONREGISTER H
           </p>
@@ -34130,7 +34299,7 @@
             Hjertén, Lars (m) Västra Götal. 1. Ö, RD1 82/83-84/85, eRDI 85/86,
             87/88-88/89, 94/95, RD1 96/96-, f. 1938 sKrU, UbU, NR
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0366"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0367"/>
           <p>
             Motioner K204 (personval), K314 (kommu-
           </p>
@@ -34208,7 +34377,7 @@
           <p>
             359
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0367"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0368"/>
           <p>
             PERSONREGISTER H
           </p>
@@ -34279,7 +34448,7 @@
             tal), Fi804 (barnarbete), Ju805 (övervak- ning), Ju806 (jäv),
             Ju807 (bikt), Ju909 (familjevåld), L203 (könsfördelning i
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0368"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0369"/>
           <p>
             bolag), L412 (gemensam vårdnad), U503 (konstnärlig utsmyckning),
             Fö309 (ammu- nitions- och minröjningscentrum), Fö310 (informationskrigföring
@@ -34347,7 +34516,7 @@
           <p>
             361
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0369"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0370"/>
           <p>
             PERSONREGISTER H
           </p>
@@ -34415,7 +34584,7 @@
             och Tullver- ket), 32 (beskattning av råtallolja), 36 (utbildning
             och universitetsforskning samt
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0370"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0371"/>
           <p>
             studiestöd), 62 (personuppgifter i skatte- myndigheternas brottsutredande
             verksamhet m.m.), 62 (inkomstskatter, fastighetsbeskatt- ning
@@ -34482,7 +34651,7 @@
           <p>
             363
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0371"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0372"/>
           <p>
             PERSONREGISTER J
           </p>
@@ -34553,7 +34722,7 @@
             131: RD 48, 56 (hälso- och sjukvård i hela landet), 349: RD 90,
             103 (folkhälsoinstitut)
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0372"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0373"/>
           <p>
             Skriftliga frågor 4: RD 5, 7 (utsatta barn och ungdomar), 26:
             RD 9, 13 (Vasaskog AB), 66: RD 16, 21 (Unescos världsarvslista),
@@ -34625,7 +34794,7 @@
           <p>
             365
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0373"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0374"/>
           <p>
             PERSONREGISTER J
           </p>
@@ -34694,7 +34863,7 @@
             N252 (Assidomän) Interpellationer 168: RD 61, 72 (skydd för poliser),
             334: RD 90 (Domstolsverket) åter-
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0374"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0375"/>
           <p>
             tagen, 335: RD 90, 103 (F-skattsedel), 336: RD 90, 103 (skogsindustrin)
             Skriftliga frågor 162: RD 36, 41 (åtgärder inom klimatområdet),
@@ -34766,7 +34935,7 @@
           <p>
             367
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0375"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0376"/>
           <p>
             PERSONREGISTER J
           </p>
@@ -34835,7 +35004,7 @@
             Sk683 (gränsgångare), L202 (stiftel- selagen), S0271, Ub421 (riskforskning),
             T3548 (Europabanan), T904 (taxinäringen),
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0376"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0377"/>
           <p>
             T911 (åkerinäringen), MJ740 (BT-Kemis tomt i Teckomatorp), MJ758,
             MJ759, N314 (Kävlinge), Bo227, Bo229 Interpellationer 13: RD 13,
@@ -34904,7 +35073,7 @@
           <p>
             369
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0377"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0378"/>
           <p>
             PERSONREGISTER K
           </p>
@@ -34990,7 +35159,7 @@
             Kr601 (folkbild- ning), Ub7, Ub10, Ub16, Ub20, Ub28, Ub241, Ub242,
             Ub243, Ub447, Ub451
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0378"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0379"/>
           <p>
             (Karlstads universitet), Ub483, Ub709, Ub711 Skriftliga frågor
             326: RD 52, 56 (kunskapslyf- tet), 810: RD 1, 1 (valdeltagande)
@@ -35062,7 +35231,7 @@
           <p>
             371
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0379"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0380"/>
           <p>
             PERSONREGISTER K
           </p>
@@ -35131,7 +35300,7 @@
             67 (säkerhetspolitiken), 71 (migration och asylpolitik), 92 (svenskt
             flyktingmotta- gande), 101 (statsrådens tjänsteutövning och
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0380"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0381"/>
           <p>
             regeringsärendenas handläggning), 102 (socialförsäkringens administration),
             104 (underhållsstöd till barn), 106 (det nya pen- sionssystemet)
@@ -35207,7 +35376,7 @@
           <p>
             373
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0381"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0382"/>
           <p>
             PERSONREGISTER L
           </p>
@@ -35277,7 +35446,7 @@
             (prostitution) Skriftliga frågor 10: RD 7, 9 (abortmotstånda-
             res lobbyverksamhet), 57: RD 16, 21 (barn-
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0382"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0383"/>
           <p>
             reklam), 89: RD 21, 26 (bildkonstnärernas ekonomiska situation),
             174: RD 36, 41 (kasinon), 229: RD 41, 48 (folkomröstning om EMU),
@@ -35347,7 +35516,7 @@
           <p>
             375
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0383"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0384"/>
           <p>
             PERSONREGISTER L
           </p>
@@ -35415,7 +35584,7 @@
             Sf627, So21, S0223, S0o224, S0228, S0230, S0244, S0257, S0423,
             S0424, S0425, S0456, Ub40S5, T306 (riks- väg 45)
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0384"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0385"/>
           <p>
             Anföranden 33 (totalförsvarets budget), 33 (försvarsmakten),
             71 (svåra samhällspåfrest- ningar), 100 (försvarspolitiken)
@@ -35486,7 +35655,7 @@
           <p>
             377
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0385"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0386"/>
           <p>
             PERSONREGISTER L
           </p>
@@ -35557,7 +35726,7 @@
             70 (arbetslöshetsförsäkringen), 101 (statsrådens tjänsteutövning
             och rege- ringsärendenas handläggning)
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0386"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0387"/>
           <p>
             Lindstedt-Staaf, Ester (kd) Hallands 1., RD1 98/99-, f. 1943
             sSfU, sMJU Motioner Sf8, Sf13, Sf18, Sf242, Sf266, Sf623, S025,
@@ -35626,7 +35795,7 @@
           <p>
             379
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0387"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0388"/>
           <p>
             PERSONREGISTER L
           </p>
@@ -35718,7 +35887,7 @@
             erfarenhe- ter), A269, A270, A271 (reglerna i arbets- löshetsförsäkringen),
             A272, A289 (mot- verka segregation), Bo8 (återbetalning av
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0388"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0389"/>
           <p>
             bostadsbidrag), B0409 (kooperativ hyres- rätt) Skriftliga frågor
             386: RD 61, 65 (bostadsbi- dragsinformation till företagare),
@@ -35784,7 +35953,7 @@
             (felparkeringsavgifter), T908 (Öresundsbron), A229 (deltidsanställning),
             A256 (storstadens möjligheter)
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0389"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0390"/>
           <p>
             PERSONREGISTER M
           </p>
@@ -35865,7 +36034,7 @@
             37 (rättsväsendet), 42 (allmänpolitisk debatt), 43 (stöd till
             missbrukarbarn), 50 (uppehållstillstånd), 71 (migration och asyl-
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0390"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0391"/>
           <p>
             politik), 75 (unga lagöverträdare), 79 (änd- ringar i brottsskadelagen),
             91 (straffrättsliga frågor), 91 (processrättsliga frågor), 96
@@ -35935,7 +36104,7 @@
           <p>
             383
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0391"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0392"/>
           <p>
             PERSONREGISTER N
           </p>
@@ -36002,7 +36171,7 @@
             Nilsson, Lennart (s) Västra Götal. 1. V, RD1 76/77-, f. 1944
             sTK, vBoU, KD
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0392"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0393"/>
           <p>
             Motioner S0356 (varningstext på snusdosor), Ub463, Ub714, MJ1,
             MJ915 (skyddsjakt på säl), A225 Anföranden 31 (samhällsplanering),
@@ -36071,7 +36240,7 @@
           <p>
             385
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0393"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0394"/>
           <p>
             PERSONREGISTER N
           </p>
@@ -36143,7 +36312,7 @@
             i Dalsland), T220, T221, T305 (Vägverkets roll), T306 (riksväg
             45), T309 (utbyggnad av riksväg 40), T310, T413 (regler för snö-
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0394"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0395"/>
           <p>
             skoter), T604 (farledsavgifter), T607 (Sjö- fartsverket), T608
             (isbrytning), T609 (fri- tidsbåtstrafiken), T613 (sjöfartspolitiken),
@@ -36214,7 +36383,7 @@
           <p>
             387
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0395"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0396"/>
           <p>
             PERSONREGISTER O
           </p>
@@ -36283,7 +36452,7 @@
             (sjöbe- fälsutbildning), Ub405, Ub701 (studiestöds- systemet),
             T302 (utbyggnad av vägnätet),
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0396"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0397"/>
           <p>
             T601 (svensk hamn), T613, MJ702 (ersätt- ning till yrkesfiskare),
             MJ901 (skyddsjakt på säl), A12, A204 (nordisk arbetsmarknad),
@@ -36349,7 +36518,7 @@
           <p>
             389
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0397"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0398"/>
           <p>
             PERSONREGISTER P
           </p>
@@ -36419,7 +36588,7 @@
             74: RD 31, 41 (utvecklingen i Degerfors m.fl. kommuner), 75: RD
             36, 48
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0398"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0399"/>
           <p>
             (momsen på spelarköp), 76: RD 36, 59 (sex- ismen inom idrotten)
             Anföranden 7 (kommunismen), 28 (radio- och TV-lagen), 28 (ungdomsarbetslöshet),
@@ -36490,7 +36659,7 @@
           <p>
             391
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0399"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0400"/>
           <p>
             PERSONREGISTER P
           </p>
@@ -36570,7 +36739,7 @@
             97 (senaps- gassanering), 97 (citytunneln i Malmö), 104 (Asienstrategi
             för 2000-talet), 105 (partile-
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0400"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0401"/>
           <p>
             dardebatt inför Europaparlamentsvalet), 111 (partiledardebatt)
           </p>
@@ -36642,7 +36811,7 @@
           <p>
             393
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0401"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0402"/>
           <p>
             PERSONREGISTER P
           </p>
@@ -36715,7 +36884,7 @@
             S0340, S0349 (psykiatrireformen), S0376 (handi- kappolitik), S0379,
             S0446, Kr14, Kr28,
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0402"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0403"/>
           <p>
             Kr30, Kr39, Kr272, Kr509, Kr518, Kr601, Ub7, Ub10, Ub16, Ub20,
             Ub28, Ub241, Ub242, Ub243, Ub246, Ub253, Ub414 (utbildningsplatser
@@ -36781,7 +36950,7 @@
           <p>
             395
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0403"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0404"/>
           <p>
             PERSONREGISTER R
           </p>
@@ -36853,7 +37022,7 @@
             (miljöpolitiken) Skriftliga frågor 6: RD 5, 7 (MATI-avtalet),
             7: RD 5, 7 (MATI-avtalet), 69: RD 21, 26 (djur-
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0404"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0405"/>
           <p>
             skyddslagen), 84: RD 21, 26 (vegetabilisk skolmat), 181: RD 36,
             41 (teckenspråksut- bildning), 816: RD 1, I (bekämpningsmedel
@@ -36925,7 +37094,7 @@
           <p>
             397
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0405"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0406"/>
           <p>
             PERSONREGISTER R
           </p>
@@ -37008,7 +37177,7 @@
             A2 (etnisk diskrimine- ring i arbetslivet), A205, A719 (politik
             och demokrati), A807, Bo236
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0406"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0407"/>
           <p>
             Skriftliga frågor 45: RD 13, 16 (Augusto Pino- chet), 55: RD
             16, 21 (växthusgaser), 80: RD 21, 26 (partnerskapslagen), 210:
@@ -37076,7 +37245,7 @@
           <p>
             399
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0407"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0408"/>
           <p>
             PERSONREGISTER S
           </p>
@@ -37149,7 +37318,7 @@
             mänpolitisk debatt), 53 (utrikespolitisk debatt), 54 (pedagogiken
             i skolan), 58
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0408"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0409"/>
           <p>
             (mänskliga rättigheter i Turkiet), 67 (mänsk- liga rättigheter),
             70 (Agenda 2000), 78 (situationen i Kosovo), 84 (Natos 50-årsju-
@@ -37217,7 +37386,7 @@
           <p>
             401
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0409"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0410"/>
           <p>
             PERSONREGISTER S
           </p>
@@ -37300,7 +37469,7 @@
             (nytt försvarsbeslut), Sf1 (asylpoli- tik), Sf220 (pensioner),
             Sf610 (migration),
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0410"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0411"/>
           <p>
             Sf612 (integrationspolitik), S0277 (social- tjänstlagen), So311
             (de äldre), So380 (familjepolitik), S0391 (sjukvårdspolitik),
@@ -37369,7 +37538,7 @@
           <p>
             403
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0411"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0412"/>
           <p>
             PERSONREGISTER S
           </p>
@@ -37459,7 +37628,7 @@
             T219, T321, T530, MJ409 (ålhuttning), MJ767 (marina reservat),
             N1 Interpellationer 198: RD 65, 78 (arbetsmark- nadsåtgärder)
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0412"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0413"/>
           <p>
             Skriftliga frågor 8: RD 5, 13 (företagsetable- ringar i Östersjöregionen)
             Anföranden 8 (försvarets ekonomi), 66 (total- försvarsplikten)
@@ -37530,7 +37699,7 @@
           <p>
             405
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0413"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0414"/>
           <p>
             PERSONREGISTER S
           </p>
@@ -37599,7 +37768,7 @@
             L419 (vårdnadsären- den), U9, U11, U210, U501, U508, U605, U616,
             Fö210, Sf14 (gränskontroll), Sf232,
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0414"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0415"/>
           <p>
             Sf620 (asylpolitik), Sf626, So14, So18, S0255, S0273 (barn i
             riskzon), S0274, S0276, S0306, S0308, S0309, So0o310, S0366, S0372,
@@ -37666,7 +37835,7 @@
           <p>
             407
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0415"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0416"/>
           <p>
             PERSONREGISTER S
           </p>
@@ -37735,7 +37904,7 @@
             av lagen om tillfälliga bestämmelser i fråga om tillstånd att
             sända
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0416"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0417"/>
           <p>
             lokalradio), 43 (demokratifrågor), 53 (sekre- tess hos uppdragsmyndigheter),
             53 (vallags- frågor), 66 (personuppgiftslagen), 74 (kom- munala
@@ -37803,7 +37972,7 @@
           <p>
             409
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0417"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0418"/>
           <p>
             PERSONREGISTER T
           </p>
@@ -37875,7 +38044,7 @@
             FiU, vEUN, UN, KD Motioner K28, Fil (fondbolag), Fi4 (Riksban-
             ken), Fi6 (budgetuppföljning), Fi7 (investe-
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0418"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0419"/>
           <p>
             rarskydd), Fi9 (Försäkringsregler), Fill (pensionssparande),
             Fi14, Fi18, Fi24 (folk- och bostadsräkning), Fi37, Fi43 (kommunal
@@ -37954,7 +38123,7 @@
           <p>
             411
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0419"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0420"/>
           <p>
             PERSONREGISTER Vv
           </p>
@@ -38025,7 +38194,7 @@
             ring), U623, U627 (Kosovo), U628, U632 (mänskliga rättigheter),
             Fö3, Fö9, Fö21,
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0420"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0421"/>
           <p>
             Fö204, Sf606 (kontaktförmedling av utländ- ska kvinnor), S0235
             (hospisverksamhet), S0324 (kvinnomisshandel), S0400, S0436 (Ädelreformen),
@@ -38098,7 +38267,7 @@
           <p>
             413
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0421"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0422"/>
           <p>
             PERSONREGISTER WW
           </p>
@@ -38169,7 +38338,7 @@
             KrU (12-17-) Motioner K305 (medborgarkontor), K325 (kommunala
             självstyret), SKk721, L416,
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0422"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0423"/>
           <p>
             S0347 (spelberoende), Ub270 (distansun- dervisning), Ub708 (studiestödssystemet),
             T317 (Dackeleden), T318 (Europaväg 45), MJ756 (källsortering),
@@ -38241,7 +38410,7 @@
           <p>
             415
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0423"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0424"/>
           <p>
             PERSONREGISTER WwW
           </p>
@@ -38312,7 +38481,7 @@
             14 (gruppvåldtäkter), 14 (Jordbruksverkets datorsystem), 23 (antibiotika
             i djurfoder), 23 (bankerna och kvinnliga företagare), 23
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0424"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0425"/>
           <p>
             (småskalig livsmedelsindustri), 30 (ungdo- mars syn på sex),
             30 (jordbrukssektorn), 46 (löneskillnader på grund av kön), 46
@@ -38382,7 +38551,7 @@
           <p>
             417
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0425"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0426"/>
           <p>
             PERSONREGISTER Y
           </p>
@@ -38450,7 +38619,7 @@
             Anföranden 23 (utveckling och rättvisa — en politik för storstaden
             på 2000-talet), 31 (samhällsplanering), 109 (kommunala bostadsföretag)
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0426"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0427"/>
           <p>
             Ytterberg, Mariann (s) Västmanl. 1., eRD1 94/95-97/98, RDI 98/99-,
             f. 1941 SfU Motioner U626 (assyriers rättigheter), Föll (värnpliktsvägran),
@@ -38515,7 +38684,7 @@
           <p>
             419
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0427"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0428"/>
           <p>
             ÄT RSONREGISTER
           </p>
@@ -38592,7 +38761,7 @@
             frågor), 74 (naturresursfrågor och vattenrätt), 74 (ägarlägenheter),
             75 (närings- politiska frågor), 88 (återbetalning av bo-
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0428"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0429"/>
           <p>
             stadsbidrag), 97 (ombildning av hyresrätt), 97 (byggfrågor),
             106 (ombildning av hyres- rätt), 109 (kommunala bostadsföretag)
@@ -38665,7 +38834,7 @@
           <p>
             421
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0429"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0430"/>
           <p>
             PERSONREGISTER [0]
           </p>
@@ -38711,7 +38880,7 @@
             92 (mänskliga rättigheter), 92 (CSN:s återbetalningsregler), 106
             (forsk- ningsresurser)
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0430"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199899/reg_199899/reg_199899_0431"/>
           <p>
             Tillägg
           </p>
