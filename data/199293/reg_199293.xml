@@ -19,9 +19,9 @@
   </teiHeader>
   <text>
     <body>
-      <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293/reg_199293_0000"/>
+      <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293/reg_199293_0001"/>
       <div type="gBody">
-        <div>
+        <div type="frontmatter">
           <p>
             1992/93 års riksmöte
           </p>
@@ -31,7 +31,7 @@
           <p>
             Utarbetat av Riksdagens dokument- och registerenhet
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293/reg_199293_0001"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293/reg_199293_0002"/>
           <p>
             DET BUNDNA RIKSDAGSTRYCKETS INDELNING VID 1992/93 ÅRS RIKSMÖTE
           </p>
@@ -115,7 +115,7 @@
           <p>
             Register
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293/reg_199293_0002"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293/reg_199293_0003"/>
           <p>
             1992/93 års riksmöte
           </p>
@@ -125,51 +125,250 @@
           <p>
             Utarbetat av Riksdagens dokument- och registerenhet
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293/reg_199293_0003"/>
+          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293/reg_199293_0004"/>
           <p>
             gotab 47234, Stockholm 1995
           </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293/reg_199293_0004"/>
-          <p>
+        </div>
+        <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293/reg_199293_0005"/>
+        <div type="toc">
+          <head type="toc">
             Innehåll
-          </p>
-          <p>
-            Riksdagstryckets indelning och uppställning s...m.emseerssrrsssssssen
-            IV Förklaringar till SakregiStret somssmmsssssrsrsseresesrsesersrsersernerssrersrerererrr
-            ene n nt Vv Använda förkortningar omsssessesrsrerrrsrrssrrrsresrrsrrsrrrrerrrrrrrsrrrrrrrerrrr
-            rn rr nan VI Ämnesindelning av Motioner m.m. ssssirsnsssssrsrnrnssrsrnnnnn
-            rr nnn nn nnn VII Sakregister PrOpOSitiONCri sossssesserersrrerersesrsrsrerrersrsrrrrrerrrrerersrsrerer
-            ere rss sne r sne r snar en en en ena 1 Förslag och redogörelser
-            oosssssessersrssrresrsreressrsrrserserserrrerrrrrsrsrersrerrren
-            rent 136 MOtionsförteckfillg —ss:sss:ssemsspeseessesssssvsvasvaunssorsnsssspvonssssssnsenssonesa
-            139 Betänkandet mms m-5/su RIND RN 276 UtskottsinitiatiVv osmsnssssserssrsrsesrsesrerserrsrsersesrsrerersrrerererererersrsrsrerenereren
-            enn nnn 336 Interpellationer ossssessesrerrsrrsrrsrrsrrersesrerrersrrrererrrr
-            rr er nr nere renare nen ennen rna 341 BfÄSÖL csr TND RAVIN 352
-            Utfrågningår ooossssssesesrssrsrsrssrsrssrssrersrersrrsrsersrrerssrsrrsrrsrr
-            sn renen er enn r nn enn nn 398 Tillägg Avsägelse.av fiksdägsmannaskäp
-            :s«=:ss.s:ssussisemsmsmsessssssrnuses 400 Regeringsförklaring'.:.:=s=+:ssssswssssssmssmsnssnisisdmsssen
-            seden 400 Ändringar av antalet platser i utskott ..................emmmmmmmmmmm
-            400 Meddelande om ändrad partitillhörighet .........ssssssssssssesserersrrssnrnn
-            400 Avlidiia ledäliötör -ss:ss:sessvesvesesssssussnersssnsessonassaseneessessanenses
-            sees sssns 400 Val inom rikSCageD sssmssesrssresreereerrsrerrerrsrerrrrsreresrrrrrererrsr
-            er renen rr nen 400 UtskOttsyttranden s....sssssssesssersresesrerserseserrsrerrrsrerererersrsrsrsrsrrn
-            sr er rn er ena 402 ÅterTeMiSS oosnrossssssssrssrsrrrrrrssrrrrrrrrrrrr
-            rr rr rr rn sr rn renen ennen een a aa aan ana 406 Uppskovsbeslut
-            1992/03 (sssmusemsssemssnwsssssonumssussmsssvssasssme 406 Allmänna
-            debatter s..sssmsmssssrerererrerrrrsrrseseresrsrsrsrsrsrsrsrrrrrr
-            rr er rn nr nn 407 INC oosreersrserssrsesrsrsrsererererererersrsrer
-            ere rr reses en ense een rasen er rasen ense en anses ene n nn
-            408 PerSsOnregiSter ossssssssssrseresrerrssrerrrrrrrrrsrsrerrrsrsrsrrrrsr
-            ere ns renen ene n en ennen enn 489 Tillägg: ErSättarnas. tjänstgör
-            :.eeesomsscssswsmsswcdsesssesasssnssvessoussssesn 619
-          </p>
-          <p>
-            II
-          </p>
-          <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293/reg_199293_0005"/>
-          <p>
+          </head>
+          <head>
+            Innehåll
+          </head>
+          <list>
+            <item>
+              <list>
+                <item>
+                  <seg>
+                    Riksdagstryckets indelning och uppställning
+                  </seg>
+                  <ref type="page">
+                    IV
+                  </ref>
+                </item>
+                <item>
+                  <seg>
+                    Förklaringar till registret
+                  </seg>
+                  <ref type="page">
+                    V
+                  </ref>
+                </item>
+                <item>
+                  <seg>
+                    Använda förkortningar
+                  </seg>
+                  <ref type="page">
+                    VII
+                  </ref>
+                </item>
+                <item>
+                  <seg>
+                    Ämnesindelning av motioner
+                  </seg>
+                  <ref type="page">
+                    VIII
+                  </ref>
+                </item>
+              </list>
+            </item>
+            <item>
+              <seg>
+                Sakregister
+              </seg>
+              <list>
+                <item>
+                  <seg>
+                    Propositioner
+                  </seg>
+                  <ref type="page">
+                    1
+                  </ref>
+                </item>
+                <item>
+                  <seg>
+                    Förslag och redogörelser
+                  </seg>
+                  <ref type="page">
+                    136
+                  </ref>
+                </item>
+                <item>
+                  <seg>
+                    Motionsförteckning
+                  </seg>
+                  <ref type="page">
+                    139
+                  </ref>
+                </item>
+                <item>
+                  <seg>
+                    Betänkanden
+                  </seg>
+                  <ref type="page">
+                    276
+                  </ref>
+                </item>
+                <item>
+                  <seg>
+                    Utskottsinitiativ
+                  </seg>
+                  <ref type="page">
+                    336
+                  </ref>
+                </item>
+                <item>
+                  <seg>
+                    Interpellationer
+                  </seg>
+                  <ref type="page">
+                    341
+                  </ref>
+                </item>
+                <item>
+                  <seg>
+                    Frågor
+                  </seg>
+                  <ref type="page">
+                    352
+                  </ref>
+                </item>
+                <item>
+                  <seg>
+                    Utfrågningar
+                  </seg>
+                  <ref type="page">
+                    398
+                  </ref>
+                </item>
+                <item>
+                  <seg>
+                    Tillägg: Val m.m.
+                  </seg>
+                  <list>
+                    <item>
+                      <seg>
+                        Avsägelser av riksdagsmannaskap
+                      </seg>
+                      <ref type="page">
+                        400
+                      </ref>
+                    </item>
+                    <item>
+                      <seg>
+                        Regeringsförklaring
+                      </seg>
+                      <ref type="page">
+                        400
+                      </ref>
+                    </item>
+                    <item>
+                      <seg>
+                        Ändringar av antalet platser i utskott
+                      </seg>
+                      <ref type="page">
+                        400
+                      </ref>
+                    </item>
+                    <item>
+                      <seg>
+                        Meddelande om ändrad partitillhörighet
+                      </seg>
+                      <ref type="page">
+                        400
+                      </ref>
+                    </item>
+                    <item>
+                      <seg>
+                        Avlinda ledemöter
+                      </seg>
+                      <ref type="page">
+                        400
+                      </ref>
+                    </item>
+                    <item>
+                      <seg>
+                        Val inom riksdagen
+                      </seg>
+                      <ref type="page">
+                        400
+                      </ref>
+                    </item>
+                    <item>
+                      <seg>
+                        Utskottsyttranden
+                      </seg>
+                      <ref type="page">
+                        402
+                      </ref>
+                    </item>
+                    <item>
+                      <seg>
+                        Återremiss
+                      </seg>
+                      <ref type="page">
+                        406
+                      </ref>
+                    </item>
+                    <item>
+                      <seg>
+                        Uppskovsbeslut 1991/92
+                      </seg>
+                      <ref type="page">
+                        406
+                      </ref>
+                    </item>
+                    <item>
+                      <seg>
+                        Allmänna debatter
+                      </seg>
+                      <ref type="page">
+                        407
+                      </ref>
+                    </item>
+                  </list>
+                </item>
+                <item>
+                  <seg>
+                    Index
+                  </seg>
+                  <ref type="page">
+                    408
+                  </ref>
+                </item>
+              </list>
+            </item>
+            <item>
+              <seg>
+                Personregister
+              </seg>
+              <ref type="page">
+                489
+              </ref>
+              <list>
+                <item>
+                  <seg>
+                    Tillägg: Ersätternas tjänstgörning
+                  </seg>
+                  <ref type="page">
+                    619
+                  </ref>
+                </item>
+              </list>
+            </item>
+          </list>
+        </div>
+        <note type="pagenumber">
+          II
+        </note>
+        <pb facs="https://swerik-project.github.io/riksdagen-volumeG-pdf/199293/reg_199293/reg_199293_0006"/>
+        <div type="main">
+          <head>
             Riksdagstryckets indelning och uppställning
-          </p>
+          </head>
           <p>
             Riksdagstryckets indelning och uppställning utgår från riksdagens
             beslut, återgivna i riksdagens protokoll. Övriga dokument, såsom

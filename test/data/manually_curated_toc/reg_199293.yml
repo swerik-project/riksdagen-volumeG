@@ -1,0 +1,90 @@
+---
+Innehåll:
+  - i: ~
+    t: ~
+    p: ~
+    children:
+      - i: ~
+        t: "Riksdagstryckets indelning och uppställning"
+        p: "IV"
+      - i: ~
+        t: "Förklaringar till registret"
+        p: "V"
+      - i: ~
+        t: "Använda förkortningar"
+        p: "VII"
+      - i: ~
+        t: "Ämnesindelning av motioner"
+        p: "VIII"
+  - i: ~
+    t: "Sakregister"
+    p: ~
+    children:
+      - i: ~
+        t: "Propositioner"
+        p: "1"
+      - i: ~
+        t: "Förslag och redogörelser"
+        p: "136"
+      - i: ~
+        t: "Motionsförteckning"
+        p: "139"
+      - i: ~
+        t: "Betänkanden"
+        p: "276"
+      - i: ~
+        t: "Utskottsinitiativ"
+        p: "336"
+      - i: ~
+        t: "Interpellationer"
+        p: "341"
+      - i: ~
+        t: "Frågor"
+        p: "352"
+      - i: ~
+        t: "Utfrågningar"
+        p: "398"
+      - i: ~
+        t: "Tillägg: Val m.m."
+        p: ~
+        children:
+          - i: ~
+            t: "Avsägelser av riksdagsmannaskap"
+            p: "400"
+          - i: ~
+            t: "Regeringsförklaring"
+            p: "400"
+          - i: ~
+            t: "Ändringar av antalet platser i utskott"
+            p: "400"
+          - i: ~
+            t: "Meddelande om ändrad partitillhörighet"
+            p: "400"
+          - i: ~
+            t: "Avlinda ledemöter"
+            p: "400"
+          - i: ~
+            t: "Val inom riksdagen"
+            p: "400"
+          - i: ~
+            t: "Utskottsyttranden"
+            p: "402"
+          - i: ~
+            t: "Återremiss"
+            p: "406"
+          - i: ~
+            t: "Uppskovsbeslut 1991/92"
+            p: "406"
+          - i: ~
+            t: "Allmänna debatter"
+            p: "407"
+      - i: ~
+        t: "Index"
+        p: "408"
+  - i: ~
+    t: "Personregister"
+    p: "489"
+    children:
+      - i: ~
+        t: "Tillägg: Ersätternas tjänstgörning"
+        p: "619"

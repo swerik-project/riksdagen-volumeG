@@ -1,0 +1,87 @@
+---
+Innehåll:
+  - i: ~
+    t: "Sakregister"
+    p: ~
+    children:
+      - i: ~
+        t: "Förklaringar"
+        p: "IX"
+      - i: ~
+        t: "Förkortningar"
+        p: "XI"
+      - i: ~
+        t: "Propositioner och skrivelser"
+        p: "1"
+      - i: ~
+        t: "Regeringskansliets Faktapromemorior"
+        p: "51"
+      - i: ~
+        t: "Förslag och redogörelser"
+        p: "58"
+      - i: ~
+        t: "Motioner"
+        p: "64"
+      - i: ~
+        t: "Interpellationer"
+        p: "219"
+      - i: ~
+        t: "Skriftliga frågor"
+        p: "248"
+      - i: ~
+        t: "Betänkanden"
+        p: "331"
+      - i: ~
+        t: "Utskottsinitiativ"
+        p: "385"
+      - i: ~
+        t: "Utskottens och EU-nämndens yttranden"
+        p: "388"
+      - i: ~
+        t: "Utskotens och EU-nämndens offentliga utfrågningar"
+        p: "391"
+      - i: ~
+        t: "Tillägg:"
+        p: ~
+        children:
+          - i: ~
+            t: "Regeringsförklaring"
+            p: "395"
+          - i: ~
+            t: "Större debatter"
+            p: "395"
+          - i: ~
+            t: "Särskilda debatter"
+            p: "395"
+          - i: ~
+            t: "Ändringar av antalet platser i utskott och EU-nämnden"
+            p: "395"
+          - i: ~
+            t: "Val inom riksdagen"
+            p: "395"
+      - i: ~
+        t: "Index"
+        p: "397"
+  - i: ~
+    t: "Personregister"
+    p: "495"
+    children:
+      - i: ~
+        t: "Tillägg:"
+        p: ~
+        children:
+          - i: ~
+            t: "Ersätternas tjänstgörning"
+            p: "631"
+          - i: ~
+            t: "Ändrad partitillhörighet"
+            p: "631"
+          - i: ~
+            t: "Ledamöter som avgått"
+            p: "631"
+          - i: ~
+            t: "Ledamöter som tillkommit"
+            p: "631"
+          - i: ~
+            t: "Avlidna ledamöter"
+            p: "631"

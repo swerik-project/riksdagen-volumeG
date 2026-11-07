@@ -1,0 +1,78 @@
+---
+Innehåll:
+  - i: ~
+    t: "Sakregister"
+    p: ~
+    children:
+      - i: ~
+        t: "Förklaringar"
+        p: "IX"
+      - i: ~
+        t: "Förkortningar"
+        p: "XI"
+      - i: ~
+        t: "Ämnesindelning av motioner"
+        p: "XII"
+      - i: ~
+        t: "Propositioner"
+        p: "1"
+      - i: ~
+        t: "Förslag och redogörelser"
+        p: "47"
+      - i: ~
+        t: "Motionsförteckning"
+        p: "50"
+      - i: ~
+        t: "Interpellationer"
+        p: "141"
+      - i: ~
+        t: "Frågor"
+        p: "163"
+      - i: ~
+        t: "Utskottsbetänkanden"
+        p: "209"
+      - i: ~
+        t: "Utskottsinitiativ"
+        p: "242"
+      - i: ~
+        t: "Utskottens yttranden"
+        p: "244"
+      - i: ~
+        t: "Utfrågningar"
+        p: "247"
+      - i: ~
+        t: "Tillägg:"
+        p: ~
+        children:
+          - i: ~
+            t: "Regeringsförklaring"
+            p: "250"
+          - i: ~
+            t: "Större debatter"
+            p: "250"
+          - i: ~
+            t: "Särskilda debatter"
+            p: "250"
+          - i: ~
+            t: "Ändringar av antalet platser i utskott"
+            p: "250"
+          - i: ~
+            t: "Val inom riksdagen"
+            p: "250"
+      - i: ~
+        t: "Index"
+        p: "252"
+  - i: ~
+    t: "Personregister"
+    p: "319"
+    children:
+      - i: ~
+        t: "Tillägg:"
+        p: ~
+        children:
+          - i: ~
+            t: "Ersätternas tjänstgörning"
+            p: "423"
+          - i: ~
+            t: "Avsägelse av riksdagsmannaskap"
+            p: "423"
